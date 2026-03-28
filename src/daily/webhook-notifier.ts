@@ -101,19 +101,16 @@ function buildSlackPayload(draft: PolishedDraft): object {
 // ── Discord Embed ──
 
 function buildDiscordPayload(draft: PolishedDraft, mentionUserId?: string): object {
-  const mention = mentionUserId ? `<@${mentionUserId}>` : "";
+  const mention = mentionUserId ? `<@${mentionUserId}> ` : "";
+
+  // 投稿文はプレーンテキスト（content）で送信 → そのままコピペ可能
+  // メタ情報だけ Embed に分離
   return {
-    content: mention ? `${mention} 本日の LinkedIn ドラフトができました!` : undefined,
+    content: `${mention}📝 **本日の LinkedIn ドラフト**\n\n${draft.formatted}`,
     embeds: [
       {
-        title: `📝 ${draft.topic}`,
-        description: draft.formatted,
-        color: 0x0077b5, // LinkedIn blue
-        fields: [
-          { name: "📄 論文", value: `[${truncate(draft.paperTitle, 80)}](${draft.paperLink})`, inline: false },
-        ],
-        footer: { text: "linkedin-neuro-draft | デイリー自動生成" },
-        timestamp: new Date().toISOString(),
+        description: `📄 [${truncate(draft.paperTitle, 80)}](${draft.paperLink})`,
+        color: 0x0077b5,
       },
     ],
   };
