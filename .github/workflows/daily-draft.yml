@@ -1,0 +1,42 @@
+name: LinkedIn Neuro Draft Generator
+
+on:
+  schedule:
+    # 3時間おき (UTC 0,3,6,9,12,15,18,21 = JST 9,12,15,18,21,0,3,6)
+    - cron: "0 */3 * * *"
+  workflow_dispatch: # 手動実行用
+
+jobs:
+  generate-draft:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - run: npm ci
+
+      - run: npm run build
+
+      - name: Run daily pipeline
+        env:
+          RSS_FEEDS: ${{ secrets.RSS_FEEDS }}
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          WEBHOOK_TYPE: ${{ secrets.WEBHOOK_TYPE }}
+          DISCORD_MENTION_USER_ID: ${{ secrets.DISCORD_MENTION_USER_ID }}
+          HISTORY_FILE: .daily-history.json
+          MAX_HISTORY_DAYS: "30"
+        run: node dist/daily-run.js
+
+      - name: Commit history file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .daily-history.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "chore: update daily history [skip ci]"
+          git push || true
