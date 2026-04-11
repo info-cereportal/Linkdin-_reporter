@@ -104,15 +104,27 @@ function buildDiscordPayload(draft: PolishedDraft, mentionUserId?: string): obje
   const mention = mentionUserId ? `<@${mentionUserId}> ` : "";
 
   // 投稿文はプレーンテキスト（content）で送信 → そのままコピペ可能
-  // メタ情報だけ Embed に分離
+  // メタ情報・図表は Embed に分離してリッチ表示
+  const embed: Record<string, unknown> = {
+    title: `📄 ${truncate(draft.paperTitle, 200)}`,
+    url: draft.paperLink,
+    description: [
+      `🏷️ **トピック:** ${draft.topic}`,
+      `📊 **リスクスコア:** ${draft.riskScore}/100`,
+      `🎨 **テンプレート:** ${draft.templateName}`,
+    ].join("\n"),
+    color: 0x0077b5,
+    footer: { text: "LinkedIn Neuro Draft Generator | 3時間おき自動生成" },
+  };
+
+  // 論文の図表が取得できた場合はEmbedに画像として表示
+  if (draft.figureUrl) {
+    embed.image = { url: draft.figureUrl };
+  }
+
   return {
-    content: `${mention}📝 **本日の LinkedIn ドラフト**\n\n${draft.formatted}`,
-    embeds: [
-      {
-        description: `📄 [${truncate(draft.paperTitle, 80)}](${draft.paperLink})`,
-        color: 0x0077b5,
-      },
-    ],
+    content: `${mention}📝 **新しい LinkedIn ドラフト**\n\n${draft.formatted}`,
+    embeds: [embed],
   };
 }
 

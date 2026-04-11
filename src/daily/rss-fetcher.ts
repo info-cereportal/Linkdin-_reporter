@@ -211,3 +211,44 @@ function cleanText(text: string): string {
     .replace(/\s+/g, " ")
     .trim();
 }
+
+// ────────────────────────────────────────────
+// 論文の図表URL抽出（ベストエフォート）
+// ────────────────────────────────────────────
+
+/**
+ * arXiv 論文の HTML バージョンから最初の図表画像URLを取得する。
+ * 取得できない場合は null を返す（エラーは握りつぶす）。
+ */
+export async function extractPaperFigure(paperLink: string): Promise<string | null> {
+  try {
+    // arXiv ID を抽出
+    const match = paperLink.match(/arxiv\.org\/abs\/([^\s?#]+)/);
+    if (!match) return null;
+
+    const arxivId = match[1].replace(/v\d+$/, "");
+    const htmlUrl = `https://arxiv.org/html/${arxivId}`;
+
+    const response = await fetch(htmlUrl, {
+      headers: { "User-Agent": "linkedin-neuro-draft/0.1.0" },
+      signal: AbortSignal.timeout(10_000),
+    });
+
+    if (!response.ok) return null;
+
+    const html = await response.text();
+
+    // <figure> 内の <img src="..."> を探す
+    const figRegex = /<figure[^>]*>[\s\S]*?<img[^>]*src="([^"]+)"[^>]*>/gi;
+    const figMatch = figRegex.exec(html);
+    if (!figMatch) return null;
+
+    const imgSrc = figMatch[1];
+    // 相対URLを絶対URLに変換
+    if (imgSrc.startsWith("http")) return imgSrc;
+    if (imgSrc.startsWith("/")) return `https://arxiv.org${imgSrc}`;
+    return `https://arxiv.org/html/${arxivId}/${imgSrc}`;
+  } catch {
+    return null;
+  }
+}

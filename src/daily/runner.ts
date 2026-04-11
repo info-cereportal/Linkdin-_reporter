@@ -6,7 +6,7 @@
 
 import { readFile, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
-import { fetchPapers, type PaperInfo } from "./rss-fetcher.js";
+import { fetchPapers, extractPaperFigure, type PaperInfo } from "./rss-fetcher.js";
 import { polishDraft, type PolishedDraft } from "./post-polisher.js";
 import { notifyWebhook } from "./webhook-notifier.js";
 
@@ -197,8 +197,17 @@ export async function runDailyPipeline(): Promise<DailyResult> {
 
   console.log(`   → 選定: ${paper.title.substring(0, 80)}...`);
 
+  console.log("🖼️  論文の図表を取得中...");
+  const figureUrl = await extractPaperFigure(paper.link);
+  if (figureUrl) {
+    console.log(`   → 図表URL: ${figureUrl}`);
+  } else {
+    console.log("   → 図表の取得をスキップ（HTML版なし）");
+  }
+
   console.log("✍️  ドラフトを生成・推敲中...");
   const draft = polishDraft(paper, dayOfYear);
+  draft.figureUrl = figureUrl ?? undefined;
 
   if (config.webhookUrl) {
     console.log("📤 Webhook に通知中...");

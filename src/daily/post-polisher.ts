@@ -236,11 +236,52 @@ function inferThemeArea(text: string): string {
 }
 
 // ────────────────────────────────────────────
+// データポイント抽出
+// ────────────────────────────────────────────
+
+/** 論文 abstract から数値データ・主要発見を抽出する */
+function extractDataPoints(abstract: string): string[] {
+  if (!abstract || abstract.length < 30) return [];
+
+  const sentences = abstract.split(/(?<=[.!?])\s+/).filter((s) => s.length > 15);
+  const patterns = [
+    /\d+\.?\d*\s*%/,
+    /\d+\.?\d*[-–]fold/,
+    /p\s*[<>=]\s*0?\.\d+/i,
+    /\baccuracy\b.*\d/i,
+    /\bperformance\b.*\d/i,
+    /\bimproved?\b.*\d/i,
+    /\bsignificant(?:ly)?\b/i,
+    /\bfirst\s+(?:time|demonstration|evidence|report)\b/i,
+    /\bnovel\b/i,
+    /\bstate[- ]of[- ]the[- ]art\b/i,
+    /\boutperform/i,
+    /\bsuperior\b/i,
+    /\brobust\b/i,
+  ];
+
+  const found: string[] = [];
+  for (const sentence of sentences) {
+    if (patterns.some((p) => p.test(sentence)) && found.length < 3) {
+      const clean =
+        sentence.length > 180
+          ? sentence.substring(0, 180).replace(/\s\S*$/, "...")
+          : sentence;
+      found.push(clean);
+    }
+  }
+  return found;
+}
+
+// ────────────────────────────────────────────
 // 投稿テンプレート
 //
 // ターゲット: 脳科学研究者・AI技術者・アナリスト
-// トーン: 技術内容を「知ってほしい」という熱量で共有
-// スタイル: 専門家同士のピアトゥピア、技術用語は自信を持って使用
+// トーン: 明確な主張と具体的データで読者の行動を引き出す
+// スタイル: LinkedIn でView・エンゲージメントを稼ぐ構造
+//
+// LinkedIn の「もっと見る」は約210文字。
+// 冒頭の2-3行で読者の興味を掴むことが最重要。
 // ────────────────────────────────────────────
 
 interface PostTemplate {
@@ -249,162 +290,153 @@ interface PostTemplate {
 }
 
 const TEMPLATES: PostTemplate[] = [
-  // ── パターン1: 研究紹介型 ──
-  // 「この研究、知ってほしい」というストレートな共有
+  // ── パターン1: 常識覆し型 ──
   {
-    name: "research-share",
+    name: "paradigm-shift",
     build: (topic, paper, excerpt) => `\
-${topic.japaneseTopic}に関する研究で、注目すべき成果が出ています。
+${topic.japaneseTopic}に関する「常識」が、
+この研究で大きく揺らいでいます。
 
 ${excerpt}
 
-${topic.themeArea}の領域において、
-この知見が持つインパクトは小さくないと考えています。
+これまでの定説では説明しきれない現象が、
+データで裏付けられ始めている。
 
-特に、脳情報処理の理解が進むことで、
-AI アーキテクチャや信号処理手法への示唆も得られる——
-そういう段階に来ていると感じます。
+${topic.themeArea}の研究が示す方向性は明確です。
+従来のモデルの限界を認め、
+新しいフレームワークを構築すべきフェーズに入っている。
 
-まだ検証が必要な部分はありますが、
-この方向性は押さえておく価値があります。
+この知見はAIアーキテクチャの設計にも
+直接的な示唆を与えると考えています。
 
 📄 ${paper.title}
-${paper.link}
-
-この領域に取り組んでいる方、ぜひ意見を聞かせてください。`,
+🔗 ${paper.link}`,
   },
 
-  // ── パターン2: 技術的示唆型 ──
-  // 研究結果から技術的な展望を引き出す
+  // ── パターン2: データドリブン型 ──
   {
-    name: "tech-implication",
+    name: "data-driven",
     build: (topic, paper, excerpt) => `\
-${topic.japaneseTopic}——
-この分野の最新研究が、技術的に面白い方向を示しています。
+数字が語る、${topic.japaneseTopic}の新事実。
+
+最新の研究がインパクトのあるデータを示しています。
 
 ${excerpt}
 
-ここから読み取れる技術的な示唆は大きい。
+なぜこの数字が重要か。
 
-脳の情報処理メカニズムの解明は、
-ニューラルネットワーク設計や
-デコーディング手法の改善に直結する可能性があります。
+${topic.themeArea}において、
+定量的な裏付けのある知見は
+仮説から「科学的事実」への転換点になり得る。
 
-神経科学と AI の接点は年々太くなっている。
-この研究もその流れの中にある重要な一報です。
+再現性と実用性の両立——
+この研究はその道筋を明確に示しています。
 
 📄 ${paper.title}
-${paper.link}
-
-AI 側・神経科学側、どちらの視点からも
-コメントいただけると嬉しいです。`,
+🔗 ${paper.link}`,
   },
 
-  // ── パターン3: 問題提起型 ──
-  // 研究の意義を問いとして投げかける
+  // ── パターン3: 3つの示唆型 ──
   {
-    name: "problem-framing",
+    name: "three-insights",
     build: (topic, paper, excerpt) => `\
-一つ、問いを投げかけたい。
+この研究から得られる3つの重要な示唆。
 
+${topic.japaneseTopic}の最新成果を整理しました。
+
+${excerpt}
+
+①【方法論の革新】
+この研究が採用したアプローチ自体が、
+${topic.themeArea}の今後の標準になり得る。
+
+②【分野横断の波及効果】
+神経科学に留まらず、
+AI設計やデータサイエンスへの応用可能性が高い。
+
+③【未解決の問い】
+この成果が新たに投げかける問いにも注目すべき。
+次のブレイクスルーの種はここにある。
+
+📄 ${paper.title}
+🔗 ${paper.link}`,
+  },
+
+  // ── パターン4: 未来予測型 ──
+  {
+    name: "future-vision",
+    build: (topic, paper, excerpt) => `\
+2030年の脳科学は、今とは全く違う風景になる。
+
+その布石の一つが、
+${topic.japaneseTopic}の最新研究です。
+
+${excerpt}
+
+この研究が切り開く可能性：
+
+→ より精密なAIアーキテクチャの設計
+→ 神経疾患の早期診断・介入戦略
+→ ヒトの認知能力の理解と拡張
+
+基礎研究の一報が、
+これだけの応用可能性を秘めている。
+
+研究者もエンジニアも、この流れは見逃せません。
+
+📄 ${paper.title}
+🔗 ${paper.link}`,
+  },
+
+  // ── パターン5: 脳科学×AI融合型 ──
+  {
+    name: "neuro-ai-bridge",
+    build: (topic, paper, excerpt) => `\
+脳科学とAI——その境界線が消えつつある。
+
+${topic.japaneseTopic}に関する本研究が、
+両分野を橋渡しする決定的な知見を示しています。
+
+${excerpt}
+
+注目すべきは、
+脳の情報処理原理と
+最新のAIアルゴリズムの間に
+驚くほどの類似性が見られること。
+
+${topic.themeArea}の知見が
+次世代の計算モデルを設計するヒントになる。
+この研究はその仮説を強力に支持しています。
+
+神経科学者とAIエンジニア、
+今こそ対話が必要な時です。
+
+📄 ${paper.title}
+🔗 ${paper.link}`,
+  },
+
+  // ── パターン6: 挑発的問いかけ型 ──
+  {
+    name: "provocative-question",
+    build: (topic, paper, excerpt) => `\
 ${topic.japaneseTopic}について、
-私たちはどこまで理解できているのか？
+私たちの理解は10年後「完全に間違っていた」
+と言われるかもしれない。
 
 ${excerpt}
 
-この研究は、その問いに対する
-一つの重要なアプローチを示しています。
+この研究が示唆する方向性は、
+現在の主流パラダイムとは異なる道を指している。
 
-もちろん、単一の研究で全体像が見えるわけではない。
-しかし、${topic.themeArea}の文脈で見ると、
-従来の理解を更新するデータが蓄積されてきている。
+もちろん、一つの研究で全てが変わるわけではない。
+しかし${topic.themeArea}の文脈で俯瞰すると、
+パラダイムシフトの予兆が確実に見えてくる。
 
-分野横断的に議論すべきテーマだと思います。
-
-📄 ${paper.title}
-${paper.link}
-
-この研究テーマについて、
-どのような展開が考えられるでしょうか？`,
-  },
-
-  // ── パターン4: 分野横断型 ──
-  // 脳科学 × AI/工学の接点を強調
-  {
-    name: "cross-domain",
-    build: (topic, paper, excerpt) => `\
-脳科学と AI の境界が、また一つ薄くなった。
-
-${topic.japaneseTopic}に関する最新の研究成果です。
-
-${excerpt}
-
-この成果の注目点は、
-神経科学的な知見が計算論的モデルや
-工学的応用へ接続可能な形で提示されていること。
-
-脳の情報表現を理解することは、
-次世代の AI アーキテクチャを考えるうえでも
-避けて通れないテーマになりつつあります。
+この研究が転換点だったと
+後から振り返る日が来るかもしれない。
 
 📄 ${paper.title}
-${paper.link}
-
-ニューロサイエンスとAI、
-両方の視点を持つ方にぜひ読んでほしい一報です。`,
-  },
-
-  // ── パターン5: 3つの着眼点型 ──
-  // 構造化された技術的ポイント
-  {
-    name: "three-points",
-    build: (topic, paper, excerpt) => `\
-${topic.japaneseTopic}の最新研究を読んで、
-3つの着眼点を整理しました。
-
-${excerpt}
-
-① この研究が従来手法と異なるアプローチを取っている点。
-新しい知見を引き出す方法論自体に学ぶところがある。
-
-② ${topic.themeArea}における位置づけ。
-この分野の研究蓄積の中で、どういう貢献をしているか。
-
-③ 今後の発展可能性。
-AI技術や臨床応用との接続点が見えてくる。
-
-研究の詳細はこちら:
-📄 ${paper.title}
-${paper.link}
-
-同領域の研究者・エンジニアの方、
-補足や異なる解釈があればぜひ共有してください。`,
-  },
-
-  // ── パターン6: 動向整理型 ──
-  // 一報の論文を分野全体の文脈に位置づける
-  {
-    name: "trend-context",
-    build: (topic, paper, excerpt) => `\
-${topic.japaneseTopic}の研究動向を追っている方に共有です。
-
-${excerpt}
-
-この領域は近年、急速に知見が蓄積されています。
-
-特に${topic.themeArea}の観点から見ると、
-データ駆動型のアプローチと
-仮説検証型の実験デザインが
-うまく噛み合い始めている印象を受けます。
-
-一つ一つの研究から全体像を読み取る——
-そのための情報として、押さえておきたい一報です。
-
-📄 ${paper.title}
-${paper.link}
-
-この分野の最近の動向について、
-皆さんはどう見ていますか？`,
+🔗 ${paper.link}`,
   },
 ];
 
@@ -413,30 +445,50 @@ ${paper.link}
 // ────────────────────────────────────────────
 
 /**
- * 英語 abstract から投稿用の引用テキストを構成する。
- * 専門家向けのため、原文を尊重しつつ文脈を補足。
+ * 論文 abstract から日本語フレーミング付きの要約を構成する。
+ *
+ * 戦略:
+ * - 数値データがあれば「📊 注目データ」として目立たせる
+ * - キーワードを日本語で提示してコンテキストを与える
+ * - 英語原文はデータ文のみ引用し、残りは日本語で構造化
  */
 function buildAbstractExcerpt(paper: PaperInfo, topic: TopicInfo): string {
   const abstract = paper.abstract;
 
   if (!abstract || abstract.length < 20) {
-    return `${topic.japaneseTopic}に関する最新の研究成果が報告されました。\n` +
-      `詳細は以下の論文をご確認ください。`;
+    return `${topic.japaneseTopic}に関する画期的な研究成果が報告されました。`;
   }
 
-  // abstract から最初の2-3文を抽出
-  const sentences = abstract.split(/(?<=[.!?])\s+/).filter((s) => s.length > 10);
-  const excerpt = sentences.slice(0, 3).join(" ");
-  const truncated = excerpt.length > 350 ? excerpt.substring(0, 350).replace(/\s\S*$/, "...") : excerpt;
+  const dataPoints = extractDataPoints(abstract);
+  const keyTerms = topic.keywords.slice(0, 4);
 
-  // 技術的な文脈補足
-  const keyTerms = topic.keywords.slice(0, 3);
-  const termNote = keyTerms.length > 0
-    ? `【関連キーワード: ${keyTerms.join(" / ")}】`
-    : "";
+  const parts: string[] = [];
 
-  return `${termNote}\n\n` +
-    `> ${truncated}`;
+  // キーワードをコンテキストとして提示
+  if (keyTerms.length > 0) {
+    parts.push(`🔬 ${keyTerms.join(" × ")}`);
+  }
+
+  // データポイントがあれば強調表示
+  if (dataPoints.length > 0) {
+    parts.push("");
+    parts.push("📊 注目すべきデータ：");
+    for (const dp of dataPoints) {
+      parts.push(`→ ${dp}`);
+    }
+  } else {
+    // データがない場合は abstract の冒頭を要約的に引用
+    const sentences = abstract.split(/(?<=[.!?])\s+/).filter((s) => s.length > 10);
+    const firstTwo = sentences.slice(0, 2).join(" ");
+    const truncated =
+      firstTwo.length > 280
+        ? firstTwo.substring(0, 280).replace(/\s\S*$/, "...")
+        : firstTwo;
+    parts.push("");
+    parts.push(`> ${truncated}`);
+  }
+
+  return parts.join("\n");
 }
 
 // ────────────────────────────────────────────
@@ -458,6 +510,8 @@ export interface PolishedDraft {
   paperLink: string;
   /** 論文タイトル */
   paperTitle: string;
+  /** 論文の図表URL（取得できた場合） */
+  figureUrl?: string;
 }
 
 /**
