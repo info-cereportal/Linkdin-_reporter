@@ -1,5 +1,52 @@
 [
   {
+    "generatedAt": "2026-05-01T08:24:34.080Z",
+    "date": "2026-05-01",
+    "topic": "脳情報科学の最新研究",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Effect of an auditory static distractor on the perception of an auditory moving target",
+    "paperLink": "https://arxiv.org/abs/2510.25119",
+    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、脳情報科学の最新研究の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 脳情報科学\n\n> It is known that listeners lose the ability to discriminate the direction of motion of a revolving sound (clockwise vs. counterclockwise) beyond a critical velocity (\"the upper limit\"), likely due to degraded front-back discrimination.\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Effect of an auditory static distractor on the perception of an auditory moving target\n🔗 https://arxiv.org/abs/2510.25119\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #DeepLearning",
+    "summaryJP": "脳情報科学の最新研究 — 数値で示された新事実",
+    "paperAuthors": "Noa Kemp, Cynthia Tarlao, Catherine Guastavino, B. Suresh Krishna",
+    "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+    "paperId": "2510.25119",
+    "paperSource": "arxiv",
+    "themeArea": "脳情報科学",
+    "jpKeywords": [
+      "脳情報科学"
+    ],
+    "abstractExcerpt": "It is known that listeners lose the ability to discriminate the direction of motion of a revolving sound (clockwise vs. counterclockwise) beyond a critical velocity (\"the upper limit\"), likely due to degraded front-back discrimination.…",
+    "figureUrls": []
+  },
+  {
+    "generatedAt": "2026-05-01T08:22:59.454Z",
+    "date": "2026-05-01",
+    "topic": "脳情報科学の最新研究",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Simulating Infant First-Person Sensorimotor Experience via Motion Retargeting from Babies to Humanoids",
+    "paperLink": "https://arxiv.org/abs/2604.27583",
+    "figureUrl": "https://arxiv.org/html/2604.27583/2604.27583v1/x1.png",
+    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、脳情報科学の最新研究の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 脳情報科学\n\n> Motion retargeting from humans to human-like artificial agents is becoming increasingly important as humanoid robots grow more capable. However, most existing approaches focus only on reproducing kinematics and ignore the rich sensorimotor experience associated with human...\n\nなぜこの数字が重要か。\n\n臨床・精神医学応用において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Simulating Infant First-Person Sensorimotor Experience via Motion Retargeting from Babies to Humanoids\n🔗 https://arxiv.org/abs/2604.27583\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #計算論的神経科学",
+    "summaryJP": "脳情報科学の最新研究 — 数値で示された新事実（臨床・精神医学応用）",
+    "paperAuthors": "Francisco M. López, Hoshinori Kanazawa, Ondrej Fiala, Yakov Balashov, Valentin Marcel, Lukas Rustler, Miles Lenz, Dongmin Kim, Yasuo Kuniyoshi, Jochen Triesch, Matej Hoffmann",
+    "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+    "paperId": "2604.27583",
+    "paperSource": "arxiv",
+    "themeArea": "臨床・精神医学応用",
+    "jpKeywords": [
+      "脳情報科学"
+    ],
+    "abstractExcerpt": "Motion retargeting from humans to human-like artificial agents is becoming increasingly important as humanoid robots grow more capable. However, most existing approaches focus only on reproducing kinematics and ignore the rich sensorimotor…",
+    "figureUrls": [
+      "https://arxiv.org/html/2604.27583/2604.27583v1/x1.png",
+      "https://arxiv.org/html/2604.27583/2604.27583v1/x2.png",
+      "https://arxiv.org/html/2604.27583/2604.27583v1/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-01T08:11:34.425Z",
     "date": "2026-05-01",
     "topic": "学習と記憶",

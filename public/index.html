@@ -241,20 +241,88 @@
     </header>
 
     <main class="layout">
-      <!-- ─────────── 01 / SIGNAL ─────────── -->
-      <article class="card signal" id="latest-section" aria-labelledby="signal-heading">
+      <!-- ─────────── 01 / FEEDS — 4ジャンル情報集約 ─────────── -->
+      <section class="card feeds" id="feeds-section" aria-labelledby="feeds-heading">
         <header class="card-head">
           <span class="card-marker">
             <span class="marker-bracket">[</span>
             <span class="marker-num">01</span>
             <span class="marker-sep">/</span>
-            <span class="marker-name">SIGNAL</span>
+            <span class="marker-name">FEEDS</span>
+            <span class="marker-bracket">]</span>
+            <span class="marker-suffix">— LATEST INTAKE</span>
+          </span>
+          <span class="card-id">
+            <span id="feeds-updated">— updated</span>
+            <span class="feed-divider">·</span>
+            <span id="feeds-total">— items</span>
+          </span>
+        </header>
+
+        <h2 id="feeds-heading" class="visually-hidden">4ジャンル情報集約</h2>
+
+        <div class="feed-grid" id="feed-grid">
+          <!-- 4 panels rendered by app.js: papers / market / grants / aineuro -->
+          <article class="feed-panel" data-cat="papers">
+            <header class="fp-head">
+              <span class="fp-tag">A</span>
+              <span class="fp-label">最新論文</span>
+              <span class="fp-sub">…</span>
+              <span class="fp-count">—</span>
+            </header>
+            <ol class="fp-list" data-list="papers"></ol>
+          </article>
+
+          <article class="feed-panel" data-cat="market">
+            <header class="fp-head">
+              <span class="fp-tag">B</span>
+              <span class="fp-label">MARKET / 産業動向</span>
+              <span class="fp-sub">…</span>
+              <span class="fp-count">—</span>
+            </header>
+            <ol class="fp-list" data-list="market"></ol>
+          </article>
+
+          <article class="feed-panel" data-cat="grants">
+            <header class="fp-head">
+              <span class="fp-tag">C</span>
+              <span class="fp-label">eRAD / 助成金</span>
+              <span class="fp-sub">…</span>
+              <span class="fp-count">—</span>
+            </header>
+            <ol class="fp-list" data-list="grants"></ol>
+          </article>
+
+          <article class="feed-panel" data-cat="aineuro">
+            <header class="fp-head">
+              <span class="fp-tag">D</span>
+              <span class="fp-label">AI for NEURO</span>
+              <span class="fp-sub">…</span>
+              <span class="fp-count">—</span>
+            </header>
+            <ol class="fp-list" data-list="aineuro"></ol>
+          </article>
+        </div>
+
+        <footer class="card-foot">
+          <span class="foot-marker">[ END / 01 ]</span>
+        </footer>
+      </section>
+
+      <!-- ─────────── 02 / TODAY'S PICK (auto-generated paper of the day) ─────────── -->
+      <article class="card signal" id="latest-section" aria-labelledby="signal-heading">
+        <header class="card-head">
+          <span class="card-marker">
+            <span class="marker-bracket">[</span>
+            <span class="marker-num">02</span>
+            <span class="marker-sep">/</span>
+            <span class="marker-name">TODAY'S PICK</span>
             <span class="marker-bracket">]</span>
           </span>
           <span class="card-id" id="run-id">#----.---.--</span>
         </header>
 
-        <h2 id="signal-heading" class="visually-hidden">最新ドラフト</h2>
+        <h2 id="signal-heading" class="visually-hidden">本日選定された論文</h2>
 
         <!-- readout strip -->
         <dl class="readout">
@@ -331,19 +399,18 @@
           </dl>
         </section>
 
-        <!-- divider with marker -->
-        <div class="signal-break" aria-hidden="true">
-          <span class="signal-break-tick"></span>
-          <span class="signal-break-line"></span>
-          <span class="signal-break-label">DRAFT BODY</span>
-          <span class="signal-break-line"></span>
-          <span class="signal-break-tick"></span>
-        </div>
-
-        <div class="draft-frame" id="draft-frame">
-          <span class="scrub" aria-hidden="true"></span>
-          <pre class="draft-text" id="latest-text">// awaiting first transmission…</pre>
-        </div>
+        <!-- DRAFT BODY: 折り畳み式 (LinkedIn 配信用全文。普段は隠す) -->
+        <details class="draft-collapse" id="draft-collapse">
+          <summary>
+            <span class="dc-marker">DRAFT</span>
+            <span class="dc-label">LinkedIn 配信用ドラフト全文を展開</span>
+            <span class="dc-toggle">▾</span>
+          </summary>
+          <div class="draft-frame" id="draft-frame">
+            <span class="scrub" aria-hidden="true"></span>
+            <pre class="draft-text" id="latest-text">// awaiting first transmission…</pre>
+          </div>
+        </details>
 
         <div class="draft-source" id="latest-source" hidden>
           <a id="latest-paper" class="source-link" href="#" target="_blank" rel="noopener">
@@ -364,7 +431,18 @@
         </div>
 
         <footer class="actions">
-          <button class="action-btn primary" id="copy-btn" type="button" disabled>
+          <a
+            class="action-btn primary"
+            id="paper-btn"
+            href="#"
+            target="_blank"
+            rel="noopener"
+            hidden
+          >
+            <span class="action-label">READ PAPER</span>
+            <span class="action-icon">↗</span>
+          </a>
+          <button class="action-btn" id="copy-btn" type="button" disabled>
             <span class="action-label">COPY DRAFT</span>
             <span class="action-icon">⌘C</span>
           </button>
@@ -378,30 +456,19 @@
             <span class="action-label">OPEN LINKEDIN</span>
             <span class="action-icon">↗</span>
           </a>
-          <a
-            class="action-btn"
-            id="paper-btn"
-            href="#"
-            target="_blank"
-            rel="noopener"
-            hidden
-          >
-            <span class="action-label">READ PAPER</span>
-            <span class="action-icon">↗</span>
-          </a>
         </footer>
 
         <footer class="card-foot">
-          <span class="foot-marker">[ END / 01 ]</span>
+          <span class="foot-marker">[ END / 02 ]</span>
         </footer>
       </article>
 
-      <!-- ─────────── 02 / ARCHIVE ─────────── -->
+      <!-- ─────────── 03 / ARCHIVE ─────────── -->
       <aside class="card archive" aria-labelledby="archive-heading">
         <header class="card-head">
           <span class="card-marker">
             <span class="marker-bracket">[</span>
-            <span class="marker-num">02</span>
+            <span class="marker-num">03</span>
             <span class="marker-sep">/</span>
             <span class="marker-name">ARCHIVE</span>
             <span class="marker-bracket">]</span>
@@ -425,16 +492,16 @@
         </ol>
 
         <footer class="card-foot">
-          <span class="foot-marker">[ END / 02 ]</span>
+          <span class="foot-marker">[ END / 03 ]</span>
         </footer>
       </aside>
 
-      <!-- ─────────── 03 / SYSTEM ─────────── -->
+      <!-- ─────────── 04 / PROTOCOL ─────────── -->
       <section class="card system" aria-labelledby="system-heading">
         <header class="card-head">
           <span class="card-marker">
             <span class="marker-bracket">[</span>
-            <span class="marker-num">03</span>
+            <span class="marker-num">04</span>
             <span class="marker-sep">/</span>
             <span class="marker-name">PROTOCOL</span>
             <span class="marker-bracket">]</span>

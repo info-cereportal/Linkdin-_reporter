@@ -1,26 +1,21 @@
 {
-  "generatedAt": "2026-05-01T08:11:34.425Z",
+  "generatedAt": "2026-05-01T08:24:34.080Z",
   "date": "2026-05-01",
-  "topic": "学習と記憶",
+  "topic": "脳情報科学の最新研究",
   "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "Multisensory learning recruits visual neurons into an olfactory memory engram",
-  "paperLink": "https://arxiv.org/abs/2604.28007",
-  "formatted": "これを読んで、脳に対する見方が変わりました。\n\n数字が語る、学習と記憶の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習 × 記憶 × コネクトミクス × ドーパミン\n\n> Associating multiple sensory cues with a single experience or object is a fundamental process that improves object recognition and memory performance. However, neural mechanisms that bind sensory features during learning and augment memory expression are unknown.\n\nなぜこの数字が重要か。\n\nコネクトミクス・回路解析において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Multisensory learning recruits visual neurons into an olfactory memory engram\n🔗 https://arxiv.org/abs/2604.28007\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #神経科学",
-  "summaryJP": "学習と記憶 — 数値で示された新事実（コネクトミクス・回路解析）",
-  "paperAuthors": "Zeynep Okray, Nils Otto, Anna A. Cook, Clifford Talbot, Ashwin Miriyala, Martín Klappenbach, Ciara Stern, Kieran Desmond, Paola Vargas-Gutierrez, Scott Waddell",
+  "paperTitle": "Effect of an auditory static distractor on the perception of an auditory moving target",
+  "paperLink": "https://arxiv.org/abs/2510.25119",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、脳情報科学の最新研究の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 脳情報科学\n\n> It is known that listeners lose the ability to discriminate the direction of motion of a revolving sound (clockwise vs. counterclockwise) beyond a critical velocity (\"the upper limit\"), likely due to degraded front-back discrimination.\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Effect of an auditory static distractor on the perception of an auditory moving target\n🔗 https://arxiv.org/abs/2510.25119\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #DeepLearning",
+  "summaryJP": "脳情報科学の最新研究 — 数値で示された新事実",
+  "paperAuthors": "Noa Kemp, Cynthia Tarlao, Catherine Guastavino, B. Suresh Krishna",
   "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
-  "paperId": "2604.28007",
+  "paperId": "2510.25119",
   "paperSource": "arxiv",
-  "themeArea": "コネクトミクス・回路解析",
+  "themeArea": "脳情報科学",
   "jpKeywords": [
-    "学習",
-    "記憶",
-    "コネクトミクス",
-    "ドーパミン",
-    "GABA",
-    "ECoG(皮質脳波)"
+    "脳情報科学"
   ],
-  "abstractExcerpt": "Associating multiple sensory cues with a single experience or object is a fundamental process that improves object recognition and memory performance. However, neural mechanisms that bind sensory features during learning and augment memory…",
+  "abstractExcerpt": "It is known that listeners lose the ability to discriminate the direction of motion of a revolving sound (clockwise vs. counterclockwise) beyond a critical velocity (\"the upper limit\"), likely due to degraded front-back discrimination.…",
   "figureUrls": []
 }

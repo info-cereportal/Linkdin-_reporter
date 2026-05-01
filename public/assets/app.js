@@ -746,6 +746,118 @@ async function runBootSequence() {
   els.heroState.textContent = "ACTIVE";
 }
 
+/* ════════ feeds rendering ════════ */
+function formatFeedTime(iso) {
+  if (!iso) return "—/—";
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso.slice(0, 10);
+  return `${pad(d.getMonth() + 1)}/${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+}
+
+function feedItemDom(item) {
+  const a = document.createElement("a");
+  a.className = "fp-item";
+  a.href = item.url || "#";
+  a.target = "_blank";
+  a.rel = "noopener";
+
+  const head = document.createElement("div");
+  head.className = "fp-item-head";
+
+  const time = document.createElement("span");
+  time.className = "fp-item-time";
+  time.textContent = formatFeedTime(item.publishedDate);
+  head.appendChild(time);
+
+  if (item.source) {
+    const src = document.createElement("span");
+    src.className = "fp-item-source";
+    src.textContent = item.source;
+    head.appendChild(src);
+  }
+
+  const title = document.createElement("div");
+  title.className = "fp-item-title";
+  title.textContent = item.title || "(no title)";
+
+  a.appendChild(head);
+  a.appendChild(title);
+
+  if (item.summary) {
+    const sum = document.createElement("div");
+    sum.className = "fp-item-summary";
+    sum.textContent = item.summary;
+    a.appendChild(sum);
+  }
+
+  return a;
+}
+
+function renderFeedPanel(catKey, category) {
+  const panel = document.querySelector(`.feed-panel[data-cat="${catKey}"]`);
+  if (!panel) return;
+
+  const sub = panel.querySelector(".fp-sub");
+  const count = panel.querySelector(".fp-count");
+  const list = panel.querySelector(".fp-list");
+
+  sub.textContent = category.sublabel || "—";
+  count.textContent = `${category.itemCount || 0} items`;
+  list.innerHTML = "";
+
+  if (!category.items || category.items.length === 0) {
+    const li = document.createElement("li");
+    li.className = "fp-empty";
+    const mark = document.createElement("span");
+    mark.className = "fp-empty-mark";
+    mark.textContent = "∅";
+    li.appendChild(mark);
+    li.appendChild(document.createTextNode(category.error || "no items yet"));
+    if (catKey === "grants") {
+      const hint = document.createElement("span");
+      hint.className = "fp-empty-hint";
+      hint.textContent = "Tip: set FEED_GRANTS_URLS env var with AMED/JST/eRAD feeds";
+      li.appendChild(hint);
+    }
+    list.appendChild(li);
+    return;
+  }
+
+  category.items.forEach((it) => {
+    const li = document.createElement("li");
+    li.appendChild(feedItemDom(it));
+    list.appendChild(li);
+  });
+}
+
+function renderFeeds(feeds) {
+  const updatedEl = document.getElementById("feeds-updated");
+  const totalEl = document.getElementById("feeds-total");
+
+  if (!feeds || !feeds.categories) {
+    updatedEl.textContent = "no feed data";
+    totalEl.textContent = "—";
+    ["papers", "market", "grants", "aineuro"].forEach((k) =>
+      renderFeedPanel(k, { sublabel: "—", itemCount: 0, items: [] })
+    );
+    return;
+  }
+
+  const cats = feeds.categories;
+  const total = Object.values(cats).reduce(
+    (n, c) => n + (c.itemCount || 0),
+    0
+  );
+
+  updatedEl.textContent = `updated ${formatLongTime(feeds.generatedAt)}`;
+  totalEl.textContent = `${total} items`;
+
+  renderFeedPanel("papers", cats.papers);
+  renderFeedPanel("market", cats.market);
+  renderFeedPanel("grants", cats.grants);
+  renderFeedPanel("aineuro", cats.aineuro);
+}
+
 /* ════════ boot ════════ */
 async function init() {
   // immediate setup so viewing area looks alive even during boot
@@ -766,6 +878,7 @@ async function init() {
 
   let latest = null;
   let history = [];
+  let feeds = null;
   try {
     latest = await loadJson("/data/latest-draft.json");
   } catch (err) {
@@ -776,9 +889,15 @@ async function init() {
   } catch (err) {
     console.warn("[cereportal] drafts-history.json unavailable:", err);
   }
+  try {
+    feeds = await loadJson("/data/feeds.json");
+  } catch (err) {
+    console.warn("[cereportal] feeds.json unavailable:", err);
+  }
 
   await bootPromise;
 
+  renderFeeds(feeds);
   renderLatest(latest, { first: true, skipCountUp: true });
   renderHistory(Array.isArray(history) ? history : []);
 

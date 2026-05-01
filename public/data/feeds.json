@@ -1,0 +1,218 @@
+{
+  "generatedAt": "2026-05-01T08:24:34.818Z",
+  "schemaVersion": 1,
+  "categories": {
+    "papers": {
+      "label": "最新論文",
+      "sublabel": "rss.arxiv.org",
+      "itemCount": 5,
+      "items": [
+        {
+          "title": "Simulating Infant First-Person Sensorimotor Experience via Motion Retargeting from Babies to Humanoids",
+          "url": "https://arxiv.org/abs/2604.27583",
+          "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Motion retargeting from humans to human-like artificial agents is becoming increasingly important as humanoid robots grow more capable. However, most existing approaches focus only on reproducing kinematics and ignore the rich sensorimotor…",
+          "authors": "Francisco M. López, Hoshinori Kanazawa, Ondrej Fiala, Yakov Balashov, Valentin Marcel, Lukas Rustler, Miles Lenz, Dongmin Kim, Yasuo Kuniyoshi, Jochen Triesch, Matej Hoffmann"
+        },
+        {
+          "title": "On Agentic Behavioral Modeling",
+          "url": "https://arxiv.org/abs/2604.27894",
+          "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Integrating theoretical neuroscience, decision theory, and probabilistic inference offers a promising route to understanding human cognition, yet concrete methodological bridges between agentic AI models and behavioral data analysis remain…",
+          "authors": "Dirk Ostwald, Rasmus Bruckner, Franziska Usée, Belinda Fleischmann, Joram Soch, Sean Mulready"
+        },
+        {
+          "title": "Multisensory learning recruits visual neurons into an olfactory memory engram",
+          "url": "https://arxiv.org/abs/2604.28007",
+          "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Associating multiple sensory cues with a single experience or object is a fundamental process that improves object recognition and memory performance. However, neural mechanisms that bind sensory features during learning and augment memory…",
+          "authors": "Zeynep Okray, Nils Otto, Anna A. Cook, Clifford Talbot, Ashwin Miriyala, Martín Klappenbach, Ciara Stern, Kieran Desmond, Paola Vargas-Gutierrez, Scott Waddell"
+        },
+        {
+          "title": "Effect of an auditory static distractor on the perception of an auditory moving target",
+          "url": "https://arxiv.org/abs/2510.25119",
+          "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "It is known that listeners lose the ability to discriminate the direction of motion of a revolving sound (clockwise vs. counterclockwise) beyond a critical velocity (\"the upper limit\"), likely due to degraded front-back discrimination.…",
+          "authors": "Noa Kemp, Cynthia Tarlao, Catherine Guastavino, B. Suresh Krishna"
+        },
+        {
+          "title": "Cortex-Inspired Continual Learning: Unsupervised Instantiation and Recovery of Functional Task Networks",
+          "url": "https://arxiv.org/abs/2604.24637",
+          "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Block-sequential continual learning demands that a single model both protect prior solutions from catastrophic forgetting and efficiently infer at inference time which prior solution matches the current input without task labels. We…",
+          "authors": "Kevin McKee, Thomas Hazy, Yicong Zheng, Zacharie Bugaud, Thomas Miconi"
+        }
+      ]
+    },
+    "market": {
+      "label": "MARKET / 産業動向",
+      "sublabel": "statnews.com",
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "STAT+: OxyContin maker Purdue Pharma set to dissolve after judge approves its criminal sentence",
+          "url": "https://www.statnews.com/2026/04/30/oxycontin-maker-purdue-pharma-will-dissolve-criminal-sentence-approved/?utm_campaign=rss",
+          "publishedDate": "Fri, 01 May 2026 01:25:38 +0000",
+          "source": "statnews.com",
+          "summary": "At the hearing, the judge heard from mothers who lost sons to overdose, a teenager born into withdrawal, and people who spent years dealing with addiction treatment.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "STAT+: In her own words: Surgeon general nominee Nicole Saphier expresses enthusiasm and caution for MAHA",
+          "url": "https://www.statnews.com/2026/04/30/surgeon-general-nominee-nicole-saphier-in-her-own-words/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Apr 2026 20:39:57 +0000",
+          "source": "statnews.com",
+          "summary": "Examining the past statements and writings of Trump's third surgeon general nominee, Dr. Nicole Saphier, on vaccines, autism, peptides, diet and more.",
+          "authors": "Elizabeth Cooney, Helen Branswell, and Katie Palmer"
+        },
+        {
+          "title": "Trump drops Casey Means as surgeon general nominee, opts for radiologist Nicole Saphier",
+          "url": "https://www.statnews.com/2026/04/30/trump-withdraws-casey-means-nomination-surgeon-general-taps-nicole-saphier/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Apr 2026 17:49:04 +0000",
+          "source": "statnews.com",
+          "summary": "Trump slammed Sen. Bill Cassidy for blocking his surgeon general pick, as he nominated a replacement.",
+          "authors": "Elizabeth Cooney, Chelsea Cirruzzo, and Daniel Payne"
+        },
+        {
+          "title": "STAT+: FDA wants to exclude weight loss drugs from a compounding list",
+          "url": "https://www.statnews.com/pharmalot/2026/04/30/fda-weight-loss-drugs-new-rule-would-end-glp-1-compound-pharmacy/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Apr 2026 15:53:39 +0000",
+          "source": "statnews.com",
+          "summary": "FDA moves to remove semaglutide, tirzepatide, and liraglutide from its 503B compounding list, saying there's no shortage of GLP-1 drugs from Novo Nordisk and Eli Lilly.",
+          "authors": "Ed Silverman"
+        },
+        {
+          "title": "Smog from wildfires increasingly harmful, data show",
+          "url": "https://www.statnews.com/2026/04/30/health-news-smog-from-wildfires-increasingly-harmful-over-time/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Apr 2026 11:47:43 +0000",
+          "source": "statnews.com",
+          "summary": "American baby formula testing, Medicaid work requirements, and more Morning Rounds health news",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "STAT+: New obesity tool aims to predict risk of 18 serious complications",
+          "url": "https://www.statnews.com/2026/04/30/obesity-health-risks-new-tool-obscore-beyond-bmi/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Apr 2026 09:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "A new tool, OBSCORE, is meant to better define who's at risk for obesity complications, going beyond BMI to include family history, diet, and more.",
+          "authors": "Elizabeth Cooney"
+        }
+      ]
+    },
+    "grants": {
+      "label": "GRANTS / eRAD・助成金",
+      "sublabel": "statnews.com + sciencedaily.com",
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Why drinking more water didn’t prevent kidney stones",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260429102034.htm",
+          "publishedDate": "Fri, 01 May 2026 03:36:18 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Kidney stones are notoriously painful—and frustratingly common, with many people facing repeat episodes. A massive new study tested whether a high-tech hydration program—complete with smart water bottles, reminders, coaching, and even…",
+          "authors": ""
+        },
+        {
+          "title": "Your gut takes a “double hit” from stress and late-night eating",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260429102026.htm",
+          "publishedDate": "Fri, 01 May 2026 01:07:42 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Chronic stress is already tough on your gut—but new research suggests late-night eating could make things even worse. Scientists analyzing thousands of people found that those under high stress who also ate a large portion of their…",
+          "authors": ""
+        },
+        {
+          "title": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260501002156.htm",
+          "publishedDate": "Fri, 01 May 2026 00:36:05 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a surprising new layer of complexity in Cannabis, identifying dozens of previously unknown compounds—including the first-ever evidence of rare molecules called flavoalkaloids in its leaves. These compounds, prized…",
+          "authors": ""
+        },
+        {
+          "title": "Surprising obesity discovery rewrites decades of fat metabolism science",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260430213503.htm",
+          "publishedDate": "Thu, 30 Apr 2026 21:40:07 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A key protein involved in fat metabolism has been found to do more than scientists once thought. Instead of just releasing fat, it helps maintain healthy fat tissue and balance in the body. When it’s missing or disrupted, the results can…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: Katherine Szarama named acting director of FDA’s vaccines and biologics center",
+          "url": "https://www.statnews.com/2026/04/30/fda-names-katherine-szarama-acting-director-cber/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Apr 2026 21:15:56 +0000",
+          "source": "statnews.com",
+          "summary": "Katherine Szarama, who joined the FDA last year to serve as Vinay Prasad’s deputy, will now fill his shoes at CBER.",
+          "authors": "Lizzy Lawrence"
+        },
+        {
+          "title": "STAT+: In her own words: Surgeon general nominee Nicole Saphier expresses enthusiasm and caution for MAHA",
+          "url": "https://www.statnews.com/2026/04/30/surgeon-general-nominee-nicole-saphier-in-her-own-words/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Apr 2026 20:39:57 +0000",
+          "source": "statnews.com",
+          "summary": "Examining the past statements and writings of Trump's third surgeon general nominee, Dr. Nicole Saphier, on vaccines, autism, peptides, diet and more.",
+          "authors": "Elizabeth Cooney, Helen Branswell, and Katie Palmer"
+        }
+      ]
+    },
+    "aineuro": {
+      "label": "AI for NEURO",
+      "sublabel": "rss.arxiv.org + rss.arxiv.org",
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "MAEO: Multiobjective Animorphic Ensemble Optimization for Scalable Large-scale Engineering Applications",
+          "url": "https://arxiv.org/abs/2604.26973",
+          "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Multiobjective optimization remains challenging for many scientific and engineering problems due to the need to balance convergence, diversity, and computational efficiency across high-dimensional objective landscapes. This work presents…",
+          "authors": "Omer F. Erdem, Dean Price, Paul Seurin, Majdi I. Radaideh"
+        },
+        {
+          "title": "EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge IoT Architectures",
+          "url": "https://arxiv.org/abs/2604.27004",
+          "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We propose EdgeSpike, a co-designed spiking neural network (SNN) framework for autonomous low-power sensing in edge Internet of Things (IoT) architectures. EdgeSpike unifies (i) a hybrid surrogate-gradient and direct-encoding training…",
+          "authors": "Gustav Olaf Yunus Laitinen-Fredriksson Lundstrom-Imanov, Taner Yilmaz"
+        },
+        {
+          "title": "RCMAES: A Robust CMA-ES Variant for CEC2026 Competition",
+          "url": "https://arxiv.org/abs/2604.27138",
+          "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "This paper proposes RCMAES, a novel variant of the Covariance Matrix Adaptation Evolution Strategy (CMA-ES) for CEC benchmark optimization. RCMAES integrates a dimension-dependent nonlinear population-size reduction strategy with an…",
+          "authors": "Khoirul Faiq Muzakka, Sören Möller, Martin Finsterbusch"
+        },
+        {
+          "title": "Attractor FCM",
+          "url": "https://arxiv.org/abs/2604.27947",
+          "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "In this paper an attractor FCM is created, tested, and analyzed. This FCM is neither a hebbian based nor agentic, nor a hybrid; it rather is a gradient descent based, physics constrained, Jacobian version of an FCM. Moreover, this model…",
+          "authors": "Alexis Kafantaris"
+        },
+        {
+          "title": "Towards Topology-Aware Very Large-Scale Photonic AI Accelerators",
+          "url": "https://arxiv.org/abs/2604.26966",
+          "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The rapid growth of deep neural networks (DNNs) has exposed fundamental limitations in electronic accelerators, where data movement dominates energy consumption, commonly referred to as the memory wall. Photonic accelerators offer a…",
+          "authors": "Belal Jahannia, Abdolah Amirany, Hamed Dalir"
+        },
+        {
+          "title": "Compressing ACAS-Xu Lookup Tables with Binary Decision Diagrams",
+          "url": "https://arxiv.org/abs/2604.27008",
+          "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The Airborne Collision Avoidance System Xu (ACAS-Xu) relies on large certified Look-Up Tables (LUTs) that encode the exact decision logic used in operation. Neural-network-based approximations have been proposed to reduce memory…",
+          "authors": "Martin Boniol (ISAE-SUPAERO), Julien Brunel (ISAE-SUPAERO), Jean-Baptiste Chaudron (ISAE-SUPAERO), Christophe Garion (ISAE-SUPAERO), Xavier Thirioux (ISAE-SUPAERO)"
+        }
+      ]
+    }
+  }
+}

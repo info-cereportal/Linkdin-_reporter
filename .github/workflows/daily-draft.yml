@@ -42,17 +42,26 @@ jobs:
           MAX_HISTORY_DAYS: "30"
           PUBLIC_DATA_DIR: public/data
           MAX_PUBLIC_HISTORY: "50"
+          # ─── feed aggregator URL list (上書きしたければ各 secret/var に設定) ───
+          FEED_PAPERS_URLS: ${{ secrets.FEED_PAPERS_URLS }}
+          FEED_MARKET_URLS: ${{ secrets.FEED_MARKET_URLS }}
+          FEED_GRANTS_URLS: ${{ secrets.FEED_GRANTS_URLS }}
+          FEED_AINEURO_URLS: ${{ secrets.FEED_AINEURO_URLS }}
+          FEED_MAX_ITEMS: ${{ vars.FEED_MAX_ITEMS }}
         run: node dist/daily-run.js
 
       - name: Commit history & web data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .daily-history.json public/data/latest-draft.json public/data/drafts-history.json 2>/dev/null || true
+          git add .daily-history.json \
+                  public/data/latest-draft.json \
+                  public/data/drafts-history.json \
+                  public/data/feeds.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update daily draft & history [skip ci]"
+            git commit -m "chore: update daily draft, feeds & history [skip ci]"
             git push || true
           fi
 

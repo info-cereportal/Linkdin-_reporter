@@ -19,31 +19,35 @@ const PUBMED_SEARCH_TERM = encodeURIComponent(
 );
 
 /**
+ * 単一フィードの取得・パース (フォールバックなし、フィード集約系から再利用)
+ */
+export async function fetchSingleFeed(url: string): Promise<PaperInfo[]> {
+  try {
+    const response = await fetch(url.trim(), {
+      headers: { "User-Agent": "linkedin-neuro-draft/0.1.0" },
+      signal: AbortSignal.timeout(15_000),
+    });
+
+    if (!response.ok) {
+      console.error(`[RSS] ${url}: HTTP ${response.status}`);
+      return [];
+    }
+
+    const xml = await response.text();
+    return parseXmlFeed(xml, url);
+  } catch (error) {
+    console.error(`[RSS] ${url}: fetch error`, error);
+    return [];
+  }
+}
+
+/**
  * 複数フィードから論文情報を取得する。
  * RSS が空の場合は PubMed E-utilities API にフォールバック。
  */
 export async function fetchPapers(feedUrls: string[]): Promise<PaperInfo[]> {
-  const allPapers: PaperInfo[] = [];
-
-  for (const url of feedUrls) {
-    try {
-      const response = await fetch(url.trim(), {
-        headers: { "User-Agent": "linkedin-neuro-draft/0.1.0" },
-        signal: AbortSignal.timeout(15_000),
-      });
-
-      if (!response.ok) {
-        console.error(`[RSS] ${url}: HTTP ${response.status}`);
-        continue;
-      }
-
-      const xml = await response.text();
-      const papers = parseXmlFeed(xml, url);
-      allPapers.push(...papers);
-    } catch (error) {
-      console.error(`[RSS] ${url}: fetch error`, error);
-    }
-  }
+  const results = await Promise.all(feedUrls.map((u) => fetchSingleFeed(u)));
+  const allPapers = results.flat();
 
   // RSS が空の場合、PubMed E-utilities API にフォールバック
   if (allPapers.length === 0) {

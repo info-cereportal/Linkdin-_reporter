@@ -13,6 +13,7 @@ import {
 } from "./rss-fetcher.js";
 import { polishDraft, type PolishedDraft } from "./post-polisher.js";
 import { notifyWebhook } from "./webhook-notifier.js";
+import { aggregateFeeds } from "./feed-aggregator.js";
 
 // ────────────────────────────────────────────
 // 設定
@@ -321,6 +322,18 @@ export async function runDailyPipeline(): Promise<DailyResult> {
     console.log(`   → ${config.publicDataDir}/drafts-history.json`);
   } catch (error) {
     console.error("⚠️  公開JSONの書き出しに失敗しました:", error);
+  }
+
+  console.log("📡 フィード集約 (papers / market / grants / aineuro) ...");
+  try {
+    const feeds = await aggregateFeeds();
+    await writeJson(resolve(config.publicDataDir, "feeds.json"), feeds);
+    const summary = Object.entries(feeds.categories)
+      .map(([k, c]) => `${k}:${c.itemCount}`)
+      .join(" ");
+    console.log(`   → feeds.json (${summary})`);
+  } catch (error) {
+    console.error("⚠️  フィード集約に失敗しました:", error);
   }
 
   history.push({ date: today, paperTitle: paper.title, topic: draft.topic });
