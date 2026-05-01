@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CEREPORTAL · Neuro·Draft Reporter</title>
+    <meta
+      name="description"
+      content="Cereportal Neuro·Draft Reporter — 脳情報科学・ニューロAI 領域の論文から3時間ごとに自動生成される LinkedIn ドラフトのライブダッシュボード"
+    />
+    <meta name="color-scheme" content="dark" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,300..900,30..100,0..1&family=JetBrains+Mono:wght@300..700&display=swap"
+    />
+    <link rel="stylesheet" href="/assets/style.css" />
+  </head>
+  <body class="booting">
+    <!-- background atmosphere -->
+    <div class="grid-bg" aria-hidden="true"></div>
+    <div class="grain" aria-hidden="true"></div>
+    <div class="vignette" aria-hidden="true"></div>
+
+    <!-- boot scan-line: sweeps top-to-bottom on initial load -->
+    <div class="boot-scan" aria-hidden="true"></div>
+
+    <!-- thin signal trace at very top of viewport -->
+    <svg
+      class="signal-trace"
+      viewBox="0 0 1600 40"
+      preserveAspectRatio="none"
+      aria-hidden="true"
+    >
+      <path
+        class="signal-trace-line"
+        d="M0,20 L120,20 L130,5 L140,35 L150,12 L160,28 L170,20 L320,20 L325,8 L330,32 L335,20 L500,20 L510,3 L520,37 L525,18 L535,22 L540,20 L780,20 L790,14 L800,26 L810,20 L1100,20 L1108,7 L1116,33 L1124,20 L1380,20 L1390,16 L1400,24 L1410,20 L1600,20"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1"
+        stroke-linejoin="round"
+      />
+    </svg>
+
+    <header class="site-header">
+      <!-- masthead row -->
+      <div class="masthead">
+        <div class="mast-left">
+          <svg
+            class="brand-mark"
+            viewBox="0 0 56 56"
+            aria-hidden="true"
+            role="img"
+          >
+            <!-- 10-20 system inspired electrode constellation -->
+            <circle cx="28" cy="28" r="25" class="ring outer" />
+            <circle cx="28" cy="28" r="17" class="ring mid" />
+            <circle cx="28" cy="28" r="9" class="ring inner" />
+            <!-- electrodes (Fp1/Fp2/Cz/Pz/T7/T8/Oz arrangement) -->
+            <circle cx="28" cy="3" r="2" class="node primary" />
+            <circle cx="20" cy="4.5" r="1.4" class="node" />
+            <circle cx="36" cy="4.5" r="1.4" class="node" />
+            <circle cx="3" cy="28" r="2" class="node primary" />
+            <circle cx="53" cy="28" r="2" class="node primary" />
+            <circle cx="28" cy="53" r="2" class="node primary" />
+            <circle cx="13" cy="13" r="1.4" class="node" />
+            <circle cx="43" cy="13" r="1.4" class="node" />
+            <circle cx="13" cy="43" r="1.4" class="node" />
+            <circle cx="43" cy="43" r="1.4" class="node" />
+            <circle cx="20" cy="20" r="1.2" class="node dim" />
+            <circle cx="36" cy="20" r="1.2" class="node dim" />
+            <circle cx="20" cy="36" r="1.2" class="node dim" />
+            <circle cx="36" cy="36" r="1.2" class="node dim" />
+            <!-- core that pulses -->
+            <circle cx="28" cy="28" r="3" class="core" />
+            <!-- spike-firing nodes (animated by JS to flash) -->
+            <circle cx="28" cy="3" r="0" class="spike" id="brand-spike" />
+          </svg>
+
+          <div class="mast-text">
+            <span class="mast-pre">[ 03 / EST. 2026 ]</span>
+            <h1 class="mast-title">
+              <span class="mast-cere">Cere</span><span class="mast-portal">portal</span>
+            </h1>
+            <span class="mast-sub">
+              <em>Neuro·Draft Reporter</em>
+              <span class="mast-dot">·</span>
+              <span class="mast-version">v0.1.0</span>
+            </span>
+          </div>
+        </div>
+
+        <div class="mast-right">
+          <div class="status-block">
+            <div class="status">
+              <!-- mini live waveform indicator (replaces simple dot) -->
+              <svg class="status-wave" viewBox="0 0 60 14" aria-hidden="true">
+                <path
+                  class="status-wave-line"
+                  id="status-wave-path"
+                  d="M0,7 L60,7"
+                />
+              </svg>
+              <span class="status-label" id="status-label">CALIBRATING…</span>
+            </div>
+            <time class="status-time" id="header-time">--:--:--</time>
+          </div>
+        </div>
+      </div>
+
+      <!-- HERO: multi-channel EEG-like waveform (the signature element) -->
+      <section class="hero-eeg" aria-label="live signal trace">
+        <div class="hero-eeg-frame">
+          <div class="hero-eeg-grid" aria-hidden="true"></div>
+
+          <svg
+            class="hero-eeg-svg"
+            viewBox="0 0 1600 220"
+            preserveAspectRatio="none"
+            aria-hidden="true"
+          >
+            <!-- channel labels rendered separately for readability -->
+            <g class="channels">
+              <g class="channel" data-ch="fp1">
+                <line x1="60" y1="35" x2="1600" y2="35" class="baseline" />
+                <path id="ch-fp1" class="channel-trace" d="M0,35 L1600,35" />
+              </g>
+              <g class="channel" data-ch="cz">
+                <line x1="60" y1="90" x2="1600" y2="90" class="baseline" />
+                <path id="ch-cz" class="channel-trace" d="M0,90 L1600,90" />
+              </g>
+              <g class="channel" data-ch="oz">
+                <line x1="60" y1="145" x2="1600" y2="145" class="baseline" />
+                <path id="ch-oz" class="channel-trace" d="M0,145 L1600,145" />
+              </g>
+              <g class="channel" data-ch="t8">
+                <line x1="60" y1="195" x2="1600" y2="195" class="baseline" />
+                <path id="ch-t8" class="channel-trace" d="M0,195 L1600,195" />
+              </g>
+            </g>
+          </svg>
+
+          <!-- channel labels overlay (HTML for crisp text) -->
+          <ul class="hero-eeg-labels" aria-hidden="true">
+            <li><span>Fp1</span></li>
+            <li><span>Cz</span></li>
+            <li><span>Oz</span></li>
+            <li><span>T8</span></li>
+          </ul>
+
+          <!-- meta strip below waveform -->
+          <div class="hero-eeg-meta">
+            <div class="he-cell">
+              <em>CHANNELS</em>
+              <span>04 / continuous</span>
+            </div>
+            <div class="he-cell">
+              <em>SAMPLE</em>
+              <span>256 Hz <small>· synthetic ref</small></span>
+            </div>
+            <div class="he-cell">
+              <em>EPOCH</em>
+              <span id="hero-epoch">—</span>
+            </div>
+            <div class="he-cell">
+              <em>STATE</em>
+              <span class="state-pill" id="hero-state">acquiring…</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- frequency band live meters -->
+      <section class="freq-bands" aria-label="frequency band power">
+        <header class="fb-head">
+          <span class="fb-title">[ BAND POWER ] live · arbitrary units</span>
+          <span class="fb-sub">spectral signature of the current archive cycle</span>
+        </header>
+        <ul class="fb-list">
+          <li class="fb" data-band="delta" style="--fb-c: var(--data);">
+            <span class="fb-glyph">δ</span>
+            <span class="fb-name">DELTA</span>
+            <span class="fb-range">0.5–4 Hz</span>
+            <div class="fb-bar"><span class="fb-fill"></span></div>
+            <span class="fb-val">—</span>
+          </li>
+          <li class="fb" data-band="theta" style="--fb-c: var(--data);">
+            <span class="fb-glyph">θ</span>
+            <span class="fb-name">THETA</span>
+            <span class="fb-range">4–8 Hz</span>
+            <div class="fb-bar"><span class="fb-fill"></span></div>
+            <span class="fb-val">—</span>
+          </li>
+          <li class="fb" data-band="alpha" style="--fb-c: var(--data);">
+            <span class="fb-glyph">α</span>
+            <span class="fb-name">ALPHA</span>
+            <span class="fb-range">8–13 Hz</span>
+            <div class="fb-bar"><span class="fb-fill"></span></div>
+            <span class="fb-val">—</span>
+          </li>
+          <li class="fb" data-band="beta" style="--fb-c: var(--data);">
+            <span class="fb-glyph">β</span>
+            <span class="fb-name">BETA</span>
+            <span class="fb-range">13–30 Hz</span>
+            <div class="fb-bar"><span class="fb-fill"></span></div>
+            <span class="fb-val">—</span>
+          </li>
+          <li class="fb" data-band="gamma" style="--fb-c: var(--signal);">
+            <span class="fb-glyph">γ</span>
+            <span class="fb-name">GAMMA</span>
+            <span class="fb-range">30–80 Hz</span>
+            <div class="fb-bar"><span class="fb-fill"></span></div>
+            <span class="fb-val">—</span>
+          </li>
+        </ul>
+      </section>
+
+      <p class="header-tagline">
+        <span class="tagline-en">Live neural signal,</span>
+        <span class="tagline-en italic">distilled into a daily editorial.</span>
+      </p>
+
+      <p class="header-jp">
+        脳情報科学 × ニューロAI の最新論文から、3時間ごとに推敲済み
+        LinkedIn ドラフトを生成し続けるライブダッシュボード。
+      </p>
+
+      <div class="header-meta">
+        <span><em>SOURCE</em> arXiv q-bio.NC + PubMed</span>
+        <span class="dot">·</span>
+        <span><em>INTERVAL</em> 3h</span>
+        <span class="dot">·</span>
+        <span><em>HEDGING</em> v1</span>
+        <span class="dot">·</span>
+        <span><em>HOST</em> Firebase</span>
+        <span class="dot">·</span>
+        <span><em>STACK</em> node + tsc + GitHub Actions</span>
+      </div>
+    </header>
+
+    <main class="layout">
+      <!-- ─────────── 01 / SIGNAL ─────────── -->
+      <article class="card signal" id="latest-section" aria-labelledby="signal-heading">
+        <header class="card-head">
+          <span class="card-marker">
+            <span class="marker-bracket">[</span>
+            <span class="marker-num">01</span>
+            <span class="marker-sep">/</span>
+            <span class="marker-name">SIGNAL</span>
+            <span class="marker-bracket">]</span>
+          </span>
+          <span class="card-id" id="run-id">#----.---.--</span>
+        </header>
+
+        <h2 id="signal-heading" class="visually-hidden">最新ドラフト</h2>
+
+        <!-- readout strip -->
+        <dl class="readout">
+          <div class="readout-cell">
+            <dt>TEMPLATE</dt>
+            <dd id="latest-template">—</dd>
+          </div>
+          <div class="readout-cell">
+            <dt>RISK</dt>
+            <dd class="risk-cell">
+              <svg class="risk-ring" viewBox="0 0 36 36" aria-hidden="true">
+                <circle cx="18" cy="18" r="15" class="ring-track" />
+                <circle cx="18" cy="18" r="15" class="ring-bar" id="risk-bar" />
+              </svg>
+              <span class="risk-num" id="latest-risk">—</span>
+              <span class="risk-max">/100</span>
+            </dd>
+          </div>
+          <div class="readout-cell">
+            <dt>GENERATED</dt>
+            <dd id="latest-time">—</dd>
+          </div>
+          <div class="readout-cell wide">
+            <dt>TOPIC</dt>
+            <dd id="latest-topic">—</dd>
+          </div>
+        </dl>
+
+        <!-- ─── PAPER METADATA + GENERATED POSTER ─── -->
+        <section class="paper-block" aria-label="paper metadata">
+          <div class="paper-poster">
+            <svg
+              id="poster-svg"
+              viewBox="0 0 480 280"
+              role="img"
+              aria-label="generated poster card"
+            ></svg>
+          </div>
+
+          <dl class="paper-meta">
+            <div class="pm-row">
+              <dt>SUMMARY</dt>
+              <dd id="paper-summary" class="pm-summary">—</dd>
+            </div>
+            <div class="pm-row">
+              <dt>AUTHORS</dt>
+              <dd id="paper-authors">—</dd>
+            </div>
+            <div class="pm-grid">
+              <div>
+                <dt>PUBLISHED</dt>
+                <dd id="paper-date">—</dd>
+              </div>
+              <div>
+                <dt>PAPER ID</dt>
+                <dd id="paper-id">
+                  <span class="pm-source" id="paper-source-tag">—</span>
+                  <span id="paper-id-text">—</span>
+                </dd>
+              </div>
+              <div>
+                <dt>THEME</dt>
+                <dd id="paper-theme">—</dd>
+              </div>
+            </div>
+            <div class="pm-row">
+              <dt>KEYWORDS</dt>
+              <dd id="paper-keywords" class="pm-keywords">—</dd>
+            </div>
+            <div class="pm-row">
+              <dt>ABSTRACT EXCERPT</dt>
+              <dd id="paper-abstract" class="pm-abstract">—</dd>
+            </div>
+          </dl>
+        </section>
+
+        <!-- divider with marker -->
+        <div class="signal-break" aria-hidden="true">
+          <span class="signal-break-tick"></span>
+          <span class="signal-break-line"></span>
+          <span class="signal-break-label">DRAFT BODY</span>
+          <span class="signal-break-line"></span>
+          <span class="signal-break-tick"></span>
+        </div>
+
+        <div class="draft-frame" id="draft-frame">
+          <span class="scrub" aria-hidden="true"></span>
+          <pre class="draft-text" id="latest-text">// awaiting first transmission…</pre>
+        </div>
+
+        <div class="draft-source" id="latest-source" hidden>
+          <a id="latest-paper" class="source-link" href="#" target="_blank" rel="noopener">
+            <span class="source-prefix">SOURCE</span>
+            <span class="source-arrow">↗</span>
+            <span class="source-title" id="latest-paper-title"></span>
+          </a>
+
+          <!-- 複数図カルーセル (横スクロール) -->
+          <div class="figure-strip" id="figure-strip" hidden>
+            <header class="figure-strip-head">
+              <span class="fs-label">FIGURES</span>
+              <span class="fs-count" id="figure-count">— available</span>
+              <span class="fs-hint">↔ scroll</span>
+            </header>
+            <ol class="figure-list" id="figure-list"></ol>
+          </div>
+        </div>
+
+        <footer class="actions">
+          <button class="action-btn primary" id="copy-btn" type="button" disabled>
+            <span class="action-label">COPY DRAFT</span>
+            <span class="action-icon">⌘C</span>
+          </button>
+          <a
+            class="action-btn"
+            id="linkedin-link"
+            href="https://www.linkedin.com/feed/"
+            target="_blank"
+            rel="noopener"
+          >
+            <span class="action-label">OPEN LINKEDIN</span>
+            <span class="action-icon">↗</span>
+          </a>
+          <a
+            class="action-btn"
+            id="paper-btn"
+            href="#"
+            target="_blank"
+            rel="noopener"
+            hidden
+          >
+            <span class="action-label">READ PAPER</span>
+            <span class="action-icon">↗</span>
+          </a>
+        </footer>
+
+        <footer class="card-foot">
+          <span class="foot-marker">[ END / 01 ]</span>
+        </footer>
+      </article>
+
+      <!-- ─────────── 02 / ARCHIVE ─────────── -->
+      <aside class="card archive" aria-labelledby="archive-heading">
+        <header class="card-head">
+          <span class="card-marker">
+            <span class="marker-bracket">[</span>
+            <span class="marker-num">02</span>
+            <span class="marker-sep">/</span>
+            <span class="marker-name">ARCHIVE</span>
+            <span class="marker-bracket">]</span>
+          </span>
+          <span class="card-id" id="archive-count">— entries</span>
+        </header>
+
+        <h2 id="archive-heading" class="visually-hidden">ドラフト履歴</h2>
+
+        <div class="log-head" aria-hidden="true">
+          <span>TIME</span>
+          <span>TOPIC</span>
+          <span>RISK</span>
+        </div>
+
+        <ol class="log" id="history-list">
+          <li class="log-empty">
+            <span class="log-empty-mark">∅</span>
+            <span>awaiting archive…</span>
+          </li>
+        </ol>
+
+        <footer class="card-foot">
+          <span class="foot-marker">[ END / 02 ]</span>
+        </footer>
+      </aside>
+
+      <!-- ─────────── 03 / SYSTEM ─────────── -->
+      <section class="card system" aria-labelledby="system-heading">
+        <header class="card-head">
+          <span class="card-marker">
+            <span class="marker-bracket">[</span>
+            <span class="marker-num">03</span>
+            <span class="marker-sep">/</span>
+            <span class="marker-name">PROTOCOL</span>
+            <span class="marker-bracket">]</span>
+          </span>
+          <span class="card-id">system notes</span>
+        </header>
+
+        <h2 id="system-heading" class="visually-hidden">システム概要</h2>
+
+        <ul class="system-list">
+          <li>
+            <span class="sys-key">ACQUISITION</span>
+            <span class="sys-arrow">→</span>
+            <span class="sys-val">
+              arXiv <code>q-bio.NC</code> RSS, with PubMed E-utilities fallback
+              when feed is empty.
+            </span>
+          </li>
+          <li>
+            <span class="sys-key">PIPELINE</span>
+            <span class="sys-arrow">→</span>
+            <span class="sys-val">
+              Six narrative templates
+              <em>(paradigm-shift / data-driven / three-insights / future-vision
+              / neuro-ai-bridge / provocative-question)</em>
+              rotated by day-of-year.
+            </span>
+          </li>
+          <li>
+            <span class="sys-key">HEDGING</span>
+            <span class="sys-arrow">→</span>
+            <span class="sys-val">
+              Auto-rewrite when <code>risk_score &gt; 30</code>. Weights:
+              medical_assertion ×3.0, unreproducible ×2.5, exaggeration ×2.0,
+              missing_citation ×1.5.
+            </span>
+          </li>
+          <li>
+            <span class="sys-key">DEPLOYMENT</span>
+            <span class="sys-arrow">→</span>
+            <span class="sys-val">
+              GitHub Actions cron every 3 hours · commits
+              <code>public/data/*.json</code> · deploys to Firebase Hosting.
+            </span>
+          </li>
+        </ul>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-mark-row">
+        <span class="footer-mark">⏚</span>
+        <span class="footer-brand">CEREPORTAL</span>
+        <span class="footer-mark">⏚</span>
+      </div>
+      <p class="footer-meta">
+        MIT License · <span class="mono">node + tsc</span> · GitHub Actions ·
+        Firebase Hosting · <span class="mono">2026</span>
+      </p>
+      <p class="footer-signature">— end of transmission —</p>
+    </footer>
+
+    <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+    <script src="/assets/app.js" defer></script>
+  </body>
+</html>

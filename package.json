@@ -4,13 +4,20 @@
   "description": "MCP server for converting neuroscience knowledge into LinkedIn post drafts",
   "type": "module",
   "main": "dist/index.js",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
     "dev": "npx tsx src/index.ts",
     "daily": "node --env-file=.env --import tsx src/daily-run.ts",
     "daily:pick": "node --env-file=.env --import tsx src/daily-pick.ts",
-    "daily:build": "node --env-file=.env dist/daily-run.js"
+    "daily:build": "node --env-file=.env dist/daily-run.js",
+    "trend:check": "npm --prefix trend-reporter run check",
+    "trend:collect": "npm --prefix trend-reporter run collect --",
+    "configure:github": "npm --prefix trend-reporter run configure:github --",
+    "configure:firebase": "npm --prefix trend-reporter run configure:firebase --"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.0",

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>404 — NEURO·DRAFT REPORTER</title>
+    <meta name="color-scheme" content="dark" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,300..900,30..100,0..1&family=JetBrains+Mono:wght@300..700&display=swap"
+    />
+    <link rel="stylesheet" href="/assets/style.css" />
+    <style>
+      .nf {
+        position: relative;
+        z-index: 10;
+        max-width: 520px;
+        margin: clamp(80px, 18vh, 180px) auto;
+        padding: 48px 36px;
+        text-align: center;
+      }
+      .nf-num {
+        font-family: var(--serif);
+        font-size: clamp(96px, 18vw, 168px);
+        font-variation-settings: "opsz" 144, "WONK" 1, "SOFT" 30;
+        font-weight: 300;
+        line-height: 1;
+        color: var(--cream-1);
+        letter-spacing: -0.04em;
+        margin: 0 0 8px;
+      }
+      .nf-num span {
+        color: var(--signal);
+      }
+      .nf-marker {
+        font-family: var(--mono);
+        font-size: 11px;
+        letter-spacing: 0.22em;
+        color: var(--cream-4);
+        text-transform: uppercase;
+        margin: 0 0 24px;
+      }
+      .nf-msg {
+        font-family: var(--serif);
+        font-style: italic;
+        font-size: 18px;
+        color: var(--cream-2);
+        margin: 0 0 36px;
+        font-variation-settings: "opsz" 144, "WONK" 1;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="grid-bg" aria-hidden="true"></div>
+    <div class="grain" aria-hidden="true"></div>
+    <div class="vignette" aria-hidden="true"></div>
+
+    <main class="nf card">
+      <p class="nf-marker">[ TRANSMISSION INTERRUPTED ]</p>
+      <h1 class="nf-num">4<span>0</span>4</h1>
+      <p class="nf-msg">signal not found at this coordinate</p>
+      <a href="/" class="action-btn primary">
+        <span class="action-label">RETURN TO DASHBOARD</span>
+        <span class="action-icon">↩</span>
+      </a>
+    </main>
+  </body>
+</html>

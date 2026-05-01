@@ -10,6 +10,8 @@ export interface PaperInfo {
   link: string;
   publishedDate: string;
   source: string;
+  /** 論文著者を ", " 区切りで連結 (取得できない場合は空文字) */
+  authors: string;
 }
 
 const PUBMED_SEARCH_TERM = encodeURIComponent(
@@ -101,6 +103,19 @@ function parsePubmedXml(xml: string): PaperInfo[] {
     const month = extractTag(article, "Month");
     const day = extractTag(article, "Day");
 
+    // PubMed Author entries: <Author><LastName>...</LastName><ForeName>...</ForeName></Author>
+    const authorMatches: string[] = [];
+    const authorRegex = /<Author[^>]*>([\s\S]*?)<\/Author>/g;
+    let am;
+    while ((am = authorRegex.exec(article)) !== null) {
+      const last = extractTag(am[1], "LastName");
+      const fore = extractTag(am[1], "ForeName") || extractTag(am[1], "Initials");
+      if (last) {
+        authorMatches.push(cleanText(`${fore || ""} ${last}`).trim());
+      }
+      if (authorMatches.length >= 6) break;
+    }
+
     if (title) {
       papers.push({
         title: cleanText(title),
@@ -108,6 +123,7 @@ function parsePubmedXml(xml: string): PaperInfo[] {
         link: pmid ? `https://pubmed.ncbi.nlm.nih.gov/${cleanText(pmid)}/` : "",
         publishedDate: [year, month, day].filter(Boolean).map((s) => cleanText(s!)).join("-"),
         source: "pubmed-api",
+        authors: authorMatches.join(", "),
       });
     }
   }
@@ -134,6 +150,16 @@ function parseAtom(xml: string, feedUrl: string): PaperInfo[] {
     const link = extractAtomLink(entry);
     const date = extractTag(entry, "published") || extractTag(entry, "updated") || "";
 
+    // Atom: <author><name>...</name></author> ×N
+    const authorRegex = /<author[^>]*>([\s\S]*?)<\/author>/gi;
+    const authors: string[] = [];
+    let am;
+    while ((am = authorRegex.exec(entry)) !== null) {
+      const name = extractTag(am[1], "name");
+      if (name) authors.push(cleanText(name));
+      if (authors.length >= 6) break;
+    }
+
     if (title) {
       items.push({
         title: cleanText(title),
@@ -141,6 +167,7 @@ function parseAtom(xml: string, feedUrl: string): PaperInfo[] {
         link: link || "",
         publishedDate: date,
         source: feedUrl,
+        authors: authors.join(", "),
       });
     }
   }
@@ -160,6 +187,10 @@ function parseRss(xml: string, feedUrl: string): PaperInfo[] {
     const link = extractTag(item, "link");
     const date = extractTag(item, "pubDate") || "";
 
+    // RSS 2.0: <dc:creator> または <author>。複数登場するケースに対応。
+    const creator =
+      extractTag(item, "dc:creator") || extractTag(item, "author") || "";
+
     if (title) {
       items.push({
         title: cleanText(title),
@@ -167,6 +198,7 @@ function parseRss(xml: string, feedUrl: string): PaperInfo[] {
         link: cleanText(link || ""),
         publishedDate: date,
         source: feedUrl,
+        authors: cleanText(creator || ""),
       });
     }
   }
@@ -217,14 +249,16 @@ function cleanText(text: string): string {
 // ────────────────────────────────────────────
 
 /**
- * arXiv 論文の HTML バージョンから最初の図表画像URLを取得する。
- * 取得できない場合は null を返す（エラーは握りつぶす）。
+ * arXiv 論文の HTML バージョンから複数の図表画像URLを取得する。
+ * 最大 maxFigs 枚 (デフォルト3) まで。取得できない場合は空配列。
  */
-export async function extractPaperFigure(paperLink: string): Promise<string | null> {
+export async function extractPaperFigures(
+  paperLink: string,
+  maxFigs = 3
+): Promise<string[]> {
   try {
-    // arXiv ID を抽出
     const match = paperLink.match(/arxiv\.org\/abs\/([^\s?#]+)/);
-    if (!match) return null;
+    if (!match) return [];
 
     const arxivId = match[1].replace(/v\d+$/, "");
     const htmlUrl = `https://arxiv.org/html/${arxivId}`;
@@ -234,21 +268,32 @@ export async function extractPaperFigure(paperLink: string): Promise<string | nu
       signal: AbortSignal.timeout(10_000),
     });
 
-    if (!response.ok) return null;
+    if (!response.ok) return [];
 
     const html = await response.text();
 
-    // <figure> 内の <img src="..."> を探す
     const figRegex = /<figure[^>]*>[\s\S]*?<img[^>]*src="([^"]+)"[^>]*>/gi;
-    const figMatch = figRegex.exec(html);
-    if (!figMatch) return null;
-
-    const imgSrc = figMatch[1];
-    // 相対URLを絶対URLに変換
-    if (imgSrc.startsWith("http")) return imgSrc;
-    if (imgSrc.startsWith("/")) return `https://arxiv.org${imgSrc}`;
-    return `https://arxiv.org/html/${arxivId}/${imgSrc}`;
+    const figs: string[] = [];
+    let m;
+    while ((m = figRegex.exec(html)) !== null && figs.length < maxFigs) {
+      const imgSrc = m[1];
+      let abs: string;
+      if (imgSrc.startsWith("http")) abs = imgSrc;
+      else if (imgSrc.startsWith("/")) abs = `https://arxiv.org${imgSrc}`;
+      else abs = `https://arxiv.org/html/${arxivId}/${imgSrc}`;
+      // 重複除外
+      if (!figs.includes(abs)) figs.push(abs);
+    }
+    return figs;
   } catch {
-    return null;
+    return [];
   }
+}
+
+/** 後方互換: 1枚目のみ返す既存シグネチャ */
+export async function extractPaperFigure(
+  paperLink: string
+): Promise<string | null> {
+  const figs = await extractPaperFigures(paperLink, 1);
+  return figs[0] ?? null;
 }

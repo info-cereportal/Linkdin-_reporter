@@ -1,0 +1,137 @@
+name: Collect neuro trends
+
+on:
+  schedule:
+    # 06:00 JST daily. A JST-day parity gate below makes this every other day.
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+    inputs:
+      section:
+        description: "Collector section to run"
+        required: true
+        default: "all"
+        type: choice
+        options:
+          - all
+          - papers
+          - news
+          - startups
+          - funding
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      should_run: ${{ steps.gate.outputs.run }}
+    steps:
+      - name: Decide scheduled run
+        id: gate
+        env:
+          RUN_PARITY: ${{ vars.RUN_PARITY || '0' }}
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          jst_day=$(( ( $(date -u +%s) + 32400 ) / 86400 ))
+          if [ $(( jst_day % 2 )) -eq "$RUN_PARITY" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "Skip: JST day parity does not match RUN_PARITY=$RUN_PARITY"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
+
+      - uses: actions/setup-node@v4
+        if: steps.gate.outputs.run == 'true'
+        with:
+          node-version: "22"
+
+      - name: Check syntax
+        if: steps.gate.outputs.run == 'true'
+        run: npm run check
+
+      - name: Collect data
+        if: steps.gate.outputs.run == 'true'
+        env:
+          SECTION: ${{ inputs.section || 'all' }}
+          TOPIC_KEYWORDS: ${{ vars.TOPIC_KEYWORDS }}
+          PAPER_QUERY: ${{ vars.PAPER_QUERY }}
+          OPENALEX_MAILTO: ${{ vars.OPENALEX_MAILTO }}
+          NEWS_FEEDS: ${{ vars.NEWS_FEEDS }}
+          STARTUP_FEEDS: ${{ vars.STARTUP_FEEDS }}
+          STARTUP_QUERIES: ${{ vars.STARTUP_QUERIES }}
+          FUNDING_FEEDS: ${{ vars.FUNDING_FEEDS }}
+          FUNDING_KEYWORDS: ${{ vars.FUNDING_KEYWORDS }}
+          GRANTS_GOV_AGENCIES: ${{ vars.GRANTS_GOV_AGENCIES }}
+          GRANTS_GOV_FUNDING_CATEGORIES: ${{ vars.GRANTS_GOV_FUNDING_CATEGORIES }}
+        run: npm run collect -- --section "$SECTION"
+
+      - name: Commit generated data
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/history.json public/data/*.json
+          git diff --cached --quiet || git commit -m "chore: update trend data [skip ci]"
+          git push || true
+
+      - name: Deploy to Firebase Hosting
+        if: steps.gate.outputs.run == 'true'
+        env:
+          FIREBASE_PROJECT_ID: ${{ vars.FIREBASE_PROJECT_ID }}
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: |
+          if [ -z "${FIREBASE_PROJECT_ID:-}" ]; then
+            echo "Skip Firebase deploy: FIREBASE_PROJECT_ID is not set."
+            exit 0
+          fi
+
+          if [ -z "${FIREBASE_SERVICE_ACCOUNT:-}" ]; then
+            echo "Skip Firebase deploy: FIREBASE_SERVICE_ACCOUNT secret is not set."
+            exit 0
+          fi
+
+          credentials_file="$RUNNER_TEMP/firebase-service-account.json"
+          printf '%s' "$FIREBASE_SERVICE_ACCOUNT" > "$credentials_file"
+          export GOOGLE_APPLICATION_CREDENTIALS="$credentials_file"
+
+          npx --yes firebase-tools@latest deploy \
+            --only hosting \
+            --project "$FIREBASE_PROJECT_ID" \
+            --non-interactive
+
+      - uses: actions/configure-pages@v5
+        if: steps.gate.outputs.run == 'true'
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.gate.outputs.run == 'true'
+        with:
+          path: public
+
+  deploy:
+    needs: collect
+    if: needs.collect.outputs.should_run == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment

@@ -3,3 +3,6 @@ dist/
 .env
 .daily-history.json
 .claude/
+.firebase/
+firebase-debug.log
+firebase-debug.*.log

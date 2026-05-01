@@ -1,0 +1,4047 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-04-30T08:51:22.006Z",
+  "compare": {
+    "currentYear": 2026,
+    "previousYear": 2025
+  },
+  "notes": [
+    "Access growth is available only for URLs present in data/access-metrics.json or another configured metrics file.",
+    "Paper trend growth uses OpenAlex citation counts by year, not page views."
+  ],
+  "sections": [
+    {
+      "section": "papers",
+      "title": "Papers",
+      "description": "Recent and citation-growing neuroscience-related papers from OpenAlex.",
+      "sourceCount": 1,
+      "items": [
+        {
+          "id": "https://openalex.org/W7156709786",
+          "kind": "paper",
+          "title": "A structured narrative review on VNS-treated drug-resistant epilepsy: EEG markers, neurochemical mechanisms, and future biomarker-driven computational directions",
+          "summary": "Vagus nerve stimulation (VNS) is an established adjunctive therapy for drug-resistant epilepsy. Experimental and clinical evidence indicates that its therapeutic effects involve distributed brain networks and multiple neurochemical pathways. Electroencephalography (EEG) has been widely used to characterize VNS-related neurophysiological changes, including alterations in conventional oscillatory activity, functional connectivity, and, more recently, aperiodic spectral components such as the spectral exponent and spectral offset. However, these EEG findings are often interpreted without sufficie",
+          "url": "https://doi.org/10.3389/fnins.2026.1813014",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Frontiers in Neuroscience",
+          "authors": [
+            "Antonella Muroni",
+            "Krishna Moorthi Bhat",
+            "Alberto Maleci",
+            "Francesco Marrosu"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813014/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "neuromodulation",
+            "brain"
+          ],
+          "signalScore": 24,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7157086584",
+          "kind": "paper",
+          "title": "Human brain data: a valuable and open-ended resource for artificial intelligence",
+          "summary": "Experimental evidence increasingly demonstrates that human brain data can be leveraged to train artificial intelligence models. In this context, neuroimaging data is both valuable, since it can improve model performance and could be prioritized for high-value steps in model training, and open-ended, since future neuroscience discoveries could retroactively identify new neural signals of interest in current neuroimaging datasets. The emergence of human brain data as a valuable and open-ended resource for artificial intelligence, including for foundation models, could translate into a new and st",
+          "url": "https://doi.org/10.3389/fnhum.2026.1808115",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Frontiers in Human Neuroscience",
+          "authors": [
+            "Maël Donoso"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1808115/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neural"
+          ],
+          "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7156793505",
+          "kind": "paper",
+          "title": "Editorial: Mechanisms and interventions for enhancing cognitive reserve in aging populations",
+          "summary": "Population aging, driven by increased life expectancy, has transformed global health needs. Preserving cognitive function in middle and older age is today a critical health priority, as advancing age is the principal non-modifiable risk factor for neurocognitive disorders (NCDs) (Colita et al.,2024;Whalley et al., 2004). Aging implies biological, psychological, and social changes, and entails a physiological cognitive decline that, in some cases, can be exacerbated by pathological processes leading to NCDs. In this context, cognitive reserve (CR) -a multidimensional construct that reflects cog",
+          "url": "https://doi.org/10.3389/fnins.2026.1830725",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Frontiers in Neuroscience",
+          "authors": [
+            "Juan Silva-Pereyra",
+            "Thalı́a Fernández",
+            "Valia Rodríguez-Rodríguez"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1830725/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neural"
+          ],
+          "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7157024744",
+          "kind": "paper",
+          "title": "Characteristics of striatal changes in diabetic retinopathy and type 2 diabetes: a resting-state functional magnetic resonance imaging study",
+          "summary": "The presence of reward-related neural deficits in type 2 diabetes mellitus (T2DM) and its microvascular complications has been linked to abnormal striatal function. However, differences in striatal whole-brain functional connectivity (FC) between patients with diabetic retinopathy (DR) and those with T2DM without retinopathy remain unclear. In this study, 30 patients with DR, 30 with T2DM, and 29 healthy controls (HCs) were recruited. A seed-based FC approach was employed to analyze alterations across six predefined striatal subregions among the three groups and to examine correlations between",
+          "url": "https://doi.org/10.3389/fnhum.2026.1765793",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Frontiers in Human Neuroscience",
+          "authors": [
+            "Man Song",
+            "Siyi Lai",
+            "Shimei Wei",
+            "Liangyan Yi",
+            "Duan Wang"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1765793/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neural"
+          ],
+          "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7157302464",
+          "kind": "paper",
+          "title": "Benchmarking functional brain network organization in childhood and its similarity to adults",
+          "summary": "Understanding how large-scale functional networks mature across development is essential for linking brain organization to cognition and behavior. Thus, the population-level organization of functional networks in children and how it compares to adult network architecture deserves further study. Using resting-state fMRI data from 7,316 children aged 9–10 years in the Adolescent Brain Cognitive Development (ABCD) Study, we mapped functional networks in matched discovery ( n = 3,624) and replication ( n = 3,692) cohorts in the cerebral cortex, basal ganglia, thalamus, and cerebellum. Functional c",
+          "url": "https://doi.org/10.3389/fnimg.2026.1818662",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Frontiers in Neuroimaging",
+          "authors": [
+            "Sana A. Ali",
+            "Damion V. Demeter",
+            "Abigail R. Baim",
+            "Emily M. Koithan",
+            "Matthew Feigelis"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/neuroimaging/articles/10.3389/fnimg.2026.1818662/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "cortex",
+            "connectome"
+          ],
+          "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7157286163",
+          "kind": "paper",
+          "title": "From Neural Rupture to Narrative Deceit: Ishiguro's Portrayal of Trauma Induced Memory Dysregulation",
+          "summary": "Abstract Kazuo Ishiguro effectively examines the interconnections of trauma, memory, and identity through his intensely reflective characters in his works. This paper examines two of his important works, The Remains of the Day (1989) and Never Let Me Go (2005), from trauma studies and neuroscience. It explores how Ishiguro’s narratives explain trauma’s psychological and neuronal structures through theoretical structures from Antonio Damasio’s “Self Comes to Mind,” Anne Whitehead’s “Trauma Fiction,” and Catherine Malabou’s “The New Wounded from Neurosis to Brain Damage.” The aim is to examine h",
+          "url": "https://doi.org/10.5281/zenodo.19780854",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Tiyasha Roy",
+            "Karishma Bisht"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.19780854"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neural"
+          ],
+          "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7156923240",
+          "kind": "paper",
+          "title": "From Neural Rupture to Narrative Deceit: Ishiguro's Portrayal of Trauma Induced Memory Dysregulation",
+          "summary": "Abstract Kazuo Ishiguro effectively examines the interconnections of trauma, memory, and identity through his intensely reflective characters in his works. This paper examines two of his important works, The Remains of the Day (1989) and Never Let Me Go (2005), from trauma studies and neuroscience. It explores how Ishiguro’s narratives explain trauma’s psychological and neuronal structures through theoretical structures from Antonio Damasio’s “Self Comes to Mind,” Anne Whitehead’s “Trauma Fiction,” and Catherine Malabou’s “The New Wounded from Neurosis to Brain Damage.” The aim is to examine h",
+          "url": "https://doi.org/10.5281/zenodo.19780855",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Tiyasha Roy",
+            "Karishma Bisht"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.19780855"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neural"
+          ],
+          "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2031753087",
+          "kind": "paper",
+          "title": "Fractional Brownian Motions, Fractional Noises and Applications",
+          "summary": "Previous article Next article Fractional Brownian Motions, Fractional Noises and ApplicationsBenoit B. Mandelbrot and John W. Van NessBenoit B. Mandelbrot and John W. Van Nesshttps://doi.org/10.1137/1010093PDFBibTexSections ToolsAdd to favoritesExport CitationTrack CitationsEmail SectionsAbout[1] I. Adelman, Long cycles—fact or artifact?, Amer. Economic Rev., 60 (1965), 444–463 Google Scholar[2] William Feller, The asymptotic distribution of the range of sums of independent random variables, Ann. Math. Statistics, 22 (1951), 427–432 MR0042626 0043.34201 CrossrefISIGoogle Scholar[3] I. M. Gel'f",
+          "url": "https://doi.org/10.1137/1010093",
+          "publishedAt": "1968-10-01T00:00:00.000Z",
+          "source": "SIAM Review",
+          "authors": [
+            "Benoît B. Mandelbrot",
+            "John W. Van Ness"
+          ],
+          "openAccess": {
+            "isOpen": false,
+            "url": ""
+          },
+          "metrics": {
+            "citedByCount": 7650
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 93,
+            "previousValue": 335,
+            "delta": -242,
+            "growthRate": -0.7224,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neural",
+            "cortex"
+          ],
+          "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7156799480",
+          "kind": "paper",
+          "title": "Imaging of Embryonic and Fetal Brain Development Using MRI Microscopy: Achieving High Spatial Resolution",
+          "summary": "The visualization of embryonic and fetal brain development at mesoscopic resolution represents a critical frontier in developmental neuroscience. This review presents advances in high-field magnetic resonance imaging (HF-MRI) that achieve unprecedented spatial resolution in ex vivo human embryonic and fetal brain specimens. This mesoscopic imaging capability bridges the gap between conventional clinical MRI and histological microscopy, enabling three-dimensional visualization of transient developmental structures including cortical lamination, ganglionic eminences, and emerging white matter pa",
+          "url": "https://doi.org/10.3390/medsci14020219",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Medical Sciences",
+          "authors": [
+            "Dan Boitor",
+            "Alexandru Farcasanu",
+            "Simion Şimon",
+            "Daniel Muresan",
+            "Ioana Cristina Rotar"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.3390/medsci14020219"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7157191675",
+          "kind": "paper",
+          "title": "Pulvinar subdivisions and connectivity patterns across primate species: a comparative perspective",
+          "summary": "With the advances in our ability to perturb brain activity in recent years, new stimulation techniques have become essential tools in human neuroscience. Non-invasive stimulation methods, such as transcranial magnetic stimulation (TMS), as well as deep brain stimulation (DBS) delivered invasively to access deep brain structures, have been applied in both basic and clinical research and in the treatment of neurological conditions including Parkinson’s disease, essential tremor and epilepsy. In the context of epilepsy, neuromodulatory interventions have demonstrated encouraging results in reduci",
+          "url": "https://doi.org/10.3389/fnana.2026.1794659",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Frontiers in Neuroanatomy",
+          "authors": [
+            "Juliana G. M. Soares",
+            "Amaro R. A. Correia",
+            "Ricardo Gattass",
+            "Bruss Lima"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/neuroanatomy/articles/10.3389/fnana.2026.1794659/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7156575654",
+          "kind": "paper",
+          "title": "Relating brain function to cognitive-visuomotor integration performance in working-aged adults with persisting concussion symptoms",
+          "summary": "Introduction In everyday life we interact with our environment in an indirect way, where there is a mapping between the viewed goal of our action and the required movement (e.g., using a computer mouse). Such tasks require cognitive- motor integration (CMI), where rules dictate the relationship between perception and action. Previous research with primarily young adult male athletes has demonstrated that the underlying movement and cognitive control networks that rely on intact frontal, parietal, and subcortical brain region connectivity may be compromised following concussion, resulting in an",
+          "url": "https://doi.org/10.3389/fnhum.2026.1772037",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Frontiers in Human Neuroscience",
+          "authors": [
+            "Miracle E. Ozzoude",
+            "Diana J. Gorbet",
+            "Alison Macpherson",
+            "Lauren E. Sergio"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1772037/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2104135721",
+          "kind": "paper",
+          "title": "A robust and high-throughput Cre reporting and characterization system for the whole mouse brain",
+          "summary": "",
+          "url": "https://doi.org/10.1038/nn.2467",
+          "publishedAt": "2009-12-20T00:00:00.000Z",
+          "source": "Nature Neuroscience",
+          "authors": [
+            "Linda Madisen",
+            "Theresa A. Zwingman",
+            "Susan M. Sunkin",
+            "Seung Wook Oh",
+            "Hatim A. Zariwala"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.nature.com/articles/nn.2467.pdf"
+          },
+          "metrics": {
+            "citedByCount": 7297
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 197,
+            "previousValue": 731,
+            "delta": -534,
+            "growthRate": -0.7305,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2116658855",
+          "kind": "paper",
+          "title": "Dissociable Intrinsic Connectivity Networks for Salience Processing and Executive Control",
+          "summary": "Variations in neural circuitry, inherited or acquired, may underlie important individual differences in thought, feeling, and action patterns. Here, we used task-free connectivity analyses to isolate and characterize two distinct networks typically coactivated during functional MRI tasks. We identified a \"salience network,\" anchored by dorsal anterior cingulate (dACC) and orbital frontoinsular cortices with robust connectivity to subcortical and limbic structures, and an \"executive-control network\" that links dorsolateral frontal and parietal neocortices. These intrinsic connectivity networks ",
+          "url": "https://doi.org/10.1523/jneurosci.5587-06.2007",
+          "publishedAt": "2007-02-28T00:00:00.000Z",
+          "source": "Journal of Neuroscience",
+          "authors": [
+            "William W. Seeley",
+            "Vinod Menon",
+            "Alan F. Schatzberg",
+            "Jennifer Keller",
+            "Gary H. Glover"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.jneurosci.org/content/jneuro/27/9/2349.full.pdf"
+          },
+          "metrics": {
+            "citedByCount": 7444
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 156,
+            "previousValue": 473,
+            "delta": -317,
+            "growthRate": -0.6702,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience",
+            "neural"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7156858058",
+          "kind": "paper",
+          "title": "Eleos, Misericordia, and the Moral Imagination",
+          "summary": "The ancient Greeks had no word for what we now call empathy, yet their moral philosophy was saturated with sophisticated concepts of compassion, fellow-feeling, and the ethical demand to attend to suffering. This paper traces the genealogy of compassion from the Greek eleos and sympatheia through the Roman misericordia, clementia, and humanitas, demonstrating that classical moral thought developed a rich phenomenology of other-directed concern that operated without the modern concept of empathic projection. The paper then examines the contemporary anti-empathy movement—principally the work of ",
+          "url": "https://doi.org/10.5281/zenodo.19867913",
+          "publishedAt": "2026-04-29T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Nigel Randsley"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.19867913"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7156721412",
+          "kind": "paper",
+          "title": "Eleos, Misericordia, and the Moral Imagination",
+          "summary": "The ancient Greeks had no word for what we now call empathy, yet their moral philosophy was saturated with sophisticated concepts of compassion, fellow-feeling, and the ethical demand to attend to suffering. This paper traces the genealogy of compassion from the Greek eleos and sympatheia through the Roman misericordia, clementia, and humanitas, demonstrating that classical moral thought developed a rich phenomenology of other-directed concern that operated without the modern concept of empathic projection. The paper then examines the contemporary anti-empathy movement—principally the work of ",
+          "url": "https://doi.org/10.5281/zenodo.19867914",
+          "publishedAt": "2026-04-29T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Nigel Randsley"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.19867914"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7156289405",
+          "kind": "paper",
+          "title": "AI coding agents with custom model context protocols successfully reproduce foundational systems neuroscience discoveries from NWB data on the DANDI Archive",
+          "summary": "",
+          "url": "https://doi.org/10.5281/zenodo.19834561",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "Benjamin Dichter",
+            "Jeremy F. Magland",
+            "Oliver Ruebel",
+            "Satrajit Ghosh"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.19834561"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7157285189",
+          "kind": "paper",
+          "title": "The Cognitive Architecture of Culpability: Psychological Dimensions of the Mental Element Standard under Article 30 of the Rome Statute",
+          "summary": "Article 30 of the Rome Statute establishes the default threshold for individual criminal responsibility before the International Criminal Court, requiring proof of intent and knowledge as the minimum conditions for culpability. While the provision has attracted considerable doctrinal commentary and judicial attention, its psychological underpinnings remain largely unexplored. This article examines the mental element standard through the lens of cognitive psychology and neuroscience, contending that the dominant interpretations of Article 30 rest on a rationalist model of the mind that does not",
+          "url": "https://doi.org/10.5281/zenodo.19863747",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "O J Olaoye-Adeola"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.19863747"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7156361268",
+          "kind": "paper",
+          "title": "Editorial: Quantum biology",
+          "summary": "Biology: the case of the avian compass provides a pedagogical introduction to quantum-mechanical concepts most relevant to biological systems, using avian magnetoreception as a guiding example. By presenting didactically the radical pair mechanism the article clarifies how spin dynamics and quantum coherence can influence biochemical reactions in living organisms. In doing so, it bridges fundamental quantum theory with a biologically motivated model system, helping to situate magnetoreception within the broader context of quantum effects in biology that this Research Topic seeks to explore.The",
+          "url": "https://doi.org/10.3389/fphot.2026.1826400",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Frontiers in Photonics",
+          "authors": [
+            "Marcelo Victor Pires de Sousa"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/photonics/articles/10.3389/fphot.2026.1826400/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7157019118",
+          "kind": "paper",
+          "title": "The pattern of fMRI activation with STN DBS reveals symptom-specific networks",
+          "summary": "The network changes elicited by deep brain stimulation (DBS) in Parkinson’s disease (PD) remain incompletely understood. We used functional MRI (fMRI) during active stimulation of the subthalamic nucleus (STN) to identify brain networks associated with clinical improvement. Forty PD patients (61 y ±8, 40% female) underwent 3-Tesla fMRI during active stimulation. Stimulation-induced changes in brain activity were correlated with outcomes (tremor, rigidity, bradykinesia, and axial instability). Symptom-specific fMRI response maps revealed distributed networks associated with long-term motor impr",
+          "url": "https://doi.org/10.1038/s41531-026-01368-x",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "npj Parkinson s Disease",
+          "authors": [
+            "Brendan Santyr",
+            "Aaron Loh",
+            "Jürgen Germann",
+            "Alexandre Boutet",
+            "Afis Ajala"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.nature.com/articles/s41531-026-01368-x_reference.pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "neural"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7156989613",
+          "kind": "paper",
+          "title": "Association of the C-reactive protein-albumin-lymphocyte index with clinical outcomes after mechanical thrombectomy for acute ischemic stroke",
+          "summary": "Objective This study aims to explore the associations of C-reactive protein-albumin-lymphocyte (CALLY) index with hemorrhagic transformation (HT), malignant cerebral edema (MCE), and 90-day unfavorable outcome and all-cause mortality in patients with acute ischemic stroke (AIS) following mechanical thrombectomy (MT). Methods A retrospective study was conducted. The CALLY index was calculated as albumin × lymphocyte count/(CRP × 10). Unfavorable outcome was defined as the modified Rankin Scale score &amp;gt;2 at 90-day follow-up. Multivariable logistic analyses were performed to evaluate the as",
+          "url": "https://doi.org/10.3389/fnagi.2026.1817455",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Frontiers in Aging Neuroscience",
+          "authors": [
+            "Jin Li",
+            "青少华",
+            "Longyi Zheng",
+            "Shuang Tang",
+            "Jia Duan"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1817455/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7157337239",
+          "kind": "paper",
+          "title": "Ambient Frame Retrieval Bias: A Cross-Environment Mechanism Investigation",
+          "summary": "A research brief documenting two related but distinct retrieval-level phenomena observed during cross-environment analysis of an LLM-based knowledge system: Ambient Frame Retrieval Bias (the ambient context of each environment pre-shapes how questions are interpreted before retrieval begins) and Premature Retrieval Closure (retrieval terminates when structured sources answer first and look complete, before causal/narrative layers are consulted). The brief grounds these phenomena in HCI/ecological-psychology literature (Gibson's affordances, Hutchins's distributed cognition) as primary, with ne",
+          "url": "https://doi.org/10.5281/zenodo.19839666",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Zenodo (CERN European Organization for Nuclear Research)",
+          "authors": [
+            "John Wade"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://doi.org/10.5281/zenodo.19839666"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7157253433",
+          "kind": "paper",
+          "title": "The effect of working memory load on interference inhibition in table tennis athletes: the moderating role of motor expertise",
+          "summary": "Background Although the effect of working memory load on interference inhibition has been widely investigated, how the effect manifests in expert athletes remains unclear. Methods A dual-task paradigm combining an n-back task and a Spatial Stroop task was employed. 20 table tennis athletes and 19 non-athletes were recruited, and event-related potentials (ERPs) and event-related spectral perturbations (ERSPs) were analyzed to examine underlying neural activity patterns. Results In the Spatial Stroop task, increased working memory load reduced the interference effect on RTs and midfrontal theta ",
+          "url": "https://doi.org/10.3389/fpsyg.2026.1812346",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Frontiers in Psychology",
+          "authors": [
+            "Hongyu Chen"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1812346/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain",
+            "neural"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2751884637",
+          "kind": "paper",
+          "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016",
+          "summary": "BACKGROUND: As mortality rates decline, life expectancy increases, and populations age, non-fatal outcomes of diseases and injuries are becoming a larger component of the global burden of disease. The Global Burden of Diseases, Injuries, and Risk Factors Study 2016 (GBD 2016) provides a comprehensive assessment of prevalence, incidence, and years lived with disability (YLDs) for 328 causes in 195 countries and territories from 1990 to 2016. METHODS: We estimated prevalence and incidence for 328 diseases and injuries and 2982 sequelae, their non-fatal consequences. We used DisMod-MR 2.1, a Baye",
+          "url": "https://doi.org/10.1016/s0140-6736(17)32154-2",
+          "publishedAt": "2017-09-01T00:00:00.000Z",
+          "source": "The Lancet",
+          "authors": [
+            "Theo Vos",
+            "Amanuel Alemu Abajobir",
+            "Kalkidan Hassen Abate",
+            "Cristiana Abbafati",
+            "Kaja Abbas"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "http://www.thelancet.com/article/S0140673617321542/pdf"
+          },
+          "metrics": {
+            "citedByCount": 13467
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 134,
+            "previousValue": 654,
+            "delta": -520,
+            "growthRate": -0.7951,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "mental health"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2166073443",
+          "kind": "paper",
+          "title": "FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data",
+          "summary": "This paper describes FieldTrip, an open source software package that we developed for the analysis of MEG, EEG, and other electrophysiological data. The software is implemented as a MATLAB toolbox and includes a complete set of consistent and user-friendly high-level functions that allow experimental neuroscientists to analyze experimental data. It includes algorithms for simple and advanced analysis, such as time-frequency analysis using multitapers, source reconstruction using dipoles, distributed sources and beamformers, connectivity analysis, and nonparametric statistical permutation tests",
+          "url": "https://doi.org/10.1155/2011/156869",
+          "publishedAt": "2010-12-23T00:00:00.000Z",
+          "source": "Computational Intelligence and Neuroscience",
+          "authors": [
+            "Robert Oostenveld",
+            "Pascal Fries",
+            "Eric Maris",
+            "Jan‐Mathijs Schoffelen"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf"
+          },
+          "metrics": {
+            "citedByCount": 11176
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 277,
+            "previousValue": 1226,
+            "delta": -949,
+            "growthRate": -0.7741,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W1977465442",
+          "kind": "paper",
+          "title": "Research Domain Criteria (RDoC): Toward a New Classification Framework for Research on Mental Disorders",
+          "summary": "Current versions of the DSM and ICD have facilitated reliable clinical diagnosis and research. However, problems have increasingly been documented over the past several years, both in clinical and research arenas (e.g., 1, 2). Diagnostic categories based on clinical consensus fail to align with findings emerging from clinical neuroscience and genetics. The boundaries of these categories have not been predictive of treatment response. And, perhaps most important, these categories, based upon presenting signs and symptoms, may not capture fundamental underlying mechanisms of dysfunction. One con",
+          "url": "https://doi.org/10.1176/appi.ajp.2010.09091379",
+          "publishedAt": "2010-07-01T00:00:00.000Z",
+          "source": "American Journal of Psychiatry",
+          "authors": [
+            "Thomas R. Insel",
+            "Bruce N. Cuthbert",
+            "Marjorie A. Garvey",
+            "Robert Heinssen",
+            "Daniel S. Pine"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://works.bepress.com/charles_sanislow/2/download/"
+          },
+          "metrics": {
+            "citedByCount": 6962
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 157,
+            "previousValue": 450,
+            "delta": -293,
+            "growthRate": -0.6511,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W2138825607",
+          "kind": "paper",
+          "title": "Image processing with ImageJ",
+          "summary": "Wayne Rasband of NIH has created ImageJ, an open source Java-written program that is now at version 1.31 and is used for many imaging applications, including those that that span the gamut from skin analysis to neuroscience. ImageJ is in the public domain and runs on any operating system (OS). ImageJ is easy to use and can do many imaging manipulations. A very large and knowledgeable group makes up the user community for ImageJ. Topics covered are imaging abilities; cross platform; image formats support as of June 2004; extensions, including macros and plug-ins; and imaging library. NIH report",
+          "url": "https://dspace.library.uu.nl/handle/1874/204900",
+          "publishedAt": "2004-01-01T00:00:00.000Z",
+          "source": "Data Archiving and Networked Services (DANS)",
+          "authors": [
+            "Michael D. Abràmoff",
+            "Paulo Magalhães",
+            "Sunanda J. Ram"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://dspace.library.uu.nl/handle/1874/204900"
+          },
+          "metrics": {
+            "citedByCount": 11903
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 1,
+            "previousValue": 215,
+            "delta": -214,
+            "growthRate": -0.9953,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neuroscience"
+          ],
+          "signalScore": 12,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7156965438",
+          "kind": "paper",
+          "title": "Hypnotizability and Time Reproduction",
+          "summary": "Abstract Hypnotizability is a psychophysiological trait associated with structural variation in brain regions implicated in time perception, such as the cerebellum and the insula. This study investigated time reproduction across different interval durations in individuals with varying levels of hypnotizability. Forty healthy, right-handed participants of both sexes were assessed using the Stanford Hypnotic Susceptibility Scale: Form A and completed a time reproduction task consisting of visually presented intervals of 1, 3, 6, and 8 s (10 trials per duration). Relative proportional error (RE) ",
+          "url": "https://doi.org/10.1007/s12311-026-02005-2",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "The Cerebellum",
+          "authors": [
+            "Žan Zelič",
+            "Valentina Puccini",
+            "Enrica L. Santarcangelo"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://link.springer.com/content/pdf/10.1007/s12311-026-02005-2.pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 8,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7156677715",
+          "kind": "paper",
+          "title": "miR-511-3p dysregulation-mediated AKT3/USP8 signaling imbalance: a molecular bridge between neuroinflammation and PSCI",
+          "summary": "Background This study aims to explore the regulatory effect of miR-511-3p expression imbalance on the AKT3/USP8 signaling pathway, as well as the “molecular bridge” function of this signaling imbalance between neuroinflammation and post-stroke cognitive impairment (PSCI). Methods 118 stroke patients and 80 healthy individuals were enrolled. Bioinformatics and dual-luciferase assays confirmed miR-511-3p - AKT3 interaction. Oxygen-glucose deprivation/reoxygenation (OGD/R) established a stroke inflammatory cell model. Inflammatory cytokines were measured via ELISA. RT-qPCR detected miR-511-3p, AK",
+          "url": "https://doi.org/10.3389/fimmu.2026.1766326",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Frontiers in Immunology",
+          "authors": [
+            "Wei Zhao",
+            "Kangping Song",
+            "Fen Yang",
+            "Hui Xiao",
+            "Yan Liu"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1766326/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "neural"
+          ],
+          "signalScore": 8,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7157105441",
+          "kind": "paper",
+          "title": "Research trends and hotspots of electroacupuncture for depression: a bibliometric and visual analysis (2005–2025)",
+          "summary": "Background Depression is one of the most prevalent mental illnesses worldwide, significantly impairing patients’ quality of life. As a modernized form of acupuncture, electroacupuncture (EA) has been widely applied as an adjunctive therapy for depression. In recent years, both clinical and mechanistic studies on EA have grown rapidly; however, the evidence remains fragmented, and there is still a lack of comprehensive bibliometric and visual analyses summarizing the research hotspots and developmental trends in this field. Therefore, this study aimed to systematically summarize the internation",
+          "url": "https://doi.org/10.3389/fpsyt.2026.1749844",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Frontiers in Psychiatry",
+          "authors": [
+            "Xuyang Feng",
+            "Qiuxuan Wang",
+            "Xi Wu"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1749844/pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "cortex"
+          ],
+          "signalScore": 8,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "https://openalex.org/W7156645007",
+          "kind": "paper",
+          "title": "Longitudinal associations of cardiovascular-kidney-metabolic syndrome with midlife or late-life mental disorders and dementia, and the mediating role of metabolomic signature",
+          "summary": "Cardiovascular-Kidney-Metabolic (CKM) syndrome assesses the interconnections among metabolic, kidney, and cardiovascular diseases, rendering significant prognostic value for age-related chronic diseases and mortality. We aimed to investigate the effects of CKM syndrome on transitions between healthy status, mental disorders, and dementia and evaluate the potential mediating role of a CKM-related metabolomic signature in these associations. This prospective longitudinal study used UK Biobank data from 375,203 midlife and older adults at baseline and 188,018 with metabolomic information. CKM was",
+          "url": "https://doi.org/10.1038/s43856-026-01608-4",
+          "publishedAt": "2026-04-28T00:00:00.000Z",
+          "source": "Communications Medicine",
+          "authors": [
+            "Xuhao Zhao",
+            "Zhiying Lin",
+            "Haoran Zhang",
+            "Wanheng Zhang",
+            "Z J Liu"
+          ],
+          "openAccess": {
+            "isOpen": true,
+            "url": "https://www.nature.com/articles/s43856-026-01608-4_reference.pdf"
+          },
+          "metrics": {
+            "citedByCount": 0
+          },
+          "trend": {
+            "metric": "citations_by_year",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": 0,
+            "previousValue": 0,
+            "delta": 0,
+            "growthRate": 0,
+            "available": true
+          },
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 8,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        }
+      ]
+    },
+    {
+      "section": "news",
+      "title": "Research News",
+      "description": "Brain and neuroscience related research news from configured RSS feeds.",
+      "sourceCount": 4,
+      "items": [
+        {
+          "kind": "research_news",
+          "title": "A hidden map in your nose could explain how smell works",
+          "summary": "Scientists have finally cracked one of the biggest mysteries in the senses: how smell is organized. By mapping millions of neurons in mice, researchers discovered that smell receptors in the nose aren’t random at all—they’re arranged in neat, overlapping stripes based on receptor type, forming a hidden structure scientists never knew existed. Even more striking, this layout mirrors how smell information is mapped in the brain, revealing a coordinated system from nose to neural circuits.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260429102025.htm",
+          "publishedAt": "2026-04-30T05:05:17.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain",
+            "neural"
+          ],
+          "signalScore": 28,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists may have found the brain’s switch for chronic pain",
+          "summary": "Deep within the brain, scientists have uncovered a hidden “switch” that may decide whether pain fades away—or lingers for months or even years. Researchers found that a small, little-known region called the caudal granular insular cortex (CGIC) acts like a command center, telling the body to keep pain signals alive long after an injury has healed. In animal studies, shutting down this pathway not only prevented chronic pain from forming but could even erase it once it had taken hold.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260426012317.htm",
+          "publishedAt": "2026-04-27T12:37:49.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain",
+            "cortex"
+          ],
+          "signalScore": 28,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Fish oil may be hurting your brain, new study finds",
+          "summary": "Fish oil has long been praised as brain-boosting, but new research suggests the story may be more complicated. Scientists found that in people with repeated mild head injuries, a key omega-3 fatty acid in fish oil—EPA—may actually interfere with the brain’s ability to repair itself. Instead of helping recovery, it appears to weaken blood vessel stability, disrupt healing signals, and even contribute to harmful protein buildup linked to cognitive decline.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260426012303.htm",
+          "publishedAt": "2026-04-26T05:57:51.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 24,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "These 80-year-olds have the memory of 50-year-olds. Scientists now know why",
+          "summary": "A rare group of adults over 80, known as SuperAgers, are rewriting what we thought was possible for the aging brain. With memory abilities comparable to people decades younger, their brains either resist or withstand the damage typically linked to Alzheimer’s disease. Decades of research reveal that their social lifestyles and unique brain biology may hold the key to preserving cognitive function. Scientists believe these insights could pave the way for new strategies to delay or even prevent dementia.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260423022006.htm",
+          "publishedAt": "2026-04-23T11:46:30.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 24,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "For the first time, scientists pinpoint the brain cells behind depression",
+          "summary": "Scientists have identified two specific types of brain cells that behave differently in people with depression, offering a clearer picture of what is happening inside the brain. By analyzing donated brain tissue with advanced genetic tools, the researchers found changes in neurons linked to mood and stress, as well as in immune-related microglia cells. These differences point to disruptions in key brain systems and reinforce that depression is rooted in biology, not just emotions.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260423022010.htm",
+          "publishedAt": "2026-04-23T09:55:24.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 24,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "A gene mutation may trap the brain in the wrong reality in schizophrenia patients",
+          "summary": "A newly identified gene mutation may help explain why schizophrenia patients struggle to update their understanding of reality. The mutation disrupts a brain circuit involved in flexible decision-making, causing mice to stick with outdated choices even when conditions change. Researchers pinpointed the issue to a key thalamus–prefrontal cortex pathway. By reactivating this circuit, they were able to restore normal behavior—raising hope for future therapies.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260402042740.htm",
+          "publishedAt": "2026-04-03T07:10:50.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain",
+            "cortex"
+          ],
+          "signalScore": 20,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists say this type of olive oil could boost brain power",
+          "summary": "Extra virgin olive oil might help protect your brain by working through your gut. A two-year study found that people who consumed it had better cognitive performance and more diverse gut bacteria than those using refined olive oil. Researchers even identified specific microbes linked to these benefits. The findings suggest that choosing high-quality olive oil could be a simple way to support brain health as you age.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
+          "publishedAt": "2026-04-19T03:45:14.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Artificial neurons successfully communicate with living brain cells",
+          "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+          "publishedAt": "2026-04-18T07:32:36.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Doing this throughout life may cut Alzheimer’s risk by 38%",
+          "summary": "A lifetime of mental stimulation—like reading, writing, and learning new skills—may help protect the brain as we age. People with the highest levels of cognitive enrichment had a much lower risk of Alzheimer’s and experienced symptoms years later than those with the lowest levels.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260414075648.htm",
+          "publishedAt": "2026-04-15T08:09:05.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Lonely people have worse memory but don’t decline faster, study finds",
+          "summary": "Loneliness may quietly affect how well older adults remember things—but it might not be speeding up mental decline after all. A large European study tracking over 10,000 people for seven years found that those who felt lonelier started off with weaker memory, yet their memory didn’t deteriorate any faster than those who felt more socially connected. The findings challenge the idea that loneliness directly accelerates cognitive decline or dementia, suggesting instead that it impacts baseline brain performance.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260414075633.htm",
+          "publishedAt": "2026-04-14T12:56:31.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Your nose could detect Alzheimer’s years before symptoms begin",
+          "summary": "Losing your sense of smell might signal Alzheimer’s far earlier than expected. Scientists found that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their surfaces. This damage begins in early stages of the disease, well before cognitive decline. The discovery could help identify at-risk patients sooner and improve treatment timing.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm",
+          "publishedAt": "2026-04-11T12:13:19.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists just found a hidden “drain” inside the human brain",
+          "summary": "A hidden waste-removal pathway in the brain has finally been caught in action. Using cutting-edge MRI scans, researchers discovered that fluid flows along the middle meningeal artery in a slow, lymphatic-like pattern—very different from blood. This confirms the presence of a previously unknown drainage hub in humans. The finding could transform how scientists approach brain aging, injury, and diseases like Alzheimer’s.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260408225934.htm",
+          "publishedAt": "2026-04-09T14:11:49.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists discover hidden gut trigger behind ALS and dementia",
+          "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t. Even more promising, reducing these sugars improved brain health in experiments, hinting at new treatment possibilities.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
+          "publishedAt": "2026-04-09T10:36:40.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "This “rotten egg” brain gas could be the key to fighting Alzheimer’s disease",
+          "summary": "Scientists have uncovered a surprising new player in Alzheimer’s disease: a protein called CSE that helps produce tiny amounts of hydrogen sulfide gas in the brain. In experiments with genetically engineered mice, removing this protein led to memory loss, brain damage, and other hallmarks of Alzheimer’s, including weakened blood-brain barriers and reduced formation of new neurons. The findings suggest that this “rotten egg” gas, when carefully regulated, may actually protect brain cells and support memory.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260408225933.htm",
+          "publishedAt": "2026-04-09T02:59:33.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough",
+          "summary": "Researchers have developed a cutting-edge technique that uses RNA “barcodes” to map how neurons connect, capturing thousands of links with single-synapse precision. The method transforms brain mapping into a sequencing task, making it faster and more scalable than traditional approaches. In mice, it revealed surprising new connections between brain cells that were previously unknown. This could open the door to earlier detection and targeted treatment of neurological diseases.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
+          "publishedAt": "2026-04-08T01:37:16.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists just watched Alzheimer’s damage happen in real time",
+          "summary": "Scientists at Oregon State University have captured something researchers have long struggled to see: the real-time chemical interactions that help drive Alzheimer’s disease. By watching how metal ions—especially copper—trigger harmful protein clumping in the brain, the team uncovered a clearer picture of how the disease develops at a molecular level.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260406192922.htm",
+          "publishedAt": "2026-04-07T11:37:31.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists say 7 days of meditation can rewire your brain",
+          "summary": "A single week of intensive meditation and mind-body practices led to measurable changes across the brain and body. Researchers observed improved brain efficiency, boosted immune signaling, and increased natural pain relief chemicals in participants’ blood. The effects even promoted neuron growth and stronger brain connectivity. Surprisingly, the experience mirrored psychedelic-like brain states—without any drugs involved.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260406192913.htm",
+          "publishedAt": "2026-04-07T07:56:04.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists discover hidden brain switch that tells you to stop eating",
+          "summary": "Your brain’s “stop eating” signal may come from an unexpected source. Researchers found that astrocytes—once thought to just support neurons—actually play a key role in controlling appetite. After a meal, glucose triggers tanycytes, which send signals to astrocytes that then activate fullness neurons. This newly discovered pathway could lead to innovative treatments for obesity and eating disorders.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260406192811.htm",
+          "publishedAt": "2026-04-06T23:28:11.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists find hidden brain cells helping deadly cancer grow",
+          "summary": "Scientists in Canada have uncovered a surprising weakness in glioblastoma, one of the deadliest brain cancers. They found that certain brain cells—once believed to only support healthy nerves—can actually help tumors grow by sending signals that strengthen cancer cells. When researchers blocked this communication, tumor growth slowed dramatically in lab models.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260405003933.htm",
+          "publishedAt": "2026-04-05T23:48:12.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists found a protein that drives brain aging — and how to stop it",
+          "summary": "Scientists have uncovered a powerful new clue in the mystery of brain aging: a single protein called FTL1. In aging mice, higher levels of this protein weakened connections between brain cells and led to memory decline. But when researchers reduced FTL1, something remarkable happened — the brain began to recover, rebuilding lost connections and restoring memory performance.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
+          "publishedAt": "2026-04-05T11:08:57.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "These overlooked brain cells may control fear and PTSD",
+          "summary": "Astrocytes, once thought to be mere brain “support cells,” are now revealed to be key players in fear memory. Researchers found they actively help form, recall, and weaken fear responses by interacting with neurons in real time. Changing astrocyte activity directly altered how strong fear memories became. This breakthrough could lead to entirely new treatments for anxiety-related disorders.",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260403224508.htm",
+          "publishedAt": "2026-04-04T11:47:25.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 16,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
+          "summary": "Deep sleep does far more than rest the body — it activates a powerful brain-driven system that controls growth hormone, fueling muscle and bone strength, metabolism, and even mental performance. Scientists have now mapped the neural circuits behind this process, uncovering a delicate feedback loop in which sleep boosts growth hormone, and that same hormone helps regulate wakefulness.",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
+          "publishedAt": "2026-03-31T01:39:42.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain",
+            "neural"
+          ],
+          "signalScore": 14,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "This tiny implant, smaller than a grain of salt, can read your brain",
+          "summary": "A new neural implant is so small it can rest on a grain of salt, yet it can track and wirelessly transmit brain activity for over a year. It’s powered by laser light that safely passes through tissue and communicates using tiny infrared signals. This ultra-miniature device could transform how scientists study the brain without invasive wiring.",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260324024249.htm",
+          "publishedAt": "2026-03-25T02:23:36.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain",
+            "neural"
+          ],
+          "signalScore": 14,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
+          "summary": "As millions turn to ChatGPT and other AI chatbots for therapy-style advice, new research from Brown University raises a serious red flag: even when instructed to act like trained therapists, these systems routinely break core ethical standards of mental health care. In side-by-side evaluations with peer counselors and licensed psychologists, researchers uncovered 15 distinct ethical risks — from mishandling crisis situations and reinforcing harmful beliefs to showing biased responses and offering “deceptive empathy” that mimics care without real understanding.",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
+          "publishedAt": "2026-03-02T15:04:35.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "mental health"
+          ],
+          "signalScore": 14,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Stroke triggers a hidden brain change that looks like rejuvenation",
+          "summary": "After a stroke, the brain may do something surprisingly hopeful—it can “refresh” parts of itself. Researchers analyzing brain scans from over 500 stroke survivors found that while the damaged side of the brain appears to age faster, the opposite, unaffected side can actually look younger. This unexpected shift seems to reflect the brain’s effort to rewire itself, strengthening healthy regions to compensate for lost function.",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260328043556.htm",
+          "publishedAt": "2026-03-29T10:34:17.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 10,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "This new therapy turns off pain without opioids or addiction",
+          "summary": "Scientists have developed a new gene therapy that quiets pain at its source in the brain—without the addictive risks of opioids. Using AI to map how pain is processed, they created a targeted “off switch” that mimics morphine’s benefits but skips its dangerous side effects. In early tests, it delivered lasting relief without affecting normal sensations. The discovery could mark a major step toward safer, non-addictive pain treatments.",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260328043558.htm",
+          "publishedAt": "2026-03-29T00:57:04.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 10,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists discover why your appetite suddenly disappears when you’re sick",
+          "summary": "Scientists have uncovered how your body actually tells your brain to stop eating when you’re sick. In a new study, researchers found that specialized cells in the gut detect parasites and send signals that ultimately trigger the brain to suppress appetite. This process builds over time, explaining why you may feel fine at first but then suddenly lose interest in food as an infection takes hold.",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260328024519.htm",
+          "publishedAt": "2026-03-28T08:35:02.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 10,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Vivid dreams may be the secret to deeper, more restful sleep",
+          "summary": "Vivid dreams might be doing more than just entertaining your mind at night. Researchers found that immersive dreaming can actually make sleep feel deeper and more refreshing, even when brain activity is high. Surprisingly, people reported their deepest sleep after intense dream experiences, not just during quiet, inactive periods. This suggests dreams may play a key role in helping us feel truly rested.",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260326011458.htm",
+          "publishedAt": "2026-03-26T06:00:56.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 10,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Metformin’s hidden brain pathway revealed after 60 years",
+          "summary": "A major discovery reveals that metformin works not just in the body, but in the brain. By switching off a key protein and activating specific neurons, the drug lowers blood sugar through a previously hidden pathway, opening new doors for diabetes treatment.",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260325055441.htm",
+          "publishedAt": "2026-03-25T10:47:31.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 10,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "kind": "research_news",
+          "title": "Scientists just solved a major mystery about how your brain stores memories",
+          "summary": "Scientists have found that your brain separates memories into “what” and “where/when” using two different groups of neurons. One set responds to specific objects or people, while another tracks the context or situation. When you remember something correctly, these groups briefly connect and reconstruct the full memory. This system may be the secret behind how we recognize the same things across totally different experiences.",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260324024247.htm",
+          "publishedAt": "2026-03-25T01:13:47.000Z",
+          "source": "sciencedaily.com",
+          "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+          "relevanceKeywords": [
+            "brain"
+          ],
+          "signalScore": 10,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        }
+      ]
+    },
+    {
+      "section": "startups",
+      "title": "Startup Signals",
+      "description": "Neurotechnology and brain-related startup signals from configured feeds and Hacker News public search.",
+      "sourceCount": 7,
+      "items": [
+        {
+          "id": "46292682",
+          "kind": "startup_hn_signal",
+          "title": "Ask HN: How are you LLM-coding in an established code base?",
+          "summary": "Matched Hacker News query: BCI startup",
+          "url": "https://news.ycombinator.com/item?id=46292682",
+          "discussionUrl": "https://news.ycombinator.com/item?id=46292682",
+          "publishedAt": "2025-12-16T18:54:37.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "BCI",
+            "BCI startup"
+          ],
+          "metrics": {
+            "points": 70,
+            "comments": 66
+          },
+          "signalScore": 114,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "47890354",
+          "kind": "startup_hn_signal",
+          "title": "Sensing Cognitive Responses Through a Non-Invasive Brain-Computer Interface",
+          "summary": "Matched Hacker News query: brain-computer interface",
+          "url": "https://www.mdpi.com/1424-8220/26/6/1892",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47890354",
+          "publishedAt": "2026-04-24T13:53:50.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain-computer interface"
+          ],
+          "metrics": {
+            "points": 2,
+            "comments": 0
+          },
+          "signalScore": 41,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "47297631",
+          "kind": "startup_hn_signal",
+          "title": "Brain Computer Interfaces Giving Sight Back to the Blind (YC startup)",
+          "summary": "Matched Hacker News query: brain-computer interface",
+          "url": "https://garryslist.org/posts/brain-computer-interfaces-are-now-giving-sight-back-to-the-blind",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47297631",
+          "publishedAt": "2026-03-08T14:29:47.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain computer interface",
+            "brain",
+            "brain-computer interface"
+          ],
+          "metrics": {
+            "points": 1,
+            "comments": 1
+          },
+          "signalScore": 35.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "47425331",
+          "kind": "startup_hn_signal",
+          "title": "Brain Computer Interface Enables Rapid Communication for People with Paralysis",
+          "summary": "Matched Hacker News query: brain-computer interface",
+          "url": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47425331",
+          "publishedAt": "2026-03-18T13:07:16.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain computer interface",
+            "brain",
+            "brain-computer interface"
+          ],
+          "metrics": {
+            "points": 1,
+            "comments": 0
+          },
+          "signalScore": 34.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "47949066",
+          "kind": "startup_hn_signal",
+          "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+          "summary": "Matched Hacker News query: BCI startup",
+          "url": "https://github.com/bruin-data/dac",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47949066",
+          "publishedAt": "2026-04-29T14:37:20.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "BCI",
+            "BCI startup"
+          ],
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          },
+          "signalScore": 34,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "47846089",
+          "kind": "startup_hn_signal",
+          "title": "The first neural interface that transforms your thoughts into text",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://sabi.com/",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47846089",
+          "publishedAt": "2026-04-21T08:24:38.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          },
+          "signalScore": 33.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "47672141",
+          "kind": "startup_hn_signal",
+          "title": "Elon Musk, Quantum Microtubules, and the Race for the Conscious Machine",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://news.ycombinator.com/item?id=47672141",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47672141",
+          "publishedAt": "2026-04-07T08:15:13.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          },
+          "signalScore": 33.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "46905476",
+          "kind": "startup_hn_signal",
+          "title": "Ask HN: Is it just me or are most businesses insane?",
+          "summary": "Matched Hacker News query: BCI startup",
+          "url": "https://news.ycombinator.com/item?id=46905476",
+          "discussionUrl": "https://news.ycombinator.com/item?id=46905476",
+          "publishedAt": "2026-02-05T21:17:58.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "BCI",
+            "BCI startup"
+          ],
+          "metrics": {
+            "points": 15,
+            "comments": 8
+          },
+          "signalScore": 33.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "46245673",
+          "kind": "startup_hn_signal",
+          "title": "Is Entertainment Discovery Fundamentally Broken?",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://news.ycombinator.com/item?id=46245673",
+          "discussionUrl": "https://news.ycombinator.com/item?id=46245673",
+          "publishedAt": "2025-12-12T16:27:39.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 2,
+            "comments": 9
+          },
+          "signalScore": 31,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "46637819",
+          "kind": "startup_hn_signal",
+          "title": "OpenAI invests $250m in Sam Altman's brain computer interface startup Merge Labs",
+          "summary": "Matched Hacker News query: brain-computer interface",
+          "url": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
+          "discussionUrl": "https://news.ycombinator.com/item?id=46637819",
+          "publishedAt": "2026-01-15T19:26:25.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain computer interface",
+            "brain",
+            "brain-computer interface"
+          ],
+          "metrics": {
+            "points": 2,
+            "comments": 0
+          },
+          "signalScore": 30,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "45222444",
+          "kind": "startup_hn_signal",
+          "title": "Pegasus Airlines lost my brain-computer interface – ignored 10 days",
+          "summary": "Matched Hacker News query: brain-computer interface",
+          "url": "https://news.ycombinator.com/item?id=45222444",
+          "discussionUrl": "https://news.ycombinator.com/item?id=45222444",
+          "publishedAt": "2025-09-12T14:19:47.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain-computer interface"
+          ],
+          "metrics": {
+            "points": 10,
+            "comments": 4
+          },
+          "signalScore": 30,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "47116630",
+          "kind": "startup_hn_signal",
+          "title": "China's brain-computer interface industry is racing ahead",
+          "summary": "Matched Hacker News query: brain-computer interface",
+          "url": "https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47116630",
+          "publishedAt": "2026-02-23T00:51:18.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain-computer interface"
+          ],
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          },
+          "signalScore": 29.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "47827486",
+          "kind": "startup_hn_signal",
+          "title": "Ask HN: Is giving AI agents DB access the new BI-tool problem?",
+          "summary": "Matched Hacker News query: BCI startup",
+          "url": "https://news.ycombinator.com/item?id=47827486",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47827486",
+          "publishedAt": "2026-04-19T20:44:39.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "BCI",
+            "BCI startup"
+          ],
+          "metrics": {
+            "points": 6,
+            "comments": 2
+          },
+          "signalScore": 29,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "47912657",
+          "kind": "startup_hn_signal",
+          "title": "NeurotecIO – Your Study AI Assistant",
+          "summary": "Matched Hacker News query: neurotech",
+          "url": "https://neurotec.io",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47912657",
+          "publishedAt": "2026-04-26T18:35:38.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neurotech"
+          ],
+          "metrics": {
+            "points": 1,
+            "comments": 0
+          },
+          "signalScore": 28.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "47183899",
+          "kind": "startup_hn_signal",
+          "title": "Show HN: NeuroSync – An experimental Python library for neural cryptography",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://github.com/CooDiiNgg/NeuroSync",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47183899",
+          "publishedAt": "2026-02-27T18:37:27.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 1,
+            "comments": 2
+          },
+          "signalScore": 28.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "41040729",
+          "kind": "startup_hn_signal",
+          "title": "Ask HN: Looking for a cheap hosted BI tool like Metabase for my startup",
+          "summary": "Matched Hacker News query: BCI startup",
+          "url": "https://news.ycombinator.com/item?id=41040729",
+          "discussionUrl": "https://news.ycombinator.com/item?id=41040729",
+          "publishedAt": "2024-07-22T23:01:58.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "BCI",
+            "BCI startup"
+          ],
+          "metrics": {
+            "points": 11,
+            "comments": 10
+          },
+          "signalScore": 28.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "47432372",
+          "kind": "startup_hn_signal",
+          "title": "Shared databases are not modular, they are just a weakness",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://news.ycombinator.com/item?id=47432372",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47432372",
+          "publishedAt": "2026-03-18T22:48:31.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 1,
+            "comments": 1
+          },
+          "signalScore": 27.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "45283513",
+          "kind": "startup_hn_signal",
+          "title": "Meta Ray Ban Display and Neural Interface Announced",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/",
+          "discussionUrl": "https://news.ycombinator.com/item?id=45283513",
+          "publishedAt": "2025-09-18T00:54:05.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 10,
+            "comments": 1
+          },
+          "signalScore": 27,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "47180169",
+          "kind": "startup_hn_signal",
+          "title": "Show HN: OneSentence – An offline macOS voice utility built entirely with AI",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://www.onesentence.app",
+          "discussionUrl": "https://news.ycombinator.com/item?id=47180169",
+          "publishedAt": "2026-02-27T13:15:06.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 1,
+            "comments": 0
+          },
+          "signalScore": 26.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "46075664",
+          "kind": "startup_hn_signal",
+          "title": "Are We Becoming Distilled Versions of AI?",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://news.ycombinator.com/item?id=46075664",
+          "discussionUrl": "https://news.ycombinator.com/item?id=46075664",
+          "publishedAt": "2025-11-28T05:01:04.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 5,
+            "comments": 3
+          },
+          "signalScore": 26.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "44641981",
+          "kind": "startup_hn_signal",
+          "title": "Key technological advance in neural interfaces",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://news.ycombinator.com/item?id=44641981",
+          "discussionUrl": "https://news.ycombinator.com/item?id=44641981",
+          "publishedAt": "2025-07-22T00:24:53.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 5,
+            "comments": 3
+          },
+          "signalScore": 26.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "43788400",
+          "kind": "startup_hn_signal",
+          "title": "Gate VR – Building a Non-Invasive Neural Interface for Full-Body VR",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://news.ycombinator.com/item?id=43788400",
+          "discussionUrl": "https://news.ycombinator.com/item?id=43788400",
+          "publishedAt": "2025-04-24T22:53:35.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 3,
+            "comments": 4
+          },
+          "signalScore": 26.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "46394093",
+          "kind": "startup_hn_signal",
+          "title": "Paralysed man controls robots by mind using China's BCI tech",
+          "summary": "Matched Hacker News query: brain-computer interface",
+          "url": "https://scienceclock.com/china-brain-computer-interface-paralysed-man-controls-robots-neuralink/",
+          "discussionUrl": "https://news.ycombinator.com/item?id=46394093",
+          "publishedAt": "2025-12-26T17:21:49.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "BCI",
+            "brain",
+            "brain-computer interface"
+          ],
+          "metrics": {
+            "points": 2,
+            "comments": 0
+          },
+          "signalScore": 26,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "45707185",
+          "kind": "startup_hn_signal",
+          "title": "Sam Altman's next startup eyes using sound waves to read your brain",
+          "summary": "Matched Hacker News query: brain-computer interface",
+          "url": "https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire",
+          "discussionUrl": "https://news.ycombinator.com/item?id=45707185",
+          "publishedAt": "2025-10-25T21:35:34.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain-computer interface"
+          ],
+          "metrics": {
+            "points": 5,
+            "comments": 2
+          },
+          "signalScore": 25.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "43277239",
+          "kind": "startup_hn_signal",
+          "title": "Show HN: Physical Programming Language Using Coding Bricks (DrBartha Toys)",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://news.ycombinator.com/item?id=43277239",
+          "discussionUrl": "https://news.ycombinator.com/item?id=43277239",
+          "publishedAt": "2025-03-06T06:58:28.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 3,
+            "comments": 3
+          },
+          "signalScore": 25.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "44560424",
+          "kind": "startup_hn_signal",
+          "title": "Show HN: Social network where anyone can be seen (Quickpost)",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://qqpost.netlify.app/home",
+          "discussionUrl": "https://news.ycombinator.com/item?id=44560424",
+          "publishedAt": "2025-07-14T14:04:47.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          },
+          "signalScore": 23.5,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "46193269",
+          "kind": "startup_hn_signal",
+          "title": "A wireless subdural-contained brain–computer interface with 65,536 electrodes",
+          "summary": "Matched Hacker News query: brain-computer interface",
+          "url": "https://www.nature.com/articles/s41928-025-01509-9",
+          "discussionUrl": "https://news.ycombinator.com/item?id=46193269",
+          "publishedAt": "2025-12-08T15:24:12.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain-computer interface"
+          ],
+          "metrics": {
+            "points": 2,
+            "comments": 1
+          },
+          "signalScore": 23,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "45445544",
+          "kind": "startup_hn_signal",
+          "title": "A Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro",
+          "summary": "Matched Hacker News query: brain-computer interface",
+          "url": "https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/",
+          "discussionUrl": "https://news.ycombinator.com/item?id=45445544",
+          "publishedAt": "2025-10-02T01:32:27.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain-computer interface"
+          ],
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          },
+          "signalScore": 23,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "45215346",
+          "kind": "startup_hn_signal",
+          "title": "Lead-In to Brain-Computer Interface. How to Measure BioData",
+          "summary": "Matched Hacker News query: brain-computer interface",
+          "url": "https://www.udemy.com/course/introduction-to-brain-computer-interface-how-to-measure-eeg/?couponCode=EA348D062DABB9BF712E",
+          "discussionUrl": "https://news.ycombinator.com/item?id=45215346",
+          "publishedAt": "2025-09-11T19:37:55.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain-computer interface"
+          ],
+          "metrics": {
+            "points": 2,
+            "comments": 1
+          },
+          "signalScore": 23,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "44509366",
+          "kind": "startup_hn_signal",
+          "title": "Show HN: I built \"Schnippi\", my dream screenshot Chrome extension",
+          "summary": "Matched Hacker News query: neural interface",
+          "url": "https://chromewebstore.google.com/detail/schnippi-screenshot-tool/bnihkhiedonaoadigfljpjojncpnkeln",
+          "discussionUrl": "https://news.ycombinator.com/item?id=44509366",
+          "publishedAt": "2025-07-09T12:43:20.000Z",
+          "source": "Hacker News",
+          "relevanceKeywords": [
+            "neural interface",
+            "neural",
+            "neural interface"
+          ],
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          },
+          "signalScore": 23,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        }
+      ]
+    },
+    {
+      "section": "funding",
+      "title": "Funding Opportunities",
+      "description": "Neuro-related funding opportunities from Grants.gov, NIH Guide, NSF, and configured RSS feeds.",
+      "sourceCount": 9,
+      "items": [
+        {
+          "id": "362063",
+          "kind": "funding_grants_gov",
+          "title": "Transport Phenomena (TP)",
+          "summary": "NSF / posted / PD-26-366Y",
+          "url": "https://www.grants.gov/search-results-detail/362063",
+          "publishedAt": "2026-04-23T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "PD-26-366Y",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 52,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "362061",
+          "kind": "funding_grants_gov",
+          "title": "Chemical Process Systems (CPS)",
+          "summary": "NSF / posted / PD-26-367Y",
+          "url": "https://www.grants.gov/search-results-detail/362061",
+          "publishedAt": "2026-04-23T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "PD-26-367Y",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 52,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "357308",
+          "kind": "funding_grants_gov",
+          "title": "Neuromodulation/Neurostimulation Device Development for Mental Health Applications (R21 Clinical Trial Not Allowed)",
+          "summary": "HHS-NIH11 / posted / PAR-25-286",
+          "url": "https://www.grants.gov/search-results-detail/357308",
+          "publishedAt": "2024-11-20T15:00:00.000Z",
+          "closeDate": "2028-01-07",
+          "source": "Grants.gov",
+          "agency": "HHS-NIH11",
+          "opportunityNumber": "PAR-25-286",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "neuroscience",
+            "neuromodulation",
+            "mental health",
+            "neuroscience",
+            "mental health"
+          ],
+          "signalScore": 49,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "350561",
+          "kind": "funding_grants_gov",
+          "title": "Cognitive Neuroscience",
+          "summary": "NSF / posted / PD-24-1699",
+          "url": "https://www.grants.gov/search-results-detail/350561",
+          "publishedAt": "2023-10-11T15:00:00.000Z",
+          "closeDate": "2026-08-17",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "PD-24-1699",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "neuroscience",
+            "cognitive neuroscience",
+            "neuroscience",
+            "cognitive"
+          ],
+          "signalScore": 41,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "362097",
+          "kind": "funding_grants_gov",
+          "title": "Establishing a Research Network to Guide Foundational Research on Human Consciousness",
+          "summary": "HHS-NIH11 / forecasted / RFA-AT-27-002",
+          "url": "https://www.grants.gov/search-results-detail/362097",
+          "publishedAt": "2026-04-27T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "HHS-NIH11",
+          "opportunityNumber": "RFA-AT-27-002",
+          "opportunityStatus": "forecasted",
+          "relevanceKeywords": [
+            "neuroscience",
+            "neuroscience"
+          ],
+          "signalScore": 40,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "358859",
+          "kind": "funding_grants_gov",
+          "title": "BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed)",
+          "summary": "HHS-NIH11 / posted / RFA-NS-27-001",
+          "url": "https://www.grants.gov/search-results-detail/358859",
+          "publishedAt": "2026-02-08T15:00:00.000Z",
+          "closeDate": "2028-10-06",
+          "source": "Grants.gov",
+          "agency": "HHS-NIH11",
+          "opportunityNumber": "RFA-NS-27-001",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 38,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "360574",
+          "kind": "funding_grants_gov",
+          "title": "Silvio O. Conte Centers for Basic Neuroscience or Translational Mental Health Research",
+          "summary": "HHS-NIH11 / forecasted / PAR-26-043",
+          "url": "https://www.grants.gov/search-results-detail/360574",
+          "publishedAt": "2025-09-11T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "HHS-NIH11",
+          "opportunityNumber": "PAR-26-043",
+          "opportunityStatus": "forecasted",
+          "relevanceKeywords": [
+            "neuroscience",
+            "mental health",
+            "neuroscience",
+            "mental health"
+          ],
+          "signalScore": 37,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "357345",
+          "kind": "funding_grants_gov",
+          "title": "Utilizing Invasive Recording and Stimulating Opportunities in Humans to Advance Neural Circuitry Understanding of Mental Health Disorders (R21 Clinical Trial Optional)",
+          "summary": "HHS-NIH11 / posted / PAR-25-291",
+          "url": "https://www.grants.gov/search-results-detail/357345",
+          "publishedAt": "2024-11-21T15:00:00.000Z",
+          "closeDate": "2028-01-07",
+          "source": "Grants.gov",
+          "agency": "HHS-NIH11",
+          "opportunityNumber": "PAR-25-291",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "mental health",
+            "neural",
+            "cognitive",
+            "mental health"
+          ],
+          "signalScore": 37,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "357346",
+          "kind": "funding_grants_gov",
+          "title": "Utilizing Invasive Recording and Stimulating Opportunities in Humans to Advance Neural Circuitry Understanding of Mental Health Disorders (R01 Clinical Trial Optional)",
+          "summary": "HHS-NIH11 / posted / PAR-25-290",
+          "url": "https://www.grants.gov/search-results-detail/357346",
+          "publishedAt": "2024-11-21T15:00:00.000Z",
+          "closeDate": "2028-01-07",
+          "source": "Grants.gov",
+          "agency": "HHS-NIH11",
+          "opportunityNumber": "PAR-25-290",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "mental health",
+            "neural",
+            "cognitive",
+            "mental health"
+          ],
+          "signalScore": 37,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "361448",
+          "kind": "funding_grants_gov",
+          "title": "BRAIN Initiative: Data Archives for the BRAIN Initiative",
+          "summary": "HHS-NIH11 / forecasted / RFA-MH-28-100",
+          "url": "https://www.grants.gov/search-results-detail/361448",
+          "publishedAt": "2026-03-10T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "HHS-NIH11",
+          "opportunityNumber": "RFA-MH-28-100",
+          "opportunityStatus": "forecasted",
+          "relevanceKeywords": [
+            "neurotechnology",
+            "brain",
+            "brain",
+            "neurotechnology"
+          ],
+          "signalScore": 34,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "360402",
+          "kind": "funding_grants_gov",
+          "title": "BRAIN Initiative: Research Opportunities Using Invasive Neural Recording and Stimulating Technologies in the Human Brain (U01 Basic Experimental Studies with Humans Required)",
+          "summary": "HHS-NIH11 / forecasted / RFA-NS-26-007",
+          "url": "https://www.grants.gov/search-results-detail/360402",
+          "publishedAt": "2025-08-27T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "HHS-NIH11",
+          "opportunityNumber": "RFA-NS-26-007",
+          "opportunityStatus": "forecasted",
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neural",
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "359649",
+          "kind": "funding_grants_gov",
+          "title": "BRAIN Initiative: Exploratory Research Opportunities Using Invasive Neural Recording and Stimulating Technologies in the Human Brain (R61 Basic Experimental Studies with Humans Required)",
+          "summary": "HHS-NIH11 / forecasted / NOT-DC-25-037",
+          "url": "https://www.grants.gov/search-results-detail/359649",
+          "publishedAt": "2025-06-08T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "HHS-NIH11",
+          "opportunityNumber": "NOT-DC-25-037",
+          "opportunityStatus": "forecasted",
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neural",
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "357937",
+          "kind": "funding_grants_gov",
+          "title": "Early Immune System Development and Ontogeny (R01 Clinical Trial Optional)",
+          "summary": "HHS-NIH11 / posted / PAR-25-362",
+          "url": "https://www.grants.gov/search-results-detail/357937",
+          "publishedAt": "2024-12-29T15:00:00.000Z",
+          "closeDate": "2028-11-05",
+          "source": "Grants.gov",
+          "agency": "HHS-NIH11",
+          "opportunityNumber": "PAR-25-362",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "356530",
+          "kind": "funding_grants_gov",
+          "title": "BRAIN Initiative: Reagent Resources for Brain Cell Type-Specific Access to Broaden Distribution of Enabling Technologies for Neuroscience (U24 Clinical Trial Not Allowed)",
+          "summary": "HHS-NIH11 / posted / RFA-MH-26-120",
+          "url": "https://www.grants.gov/search-results-detail/356530",
+          "publishedAt": "2024-09-24T15:00:00.000Z",
+          "closeDate": "2027-06-15",
+          "source": "Grants.gov",
+          "agency": "HHS-NIH11",
+          "opportunityNumber": "RFA-MH-26-120",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "354144",
+          "kind": "funding_grants_gov",
+          "title": "Correctness for Scientific Computing Systems",
+          "summary": "NSF / posted / 24-571",
+          "url": "https://www.grants.gov/search-results-detail/354144",
+          "publishedAt": "2024-05-09T15:00:00.000Z",
+          "closeDate": "2026-08-11",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "24-571",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "351715",
+          "kind": "funding_grants_gov",
+          "title": "ECosystem for Leading Innovation in Plasma Science and Engineering",
+          "summary": "NSF / posted / PD-24-110Z",
+          "url": "https://www.grants.gov/search-results-detail/351715",
+          "publishedAt": "2024-01-05T15:00:00.000Z",
+          "closeDate": "2026-08-11",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "PD-24-110Z",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "349654",
+          "kind": "funding_grants_gov",
+          "title": "Condensed Matter and Materials Theory",
+          "summary": "NSF / posted / 23-611",
+          "url": "https://www.grants.gov/search-results-detail/349654",
+          "publishedAt": "2023-07-31T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "23-611",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "347509",
+          "kind": "funding_grants_gov",
+          "title": "Combustion and Fire Systems",
+          "summary": "NSF / posted / PD-23-1407",
+          "url": "https://www.grants.gov/search-results-detail/347509",
+          "publishedAt": "2023-04-13T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "PD-23-1407",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "347325",
+          "kind": "funding_grants_gov",
+          "title": "Particulate and Multiphase Processes",
+          "summary": "NSF / posted / PD-23-1415",
+          "url": "https://www.grants.gov/search-results-detail/347325",
+          "publishedAt": "2023-04-04T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "PD-23-1415",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "347326",
+          "kind": "funding_grants_gov",
+          "title": "Interfacial Engineering",
+          "summary": "NSF / posted / PD-23-1417",
+          "url": "https://www.grants.gov/search-results-detail/347326",
+          "publishedAt": "2023-04-04T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "PD-23-1417",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "347324",
+          "kind": "funding_grants_gov",
+          "title": "Thermal Transport Processes",
+          "summary": "NSF / posted / PD-23-1406",
+          "url": "https://www.grants.gov/search-results-detail/347324",
+          "publishedAt": "2023-04-04T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "PD-23-1406",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "347327",
+          "kind": "funding_grants_gov",
+          "title": "Biophotonics",
+          "summary": "NSF / posted / PD-23-7236",
+          "url": "https://www.grants.gov/search-results-detail/347327",
+          "publishedAt": "2023-04-04T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "PD-23-7236",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "347323",
+          "kind": "funding_grants_gov",
+          "title": "Nanoscale Interactions",
+          "summary": "NSF / posted / PD-23-1179",
+          "url": "https://www.grants.gov/search-results-detail/347323",
+          "publishedAt": "2023-04-04T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "PD-23-1179",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "340828",
+          "kind": "funding_grants_gov",
+          "title": "Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences",
+          "summary": "NSF / posted / 22-600",
+          "url": "https://www.grants.gov/search-results-detail/340828",
+          "publishedAt": "2022-05-31T15:00:00.000Z",
+          "closeDate": "2026-09-18",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "22-600",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "325932",
+          "kind": "funding_grants_gov",
+          "title": "UNITED STATES MILITARY ACADEMY Broad Agency Announcement",
+          "summary": "DOD-AMC / posted / W911NF-20-S-0008",
+          "url": "https://www.grants.gov/search-results-detail/325932",
+          "publishedAt": "2020-03-31T15:00:00.000Z",
+          "closeDate": "2027-03-31",
+          "source": "Grants.gov",
+          "agency": "DOD-AMC",
+          "opportunityNumber": "W911NF-20-S-0008",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "306169",
+          "kind": "funding_grants_gov",
+          "title": "Engineering for Civil Infrastructure",
+          "summary": "NSF / posted / PD-19-073Y",
+          "url": "https://www.grants.gov/search-results-detail/306169",
+          "publishedAt": "2018-06-11T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "PD-19-073Y",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "295449",
+          "kind": "funding_grants_gov",
+          "title": "Marine Geology and Geophysics",
+          "summary": "NSF / posted / PD-17-1620",
+          "url": "https://www.grants.gov/search-results-detail/295449",
+          "publishedAt": "2017-07-12T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "NSF",
+          "opportunityNumber": "PD-17-1620",
+          "opportunityStatus": "posted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 33,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "360617",
+          "kind": "funding_grants_gov",
+          "title": "Preventing global health threats by strengthening surveillance systems to accelerate outbreak detection, notification, and response",
+          "summary": "HHS-CDC-GHC / forecasted / CDC-RFA-JG-26-0113",
+          "url": "https://www.grants.gov/search-results-detail/360617",
+          "publishedAt": "2025-09-17T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "HHS-CDC-GHC",
+          "opportunityNumber": "CDC-RFA-JG-26-0113",
+          "opportunityStatus": "forecasted",
+          "relevanceKeywords": [
+            "brain-computer interface",
+            "brain",
+            "brain",
+            "brain-computer interface"
+          ],
+          "signalScore": 29,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "360398",
+          "kind": "funding_grants_gov",
+          "title": "BRAIN Initiative: Integrative Team-Research BRAIN Circuits Program - iTeamBCP (RM1 Clinical Trial Optional)",
+          "summary": "HHS-NIH11 / forecasted / RFA-NS-26-011",
+          "url": "https://www.grants.gov/search-results-detail/360398",
+          "publishedAt": "2025-08-27T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "HHS-NIH11",
+          "opportunityNumber": "RFA-NS-26-011",
+          "opportunityStatus": "forecasted",
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 29,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        },
+        {
+          "id": "359020",
+          "kind": "funding_grants_gov",
+          "title": "Funding Opportunity Announcement for Impact of Environmental Exposures on Gut-Brain Signaling in Neurological Conditions (R01)",
+          "summary": "HHS-NIH11 / forecasted / TEMP-31126",
+          "url": "https://www.grants.gov/search-results-detail/359020",
+          "publishedAt": "2025-07-17T15:00:00.000Z",
+          "closeDate": "",
+          "source": "Grants.gov",
+          "agency": "HHS-NIH11",
+          "opportunityNumber": "TEMP-31126",
+          "opportunityStatus": "forecasted",
+          "relevanceKeywords": [
+            "neuroscience",
+            "brain",
+            "neuroscience",
+            "brain"
+          ],
+          "signalScore": 29,
+          "access": {
+            "metric": "access_views",
+            "currentYear": 2026,
+            "previousYear": 2025,
+            "currentValue": null,
+            "previousValue": null,
+            "delta": null,
+            "growthRate": null,
+            "available": false,
+            "reason": "access metrics not configured"
+          }
+        }
+      ]
+    }
+  ],
+  "rankings": {
+    "growingAccessItems": [],
+    "growingCitationPapers": []
+  }
+}

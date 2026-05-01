@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+.env
+data/access-metrics.json
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+*-service-account.json
+service-account*.json

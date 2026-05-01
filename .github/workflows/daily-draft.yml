@@ -6,10 +6,19 @@ on:
     - cron: "0 */3 * * *"
   workflow_dispatch: # 手動実行用
 
+permissions:
+  contents: write
+
+# 直前のcron実行が長引いた場合に並走させない（git push競合防止）。
+# in-flight をキャンセルせず待機させる。
+concurrency:
+  group: daily-draft
+  cancel-in-progress: false
+
 jobs:
   generate-draft:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
 
     steps:
       - uses: actions/checkout@v4
@@ -31,12 +40,81 @@ jobs:
           DISCORD_MENTION_USER_ID: ${{ secrets.DISCORD_MENTION_USER_ID }}
           HISTORY_FILE: .daily-history.json
           MAX_HISTORY_DAYS: "30"
+          PUBLIC_DATA_DIR: public/data
+          MAX_PUBLIC_HISTORY: "50"
         run: node dist/daily-run.js
 
-      - name: Commit history file
+      - name: Commit history & web data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .daily-history.json 2>/dev/null || true
-          git diff --cached --quiet || git commit -m "chore: update daily history [skip ci]"
-          git push || true
+          git add .daily-history.json public/data/latest-draft.json public/data/drafts-history.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update daily draft & history [skip ci]"
+            git push || true
+          fi
+
+      - name: Deploy to Firebase Hosting
+        env:
+          FIREBASE_PROJECT_ID: ${{ vars.FIREBASE_PROJECT_ID }}
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: |
+          if [ -z "${FIREBASE_PROJECT_ID:-}" ]; then
+            echo "Skip Firebase deploy: FIREBASE_PROJECT_ID variable is not set."
+            exit 0
+          fi
+
+          if [ -z "${FIREBASE_SERVICE_ACCOUNT:-}" ]; then
+            echo "Skip Firebase deploy: FIREBASE_SERVICE_ACCOUNT secret is not set."
+            exit 0
+          fi
+
+          credentials_file="$RUNNER_TEMP/firebase-service-account.json"
+          printf '%s' "$FIREBASE_SERVICE_ACCOUNT" > "$credentials_file"
+          export GOOGLE_APPLICATION_CREDENTIALS="$credentials_file"
+
+          # single-site hosting: deploy to the default site of the
+          # configured project (eegbugckets.web.app)
+          npx --yes firebase-tools@latest deploy \
+            --only hosting \
+            --project "$FIREBASE_PROJECT_ID" \
+            --non-interactive
+
+      # ─────────────────────────────────────────────────────────────
+      # 失敗時に既存 Webhook へ通知。Slack / Discord 両対応。
+      # WEBHOOK_URL が未設定なら静かにスキップ（既存挙動と同じ）。
+      # ─────────────────────────────────────────────────────────────
+      - name: Notify on failure
+        if: failure()
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          WEBHOOK_TYPE: ${{ secrets.WEBHOOK_TYPE }}
+          DISCORD_MENTION_USER_ID: ${{ secrets.DISCORD_MENTION_USER_ID }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          RUN_ID: ${{ github.run_id }}
+        run: |
+          if [ -z "${WEBHOOK_URL:-}" ]; then
+            echo "Skip failure notification: WEBHOOK_URL is not set."
+            exit 0
+          fi
+
+          mention=""
+          if [ "${WEBHOOK_TYPE:-slack}" = "discord" ] && [ -n "${DISCORD_MENTION_USER_ID:-}" ]; then
+            mention="<@${DISCORD_MENTION_USER_ID}> "
+          fi
+
+          msg="${mention}⚠️ Cereportal · daily-draft pipeline FAILED — run #${RUN_ID}\n${RUN_URL}"
+
+          if [ "${WEBHOOK_TYPE:-slack}" = "discord" ]; then
+            payload=$(jq -nc --arg content "$msg" '{content: $content}')
+          else
+            payload=$(jq -nc --arg text "$msg" '{text: $text}')
+          fi
+
+          # 通知送信そのものが失敗してもジョブステータスは failure のまま維持
+          curl -fsS -X POST "$WEBHOOK_URL" \
+            -H "Content-Type: application/json" \
+            -d "$payload" \
+            || echo "⚠️ Failure notification webhook itself failed; check WEBHOOK_URL."

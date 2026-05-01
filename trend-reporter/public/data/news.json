@@ -1,0 +1,733 @@
+{
+  "section": "news",
+  "title": "Research News",
+  "description": "Brain and neuroscience related research news from configured RSS feeds.",
+  "sourceCount": 4,
+  "items": [
+    {
+      "kind": "research_news",
+      "title": "A hidden map in your nose could explain how smell works",
+      "summary": "Scientists have finally cracked one of the biggest mysteries in the senses: how smell is organized. By mapping millions of neurons in mice, researchers discovered that smell receptors in the nose aren’t random at all—they’re arranged in neat, overlapping stripes based on receptor type, forming a hidden structure scientists never knew existed. Even more striking, this layout mirrors how smell information is mapped in the brain, revealing a coordinated system from nose to neural circuits.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260429102025.htm",
+      "publishedAt": "2026-04-30T05:05:17.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain",
+        "neural"
+      ],
+      "signalScore": 28,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists may have found the brain’s switch for chronic pain",
+      "summary": "Deep within the brain, scientists have uncovered a hidden “switch” that may decide whether pain fades away—or lingers for months or even years. Researchers found that a small, little-known region called the caudal granular insular cortex (CGIC) acts like a command center, telling the body to keep pain signals alive long after an injury has healed. In animal studies, shutting down this pathway not only prevented chronic pain from forming but could even erase it once it had taken hold.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260426012317.htm",
+      "publishedAt": "2026-04-27T12:37:49.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain",
+        "cortex"
+      ],
+      "signalScore": 28,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Fish oil may be hurting your brain, new study finds",
+      "summary": "Fish oil has long been praised as brain-boosting, but new research suggests the story may be more complicated. Scientists found that in people with repeated mild head injuries, a key omega-3 fatty acid in fish oil—EPA—may actually interfere with the brain’s ability to repair itself. Instead of helping recovery, it appears to weaken blood vessel stability, disrupt healing signals, and even contribute to harmful protein buildup linked to cognitive decline.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260426012303.htm",
+      "publishedAt": "2026-04-26T05:57:51.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 24,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "These 80-year-olds have the memory of 50-year-olds. Scientists now know why",
+      "summary": "A rare group of adults over 80, known as SuperAgers, are rewriting what we thought was possible for the aging brain. With memory abilities comparable to people decades younger, their brains either resist or withstand the damage typically linked to Alzheimer’s disease. Decades of research reveal that their social lifestyles and unique brain biology may hold the key to preserving cognitive function. Scientists believe these insights could pave the way for new strategies to delay or even prevent dementia.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260423022006.htm",
+      "publishedAt": "2026-04-23T11:46:30.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 24,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "For the first time, scientists pinpoint the brain cells behind depression",
+      "summary": "Scientists have identified two specific types of brain cells that behave differently in people with depression, offering a clearer picture of what is happening inside the brain. By analyzing donated brain tissue with advanced genetic tools, the researchers found changes in neurons linked to mood and stress, as well as in immune-related microglia cells. These differences point to disruptions in key brain systems and reinforce that depression is rooted in biology, not just emotions.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260423022010.htm",
+      "publishedAt": "2026-04-23T09:55:24.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 24,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "A gene mutation may trap the brain in the wrong reality in schizophrenia patients",
+      "summary": "A newly identified gene mutation may help explain why schizophrenia patients struggle to update their understanding of reality. The mutation disrupts a brain circuit involved in flexible decision-making, causing mice to stick with outdated choices even when conditions change. Researchers pinpointed the issue to a key thalamus–prefrontal cortex pathway. By reactivating this circuit, they were able to restore normal behavior—raising hope for future therapies.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260402042740.htm",
+      "publishedAt": "2026-04-03T07:10:50.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain",
+        "cortex"
+      ],
+      "signalScore": 20,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists say this type of olive oil could boost brain power",
+      "summary": "Extra virgin olive oil might help protect your brain by working through your gut. A two-year study found that people who consumed it had better cognitive performance and more diverse gut bacteria than those using refined olive oil. Researchers even identified specific microbes linked to these benefits. The findings suggest that choosing high-quality olive oil could be a simple way to support brain health as you age.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417224527.htm",
+      "publishedAt": "2026-04-19T03:45:14.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "publishedAt": "2026-04-18T07:32:36.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Doing this throughout life may cut Alzheimer’s risk by 38%",
+      "summary": "A lifetime of mental stimulation—like reading, writing, and learning new skills—may help protect the brain as we age. People with the highest levels of cognitive enrichment had a much lower risk of Alzheimer’s and experienced symptoms years later than those with the lowest levels.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260414075648.htm",
+      "publishedAt": "2026-04-15T08:09:05.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Lonely people have worse memory but don’t decline faster, study finds",
+      "summary": "Loneliness may quietly affect how well older adults remember things—but it might not be speeding up mental decline after all. A large European study tracking over 10,000 people for seven years found that those who felt lonelier started off with weaker memory, yet their memory didn’t deteriorate any faster than those who felt more socially connected. The findings challenge the idea that loneliness directly accelerates cognitive decline or dementia, suggesting instead that it impacts baseline brain performance.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260414075633.htm",
+      "publishedAt": "2026-04-14T12:56:31.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Your nose could detect Alzheimer’s years before symptoms begin",
+      "summary": "Losing your sense of smell might signal Alzheimer’s far earlier than expected. Scientists found that immune cells in the brain actively destroy smell-related nerve fibers after detecting abnormal signals on their surfaces. This damage begins in early stages of the disease, well before cognitive decline. The discovery could help identify at-risk patients sooner and improve treatment timing.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260411043048.htm",
+      "publishedAt": "2026-04-11T12:13:19.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists just found a hidden “drain” inside the human brain",
+      "summary": "A hidden waste-removal pathway in the brain has finally been caught in action. Using cutting-edge MRI scans, researchers discovered that fluid flows along the middle meningeal artery in a slow, lymphatic-like pattern—very different from blood. This confirms the presence of a previously unknown drainage hub in humans. The finding could transform how scientists approach brain aging, injury, and diseases like Alzheimer’s.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225934.htm",
+      "publishedAt": "2026-04-09T14:11:49.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists discover hidden gut trigger behind ALS and dementia",
+      "summary": "A new study reveals that gut bacteria may play a key role in triggering ALS and frontotemporal dementia. Harmful sugars produced by these microbes can spark immune responses that damage the brain. This breakthrough explains why some genetically at-risk people develop the diseases while others don’t. Even more promising, reducing these sugars improved brain health in experiments, hinting at new treatment possibilities.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm",
+      "publishedAt": "2026-04-09T10:36:40.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "This “rotten egg” brain gas could be the key to fighting Alzheimer’s disease",
+      "summary": "Scientists have uncovered a surprising new player in Alzheimer’s disease: a protein called CSE that helps produce tiny amounts of hydrogen sulfide gas in the brain. In experiments with genetically engineered mice, removing this protein led to memory loss, brain damage, and other hallmarks of Alzheimer’s, including weakened blood-brain barriers and reduced formation of new neurons. The findings suggest that this “rotten egg” gas, when carefully regulated, may actually protect brain cells and support memory.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225933.htm",
+      "publishedAt": "2026-04-09T02:59:33.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists map the brain’s hidden wiring using RNA barcodes in major breakthrough",
+      "summary": "Researchers have developed a cutting-edge technique that uses RNA “barcodes” to map how neurons connect, capturing thousands of links with single-synapse precision. The method transforms brain mapping into a sequencing task, making it faster and more scalable than traditional approaches. In mice, it revealed surprising new connections between brain cells that were previously unknown. This could open the door to earlier detection and targeted treatment of neurological diseases.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
+      "publishedAt": "2026-04-08T01:37:16.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists just watched Alzheimer’s damage happen in real time",
+      "summary": "Scientists at Oregon State University have captured something researchers have long struggled to see: the real-time chemical interactions that help drive Alzheimer’s disease. By watching how metal ions—especially copper—trigger harmful protein clumping in the brain, the team uncovered a clearer picture of how the disease develops at a molecular level.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192922.htm",
+      "publishedAt": "2026-04-07T11:37:31.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists say 7 days of meditation can rewire your brain",
+      "summary": "A single week of intensive meditation and mind-body practices led to measurable changes across the brain and body. Researchers observed improved brain efficiency, boosted immune signaling, and increased natural pain relief chemicals in participants’ blood. The effects even promoted neuron growth and stronger brain connectivity. Surprisingly, the experience mirrored psychedelic-like brain states—without any drugs involved.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192913.htm",
+      "publishedAt": "2026-04-07T07:56:04.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists discover hidden brain switch that tells you to stop eating",
+      "summary": "Your brain’s “stop eating” signal may come from an unexpected source. Researchers found that astrocytes—once thought to just support neurons—actually play a key role in controlling appetite. After a meal, glucose triggers tanycytes, which send signals to astrocytes that then activate fullness neurons. This newly discovered pathway could lead to innovative treatments for obesity and eating disorders.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192811.htm",
+      "publishedAt": "2026-04-06T23:28:11.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists find hidden brain cells helping deadly cancer grow",
+      "summary": "Scientists in Canada have uncovered a surprising weakness in glioblastoma, one of the deadliest brain cancers. They found that certain brain cells—once believed to only support healthy nerves—can actually help tumors grow by sending signals that strengthen cancer cells. When researchers blocked this communication, tumor growth slowed dramatically in lab models.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003933.htm",
+      "publishedAt": "2026-04-05T23:48:12.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists found a protein that drives brain aging — and how to stop it",
+      "summary": "Scientists have uncovered a powerful new clue in the mystery of brain aging: a single protein called FTL1. In aging mice, higher levels of this protein weakened connections between brain cells and led to memory decline. But when researchers reduced FTL1, something remarkable happened — the brain began to recover, rebuilding lost connections and restoring memory performance.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
+      "publishedAt": "2026-04-05T11:08:57.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "These overlooked brain cells may control fear and PTSD",
+      "summary": "Astrocytes, once thought to be mere brain “support cells,” are now revealed to be key players in fear memory. Researchers found they actively help form, recall, and weaken fear responses by interacting with neurons in real time. Changing astrocyte activity directly altered how strong fear memories became. This breakthrough could lead to entirely new treatments for anxiety-related disorders.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260403224508.htm",
+      "publishedAt": "2026-04-04T11:47:25.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 16,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
+      "summary": "Deep sleep does far more than rest the body — it activates a powerful brain-driven system that controls growth hormone, fueling muscle and bone strength, metabolism, and even mental performance. Scientists have now mapped the neural circuits behind this process, uncovering a delicate feedback loop in which sleep boosts growth hormone, and that same hormone helps regulate wakefulness.",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
+      "publishedAt": "2026-03-31T01:39:42.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain",
+        "neural"
+      ],
+      "signalScore": 14,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "This tiny implant, smaller than a grain of salt, can read your brain",
+      "summary": "A new neural implant is so small it can rest on a grain of salt, yet it can track and wirelessly transmit brain activity for over a year. It’s powered by laser light that safely passes through tissue and communicates using tiny infrared signals. This ultra-miniature device could transform how scientists study the brain without invasive wiring.",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260324024249.htm",
+      "publishedAt": "2026-03-25T02:23:36.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain",
+        "neural"
+      ],
+      "signalScore": 14,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
+      "summary": "As millions turn to ChatGPT and other AI chatbots for therapy-style advice, new research from Brown University raises a serious red flag: even when instructed to act like trained therapists, these systems routinely break core ethical standards of mental health care. In side-by-side evaluations with peer counselors and licensed psychologists, researchers uncovered 15 distinct ethical risks — from mishandling crisis situations and reinforcing harmful beliefs to showing biased responses and offering “deceptive empathy” that mimics care without real understanding.",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
+      "publishedAt": "2026-03-02T15:04:35.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "mental health"
+      ],
+      "signalScore": 14,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Stroke triggers a hidden brain change that looks like rejuvenation",
+      "summary": "After a stroke, the brain may do something surprisingly hopeful—it can “refresh” parts of itself. Researchers analyzing brain scans from over 500 stroke survivors found that while the damaged side of the brain appears to age faster, the opposite, unaffected side can actually look younger. This unexpected shift seems to reflect the brain’s effort to rewire itself, strengthening healthy regions to compensate for lost function.",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260328043556.htm",
+      "publishedAt": "2026-03-29T10:34:17.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 10,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "This new therapy turns off pain without opioids or addiction",
+      "summary": "Scientists have developed a new gene therapy that quiets pain at its source in the brain—without the addictive risks of opioids. Using AI to map how pain is processed, they created a targeted “off switch” that mimics morphine’s benefits but skips its dangerous side effects. In early tests, it delivered lasting relief without affecting normal sensations. The discovery could mark a major step toward safer, non-addictive pain treatments.",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260328043558.htm",
+      "publishedAt": "2026-03-29T00:57:04.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 10,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists discover why your appetite suddenly disappears when you’re sick",
+      "summary": "Scientists have uncovered how your body actually tells your brain to stop eating when you’re sick. In a new study, researchers found that specialized cells in the gut detect parasites and send signals that ultimately trigger the brain to suppress appetite. This process builds over time, explaining why you may feel fine at first but then suddenly lose interest in food as an infection takes hold.",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260328024519.htm",
+      "publishedAt": "2026-03-28T08:35:02.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 10,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Vivid dreams may be the secret to deeper, more restful sleep",
+      "summary": "Vivid dreams might be doing more than just entertaining your mind at night. Researchers found that immersive dreaming can actually make sleep feel deeper and more refreshing, even when brain activity is high. Surprisingly, people reported their deepest sleep after intense dream experiences, not just during quiet, inactive periods. This suggests dreams may play a key role in helping us feel truly rested.",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260326011458.htm",
+      "publishedAt": "2026-03-26T06:00:56.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 10,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Metformin’s hidden brain pathway revealed after 60 years",
+      "summary": "A major discovery reveals that metformin works not just in the body, but in the brain. By switching off a key protein and activating specific neurons, the drug lowers blood sugar through a previously hidden pathway, opening new doors for diabetes treatment.",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260325055441.htm",
+      "publishedAt": "2026-03-25T10:47:31.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 10,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    },
+    {
+      "kind": "research_news",
+      "title": "Scientists just solved a major mystery about how your brain stores memories",
+      "summary": "Scientists have found that your brain separates memories into “what” and “where/when” using two different groups of neurons. One set responds to specific objects or people, while another tracks the context or situation. When you remember something correctly, these groups briefly connect and reconstruct the full memory. This system may be the secret behind how we recognize the same things across totally different experiences.",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260324024247.htm",
+      "publishedAt": "2026-03-25T01:13:47.000Z",
+      "source": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "relevanceKeywords": [
+        "brain"
+      ],
+      "signalScore": 10,
+      "access": {
+        "metric": "access_views",
+        "currentYear": 2026,
+        "previousYear": 2025,
+        "currentValue": null,
+        "previousValue": null,
+        "delta": null,
+        "growthRate": null,
+        "available": false,
+        "reason": "access metrics not configured"
+      }
+    }
+  ]
+}
