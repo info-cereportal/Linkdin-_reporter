@@ -1,5 +1,57 @@
 [
   {
+    "generatedAt": "2026-05-01T08:11:34.425Z",
+    "date": "2026-05-01",
+    "topic": "学習と記憶",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Multisensory learning recruits visual neurons into an olfactory memory engram",
+    "paperLink": "https://arxiv.org/abs/2604.28007",
+    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n数字が語る、学習と記憶の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習 × 記憶 × コネクトミクス × ドーパミン\n\n> Associating multiple sensory cues with a single experience or object is a fundamental process that improves object recognition and memory performance. However, neural mechanisms that bind sensory features during learning and augment memory expression are unknown.\n\nなぜこの数字が重要か。\n\nコネクトミクス・回路解析において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Multisensory learning recruits visual neurons into an olfactory memory engram\n🔗 https://arxiv.org/abs/2604.28007\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #神経科学",
+    "summaryJP": "学習と記憶 — 数値で示された新事実（コネクトミクス・回路解析）",
+    "paperAuthors": "Zeynep Okray, Nils Otto, Anna A. Cook, Clifford Talbot, Ashwin Miriyala, Martín Klappenbach, Ciara Stern, Kieran Desmond, Paola Vargas-Gutierrez, Scott Waddell",
+    "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+    "paperId": "2604.28007",
+    "paperSource": "arxiv",
+    "themeArea": "コネクトミクス・回路解析",
+    "jpKeywords": [
+      "学習",
+      "記憶",
+      "コネクトミクス",
+      "ドーパミン",
+      "GABA",
+      "ECoG(皮質脳波)"
+    ],
+    "abstractExcerpt": "Associating multiple sensory cues with a single experience or object is a fundamental process that improves object recognition and memory performance. However, neural mechanisms that bind sensory features during learning and augment memory…",
+    "figureUrls": []
+  },
+  {
+    "generatedAt": "2026-05-01T08:11:06.133Z",
+    "date": "2026-05-01",
+    "topic": "学習",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Cortex-Inspired Continual Learning: Unsupervised Instantiation and Recovery of Functional Task Networks",
+    "paperLink": "https://arxiv.org/abs/2604.24637",
+    "figureUrl": "https://arxiv.org/html/2604.24637/2604.24637v2/figures/neurons.png",
+    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習\n\n> arXiv:2604.24637v2 Announce Type: replace-cross Abstract: Block-sequential continual learning demands that a single model both protect prior solutions from catastrophic forgetting and efficiently infer at inference time which prior solution matches the current input without task...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Cortex-Inspired Continual Learning: Unsupervised Instantiation and Recovery of Functional Task Networks\n🔗 https://arxiv.org/abs/2604.24637\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #DeepLearning",
+    "summaryJP": "学習 — 数値で示された新事実（神経デコーディング）",
+    "paperAuthors": "Kevin McKee, Thomas Hazy, Yicong Zheng, Zacharie Bugaud, Thomas Miconi",
+    "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
+    "paperId": "2604.24637",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "学習"
+    ],
+    "abstractExcerpt": "arXiv:2604.24637v2 Announce Type: replace-cross Abstract: Block-sequential continual learning demands that a single model both protect prior solutions from catastrophic forgetting and efficiently infer at inference time which prior…",
+    "figureUrls": [
+      "https://arxiv.org/html/2604.24637/2604.24637v2/figures/neurons.png",
+      "https://arxiv.org/html/2604.24637/2604.24637v2/figures/exp1_synthetic_clf/tasks.png",
+      "https://arxiv.org/html/2604.24637/2604.24637v2/x1.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-01T07:50:38.246Z",
     "date": "2026-05-01",
     "topic": "ベイズ推論と学習",

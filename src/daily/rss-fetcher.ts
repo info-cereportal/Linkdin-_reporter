@@ -232,16 +232,108 @@ function extractAtomLink(entry: string): string {
   return match ? match[1] : "";
 }
 
+// ────────────────────────────────────────────
+// LaTeX アクセント記号デコーダ
+// arXiv の著者名・タイトルでよく見る
+// `\'e` → é, `\"u` → ü, `\^a` → â, `\~n` → ñ などを正規化する。
+// ────────────────────────────────────────────
+
+const LATEX_ACCENT_MAP: Record<string, string> = {
+  // acute ´
+  "'a": "á", "'A": "Á", "'e": "é", "'E": "É",
+  "'i": "í", "'I": "Í", "'o": "ó", "'O": "Ó",
+  "'u": "ú", "'U": "Ú", "'y": "ý", "'Y": "Ý",
+  "'n": "ń", "'N": "Ń", "'c": "ć", "'C": "Ć",
+  "'s": "ś", "'S": "Ś", "'z": "ź", "'Z": "Ź",
+  // grave `
+  "`a": "à", "`A": "À", "`e": "è", "`E": "È",
+  "`i": "ì", "`I": "Ì", "`o": "ò", "`O": "Ò",
+  "`u": "ù", "`U": "Ù",
+  // diaeresis "
+  '"a': "ä", '"A': "Ä", '"e': "ë", '"E': "Ë",
+  '"i': "ï", '"I': "Ï", '"o': "ö", '"O': "Ö",
+  '"u': "ü", '"U': "Ü", '"y': "ÿ", '"Y': "Ÿ",
+  // circumflex ^
+  "^a": "â", "^A": "Â", "^e": "ê", "^E": "Ê",
+  "^i": "î", "^I": "Î", "^o": "ô", "^O": "Ô",
+  "^u": "û", "^U": "Û",
+  // tilde ~
+  "~a": "ã", "~A": "Ã", "~n": "ñ", "~N": "Ñ",
+  "~o": "õ", "~O": "Õ",
+};
+
+function decodeLatexAccents(s: string): string {
+  if (!s) return s;
+  let out = s;
+
+  // 1. 中括弧で包まれたアクセントを剥がす: {\'e} → \'e
+  out = out.replace(/\{(\\['`"^~][a-zA-Z])\}/g, "$1");
+
+  // 2. \<accent><letter> をマップ置換
+  out = out.replace(/\\(['`"^~])([a-zA-Z])/g, (m, acc, ltr) => {
+    const key = `${acc}${ltr}`;
+    return LATEX_ACCENT_MAP[key] ?? m;
+  });
+
+  // 3. cedilla \c{c} → ç / \c{C} → Ç
+  out = out.replace(/\\c\{([cC])\}/g, (_, c) =>
+    c === "c" ? "ç" : "Ç"
+  );
+
+  // 4. 単独LaTeXトークン (後続が英字でない箇所のみ)
+  out = out
+    .replace(/\\ss(?![a-zA-Z])/g, "ß")
+    .replace(/\\ae(?![a-zA-Z])/g, "æ")
+    .replace(/\\AE(?![a-zA-Z])/g, "Æ")
+    .replace(/\\oe(?![a-zA-Z])/g, "œ")
+    .replace(/\\OE(?![a-zA-Z])/g, "Œ")
+    .replace(/\\o(?![a-zA-Z])/g, "ø")
+    .replace(/\\O(?![a-zA-Z])/g, "Ø")
+    .replace(/\\aa(?![a-zA-Z])/g, "å")
+    .replace(/\\AA(?![a-zA-Z])/g, "Å")
+    .replace(/\\l(?![a-zA-Z])/g, "ł")
+    .replace(/\\L(?![a-zA-Z])/g, "Ł");
+
+  // 5. 残った装飾用の中括弧を除去 (例: {Schwarzschild} → Schwarzschild)
+  out = out.replace(/\{([^{}]*)\}/g, "$1");
+
+  return out;
+}
+
+/** arXiv Atom の summary 冒頭ボイラープレートを除去する。
+ * 例:
+ *   "arXiv:2604.27894v1 Announce Type: new Abstract: ..."
+ *   "arXiv:2604.24637v2 Announce Type: replace-cross Abstract: ..."
+ *   "arXiv:2604.12345 Announce Type: cross Abstract: ..."
+ *
+ * Announce Type の値は new / cross / replace / replace-cross などの
+ * ハイフン入り識別子があり得るため [\w-]+ で受ける。
+ */
+function stripArxivBoilerplate(s: string): string {
+  return s.replace(
+    /^arXiv:[\d.]+(?:v\d+)?\s+Announce\s+Type:\s+[\w-]+\s+Abstract:\s*/i,
+    ""
+  );
+}
+
 function cleanText(text: string): string {
-  return text
+  let out = text
+    // HTML
     .replace(/<[^>]+>/g, "")
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
     .replace(/&amp;/g, "&")
     .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/\s+/g, " ")
-    .trim();
+    .replace(/&#39;/g, "'");
+
+  // arXiv 抄録のボイラープレート
+  out = stripArxivBoilerplate(out);
+
+  // LaTeX アクセントを Unicode に
+  out = decodeLatexAccents(out);
+
+  // 連続空白圧縮 + トリム
+  return out.replace(/\s+/g, " ").trim();
 }
 
 // ────────────────────────────────────────────

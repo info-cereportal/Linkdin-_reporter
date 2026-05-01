@@ -1,22 +1,26 @@
 {
-  "generatedAt": "2026-05-01T07:50:38.246Z",
+  "generatedAt": "2026-05-01T08:11:34.425Z",
   "date": "2026-05-01",
-  "topic": "ベイズ推論と学習",
+  "topic": "学習と記憶",
   "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "On Agentic Behavioral Modeling",
-  "paperLink": "https://arxiv.org/abs/2604.27894",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、ベイズ推論と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 ベイズ推論 × 学習\n\n> arXiv:2604.27894v1 Announce Type: new Abstract: Integrating theoretical neuroscience, decision theory, and probabilistic inference offers a promising route to understanding human cognition, yet concrete methodological bridges between agentic AI models and behavioral data...\n\nなぜこの数字が重要か。\n\n計算論的神経科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 On Agentic Behavioral Modeling\n🔗 https://arxiv.org/abs/2604.27894\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #BrainComputerInterface",
-  "summaryJP": "ベイズ推論と学習 — 数値で示された新事実（計算論的神経科学）",
-  "paperAuthors": "Dirk Ostwald, Rasmus Bruckner, Franziska Us\\'ee, Belinda Fleischmann, Joram Soch, Sean Mulready",
+  "paperTitle": "Multisensory learning recruits visual neurons into an olfactory memory engram",
+  "paperLink": "https://arxiv.org/abs/2604.28007",
+  "formatted": "これを読んで、脳に対する見方が変わりました。\n\n数字が語る、学習と記憶の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習 × 記憶 × コネクトミクス × ドーパミン\n\n> Associating multiple sensory cues with a single experience or object is a fundamental process that improves object recognition and memory performance. However, neural mechanisms that bind sensory features during learning and augment memory expression are unknown.\n\nなぜこの数字が重要か。\n\nコネクトミクス・回路解析において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Multisensory learning recruits visual neurons into an olfactory memory engram\n🔗 https://arxiv.org/abs/2604.28007\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #神経科学",
+  "summaryJP": "学習と記憶 — 数値で示された新事実（コネクトミクス・回路解析）",
+  "paperAuthors": "Zeynep Okray, Nils Otto, Anna A. Cook, Clifford Talbot, Ashwin Miriyala, Martín Klappenbach, Ciara Stern, Kieran Desmond, Paola Vargas-Gutierrez, Scott Waddell",
   "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
-  "paperId": "2604.27894",
+  "paperId": "2604.28007",
   "paperSource": "arxiv",
-  "themeArea": "計算論的神経科学",
+  "themeArea": "コネクトミクス・回路解析",
   "jpKeywords": [
-    "ベイズ推論",
-    "学習"
+    "学習",
+    "記憶",
+    "コネクトミクス",
+    "ドーパミン",
+    "GABA",
+    "ECoG(皮質脳波)"
   ],
-  "abstractExcerpt": "arXiv:2604.27894v1 Announce Type: new Abstract: Integrating theoretical neuroscience, decision theory, and probabilistic inference offers a promising route to understanding human cognition, yet concrete methodological bridges between…",
+  "abstractExcerpt": "Associating multiple sensory cues with a single experience or object is a fundamental process that improves object recognition and memory performance. However, neural mechanisms that bind sensory features during learning and augment memory…",
   "figureUrls": []
 }
