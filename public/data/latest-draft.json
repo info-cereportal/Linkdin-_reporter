@@ -1,24 +1,23 @@
 {
-  "generatedAt": "2026-05-10T07:55:57.321Z",
+  "generatedAt": "2026-05-10T10:05:41.886Z",
   "date": "2026-05-10",
-  "topic": "Transformerと注意機構",
+  "topic": "学習と畳み込みニューラルネットワーク(CNN)",
   "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "An Attention-Driven Graph Transformer With Nonlinear Modeling and Neuro-Fuzzy Fusion for High-Order Toxic Molecular Graph Learning.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42104818/",
-  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n脳科学とAI——その境界線が消えつつある。\n\nTransformerと注意機構に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 Transformer × 注意機構 × 学習 × 深層学習\n\n📊 注目すべきデータ：\n→ To address these limitations, we propose a novel AKAGTL model, which is an attention-driven Kolmogorov-Arnold network (KAN)-based graph transformer framework for toxic molecular...\n→ These findings suggest that jointly modeling nonlinear functional interactions, structural dependencies, and uncertainty-aware fusion provides a more expressive and robust...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 An Attention-Driven Graph Transformer With Nonlinear Modeling and Neuro-Fuzzy Fusion for High-Order Toxic Molecular Graph Learning.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42104818/\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #BCI",
-  "summaryJP": "Transformerと注意機構 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
-  "paperAuthors": "Phu Pham",
+  "paperTitle": "Multi-dimensional MRI representation and privileged learning approaches to functional outcome prediction for ischemic stroke patients.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42106496/",
+  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習と畳み込みニューラルネットワーク(CNN)に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習 × 畳み込みニューラルネットワーク(CNN) × 表現学習\n\n📊 注目すべきデータ：\n→ Most machine learning (ML) and artificial intelligence (AI) outcome prediction models lack robust strategies to incorporate high-dimensional clinical imaging data or to account...\n→ We developed and validated our models on a large public dataset (N&#x2009;=&#x2009;974) and an external validation dataset (N&#x2009;=&#x2009;738), demonstrating performance...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Multi-dimensional MRI representation and privileged learning approaches to functional outcome prediction for ischemic stroke patients.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42106496/\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #NeuroAI",
+  "summaryJP": "学習と畳み込みニューラルネットワーク(CNN) — 脳科学とAIをつなぐ研究（神経デコーディング）",
+  "paperAuthors": "Emily Wittrup, John Reavey-Cantwell, Aditya S Pandey, Dennis J Rivet Ii, Badih J Daou, Kayvan Najarian",
   "publishedDate": "2026-05-09",
-  "paperId": "42104818",
+  "paperId": "42106496",
   "paperSource": "pubmed",
-  "themeArea": "ニューロAI・計算論",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "Transformer",
-    "注意機構",
     "学習",
-    "深層学習"
+    "畳み込みニューラルネットワーク(CNN)",
+    "表現学習"
   ],
-  "abstractExcerpt": "Learning expressive representations for complex, size-varied molecular graphs remains a fundamental challenge in toxic molecular property prediction and regression. The inherent nonlinearity of atomic interactions, together with intricate…",
+  "abstractExcerpt": "Accurate prediction of long-term functional outcomes for stroke patients remains a clinical challenge, despite advances in diagnostics and treatments. Most machine learning (ML) and artificial intelligence (AI) outcome prediction models…",
   "figureUrls": []
 }
