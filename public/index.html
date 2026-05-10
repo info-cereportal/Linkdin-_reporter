@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cereportal Neuro Daily — 脳情報科学・ニューロAI のデイリー速報</title>
+    <meta
+      name="description"
+      content="脳情報科学・ニューロAI・ライフサイエンス産業の最新動向を3時間ごとに編集してお届けする日本語のオンラインニュース誌。arXiv 論文、産業ニュース、助成金、AI for Neuroscience を一望できます。"
+    />
+    <meta name="author" content="Cereportal Editorial" />
+    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <meta name="color-scheme" content="dark light" />
+    <link rel="canonical" href="https://eegbugckets.web.app/" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Cereportal Neuro Daily" />
+    <meta property="og:title" content="Cereportal Neuro Daily — 脳情報科学のデイリー速報" />
+    <meta
+      property="og:description"
+      content="脳情報科学・ニューロAI・ライフサイエンス産業の最新動向を3時間ごとに編集してお届けします。"
+    />
+    <meta property="og:url" content="https://eegbugckets.web.app/" />
+    <meta property="og:locale" content="ja_JP" />
+
+    <!-- Twitter card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Cereportal Neuro Daily" />
+    <meta
+      name="twitter:description"
+      content="脳情報科学・ニューロAI のデイリー速報。3時間ごと更新。"
+    />
+
+    <!-- Structured data: NewsMediaOrganization + WebSite -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://eegbugckets.web.app/#org",
+            "name": "Cereportal Neuro Daily",
+            "url": "https://eegbugckets.web.app/",
+            "description": "脳情報科学・ニューロAI・ライフサイエンス産業の最新動向を3時間ごとに編集してお届けする日本語のオンラインニュース誌。",
+            "inLanguage": "ja",
+            "publishingPrinciples": "https://eegbugckets.web.app/about.html",
+            "ethicsPolicy": "https://eegbugckets.web.app/about.html#ethics"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://eegbugckets.web.app/#site",
+            "url": "https://eegbugckets.web.app/",
+            "name": "Cereportal Neuro Daily",
+            "publisher": { "@id": "https://eegbugckets.web.app/#org" },
+            "inLanguage": "ja"
+          }
+        ]
+      }
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,300..900,30..100,0..1&family=Inter:wght@300..700&family=JetBrains+Mono:wght@300..600&display=swap"
+    />
+    <link rel="stylesheet" href="/assets/style.css" />
+  </head>
+  <body class="page-home">
+    <a href="#main" class="skip-link">本文へスキップ</a>
+
+    <!-- ───────────────── MASTHEAD ───────────────── -->
+    <header class="masthead" role="banner">
+      <div class="masthead-top">
+        <div class="masthead-meta" id="masthead-date">—</div>
+        <div class="masthead-meta masthead-issue" id="masthead-issue">VOL. — / ISSUE —</div>
+        <div class="masthead-meta masthead-status">
+          <span class="live-dot" aria-hidden="true"></span>
+          <span id="status-label">LIVE — updating</span>
+        </div>
+      </div>
+
+      <a href="/" class="masthead-brand" aria-label="Cereportal Neuro Daily — トップへ">
+        <svg
+          class="brand-mark"
+          viewBox="0 0 56 56"
+          aria-hidden="true"
+          role="img"
+        >
+          <circle cx="28" cy="28" r="25" class="ring outer" />
+          <circle cx="28" cy="28" r="17" class="ring mid" />
+          <circle cx="28" cy="28" r="9" class="ring inner" />
+          <circle cx="28" cy="3" r="2" class="node primary" />
+          <circle cx="3" cy="28" r="2" class="node primary" />
+          <circle cx="53" cy="28" r="2" class="node primary" />
+          <circle cx="28" cy="53" r="2" class="node primary" />
+          <circle cx="13" cy="13" r="1.4" class="node" />
+          <circle cx="43" cy="13" r="1.4" class="node" />
+          <circle cx="13" cy="43" r="1.4" class="node" />
+          <circle cx="43" cy="43" r="1.4" class="node" />
+          <circle cx="28" cy="28" r="3" class="core" />
+        </svg>
+        <h1 class="brand-wordmark">
+          <span class="brand-cere">Cere</span><span class="brand-portal">portal</span>
+          <span class="brand-divider">·</span>
+          <span class="brand-tagline">Neuro Daily</span>
+        </h1>
+      </a>
+
+      <p class="masthead-strapline">
+        脳情報科学 × ニューロ AI × ライフサイエンス産業のデイリーリポート —
+        <em>3時間ごとに編集・公開。</em>
+      </p>
+
+      <!-- thin EEG signal accent (brand identity, slim) -->
+      <svg
+        class="eeg-accent"
+        viewBox="0 0 1600 28"
+        preserveAspectRatio="none"
+        aria-hidden="true"
+      >
+        <path id="eeg-accent-path" d="M0,14 L1600,14" />
+      </svg>
+
+      <nav class="primary-nav" aria-label="主要セクション">
+        <ul>
+          <li><a href="#section-pick" class="nav-pick"><span class="nav-dot" data-cat="pick"></span>エディターズピック</a></li>
+          <li><a href="#section-bci" class="nav-bci"><span class="nav-dot" data-cat="bci"></span>BCI</a></li>
+          <li><a href="#section-papers" class="nav-papers"><span class="nav-dot" data-cat="papers"></span>論文</a></li>
+          <li><a href="#section-aineuro" class="nav-aineuro"><span class="nav-dot" data-cat="aineuro"></span>AI for Neuro</a></li>
+          <li><a href="#section-market" class="nav-market"><span class="nav-dot" data-cat="market"></span>産業ニュース</a></li>
+          <li><a href="#section-grants" class="nav-grants"><span class="nav-dot" data-cat="grants"></span>助成金</a></li>
+          <li><a href="/about.html" class="nav-about">運営者</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main id="main" class="layout">
+      <!-- ───────────────── HERO / TOP STORY ───────────────── -->
+      <section class="hero" id="section-pick" aria-labelledby="hero-heading">
+        <header class="section-rule">
+          <span class="rule-eyebrow">TOP STORY · 本日の一本</span>
+          <span class="rule-time" id="hero-time">—</span>
+        </header>
+
+        <article class="hero-article">
+          <div class="hero-poster">
+            <svg
+              id="poster-svg"
+              viewBox="0 0 480 280"
+              role="img"
+              aria-label="本日のトップストーリー · ポスタービジュアル"
+            ></svg>
+            <span class="hero-badge" id="hero-badge">脳情報科学</span>
+          </div>
+
+          <div class="hero-body">
+            <p class="hero-kicker" id="hero-kicker">脳情報科学</p>
+            <h2 id="hero-heading" class="hero-headline">
+              <a href="#section-pick" id="hero-headline-link">
+                <span id="hero-headline-text">記事を取得しています…</span>
+              </a>
+            </h2>
+            <p class="hero-dek" id="hero-dek">—</p>
+
+            <dl class="hero-byline">
+              <div>
+                <dt>編集</dt>
+                <dd>Cereportal Editorial</dd>
+              </div>
+              <div>
+                <dt>原典</dt>
+                <dd id="hero-source">—</dd>
+              </div>
+              <div>
+                <dt>掲載</dt>
+                <dd id="hero-published">—</dd>
+              </div>
+              <div>
+                <dt>リスク</dt>
+                <dd class="risk-cell" data-risk="low">
+                  <span class="risk-num" id="hero-risk">—</span>
+                  <span class="risk-max">/100</span>
+                </dd>
+              </div>
+            </dl>
+
+            <p class="hero-lede" id="hero-lede">—</p>
+
+            <footer class="hero-actions">
+              <a
+                class="btn btn-primary"
+                id="hero-paper-btn"
+                href="#"
+                target="_blank"
+                rel="noopener"
+                hidden
+              >
+                <span>論文を読む</span><span class="btn-arrow">↗</span>
+              </a>
+              <a
+                class="btn"
+                href="#section-pick-detail"
+                id="hero-detail-btn"
+              >
+                <span>本日の編集ノート</span><span class="btn-arrow">↓</span>
+              </a>
+            </footer>
+          </div>
+        </article>
+      </section>
+
+      <!-- ───────────────── CATEGORY GRID ───────────────── -->
+      <section
+        class="category"
+        id="section-bci"
+        aria-labelledby="bci-heading"
+        data-category="bci"
+      >
+        <header class="section-rule">
+          <span class="rule-eyebrow"><span class="cat-chip" data-cat="bci">BCI</span> SECTION 01 · ブレイン・コンピュータ・インターフェース</span>
+          <span class="rule-meta" data-list-meta="bci">— articles</span>
+        </header>
+        <h2 id="bci-heading" class="section-title">
+          ブレイン・コンピュータ・インターフェース<em>最新動向</em>
+        </h2>
+        <p class="section-dek">
+          Neuralink / Synchron / Blackrock 等の産業ニュースと、
+          arXiv <code>eess.SP</code> / <code>cs.HC</code> から BCI シグナルワード
+          (BCI / BMI / EEG / ECoG / closed-loop 等) でフィルタした研究をまとめて表示。
+        </p>
+        <ol class="article-grid" data-list="bci"></ol>
+      </section>
+
+      <section
+        class="category"
+        id="section-papers"
+        aria-labelledby="papers-heading"
+        data-category="papers"
+      >
+        <header class="section-rule">
+          <span class="rule-eyebrow"><span class="cat-chip" data-cat="papers">PAPERS</span> SECTION 02 · 論文</span>
+          <span class="rule-meta" data-list-meta="papers">— articles</span>
+        </header>
+        <h2 id="papers-heading" class="section-title">
+          脳情報科学の<em>最新論文</em>
+        </h2>
+        <p class="section-dek">
+          arXiv <code>q-bio.NC</code> を中心に直近数日の研究プレプリントを抽出。
+          各記事は原典のリンクと著者情報へ直接遷移できます。
+        </p>
+        <ol class="article-grid" data-list="papers"></ol>
+      </section>
+
+      <section
+        class="category"
+        id="section-aineuro"
+        aria-labelledby="aineuro-heading"
+        data-category="aineuro"
+      >
+        <header class="section-rule">
+          <span class="rule-eyebrow"><span class="cat-chip" data-cat="aineuro">AI×NEURO</span> SECTION 03 · AI for Neuro</span>
+          <span class="rule-meta" data-list-meta="aineuro">— articles</span>
+        </header>
+        <h2 id="aineuro-heading" class="section-title">
+          AI &amp; <em>計算論的神経科学</em>
+        </h2>
+        <p class="section-dek">
+          スパイキングニューラルネット、神経モデル、機械学習×神経科学のクロスオーバー研究。
+        </p>
+        <ol class="article-grid" data-list="aineuro"></ol>
+      </section>
+
+      <section
+        class="category"
+        id="section-market"
+        aria-labelledby="market-heading"
+        data-category="market"
+      >
+        <header class="section-rule">
+          <span class="rule-eyebrow"><span class="cat-chip" data-cat="market">MARKET</span> SECTION 04 · 産業ニュース</span>
+          <span class="rule-meta" data-list-meta="market">— articles</span>
+        </header>
+        <h2 id="market-heading" class="section-title">
+          ライフサイエンス<em>産業ニュース</em>
+        </h2>
+        <p class="section-dek">
+          創薬・規制動向・臨床ニュース。各見出しは編集部が手を加えず原文ソースへ直接ご案内します
+          (要約は転載しません)。
+        </p>
+        <ol class="article-grid headline-grid" data-list="market"></ol>
+      </section>
+
+      <section
+        class="category"
+        id="section-grants"
+        aria-labelledby="grants-heading"
+        data-category="grants"
+      >
+        <header class="section-rule">
+          <span class="rule-eyebrow"><span class="cat-chip" data-cat="grants">GRANTS</span> SECTION 05 · 助成金 / ライフサイエンス</span>
+          <span class="rule-meta" data-list-meta="grants">— articles</span>
+        </header>
+        <h2 id="grants-heading" class="section-title">
+          研究助成 &amp; <em>ライフサイエンス速報</em>
+        </h2>
+        <p class="section-dek">
+          ScienceDaily と関連ニュースから注目トピックを集約。見出しと出典のみ。
+        </p>
+        <ol class="article-grid headline-grid" data-list="grants"></ol>
+      </section>
+
+      <!-- ───────────────── EDITOR'S PICK / DETAIL ───────────────── -->
+      <section
+        class="editors-pick"
+        id="section-pick-detail"
+        aria-labelledby="editors-heading"
+      >
+        <header class="section-rule">
+          <span class="rule-eyebrow">EDITOR'S NOTE · 編集ノート</span>
+          <span class="rule-meta" id="editors-template">—</span>
+        </header>
+        <h2 id="editors-heading" class="section-title">
+          編集部<em>解説</em>と LinkedIn 配信用ドラフト
+        </h2>
+
+        <article class="editors-body">
+          <dl class="editors-meta">
+            <div>
+              <dt>原題</dt>
+              <dd id="editors-paper-title">—</dd>
+            </div>
+            <div>
+              <dt>著者</dt>
+              <dd id="editors-authors">—</dd>
+            </div>
+            <div>
+              <dt>キーワード</dt>
+              <dd id="editors-keywords">—</dd>
+            </div>
+            <div>
+              <dt>テンプレート</dt>
+              <dd id="editors-template-name">—</dd>
+            </div>
+          </dl>
+
+          <h3 class="subsection-title">編集部メモ</h3>
+          <p class="editors-note" id="editors-note">
+            本日の一本は、編集部が3時間ごとの自動取得から優先テーマ
+            (脳情報・神経AI) で選定し、表現上の hedging を経て公開した記事です。
+            内容は学術プレプリントを含むため、確定的な医学的助言ではありません。
+          </p>
+
+          <h3 class="subsection-title">アブストラクト抜粋</h3>
+          <blockquote class="abstract-quote">
+            <p id="editors-abstract">—</p>
+            <cite id="editors-abstract-cite">—</cite>
+          </blockquote>
+
+          <h3 class="subsection-title">LinkedIn 配信用ドラフト全文</h3>
+          <p class="draft-intro">
+            読者がそのまま LinkedIn に転載できる長文ドラフトです。
+            編集部の hedging ルールにより<code>risk_score</code>
+            が30を超える場合は表現を自動緩和します。
+          </p>
+
+          <details class="draft-collapse" id="draft-collapse">
+            <summary>
+              <span>LinkedIn 配信用ドラフト全文を展開</span>
+              <span class="dc-toggle" aria-hidden="true">▾</span>
+            </summary>
+            <div class="draft-frame" id="draft-frame">
+              <pre class="draft-text" id="draft-text">// awaiting first transmission…</pre>
+            </div>
+          </details>
+
+          <footer class="editors-actions">
+            <a
+              class="btn btn-primary"
+              id="paper-btn"
+              href="#"
+              target="_blank"
+              rel="noopener"
+              hidden
+            >
+              <span>原典を読む</span><span class="btn-arrow">↗</span>
+            </a>
+            <button class="btn" id="copy-btn" type="button" disabled>
+              <span>ドラフトをコピー</span>
+              <span class="btn-arrow">⌘C</span>
+            </button>
+            <a
+              class="btn"
+              href="https://www.linkedin.com/feed/"
+              target="_blank"
+              rel="noopener"
+            >
+              <span>LinkedIn を開く</span><span class="btn-arrow">↗</span>
+            </a>
+          </footer>
+
+          <!-- figure carousel (if available) -->
+          <div class="figure-strip" id="figure-strip" hidden>
+            <header class="figure-strip-head">
+              <span class="fs-label">FIGURES</span>
+              <span class="fs-count" id="figure-count">— available</span>
+              <span class="fs-hint">↔ scroll</span>
+            </header>
+            <ol class="figure-list" id="figure-list"></ol>
+          </div>
+        </article>
+      </section>
+
+      <!-- ───────────────── ARCHIVE ───────────────── -->
+      <section
+        class="archive"
+        id="section-archive"
+        aria-labelledby="archive-heading"
+      >
+        <header class="section-rule">
+          <span class="rule-eyebrow">ARCHIVE · 過去の編集ノート</span>
+          <span class="rule-meta" id="archive-count">— entries</span>
+        </header>
+        <h2 id="archive-heading" class="section-title">
+          過去の<em>編集ノート</em>
+        </h2>
+        <ol class="archive-list" id="archive-list">
+          <li class="archive-empty">取得待機中…</li>
+        </ol>
+      </section>
+
+      <!-- ───────────────── METHODOLOGY ───────────────── -->
+      <section class="methodology" aria-labelledby="method-heading">
+        <header class="section-rule">
+          <span class="rule-eyebrow">METHODOLOGY · 編集方針</span>
+        </header>
+        <h2 id="method-heading" class="section-title">
+          記事はどのように<em>選ばれて</em>いるのか
+        </h2>
+        <ul class="method-list">
+          <li>
+            <span class="method-key">取得</span>
+            <span class="method-val">
+              arXiv <code>q-bio.NC</code> RSS と PubMed E-utilities から
+              直近24–72時間のエントリを取得。3時間ごとに自動更新。
+            </span>
+          </li>
+          <li>
+            <span class="method-key">選定</span>
+            <span class="method-val">
+              重複排除 + キーワード重み付け (脳情報・神経AI・神経画像 等) で
+              本日の1本を選出。
+            </span>
+          </li>
+          <li>
+            <span class="method-key">編集</span>
+            <span class="method-val">
+              6種のナラティブテンプレート
+              (paradigm-shift / data-driven / three-insights / future-vision /
+              neuro-ai-bridge / provocative-question) を年内日次でローテーション。
+            </span>
+          </li>
+          <li>
+            <span class="method-key">Hedging</span>
+            <span class="method-val">
+              医学的断定 / 再現性 / 誇張 / 引用欠落 をパターン検出し、
+              <code>risk_score &gt; 30</code> で表現を自動緩和。
+            </span>
+          </li>
+          <li>
+            <span class="method-key">公開</span>
+            <span class="method-val">
+              GitHub Actions が <code>public/data/*.json</code> をコミット →
+              Firebase Hosting にデプロイ。
+            </span>
+          </li>
+        </ul>
+        <p class="method-disclaimer">
+          本サイトの記事は研究情報の<strong>メタ紹介</strong>を目的としています。
+          医療上の判断・治療方針については必ず専門医にご相談ください。
+        </p>
+      </section>
+    </main>
+
+    <!-- ───────────────── FOOTER ───────────────── -->
+    <footer class="site-footer" role="contentinfo">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <span class="footer-mark">⏚</span>
+          <span class="footer-wordmark">CEREPORTAL</span>
+          <span class="footer-mark">⏚</span>
+        </div>
+
+        <nav class="footer-nav" aria-label="サイト情報">
+          <ul>
+            <li><a href="/about.html">運営者情報</a></li>
+            <li><a href="/contact.html">お問い合わせ</a></li>
+            <li><a href="/privacy.html">プライバシーポリシー</a></li>
+            <li><a href="/terms.html">利用規約</a></li>
+          </ul>
+        </nav>
+
+        <p class="footer-copy">
+          © 2026 Cereportal Editorial. All rights reserved. ·
+          <span class="mono">node + tsc</span> · GitHub Actions · Firebase Hosting
+        </p>
+        <p class="footer-disclaimer">
+          掲載されている各リンク先記事の著作権は各オリジナル発行元に帰属します。
+          本サイトは出典を明示の上、見出しおよび編集部による独自解説を提供しています。
+        </p>
+      </div>
+    </footer>
+
+    <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+    <script src="/assets/app.js" defer></script>
+  </body>
+</html>

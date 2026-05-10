@@ -510,8 +510,72 @@ export interface PolishedDraft {
   paperLink: string;
   /** 論文タイトル */
   paperTitle: string;
-  /** 論文の図表URL（取得できた場合） */
+  /** 論文の図表URL（取得できた場合） — 後方互換用に1枚目を保持 */
   figureUrl?: string;
+
+  // ─── 情報密度向上のため追加されたメタデータ群 ───
+  /** 30-60字程度の日本語タイトルサマリ */
+  summaryJP: string;
+  /** 著者ライン (取得できなかった場合は空文字) */
+  paperAuthors: string;
+  /** 発表日 (取得できた範囲で) */
+  publishedDate: string;
+  /** arXiv ID または PMID */
+  paperId: string;
+  /** 論文ソース */
+  paperSource: "arxiv" | "pubmed" | "other";
+  /** 推定テーマ領域 (例: 「ニューロAI・計算論」) */
+  themeArea: string;
+  /** マッチした日本語キーワード (最大6) */
+  jpKeywords: string[];
+  /** 抄録の冒頭抜粋 (240字程度) */
+  abstractExcerpt: string;
+  /** 図表URL一覧 (最大3枚) */
+  figureUrls: string[];
+}
+
+// ────────────────────────────────────────────
+// メタデータ抽出ヘルパー
+// ────────────────────────────────────────────
+
+/** 論文リンクから ID とソースを推定する */
+function extractPaperId(link: string): {
+  id: string;
+  source: "arxiv" | "pubmed" | "other";
+} {
+  const ax = link.match(/arxiv\.org\/abs\/([^\s/?#]+)/i);
+  if (ax) return { id: ax[1].replace(/v\d+$/, ""), source: "arxiv" };
+  const pm = link.match(/pubmed\.ncbi\.nlm\.nih\.gov\/(\d+)/i);
+  if (pm) return { id: pm[1], source: "pubmed" };
+  return { id: "", source: "other" };
+}
+
+/** 抄録から純テキストの冒頭抜粋を取り出す (絵文字や引用記号を含まない) */
+function extractCleanExcerpt(abstract: string, maxChars = 240): string {
+  if (!abstract) return "";
+  const cleaned = abstract.replace(/\s+/g, " ").trim();
+  if (cleaned.length <= maxChars) return cleaned;
+  return cleaned.substring(0, maxChars).replace(/\s\S*$/, "") + "…";
+}
+
+/** テンプレートに応じた日本語タイトルサマリを生成する */
+const SUMMARY_FRAMES: Record<string, string> = {
+  "paradigm-shift": "通説を揺さぶる新たな知見",
+  "data-driven": "数値で示された新事実",
+  "three-insights": "注目すべき3つの示唆",
+  "future-vision": "次世代へ続く布石",
+  "neuro-ai-bridge": "脳科学とAIをつなぐ研究",
+  "provocative-question": "常識への問題提起",
+};
+
+function buildSummaryJP(topic: TopicInfo, templateName: string): string {
+  const frame = SUMMARY_FRAMES[templateName] || "注目すべき研究";
+  // テーマ領域がデフォルトなら冗長なので省略
+  const themeTag =
+    topic.themeArea && topic.themeArea !== "脳情報科学"
+      ? `（${topic.themeArea}）`
+      : "";
+  return `${topic.japaneseTopic} — ${frame}${themeTag}`;
 }
 
 /**
@@ -553,6 +617,10 @@ export function polishDraft(paper: PaperInfo, dayIndex?: number): PolishedDraft 
     includeCta: true,
   });
 
+  // 8. 情報密度向上のためのメタデータ抽出
+  const { id: paperId, source: paperSource } = extractPaperId(paper.link);
+  const summaryJP = buildSummaryJP(topic, template.name);
+
   return {
     formatted,
     raw,
@@ -561,5 +629,14 @@ export function polishDraft(paper: PaperInfo, dayIndex?: number): PolishedDraft 
     riskScore,
     paperLink: paper.link,
     paperTitle: paper.title,
+    summaryJP,
+    paperAuthors: paper.authors || "",
+    publishedDate: paper.publishedDate || "",
+    paperId,
+    paperSource,
+    themeArea: topic.themeArea,
+    jpKeywords: topic.keywords.slice(0, 6),
+    abstractExcerpt: extractCleanExcerpt(paper.abstract, 240),
+    figureUrls: [],
   };
 }

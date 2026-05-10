@@ -1,24 +1,62 @@
-# LinkedIn Neuro Draft MCP Server
+# LinkedIn Neuro Reporter
 
-脳科学・学術系の知見を LinkedIn 投稿用ドラフトに変換する MCP サーバーです。
-Claude Desktop や Claude Code から MCP ツールとして利用できます。
+脳情報科学・ニューロAI領域の知見を **LinkedIn 投稿ドラフト** に変換し、さらに **トレンドデータ** を毎日収集・公開する複合プロダクトです。
 
-> **Note:** LinkedIn API 連携・自動投稿は現在のスコープ外です。生成されたドラフトを確認し、手動でコピペ投稿する運用を想定しています。
+> **コンセプト:** 「研究知見 → 投稿ドラフト → 配信 → トレンド可視化」を一つのリポジトリで完結。LinkedIn API は使わず、人がレビューして手動投稿する運用を前提にしています。
 
 ---
 
-## セットアップ
+## プロダクト全体像
 
-### 前提条件
+このリポジトリは 4 つのコンポーネントで構成されます。
 
-- Node.js 18 以上
-- npm
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                    LinkedIn Neuro Reporter                       │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  ① MCP Server (src/)                                             │
+│     Claude Desktop / Claude Code から呼べる 4 ツール              │
+│     対話的にドラフト生成・レビュー・整形・バリアント比較          │
+│                                                                  │
+│  ② Daily Pipeline (src/daily/)                                   │
+│     RSS/PubMed → 論文選定 → 推敲 → Slack/Discord 通知             │
+│     + public/data/*.json を更新                                   │
+│     GitHub Actions で 3時間おきに自動実行                         │
+│                                       │                          │
+│                                       ▼                          │
+│  ④ Firebase Web App (public/) ←───────┘                          │
+│     最新ドラフト + 履歴を表示するダッシュボード                   │
+│     GitHub Actions が Firebase Hosting に自動デプロイ             │
+│                                                                  │
+│  ③ Trend Reporter (trend-reporter/)                              │
+│     OpenAlex / RSS / Grants.gov から論文・ニュース・スタートアップ│
+│     ・助成金トレンドを収集 → JSON API + ダッシュボード公開        │
+│     GitHub Pages / Firebase Hosting にデプロイ                    │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-### インストール & ビルド
+| コンポーネント | 用途 | 起動方法 | 出力先 |
+|---|---|---|---|
+| **MCP Server** | 対話的ドラフト生成 | Claude Desktop/Code から呼び出し | Claude チャット |
+| **Daily Pipeline** | 自動ドラフト生成 | `npm run daily` / GitHub Actions | Slack / Discord / `public/data/` |
+| **Firebase Web App** | 自動生成ドラフトのブラウザ表示 | Firebase Hosting | `public/` を Firebase に配信 |
+| **Trend Reporter** | トレンドJSON API + ダッシュボード | `npm run trend:collect` / GitHub Actions | `trend-reporter/public/data/*.json` |
+
+---
+
+## ① MCP Server — 対話的ドラフト生成
+
+脳科学・学術系の知見を LinkedIn 投稿ドラフトに変換する MCP サーバーです。Claude Desktop や Claude Code から MCP ツールとして利用できます。
+
+> LinkedIn API 連携・自動投稿はスコープ外です。生成されたドラフトを確認し、手動でコピペ投稿する運用を想定しています。
+
+### セットアップ
 
 ```bash
 git clone <repository-url>
-cd linkdin_mcpserver
+cd Linkdin-_reporter
 npm install
 npm run build
 ```
@@ -27,420 +65,78 @@ npm run build
 
 `claude_desktop_config.json` に以下を追加してください。
 
-**macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
-**Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
+- **macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
+- **Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
 
 ```json
 {
   "mcpServers": {
     "linkedin-neuro-draft": {
       "command": "node",
-      "args": ["/path/to/linkdin_mcpserver/dist/index.js"]
+      "args": ["/path/to/Linkdin-_reporter/dist/index.js"]
     }
   }
 }
 ```
 
-設定後、Claude Desktop を再起動すると 4 つのツールが利用可能になります。
-
 ### Claude Code への接続
 
 ```bash
-claude mcp add linkedin-neuro-draft node /path/to/linkdin_mcpserver/dist/index.js
+claude mcp add linkedin-neuro-draft node /path/to/Linkdin-_reporter/dist/index.js
 ```
 
----
+### 提供ツール
 
-## 使用方法
+| ツール | 役割 |
+|---|---|
+| `generate_linkedin_draft` | 学術知見 → LinkedIn ドラフト生成 |
+| `review_neuro_claims` | 医療断定・誇張・出典不足の検出（warnings + risk_score + safer_rewrite） |
+| `format_for_linkedin` | フック・改行・CTA・ハッシュタグの自動整形 |
+| `create_post_variants` | 同一テーマから複数文体・長さの候補生成（最大5パターン） |
 
-### 処理フロー
-
-#### 全体アーキテクチャ
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  Claude Desktop / Claude Code                           │
-│  （ユーザーが自然言語で依頼）                               │
-└──────────────┬──────────────────────────────────────────┘
-               │ MCP Protocol (stdio)
-               ▼
-┌─────────────────────────────────────────────────────────┐
-│  linkedin-neuro-draft-server                            │
-│                                                         │
-│  ┌─────────────────┐  ┌──────────────────┐              │
-│  │ generate_        │  │ review_neuro_    │              │
-│  │ linkedin_draft   │  │ claims           │              │
-│  └────────┬────────┘  └────────┬─────────┘              │
-│           │                    │                        │
-│  ┌────────┴────────┐  ┌───────┴──────────┐              │
-│  │ format_for_     │  │ create_post_     │              │
-│  │ linkedin        │  │ variants         │              │
-│  └────────┬────────┘  └────────┬─────────┘              │
-│           │                    │                        │
-│           ▼                    ▼                        │
-│  ┌──────────────────────────────────────────┐           │
-│  │         domain/ (共有ビジネスロジック)       │           │
-│  │                                          │           │
-│  │  neuro-hedging ◄── claim-detector        │           │
-│  │       ▲                                  │           │
-│  │       │                                  │           │
-│  │  post-composer  linkedin-formatter       │           │
-│  │                 variant-generator        │           │
-│  └──────────────────────────────────────────┘           │
-└─────────────────────────────────────────────────────────┘
-               │
-               ▼
-┌─────────────────────────────────────────────────────────┐
-│  ユーザーが結果を確認 → LinkedIn に手動コピペ投稿          │
-└─────────────────────────────────────────────────────────┘
-```
-
-#### 標準ワークフロー（ドラフト作成 → レビュー → 整形）
-
-```
-学術知見（論文・教科書等）
-    │
-    ▼
-┌──────────────────────────────┐
-│  ① generate_linkedin_draft  │  topic, source_summary,
-│     ドラフト生成              │  audience, tone, objective, length
-└──────────────┬───────────────┘
-               │ draft テキスト
-               ▼
-┌──────────────────────────────┐
-│  ② review_neuro_claims      │  ← 医療断定・誇張・出典不足を検出
-│     表現レビュー              │
-└──────────────┬───────────────┘
-               │
-          ┌────┴────┐
-          ▼         ▼
-    risk_score    risk_score
-      ≦ 30        > 30
-     (低リスク)    (要修正)
-          │         │
-          │         ▼
-          │    safer_rewrite を採用
-          │         │
-          └────┬────┘
-               │ レビュー済みテキスト
-               ▼
-┌──────────────────────────────┐
-│  ③ format_for_linkedin      │  ← フック・改行・CTA・ハッシュタグ
-│     LinkedIn 向け整形         │
-└──────────────┬───────────────┘
-               │ 整形済みテキスト
-               ▼
-┌──────────────────────────────┐
-│  ✅ LinkedIn に手動コピペ投稿  │
-└──────────────────────────────┘
-```
-
-#### バリアント比較ワークフロー
+### 標準ワークフロー
 
 ```
 学術知見
     │
     ▼
 ┌──────────────────────────────┐
-│  ① create_post_variants     │  topic, base_content, variant_styles
-│     バリアント生成            │
+│ ① generate_linkedin_draft   │  topic, source_summary, audience,
+│    ドラフト生成              │  tone, objective, length
 └──────────────┬───────────────┘
-               │
-     ┌─────────┼─────────┐
-     ▼         ▼         ▼
- academic    bizdev   short_form   ... (最大5文体)
-     │         │         │
-     ▼         ▼         ▼
-┌──────────────────────────────┐
-│  ② review_neuro_claims      │  ← 各バリアントを個別チェック
-│     (各候補をレビュー)        │
-└──────────────┬───────────────┘
-               │
-               ▼
-       ユーザーが候補を選択
-               │
                ▼
 ┌──────────────────────────────┐
-│  ③ format_for_linkedin      │
-│     選んだ候補を整形          │
+│ ② review_neuro_claims       │  ← 医療断定・誇張・出典不足を検出
+│    表現レビュー              │
 └──────────────┬───────────────┘
-               │
+               │ risk_score > 30 → safer_rewrite を採用
                ▼
 ┌──────────────────────────────┐
-│  ✅ LinkedIn に手動コピペ投稿  │
-└──────────────────────────────┘
+│ ③ format_for_linkedin       │  ← フック・改行・CTA・ハッシュタグ
+│    LinkedIn 向け整形         │
+└──────────────┬───────────────┘
+               ▼
+        LinkedIn に手動コピペ投稿
 ```
 
-#### review_neuro_claims 内部処理フロー
+### ツールリファレンス
 
-```
-入力テキスト
-    │
-    ├─────────────────────────────────────────────┐
-    │                                             │
-    ▼                                             ▼
-┌─────────────────────┐  ┌─────────────────────┐
-│ detectMedical       │  │ detectExaggerations  │
-│ Assertions          │  │                     │
-│ 重み: ×3.0          │  │ 重み: ×2.0          │
-│                     │  │                     │
-│ 「脳を治す」         │  │ 「革命的」           │
-│ 「効果がある」       │  │ 「画期的」           │
-│ 「科学的に証明」     │  │ 「驚くべき」         │
-└────────┬────────────┘  └────────┬────────────┘
-         │                        │
-         │  ┌─────────────────────┐│ ┌─────────────────────┐
-         │  │ detectUnrepro-      ││ │ detectMissing       │
-         │  │ ducibleClaims       ││ │ Citations           │
-         │  │ 重み: ×2.5          ││ │ 重み: ×1.5          │
-         │  │                     ││ │                     │
-         │  │ 「一つの研究で証明」  ││ │ 「研究によると」(出典なし)│
-         │  │ 「マウス実験→ヒト」  ││ │ 「30%改善」(出典なし)  │
-         │  └────────┬────────────┘│ └────────┬────────────┘
-         │           │             │          │
-         ▼           ▼             ▼          ▼
-    ┌──────────────────────────────────────────────┐
-    │          warnings[] に統合                    │
-    └──────────────────────┬───────────────────────┘
-                           │
-                ┌──────────┴──────────┐
-                ▼                     ▼
-    ┌────────────────────┐ ┌────────────────────┐
-    │ calculateRiskScore │ │ generateSafer      │
-    │                    │ │ Rewrite            │
-    │ Σ(severity × 重み) │ │                    │
-    │  → 0〜100 に正規化  │ │ neuro-hedging.ts   │
-    │                    │ │ でヘッジング置換     │
-    └────────┬───────────┘ └────────┬───────────┘
-             │                      │
-             ▼                      ▼
-    ┌──────────────────────────────────────────┐
-    │ { warnings, risk_score, safer_rewrite }  │
-    └──────────────────────────────────────────┘
-```
-
----
-
-### クイックスタート（最短手順）
-
-1. セットアップ完了後、Claude Desktop または Claude Code を起動
-2. Claude に自然言語で依頼するだけで、適切なツールが自動的に呼び出されます
-
-```
-💬 あなた:
-「デフォルトモードネットワークと創造性」について LinkedIn 投稿を作って。
-ビジネスリーダー向け、プロフェッショナルなトーンで。
-元ネタ: デフォルトモードネットワーク(DMN)は安静時に活性化する脳領域群で、
-創造的思考や内省に関与する。最近の研究では、意図的にDMNを活性化させる
-休息が創造的問題解決を促進する可能性が示されている。
-```
-
-```
-🤖 Claude の応答（generate_linkedin_draft を自動呼び出し）:
-
-【デフォルトモードネットワークと創造性】
-
-ビジネスに活かせる脳科学の知見をお伝えします。
-
-実務の観点から見ると、デフォルトモードネットワーク(DMN)は安静時に
-活性化する脳領域群で、創造的思考や内省に関与する。最近の研究では、
-意図的にDMNを活性化させる休息が創造的問題解決を促進する可能性が
-示されている。
-
-これは実践的に大きな意味を持ちます。
-
-この知見を御社の組織運営に取り入れてみてはいかがでしょうか。
-```
-
-### 実践例: ドラフト → レビュー → 整形の一括依頼
-
-1つのプロンプトで 3 ツールを連続実行させることができます。
-
-```
-💬 あなた:
-以下の知見から LinkedIn 投稿を作成して、表現のレビューもして、
-最後に LinkedIn 向けに整形までお願いします。
-
-テーマ: ワーキングメモリとマルチタスク
-知見: ワーキングメモリの容量には個人差があり、マルチタスクは認知負荷を
-高める。シングルタスクに集中することで作業効率が向上する傾向が報告されている。
-読者: ビジネスリーダー向け
-```
-
-```
-🤖 Claude の応答:
-
-① generate_linkedin_draft でドラフト生成
-② review_neuro_claims でレビュー → risk_score: 0（問題なし）
-③ format_for_linkedin で整形
-
-━━ 最終結果 ━━
-
-脳科学が教えてくれる、意外な真実。
-
-【ワーキングメモリとマルチタスク】
-
-ビジネスに活かせる脳科学の知見をお伝えします。
-
-実務の観点から見ると、ワーキングメモリの容量には個人差があり、
-マルチタスクは認知負荷を高める。
-シングルタスクに集中することで作業効率が向上する傾向が報告されている。
-
-これは実践的に大きな意味を持ちます。
-
-この知見を御社の組織運営に取り入れてみてはいかがでしょうか。
-
----
-
-あなたはどう思いますか？コメントで教えてください。
-
-#脳科学 #Neuroscience #ビジネスと脳科学 #エビデンスベース #認知科学
-```
-
-### 実践例: 問題表現のレビュー
-
-```
-💬 あなた:
-この投稿文に問題がないかチェックして。
-
-「瞑想は脳を治すことが科学的に証明された画期的な発見です。
-確実に集中力が向上します。最新の研究によると、
-たった10分の瞑想で30%の改善効果がある。」
-```
-
-```
-🤖 Claude の応答（review_neuro_claims を自動呼び出し）:
-
-⚠️ リスクスコア: 100/100（非常に高リスク）
-
-検出された問題点（9件）:
-- [医療断定] 「脳を治す」→ 改善に寄与する可能性がある
-- [医療断定] 「科学的に証明された」→ 研究により示唆された
-- [医療断定] 「確実に集中力が向上」→ 効果が示唆されている
-- [医療断定] 「効果がある」→ 効果がある可能性が示されている
-- [誇張] 「画期的」→ 注目すべき / 重要な進展
-- [出典不足] 「最新の研究によると」→ 具体的な研究名・年を明記
-- [出典不足] 「30%の改善」→ 統計データの出典元を明記
-
-📝 安全な書き換え案:
-「瞑想は脳の改善に寄与する可能性があることが研究により示唆された
-画期的な発見です。集中力が向上する可能性があります。
-最新の研究によると、たった10分の瞑想で30%の改善効果がある
-可能性が示されている。」
-```
-
-### 実践例: 複数バリアントの比較
-
-```
-💬 あなた:
-「前頭前皮質と意思決定」について、学術寄り・ビジネス寄り・
-短文版の 3 パターンで投稿のバリアントを出して。
-
-元ネタ: 前頭前皮質はリスク評価や報酬予測に関与し、
-fMRI研究で複雑な選択場面での活動増加が報告されている。
-```
-
-```
-🤖 Claude の応答（create_post_variants を自動呼び出し）:
-
-3 つのバリアントを生成しました:
-
-━━ 学術寄り（148文字）━━
-【学術的視点】
-「前頭前皮質と意思決定」
-先行研究を踏まえ、以下の知見を共有します。
-前頭前皮質はリスク評価や報酬予測に関与し…
-今後のさらなる実証研究が期待される領域です。
-
-━━ ビジネス寄り（166文字）━━
-【ビジネス応用】
-「前頭前皮質と意思決定」
-この脳科学の知見がビジネスにもたらすインパクトとは——
-前頭前皮質はリスク評価や報酬予測に関与し…
-この知見を事業戦略にどう活かすか、ぜひディスカッションしましょう。
-
-━━ 短文版（95文字）━━
-前頭前皮質と意思決定について。
-前頭前皮質はリスク評価や報酬予測に関与し…
-```
-
-### 便利な依頼パターン集
-
-| やりたいこと | Claude への依頼例 |
-|---|---|
-| ドラフト生成 | 「〜について LinkedIn 投稿を作って」 |
-| 表現チェック | 「この文章に問題がないかレビューして」 |
-| LinkedIn 整形 | 「この文章を LinkedIn 向けにフォーマットして」 |
-| バリアント生成 | 「3パターンで候補を出して」 |
-| 一括処理 | 「ドラフト作成→レビュー→整形まで一気にやって」 |
-| レビュー後修正 | 「リスクが高い箇所を safer_rewrite で差し替えて」 |
-| ハッシュタグなし | 「フォーマットして。ただしハッシュタグは不要」 |
-| 特定の読者層 | 「HR担当者向けに、カジュアルなトーンで」 |
-
----
-
-## 提供ツール（リファレンス）
-
-### 1. `generate_linkedin_draft`
+#### `generate_linkedin_draft`
 
 学術知見から LinkedIn 投稿ドラフトを生成します。
-
-#### パラメータ
 
 | 名前 | 型 | 必須 | 説明 |
 |---|---|---|---|
 | `topic` | string | Yes | 投稿のメインテーマ |
 | `source_summary` | string | Yes | 元となる学術知見の要約 |
-| `audience` | enum | Yes | 想定読者層 |
-| `tone` | enum | Yes | 文体トーン |
-| `objective` | enum | Yes | 投稿の目的 |
-| `length` | enum | Yes | 投稿の長さ |
+| `audience` | enum | Yes | `researchers` / `business_leaders` / `general` / `students` / `hr_professionals` |
+| `tone` | enum | Yes | `academic` / `professional` / `casual` / `inspirational` / `thought_leadership` |
+| `objective` | enum | Yes | `educate` / `engage` / `promote` / `network` / `thought_leadership` |
+| `length` | enum | Yes | `short`(〜500字) / `medium`(500-1000字) / `long`(1000-1500字) |
 
-**audience の選択肢:**
-`researchers` / `business_leaders` / `general` / `students` / `hr_professionals`
-
-**tone の選択肢:**
-`academic` / `professional` / `casual` / `inspirational` / `thought_leadership`
-
-**objective の選択肢:**
-`educate` / `engage` / `promote` / `network` / `thought_leadership`
-
-**length の選択肢:**
-| 値 | 目安文字数 |
-|---|---|
-| `short` | 〜500 文字 |
-| `medium` | 500 - 1,000 文字 |
-| `long` | 1,000 - 1,500 文字 |
-
-#### Claude からの利用例
-
-```
-前頭前皮質と意思決定について、ビジネスリーダー向けの LinkedIn 投稿ドラフトを作って。
-
-元ネタ：前頭前皮質はリスク評価や報酬予測に関与しており、fMRI研究で
-複雑な選択場面での活動増加が報告されている。
-プロフェッショナルなトーンで、教育目的、中くらいの長さで。
-```
-
----
-
-### 2. `review_neuro_claims`
+#### `review_neuro_claims`
 
 投稿テキストをレビューし、問題のある表現を検出します。
-
-#### パラメータ
-
-| 名前 | 型 | 必須 | 説明 |
-|---|---|---|---|
-| `post_text` | string | Yes | レビュー対象の投稿テキスト |
-
-#### 出力
-
-| フィールド | 型 | 説明 |
-|---|---|---|
-| `warnings` | string[] | 検出された問題点のリスト |
-| `risk_score` | number (0-100) | リスクスコア |
-| `safer_rewrite` | string | より安全な表現に書き換えた代替テキスト |
 
 **検出カテゴリと重み:**
 
@@ -460,138 +156,431 @@ fMRI研究で複雑な選択場面での活動増加が報告されている。
 | 61 - 80 | 高リスク | safer_rewrite の採用を推奨 |
 | 81 - 100 | 非常に高リスク | 大幅な書き直しが必要 |
 
-#### Claude からの利用例
-
-```
-以下の投稿文をレビューして、問題のある表現がないかチェックして。
-
-「瞑想は脳を治すことが科学的に証明された画期的な発見です。
-確実に集中力が向上します。」
-```
-
----
-
-### 3. `format_for_linkedin`
-
-投稿テキストを LinkedIn 向けに整形します。
-
-#### パラメータ
+#### `format_for_linkedin`
 
 | 名前 | 型 | 必須 | デフォルト | 説明 |
 |---|---|---|---|---|
-| `post_text` | string | Yes | - | 整形対象の投稿テキスト |
-| `topic` | string | No | `"脳科学"` | テーマ（ハッシュタグ選定に使用） |
-| `include_hashtags` | boolean | No | `true` | ハッシュタグを付加するか |
-| `include_cta` | boolean | No | `true` | CTA（行動喚起）を末尾に付加するか |
+| `post_text` | string | Yes | - | 整形対象 |
+| `topic` | string | No | `"脳科学"` | ハッシュタグ選定用 |
+| `include_hashtags` | boolean | No | `true` | ハッシュタグ付加 |
+| `include_cta` | boolean | No | `true` | CTA 付加 |
 
-#### 整形内容
+冒頭フック / 改行最適化（「もっと見る」位置を意識）/ CTA / 関連ハッシュタグ最大5つを自動付加します。
 
-- **冒頭フック** — 読者の注意を引く一文を先頭に追加
-- **改行最適化** — LinkedIn フィード表示に適した改行挿入（「もっと見る」の位置を意識）
-- **CTA 追加** — 末尾にコメント・シェアを促す文を追加
-- **ハッシュタグ** — テーマに関連するハッシュタグを最大 5 つ付加
-
-#### Claude からの利用例
-
-```
-この投稿文を LinkedIn 向けにフォーマットして。ハッシュタグあり、CTAありで。
-
-「前頭前皮質は意思決定に深く関わっています。特にリスク評価や
-報酬予測において重要な役割を果たします。」
-```
-
----
-
-### 4. `create_post_variants`
-
-同一テーマから複数の文体・長さのバリアントを生成します。
-
-#### パラメータ
+#### `create_post_variants`
 
 | 名前 | 型 | 必須 | デフォルト | 説明 |
 |---|---|---|---|---|
 | `topic` | string | Yes | - | 投稿テーマ |
-| `base_content` | string | Yes | - | バリアント生成の元コンテンツ |
-| `variant_styles` | string[] | No | `["academic", "bizdev", "short_form"]` | 生成する文体の種類 |
+| `base_content` | string | Yes | - | 元コンテンツ |
+| `variant_styles` | string[] | No | `["academic","bizdev","short_form"]` | 文体種類 |
 
-**variant_styles の選択肢:**
+選択肢: `academic` / `bizdev` / `short_form` / `storytelling` / `data_driven`
 
-| 値 | 文体 | 特徴 |
-|---|---|---|
-| `academic` | 学術寄り | 論文引用形式、専門用語、データ重視 |
-| `bizdev` | ビジネス寄り | ビジネスインパクト重視、事業戦略への接続 |
-| `short_form` | 短文版 | 〜500 文字の凝縮版 |
-| `storytelling` | ストーリー型 | ナラティブ構造、個人体験風 |
-| `data_driven` | データ駆動型 | 数値・統計を前面に出す構成 |
-
-#### 出力
-
-各バリアントは `style`（文体名）、`text`（テキスト）、`char_count`（文字数）を含みます。
-
-#### Claude からの利用例
+### 利用例（Claude への自然言語依頼）
 
 ```
-「ワーキングメモリと生産性」について、学術寄り・ビジネス寄り・
-ストーリー型の 3 パターンで LinkedIn 投稿のバリアントを作って。
-
-元ネタ：ワーキングメモリの容量には個人差があり、マルチタスクは
-認知負荷を高める。シングルタスク集中で作業効率向上の傾向が報告されている。
+💬 「デフォルトモードネットワークと創造性」について LinkedIn 投稿を作って。
+   ビジネスリーダー向け、プロフェッショナルなトーンで。
+   元ネタ: DMNは安静時に活性化する脳領域群で、創造的思考に関与する。
+   意図的にDMNを活性化させる休息が創造的問題解決を促進する可能性が示されている。
 ```
+
+```
+💬 ドラフトを作って、表現をレビューして、最後にLinkedIn向けに整形まで一気にやって。
+   テーマ: ワーキングメモリとマルチタスク
+```
+
+| やりたいこと | Claude への依頼例 |
+|---|---|
+| ドラフト生成 | 「〜について LinkedIn 投稿を作って」 |
+| 表現チェック | 「この文章に問題がないかレビューして」 |
+| LinkedIn 整形 | 「LinkedIn 向けにフォーマットして」 |
+| バリアント生成 | 「3パターンで候補を出して」 |
+| 一括処理 | 「ドラフト作成→レビュー→整形まで一気にやって」 |
+| ハッシュタグなし | 「フォーマットして。ただしハッシュタグは不要」 |
 
 ---
 
-## 推奨ワークフロー
+## ② Daily Pipeline — 自動ドラフト生成
 
-ツールを組み合わせて使うことで、品質の高い投稿を効率的に作成できます。
+RSS/PubMed から脳情報科学の論文を自動取得し、推敲済みドラフトを生成して **Slack/Discord に通知** + **Firebase Hosting に公開** します。GitHub Actions で **3時間おき** に自動実行されます（`.github/workflows/daily-draft.yml`）。
 
-```
-1. generate_linkedin_draft  → ドラフト生成
-2. review_neuro_claims      → 問題表現のチェック（risk_score が高ければ safer_rewrite を採用）
-3. format_for_linkedin      → LinkedIn 向け整形（フック・CTA・ハッシュタグ）
-```
-
-バリアント比較が必要な場合：
+### パイプライン
 
 ```
-1. create_post_variants     → 複数文体で候補生成
-2. review_neuro_claims      → 各候補をチェック
-3. format_for_linkedin      → 選んだ候補を整形
+┌─────────────────────┐
+│ RSS / PubMed 取得   │  arXiv q-bio.NC（デフォルト）
+│                     │  RSS が空なら PubMed E-utilities にフォールバック
+└──────────┬──────────┘
+           ▼
+┌─────────────────────┐
+│ トピック選定        │  関連キーワード×タイトル重みでスコアリング
+│                     │  履歴から重複論文を除外（既出はスキップ）
+│                     │  上位5件からランダム選択
+└──────────┬──────────┘
+           ▼
+┌─────────────────────┐
+│ 論文図表抽出        │  arXiv HTML版から最初のFigure画像を取得
+│ (ベストエフォート) │
+└──────────┬──────────┘
+           ▼
+┌─────────────────────┐
+│ 推敲エンジン        │  英→日 用語辞書 (140+ 語)
+│ (post-polisher.ts) │  6種テンプレートを日替わりローテーション
+│                     │   - パラダイムシフト型
+│                     │   - データドリブン型
+│                     │   - 3つの示唆型
+│                     │   - 未来予測型
+│                     │   - 脳科学×AI融合型
+│                     │   - 挑発的問いかけ型
+└──────────┬──────────┘
+           ▼
+┌─────────────────────┐
+│ ヘッジング適用      │  domain/neuro-hedging.ts
+│ クレーム検出 + safer│  risk_score > 30 で自動書き換え
+│ LinkedIn 整形       │  domain/linkedin-formatter.ts
+└──────────┬──────────┘
+           ▼
+┌─────────────────────┐
+│ Slack / Discord     │  Slack: Block Kit でリッチ表示
+│ Webhook 通知        │  Discord: Embed + 図表画像 + メンション
+└──────────┬──────────┘
+           ▼
+┌─────────────────────┐
+│ public/data/ 更新   │  latest-draft.json / drafts-history.json
+│                     │  Firebase Hosting に自動デプロイ → Web で閲覧
+└─────────────────────┘
 ```
 
-> Claude に「ドラフトを作って、レビューして、フォーマットまでやって」と依頼すれば、上記パイプラインを自動的に実行してくれます。
-
----
-
-## 開発
+### ローカル実行
 
 ```bash
-npm run dev          # tsx による開発モード起動
+cp .env.example .env
+# .env を編集して RSS_FEEDS / WEBHOOK_URL などを設定
+
+npm run daily          # フルパイプライン（推敲＋整形＋通知）
+npm run daily:pick     # 論文選定のみ（JSON出力 / Claude エージェント連携用）
+npm run daily:build    # ビルド済み dist/ で実行（CI 向け）
+```
+
+### 環境変数
+
+| 変数 | デフォルト | 説明 |
+|---|---|---|
+| `RSS_FEEDS` | `https://rss.arxiv.org/rss/q-bio.NC` | RSS URL（カンマ区切りで複数指定可） |
+| `WEBHOOK_URL` | `""` | Slack Incoming Webhook または Discord Webhook URL |
+| `WEBHOOK_TYPE` | `slack` | `slack` または `discord` |
+| `DISCORD_MENTION_USER_ID` | `""` | Discord でメンションしたいユーザーID |
+| `HISTORY_FILE` | `.daily-history.json` | 重複防止用の履歴ファイル |
+| `MAX_HISTORY_DAYS` | `30` | 履歴保持日数 |
+| `PUBLIC_DATA_DIR` | `public/data` | Web アプリ用 JSON 出力先 |
+| `MAX_PUBLIC_HISTORY` | `50` | `drafts-history.json` の最大保持件数 |
+
+### GitHub Actions
+
+`.github/workflows/daily-draft.yml` が UTC 0,3,6,9,12,15,18,21 時（JST 9,12,15,18,21,0,3,6 時）に実行されます。
+
+実行内容:
+
+1. RSS/PubMed から論文を選定し、ドラフトを生成
+2. Slack/Discord に Webhook 通知（任意）
+3. `public/data/latest-draft.json` と `public/data/drafts-history.json` を更新
+4. 更新分を `[skip ci]` でコミット & プッシュ
+5. Firebase Hosting にデプロイ（`FIREBASE_PROJECT_ID` + `FIREBASE_SERVICE_ACCOUNT` が設定されている場合のみ）
+
+| Secret / Variable | 種別 | 用途 |
+|---|---|---|
+| `RSS_FEEDS` | Secret | RSS URL（カンマ区切り） |
+| `WEBHOOK_URL` | Secret | Slack / Discord Webhook URL |
+| `WEBHOOK_TYPE` | Secret | `slack` または `discord` |
+| `DISCORD_MENTION_USER_ID` | Secret | Discord メンション用ID |
+| `FIREBASE_PROJECT_ID` | **Variable** | Firebase Hosting のプロジェクトID（例: `eegdatabucket`） |
+| `FIREBASE_SERVICE_ACCOUNT` | Secret | Firebase サービスアカウント JSON の **中身**（フルJSON） |
+
+実行ごとに `.daily-history.json` が更新され、同じ論文を続けて選ばないようになります。
+
+### 二つの実行モード
+
+| コマンド | 用途 | 文面生成 |
+|---|---|---|
+| `npm run daily` | 完全自動運用 | テンプレート + ヘッジング辞書（決定的） |
+| `npm run daily:pick` | Claude エージェント連携 | 論文情報のみ JSON 出力 → Claude が文面生成 |
+
+---
+
+## Firebase Web App — 自動生成ドラフトのダッシュボード
+
+ルート `public/` に配置されたシングルページアプリで、**Daily Pipeline が生成した最新ドラフトと履歴をブラウザで閲覧 / コピー** できます。Firebase Hosting にデプロイされ、3時間おきに自動更新されます。
+
+### 機能
+
+- 最新ドラフトをそのまま表示し、ワンクリックでクリップボードにコピー
+- リスクスコア / テンプレート種別 / トピックを色分けバッジで表示
+- 過去 50 件のドラフトをサイドリストから切り替え閲覧
+- 取得できた論文の図表（arXiv HTML 版）をインライン表示
+- ダークテーマ / モバイル対応
+
+### データ契約
+
+| ファイル | 内容 |
+|---|---|
+| `public/data/latest-draft.json` | 最新の1件（`PolishedDraft` + `generatedAt` + `date`） |
+| `public/data/drafts-history.json` | 直近 N 件の配列（新しい順 / `MAX_PUBLIC_HISTORY` で調整） |
+
+```jsonc
+// latest-draft.json
+{
+  "generatedAt": "2026-05-01T03:00:12.345Z",
+  "date": "2026-05-01",
+  "topic": "予測符号化と注意機構",
+  "templateName": "neuro-ai-bridge",
+  "riskScore": 12,
+  "paperTitle": "...",
+  "paperLink": "https://arxiv.org/abs/...",
+  "figureUrl": "https://arxiv.org/html/.../fig1.png",
+  "formatted": "脳科学とAI——その境界線が消えつつある。\n..."
+}
+```
+
+### Firebase Hosting セットアップ
+
+#### 1. プロジェクト準備
+
+`.firebaserc` で対象プロジェクトを指定（このリポジトリでは `eegdatabucket`）。別プロジェクトを使う場合は書き換えてください。
+
+```bash
+npx firebase-tools@latest login
+npx firebase-tools@latest use --add  # 必要に応じて
+```
+
+#### 2. ローカル動作確認
+
+```bash
+npm run daily        # public/data/*.json を生成
+npx firebase-tools@latest emulators:start --only hosting
+# → http://localhost:5000 でダッシュボード確認
+```
+
+#### 3. 手動デプロイ
+
+```bash
+npx firebase-tools@latest deploy --only hosting
+```
+
+#### 4. GitHub Actions 自動デプロイのセットアップ
+
+サービスアカウントを作成し、JSON キーをそのまま GitHub Secret に貼り付けます。
+
+```bash
+# Firebase Console → プロジェクト設定 → サービスアカウント → 新しい秘密鍵を生成
+# 取得した JSON ファイルを開く
+
+# GitHub リポジトリで:
+# Settings → Secrets and variables → Actions
+#   ▸ Variables タブ:  FIREBASE_PROJECT_ID = eegdatabucket
+#   ▸ Secrets タブ:    FIREBASE_SERVICE_ACCOUNT = (JSON ファイルの全文を貼り付け)
+```
+
+両方が設定されていない場合、ワークフローはデプロイステップを **スキップして警告ログを出して正常終了** します（Webhook 通知のみで運用する場合に対応）。
+
+### 設計判断
+
+- **デフォルト Firebase スキャフォールディングを廃止**: `public/index.html` を独自ダッシュボードに差し替え（`assets/style.css` + `assets/app.js`）
+- **ビルドステップ無し**: 静的 HTML/JS のみで、Firebase が直接配信。Lighthouse スコアが高く、ビルド時間ゼロ
+- **JSON は `no-cache` ヘッダ**: 3時間おきの更新が即座に反映される（`firebase.json` で設定）
+- **アセットは 1時間キャッシュ**: CSS/JS は更新頻度が低いのでブラウザキャッシュを活用
+- **Trend Reporter とは独立**: ルート Firebase 設定は LinkedIn ドラフト用。`trend-reporter/firebase.json` は別プロジェクト用
+
+---
+
+## ③ Trend Reporter — 脳科学トレンドの JSON API & ダッシュボード
+
+`trend-reporter/` 配下の独立サブプロジェクト。脳情報科学領域の **論文 / 研究ニュース / スタートアップ動向 / 助成金・公募情報** を収集し、静的 JSON API + ダッシュボードとして公開します。
+
+### 公開エンドポイント
+
+| Endpoint | 内容 |
+|---|---|
+| `/data/latest.json` | 全カテゴリの統合結果 + 引用伸び率ランキング |
+| `/data/papers.json` | OpenAlex 論文情報（前年比引用数の伸び付き） |
+| `/data/news.json` | 研究ニュース（RSS/Atom） |
+| `/data/startups.json` | スタートアップ動向（RSS + Hacker News） |
+| `/data/funding.json` | 助成金・公募情報（Grants.gov / NIH / NSF） |
+
+### Collector
+
+| Section | Source | 主な指標 |
+|---|---|---|
+| `papers` | OpenAlex Works API | 年別引用数、総引用数、OA有無、前年比伸び率 |
+| `news` | RSS / Atom feeds | 関連キーワード、公開日 |
+| `startups` | RSS / Atom + Hacker News public search | HN points/comments、関連キーワード |
+| `funding` | Grants.gov Search2 API + NIH Guide RSS + NSF RSS | 公募状態、締切、関連キーワード |
+
+### ローカル実行
+
+ルートからの呼び出し：
+
+```bash
+npm run trend:check        # 構文チェック
+npm run trend:collect      # 全 collector 実行
+npm run configure:github   # GitHub Repo Variables / Pages 初期設定
+npm run configure:firebase # Firebase Hosting 初期設定
+```
+
+`trend-reporter/` 内で直接実行も可能：
+
+```bash
+cd trend-reporter
+npm run collect:papers
+npm run collect:news
+npm run collect:startups
+npm run collect:funding
+npm run serve              # http://localhost:8000 でダッシュボード確認
+```
+
+### GitHub Actions（隔日実行）
+
+`trend-reporter/.github/workflows/collect.yml` が **JST 06:00 に毎日起動し、JST日数の偶奇で1日置きに実行** します。
+
+- `RUN_PARITY=0`（デフォルト）: 偶数パリティ日に実行
+- `RUN_PARITY=1`: 奇数パリティ日に実行
+- `workflow_dispatch` 手動実行は隔日ガードを無視
+
+実行後、`public/data/*.json` を更新 → コミット → GitHub Pages / Firebase Hosting に自動 deploy。
+
+### 主要な Repository Variables
+
+| Variable | 例 |
+|---|---|
+| `TOPIC_KEYWORDS` | `neuroscience,neurotechnology,brain-computer interface,neural decoding` |
+| `PAPER_QUERY` | `neuroscience neurotechnology brain-computer interface` |
+| `CURRENT_YEAR` / `PREVIOUS_YEAR` | 前年比集計の比較年 |
+| `NEWS_FEEDS` / `STARTUP_FEEDS` / `FUNDING_FEEDS` | 各カテゴリの RSS URL |
+| `STARTUP_QUERIES` | `neurotech,BCI startup,neuromodulation startup` |
+| `FUNDING_KEYWORDS` | `neuroscience,brain,mental health,cognitive` |
+| `GRANTS_GOV_AGENCIES` | `HHS,NSF` |
+| `OPENALEX_MAILTO` | OpenAlex polite pool 用メールアドレス |
+| `FIREBASE_PROJECT_ID` + `FIREBASE_SERVICE_ACCOUNT` (secret) | Firebase Hosting 自動 deploy |
+
+詳細は [`trend-reporter/README.md`](trend-reporter/README.md)、[`trend-reporter/docs/github-settings.md`](trend-reporter/docs/github-settings.md)、[`trend-reporter/docs/firebase-hosting.md`](trend-reporter/docs/firebase-hosting.md) を参照してください。
+
+### アクセス前年比
+
+公開 RSS / OpenAlex からは任意 Web サイトのアクセス数は取得できません。GA4 / Search Console / Matomo などから `data/access-metrics.json` を生成すれば、前年比集計に組み込まれます（`.gitignore` 対象）。
+
+---
+
+## ディレクトリ構成
+
+```
+.
+├── src/                          # ① MCP Server + ② Daily Pipeline
+│   ├── index.ts                  #   MCP エントリポイント (stdio transport)
+│   ├── server.ts                 #   McpServer 生成
+│   ├── daily-run.ts              #   デイリーパイプライン CLI
+│   ├── daily-pick.ts             #   論文選定のみ CLI（Claude エージェント連携用）
+│   ├── config/                   #   定数設定
+│   ├── schemas/                  #   Zod 入出力スキーマ
+│   ├── domain/                   #   共有ビジネスロジック
+│   │   ├── neuro-hedging.ts      #     ヘッジング表現辞書
+│   │   ├── claim-detector.ts     #     主張検出エンジン (4カテゴリ × 重み)
+│   │   ├── linkedin-formatter.ts #     LinkedIn 整形（フック・改行・CTA・タグ）
+│   │   ├── post-composer.ts      #     ドラフト構成テンプレート
+│   │   └── variant-generator.ts  #     バリアント生成
+│   ├── tools/                    #   MCP ツール登録
+│   │   ├── index.ts              #     一括登録
+│   │   ├── generate-linkedin-draft.ts
+│   │   ├── review-neuro-claims.ts
+│   │   ├── format-for-linkedin.ts
+│   │   └── create-post-variants.ts
+│   └── daily/                    #   ② デイリーパイプライン本体
+│       ├── runner.ts             #     全体オーケストレーション
+│       ├── rss-fetcher.ts        #     RSS/Atom + PubMed E-utilities
+│       ├── post-polisher.ts      #     用語辞書 + 6種テンプレート + 推敲
+│       └── webhook-notifier.ts   #     Slack Block Kit / Discord Embed
+│
+├── trend-reporter/               # ③ トレンド収集 & 公開（独立サブプロジェクト）
+│   ├── src/
+│   │   ├── cli.mjs
+│   │   ├── config.mjs
+│   │   ├── collectors/           #   papers / news / startups / funding
+│   │   └── lib/
+│   ├── public/                   #   ダッシュボード + JSON API
+│   │   ├── index.html
+│   │   ├── assets/
+│   │   └── data/                 #   生成された JSON (collectorが書き出し)
+│   ├── data/
+│   │   ├── history.json
+│   │   └── access-metrics.example.json
+│   ├── docs/
+│   │   ├── github-settings.md
+│   │   └── firebase-hosting.md
+│   ├── scripts/                  #   GH / Firebase 初期設定スクリプト
+│   └── .github/workflows/collect.yml
+│
+├── public/                       # ④ Firebase Web App（自動生成ドラフトのダッシュボード）
+│   ├── index.html                #     ダッシュボード本体
+│   ├── 404.html
+│   ├── assets/
+│   │   ├── style.css
+│   │   └── app.js                #     latest-draft.json / drafts-history.json を読み込んで描画
+│   └── data/                     #     ② Daily Pipeline が書き出す JSON
+│       ├── latest-draft.json
+│       └── drafts-history.json
+├── firebase.json                 #   Firebase Hosting 設定（cache 制御込み）
+├── .firebaserc                   #   Firebase プロジェクト ID
+├── .github/workflows/daily-draft.yml  # ② 3時間おき自動実行 + Firebase deploy
+└── archdesign.md                 #   初期設計仕様
+```
+
+---
+
+## 開発スクリプト
+
+```bash
+# MCP Server
+npm run dev          # tsx 開発モード（src/index.ts）
 npm run build        # TypeScript コンパイル → dist/
-npm start            # ビルド済みサーバー起動
+npm start            # ビルド済み MCP サーバー起動
+
+# Daily Pipeline
+npm run daily        # フルパイプライン
+npm run daily:pick   # 論文選定のみ
+npm run daily:build  # ビルド済み dist/ で実行
+
+# Trend Reporter
+npm run trend:check      # 構文チェック
+npm run trend:collect    # 全 collector 実行
+npm run configure:github # GH Variables / Pages 初期設定
+npm run configure:firebase # Firebase Hosting 初期設定
 ```
 
-### ディレクトリ構成
+---
 
-```
-src/
-├── index.ts              # エントリーポイント
-├── server.ts             # McpServer 生成
-├── config/               # 定数設定
-├── types/                # 共有型定義
-├── schemas/              # Zod 入出力スキーマ
-├── domain/               # ビジネスロジック
-│   ├── neuro-hedging.ts      # ヘッジング表現辞書
-│   ├── claim-detector.ts     # 主張検出エンジン
-│   ├── linkedin-formatter.ts # LinkedIn 整形
-│   ├── post-composer.ts      # ドラフト構成
-│   └── variant-generator.ts  # バリアント生成
-└── tools/                # MCP ツール登録
-    ├── index.ts              # 一括登録
-    ├── generate-linkedin-draft.ts
-    ├── review-neuro-claims.ts
-    ├── format-for-linkedin.ts
-    └── create-post-variants.ts
-```
+## 技術スタック
+
+| Layer | Stack |
+|---|---|
+| Runtime | Node.js 18+（trend-reporter は Node 22+） |
+| Language | TypeScript（MCP / Daily）/ JavaScript ESM（Trend Reporter） |
+| MCP | `@modelcontextprotocol/sdk` v1.12 + Stdio transport |
+| Validation | Zod |
+| 取得 API | arXiv RSS、PubMed E-utilities、OpenAlex、Grants.gov、HN public search |
+| 配信 | Slack Incoming Webhook (Block Kit) / Discord Webhook (Embed) |
+| ホスティング | GitHub Pages / Firebase Hosting |
+| CI | GitHub Actions（3時間おき + 隔日） |
+
+---
+
+## 設計上のキーポイント
+
+- **MCP ツール同士は非依存**: 合成 (generate → review → format) は LLM クライアント側で行う。新ツール追加は schema + tool ファイル + `tools/index.ts` に1行追加で完結。
+- **`domain/` は MCP / Daily Pipeline の両方から共有**: ヘッジング・クレーム検出・LinkedIn 整形ロジックは1つの実装で2系統の出力を支える。
+- **Trend Reporter は独立サブプロジェクト**: ルート `package.json` から `npm --prefix trend-reporter` でブリッジ。Node ESM (.mjs) で完結し依存ゼロ運用。
+- **将来の `publish_linkedin_post` 拡張余地は維持**: 現時点では LinkedIn API / OAuth / 自動投稿はスコープ外。
+- **トランスポートは差し替え可**: `StdioServerTransport` を `StreamableHTTPServerTransport` に変更するのは `src/index.ts` のみ。
+- **脳科学領域の言語衛生**: 医療効果の断定を避け、「示唆される」「可能性がある」へのヘッジングを規定値とする。
 
 ---
 

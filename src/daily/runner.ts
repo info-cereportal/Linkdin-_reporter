@@ -4,11 +4,16 @@
  * RSS取得 → トピック選定（履歴重複排除） → ドラフト生成 → レビュー → 整形 → Webhook通知
  */
 
-import { readFile, writeFile } from "node:fs/promises";
-import { resolve } from "node:path";
-import { fetchPapers, extractPaperFigure, type PaperInfo } from "./rss-fetcher.js";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { dirname, resolve } from "node:path";
+import {
+  fetchPapers,
+  extractPaperFigures,
+  type PaperInfo,
+} from "./rss-fetcher.js";
 import { polishDraft, type PolishedDraft } from "./post-polisher.js";
 import { notifyWebhook } from "./webhook-notifier.js";
+import { aggregateFeeds } from "./feed-aggregator.js";
 
 // ────────────────────────────────────────────
 // 設定
@@ -21,6 +26,8 @@ export interface DailyConfig {
   mentionUserId: string;
   historyPath: string;
   maxHistoryDays: number;
+  publicDataDir: string;
+  maxPublicHistory: number;
 }
 
 function loadConfig(): DailyConfig {
@@ -31,6 +38,8 @@ function loadConfig(): DailyConfig {
     mentionUserId: process.env.DISCORD_MENTION_USER_ID || "",
     historyPath: resolve(process.env.HISTORY_FILE || ".daily-history.json"),
     maxHistoryDays: Number(process.env.MAX_HISTORY_DAYS) || 30,
+    publicDataDir: resolve(process.env.PUBLIC_DATA_DIR || "public/data"),
+    maxPublicHistory: Number(process.env.MAX_PUBLIC_HISTORY) || 50,
   };
 }
 
@@ -67,6 +76,89 @@ function isAlreadyUsed(paper: PaperInfo, history: HistoryEntry[]): boolean {
 }
 
 // ────────────────────────────────────────────
+// Web アプリ用の公開 JSON 書き出し
+// ────────────────────────────────────────────
+
+interface PublicDraftEntry {
+  // 既存フィールド (後方互換)
+  generatedAt: string;
+  date: string;
+  topic: string;
+  templateName: string;
+  riskScore: number;
+  paperTitle: string;
+  paperLink: string;
+  figureUrl?: string;
+  formatted: string;
+  // 新規メタデータ (情報密度向上)
+  summaryJP: string;
+  paperAuthors: string;
+  publishedDate: string;
+  paperId: string;
+  paperSource: "arxiv" | "pubmed" | "other";
+  themeArea: string;
+  jpKeywords: string[];
+  abstractExcerpt: string;
+  figureUrls: string[];
+}
+
+function toPublicEntry(draft: PolishedDraft, generatedAt: string): PublicDraftEntry {
+  return {
+    generatedAt,
+    date: generatedAt.slice(0, 10),
+    topic: draft.topic,
+    templateName: draft.templateName,
+    riskScore: draft.riskScore,
+    paperTitle: draft.paperTitle,
+    paperLink: draft.paperLink,
+    figureUrl: draft.figureUrl,
+    formatted: draft.formatted,
+    summaryJP: draft.summaryJP,
+    paperAuthors: draft.paperAuthors,
+    publishedDate: draft.publishedDate,
+    paperId: draft.paperId,
+    paperSource: draft.paperSource,
+    themeArea: draft.themeArea,
+    jpKeywords: draft.jpKeywords,
+    abstractExcerpt: draft.abstractExcerpt,
+    figureUrls: draft.figureUrls,
+  };
+}
+
+async function writeJson(path: string, value: unknown): Promise<void> {
+  await mkdir(dirname(path), { recursive: true });
+  await writeFile(path, JSON.stringify(value, null, 2) + "\n", "utf-8");
+}
+
+async function readJson<T>(path: string, fallback: T): Promise<T> {
+  try {
+    return JSON.parse(await readFile(path, "utf-8")) as T;
+  } catch {
+    return fallback;
+  }
+}
+
+/**
+ * Firebase Hosting 用の latest-draft.json と drafts-history.json を更新する。
+ * 既存履歴に追記し、上限件数を超えたら古いものから切り詰める。
+ */
+async function updatePublicData(
+  draft: PolishedDraft,
+  config: DailyConfig
+): Promise<void> {
+  const entry = toPublicEntry(draft, new Date().toISOString());
+  const latestPath = resolve(config.publicDataDir, "latest-draft.json");
+  const historyPath = resolve(config.publicDataDir, "drafts-history.json");
+
+  await writeJson(latestPath, entry);
+
+  const history = await readJson<PublicDraftEntry[]>(historyPath, []);
+  history.unshift(entry);
+  const trimmed = history.slice(0, config.maxPublicHistory);
+  await writeJson(historyPath, trimmed);
+}
+
+// ────────────────────────────────────────────
 // トピック選定
 // ────────────────────────────────────────────
 
@@ -79,14 +171,53 @@ const RELEVANCE_KEYWORDS = [
   "default mode", "amygdala", "cognition", "neuroscience", "behavior",
 ];
 
+/**
+ * BCI / ニューラルインターフェース系の優先キーワード。
+ * ヒットした論文はベース関連度に追加で大きなボーナスを得る。
+ * BIAS_BCI_PICK=0 を設定すれば優先度を無効化できる。
+ */
+const BCI_PRIORITY_KEYWORDS = [
+  "brain-computer interface",
+  "brain computer interface",
+  "brain-machine interface",
+  "neural interface",
+  "neuralink",
+  "synchron",
+  "neuroprosth",
+  "neurofeedback",
+  "intracortical",
+  "ecog",
+  "ieeg",
+  "motor cortex decod",
+  "motor decod",
+  "p300",
+  "ssvep",
+  "closed-loop",
+  "spike sorting",
+];
+
+const BCI_PRIORITY_BONUS_TITLE = 12;
+const BCI_PRIORITY_BONUS_ABSTRACT = 6;
+
 function scorePaper(paper: PaperInfo): number {
-  const text = `${paper.title} ${paper.abstract}`.toLowerCase();
+  const titleLower = paper.title.toLowerCase();
+  const abstractLower = paper.abstract.toLowerCase();
+  const text = `${titleLower} ${abstractLower}`;
   let score = 0;
 
   // キーワードマッチ（タイトルは2倍重み）
   for (const kw of RELEVANCE_KEYWORDS) {
-    if (paper.title.toLowerCase().includes(kw)) score += 2;
-    if (paper.abstract.toLowerCase().includes(kw)) score += 1;
+    if (titleLower.includes(kw)) score += 2;
+    if (abstractLower.includes(kw)) score += 1;
+  }
+
+  // BCI 系の優先ボーナス (BIAS_BCI_PICK=0 で無効化可能)
+  const bciBias = Number(process.env.BIAS_BCI_PICK ?? "1");
+  if (bciBias > 0) {
+    for (const kw of BCI_PRIORITY_KEYWORDS) {
+      if (titleLower.includes(kw)) score += BCI_PRIORITY_BONUS_TITLE * bciBias;
+      else if (abstractLower.includes(kw)) score += BCI_PRIORITY_BONUS_ABSTRACT * bciBias;
+    }
   }
 
   // abstract が充実しているほど高スコア
@@ -198,16 +329,17 @@ export async function runDailyPipeline(): Promise<DailyResult> {
   console.log(`   → 選定: ${paper.title.substring(0, 80)}...`);
 
   console.log("🖼️  論文の図表を取得中...");
-  const figureUrl = await extractPaperFigure(paper.link);
-  if (figureUrl) {
-    console.log(`   → 図表URL: ${figureUrl}`);
+  const figureUrls = await extractPaperFigures(paper.link, 3);
+  if (figureUrls.length > 0) {
+    console.log(`   → 図表 ${figureUrls.length} 枚取得`);
   } else {
     console.log("   → 図表の取得をスキップ（HTML版なし）");
   }
 
   console.log("✍️  ドラフトを生成・推敲中...");
   const draft = polishDraft(paper, dayOfYear);
-  draft.figureUrl = figureUrl ?? undefined;
+  draft.figureUrls = figureUrls;
+  draft.figureUrl = figureUrls[0] ?? undefined;
 
   if (config.webhookUrl) {
     console.log("📤 Webhook に通知中...");
@@ -220,6 +352,27 @@ export async function runDailyPipeline(): Promise<DailyResult> {
     } catch (error) {
       console.error("⚠️  Webhook 通知に失敗しました:", error);
     }
+  }
+
+  console.log("🌐 Web アプリ用 JSON を更新中...");
+  try {
+    await updatePublicData(draft, config);
+    console.log(`   → ${config.publicDataDir}/latest-draft.json`);
+    console.log(`   → ${config.publicDataDir}/drafts-history.json`);
+  } catch (error) {
+    console.error("⚠️  公開JSONの書き出しに失敗しました:", error);
+  }
+
+  console.log("📡 フィード集約 (papers / market / grants / aineuro / bci) ...");
+  try {
+    const feeds = await aggregateFeeds();
+    await writeJson(resolve(config.publicDataDir, "feeds.json"), feeds);
+    const summary = Object.entries(feeds.categories)
+      .map(([k, c]) => `${k}:${c.itemCount}`)
+      .join(" ");
+    console.log(`   → feeds.json (${summary})`);
+  } catch (error) {
+    console.error("⚠️  フィード集約に失敗しました:", error);
   }
 
   history.push({ date: today, paperTitle: paper.title, topic: draft.topic });

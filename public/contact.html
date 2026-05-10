@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>お問い合わせ — Cereportal Neuro Daily</title>
+    <meta
+      name="description"
+      content="Cereportal Neuro Daily へのお問い合わせ・記事の誤り報告・取材依頼のご連絡先。"
+    />
+    <meta name="robots" content="index,follow" />
+    <link rel="canonical" href="https://eegbugckets.web.app/contact.html" />
+    <meta name="color-scheme" content="dark light" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..900&family=Inter:wght@300..700&family=JetBrains+Mono:wght@300..600&display=swap"
+    />
+    <link rel="stylesheet" href="/assets/style.css" />
+  </head>
+  <body class="page-policy">
+    <a href="#main" class="skip-link">本文へスキップ</a>
+
+    <header class="masthead" role="banner">
+      <a href="/" class="masthead-brand" aria-label="Cereportal Neuro Daily — トップへ">
+        <h1 class="brand-wordmark">
+          <span class="brand-cere">Cere</span><span class="brand-portal">portal</span>
+          <span class="brand-divider">·</span>
+          <span class="brand-tagline">Neuro Daily</span>
+        </h1>
+      </a>
+    </header>
+
+    <main id="main" class="policy">
+      <h1>お問い合わせ</h1>
+      <p class="updated">最終更新日 · 2026-05-10</p>
+
+      <p>
+        記事の誤り報告、取材・寄稿のご相談、広告・スポンサーシップに関するご連絡、
+        プライバシー / 利用規約に関するお問い合わせは、下記いずれかの方法で
+        ご連絡ください。原則として3営業日以内にご返信いたします。
+      </p>
+
+      <h2>メール</h2>
+      <p>
+        編集部宛: <a href="mailto:info@cereportal.com">info@cereportal.com</a>
+      </p>
+      <p>
+        ご連絡の際は、以下を本文に明記いただけますとスムーズです。
+      </p>
+      <ul>
+        <li>お名前 (匿名可・ハンドルネーム可)</li>
+        <li>ご所属 (任意)</li>
+        <li>お問い合わせ種別 (誤り報告 / 取材依頼 / 広告掲載 / その他)</li>
+        <li>該当記事の URL (誤り報告の場合)</li>
+        <li>本文</li>
+      </ul>
+
+      <h2>お問い合わせフォーム</h2>
+      <p>
+        以下のフォームから直接送信することも可能です
+        (送信ボタンをクリックすると、メールクライアントが起動して
+        本文がプリセットされた状態で
+        <code>info@cereportal.com</code> 宛のメールが開きます)。
+      </p>
+
+      <form
+        class="contact-form"
+        id="contact-form"
+        onsubmit="event.preventDefault(); submitContact();"
+      >
+        <label>
+          お名前
+          <input type="text" id="cf-name" required maxlength="80" />
+        </label>
+        <label>
+          メールアドレス (返信先)
+          <input type="email" id="cf-email" required maxlength="120" />
+        </label>
+        <label>
+          種別
+          <input
+            type="text"
+            id="cf-kind"
+            placeholder="誤り報告 / 取材依頼 / 広告 / その他"
+            maxlength="40"
+          />
+        </label>
+        <label>
+          本文
+          <textarea id="cf-body" required maxlength="2000"></textarea>
+        </label>
+        <button type="submit" class="btn btn-primary">
+          <span>メーラーで送信</span>
+          <span class="btn-arrow">↗</span>
+        </button>
+        <p style="font-family: var(--mono); font-size: 11px; color: var(--ink-300); letter-spacing: 0.04em; margin: 0;">
+          ※ ご入力内容はサーバへ送信されず、お使いのメールクライアントが起動するだけです。
+        </p>
+      </form>
+
+      <h2>ご注意</h2>
+      <ul>
+        <li>
+          医学的な相談・診断にはお答えできません。
+          医療上の判断は必ず専門医にご相談ください。
+        </li>
+        <li>
+          営業目的の一斉送信メール、無関係な広告、誹謗中傷を含むご連絡には
+          お返事いたしません。
+        </li>
+        <li>
+          いただいたご連絡は <a href="/privacy.html">プライバシーポリシー</a>
+          に従って取り扱います。
+        </li>
+      </ul>
+
+      <a href="/" class="policy-back">← トップへ戻る</a>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <span class="footer-mark">⏚</span>
+          <span class="footer-wordmark">CEREPORTAL</span>
+          <span class="footer-mark">⏚</span>
+        </div>
+        <nav class="footer-nav" aria-label="サイト情報">
+          <ul>
+            <li><a href="/about.html">運営者情報</a></li>
+            <li><a href="/contact.html">お問い合わせ</a></li>
+            <li><a href="/privacy.html">プライバシーポリシー</a></li>
+            <li><a href="/terms.html">利用規約</a></li>
+          </ul>
+        </nav>
+        <p class="footer-copy">© 2026 Cereportal Editorial. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script>
+      function submitContact() {
+        const name = document.getElementById("cf-name").value.trim();
+        const email = document.getElementById("cf-email").value.trim();
+        const kind = document.getElementById("cf-kind").value.trim();
+        const body = document.getElementById("cf-body").value.trim();
+        const subject = `[Cereportal Contact] ${kind || "お問い合わせ"} — ${name}`;
+        const lines = [
+          `お名前: ${name}`,
+          `返信先: ${email}`,
+          `種別: ${kind || "(未指定)"}`,
+          "",
+          body,
+        ];
+        const mailto =
+          "mailto:info@cereportal.com" +
+          "?subject=" +
+          encodeURIComponent(subject) +
+          "&body=" +
+          encodeURIComponent(lines.join("\n"));
+        window.location.href = mailto;
+      }
+    </script>
+  </body>
+</html>
