@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-05-10T10:05:41.886Z",
+  "generatedAt": "2026-05-10T12:54:24.562Z",
   "date": "2026-05-10",
-  "topic": "学習と畳み込みニューラルネットワーク(CNN)",
+  "topic": "学習と言語処理",
   "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Multi-dimensional MRI representation and privileged learning approaches to functional outcome prediction for ischemic stroke patients.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42106496/",
-  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習と畳み込みニューラルネットワーク(CNN)に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習 × 畳み込みニューラルネットワーク(CNN) × 表現学習\n\n📊 注目すべきデータ：\n→ Most machine learning (ML) and artificial intelligence (AI) outcome prediction models lack robust strategies to incorporate high-dimensional clinical imaging data or to account...\n→ We developed and validated our models on a large public dataset (N&#x2009;=&#x2009;974) and an external validation dataset (N&#x2009;=&#x2009;738), demonstrating performance...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Multi-dimensional MRI representation and privileged learning approaches to functional outcome prediction for ischemic stroke patients.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42106496/\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #NeuroAI",
-  "summaryJP": "学習と畳み込みニューラルネットワーク(CNN) — 脳科学とAIをつなぐ研究（神経デコーディング）",
-  "paperAuthors": "Emily Wittrup, John Reavey-Cantwell, Aditya S Pandey, Dennis J Rivet Ii, Badih J Daou, Kayvan Najarian",
+  "paperTitle": "Uncovering advanced transfer learning strategies for deep neural networks in natural language processing.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42106353/",
+  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習と言語処理に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習 × 言語処理 × 深層学習\n\n📊 注目すべきデータ：\n→ Transfer learning significantly accelerated training and improved model accuracy, highlighting its practical advantages in NLP tasks.\n→ By implementing state-of-the-art transfer learning methodologies, companies can offer faster and more accurate NLP solutions, aligning perfectly with the ethos of \"Business...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Uncovering advanced transfer learning strategies for deep neural networks in natural language processing.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42106353/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #DeepLearning",
+  "summaryJP": "学習と言語処理 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+  "paperAuthors": "Mohamed M Abbassy, Waleed M Ead, Amr I A El-Shora, Ayman M Aboalndr",
   "publishedDate": "2026-05-09",
-  "paperId": "42106496",
+  "paperId": "42106353",
   "paperSource": "pubmed",
-  "themeArea": "神経デコーディング",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
     "学習",
-    "畳み込みニューラルネットワーク(CNN)",
-    "表現学習"
+    "言語処理",
+    "深層学習"
   ],
-  "abstractExcerpt": "Accurate prediction of long-term functional outcomes for stroke patients remains a clinical challenge, despite advances in diagnostics and treatments. Most machine learning (ML) and artificial intelligence (AI) outcome prediction models…",
+  "abstractExcerpt": "In the rapidly evolving landscape of Natural Language Processing (NLP), transfer learning has emerged as a game-changing methodology, fundamentally altering how machine learning models are trained and deployed. The study at hand dives deep…",
   "figureUrls": []
 }

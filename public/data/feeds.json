@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T10:05:42.747Z",
+  "generatedAt": "2026-05-10T12:54:24.817Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,6 +69,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists successfully transfer longevity gene and extend lifespan",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
+          "publishedDate": "Sun, 10 May 2026 07:27:12 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists at the University of Rochester pulled off a remarkable experiment: they transferred a longevity-related gene from the famously long-lived naked mole rat into mice, and the mice ended up healthier and lived longer. The special…",
+          "authors": ""
+        },
+        {
           "title": "Scientists discover the brain’s hidden “stop scratching” switch",
           "url": "https://www.sciencedaily.com/releases/2026/05/260509210654.htm",
           "publishedDate": "Sun, 10 May 2026 03:08:07 EDT",
@@ -106,14 +114,6 @@
           "publishedDate": "Sat, 09 May 2026 08:56:34 EDT",
           "source": "sciencedaily.com",
           "summary": "A new study shows that listening to your own favorite workout music can dramatically boost endurance. Cyclists exercising with self-selected songs lasted nearly 20% longer than when riding in silence, yet they didn’t feel more exhausted at…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists found the “holy grail” gene that could one day help humans regrow limbs",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260508003121.htm",
-          "publishedDate": "Sat, 09 May 2026 01:04:19 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists studying axolotls, zebrafish, and mice have uncovered a shared set of genes that may one day help humans regrow lost limbs. By identifying powerful “SP genes” involved in regeneration, researchers discovered that disabling these…",
           "authors": ""
         }
       ]
