@@ -1,5 +1,5 @@
 /* ============================================================
-   Cereportal Neuro Daily — News Magazine Stylesheet
+   NeuroPulse · BCI & Neuroscience Daily — News Magazine Stylesheet
    ============================================================
    - serif headlines (Fraunces) / sans body (Inter) / mono meta (JetBrains)
    - dark "broadsheet" palette with restrained color
@@ -163,8 +163,8 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
   line-height: 1;
   font-style: italic;
 }
-.brand-cere { color: var(--ink-100); }
-.brand-portal { color: var(--accent); }
+.brand-neuro { color: var(--ink-100); }
+.brand-pulse { color: var(--accent); }
 .brand-divider {
   font-family: var(--sans);
   font-style: normal;
