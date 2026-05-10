@@ -136,7 +136,7 @@ function commentary(entry) {
 function articlePageHtml(entry) {
   const slug = archiveSlug(entry);
   const url = `${SITE_ORIGIN}/article/${slug}.html`;
-  const title = entry.summaryJP || entry.topic || entry.paperTitle || "Cereportal article";
+  const title = entry.summaryJP || entry.topic || entry.paperTitle || "NeuroPulse article";
   const dek = dekFor(entry);
   const dateISO = entry.generatedAt || new Date().toISOString();
   const datePub = isoDateOnly(dateISO);
@@ -165,12 +165,12 @@ function articlePageHtml(entry) {
     articleSection: theme,
     publisher: {
       "@type": "NewsMediaOrganization",
-      name: "Cereportal Neuro Daily",
+      name: "NeuroPulse — BCI &amp; Neuroscience Daily",
       url: SITE_ORIGIN,
     },
     author: {
       "@type": "Organization",
-      name: "Cereportal Editorial",
+      name: "NeuroPulse Editorial",
       url: `${SITE_ORIGIN}/about.html`,
     },
     mainEntityOfPage: { "@type": "WebPage", "@id": url },
@@ -182,15 +182,15 @@ function articlePageHtml(entry) {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>${escapeHtml(title)} — Cereportal Neuro Daily</title>
+    <title>${escapeHtml(title)} — NeuroPulse — BCI &amp; Neuroscience Daily</title>
     <meta name="description" content="${escapeHtml(dek)}" />
-    <meta name="author" content="Cereportal Editorial" />
+    <meta name="author" content="NeuroPulse Editorial" />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="${escapeHtml(url)}" />
     <meta name="color-scheme" content="dark light" />
 
     <meta property="og:type" content="article" />
-    <meta property="og:site_name" content="Cereportal Neuro Daily" />
+    <meta property="og:site_name" content="NeuroPulse — BCI &amp; Neuroscience Daily" />
     <meta property="og:title" content="${escapeHtml(title)}" />
     <meta property="og:description" content="${escapeHtml(dek)}" />
     <meta property="og:url" content="${escapeHtml(url)}" />
@@ -212,11 +212,11 @@ function articlePageHtml(entry) {
     <a href="#main" class="skip-link">本文へスキップ</a>
 
     <header class="masthead" role="banner">
-      <a href="/" class="masthead-brand" aria-label="Cereportal Neuro Daily — トップへ">
+      <a href="/" class="masthead-brand" aria-label="NeuroPulse — BCI &amp; Neuroscience Daily — トップへ">
         <h1 class="brand-wordmark">
-          <span class="brand-cere">Cere</span><span class="brand-portal">portal</span>
+          <span class="brand-neuro">Neuro</span><span class="brand-pulse">Pulse</span>
           <span class="brand-divider">·</span>
-          <span class="brand-tagline">Neuro Daily</span>
+          <span class="brand-tagline">BCI &amp; Neuroscience Daily</span>
         </h1>
       </a>
     </header>
@@ -231,7 +231,7 @@ function articlePageHtml(entry) {
 
       <div class="meta">
         <span><strong>掲載</strong> ${escapeHtml(dateLong)}</span>
-        <span><strong>編集</strong> Cereportal Editorial</span>
+        <span><strong>編集</strong> NeuroPulse Editorial</span>
         <span><strong>テーマ</strong> ${escapeHtml(theme)}</span>
         <span><strong>テンプレート</strong> ${escapeHtml(tmplLabel)}</span>
         <span><strong>リスクスコア</strong> ${score}/100</span>
@@ -286,7 +286,7 @@ function articlePageHtml(entry) {
             <li><a href="/terms.html">利用規約</a></li>
           </ul>
         </nav>
-        <p class="footer-copy">© 2026 Cereportal Editorial. All rights reserved.</p>
+        <p class="footer-copy">© 2026 NeuroPulse Editorial. All rights reserved.</p>
         <p class="footer-disclaimer">
           掲載されている各リンク先記事の著作権は各オリジナル発行元に帰属します。
         </p>

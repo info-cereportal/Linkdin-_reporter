@@ -1,5 +1,5 @@
 // ═══════════════════════════════════════════════════════════════════
-// Cereportal Neuro Daily — front-end controller (news magazine)
+// NeuroPulse · BCI & Neuroscience Daily — front-end controller (news magazine)
 // ───────────────────────────────────────────────────────────────────
 // - loads /data/feeds.json, /data/latest-draft.json, /data/drafts-history.json
 // - hero (top story) + 4 category sections + editor's note + archive
@@ -590,11 +590,11 @@ async function init() {
 
   let latest = null, history = [], feeds = null;
   try { latest = await loadJson("/data/latest-draft.json"); }
-  catch (err) { console.warn("[cereportal] latest-draft.json unavailable:", err); }
+  catch (err) { console.warn("[neuropulse] latest-draft.json unavailable:", err); }
   try { history = await loadJson("/data/drafts-history.json"); }
-  catch (err) { console.warn("[cereportal] drafts-history.json unavailable:", err); }
+  catch (err) { console.warn("[neuropulse] drafts-history.json unavailable:", err); }
   try { feeds = await loadJson("/data/feeds.json"); }
-  catch (err) { console.warn("[cereportal] feeds.json unavailable:", err); }
+  catch (err) { console.warn("[neuropulse] feeds.json unavailable:", err); }
 
   if (feeds && feeds.generatedAt) {
     els.date.textContent = formatLongDateJP(feeds.generatedAt);
