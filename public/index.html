@@ -66,6 +66,9 @@
       href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,300..900,30..100,0..1&family=Inter:wght@300..700&family=JetBrains+Mono:wght@300..600&display=swap"
     />
     <link rel="stylesheet" href="/assets/style.css" />
+
+    <!-- client-side full-text search engine (no backend) -->
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" defer></script>
   </head>
   <body class="page-home">
     <a href="#main" class="skip-link">本文へスキップ</a>
@@ -113,6 +116,26 @@
         <em>3時間ごとに編集・公開。</em>
       </p>
 
+      <div class="masthead-search" role="search">
+        <label for="np-search" class="visually-hidden">サイト内検索</label>
+        <span class="search-icon" aria-hidden="true">⌕</span>
+        <input
+          type="search"
+          id="np-search"
+          placeholder="記事・論文・助成金を検索 (例: Neuralink, EEG, AMED)"
+          autocomplete="off"
+        />
+        <kbd class="search-hint">/</kbd>
+      </div>
+      <div class="search-results" id="search-results" hidden>
+        <header class="sr-head">
+          <span class="sr-eyebrow">SEARCH RESULTS</span>
+          <button class="sr-close" type="button" id="sr-close" aria-label="検索を閉じる">×</button>
+        </header>
+        <ol class="sr-list" id="sr-list"></ol>
+        <p class="sr-empty" id="sr-empty" hidden>該当する項目が見つかりませんでした。</p>
+      </div>
+
       <!-- thin EEG signal accent (brand identity, slim) -->
       <svg
         class="eeg-accent"
@@ -137,78 +160,91 @@
     </header>
 
     <main id="main" class="layout">
-      <!-- ───────────────── HERO / TOP STORY ───────────────── -->
+      <!-- ───────────────── HERO / 3 TOP STORIES ───────────────── -->
       <section class="hero" id="section-pick" aria-labelledby="hero-heading">
         <header class="section-rule">
-          <span class="rule-eyebrow">TOP STORY · 本日の一本</span>
+          <span class="rule-eyebrow">TOP STORIES · 注目記事</span>
           <span class="rule-time" id="hero-time">—</span>
         </header>
 
-        <article class="hero-article">
-          <div class="hero-poster">
-            <svg
-              id="poster-svg"
-              viewBox="0 0 480 280"
-              role="img"
-              aria-label="本日のトップストーリー · ポスタービジュアル"
-            ></svg>
-            <span class="hero-badge" id="hero-badge">脳情報科学</span>
-          </div>
+        <h2 id="hero-heading" class="visually-hidden">本日の注目記事 3 本</h2>
 
-          <div class="hero-body">
-            <p class="hero-kicker" id="hero-kicker">脳情報科学</p>
-            <h2 id="hero-heading" class="hero-headline">
-              <a href="#section-pick" id="hero-headline-link">
-                <span id="hero-headline-text">記事を取得しています…</span>
-              </a>
-            </h2>
-            <p class="hero-dek" id="hero-dek">—</p>
+        <div class="hero-3up" id="hero-3up">
+          <!-- LEAD -->
+          <article class="hero-card hero-lead" data-rank="lead">
+            <a class="hero-poster" href="#" data-link="lead">
+              <svg
+                viewBox="0 0 480 280"
+                role="img"
+                aria-label="リード記事 · ポスタービジュアル"
+                data-poster="lead"
+              ></svg>
+              <span class="hero-badge" data-badge="lead">—</span>
+            </a>
+            <div class="hero-body">
+              <p class="hero-kicker" data-kicker="lead">—</p>
+              <h3 class="hero-headline">
+                <a href="#" data-link="lead" data-headline="lead">記事を取得しています…</a>
+              </h3>
+              <p class="hero-dek" data-dek="lead">—</p>
+              <dl class="hero-byline">
+                <div><dt>原典</dt><dd data-source="lead">—</dd></div>
+                <div><dt>掲載</dt><dd data-published="lead">—</dd></div>
+                <div><dt>リスク</dt><dd class="risk-cell" data-risk-cell="lead"><span data-risk="lead">—</span><span class="risk-max">/100</span></dd></div>
+              </dl>
+              <footer class="hero-actions">
+                <a class="btn btn-primary" data-paper-btn="lead" href="#" target="_blank" rel="noopener" hidden>
+                  <span>原典を読む</span><span class="btn-arrow">↗</span>
+                </a>
+                <a class="btn" href="#section-pick-detail" data-note-btn="lead">
+                  <span>編集ノート</span><span class="btn-arrow">↓</span>
+                </a>
+              </footer>
+            </div>
+          </article>
 
-            <dl class="hero-byline">
-              <div>
-                <dt>編集</dt>
-                <dd>NeuroPulse Editorial</dd>
-              </div>
-              <div>
-                <dt>原典</dt>
-                <dd id="hero-source">—</dd>
-              </div>
-              <div>
-                <dt>掲載</dt>
-                <dd id="hero-published">—</dd>
-              </div>
-              <div>
-                <dt>リスク</dt>
-                <dd class="risk-cell" data-risk="low">
-                  <span class="risk-num" id="hero-risk">—</span>
-                  <span class="risk-max">/100</span>
-                </dd>
-              </div>
-            </dl>
+          <!-- SECONDARY 1 -->
+          <article class="hero-card hero-secondary" data-rank="sec1">
+            <a class="hero-poster sm" href="#" data-link="sec1">
+              <svg
+                viewBox="0 0 480 280"
+                role="img"
+                aria-label="副記事 1 · ポスター"
+                data-poster="sec1"
+              ></svg>
+              <span class="hero-badge" data-badge="sec1">—</span>
+            </a>
+            <div class="hero-body">
+              <p class="hero-kicker" data-kicker="sec1">—</p>
+              <h3 class="hero-headline sm">
+                <a href="#" data-link="sec1" data-headline="sec1">—</a>
+              </h3>
+              <p class="hero-dek" data-dek="sec1">—</p>
+              <p class="hero-meta" data-meta="sec1">—</p>
+            </div>
+          </article>
 
-            <p class="hero-lede" id="hero-lede">—</p>
-
-            <footer class="hero-actions">
-              <a
-                class="btn btn-primary"
-                id="hero-paper-btn"
-                href="#"
-                target="_blank"
-                rel="noopener"
-                hidden
-              >
-                <span>論文を読む</span><span class="btn-arrow">↗</span>
-              </a>
-              <a
-                class="btn"
-                href="#section-pick-detail"
-                id="hero-detail-btn"
-              >
-                <span>本日の編集ノート</span><span class="btn-arrow">↓</span>
-              </a>
-            </footer>
-          </div>
-        </article>
+          <!-- SECONDARY 2 -->
+          <article class="hero-card hero-secondary" data-rank="sec2">
+            <a class="hero-poster sm" href="#" data-link="sec2">
+              <svg
+                viewBox="0 0 480 280"
+                role="img"
+                aria-label="副記事 2 · ポスター"
+                data-poster="sec2"
+              ></svg>
+              <span class="hero-badge" data-badge="sec2">—</span>
+            </a>
+            <div class="hero-body">
+              <p class="hero-kicker" data-kicker="sec2">—</p>
+              <h3 class="hero-headline sm">
+                <a href="#" data-link="sec2" data-headline="sec2">—</a>
+              </h3>
+              <p class="hero-dek" data-dek="sec2">—</p>
+              <p class="hero-meta" data-meta="sec2">—</p>
+            </div>
+          </article>
+        </div>
       </section>
 
       <!-- ───────────────── CATEGORY GRID ───────────────── -->
@@ -293,22 +329,40 @@
       </section>
 
       <section
-        class="category"
+        class="category grants-section"
         id="section-grants"
         aria-labelledby="grants-heading"
         data-category="grants"
       >
         <header class="section-rule">
-          <span class="rule-eyebrow"><span class="cat-chip" data-cat="grants">GRANTS</span> SECTION 05 · 助成金 / ライフサイエンス</span>
-          <span class="rule-meta" data-list-meta="grants">— articles</span>
+          <span class="rule-eyebrow"><span class="cat-chip" data-cat="grants">GRANTS</span> SECTION 05 · 研究助成・公募</span>
+          <span class="rule-meta" id="grants-meta">— programs</span>
         </header>
         <h2 id="grants-heading" class="section-title">
-          研究助成 &amp; <em>ライフサイエンス速報</em>
+          BCI / 脳科学<em>助成金カタログ</em>
         </h2>
         <p class="section-dek">
-          ScienceDaily と関連ニュースから注目トピックを集約。見出しと出典のみ。
+          AMED / JST / NEDO (日本) ・NIH / NSF / DARPA (米国) ・Horizon Europe / Wellcome
+          (欧州) ・Simons / Kavli (民間財団) — 締切・金額・対象を構造化して掲載。
+          スタートアップ予備軍 (大学発スピンアウト) 向けの公募も含めています。
         </p>
-        <ol class="article-grid headline-grid" data-list="grants"></ol>
+
+        <div class="grants-toolbar">
+          <span class="gt-label">FILTER</span>
+          <button class="gt-chip is-active" data-grant-filter="all" type="button">すべて</button>
+          <button class="gt-chip" data-grant-filter="JP" type="button">🇯🇵 日本</button>
+          <button class="gt-chip" data-grant-filter="US" type="button">🇺🇸 米国</button>
+          <button class="gt-chip" data-grant-filter="EU" type="button">🇪🇺 欧州</button>
+          <button class="gt-chip" data-grant-filter="startup" type="button">🚀 スタートアップ向け</button>
+          <button class="gt-chip" data-grant-filter="bci" type="button">🧠 BCI 関連</button>
+          <button class="gt-chip" data-grant-filter="open" type="button">📂 公募中</button>
+        </div>
+
+        <ol class="grants-list" id="grants-list"></ol>
+        <p class="grants-disclaimer">
+          ※ 締切・金額・対象は変動します。応募前に必ず公式サイトをご確認ください。
+          掲載漏れ・誤りは <a href="/contact.html">お問い合わせ</a> よりご連絡ください。
+        </p>
       </section>
 
       <!-- ───────────────── EDITOR'S PICK / DETAIL ───────────────── -->
