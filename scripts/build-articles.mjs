@@ -269,6 +269,11 @@ function articlePageHtml(entry, allEntries) {
     />
     <link rel="stylesheet" href="/assets/style.css" />
 
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3378319187302369"
+            crossorigin="anonymous"></script>
+    <meta name="google-adsense-account" content="ca-pub-3378319187302369" />
+
     <script type="application/ld+json">${JSON.stringify(ldjson)}</script>
   </head>
   <body class="page-article">
