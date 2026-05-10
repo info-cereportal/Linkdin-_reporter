@@ -133,7 +133,70 @@ function commentary(entry) {
      原典の主張を保ちつつ、断定を避けた hedging 表現を用いている。`;
 }
 
-function articlePageHtml(entry) {
+function relatedEntries(target, all, limit = 3) {
+  if (!target || !Array.isArray(all)) return [];
+  const targetTheme = target.themeArea || "";
+  const targetKws = new Set(
+    (Array.isArray(target.jpKeywords) ? target.jpKeywords : []).map((s) => String(s).toLowerCase())
+  );
+  const targetSlug = archiveSlug(target);
+
+  const scored = all
+    .filter((e) => archiveSlug(e) && archiveSlug(e) !== targetSlug)
+    .map((e) => {
+      let score = 0;
+      if ((e.themeArea || "") === targetTheme && targetTheme) score += 5;
+      const ekw = (Array.isArray(e.jpKeywords) ? e.jpKeywords : []).map((s) =>
+        String(s).toLowerCase()
+      );
+      for (const k of ekw) if (targetKws.has(k)) score += 2;
+      // recency tiebreaker
+      const t = Date.parse(e.generatedAt || "");
+      score += Number.isFinite(t) ? t / 1e15 : 0;
+      return { e, score };
+    })
+    .filter((x) => x.score > 0)
+    .sort((a, b) => b.score - a.score);
+
+  // Fallback: if not enough scored matches, fill with most recent unrelated
+  const out = scored.slice(0, limit).map((x) => x.e);
+  if (out.length < limit) {
+    const seen = new Set(out.map((e) => archiveSlug(e)));
+    for (const e of all) {
+      const s = archiveSlug(e);
+      if (s && s !== targetSlug && !seen.has(s)) {
+        out.push(e);
+        seen.add(s);
+        if (out.length >= limit) break;
+      }
+    }
+  }
+  return out;
+}
+
+function relatedHtml(target, all) {
+  const rel = relatedEntries(target, all, 3);
+  if (rel.length === 0) return "";
+  const cards = rel.map((e) => {
+    const slug = archiveSlug(e);
+    const title = e.summaryJP || e.topic || e.paperTitle || "—";
+    const theme = e.themeArea || "脳情報科学";
+    const date = isoDateOnly(e.generatedAt);
+    return `
+      <article class="related-card">
+        <span class="rk-eyebrow">${escapeHtml(theme)}</span>
+        <a href="/article/${escapeHtml(slug)}.html">${escapeHtml(title)}</a>
+        <span class="rk-meta">${escapeHtml(date)}</span>
+      </article>`;
+  }).join("\n");
+  return `
+    <section class="related-stories" aria-labelledby="related-heading">
+      <h2 id="related-heading">関連する編集ノート</h2>
+      <div class="related-grid">${cards}</div>
+    </section>`;
+}
+
+function articlePageHtml(entry, allEntries) {
   const slug = archiveSlug(entry);
   const url = `${SITE_ORIGIN}/article/${slug}.html`;
   const title = entry.summaryJP || entry.topic || entry.paperTitle || "NeuroPulse article";
@@ -268,6 +331,8 @@ function articlePageHtml(entry) {
           : ""
       }
 
+      ${relatedHtml(entry, allEntries || [])}
+
       <a href="/" class="policy-back">← トップへ戻る</a>
     </main>
 
@@ -379,7 +444,7 @@ async function main() {
     if (!slug) continue;
     validSlugs.add(`${slug}.html`);
     const out = path.join(OUT_DIR, `${slug}.html`);
-    await writeFile(out, articlePageHtml(entry), "utf8");
+    await writeFile(out, articlePageHtml(entry, combined), "utf8");
     written += 1;
   }
 
