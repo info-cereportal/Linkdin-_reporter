@@ -65,6 +65,21 @@ const els = {
   // grants
   grantsList: $("grants-list"),
   grantsMeta: $("grants-meta"),
+  // companies
+  companiesGrid: $("companies-grid"),
+  companiesMeta: $("companies-meta"),
+  // events
+  eventsTimeline: $("events-timeline"),
+  eventsMeta: $("events-meta"),
+  // stats
+  statsTime: $("stats-time"),
+  statGrantsOpen: $("stat-grants-open"),
+  statGrantsTotal: $("stat-grants-total"),
+  statGrantsUrgent: $("stat-grants-urgent"),
+  statCompanies: $("stat-companies"),
+  statCompanyFunding: $("stat-company-funding"),
+  statPapers: $("stat-papers"),
+  chartFunding: $("chart-funding"),
 };
 
 let currentDraft = null;
@@ -765,10 +780,395 @@ function renderArchive(entries) {
   });
 }
 
+/* ────────── COMPANIES DIRECTORY ────────── */
+let companiesState = { items: [], filter: "all" };
+
+function renderCompanies() {
+  if (!els.companiesGrid) return;
+  const items = companiesState.items;
+  const flt = companiesState.filter;
+  const filtered = items.filter((c) => {
+    if (flt === "all") return true;
+    if (flt === "JP") return c.country === "JP";
+    const tags = (c.tags || []).map((t) => String(t).toLowerCase());
+    if (flt === "invasive") return tags.some((t) => /invasive|implant|stentrode|utah/.test(t)) && !tags.some((t) => /non-invasive/.test(t));
+    if (flt === "non-invasive") return tags.some((t) => /non-invasive|consumer eeg|wearable|meg/.test(t));
+    if (flt === "consumer") return tags.some((t) => /consumer|wearable|headphones|education/.test(t));
+    if (flt === "clinical") return tags.some((t) => /clinical|fda|als|parkinson|spinal/.test(t));
+    if (flt === "early") return /seed|series a$|series a\+/i.test(c.stage || "");
+    return true;
+  });
+
+  if (els.companiesMeta) els.companiesMeta.textContent = `${filtered.length} / ${items.length} companies`;
+  els.companiesGrid.innerHTML = "";
+
+  if (filtered.length === 0) {
+    const li = document.createElement("li");
+    li.className = "list-empty";
+    li.textContent = "// 該当する企業が見つかりませんでした。";
+    els.companiesGrid.appendChild(li);
+    return;
+  }
+
+  // Sort by total funding desc
+  filtered.sort((a, b) => (b.totalFundingUSD || 0) - (a.totalFundingUSD || 0));
+
+  filtered.forEach((c) => {
+    const li = document.createElement("li");
+    li.className = "company-card";
+
+    const head = document.createElement("div");
+    head.className = "cc-head";
+
+    const name = document.createElement("h3");
+    name.className = "cc-name";
+    if (c.url) {
+      const a = document.createElement("a");
+      a.href = c.url;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.textContent = c.name;
+      name.appendChild(a);
+    } else {
+      name.textContent = c.name;
+    }
+    head.appendChild(name);
+
+    if (c.stage) {
+      const stage = document.createElement("span");
+      stage.className = "cc-stage";
+      stage.textContent = c.stage;
+      head.appendChild(stage);
+    }
+    if (c.country) {
+      const flag = { JP: "🇯🇵", US: "🇺🇸", EU: "🇪🇺", UK: "🇬🇧", NL: "🇳🇱", ES: "🇪🇸", AU: "🇦🇺", CN: "🇨🇳", INTL: "🌐" }[c.country] || "";
+      const region = document.createElement("span");
+      region.className = "cc-region";
+      region.textContent = `${flag} ${c.hq || c.country}`;
+      head.appendChild(region);
+    }
+    li.appendChild(head);
+
+    if (c.techFocus) {
+      const tech = document.createElement("p");
+      tech.className = "cc-tech";
+      tech.textContent = c.techFocus;
+      li.appendChild(tech);
+    }
+    if (c.summary) {
+      const sum = document.createElement("p");
+      sum.className = "cc-summary";
+      sum.textContent = c.summary;
+      li.appendChild(sum);
+    }
+
+    const meta = document.createElement("dl");
+    meta.className = "cc-meta";
+    const addRow = (k, v) => {
+      const dt = document.createElement("dt"); dt.textContent = k;
+      const dd = document.createElement("dd"); dd.textContent = v;
+      meta.appendChild(dt); meta.appendChild(dd);
+    };
+    if (c.founded) addRow("FOUNDED", String(c.founded));
+    if (c.lastRoundLabel) addRow("LAST ROUND", c.lastRoundLabel);
+    if (c.totalFundingUSD) addRow("TOTAL", `~$${(c.totalFundingUSD / 1e6).toFixed(0)}M`);
+    li.appendChild(meta);
+
+    if (Array.isArray(c.tags) && c.tags.length) {
+      const tags = document.createElement("div");
+      tags.className = "cc-tags";
+      c.tags.slice(0, 5).forEach((t) => {
+        const tag = document.createElement("span");
+        tag.className = "cc-tag";
+        tag.textContent = t;
+        tags.appendChild(tag);
+      });
+      li.appendChild(tags);
+    }
+    els.companiesGrid.appendChild(li);
+  });
+}
+
+function bindCompanyFilters() {
+  document.querySelectorAll("[data-co-filter]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      companiesState.filter = btn.dataset.coFilter;
+      document.querySelectorAll("[data-co-filter]").forEach((b) =>
+        b.classList.toggle("is-active", b === btn)
+      );
+      renderCompanies();
+    });
+  });
+}
+
+/* ────────── EVENTS TIMELINE ────────── */
+let eventsState = { items: [], filter: "all" };
+
+function renderEvents() {
+  if (!els.eventsTimeline) return;
+  const items = eventsState.items;
+  const flt = eventsState.filter;
+  const filtered = items.filter((e) => {
+    if (flt === "all") return true;
+    if (flt === "upcoming") {
+      const d = daysUntil(e.startDate);
+      return d != null && d >= 0;
+    }
+    return e.type === flt;
+  });
+
+  // Sort: future first by start asc, then past by start desc (recent first)
+  filtered.sort((a, b) => {
+    const da = daysUntil(a.startDate);
+    const db = daysUntil(b.startDate);
+    const aPast = da != null && da < 0;
+    const bPast = db != null && db < 0;
+    if (aPast && !bPast) return 1;
+    if (!aPast && bPast) return -1;
+    return (da ?? 9999) - (db ?? 9999);
+  });
+
+  if (els.eventsMeta) {
+    const upcoming = items.filter((e) => {
+      const d = daysUntil(e.startDate);
+      return d != null && d >= 0;
+    }).length;
+    els.eventsMeta.textContent = `${upcoming} upcoming · ${items.length} total`;
+  }
+  els.eventsTimeline.innerHTML = "";
+
+  if (filtered.length === 0) {
+    const li = document.createElement("li");
+    li.className = "list-empty";
+    li.textContent = "// 該当するイベントが見つかりませんでした。";
+    els.eventsTimeline.appendChild(li);
+    return;
+  }
+
+  filtered.forEach((e) => {
+    const days = daysUntil(e.startDate);
+    const isPassed = days != null && days < 0;
+    const isUrgent = days != null && days >= 0 && days <= 30;
+    const isSoon = days != null && days > 30 && days <= 90;
+
+    const li = document.createElement("li");
+    li.className = "event-card";
+    if (isPassed) li.classList.add("is-passed");
+    li.classList.add(`is-${e.type}`);
+
+    const dateRow = document.createElement("div");
+    dateRow.className = "ev-date";
+
+    const dateText = document.createElement("span");
+    let dateLabel = e.startDate;
+    if (e.endDate && e.endDate !== e.startDate) dateLabel += ` → ${e.endDate}`;
+    dateText.textContent = dateLabel;
+    dateRow.appendChild(dateText);
+
+    if (days != null) {
+      const cd = document.createElement("span");
+      cd.className = "ev-countdown";
+      if (isUrgent) cd.classList.add("urgent");
+      else if (isSoon) cd.classList.add("soon");
+      if (isPassed) cd.textContent = `終了 (${Math.abs(days)} 日前)`;
+      else if (days === 0) cd.textContent = "本日";
+      else cd.textContent = `あと ${days} 日`;
+      dateRow.appendChild(cd);
+    }
+
+    const typeBadge = document.createElement("span");
+    typeBadge.className = `ev-type-badge ${e.type}`;
+    typeBadge.textContent =
+      e.type === "deadline" ? "締切" :
+      e.type === "conference" ? "学会" :
+      e.type === "industry" ? "産業" : e.type;
+    dateRow.appendChild(typeBadge);
+    li.appendChild(dateRow);
+
+    const title = document.createElement("h3");
+    title.className = "ev-title";
+    if (e.url) {
+      const a = document.createElement("a");
+      a.href = e.url;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.textContent = e.title;
+      title.appendChild(a);
+    } else {
+      title.textContent = e.title;
+    }
+    li.appendChild(title);
+
+    if (e.location) {
+      const loc = document.createElement("span");
+      loc.className = "ev-loc";
+      loc.textContent = `📍 ${e.location}`;
+      li.appendChild(loc);
+    }
+    if (e.summary) {
+      const sum = document.createElement("p");
+      sum.className = "ev-summary";
+      sum.textContent = e.summary;
+      li.appendChild(sum);
+    }
+    els.eventsTimeline.appendChild(li);
+  });
+}
+
+function bindEventFilters() {
+  document.querySelectorAll("[data-ev-filter]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      eventsState.filter = btn.dataset.evFilter;
+      document.querySelectorAll("[data-ev-filter]").forEach((b) =>
+        b.classList.toggle("is-active", b === btn)
+      );
+      renderEvents();
+    });
+  });
+}
+
+/* ────────── STATS DASHBOARD + CHART ────────── */
+function fmtCurrency(n) {
+  if (!Number.isFinite(n)) return "—";
+  if (n >= 1e9) return `$${(n / 1e9).toFixed(1)}B`;
+  if (n >= 1e6) return `$${(n / 1e6).toFixed(0)}M`;
+  if (n >= 1e3) return `$${(n / 1e3).toFixed(0)}K`;
+  return `$${n}`;
+}
+
+function parseGrantAmountUSD(g) {
+  // very rough heuristic: "$1.5M / year" "5億円" "Up to $500K / year"
+  const a = String(g.amount || "");
+  // English $ amounts
+  const usdMatch = a.match(/\$\s?([\d.,]+)\s?([KMB])/i);
+  if (usdMatch) {
+    const n = parseFloat(usdMatch[1].replace(/,/g, ""));
+    const mult = { K: 1e3, M: 1e6, B: 1e9 }[usdMatch[2].toUpperCase()] || 1;
+    return n * mult;
+  }
+  // Yen amounts (rough rate 150 JPY/USD)
+  const okuMatch = a.match(/([\d.,]+)\s?億円/);
+  if (okuMatch) {
+    const oku = parseFloat(okuMatch[1].replace(/,/g, ""));
+    return oku * 1e8 / 150;
+  }
+  const manMatch = a.match(/([\d.,]+)\s?万円/);
+  if (manMatch) {
+    const man = parseFloat(manMatch[1].replace(/,/g, ""));
+    return man * 1e4 / 150;
+  }
+  // Euro (rough)
+  const eurMatch = a.match(/€\s?([\d.,]+)\s?([KMB])/i);
+  if (eurMatch) {
+    const n = parseFloat(eurMatch[1].replace(/,/g, ""));
+    const mult = { K: 1e3, M: 1e6, B: 1e9 }[eurMatch[2].toUpperCase()] || 1;
+    return n * mult * 1.07;
+  }
+  return 0;
+}
+
+function renderStats({ grants, companies, feeds }) {
+  if (!els.statGrantsOpen) return;
+  const now = new Date();
+
+  const openGrants = (grants?.items || []).filter((g) => {
+    const d = daysUntil(g.deadline);
+    return d == null ? /公募中|open|active|baa|rolling/i.test(g.stage || "") : d >= 0;
+  });
+  const urgentGrants = openGrants.filter((g) => {
+    const d = daysUntil(g.deadline);
+    return d != null && d <= 30 && d >= 0;
+  });
+  const totalGrant = openGrants.reduce((sum, g) => sum + parseGrantAmountUSD(g), 0);
+
+  const cos = companies?.items || [];
+  const totalCoFunding = cos.reduce((s, c) => s + (Number(c.totalFundingUSD) || 0), 0);
+
+  const papersCount =
+    (feeds?.categories?.papers?.itemCount || 0) +
+    (feeds?.categories?.bci?.itemCount || 0) +
+    (feeds?.categories?.aineuro?.itemCount || 0);
+
+  els.statGrantsOpen.textContent = String(openGrants.length);
+  els.statGrantsTotal.textContent = fmtCurrency(totalGrant);
+  els.statGrantsUrgent.textContent = String(urgentGrants.length);
+  els.statCompanies.textContent = String(cos.length);
+  els.statCompanyFunding.textContent = fmtCurrency(totalCoFunding);
+  els.statPapers.textContent = String(papersCount);
+
+  if (els.statsTime) {
+    const ts = feeds?.generatedAt || grants?.lastUpdated || now.toISOString();
+    els.statsTime.textContent = `as of ${formatShortDate(ts)}`;
+  }
+
+  // Funding distribution chart by stage bucket
+  if (typeof Chart !== "undefined" && els.chartFunding && cos.length) {
+    const stageBuckets = {
+      "Seed / Series A": 0,
+      "Series B": 0,
+      "Series C+ / Late": 0,
+      "Public / Strategic": 0,
+    };
+    cos.forEach((c) => {
+      const stage = String(c.stage || "").toLowerCase();
+      const total = Number(c.totalFundingUSD) || 0;
+      if (/public|strategic/.test(stage)) stageBuckets["Public / Strategic"] += total;
+      else if (/series c|late/.test(stage)) stageBuckets["Series C+ / Late"] += total;
+      else if (/series b/.test(stage)) stageBuckets["Series B"] += total;
+      else stageBuckets["Seed / Series A"] += total;
+    });
+
+    const labels = Object.keys(stageBuckets);
+    const data = labels.map((k) => stageBuckets[k] / 1e6); // M USD
+
+    if (renderStats._chart) renderStats._chart.destroy();
+    renderStats._chart = new Chart(els.chartFunding, {
+      type: "bar",
+      data: {
+        labels,
+        datasets: [{
+          label: "Cumulative funding (M USD)",
+          data,
+          backgroundColor: ["#5fd6a3", "#46c2e7", "#b08aff", "#ff8aae"],
+          borderColor: "rgba(255,255,255,0.04)",
+          borderWidth: 1,
+          borderRadius: 4,
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label: (ctx) => `~$${ctx.parsed.y.toFixed(0)}M`,
+            },
+          },
+        },
+        scales: {
+          x: {
+            ticks: { color: "#cfc7b3", font: { family: "JetBrains Mono", size: 10 } },
+            grid: { display: false },
+          },
+          y: {
+            ticks: {
+              color: "#918a7a",
+              font: { family: "JetBrains Mono", size: 10 },
+              callback: (v) => `$${v}M`,
+            },
+            grid: { color: "rgba(255,255,255,0.04)" },
+          },
+        },
+      },
+    });
+  }
+}
+
 /* ────────── SEARCH ────────── */
 let searchIndex = null;
 
-function buildSearchIndex(feeds, history, grants) {
+function buildSearchIndex(feeds, history, grants, companies, events) {
   const docs = [];
   if (feeds && feeds.categories) {
     for (const [cat, info] of Object.entries(feeds.categories)) {
@@ -802,6 +1202,26 @@ function buildSearchIndex(feeds, history, grants) {
       source: g.agency || "",
       url: g.url || "",
       tags: (g.tags || []).join(" "),
+    });
+  });
+  (companies || []).forEach((c) => {
+    docs.push({
+      type: "company",
+      title: c.name || "",
+      summary: `${c.techFocus || ""} ${c.summary || ""}`.trim(),
+      source: c.country || "",
+      url: c.url || "",
+      tags: (c.tags || []).join(" "),
+    });
+  });
+  (events || []).forEach((e) => {
+    docs.push({
+      type: "event",
+      title: e.title || "",
+      summary: e.summary || "",
+      source: e.location || "",
+      url: e.url || "",
+      tags: (e.tags || []).join(" ") + " " + (e.startDate || ""),
     });
   });
 
@@ -931,7 +1351,7 @@ async function init() {
   els.date.textContent = formatLongDateJP(new Date().toISOString());
   els.issue.textContent = buildIssueId(new Date().toISOString());
 
-  let latest = null, history = [], feeds = null, grants = null;
+  let latest = null, history = [], feeds = null, grants = null, companies = null, events = null;
   try { latest = await loadJson("/data/latest-draft.json"); }
   catch (err) { console.warn("[neuropulse] latest-draft.json unavailable:", err); }
   try { history = await loadJson("/data/drafts-history.json"); }
@@ -940,6 +1360,10 @@ async function init() {
   catch (err) { console.warn("[neuropulse] feeds.json unavailable:", err); }
   try { grants = await loadJson("/data/grants.json"); }
   catch (err) { console.warn("[neuropulse] grants.json unavailable:", err); }
+  try { companies = await loadJson("/data/companies.json"); }
+  catch (err) { console.warn("[neuropulse] companies.json unavailable:", err); }
+  try { events = await loadJson("/data/events.json"); }
+  catch (err) { console.warn("[neuropulse] events.json unavailable:", err); }
 
   if (feeds && feeds.generatedAt) {
     els.date.textContent = formatLongDateJP(feeds.generatedAt);
@@ -966,11 +1390,31 @@ async function init() {
     renderGrants();
     bindGrantFilters();
   }
+  // companies directory
+  if (companies && Array.isArray(companies.items)) {
+    companiesState.items = companies.items;
+    renderCompanies();
+    bindCompanyFilters();
+  }
+  // events timeline
+  if (events && Array.isArray(events.items)) {
+    eventsState.items = events.items;
+    renderEvents();
+    bindEventFilters();
+  }
+  // stats dashboard + chart
+  renderStats({ grants, companies, feeds });
+
   // archive
   renderArchive(allDrafts);
 
-  // search index
-  searchIndex = buildSearchIndex(feeds, allDrafts, grants?.items || []);
+  // search index — includes feeds + history + grants + companies + events
+  searchIndex = buildSearchIndex(
+    feeds, allDrafts,
+    grants?.items || [],
+    companies?.items || [],
+    events?.items || []
+  );
   bindSearch();
 
   // scrollspy + sticky
