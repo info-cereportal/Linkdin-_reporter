@@ -1,95 +1,113 @@
 // ═══════════════════════════════════════════════════════════════════
-//   CEREPORTAL · NEURO·DRAFT REPORTER — dashboard controller
-//   --------------------------------------------------------------------
-//   - boot sequence + reveal staging
-//   - generates 4-channel synthetic EEG hero traces (seamless loop)
-//   - drives the live frequency band meter (δθαβγ pseudo-oscillation)
-//   - mini status waveform animation
-//   - latest draft + archive log rendering
-//   - keyboard shortcut + clipboard with fallback
+// Cereportal Neuro Daily — front-end controller (news magazine)
+// ───────────────────────────────────────────────────────────────────
+// - loads /data/feeds.json, /data/latest-draft.json, /data/drafts-history.json
+// - hero (top story) + 4 category sections + editor's note + archive
+// - market/grants categories show headlines + source link only (copyright)
 // ═══════════════════════════════════════════════════════════════════
 
 const $ = (id) => document.getElementById(id);
 
+// Categories where we are licensed/permitted to show summaries.
+// Everything else (statnews / sciencedaily / techcrunch) is title + link only.
+const SUMMARY_OK = new Set(["papers", "aineuro", "bci"]);
+
+const CAT_LABEL = {
+  bci: "BCI",
+  papers: "論文",
+  aineuro: "AI for Neuro",
+  market: "産業ニュース",
+  grants: "助成金 / ライフサイエンス",
+};
+
+const CAT_KEYS = ["bci", "papers", "aineuro", "market", "grants"];
+
+// Sources we recognise — feeds back into the source badge color
+const KNOWN_SOURCES = new Set([
+  "arxiv.org",
+  "statnews.com",
+  "techcrunch.com",
+  "sciencedaily.com",
+  "spectrum.ieee.org",
+  "pubmed.ncbi.nlm.nih.gov",
+]);
+
 const els = {
-  // boot/state
   body: document.body,
-  statusLabel: $("status-label"),
-  heroState: $("hero-state"),
-  heroEpoch: $("hero-epoch"),
-  headerTime: $("header-time"),
-  // signal card
-  runId: $("run-id"),
-  template: $("latest-template"),
-  riskNum: $("latest-risk"),
-  riskBar: $("risk-bar"),
-  riskCell: document.querySelector(".risk-cell"),
-  time: $("latest-time"),
-  topic: $("latest-topic"),
-  text: $("latest-text"),
-  draftFrame: $("draft-frame"),
-  source: $("latest-source"),
-  paperLink: $("latest-paper"),
-  paperTitle: $("latest-paper-title"),
-  copyBtn: $("copy-btn"),
+  // masthead
+  date: $("masthead-date"),
+  issue: $("masthead-issue"),
+  status: $("status-label"),
+  // hero
+  poster: $("poster-svg"),
+  heroBadge: $("hero-badge"),
+  heroKicker: $("hero-kicker"),
+  heroHeadline: $("hero-headline-text"),
+  heroLink: $("hero-headline-link"),
+  heroDek: $("hero-dek"),
+  heroSource: $("hero-source"),
+  heroPublished: $("hero-published"),
+  heroRisk: $("hero-risk"),
+  heroLede: $("hero-lede"),
+  heroPaperBtn: $("hero-paper-btn"),
+  heroTime: $("hero-time"),
+  // editor's pick
+  editorsTemplate: $("editors-template"),
+  editorsTemplateName: $("editors-template-name"),
+  editorsPaperTitle: $("editors-paper-title"),
+  editorsAuthors: $("editors-authors"),
+  editorsKeywords: $("editors-keywords"),
+  editorsAbstract: $("editors-abstract"),
+  editorsAbstractCite: $("editors-abstract-cite"),
+  editorsNote: $("editors-note"),
+  // draft
+  draftCollapse: $("draft-collapse"),
+  draftText: $("draft-text"),
   paperBtn: $("paper-btn"),
-  // figure carousel
+  copyBtn: $("copy-btn"),
+  // figures
   figureStrip: $("figure-strip"),
   figureCount: $("figure-count"),
   figureList: $("figure-list"),
-  // paper metadata panel
-  posterSvg: $("poster-svg"),
-  paperSummary: $("paper-summary"),
-  paperAuthors: $("paper-authors"),
-  paperDate: $("paper-date"),
-  paperSourceTag: $("paper-source-tag"),
-  paperIdText: $("paper-id-text"),
-  paperTheme: $("paper-theme"),
-  paperKeywords: $("paper-keywords"),
-  paperAbstract: $("paper-abstract"),
   // archive
-  historyList: $("history-list"),
+  archiveList: $("archive-list"),
   archiveCount: $("archive-count"),
-  // waveforms
-  chFp1: $("ch-fp1"),
-  chCz: $("ch-cz"),
-  chOz: $("ch-oz"),
-  chT8: $("ch-t8"),
-  statusWavePath: $("status-wave-path"),
-  // brand spike
-  brandSpike: $("brand-spike"),
   // toast
   toast: $("toast"),
+  // accent
+  accentPath: $("eeg-accent-path"),
 };
 
 let currentDraft = null;
-let historyEntries = [];
 
-/* ════════ data loading ════════ */
-async function loadJson(path) {
-  const res = await fetch(`${path}?t=${Date.now()}`, { cache: "no-store" });
-  if (!res.ok) throw new Error(`HTTP ${res.status} for ${path}`);
-  return res.json();
-}
-
-/* ════════ formatting helpers ════════ */
+/* ────────── helpers ────────── */
 const pad = (n, w = 2) => String(n).padStart(w, "0");
 
-function formatLongTime(iso) {
-  if (!iso) return "—";
-  const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return iso;
-  return (
-    `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())} ` +
-    `${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`
-  );
+function safe(s) { return (s == null || s === "") ? "—" : s; }
+
+function escapeHtml(s) {
+  return String(s ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
 }
 
-function formatLogTime(iso) {
-  if (!iso) return "--/-- --:--";
-  const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return iso.slice(0, 10);
-  return `${pad(d.getMonth() + 1)}/${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+function escapeXml(s) {
+  return String(s ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
+function loadJson(path) {
+  return fetch(`${path}?t=${Date.now()}`, { cache: "no-store" }).then((r) => {
+    if (!r.ok) throw new Error(`HTTP ${r.status} for ${path}`);
+    return r.json();
+  });
 }
 
 function dayOfYear(d) {
@@ -97,356 +115,152 @@ function dayOfYear(d) {
   return Math.floor((d - start) / 86400000);
 }
 
-/** lab-style run identifier: #YYYY.DOY.HH */
-function buildRunId(iso) {
-  if (!iso) return "#----.---.--";
+function formatLongDateJP(iso) {
+  if (!iso) return "—";
   const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return "#----.---.--";
-  return `#${d.getFullYear()}.${pad(dayOfYear(d), 3)}.${pad(d.getHours())}`;
+  if (Number.isNaN(d.getTime())) return iso;
+  const days = ["日", "月", "火", "水", "木", "金", "土"];
+  return `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日（${days[d.getDay()]}） ${pad(d.getHours())}:${pad(d.getMinutes())} JST`;
+}
+
+function formatShortDate(iso) {
+  if (!iso) return "—";
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return String(iso).slice(0, 10);
+  return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+}
+
+function formatArchiveTime(iso) {
+  if (!iso) return "—";
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return String(iso).slice(0, 10);
+  return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())} · ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+}
+
+function buildIssueId(iso) {
+  if (!iso) return "VOL. — / ISSUE —";
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return "VOL. — / ISSUE —";
+  const vol = d.getFullYear() - 2025;
+  const issue = dayOfYear(d);
+  return `VOL. ${vol} · ISSUE ${pad(issue, 3)}`;
 }
 
 function riskTier(score) {
-  if (score <= 30) return "low";
-  if (score <= 60) return "mid";
+  const n = Number(score) || 0;
+  if (n <= 30) return "low";
+  if (n <= 60) return "mid";
   return "high";
 }
 
-/* ════════ EEG hero waveform generation ════════ */
-/*
- * Each channel path is generated in two halves with identical content,
- * making translateX(-50%) a seamless loop.
- *
- * The ViewBox is 1600 wide. We generate a path of length 3200 (2x), where
- * the second half is an exact copy of the first. CSS animates translateX
- * from 0 to -50%, looping forever with no visible seam.
- *
- * To make the path itself periodic, all sin components use frequencies
- * that complete an integer number of cycles within 1600 units.
- */
-
-const VB_WIDTH = 1600;
-const SAMPLES_PER_HALF = 320; // step ≈ 5px
-
-function generateChannelPath(baseY, freqs, noiseSeed) {
-  const step = VB_WIDTH / SAMPLES_PER_HALF;
-  const points = [];
-  const totalSamples = SAMPLES_PER_HALF * 2;
-
-  for (let i = 0; i <= totalSamples; i++) {
-    const x = i * step;
-    let y = baseY;
-
-    // sum of sines (each freq is integer cycles per VB_WIDTH for periodicity)
-    for (const { hz, amp, phase } of freqs) {
-      y += Math.sin((i / SAMPLES_PER_HALF) * hz * 2 * Math.PI + phase) * amp;
-    }
-
-    // periodic harmonic "noise" (also integer cycles → seamless)
-    y +=
-      Math.sin((i / SAMPLES_PER_HALF) * 7 * 2 * Math.PI + noiseSeed) * 1.4 +
-      Math.cos((i / SAMPLES_PER_HALF) * 13 * 2 * Math.PI + noiseSeed * 1.7) *
-        0.9;
-
-    points.push(`${x.toFixed(1)},${y.toFixed(1)}`);
-  }
-
-  return "M" + points.join(" L");
+/** stable slug for an archive item — keep in sync with build-articles.mjs */
+function archiveSlug(entry) {
+  if (!entry) return null;
+  const id = (entry.paperId || "").replace(/[^a-zA-Z0-9._-]/g, "_");
+  const ts = (entry.generatedAt || "").replace(/[^0-9]/g, "").slice(0, 12);
+  if (!id || !ts) return null;
+  return `${ts}-${id}`;
 }
 
-function paintHeroWaveforms() {
-  // Channel parameters chosen to evoke distinct EEG characteristics
-  // (frequencies are cycles-per-viewbox; visually, higher = more wiggly)
-  els.chFp1.setAttribute(
-    "d",
-    generateChannelPath(
-      35,
-      [
-        { hz: 8, amp: 11, phase: 0 },     // alpha-ish
-        { hz: 22, amp: 4, phase: 0.6 },   // beta
-        { hz: 4, amp: 5, phase: 1.2 },    // theta
-      ],
-      0.3
-    )
-  );
-
-  els.chCz.setAttribute(
-    "d",
-    generateChannelPath(
-      90,
-      [
-        { hz: 11, amp: 9, phase: 0.2 },   // mu
-        { hz: 18, amp: 5, phase: 0.9 },   // beta
-        { hz: 3, amp: 6, phase: 0.4 },    // slow
-      ],
-      1.1
-    )
-  );
-
-  els.chOz.setAttribute(
-    "d",
-    generateChannelPath(
-      145,
-      [
-        { hz: 10, amp: 14, phase: 0.5 },  // alpha (occipital strong)
-        { hz: 5, amp: 3, phase: 1.5 },
-      ],
-      2.4
-    )
-  );
-
-  els.chT8.setAttribute(
-    "d",
-    generateChannelPath(
-      195,
-      [
-        { hz: 2, amp: 12, phase: 0 },     // delta
-        { hz: 14, amp: 5, phase: 1.0 },   // beta
-        { hz: 6, amp: 4, phase: 2.1 },    // theta
-      ],
-      0.8
-    )
-  );
-}
-
-/* ════════ mini status waveform ════════ */
-let statusWaveT = 0;
-function tickStatusWave() {
-  statusWaveT += 0.08;
-  const samples = 24;
-  const w = 60;
-  const h = 14;
-  const step = w / (samples - 1);
+/* ────────── EEG accent (slim brand line) ────────── */
+function paintAccent() {
+  if (!els.accentPath) return;
+  const W = 1600;
+  const H = 14;
+  const samples = 320;
+  const seedPhase = (Date.now() / 4000) % (Math.PI * 2);
   let d = "M";
-  for (let i = 0; i < samples; i++) {
-    const x = i * step;
-    const phase = statusWaveT - i * 0.4;
+  for (let i = 0; i <= samples; i++) {
+    const t = i / samples;
+    const x = (t * W).toFixed(1);
+    const phase = t * Math.PI * 12 + seedPhase;
     const y =
-      h / 2 +
-      Math.sin(phase) * 3.2 +
-      Math.cos(phase * 2.3) * 1.4;
-    d += `${i === 0 ? "" : " L"}${x.toFixed(1)},${y.toFixed(2)}`;
+      H +
+      Math.sin(phase) * 5 +
+      Math.cos(phase * 2.3) * 2.8 +
+      Math.sin(phase * 0.7) * 1.6;
+    d += `${i === 0 ? "" : " L"}${x},${y.toFixed(1)}`;
   }
-  els.statusWavePath.setAttribute("d", d);
+  els.accentPath.setAttribute("d", d);
 }
 
-/* ════════ frequency band meter ════════ */
-const BANDS = ["delta", "theta", "alpha", "beta", "gamma"];
-
-const bandEls = BANDS.map((name) => {
-  const li = document.querySelector(`.fb[data-band="${name}"]`);
-  return {
-    name,
-    li,
-    fill: li.querySelector(".fb-fill"),
-    val: li.querySelector(".fb-val"),
-    /* unique phase + characteristic baseline so the bands feel distinct */
-    phase: Math.random() * Math.PI * 2,
-    speed: 0.3 + Math.random() * 0.4,
-    base: 0.45 + Math.random() * 0.25,
-  };
-});
-
-let bandT = 0;
-function tickBands(dt) {
-  bandT += dt;
-  for (const b of bandEls) {
-    // smooth pseudo-noise: base + slow sine + faster sine + tiny jitter
-    const slow = Math.sin(bandT * 0.0007 * b.speed + b.phase) * 0.18;
-    const fast =
-      Math.sin(bandT * 0.0023 * b.speed + b.phase * 1.3) * 0.09 +
-      Math.cos(bandT * 0.0041 + b.phase) * 0.05;
-    let v = b.base + slow + fast;
-    if (v < 0.05) v = 0.05;
-    if (v > 0.98) v = 0.98;
-    const pct = Math.round(v * 100);
-    b.fill.style.setProperty("--fb-pct", `${pct}%`);
-    b.val.textContent = `${pct.toString().padStart(2, "0")} dB`;
-  }
-}
-
-/* ════════ live header clock ════════ */
-function tickClock() {
-  const d = new Date();
-  els.headerTime.textContent =
-    `${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())} · ` +
-    `D${pad(dayOfYear(d), 3)}`;
-  els.heroEpoch.textContent =
-    `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())} · ` +
-    `${pad(d.getHours())}:${pad(d.getMinutes())} JST`;
-}
-
-/* ════════ brand mark spike (occasional firing) ════════ */
-function fireBrandSpike() {
-  const positions = [
-    { cx: 28, cy: 3 },
-    { cx: 53, cy: 28 },
-    { cx: 28, cy: 53 },
-    { cx: 3, cy: 28 },
-    { cx: 13, cy: 13 },
-    { cx: 43, cy: 13 },
-    { cx: 13, cy: 43 },
-    { cx: 43, cy: 43 },
-  ];
-  const p = positions[Math.floor(Math.random() * positions.length)];
-  els.brandSpike.setAttribute("cx", p.cx);
-  els.brandSpike.setAttribute("cy", p.cy);
-  els.brandSpike.style.transition = "none";
-  els.brandSpike.setAttribute("r", "0.5");
-  els.brandSpike.style.opacity = "1";
-  // animate to expanded then fade
-  requestAnimationFrame(() => {
-    els.brandSpike.style.transition = "r 0.3s ease, opacity 0.7s ease";
-    els.brandSpike.setAttribute("r", "5");
-    els.brandSpike.style.opacity = "0";
-  });
-}
-
-/* ════════ risk ring ════════ */
-function applyRiskRing(score) {
-  const tier = riskTier(score || 0);
-  const colorMap = {
-    low: "var(--risk-low)",
-    mid: "var(--risk-mid)",
-    high: "var(--risk-high)",
-  };
-  els.riskBar.style.setProperty("--risk-pct", String(score || 0));
-  els.riskBar.style.setProperty("--risk-color", colorMap[tier]);
-  els.riskCell.dataset.risk = tier;
-}
-
-/* count-up animation for risk number */
-function countUp(el, from, to, duration = 600) {
-  const start = performance.now();
-  const delta = to - from;
-  function step(now) {
-    const t = Math.min(1, (now - start) / duration);
-    // easeOutCubic
-    const eased = 1 - Math.pow(1 - t, 3);
-    el.textContent = String(Math.round(from + delta * eased));
-    if (t < 1) requestAnimationFrame(step);
-  }
-  requestAnimationFrame(step);
-}
-
-/* ════════ poster SVG generator (per-draft thumbnail) ════════ */
-function buildPosterSVG(draft) {
-  const tier = riskTier(Number(draft.riskScore) || 0);
+/* ────────── poster SVG (hero visual) ────────── */
+function buildPoster(draft) {
+  if (!draft) return "";
+  const tier = riskTier(draft.riskScore);
   const tierColor = { low: "#84a98c", mid: "#e9c46a", high: "#e76f51" }[tier];
-
-  const topic = (draft.topic || "—").trim();
-  // long topic → wrap
-  const topicLines = wrapText(topic, 14, 2);
+  const topic = String(draft.topic || draft.themeArea || "脳情報科学").trim();
+  const lines = wrap(topic, 14, 2);
   const theme = draft.themeArea || "脳情報科学";
-  const tmpl = draft.templateName || "";
-  const date = (draft.date || draft.generatedAt || "").slice(0, 10);
-  const score = Number(draft.riskScore) || 0;
-
-  // build small EEG-like sigil along the bottom for visual signature
-  const sigil = buildPosterSigil(440, 30, draft.generatedAt);
+  const date = formatShortDate(draft.date || draft.generatedAt);
+  const score = Math.round(Number(draft.riskScore) || 0);
+  const sigil = sigilPath(440, 30, draft.generatedAt || draft.paperId || "");
 
   return `
 <defs>
-  <linearGradient id="poster-bg" x1="0" y1="0" x2="1" y2="1">
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0%" stop-color="#161a20"/>
     <stop offset="100%" stop-color="#08090b"/>
   </linearGradient>
-  <radialGradient id="poster-glow" cx="0.85" cy="0.15" r="0.6">
+  <radialGradient id="glow" cx="0.85" cy="0.15" r="0.6">
     <stop offset="0%" stop-color="${tierColor}" stop-opacity="0.18"/>
     <stop offset="100%" stop-color="${tierColor}" stop-opacity="0"/>
   </radialGradient>
 </defs>
-
-<rect width="480" height="280" fill="url(#poster-bg)"/>
-<rect width="480" height="280" fill="url(#poster-glow)"/>
-
-<!-- frame corners -->
+<rect width="480" height="280" fill="url(#bg)"/>
+<rect width="480" height="280" fill="url(#glow)"/>
 <path d="M14,14 L14,4 L24,4" stroke="#cbc4af" stroke-width="1" fill="none" opacity="0.6"/>
 <path d="M466,266 L466,276 L456,276" stroke="#cbc4af" stroke-width="1" fill="none" opacity="0.6"/>
-
-<!-- top label -->
 <text x="22" y="34" font-family="JetBrains Mono, monospace" font-size="10"
-      letter-spacing="2.5" fill="#ff6b35" font-weight="500">[ CEREPORTAL · NEURO·DRAFT ]</text>
+      letter-spacing="2.5" fill="#e76f51" font-weight="500">[ CEREPORTAL · NEURO DAILY ]</text>
 <text x="458" y="34" font-family="JetBrains Mono, monospace" font-size="10"
-      letter-spacing="2" fill="#918a7a" text-anchor="end">${escapeXml(buildRunId(draft.generatedAt))}</text>
-
-<!-- divider -->
+      letter-spacing="2" fill="#918a7a" text-anchor="end">${escapeXml(date)}</text>
 <line x1="22" y1="46" x2="458" y2="46" stroke="#232831" stroke-dasharray="2 4"/>
-
-<!-- topic (large, serif) -->
-${topicLines
-  .map(
-    (line, i) =>
-      `<text x="22" y="${88 + i * 38}" font-family="Fraunces, serif"
-            font-size="32" font-weight="500" fill="#ede6d3"
-            font-style="italic" letter-spacing="-0.5">${escapeXml(line)}</text>`
-  )
-  .join("\n")}
-
-<!-- theme tag -->
-<rect x="22" y="${
-    98 + topicLines.length * 38
-  }" width="${Math.min(theme.length * 14 + 24, 280)}" height="22" fill="#161a20"
-      stroke="#00d9b8" stroke-opacity="0.5" rx="3"/>
-<text x="34" y="${
-    113 + topicLines.length * 38
-  }" font-family="Fraunces, serif" font-size="13" fill="#00d9b8" font-weight="500">${escapeXml(
-    theme
-  )}</text>
-
-<!-- bottom strip: sigil + risk + template -->
+${lines.map((l, i) => `<text x="22" y="${88 + i * 38}" font-family="Fraunces, serif"
+  font-size="32" font-weight="500" fill="#ede6d3" font-style="italic"
+  letter-spacing="-0.5">${escapeXml(l)}</text>`).join("\n")}
+<rect x="22" y="${98 + lines.length * 38}" width="${Math.min(theme.length * 14 + 24, 280)}" height="22"
+  fill="#161a20" stroke="#00d9b8" stroke-opacity="0.5" rx="3"/>
+<text x="34" y="${113 + lines.length * 38}" font-family="Fraunces, serif" font-size="13"
+  fill="#00d9b8" font-weight="500">${escapeXml(theme)}</text>
 <line x1="22" y1="222" x2="458" y2="222" stroke="#232831" stroke-dasharray="2 4"/>
-
 <g transform="translate(22, 234)">
-  <text font-family="JetBrains Mono, monospace" font-size="9"
-        letter-spacing="2" fill="#5e554a">SIGNAL</text>
-  <path d="${sigil}" fill="none" stroke="${tierColor}" stroke-width="1.2"
-        opacity="0.85" transform="translate(0, 6)"/>
+  <text font-family="JetBrains Mono, monospace" font-size="9" letter-spacing="2" fill="#5e554a">SIGNAL</text>
+  <path d="${sigil}" fill="none" stroke="${tierColor}" stroke-width="1.2" opacity="0.85" transform="translate(0, 6)"/>
 </g>
-
 <g transform="translate(360, 248)">
-  <text font-family="JetBrains Mono, monospace" font-size="9" letter-spacing="2"
-        fill="#5e554a">RISK</text>
+  <text font-family="JetBrains Mono, monospace" font-size="9" letter-spacing="2" fill="#5e554a">RISK</text>
   <text x="0" y="14" font-family="JetBrains Mono, monospace" font-size="22"
         fill="${tierColor}" font-weight="500">${score}</text>
-  <text x="32" y="14" font-family="JetBrains Mono, monospace" font-size="11"
-        fill="#5e554a">/100</text>
-</g>
-
-<text x="22" y="270" font-family="JetBrains Mono, monospace" font-size="9"
-      letter-spacing="2" fill="#5e554a">${escapeXml(date.toUpperCase())}  ·  ${escapeXml(
-    tmpl.toUpperCase()
-  )}</text>
-`;
+  <text x="32" y="14" font-family="JetBrains Mono, monospace" font-size="11" fill="#5e554a">/100</text>
+</g>`;
 }
 
-/** topic を wrap: ざっくり日本語 + 英語混在を想定し、文字数で改行 */
-function wrapText(s, perLine, maxLines) {
+function wrap(s, perLine, maxLines) {
   if (!s) return [""];
-  const lines = [];
+  const out = [];
   let cur = "";
-  // 日本語は1文字=1, 英字は0.6相当で計算
-  const weight = (c) => (/[　-鿿＀-￯]/.test(c) ? 1 : 0.55);
   let w = 0;
+  const weight = (c) => (/[　-鿿＀-￯]/.test(c) ? 1 : 0.55);
   for (const c of s) {
     cur += c;
     w += weight(c);
     if (w >= perLine) {
-      lines.push(cur);
+      out.push(cur);
       cur = "";
       w = 0;
-      if (lines.length === maxLines - 1) break;
+      if (out.length === maxLines - 1) break;
     }
   }
-  if (cur) lines.push(cur);
-  if (lines.length > maxLines) {
-    lines.length = maxLines;
-    lines[maxLines - 1] = lines[maxLines - 1].slice(0, -1) + "…";
+  if (cur) out.push(cur);
+  if (out.length > maxLines) {
+    out.length = maxLines;
+    out[maxLines - 1] = out[maxLines - 1].slice(0, -1) + "…";
   }
-  return lines;
+  return out;
 }
 
-/** 短い波形 sigil を生成 (decorativeなのでシードに依存) */
-function buildPosterSigil(width, height, seedSrc) {
+function sigilPath(width, height, seedSrc) {
   const seed = String(seedSrc || "")
     .split("")
     .reduce((a, c) => a + c.charCodeAt(0), 0);
@@ -467,64 +281,105 @@ function buildPosterSigil(width, height, seedSrc) {
   return d;
 }
 
-function escapeXml(s) {
-  return String(s || "")
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;")
-    .replace(/'/g, "&apos;");
+/* ────────── editorial dek (one-sentence summary) ────────── */
+function buildDek(draft) {
+  if (!draft) return "—";
+  const theme = draft.themeArea || "脳情報科学";
+  const tmpl = draft.templateName || "";
+  const dekMap = {
+    "data-driven": `データが裏づけた${theme}の新知見。`,
+    "paradigm-shift": `${theme}の前提を揺さぶる研究が登場した。`,
+    "three-insights": `${theme}の最新研究が示す三つの示唆。`,
+    "future-vision": `${theme}が描く次の地平を読み解く。`,
+    "neuro-ai-bridge": `神経科学とAIの境界を結び直す研究。`,
+    "provocative-question": `${theme}に投げかけられた、ひとつの問い。`,
+  };
+  return dekMap[tmpl] || `${theme}の最新動向をデイリーで読み解く。`;
 }
 
-/* ════════ render: paper metadata panel ════════ */
-function renderPaperMeta(draft) {
+function buildLede(draft) {
+  if (!draft) return "—";
+  const summary = draft.summaryJP || `${draft.themeArea || "脳情報科学"}の最新研究`;
+  const tmpl = draft.templateName || "";
+  const tmplLabel = {
+    "data-driven": "データドリブン",
+    "paradigm-shift": "パラダイムシフト",
+    "three-insights": "3つの示唆",
+    "future-vision": "未来予想",
+    "neuro-ai-bridge": "神経AI接続",
+    "provocative-question": "問題提起",
+  }[tmpl] || "編集ノート";
+  return `本日の編集ノートは「${summary}」。${tmplLabel}テンプレートで構成し、編集部の hedging ルールを通過した内容を、LinkedIn 配信用に整形してお届けします。`;
+}
+
+/* ────────── render: hero / top story ────────── */
+function renderHero(draft) {
   if (!draft) {
-    els.paperSummary.textContent = "—";
-    els.paperAuthors.textContent = "—";
-    els.paperDate.textContent = "—";
-    els.paperSourceTag.textContent = "—";
-    els.paperIdText.textContent = "—";
-    els.paperTheme.textContent = "—";
-    els.paperKeywords.innerHTML = "—";
-    els.paperAbstract.textContent = "—";
-    els.posterSvg.innerHTML = "";
+    els.heroHeadline.textContent = "本日のドラフトを取得しています…";
+    els.heroDek.textContent = "—";
+    return;
+  }
+  const score = Math.round(Number(draft.riskScore) || 0);
+  els.poster.innerHTML = buildPoster(draft);
+  els.heroBadge.textContent = (draft.themeArea || "脳情報科学").toUpperCase();
+  els.heroKicker.textContent = (draft.themeArea || "Neuroscience").toUpperCase();
+  els.heroHeadline.textContent = draft.summaryJP || draft.topic || draft.paperTitle || "—";
+  els.heroDek.textContent = buildDek(draft);
+  els.heroLede.textContent = buildLede(draft);
+  els.heroSource.textContent = (draft.paperSource || "—").toUpperCase();
+  els.heroPublished.textContent = formatShortDate(draft.publishedDate || draft.generatedAt);
+  els.heroRisk.textContent = String(score);
+  const heroRiskCell = els.heroRisk.closest(".risk-cell");
+  if (heroRiskCell) heroRiskCell.dataset.risk = riskTier(score);
+  els.heroTime.textContent = formatLongDateJP(draft.generatedAt);
+  if (draft.paperLink) {
+    els.heroPaperBtn.hidden = false;
+    els.heroPaperBtn.href = draft.paperLink;
+    els.heroLink.href = draft.paperLink;
+    els.heroLink.target = "_blank";
+    els.heroLink.rel = "noopener";
+  } else {
+    els.heroPaperBtn.hidden = true;
+  }
+}
+
+/* ────────── render: editor's pick / detail ────────── */
+function renderEditorial(draft) {
+  if (!draft) {
+    els.draftText.textContent =
+      "// no transmission yet\n" +
+      "// the next pipeline run (≤3h) will populate this section.";
+    els.copyBtn.disabled = true;
     return;
   }
 
-  els.paperSummary.textContent = draft.summaryJP || draft.topic || "—";
-  els.paperAuthors.textContent = draft.paperAuthors || "(著者情報なし)";
-  els.paperDate.textContent = draft.publishedDate || "—";
-
-  const src = draft.paperSource || "—";
-  els.paperSourceTag.textContent = src.toUpperCase();
-  els.paperIdText.textContent = draft.paperId || "—";
-
-  els.paperTheme.textContent = draft.themeArea || "—";
+  els.editorsTemplate.textContent = `TEMPLATE · ${(draft.templateName || "—").toUpperCase()}`;
+  els.editorsTemplateName.textContent = draft.templateName || "—";
+  els.editorsPaperTitle.textContent = draft.paperTitle || "—";
+  els.editorsAuthors.textContent = draft.paperAuthors || "(著者情報なし)";
 
   const kws = Array.isArray(draft.jpKeywords) ? draft.jpKeywords : [];
-  if (kws.length === 0) {
-    els.paperKeywords.innerHTML =
-      '<span style="color:var(--cream-4); font-family: var(--mono); font-size: 11px;">—</span>';
+  els.editorsKeywords.textContent = kws.length ? kws.slice(0, 8).join(" · ") : "—";
+
+  const abs = draft.abstractExcerpt || "(abstract not available)";
+  els.editorsAbstract.textContent = abs;
+  els.editorsAbstractCite.textContent =
+    `${(draft.paperSource || "source").toUpperCase()} · ${draft.paperId || "—"}`;
+
+  els.draftText.textContent = draft.formatted || "// draft body unavailable";
+  els.copyBtn.disabled = false;
+
+  if (draft.paperLink) {
+    els.paperBtn.hidden = false;
+    els.paperBtn.href = draft.paperLink;
   } else {
-    els.paperKeywords.innerHTML = "";
-    kws.slice(0, 8).forEach((kw, i) => {
-      const span = document.createElement("span");
-      span.className = "pm-keyword" + (i === 0 ? " signal" : "");
-      span.textContent = kw;
-      els.paperKeywords.appendChild(span);
-    });
+    els.paperBtn.hidden = true;
   }
 
-  els.paperAbstract.textContent =
-    draft.abstractExcerpt || "(abstract not available)";
-
-  // generate poster SVG
-  els.posterSvg.innerHTML = buildPosterSVG(draft);
+  renderFigures(draft);
 }
 
-/* ════════ render: figure carousel ════════ */
 function renderFigures(draft) {
-  // legacy support: use figureUrls if present, fall back to single figureUrl
   let figs = Array.isArray(draft?.figureUrls) ? draft.figureUrls : [];
   if (figs.length === 0 && draft?.figureUrl) figs = [draft.figureUrl];
 
@@ -533,169 +388,216 @@ function renderFigures(draft) {
     els.figureList.innerHTML = "";
     return;
   }
-
   els.figureStrip.hidden = false;
   els.figureCount.textContent = `${figs.length} extracted`;
   els.figureList.innerHTML = "";
-
   figs.forEach((url, i) => {
     const li = document.createElement("li");
     const img = document.createElement("img");
     img.src = url;
     img.alt = draft.paperTitle ? `${draft.paperTitle} — figure ${i + 1}` : `figure ${i + 1}`;
     img.loading = "lazy";
+    const cap = document.createElement("figcaption");
+    cap.textContent = `FIG. ${pad(i + 1)}`;
     img.onerror = () => {
       li.style.opacity = "0.4";
-      cap.textContent = `FIG. ${String(i + 1).padStart(2, "0")} — load failed`;
+      cap.textContent = `FIG. ${pad(i + 1)} — load failed`;
     };
-    const cap = document.createElement("figcaption");
-    cap.textContent = `FIG. ${String(i + 1).padStart(2, "0")}`;
     li.appendChild(img);
     li.appendChild(cap);
     els.figureList.appendChild(li);
   });
 }
 
-/* ════════ render: latest signal ════════ */
-function renderLatest(draft, opts = {}) {
-  const previousScore = currentDraft ? Number(currentDraft.riskScore) || 0 : 0;
-  currentDraft = draft;
-
-  if (!draft) {
-    els.text.textContent =
-      "// no transmission yet\n" +
-      "// the next GitHub Actions run (≤3h) will populate this dashboard.\n" +
-      "// data files: public/data/latest-draft.json, drafts-history.json";
-    els.copyBtn.disabled = true;
-    renderPaperMeta(null);
-    renderFigures(null);
-    return;
-  }
-
-  els.text.textContent = draft.formatted;
-  els.copyBtn.disabled = false;
-
-  els.runId.textContent = buildRunId(draft.generatedAt);
-  els.template.textContent = draft.templateName || "—";
-  els.time.textContent = formatLongTime(draft.generatedAt);
-  els.topic.textContent = draft.topic || "—";
-
-  const score = Number(draft.riskScore) || 0;
-  applyRiskRing(score);
-  countUp(els.riskNum, opts.skipCountUp ? score : previousScore, score, 700);
-
-  if (draft.paperLink) {
-    els.source.hidden = false;
-    els.paperLink.href = draft.paperLink;
-    els.paperTitle.textContent = draft.paperTitle || draft.paperLink;
-    els.paperBtn.hidden = false;
-    els.paperBtn.href = draft.paperLink;
-  } else {
-    els.source.hidden = true;
-    els.paperBtn.hidden = true;
-  }
-
-  renderPaperMeta(draft);
-  renderFigures(draft);
-
-  // scrub effect on draft change (skip on first render)
-  if (!opts.first) {
-    els.draftFrame.classList.remove("scrubbing");
-    void els.draftFrame.offsetWidth; // reflow to restart animation
-    els.draftFrame.classList.add("scrubbing");
-  }
+/* ────────── render: category grids ────────── */
+function sourceKey(rawSource) {
+  const s = String(rawSource || "").toLowerCase().replace(/^www\./, "");
+  return KNOWN_SOURCES.has(s) ? s : s || "source";
 }
 
-/* ════════ render: archive log ════════ */
-function renderHistory(entries) {
-  historyEntries = entries;
-  els.archiveCount.textContent = `${entries.length} entries`;
+function sourceLabel(rawSource) {
+  const k = sourceKey(rawSource);
+  const map = {
+    "arxiv.org": "arXiv",
+    "statnews.com": "STAT",
+    "techcrunch.com": "TechCrunch",
+    "sciencedaily.com": "ScienceDaily",
+    "spectrum.ieee.org": "IEEE Spectrum",
+    "pubmed.ncbi.nlm.nih.gov": "PubMed",
+  };
+  return map[k] || k.toUpperCase();
+}
 
-  if (entries.length === 0) {
-    els.historyList.innerHTML =
-      '<li class="log-empty"><span class="log-empty-mark">∅</span><span>awaiting archive…</span></li>';
+function readingMinutes(text) {
+  if (!text) return 0;
+  // mixed JP/EN: rough heuristic
+  const len = text.length;
+  // JP ≈ 600 cpm, EN ≈ 1100 cpm — use 800 average for mixed
+  const min = Math.max(1, Math.round(len / 600));
+  return min;
+}
+
+function renderCategory(catKey, category) {
+  const list = document.querySelector(`[data-list="${catKey}"]`);
+  const meta = document.querySelector(`[data-list-meta="${catKey}"]`);
+  if (!list) return;
+
+  list.innerHTML = "";
+  const items = (category && Array.isArray(category.items)) ? category.items : [];
+
+  if (meta) meta.textContent = `${items.length} articles`;
+
+  if (items.length === 0) {
+    const li = document.createElement("li");
+    li.className = "list-empty";
+    if (catKey === "bci" && category && category.error) {
+      li.classList.add("error");
+      li.textContent = `// BCI シグナル一致なし — フィードを更新中 (${category.error})`;
+    } else {
+      li.textContent = `// ${CAT_LABEL[catKey]} の取得待機中…`;
+    }
+    list.appendChild(li);
     return;
   }
 
-  els.historyList.innerHTML = "";
-  entries.forEach((entry, idx) => {
+  const showSummary = SUMMARY_OK.has(catKey);
+
+  items.forEach((it) => {
     const li = document.createElement("li");
-    li.className = "log-item";
-    if (idx === 0) li.classList.add("active");
-    li.dataset.index = String(idx);
 
-    const score = Number(entry.riskScore) || 0;
-    const tier = riskTier(score);
+    // ── kicker row: source badge + published time
+    const kicker = document.createElement("div");
+    kicker.className = "article-card-kicker";
 
-    const time = document.createElement("span");
-    time.className = "log-time";
-    time.textContent = formatLogTime(entry.generatedAt);
+    const badge = document.createElement("span");
+    badge.className = "source-badge";
+    badge.dataset.src = sourceKey(it.source);
+    badge.textContent = sourceLabel(it.source);
+    kicker.appendChild(badge);
 
-    const meta = document.createElement("span");
-    meta.className = "log-meta";
+    if (it.publishedDate) {
+      const dot = document.createElement("span");
+      dot.className = "kicker-dot";
+      dot.textContent = "·";
+      const t = document.createElement("span");
+      t.className = "kicker-time";
+      t.textContent = formatShortDate(it.publishedDate);
+      kicker.appendChild(dot);
+      kicker.appendChild(t);
+    }
+    li.appendChild(kicker);
+
+    // ── headline
+    const h = document.createElement("h3");
+    h.className = "article-card-title";
+    const a = document.createElement("a");
+    a.href = it.url || "#";
+    a.target = "_blank";
+    a.rel = "noopener";
+    a.textContent = it.title || "(no title)";
+    h.appendChild(a);
+    li.appendChild(h);
+
+    // ── summary (only when license permits)
+    if (showSummary && it.summary) {
+      const dek = document.createElement("p");
+      dek.className = "article-card-dek";
+      dek.textContent = it.summary;
+      li.appendChild(dek);
+    }
+
+    // ── byline row: author + reading time chip
+    const byline = document.createElement("div");
+    byline.className = "article-card-byline";
+    if (it.authors) {
+      const auth = document.createElement("span");
+      auth.className = "src";
+      auth.textContent = it.authors.length > 56 ? it.authors.slice(0, 52) + "…" : it.authors;
+      byline.appendChild(auth);
+    }
+    if (showSummary && it.summary) {
+      const meta = document.createElement("span");
+      meta.className = "article-card-meta";
+      const len = document.createElement("span");
+      len.className = "read-len";
+      len.textContent = `~${readingMinutes(it.summary)} MIN`;
+      meta.appendChild(len);
+      byline.appendChild(meta);
+    }
+    li.appendChild(byline);
+
+    list.appendChild(li);
+  });
+}
+
+function renderFeeds(feeds) {
+  if (!feeds || !feeds.categories) {
+    CAT_KEYS.forEach((k) => renderCategory(k, { items: [] }));
+    return;
+  }
+  CAT_KEYS.forEach((k) => renderCategory(k, feeds.categories[k] || { items: [] }));
+}
+
+/* ────────── render: archive ────────── */
+function renderArchive(entries) {
+  els.archiveCount.textContent = `${entries.length} entries`;
+  if (entries.length === 0) {
+    els.archiveList.innerHTML = '<li class="archive-empty">取得待機中…</li>';
+    return;
+  }
+  els.archiveList.innerHTML = "";
+  entries.slice(0, 30).forEach((e) => {
+    const li = document.createElement("li");
+
+    const t = document.createElement("span");
+    t.className = "archive-time";
+    t.textContent = formatArchiveTime(e.generatedAt);
 
     const topic = document.createElement("span");
-    topic.className = "log-topic";
-    topic.textContent = entry.topic || entry.paperTitle || "(no topic)";
+    topic.className = "archive-topic";
+    const slug = archiveSlug(e);
+    if (slug) {
+      const a = document.createElement("a");
+      a.href = `/article/${slug}.html`;
+      a.textContent = e.summaryJP || e.topic || e.paperTitle || "(no topic)";
+      topic.appendChild(a);
+    } else {
+      topic.textContent = e.summaryJP || e.topic || e.paperTitle || "(no topic)";
+    }
 
-    const tmpl = document.createElement("span");
-    tmpl.className = "log-template";
-    tmpl.textContent = entry.templateName || "—";
+    const score = Math.round(Number(e.riskScore) || 0);
+    const r = document.createElement("span");
+    r.className = "archive-risk";
+    r.dataset.risk = riskTier(score);
+    r.textContent = `RISK ${pad(score, 2)}`;
+    r.style.color =
+      r.dataset.risk === "high" ? "var(--risk-high)" :
+      r.dataset.risk === "mid" ? "var(--risk-mid)" : "var(--risk-low)";
 
-    meta.appendChild(topic);
-    meta.appendChild(tmpl);
-
-    const risk = document.createElement("span");
-    risk.className = "log-risk";
-    risk.dataset.risk = tier;
-    risk.textContent = String(score);
-
-    li.appendChild(time);
-    li.appendChild(meta);
-    li.appendChild(risk);
-
-    li.addEventListener("click", () => selectHistoryItem(idx));
-    li.addEventListener("keydown", (e) => {
-      if (e.key === "Enter" || e.key === " ") {
-        e.preventDefault();
-        selectHistoryItem(idx);
-      }
-    });
-    li.tabIndex = 0;
-    li.setAttribute("role", "button");
-    li.setAttribute("aria-label", `${entry.topic || "draft"} — risk ${score}`);
-
-    els.historyList.appendChild(li);
+    li.appendChild(t);
+    li.appendChild(topic);
+    li.appendChild(r);
+    els.archiveList.appendChild(li);
   });
 }
 
-function selectHistoryItem(idx) {
-  const entry = historyEntries[idx];
-  if (!entry) return;
-  renderLatest(entry);
-  document.querySelectorAll(".log-item").forEach((el, i) => {
-    el.classList.toggle("active", i === idx);
-  });
-  document
-    .getElementById("latest-section")
-    .scrollIntoView({ behavior: "smooth", block: "start" });
-}
-
-/* ════════ toast + copy ════════ */
-function showToast(msg) {
+/* ────────── toast + copy ────────── */
+function toast(msg) {
   els.toast.textContent = msg;
   els.toast.hidden = false;
-  clearTimeout(showToast._t);
-  showToast._t = setTimeout(() => {
-    els.toast.hidden = true;
+  els.toast.classList.add("show");
+  clearTimeout(toast._t);
+  toast._t = setTimeout(() => {
+    els.toast.classList.remove("show");
+    setTimeout(() => { els.toast.hidden = true; }, 240);
   }, 2200);
 }
 
 async function copyDraft() {
-  if (!currentDraft) return;
+  if (!currentDraft || !currentDraft.formatted) return;
   try {
     await navigator.clipboard.writeText(currentDraft.formatted);
-    showToast("✓ copied to clipboard");
+    toast("✓ ドラフトをコピーしました");
   } catch {
     const ta = document.createElement("textarea");
     ta.value = currentDraft.formatted;
@@ -705,9 +607,9 @@ async function copyDraft() {
     ta.select();
     try {
       document.execCommand("copy");
-      showToast("✓ copied to clipboard");
+      toast("✓ ドラフトをコピーしました");
     } catch {
-      showToast("⚠ copy failed");
+      toast("⚠ コピーに失敗しました");
     }
     document.body.removeChild(ta);
   }
@@ -725,182 +627,39 @@ function bindKeyboard() {
   });
 }
 
-/* ════════ animation loop ════════ */
-let lastFrame = performance.now();
-function animationLoop(now) {
-  const dt = now - lastFrame;
-  lastFrame = now;
-
-  tickStatusWave();
-  tickBands(dt);
-
-  requestAnimationFrame(animationLoop);
-}
-
-/* ════════ boot sequence ════════ */
-async function runBootSequence() {
-  // boot scan-line plays for 800ms via CSS
-  await new Promise((r) => setTimeout(r, 700));
-  els.body.classList.remove("booting");
-  els.statusLabel.textContent = "SIGNAL ACTIVE";
-  els.heroState.textContent = "ACTIVE";
-}
-
-/* ════════ feeds rendering ════════ */
-function formatFeedTime(iso) {
-  if (!iso) return "—/—";
-  const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return iso.slice(0, 10);
-  return `${pad(d.getMonth() + 1)}/${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
-}
-
-function feedItemDom(item) {
-  const a = document.createElement("a");
-  a.className = "fp-item";
-  a.href = item.url || "#";
-  a.target = "_blank";
-  a.rel = "noopener";
-
-  const head = document.createElement("div");
-  head.className = "fp-item-head";
-
-  const time = document.createElement("span");
-  time.className = "fp-item-time";
-  time.textContent = formatFeedTime(item.publishedDate);
-  head.appendChild(time);
-
-  if (item.source) {
-    const src = document.createElement("span");
-    src.className = "fp-item-source";
-    src.textContent = item.source;
-    head.appendChild(src);
-  }
-
-  const title = document.createElement("div");
-  title.className = "fp-item-title";
-  title.textContent = item.title || "(no title)";
-
-  a.appendChild(head);
-  a.appendChild(title);
-
-  if (item.summary) {
-    const sum = document.createElement("div");
-    sum.className = "fp-item-summary";
-    sum.textContent = item.summary;
-    a.appendChild(sum);
-  }
-
-  return a;
-}
-
-function renderFeedPanel(catKey, category) {
-  const panel = document.querySelector(`.feed-panel[data-cat="${catKey}"]`);
-  if (!panel) return;
-
-  const sub = panel.querySelector(".fp-sub");
-  const count = panel.querySelector(".fp-count");
-  const list = panel.querySelector(".fp-list");
-
-  sub.textContent = category.sublabel || "—";
-  count.textContent = `${category.itemCount || 0} items`;
-  list.innerHTML = "";
-
-  if (!category.items || category.items.length === 0) {
-    const li = document.createElement("li");
-    li.className = "fp-empty";
-    const mark = document.createElement("span");
-    mark.className = "fp-empty-mark";
-    mark.textContent = "∅";
-    li.appendChild(mark);
-    li.appendChild(document.createTextNode(category.error || "no items yet"));
-    if (catKey === "grants") {
-      const hint = document.createElement("span");
-      hint.className = "fp-empty-hint";
-      hint.textContent = "Tip: set FEED_GRANTS_URLS env var with AMED/JST/eRAD feeds";
-      li.appendChild(hint);
-    }
-    list.appendChild(li);
-    return;
-  }
-
-  category.items.forEach((it) => {
-    const li = document.createElement("li");
-    li.appendChild(feedItemDom(it));
-    list.appendChild(li);
-  });
-}
-
-function renderFeeds(feeds) {
-  const updatedEl = document.getElementById("feeds-updated");
-  const totalEl = document.getElementById("feeds-total");
-
-  if (!feeds || !feeds.categories) {
-    updatedEl.textContent = "no feed data";
-    totalEl.textContent = "—";
-    ["papers", "market", "grants", "aineuro"].forEach((k) =>
-      renderFeedPanel(k, { sublabel: "—", itemCount: 0, items: [] })
-    );
-    return;
-  }
-
-  const cats = feeds.categories;
-  const total = Object.values(cats).reduce(
-    (n, c) => n + (c.itemCount || 0),
-    0
-  );
-
-  updatedEl.textContent = `updated ${formatLongTime(feeds.generatedAt)}`;
-  totalEl.textContent = `${total} items`;
-
-  renderFeedPanel("papers", cats.papers);
-  renderFeedPanel("market", cats.market);
-  renderFeedPanel("grants", cats.grants);
-  renderFeedPanel("aineuro", cats.aineuro);
-}
-
-/* ════════ boot ════════ */
+/* ────────── boot ────────── */
 async function init() {
-  // immediate setup so viewing area looks alive even during boot
-  paintHeroWaveforms();
+  paintAccent();
+  setInterval(paintAccent, 4000);
 
   els.copyBtn.addEventListener("click", copyDraft);
 
-  // start animations early so they're already running when boot finishes
-  requestAnimationFrame(animationLoop);
-  tickClock();
-  setInterval(tickClock, 1000);
+  els.date.textContent = formatLongDateJP(new Date().toISOString());
+  els.issue.textContent = buildIssueId(new Date().toISOString());
 
-  // brand spike: occasional firing (every 4-7s)
-  setInterval(fireBrandSpike, 5500);
+  let latest = null, history = [], feeds = null;
+  try { latest = await loadJson("/data/latest-draft.json"); }
+  catch (err) { console.warn("[cereportal] latest-draft.json unavailable:", err); }
+  try { history = await loadJson("/data/drafts-history.json"); }
+  catch (err) { console.warn("[cereportal] drafts-history.json unavailable:", err); }
+  try { feeds = await loadJson("/data/feeds.json"); }
+  catch (err) { console.warn("[cereportal] feeds.json unavailable:", err); }
 
-  // run boot in parallel with data load
-  const bootPromise = runBootSequence();
-
-  let latest = null;
-  let history = [];
-  let feeds = null;
-  try {
-    latest = await loadJson("/data/latest-draft.json");
-  } catch (err) {
-    console.warn("[cereportal] latest-draft.json unavailable:", err);
-  }
-  try {
-    history = await loadJson("/data/drafts-history.json");
-  } catch (err) {
-    console.warn("[cereportal] drafts-history.json unavailable:", err);
-  }
-  try {
-    feeds = await loadJson("/data/feeds.json");
-  } catch (err) {
-    console.warn("[cereportal] feeds.json unavailable:", err);
+  if (feeds && feeds.generatedAt) {
+    els.date.textContent = formatLongDateJP(feeds.generatedAt);
+    els.issue.textContent = buildIssueId(feeds.generatedAt);
+  } else if (latest && latest.generatedAt) {
+    els.date.textContent = formatLongDateJP(latest.generatedAt);
+    els.issue.textContent = buildIssueId(latest.generatedAt);
   }
 
-  await bootPromise;
+  els.status.textContent = latest ? "LIVE — updated" : "STANDBY";
 
+  currentDraft = latest;
+  renderHero(latest);
+  renderEditorial(latest);
   renderFeeds(feeds);
-  renderLatest(latest, { first: true, skipCountUp: true });
-  renderHistory(Array.isArray(history) ? history : []);
-
+  renderArchive(Array.isArray(history) ? history : []);
   bindKeyboard();
 }
 

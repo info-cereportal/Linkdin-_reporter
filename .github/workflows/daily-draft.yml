@@ -47,8 +47,15 @@ jobs:
           FEED_MARKET_URLS: ${{ secrets.FEED_MARKET_URLS }}
           FEED_GRANTS_URLS: ${{ secrets.FEED_GRANTS_URLS }}
           FEED_AINEURO_URLS: ${{ secrets.FEED_AINEURO_URLS }}
+          FEED_BCI_URLS: ${{ secrets.FEED_BCI_URLS }}
           FEED_MAX_ITEMS: ${{ vars.FEED_MAX_ITEMS }}
+          BIAS_BCI_PICK: ${{ vars.BIAS_BCI_PICK }}
         run: node dist/daily-run.js
+
+      - name: Build static article pages, sitemap & robots
+        env:
+          SITE_ORIGIN: ${{ vars.SITE_ORIGIN || 'https://eegbugckets.web.app' }}
+        run: npm run build:web
 
       - name: Commit history & web data
         run: |
@@ -57,7 +64,10 @@ jobs:
           git add .daily-history.json \
                   public/data/latest-draft.json \
                   public/data/drafts-history.json \
-                  public/data/feeds.json 2>/dev/null || true
+                  public/data/feeds.json \
+                  public/article \
+                  public/sitemap.xml \
+                  public/robots.txt 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

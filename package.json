@@ -17,7 +17,8 @@
     "trend:check": "npm --prefix trend-reporter run check",
     "trend:collect": "npm --prefix trend-reporter run collect --",
     "configure:github": "npm --prefix trend-reporter run configure:github --",
-    "configure:firebase": "npm --prefix trend-reporter run configure:firebase --"
+    "configure:firebase": "npm --prefix trend-reporter run configure:firebase --",
+    "build:web": "node scripts/build-articles.mjs"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.0",

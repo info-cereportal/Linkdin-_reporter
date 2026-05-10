@@ -171,14 +171,53 @@ const RELEVANCE_KEYWORDS = [
   "default mode", "amygdala", "cognition", "neuroscience", "behavior",
 ];
 
+/**
+ * BCI / ニューラルインターフェース系の優先キーワード。
+ * ヒットした論文はベース関連度に追加で大きなボーナスを得る。
+ * BIAS_BCI_PICK=0 を設定すれば優先度を無効化できる。
+ */
+const BCI_PRIORITY_KEYWORDS = [
+  "brain-computer interface",
+  "brain computer interface",
+  "brain-machine interface",
+  "neural interface",
+  "neuralink",
+  "synchron",
+  "neuroprosth",
+  "neurofeedback",
+  "intracortical",
+  "ecog",
+  "ieeg",
+  "motor cortex decod",
+  "motor decod",
+  "p300",
+  "ssvep",
+  "closed-loop",
+  "spike sorting",
+];
+
+const BCI_PRIORITY_BONUS_TITLE = 12;
+const BCI_PRIORITY_BONUS_ABSTRACT = 6;
+
 function scorePaper(paper: PaperInfo): number {
-  const text = `${paper.title} ${paper.abstract}`.toLowerCase();
+  const titleLower = paper.title.toLowerCase();
+  const abstractLower = paper.abstract.toLowerCase();
+  const text = `${titleLower} ${abstractLower}`;
   let score = 0;
 
   // キーワードマッチ（タイトルは2倍重み）
   for (const kw of RELEVANCE_KEYWORDS) {
-    if (paper.title.toLowerCase().includes(kw)) score += 2;
-    if (paper.abstract.toLowerCase().includes(kw)) score += 1;
+    if (titleLower.includes(kw)) score += 2;
+    if (abstractLower.includes(kw)) score += 1;
+  }
+
+  // BCI 系の優先ボーナス (BIAS_BCI_PICK=0 で無効化可能)
+  const bciBias = Number(process.env.BIAS_BCI_PICK ?? "1");
+  if (bciBias > 0) {
+    for (const kw of BCI_PRIORITY_KEYWORDS) {
+      if (titleLower.includes(kw)) score += BCI_PRIORITY_BONUS_TITLE * bciBias;
+      else if (abstractLower.includes(kw)) score += BCI_PRIORITY_BONUS_ABSTRACT * bciBias;
+    }
   }
 
   // abstract が充実しているほど高スコア
@@ -324,7 +363,7 @@ export async function runDailyPipeline(): Promise<DailyResult> {
     console.error("⚠️  公開JSONの書き出しに失敗しました:", error);
   }
 
-  console.log("📡 フィード集約 (papers / market / grants / aineuro) ...");
+  console.log("📡 フィード集約 (papers / market / grants / aineuro / bci) ...");
   try {
     const feeds = await aggregateFeeds();
     await writeJson(resolve(config.publicDataDir, "feeds.json"), feeds);

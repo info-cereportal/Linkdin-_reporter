@@ -1,14 +1,16 @@
 /**
- * フィード集約 — 4 カテゴリの最新情報を取得して 1 つの JSON にまとめる
+ * フィード集約 — 5 カテゴリの最新情報を取得して 1 つの JSON にまとめる
  *
  * カテゴリ:
  *   - papers   : 最新論文 (arXiv q-bio.NC など)
  *   - market   : 脳情報マーケティング・産業動向 (IEEE Spectrum, Stat News など)
  *   - grants   : eRAD・助成金・公募情報 (NIH, AMED, JST など)
  *   - aineuro  : AI for Neuroscience クロス研究 (arXiv cs.NE / cs.LG など)
+ *   - bci      : ブレイン・コンピュータ・インターフェース (TechCrunch / arXiv eess.SP / cs.HC)
  *
  * 各カテゴリの RSS URL は環境変数で上書き可能:
- *   FEED_PAPERS_URLS  / FEED_MARKET_URLS / FEED_GRANTS_URLS / FEED_AINEURO_URLS
+ *   FEED_PAPERS_URLS  / FEED_MARKET_URLS / FEED_GRANTS_URLS
+ *   FEED_AINEURO_URLS / FEED_BCI_URLS
  *   (カンマ区切り)
  */
 
@@ -44,6 +46,7 @@ export interface FeedAggregation {
     market: FeedCategory;
     grants: FeedCategory;
     aineuro: FeedCategory;
+    bci: FeedCategory;
   };
 }
 
@@ -67,6 +70,15 @@ const DEFAULTS = {
     "https://rss.arxiv.org/rss/cs.NE",
     "https://rss.arxiv.org/rss/q-bio.NC",
   ],
+  // BCI / ニューラルインターフェース系
+  // - TechCrunch BCI タグ: 産業ニュース寄り (Neuralink, Synchron 等)
+  // - arXiv eess.SP: EEG/iEEG 信号処理研究
+  // - arXiv cs.HC: BCI を含むヒューマン・コンピュータ・インタラクション
+  bci: [
+    "https://techcrunch.com/tag/brain-computer-interface/feed/",
+    "https://rss.arxiv.org/rss/eess.SP",
+    "https://rss.arxiv.org/rss/cs.HC",
+  ],
 };
 
 const LABELS = {
@@ -74,7 +86,32 @@ const LABELS = {
   market: "MARKET / 産業動向",
   grants: "GRANTS / eRAD・助成金",
   aineuro: "AI for NEURO",
+  bci: "BCI / ニューラルインターフェース",
 };
+
+// BCI 関連シグナルワード — フィード後段で重み付けスコアリングに利用
+const BCI_KEYWORDS = [
+  "brain-computer interface",
+  "brain computer interface",
+  "brain-machine interface",
+  "neural interface",
+  "neurofeedback",
+  "neuroprosth",
+  "neuralink",
+  "synchron",
+  "blackrock neurotech",
+  "motor cortex decod",
+  "p300",
+  "ssvep",
+  "eeg",
+  "ecog",
+  "ieeg",
+  "spike sorting",
+  "closed-loop",
+  "intracortical",
+  "bci",
+  "bmi",
+];
 
 // ────────────────────────────────────────────
 // ヘルパー
@@ -162,21 +199,60 @@ async function fetchCategory(
 // メイン
 // ────────────────────────────────────────────
 
+/** BCI シグナルが含まれるかどうかでアイテムをスコア化 (高いほど BCI 関連) */
+function bciScore(it: FeedItem): number {
+  const haystack = `${it.title} ${it.summary}`.toLowerCase();
+  let score = 0;
+  for (const kw of BCI_KEYWORDS) {
+    if (haystack.includes(kw)) score += kw.length >= 5 ? 2 : 1;
+  }
+  return score;
+}
+
+/** BCI カテゴリは取得後にキーワードスコアでフィルタ + 並び替え */
+function rankBciItems(items: FeedItem[], maxItems: number): FeedItem[] {
+  const scored = items
+    .map((it) => ({ it, score: bciScore(it), t: parsePubDate(it.publishedDate) }))
+    // BCI シグナル 0 を除外 (eess.SP / cs.HC には BCI 以外の研究も多い)
+    .filter((s) => s.score > 0);
+
+  scored.sort((a, b) => {
+    if (b.score !== a.score) return b.score - a.score;
+    return b.t - a.t;
+  });
+
+  return scored.slice(0, maxItems).map((s) => s.it);
+}
+
 export async function aggregateFeeds(): Promise<FeedAggregation> {
   const config = {
     papers: envUrls("FEED_PAPERS_URLS", DEFAULTS.papers),
     market: envUrls("FEED_MARKET_URLS", DEFAULTS.market),
     grants: envUrls("FEED_GRANTS_URLS", DEFAULTS.grants),
     aineuro: envUrls("FEED_AINEURO_URLS", DEFAULTS.aineuro),
+    bci: envUrls("FEED_BCI_URLS", DEFAULTS.bci),
   };
   const maxItems = Number(process.env.FEED_MAX_ITEMS) || 6;
 
-  const [papers, market, grants, aineuro] = await Promise.all([
+  // BCI は arXiv 2 ソースから多めに取得 → 後でスコアでランキング
+  const bciFetchCap = Math.max(maxItems * 4, 24);
+
+  const [papers, market, grants, aineuro, bciRaw] = await Promise.all([
     fetchCategory(config.papers, maxItems),
     fetchCategory(config.market, maxItems),
     fetchCategory(config.grants, maxItems),
     fetchCategory(config.aineuro, maxItems),
+    fetchCategory(config.bci, bciFetchCap),
   ]);
+
+  const bci = {
+    items: rankBciItems(bciRaw.items, maxItems),
+    error:
+      bciRaw.error ||
+      (bciRaw.items.length > 0 && bciRaw.items.every((it) => bciScore(it) === 0)
+        ? "no BCI-keyword match in fetched feed"
+        : undefined),
+  };
 
   const buildCategory = (
     key: keyof typeof config,
@@ -201,6 +277,7 @@ export async function aggregateFeeds(): Promise<FeedAggregation> {
       market: buildCategory("market", market),
       grants: buildCategory("grants", grants),
       aineuro: buildCategory("aineuro", aineuro),
+      bci: buildCategory("bci", bci),
     },
   };
 }
