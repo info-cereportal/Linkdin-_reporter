@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "lastUpdated": "2026-05-10",
+  "note": "BCI / 脳科学領域の主要学会と公募締切を統合した時系列イベント。日付・会場は変更されることがあるため公式サイトでご確認ください。",
+  "items": [
+    {
+      "id": "cosyne-2026",
+      "type": "conference",
+      "title": "Cosyne 2026 — Computational and Systems Neuroscience",
+      "startDate": "2026-03-12",
+      "endDate": "2026-03-17",
+      "location": "Mont Tremblant, Canada",
+      "url": "https://www.cosyne.org/",
+      "tags": ["computational", "systems", "academic"],
+      "summary": "計算・システム神経科学の中核学会。理論・実験の両者が集う約 800 名規模の招待制ミーティング。"
+    },
+    {
+      "id": "bci-society-2026",
+      "type": "conference",
+      "title": "10th International BCI Meeting 2026",
+      "startDate": "2026-06-08",
+      "endDate": "2026-06-12",
+      "location": "Brussels, Belgium",
+      "url": "https://bcisociety.org/bci-meeting-2026/",
+      "tags": ["BCI", "society", "main-event"],
+      "summary": "BCI Society 主催の 2 年に 1 度の中核会議。臨床・基礎・産業の研究者が一堂に会する BCI 領域最大の場。"
+    },
+    {
+      "id": "ieee-embc-2026",
+      "type": "conference",
+      "title": "IEEE EMBC 2026 — Engineering in Medicine & Biology",
+      "startDate": "2026-07-13",
+      "endDate": "2026-07-17",
+      "location": "Tokyo, Japan",
+      "url": "https://embc.embs.org/2026/",
+      "tags": ["IEEE", "biomedical", "Japan"],
+      "summary": "IEEE EMBS が主催する医工学最大級の国際会議。BCI / 神経工学トラックが充実、東京開催で日本コミュニティ参加機会大。"
+    },
+    {
+      "id": "ieee-ner-2026",
+      "type": "conference",
+      "title": "IEEE-NER 2026 (Neural Engineering)",
+      "startDate": "2026-04-14",
+      "endDate": "2026-04-17",
+      "location": "Vienna, Austria",
+      "url": "https://neuro.embs.org/",
+      "tags": ["IEEE", "neural engineering"],
+      "summary": "ニューラルエンジニアリング専門の隔年学会。植込み型 BCI / 刺激デバイス研究の登竜門的存在。"
+    },
+    {
+      "id": "sfn-2026",
+      "type": "conference",
+      "title": "Society for Neuroscience (SfN) 2026",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-11",
+      "location": "San Diego, CA, USA",
+      "url": "https://www.sfn.org/meetings/neuroscience-2026",
+      "tags": ["neuroscience", "main-event", "USA"],
+      "summary": "世界最大の神経科学会、3 万人以上の参加者。BCI セッションも多数、ネットワーキングの中核。"
+    },
+    {
+      "id": "neurips-2026",
+      "type": "conference",
+      "title": "NeurIPS 2026",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-12",
+      "location": "Vancouver, Canada",
+      "url": "https://neurips.cc/",
+      "tags": ["AI", "machine learning", "neuro AI"],
+      "summary": "機械学習トップ会議。NeurIPS Workshop on AI for Neuroscience / BCI 関連の動向確認に必須。"
+    },
+    {
+      "id": "ohbm-2026",
+      "type": "conference",
+      "title": "OHBM 2026 — Organization for Human Brain Mapping",
+      "startDate": "2026-06-21",
+      "endDate": "2026-06-25",
+      "location": "Toronto, Canada",
+      "url": "https://www.humanbrainmapping.org/",
+      "tags": ["fMRI", "imaging", "human"],
+      "summary": "ヒト脳マッピング国際学会。fMRI / EEG / MEG の最先端解析手法と BCI 応用の議論。"
+    },
+    {
+      "id": "ibro-2027",
+      "type": "conference",
+      "title": "IBRO World Congress of Neuroscience 2027",
+      "startDate": "2027-09-26",
+      "endDate": "2027-09-30",
+      "location": "Granada, Spain",
+      "url": "https://ibro2027.org",
+      "tags": ["neuroscience", "global"],
+      "summary": "国際脳研究機構による 4 年に一度の世界会議。発表募集は 2026 年後半開始予定。"
+    },
+    {
+      "id": "iclr-2027",
+      "type": "conference",
+      "title": "ICLR 2027",
+      "startDate": "2027-04-26",
+      "endDate": "2027-04-30",
+      "location": "TBD",
+      "url": "https://iclr.cc/",
+      "tags": ["AI", "machine learning"],
+      "summary": "表現学習トップ会議。Brain-AI クロスオーバー研究の発表場所として年々重要度向上。"
+    },
+    {
+      "id": "neurotechx-summit-2026",
+      "type": "industry",
+      "title": "NeurotechX Industry Summit 2026",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-26",
+      "location": "Boston, MA, USA",
+      "url": "https://neurotechx.com/",
+      "tags": ["industry", "startup", "BCI"],
+      "summary": "ニューロテック領域のスタートアップ・投資家・研究者が集う産業サミット。最新資金調達動向・規制トレンド情報源。"
+    },
+    {
+      "id": "deadline-jst-sakigake-2026",
+      "type": "deadline",
+      "title": "JST さきがけ「Brain-X」応募締切",
+      "startDate": "2026-06-05",
+      "endDate": "2026-06-05",
+      "location": "Online (Japan)",
+      "url": "https://www.jst.go.jp/kisoken/presto/",
+      "tags": ["grant", "deadline", "Japan", "young PI"],
+      "summary": "若手 PI 個人型グラント (BCI 含む) の応募締切。grants DB と連携。",
+      "linkedGrantId": "jst-sakigake-bci-2026"
+    },
+    {
+      "id": "deadline-jst-crest-2026",
+      "type": "deadline",
+      "title": "JST CREST「人とインタラクションの未来」応募締切",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-12",
+      "location": "Online (Japan)",
+      "url": "https://www.jst.go.jp/kisoken/crest/",
+      "tags": ["grant", "deadline", "Japan", "team"],
+      "summary": "1.5–5 億円 / 5.5 年のチーム型グラント締切。",
+      "linkedGrantId": "jst-crest-brain-2026"
+    },
+    {
+      "id": "deadline-amed-startup-2026",
+      "type": "deadline",
+      "title": "AMED スタートアップ・橋渡し研究 応募締切",
+      "startDate": "2026-08-22",
+      "endDate": "2026-08-22",
+      "location": "Online (Japan)",
+      "url": "https://www.amed.go.jp/program/list/12/",
+      "tags": ["grant", "deadline", "Japan", "startup"],
+      "summary": "大学発スタートアップ向け橋渡しプログラム締切。",
+      "linkedGrantId": "amed-startup-bridge-2026"
+    },
+    {
+      "id": "deadline-nih-brain-u01-2026",
+      "type": "deadline",
+      "title": "NIH BRAIN Initiative U01 — Targeted BCI deadline",
+      "startDate": "2026-06-04",
+      "endDate": "2026-06-04",
+      "location": "Online (USA)",
+      "url": "https://braininitiative.nih.gov/",
+      "tags": ["grant", "deadline", "USA", "BCI"],
+      "summary": "NIH BRAIN Initiative U01 の標準応募締切。",
+      "linkedGrantId": "nih-brain-u01-2026"
+    },
+    {
+      "id": "deadline-darpa-n3-2026",
+      "type": "deadline",
+      "title": "DARPA N3 Phase 3 BAA closing",
+      "startDate": "2026-08-30",
+      "endDate": "2026-08-30",
+      "location": "Online (USA)",
+      "url": "https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology",
+      "tags": ["grant", "deadline", "USA", "DARPA"],
+      "summary": "非外科的次世代ニューロテクノロジー Phase 3 BAA 応募締切。",
+      "linkedGrantId": "darpa-n3-2026"
+    },
+    {
+      "id": "deadline-eu-horizon-cluster1-2026",
+      "type": "deadline",
+      "title": "EU Horizon Europe Cluster 1 (Health) — Brain & Mental Health",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-12",
+      "location": "Online (EU)",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home",
+      "tags": ["grant", "deadline", "EU"],
+      "summary": "Horizon Europe コンソーシアム公募締切。",
+      "linkedGrantId": "eu-horizon-cluster1-2026"
+    }
+  ]
+}
