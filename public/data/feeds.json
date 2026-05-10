@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T07:33:42.872Z",
+  "generatedAt": "2026-05-10T07:55:57.869Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,6 +69,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists discover the brain’s hidden “stop scratching” switch",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260509210654.htm",
+          "publishedDate": "Sun, 10 May 2026 03:08:07 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a hidden “stop-scratching” signal in the nervous system that tells your brain when enough scratching is enough. The discovery centers on a molecule called TRPV4, which acts like part of an internal braking system…",
+          "authors": ""
+        },
+        {
           "title": "Scientists reversed liver aging with young gut bacteria in stunning study",
           "url": "https://www.sciencedaily.com/releases/2026/05/260509210643.htm",
           "publishedDate": "Sat, 09 May 2026 22:58:28 EDT",
@@ -106,14 +114,6 @@
           "publishedDate": "Sat, 09 May 2026 01:04:19 EDT",
           "source": "sciencedaily.com",
           "summary": "Scientists studying axolotls, zebrafish, and mice have uncovered a shared set of genes that may one day help humans regrow lost limbs. By identifying powerful “SP genes” involved in regeneration, researchers discovered that disabling these…",
-          "authors": ""
-        },
-        {
-          "title": "New obesity discovery rewrites decades of fat science",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260508171123.htm",
-          "publishedDate": "Fri, 08 May 2026 17:21:20 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a surprising secret hidden inside fat cells that could reshape how we think about obesity and metabolic disease. A protein called HSL, long believed to simply release stored fat when the body needs energy, turns…",
           "authors": ""
         }
       ]
