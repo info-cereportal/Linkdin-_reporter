@@ -208,7 +208,7 @@ function buildPoster(draft) {
 <path d="M14,14 L14,4 L24,4" stroke="#cbc4af" stroke-width="1" fill="none" opacity="0.6"/>
 <path d="M466,266 L466,276 L456,276" stroke="#cbc4af" stroke-width="1" fill="none" opacity="0.6"/>
 <text x="22" y="34" font-family="JetBrains Mono, monospace" font-size="10"
-      letter-spacing="2.5" fill="#e76f51" font-weight="500">[ CEREPORTAL · NEURO DAILY ]</text>
+      letter-spacing="2.5" fill="#e76f51" font-weight="500">[ NEUROPULSE · BCI &amp; NEUROSCIENCE DAILY ]</text>
 <text x="458" y="34" font-family="JetBrains Mono, monospace" font-size="10"
       letter-spacing="2" fill="#918a7a" text-anchor="end">${escapeXml(date)}</text>
 <line x1="22" y1="46" x2="458" y2="46" stroke="#232831" stroke-dasharray="2 4"/>
