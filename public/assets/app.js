@@ -60,11 +60,7 @@ const els = {
   editorsAbstract: $("editors-abstract"),
   editorsAbstractCite: $("editors-abstract-cite"),
   editorsNote: $("editors-note"),
-  // draft
-  draftCollapse: $("draft-collapse"),
-  draftText: $("draft-text"),
   paperBtn: $("paper-btn"),
-  copyBtn: $("copy-btn"),
   // figures
   figureStrip: $("figure-strip"),
   figureCount: $("figure-count"),
@@ -309,7 +305,7 @@ function buildLede(draft) {
     "neuro-ai-bridge": "神経AI接続",
     "provocative-question": "問題提起",
   }[tmpl] || "編集ノート";
-  return `本日の編集ノートは「${summary}」。${tmplLabel}テンプレートで構成し、編集部の hedging ルールを通過した内容を、LinkedIn 配信用に整形してお届けします。`;
+  return `本日の注目記事は「${summary}」。${tmplLabel}テンプレートで構成し、編集部の hedging ルールを通過した内容を、独自の解説とともにお届けします。`;
 }
 
 /* ────────── render: hero / top story ────────── */
@@ -345,13 +341,7 @@ function renderHero(draft) {
 
 /* ────────── render: editor's pick / detail ────────── */
 function renderEditorial(draft) {
-  if (!draft) {
-    els.draftText.textContent =
-      "// no transmission yet\n" +
-      "// the next pipeline run (≤3h) will populate this section.";
-    els.copyBtn.disabled = true;
-    return;
-  }
+  if (!draft) return;
 
   els.editorsTemplate.textContent = `TEMPLATE · ${(draft.templateName || "—").toUpperCase()}`;
   els.editorsTemplateName.textContent = draft.templateName || "—";
@@ -365,9 +355,6 @@ function renderEditorial(draft) {
   els.editorsAbstract.textContent = abs;
   els.editorsAbstractCite.textContent =
     `${(draft.paperSource || "source").toUpperCase()} · ${draft.paperId || "—"}`;
-
-  els.draftText.textContent = draft.formatted || "// draft body unavailable";
-  els.copyBtn.disabled = false;
 
   if (draft.paperLink) {
     els.paperBtn.hidden = false;
@@ -593,46 +580,10 @@ function toast(msg) {
   }, 2200);
 }
 
-async function copyDraft() {
-  if (!currentDraft || !currentDraft.formatted) return;
-  try {
-    await navigator.clipboard.writeText(currentDraft.formatted);
-    toast("✓ ドラフトをコピーしました");
-  } catch {
-    const ta = document.createElement("textarea");
-    ta.value = currentDraft.formatted;
-    ta.style.position = "fixed";
-    ta.style.opacity = "0";
-    document.body.appendChild(ta);
-    ta.select();
-    try {
-      document.execCommand("copy");
-      toast("✓ ドラフトをコピーしました");
-    } catch {
-      toast("⚠ コピーに失敗しました");
-    }
-    document.body.removeChild(ta);
-  }
-}
-
-function bindKeyboard() {
-  document.addEventListener("keydown", (e) => {
-    if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "c") {
-      const sel = window.getSelection();
-      if (sel && sel.toString().length > 0) return;
-      if (!currentDraft) return;
-      e.preventDefault();
-      copyDraft();
-    }
-  });
-}
-
 /* ────────── boot ────────── */
 async function init() {
   paintAccent();
   setInterval(paintAccent, 4000);
-
-  els.copyBtn.addEventListener("click", copyDraft);
 
   els.date.textContent = formatLongDateJP(new Date().toISOString());
   els.issue.textContent = buildIssueId(new Date().toISOString());
@@ -660,7 +611,6 @@ async function init() {
   renderEditorial(latest);
   renderFeeds(feeds);
   renderArchive(Array.isArray(history) ? history : []);
-  bindKeyboard();
 }
 
 init();

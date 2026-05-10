@@ -146,7 +146,6 @@ function articlePageHtml(entry) {
   const score = Math.round(Number(entry.riskScore) || 0);
   const note = commentary(entry);
   const abs = entry.abstractExcerpt || "";
-  const formatted = entry.formatted || "";
   const paperLink = entry.paperLink || "";
   const paperTitle = entry.paperTitle || "";
   const authors = entry.paperAuthors || "(著者情報なし)";
@@ -255,23 +254,6 @@ function articlePageHtml(entry) {
         <h2>原題と著者</h2>
         <p><strong>${escapeHtml(paperTitle)}</strong></p>
         <p style="color: var(--ink-200); font-size: 14px;">${escapeHtml(authors)}</p>
-
-        <h2>LinkedIn 配信用ドラフト</h2>
-        <p style="color: var(--ink-200); font-size: 14px;">
-          以下は、本稿を LinkedIn にそのまま転載できる形式に整形したドラフトです。
-          編集部の hedging ルールにより、表現は自動緩和されています。
-        </p>
-        <pre style="
-          margin: 0; padding: 18px 22px;
-          font-family: 'Fraunces', serif;
-          font-size: 14.5px;
-          line-height: 1.85;
-          color: var(--ink-100);
-          white-space: pre-wrap;
-          word-break: break-word;
-          background: #14151a;
-          border: 1px solid var(--line);
-        ">${escapeHtml(formatted)}</pre>
       </article>
 
       ${
