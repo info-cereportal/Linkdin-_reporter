@@ -1,5 +1,28 @@
 [
   {
+    "generatedAt": "2026-05-10T21:38:22.430Z",
+    "date": "2026-05-10",
+    "topic": "深層学習と学習",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "RAN: A randomness-anchored watermark attacking network with stealth and effectiveness.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42106495/",
+    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n脳科学とAI——その境界線が消えつつある。\n\n深層学習と学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 深層学習 × 学習 × PET\n\n📊 注目すべきデータ：\n→ Research on watermark attacking is essential to reinforce robust watermarking methods by providing new attacking benchmarks.\n→ In this work, we propose a novel randomness-anchored attacking network (RAN) based on deep learning.\n→ The proposed methods add new inspirations to the design of stealthy and effective attacking models based on deep learning, with significant implications for developing robust...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 RAN: A randomness-anchored watermark attacking network with stealth and effectiveness.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42106495/\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #脳情報",
+    "summaryJP": "深層学習と学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+    "paperAuthors": "Fan Li, Du Li, Kunqi Li, Yanyu Jiang, Yanlin Leng, Kai Zhou",
+    "publishedDate": "2026-05-09",
+    "paperId": "42106495",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "深層学習",
+      "学習",
+      "PET"
+    ],
+    "abstractExcerpt": "Research on watermark attacking is essential to reinforce robust watermarking methods by providing new attacking benchmarks. Recently, there is an emergence of attacking methods based on deep learning, in which perceptual loss and…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-05-10T15:42:31.565Z",
     "date": "2026-05-10",
     "topic": "深層学習と学習",
