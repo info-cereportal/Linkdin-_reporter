@@ -2014,8 +2014,58 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
   margin: 0;
 }
 
+/* ============================================================
+   AdSense slots — labelled, responsive, layout-friendly
+   ============================================================ */
+.ad-slot {
+  display: block;
+  margin: clamp(28px, 4vw, 40px) auto;
+  padding: 14px 16px;
+  background: rgba(255, 255, 255, 0.015);
+  border: 1px dashed var(--line);
+  text-align: center;
+  /* reserve space — prevents CLS while ad loads, but collapses gracefully if empty */
+  min-height: 90px;
+}
+.ad-slot__label {
+  display: block;
+  font-family: var(--mono);
+  font-size: 9px;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--ink-400);
+  margin-bottom: 6px;
+}
+.ad-slot ins.adsbygoogle {
+  display: block;
+  width: 100%;
+}
+/* If AdSense decides not to fill, hide the dashed shell to keep page clean */
+.ad-slot:has(ins[data-ad-status="unfilled"]) {
+  display: none;
+}
+
+/* Banner (top / bottom) — full-width responsive */
+.ad-slot--banner {
+  max-width: var(--container);
+  min-height: 100px;
+}
+
+/* Inline / in-feed — narrower for visual balance with article cards */
+.ad-slot--inline {
+  max-width: 720px;
+  min-height: 280px;
+}
+
+/* In-article (narrower, between content blocks) */
+.ad-slot--inarticle {
+  max-width: 680px;
+  min-height: 250px;
+  margin: 28px auto;
+}
+
 @media print {
-  .masthead, .site-footer, .primary-nav, .editors-actions, .masthead-search, .search-results, .stats-chart-wrap { display: none; }
+  .masthead, .site-footer, .primary-nav, .editors-actions, .masthead-search, .search-results, .stats-chart-wrap, .ad-slot { display: none; }
   body { background: #fff; color: #000; }
   a { color: #000; }
 }
