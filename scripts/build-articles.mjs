@@ -275,7 +275,7 @@ function articlePageHtml(entry) {
       <div class="footer-inner">
         <div class="footer-brand">
           <span class="footer-mark">⏚</span>
-          <span class="footer-wordmark">CEREPORTAL</span>
+          <span class="footer-wordmark">NEUROPULSE</span>
           <span class="footer-mark">⏚</span>
         </div>
         <nav class="footer-nav" aria-label="サイト情報">
