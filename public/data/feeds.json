@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T19:27:05.003Z",
+  "generatedAt": "2026-05-11T21:57:25.188Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Supreme Court temporarily extends women&#8217;s access to a widely used abortion pill",
+          "url": "https://www.statnews.com/2026/05/11/supreme-court-temporarily-extends-mifepristone-abortion-pill-access/?utm_campaign=rss",
+          "publishedDate": "Mon, 11 May 2026 20:14:08 +0000",
+          "source": "statnews.com",
+          "summary": "The Supreme Court is temporarily extending access to a widely used abortion pill while it considers whether to allow restrictions on the drug to take effect.",
+          "authors": "Associated Press"
+        },
+        {
           "title": "STAT+: Trump pivots on kratom derivative 7-OH, floating approval for some forms",
           "url": "https://www.statnews.com/2026/05/11/trump-pivots-on-kratom-derivative-7-oh-floating-approval-for-some-forms/?utm_campaign=rss",
           "publishedDate": "Mon, 11 May 2026 18:04:34 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "European researchers have diagnosed a number of men who have sex with other men with a skin disease that normally infects livestock.",
           "authors": "Helen Branswell"
-        },
-        {
-          "title": "Experts wonder &#8216;Where is the CDC?&#8217; as hantavirus outbreak unfolds",
-          "url": "https://www.statnews.com/2026/05/09/mv-hondius-hantavirus-outbreak-cdc-takes-back-seat-to-who/?utm_campaign=rss",
-          "publishedDate": "Sat, 09 May 2026 18:28:39 +0000",
-          "source": "statnews.com",
-          "summary": "The CDC is playing an unusually small, and quiet, role in responding to the hantavirus outbreak.",
-          "authors": "Associated Press"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Supreme Court temporarily extends women&#8217;s access to a widely used abortion pill",
+          "url": "https://www.statnews.com/2026/05/11/supreme-court-temporarily-extends-mifepristone-abortion-pill-access/?utm_campaign=rss",
+          "publishedDate": "Mon, 11 May 2026 20:14:08 +0000",
+          "source": "statnews.com",
+          "summary": "The Supreme Court is temporarily extending access to a widely used abortion pill while it considers whether to allow restrictions on the drug to take effect.",
+          "authors": "Associated Press"
+        },
         {
           "title": "STAT+: Trump pivots on kratom derivative 7-OH, floating approval for some forms",
           "url": "https://www.statnews.com/2026/05/11/trump-pivots-on-kratom-derivative-7-oh-floating-approval-for-some-forms/?utm_campaign=rss",
@@ -155,14 +163,6 @@
           "publishedDate": "Mon, 11 May 2026 01:36:06 EDT",
           "source": "sciencedaily.com",
           "summary": "A new international analysis suggests there may be a surprisingly simple secret to keeping weight off after dieting: walking about 8,500 steps a day. Researchers found that people who boosted their daily steps to around that level during a…",
-          "authors": ""
-        },
-        {
-          "title": "Ozempic delivers major weight loss in adults over 65, study finds",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260510234654.htm",
-          "publishedDate": "Mon, 11 May 2026 00:57:51 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A major new analysis suggests semaglutide (Ozempic, Wegovy) works remarkably well in adults over 65, helping many lose substantial amounts of weight while improving heart and metabolic health. Participants taking the drug lost over 15% of…",
           "authors": ""
         }
       ]
