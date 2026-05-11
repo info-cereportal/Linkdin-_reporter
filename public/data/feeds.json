@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T14:39:09.684Z",
+  "generatedAt": "2026-05-11T17:18:35.904Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "No FDA permission, no problem: New flavored vape policy worries experts",
+          "url": "https://www.statnews.com/2026/05/11/fda-vape-policy-new-guidance-favors-industry/?utm_campaign=rss",
+          "publishedDate": "Mon, 11 May 2026 17:14:24 +0000",
+          "source": "statnews.com",
+          "summary": "A new FDA policy will let some flavored vapes stay on the market without authorization.",
+          "authors": "Sarah Todd"
+        },
+        {
           "title": "The connection between periods and mental health",
           "url": "https://www.statnews.com/2026/05/11/health-news-connection-between-periods-and-mental-health/?utm_campaign=rss",
           "publishedDate": "Mon, 11 May 2026 11:52:44 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "Spanish authorities on Friday were preparing to receive more than 140 passengers and crew members on board a hantavirus-stricken cruise ship headed for the Canary Islands.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "Former FDA leaders, pharma speak out on mifepristone",
-          "url": "https://www.statnews.com/2026/05/08/supreme-court-mifepristone-amicus-briefs-pharma-former-fda-leaders/?utm_campaign=rss",
-          "publishedDate": "Fri, 08 May 2026 15:23:00 +0000",
-          "source": "statnews.com",
-          "summary": "“The fundamental question is: Who gets to regulate mifepristone?”",
-          "authors": "Theresa Gaffney"
         }
       ]
     },
