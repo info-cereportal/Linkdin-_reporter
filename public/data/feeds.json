@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T11:57:17.174Z",
+  "generatedAt": "2026-05-11T14:39:09.684Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -118,6 +118,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists say this common sweetener may be quietly rewiring your metabolism",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260510234726.htm",
+          "publishedDate": "Mon, 11 May 2026 08:28:23 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers say fructose is not just “empty calories” — it may actively push the body toward fat storage and metabolic disease. A new review found that fructose affects the body differently from glucose, disrupting normal energy regulation…",
+          "authors": ""
+        },
+        {
           "title": "STAT+: Medicare is spending far less than expected on new Alzheimer’s drugs",
           "url": "https://www.statnews.com/2026/05/11/medicare-spending-less-than-expected-alzheimers-drugs-leqembi-kisunla/?utm_campaign=rss",
           "publishedDate": "Mon, 11 May 2026 08:30:00 +0000",
@@ -134,35 +142,27 @@
           "authors": "Tara Bannow"
         },
         {
-          "title": "Scientists successfully transfer longevity gene and extend lifespan",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
-          "publishedDate": "Sun, 10 May 2026 07:27:12 EDT",
+          "title": "Scientists say 8,500 steps a day could stop weight from creeping back",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260510234655.htm",
+          "publishedDate": "Mon, 11 May 2026 01:36:06 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists at the University of Rochester pulled off a remarkable experiment: they transferred a longevity-related gene from the famously long-lived naked mole rat into mice, and the mice ended up healthier and lived longer. The special…",
+          "summary": "A new international analysis suggests there may be a surprisingly simple secret to keeping weight off after dieting: walking about 8,500 steps a day. Researchers found that people who boosted their daily steps to around that level during a…",
           "authors": ""
         },
         {
-          "title": "Scientists discover the brain’s hidden “stop scratching” switch",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260509210654.htm",
-          "publishedDate": "Sun, 10 May 2026 03:08:07 EDT",
+          "title": "Ozempic delivers major weight loss in adults over 65, study finds",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260510234654.htm",
+          "publishedDate": "Mon, 11 May 2026 00:57:51 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a hidden “stop-scratching” signal in the nervous system that tells your brain when enough scratching is enough. The discovery centers on a molecule called TRPV4, which acts like part of an internal braking system…",
+          "summary": "A major new analysis suggests semaglutide (Ozempic, Wegovy) works remarkably well in adults over 65, helping many lose substantial amounts of weight while improving heart and metabolic health. Participants taking the drug lost over 15% of…",
           "authors": ""
         },
         {
-          "title": "Scientists reversed liver aging with young gut bacteria in stunning study",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260509210643.htm",
-          "publishedDate": "Sat, 09 May 2026 22:58:28 EDT",
+          "title": "This 800-year-old Chinese exercise helps lower blood pressure naturally",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260510234724.htm",
+          "publishedDate": "Sun, 10 May 2026 23:47:24 EDT",
           "source": "sciencedaily.com",
-          "summary": "Rebooting the gut microbiome with bacteria from youth may help stop aging-related liver damage and even prevent liver cancer, according to new research in mice. Older mice that received their own preserved youthful microbiome showed less…",
-          "authors": ""
-        },
-        {
-          "title": "Black licorice compound shows promise against inflammatory bowel disease",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260508003127.htm",
-          "publishedDate": "Sat, 09 May 2026 20:58:55 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers have developed a stem cell-based model of the human intestine that may transform how new IBD treatments are discovered. After testing thousands of compounds, they identified glycyrrhizin — a natural substance found in black…",
+          "summary": "An ancient Chinese exercise routine may be just as powerful as a daily brisk walk for lowering blood pressure — without equipment, gyms, or intense workouts. In a major clinical trial, adults with stage 1 hypertension who practiced…",
           "authors": ""
         }
       ]
