@@ -251,6 +251,7 @@ function articlePageHtml(entry, allEntries) {
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="${escapeHtml(url)}" />
     <meta name="color-scheme" content="dark light" />
+    <meta name="google-site-verification" content="925j_JLVm5kAlnMIG4L6Pcc1Y344gm08zFSs_ERw_0I" />
 
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="NeuroPulse — BCI &amp; Neuroscience Daily" />
