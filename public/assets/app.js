@@ -71,15 +71,24 @@ const els = {
   // events
   eventsTimeline: $("events-timeline"),
   eventsMeta: $("events-meta"),
-  // stats
+  // telemetry stats (v3)
   statsTime: $("stats-time"),
-  statGrantsOpen: $("stat-grants-open"),
-  statGrantsTotal: $("stat-grants-total"),
-  statGrantsUrgent: $("stat-grants-urgent"),
-  statCompanies: $("stat-companies"),
-  statCompanyFunding: $("stat-company-funding"),
-  statPapers: $("stat-papers"),
-  chartFunding: $("chart-funding"),
+  tHeroValue: $("t-hero-value"),
+  tHeroCount: $("t-hero-count"),
+  tStageBar: $("t-stage-bar"),
+  tStageLegend: $("t-stage-legend"),
+  ttGrants: $("tt-grants"),
+  ttGrantsFoot: $("tt-grants-foot"),
+  ttUrgent: $("tt-urgent"),
+  ttUrgentFoot: $("tt-urgent-foot"),
+  ttPapers: $("tt-papers"),
+  ttPapersFoot: $("tt-papers-foot"),
+  sparkGrants: $("spark-grants"),
+  sparkUrgent: $("spark-urgent"),
+  sparkPapers: $("spark-papers"),
+  thAxis: $("th-axis"),
+  thLabels: $("th-labels"),
+  thSub: $("th-sub"),
 };
 
 let currentDraft = null;
@@ -1067,8 +1076,220 @@ function parseGrantAmountUSD(g) {
   return 0;
 }
 
+/* ───── count-up animation (eased) ───── */
+function countUp(el, to, duration = 1400, formatter = (v) => String(Math.round(v))) {
+  if (!el) return;
+  const from = parseFloat(el.dataset.count || "0");
+  const start = performance.now();
+  el.dataset.count = String(to);
+  function step(now) {
+    const t = Math.min(1, (now - start) / duration);
+    const eased = 1 - Math.pow(1 - t, 3);
+    const v = from + (to - from) * eased;
+    el.textContent = formatter(v);
+    if (t < 1) requestAnimationFrame(step);
+  }
+  requestAnimationFrame(step);
+}
+
+/* ───── sparkline path from numeric series ───── */
+function sparkPath(values, w = 100, h = 24, pad = 2) {
+  if (!values || values.length === 0) return `M0,${h / 2} L${w},${h / 2}`;
+  const min = Math.min(...values);
+  const max = Math.max(...values, min + 1);
+  const range = max - min;
+  const stepX = (w - pad * 2) / Math.max(1, values.length - 1);
+  return values
+    .map((v, i) => {
+      const x = (pad + i * stepX).toFixed(2);
+      const norm = range === 0 ? 0.5 : (v - min) / range;
+      const y = (h - pad - norm * (h - pad * 2)).toFixed(2);
+      return `${i === 0 ? "M" : "L"}${x},${y}`;
+    })
+    .join(" ");
+}
+
+/* ───── DEADLINE HORIZON: SVG axis with grant deadline pins ───── */
+function renderDeadlineHorizon(openGrants) {
+  if (!els.thAxis) return;
+  const W = 1000, H = 90;
+  const horizonDays = 90;
+  const innerLeft = 30;
+  const innerRight = W - 20;
+  const axisY = 60;
+  const innerW = innerRight - innerLeft;
+
+  const upcoming = openGrants
+    .map((g) => ({ g, d: daysUntil(g.deadline) }))
+    .filter((x) => x.d != null && x.d >= 0 && x.d <= horizonDays)
+    .sort((a, b) => a.d - b.d);
+
+  // build SVG content
+  const svg = els.thAxis;
+  svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+  svg.innerHTML = "";
+
+  const ns = "http://www.w3.org/2000/svg";
+  const create = (tag, attrs = {}, text) => {
+    const el = document.createElementNS(ns, tag);
+    Object.entries(attrs).forEach(([k, v]) => el.setAttribute(k, String(v)));
+    if (text != null) el.textContent = text;
+    return el;
+  };
+
+  // axis line
+  svg.appendChild(create("line", {
+    class: "axis-line",
+    x1: innerLeft, y1: axisY, x2: innerRight, y2: axisY,
+  }));
+  // ticks every 15 days
+  for (let day = 0; day <= horizonDays; day += 15) {
+    const x = innerLeft + (day / horizonDays) * innerW;
+    svg.appendChild(create("line", {
+      class: "axis-tick",
+      x1: x, y1: axisY - 4, x2: x, y2: axisY + 4,
+    }));
+    const lbl = day === 0 ? "TODAY" : `+${day}D`;
+    svg.appendChild(create("text", {
+      class: "tick-label",
+      x: x, y: axisY + 18,
+      "text-anchor": "middle",
+    }, lbl));
+  }
+
+  // "NOW" vertical marker
+  svg.appendChild(create("line", {
+    class: "now-marker",
+    x1: innerLeft, y1: axisY - 28, x2: innerLeft, y2: axisY + 6,
+  }));
+  svg.appendChild(create("text", {
+    class: "now-label",
+    x: innerLeft + 6, y: axisY - 32,
+  }, "NOW"));
+
+  // distribute label rows to avoid overlap (3 lanes above axis)
+  const lanes = [-44, -28, -12];
+  const laneOccupied = lanes.map(() => -Infinity);
+
+  upcoming.forEach((u, i) => {
+    const x = innerLeft + (u.d / horizonDays) * innerW;
+    // pick lane that's free at this x
+    let laneIdx = 0;
+    for (let li = lanes.length - 1; li >= 0; li--) {
+      if (x - laneOccupied[li] > 90) { laneIdx = li; break; }
+    }
+    laneOccupied[laneIdx] = x;
+    const labelY = axisY + lanes[laneIdx];
+
+    const urgencyCls = u.d <= 30 ? "urgent" : u.d <= 60 ? "soon" : "later";
+
+    // stem
+    svg.appendChild(create("line", {
+      class: "deadline-stem",
+      x1: x, y1: axisY, x2: x, y2: labelY + 8,
+      stroke: urgencyCls === "urgent" ? "var(--risk-high)" :
+              urgencyCls === "soon"   ? "var(--risk-mid)"  : "var(--risk-low)",
+    }));
+    // pin
+    svg.appendChild(create("circle", {
+      class: `deadline-pin ${urgencyCls}`,
+      cx: x, cy: axisY, r: 5,
+    }));
+    // small agency label above
+    svg.appendChild(create("text", {
+      class: "tick-label",
+      x: x, y: labelY,
+      "text-anchor": "middle",
+      fill: urgencyCls === "urgent" ? "#e76f51" :
+            urgencyCls === "soon"   ? "#e9c46a" : "#84a98c",
+    }, (u.g.agency || "—").slice(0, 8)));
+  });
+
+  // sub-line summary
+  if (els.thSub) {
+    els.thSub.textContent = `— ${upcoming.length} grants closing within next ${horizonDays} days`;
+  }
+
+  // render label list under axis
+  if (els.thLabels) {
+    els.thLabels.innerHTML = "";
+    upcoming.slice(0, 6).forEach((u) => {
+      const li = document.createElement("li");
+      const date = document.createElement("span");
+      date.className = "th-date";
+      date.textContent = u.g.deadline;
+
+      const name = document.createElement("span");
+      name.className = "th-name";
+      if (u.g.url) {
+        const a = document.createElement("a");
+        a.href = u.g.url;
+        a.target = "_blank";
+        a.rel = "noopener";
+        a.textContent = `${u.g.agency} · ${u.g.title}`;
+        name.appendChild(a);
+      } else {
+        name.textContent = `${u.g.agency} · ${u.g.title}`;
+      }
+
+      const days = document.createElement("span");
+      days.className = "th-days";
+      if (u.d <= 30) days.classList.add("urgent");
+      else if (u.d <= 60) days.classList.add("soon");
+      days.textContent = `あと ${u.d} 日`;
+
+      li.appendChild(date);
+      li.appendChild(name);
+      li.appendChild(days);
+      els.thLabels.appendChild(li);
+    });
+  }
+}
+
+/* ───── STAGE BAR (replaces Chart.js) ───── */
+function renderStageBar(cos) {
+  if (!els.tStageBar || !els.tStageLegend) return;
+  const buckets = [
+    { key: "seed-a",   label: "Seed / Series A", color: "var(--cat-grants)",    sum: 0 },
+    { key: "series-b", label: "Series B",        color: "var(--cat-companies)", sum: 0 },
+    { key: "series-c", label: "Series C+ / Late",color: "var(--cat-aineuro)",   sum: 0 },
+    { key: "public",   label: "Public / Strategic", color: "var(--cat-events)", sum: 0 },
+  ];
+  cos.forEach((c) => {
+    const s = String(c.stage || "").toLowerCase();
+    const t = Number(c.totalFundingUSD) || 0;
+    if (/public|strategic/.test(s)) buckets[3].sum += t;
+    else if (/series c|late/.test(s)) buckets[2].sum += t;
+    else if (/series b/.test(s)) buckets[1].sum += t;
+    else buckets[0].sum += t;
+  });
+  const total = buckets.reduce((s, b) => s + b.sum, 0) || 1;
+
+  els.tStageBar.innerHTML = "";
+  buckets.forEach((b) => {
+    if (b.sum === 0) return;
+    const pct = (b.sum / total) * 100;
+    const seg = document.createElement("div");
+    seg.className = "t-stage-seg";
+    seg.dataset.stage = b.key;
+    seg.style.flexBasis = `${pct}%`;
+    seg.title = `${b.label}: ~$${(b.sum / 1e6).toFixed(0)}M (${pct.toFixed(0)}%)`;
+    els.tStageBar.appendChild(seg);
+  });
+
+  els.tStageLegend.innerHTML = "";
+  buckets.forEach((b) => {
+    if (b.sum === 0) return;
+    const li = document.createElement("li");
+    li.style.setProperty("--legend-c", b.color);
+    li.innerHTML = `${b.label} <span class="lg-amount">~$${(b.sum / 1e6).toFixed(0)}M</span>`;
+    els.tStageLegend.appendChild(li);
+  });
+}
+
+/* ───── main stats orchestrator ───── */
 function renderStats({ grants, companies, feeds }) {
-  if (!els.statGrantsOpen) return;
+  if (!els.tHeroValue) return;
   const now = new Date();
 
   const openGrants = (grants?.items || []).filter((g) => {
@@ -1079,7 +1300,7 @@ function renderStats({ grants, companies, feeds }) {
     const d = daysUntil(g.deadline);
     return d != null && d <= 30 && d >= 0;
   });
-  const totalGrant = openGrants.reduce((sum, g) => sum + parseGrantAmountUSD(g), 0);
+  const totalGrantUSD = openGrants.reduce((s, g) => s + parseGrantAmountUSD(g), 0);
 
   const cos = companies?.items || [];
   const totalCoFunding = cos.reduce((s, c) => s + (Number(c.totalFundingUSD) || 0), 0);
@@ -1089,80 +1310,87 @@ function renderStats({ grants, companies, feeds }) {
     (feeds?.categories?.bci?.itemCount || 0) +
     (feeds?.categories?.aineuro?.itemCount || 0);
 
-  els.statGrantsOpen.textContent = String(openGrants.length);
-  els.statGrantsTotal.textContent = fmtCurrency(totalGrant);
-  els.statGrantsUrgent.textContent = String(urgentGrants.length);
-  els.statCompanies.textContent = String(cos.length);
-  els.statCompanyFunding.textContent = fmtCurrency(totalCoFunding);
-  els.statPapers.textContent = String(papersCount);
-
   if (els.statsTime) {
     const ts = feeds?.generatedAt || grants?.lastUpdated || now.toISOString();
-    els.statsTime.textContent = `as of ${formatShortDate(ts)}`;
+    els.statsTime.textContent = `T+ ${formatShortDate(ts)}`;
   }
 
-  // Funding distribution chart by stage bucket
-  if (typeof Chart !== "undefined" && els.chartFunding && cos.length) {
-    const stageBuckets = {
-      "Seed / Series A": 0,
-      "Series B": 0,
-      "Series C+ / Late": 0,
-      "Public / Strategic": 0,
-    };
-    cos.forEach((c) => {
-      const stage = String(c.stage || "").toLowerCase();
-      const total = Number(c.totalFundingUSD) || 0;
-      if (/public|strategic/.test(stage)) stageBuckets["Public / Strategic"] += total;
-      else if (/series c|late/.test(stage)) stageBuckets["Series C+ / Late"] += total;
-      else if (/series b/.test(stage)) stageBuckets["Series B"] += total;
-      else stageBuckets["Seed / Series A"] += total;
-    });
+  els.tHeroCount.textContent = String(cos.length);
 
-    const labels = Object.keys(stageBuckets);
-    const data = labels.map((k) => stageBuckets[k] / 1e6); // M USD
+  // count-up hero value: format as billions w/ 1 decimal
+  const heroTarget = totalCoFunding / 1e9;
+  countUp(els.tHeroValue, heroTarget, 1600, (v) => v.toFixed(1));
 
-    if (renderStats._chart) renderStats._chart.destroy();
-    renderStats._chart = new Chart(els.chartFunding, {
-      type: "bar",
-      data: {
-        labels,
-        datasets: [{
-          label: "Cumulative funding (M USD)",
-          data,
-          backgroundColor: ["#5fd6a3", "#46c2e7", "#b08aff", "#ff8aae"],
-          borderColor: "rgba(255,255,255,0.04)",
-          borderWidth: 1,
-          borderRadius: 4,
-        }]
-      },
-      options: {
-        responsive: true,
-        maintainAspectRatio: false,
-        plugins: {
-          legend: { display: false },
-          tooltip: {
-            callbacks: {
-              label: (ctx) => `~$${ctx.parsed.y.toFixed(0)}M`,
-            },
-          },
-        },
-        scales: {
-          x: {
-            ticks: { color: "#cfc7b3", font: { family: "JetBrains Mono", size: 10 } },
-            grid: { display: false },
-          },
-          y: {
-            ticks: {
-              color: "#918a7a",
-              font: { family: "JetBrains Mono", size: 10 },
-              callback: (v) => `$${v}M`,
-            },
-            grid: { color: "rgba(255,255,255,0.04)" },
-          },
-        },
-      },
-    });
+  // side tiles
+  countUp(els.ttGrants, openGrants.length, 1100);
+  countUp(els.ttUrgent, urgentGrants.length, 1100);
+  countUp(els.ttPapers, papersCount, 1100);
+
+  // tile footers (live context)
+  if (els.ttGrantsFoot) {
+    const total = `${fmtCurrency(totalGrantUSD)} total`;
+    const regs = new Set(openGrants.map((g) => g.country).filter(Boolean));
+    els.ttGrantsFoot.textContent = `${total} · ${[...regs].join("/") || "—"}`;
   }
+  if (els.ttUrgentFoot) {
+    els.ttUrgentFoot.textContent = urgentGrants.length
+      ? `next: ${urgentGrants[0].agency} (${daysUntil(urgentGrants[0].deadline)}d)`
+      : "no urgent deadlines";
+  }
+  if (els.ttPapersFoot) {
+    els.ttPapersFoot.textContent = "3h refresh · arXiv + RSS";
+  }
+
+  // sparklines
+  // grants: deadline distribution across next 6 months
+  const gMonth = new Array(6).fill(0);
+  openGrants.forEach((g) => {
+    const d = daysUntil(g.deadline);
+    if (d != null && d >= 0 && d <= 180) {
+      const m = Math.min(5, Math.floor(d / 30));
+      gMonth[m] += 1;
+    }
+  });
+  if (els.sparkGrants) els.sparkGrants.setAttribute("d", sparkPath(gMonth));
+
+  // urgent: synthetic pulse (decorative but truthful — countdown ramp)
+  const urgentSeries = urgentGrants.length
+    ? urgentGrants
+        .slice(0, 8)
+        .map((g) => Math.max(1, 30 - (daysUntil(g.deadline) || 0)))
+    : [1, 1, 1];
+  if (els.sparkUrgent) els.sparkUrgent.setAttribute("d", sparkPath(urgentSeries));
+
+  // papers: itemCount per fed category
+  const papersSeries = [
+    feeds?.categories?.bci?.itemCount || 0,
+    feeds?.categories?.papers?.itemCount || 0,
+    feeds?.categories?.aineuro?.itemCount || 0,
+    feeds?.categories?.market?.itemCount || 0,
+    feeds?.categories?.grants?.itemCount || 0,
+  ];
+  if (els.sparkPapers) els.sparkPapers.setAttribute("d", sparkPath(papersSeries));
+
+  // stage distribution bar
+  renderStageBar(cos);
+
+  // deadline horizon
+  renderDeadlineHorizon(openGrants);
+}
+
+/* ───── reveal-on-scroll for [data-reveal] elements ───── */
+function bindReveal() {
+  const targets = $$("[data-reveal]");
+  if (targets.length === 0) return;
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach((e) => {
+      if (e.isIntersecting) {
+        e.target.classList.add("is-revealed");
+        io.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.15, rootMargin: "0px 0px -10% 0px" });
+  targets.forEach((t) => io.observe(t));
 }
 
 /* ────────── SEARCH ────────── */
@@ -1419,6 +1647,8 @@ async function init() {
 
   // scrollspy + sticky
   bindScrollspy();
+  // reveal-on-scroll for telemetry blocks
+  bindReveal();
 }
 
 if (document.readyState === "loading") {

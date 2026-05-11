@@ -74,8 +74,6 @@
 
     <!-- client-side full-text search engine (no backend) -->
     <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" defer></script>
-    <!-- chart library for "By the Numbers" dashboard -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer></script>
   </head>
   <body class="page-home">
     <a href="#main" class="skip-link">本文へスキップ</a>
@@ -170,55 +168,107 @@
     </header>
 
     <main id="main" class="layout">
-      <!-- ───────────────── STATS DASHBOARD ───────────────── -->
-      <section class="stats" id="section-stats" aria-labelledby="stats-heading">
-        <header class="section-rule">
-          <span class="rule-eyebrow">BY THE NUMBERS · 概況ダッシュボード</span>
+      <!-- ───────────────── STATS · NEURAL TELEMETRY ───────────────── -->
+      <section class="telemetry-section" id="section-stats" aria-labelledby="stats-heading">
+        <header class="section-rule telemetry-rule">
+          <span class="rule-eyebrow">
+            <span class="t-pulse" aria-hidden="true"></span>
+            CH·00 · NEURAL TELEMETRY
+          </span>
           <span class="rule-meta" id="stats-time">—</span>
         </header>
 
-        <h2 id="stats-heading" class="visually-hidden">概況指標</h2>
+        <h2 id="stats-heading" class="visually-hidden">BCI スタートアップエコシステム指標</h2>
 
-        <div class="stats-grid">
-          <article class="stat-card" data-stat="grants-open">
-            <span class="stat-label">公募中の助成金</span>
-            <span class="stat-value" id="stat-grants-open">—</span>
-            <span class="stat-unit">programs</span>
+        <!-- ░░░ HERO + SIDE TILES ░░░ -->
+        <div class="telemetry-top">
+
+          <!-- HERO: cumulative funding -->
+          <article class="t-hero" data-reveal>
+            <div class="t-hero-grid" aria-hidden="true"></div>
+
+            <header class="t-hero-head">
+              <span class="t-hero-eyebrow">CUMULATIVE FUNDING · 累計調達額</span>
+              <span class="t-hero-id">SIGNAL · A1</span>
+            </header>
+
+            <div class="t-hero-figure">
+              <span class="t-currency">$</span>
+              <span class="t-value" id="t-hero-value" data-count="0">0.0</span>
+              <span class="t-unit">B</span>
+            </div>
+
+            <p class="t-hero-context">
+              <span class="t-companies" id="t-hero-count">—</span>
+              <span class="t-mute">tracked BCI / neurotech companies</span>
+            </p>
+
+            <!-- horizontal stacked stage bar (custom, replaces Chart.js) -->
+            <div class="t-stage-bar" id="t-stage-bar" role="img" aria-label="ステージ別調達額の構成"></div>
+            <ol class="t-stage-legend" id="t-stage-legend"></ol>
           </article>
-          <article class="stat-card" data-stat="grants-total">
-            <span class="stat-label">総助成額 (公募中)</span>
-            <span class="stat-value" id="stat-grants-total">—</span>
-            <span class="stat-unit">USD 換算</span>
-          </article>
-          <article class="stat-card" data-stat="grants-urgent">
-            <span class="stat-label">締切 30 日以内</span>
-            <span class="stat-value urgent" id="stat-grants-urgent">—</span>
-            <span class="stat-unit">grants closing</span>
-          </article>
-          <article class="stat-card" data-stat="companies">
-            <span class="stat-label">トラック中企業</span>
-            <span class="stat-value" id="stat-companies">—</span>
-            <span class="stat-unit">BCI / Neurotech</span>
-          </article>
-          <article class="stat-card" data-stat="company-funding">
-            <span class="stat-label">累計調達額</span>
-            <span class="stat-value" id="stat-company-funding">—</span>
-            <span class="stat-unit">across tracked cos.</span>
-          </article>
-          <article class="stat-card" data-stat="papers">
-            <span class="stat-label">直近フィード論文</span>
-            <span class="stat-value" id="stat-papers">—</span>
-            <span class="stat-unit">last cycle</span>
-          </article>
+
+          <!-- SIDE: three signal tiles -->
+          <aside class="t-side">
+
+            <article class="t-tile" data-tile="grants" data-reveal style="--reveal-delay:80ms">
+              <header class="tt-head">
+                <span class="tt-id">B1</span>
+                <span class="tt-label">OPEN GRANTS · 公募中</span>
+              </header>
+              <div class="tt-figure">
+                <span class="tt-value" id="tt-grants" data-count="0">0</span>
+                <span class="tt-unit">programs</span>
+              </div>
+              <svg class="tt-spark" viewBox="0 0 100 24" preserveAspectRatio="none" aria-hidden="true">
+                <path id="spark-grants" class="spark-line" d="M0,12 L100,12" />
+              </svg>
+              <span class="tt-foot" id="tt-grants-foot">—</span>
+            </article>
+
+            <article class="t-tile is-urgent" data-tile="urgent" data-reveal style="--reveal-delay:160ms">
+              <header class="tt-head">
+                <span class="tt-id">B2</span>
+                <span class="tt-label">DEADLINE &lt; 30D · 締切迫る</span>
+              </header>
+              <div class="tt-figure">
+                <span class="tt-value" id="tt-urgent" data-count="0">0</span>
+                <span class="tt-unit">closing</span>
+              </div>
+              <svg class="tt-spark" viewBox="0 0 100 24" preserveAspectRatio="none" aria-hidden="true">
+                <path id="spark-urgent" class="spark-line" d="M0,12 L100,12" />
+              </svg>
+              <span class="tt-foot" id="tt-urgent-foot">act now</span>
+            </article>
+
+            <article class="t-tile" data-tile="papers" data-reveal style="--reveal-delay:240ms">
+              <header class="tt-head">
+                <span class="tt-id">B3</span>
+                <span class="tt-label">FEED · 直近サイクル</span>
+              </header>
+              <div class="tt-figure">
+                <span class="tt-value" id="tt-papers" data-count="0">0</span>
+                <span class="tt-unit">articles</span>
+              </div>
+              <svg class="tt-spark" viewBox="0 0 100 24" preserveAspectRatio="none" aria-hidden="true">
+                <path id="spark-papers" class="spark-line" d="M0,12 L100,12" />
+              </svg>
+              <span class="tt-foot" id="tt-papers-foot">3h refresh cycle</span>
+            </article>
+
+          </aside>
         </div>
 
-        <div class="stats-chart-wrap">
-          <div class="chart-head">
-            <span class="chart-eyebrow">FUNDING DISTRIBUTION</span>
-            <span class="chart-title">企業ステージ別 累計調達額</span>
-          </div>
-          <div class="chart-frame">
-            <canvas id="chart-funding" height="120" aria-label="企業ステージ別調達額のバーチャート"></canvas>
+        <!-- ░░░ DEADLINE HORIZON — 90-day timeline ░░░ -->
+        <div class="t-horizon" data-reveal style="--reveal-delay:320ms">
+          <header class="th-head">
+            <span class="th-eyebrow">CH·01 · DEADLINE HORIZON</span>
+            <span class="th-sub" id="th-sub">— grants closing in the next 90 days</span>
+          </header>
+
+          <div class="th-axis-wrap">
+            <svg class="th-axis" viewBox="0 0 1000 90" preserveAspectRatio="none" id="th-axis" aria-label="90日先の助成金締切タイムライン"></svg>
+            <div class="th-labels" id="th-labels"></div>
           </div>
         </div>
       </section>
