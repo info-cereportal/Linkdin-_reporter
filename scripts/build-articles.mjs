@@ -26,12 +26,13 @@ const DATA_DIR = path.join(PUBLIC_DIR, "data");
 const OUT_DIR = path.join(PUBLIC_DIR, "article");
 const SITE_ORIGIN = process.env.SITE_ORIGIN || "https://eegbugckets.web.app";
 
+// Use clean URLs (no .html extension) to match canonical form under cleanUrls: true.
 const STATIC_PAGES = [
   { path: "/", changefreq: "hourly", priority: "1.0" },
-  { path: "/about.html", changefreq: "monthly", priority: "0.6" },
-  { path: "/privacy.html", changefreq: "monthly", priority: "0.4" },
-  { path: "/terms.html", changefreq: "monthly", priority: "0.4" },
-  { path: "/contact.html", changefreq: "yearly", priority: "0.3" },
+  { path: "/about", changefreq: "monthly", priority: "0.6" },
+  { path: "/privacy", changefreq: "monthly", priority: "0.4" },
+  { path: "/terms", changefreq: "monthly", priority: "0.4" },
+  { path: "/contact", changefreq: "yearly", priority: "0.3" },
 ];
 
 /* ────────── helpers ────────── */
@@ -185,7 +186,7 @@ function relatedHtml(target, all) {
     return `
       <article class="related-card">
         <span class="rk-eyebrow">${escapeHtml(theme)}</span>
-        <a href="/article/${escapeHtml(slug)}.html">${escapeHtml(title)}</a>
+        <a href="/article/${escapeHtml(slug)}">${escapeHtml(title)}</a>
         <span class="rk-meta">${escapeHtml(date)}</span>
       </article>`;
   }).join("\n");
@@ -198,7 +199,7 @@ function relatedHtml(target, all) {
 
 function articlePageHtml(entry, allEntries) {
   const slug = archiveSlug(entry);
-  const url = `${SITE_ORIGIN}/article/${slug}.html`;
+  const url = `${SITE_ORIGIN}/article/${slug}`;
   const title = entry.summaryJP || entry.topic || entry.paperTitle || "NeuroPulse article";
   const dek = dekFor(entry);
   const dateISO = entry.generatedAt || new Date().toISOString();
@@ -363,10 +364,10 @@ function articlePageHtml(entry, allEntries) {
         </div>
         <nav class="footer-nav" aria-label="サイト情報">
           <ul>
-            <li><a href="/about.html">運営者情報</a></li>
-            <li><a href="/contact.html">お問い合わせ</a></li>
-            <li><a href="/privacy.html">プライバシーポリシー</a></li>
-            <li><a href="/terms.html">利用規約</a></li>
+            <li><a href="/about">運営者情報</a></li>
+            <li><a href="/contact">お問い合わせ</a></li>
+            <li><a href="/privacy">プライバシーポリシー</a></li>
+            <li><a href="/terms">利用規約</a></li>
           </ul>
         </nav>
         <p class="footer-copy">© 2026 NeuroPulse Editorial. All rights reserved.</p>
@@ -395,7 +396,7 @@ function sitemapXml(articleEntries) {
       const slug = archiveSlug(e);
       if (!slug) return null;
       return `  <url>
-    <loc>${SITE_ORIGIN}/article/${slug}.html</loc>
+    <loc>${SITE_ORIGIN}/article/${slug}</loc>
     <lastmod>${isoDateOnly(e.generatedAt) || today}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

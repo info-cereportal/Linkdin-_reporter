@@ -175,7 +175,7 @@ function archiveSlug(entry) {
 
 function archiveUrl(entry) {
   const s = archiveSlug(entry);
-  return s ? `/article/${s}.html` : "#";
+  return s ? `/article/${s}` : "#";
 }
 
 /* ────────── EEG accent ────────── */
@@ -768,7 +768,7 @@ function renderArchive(entries) {
     const slug = archiveSlug(e);
     if (slug) {
       const a = document.createElement("a");
-      a.href = `/article/${slug}.html`;
+      a.href = `/article/${slug}`;
       a.textContent = e.summaryJP || e.topic || e.paperTitle || "(no topic)";
       topic.appendChild(a);
     } else {
