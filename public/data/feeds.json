@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T17:18:35.904Z",
+  "generatedAt": "2026-05-11T19:27:05.003Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Trump pivots on kratom derivative 7-OH, floating approval for some forms",
+          "url": "https://www.statnews.com/2026/05/11/trump-pivots-on-kratom-derivative-7-oh-floating-approval-for-some-forms/?utm_campaign=rss",
+          "publishedDate": "Mon, 11 May 2026 18:04:34 +0000",
+          "source": "statnews.com",
+          "summary": "Last year, the FDA had warned that natural opioids in kratom were being turned into harmful products. Now President Trump says approval should be considered.",
+          "authors": "Lev Facher"
+        },
+        {
           "title": "No FDA permission, no problem: New flavored vape policy worries experts",
           "url": "https://www.statnews.com/2026/05/11/fda-vape-policy-new-guidance-favors-industry/?utm_campaign=rss",
           "publishedDate": "Mon, 11 May 2026 17:14:24 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "The CDC is playing an unusually small, and quiet, role in responding to the hantavirus outbreak.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "Spain readies for evacuations as a hantavirus-hit cruise ship heads for the Canary Islands",
-          "url": "https://www.statnews.com/2026/05/08/hantavirus-outbreak-cruise-ship-spain-evacuations-canary-islands/?utm_campaign=rss",
-          "publishedDate": "Fri, 08 May 2026 19:57:17 +0000",
-          "source": "statnews.com",
-          "summary": "Spanish authorities on Friday were preparing to receive more than 140 passengers and crew members on board a hantavirus-stricken cruise ship headed for the Canary Islands.",
-          "authors": "Associated Press"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Trump pivots on kratom derivative 7-OH, floating approval for some forms",
+          "url": "https://www.statnews.com/2026/05/11/trump-pivots-on-kratom-derivative-7-oh-floating-approval-for-some-forms/?utm_campaign=rss",
+          "publishedDate": "Mon, 11 May 2026 18:04:34 +0000",
+          "source": "statnews.com",
+          "summary": "Last year, the FDA had warned that natural opioids in kratom were being turned into harmful products. Now President Trump says approval should be considered.",
+          "authors": "Lev Facher"
+        },
         {
           "title": "Scientists say this common sweetener may be quietly rewiring your metabolism",
           "url": "https://www.sciencedaily.com/releases/2026/05/260510234726.htm",
@@ -155,14 +163,6 @@
           "publishedDate": "Mon, 11 May 2026 00:57:51 EDT",
           "source": "sciencedaily.com",
           "summary": "A major new analysis suggests semaglutide (Ozempic, Wegovy) works remarkably well in adults over 65, helping many lose substantial amounts of weight while improving heart and metabolic health. Participants taking the drug lost over 15% of…",
-          "authors": ""
-        },
-        {
-          "title": "This 800-year-old Chinese exercise helps lower blood pressure naturally",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260510234724.htm",
-          "publishedDate": "Sun, 10 May 2026 23:47:24 EDT",
-          "source": "sciencedaily.com",
-          "summary": "An ancient Chinese exercise routine may be just as powerful as a daily brisk walk for lowering blood pressure — without equipment, gyms, or intense workouts. In a major clinical trial, adults with stage 1 hypertension who practiced…",
           "authors": ""
         }
       ]
