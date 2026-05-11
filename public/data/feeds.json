@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T06:28:13.054Z",
+  "generatedAt": "2026-05-11T11:57:17.174Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "The connection between periods and mental health",
+          "url": "https://www.statnews.com/2026/05/11/health-news-connection-between-periods-and-mental-health/?utm_campaign=rss",
+          "publishedDate": "Mon, 11 May 2026 11:52:44 +0000",
+          "source": "statnews.com",
+          "summary": "Plans to oust Makary, a looming Supreme Court deadline on mifepristone, and other health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "STAT+: Five years after disaster, a rare disease community gets new chance at treatment",
+          "url": "https://www.statnews.com/2026/05/11/astellas-gene-therapy-trials-resume-promising-myotubular-myopathy-treatment/?utm_campaign=rss",
+          "publishedDate": "Mon, 11 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Some boys had astonishing recoveries. But other boys died. Now Astellas is returning to revised gene therapy for XLMTM.",
+          "authors": "Jason Mast"
+        },
+        {
+          "title": "Animal skin disease confirmed in clusters of European men who have sex with men",
+          "url": "https://www.statnews.com/2026/05/11/rare-animal-skin-infection-msm-clusters-europe-dermatophilus-congolensis/?utm_campaign=rss",
+          "publishedDate": "Mon, 11 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "European researchers have diagnosed a number of men who have sex with other men with a skin disease that normally infects livestock.",
+          "authors": "Helen Branswell"
+        },
+        {
           "title": "Experts wonder &#8216;Where is the CDC?&#8217; as hantavirus outbreak unfolds",
           "url": "https://www.statnews.com/2026/05/09/mv-hondius-hantavirus-outbreak-cdc-takes-back-seat-to-who/?utm_campaign=rss",
           "publishedDate": "Sat, 09 May 2026 18:28:39 +0000",
@@ -85,30 +109,6 @@
           "source": "statnews.com",
           "summary": "“The fundamental question is: Who gets to regulate mifepristone?”",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "The aging scientific workforce collides with rising fabricating citations in medical journals",
-          "url": "https://www.statnews.com/2026/05/08/health-news-aging-scientific-workforce-and-fake-ai-citations/?utm_campaign=rss",
-          "publishedDate": "Fri, 08 May 2026 11:27:48 +0000",
-          "source": "statnews.com",
-          "summary": "The latest in the hantavirus cruise ship saga, why these former officials left the FDA, and more health news from Morning Rounds",
-          "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "Key takeaways from WHO briefing on hantavirus cruise ship outbreak",
-          "url": "https://www.statnews.com/2026/05/07/hantavirus-outbreak-key-takeaways-who-cruise-ship-briefing/?utm_campaign=rss",
-          "publishedDate": "Thu, 07 May 2026 19:41:11 +0000",
-          "source": "statnews.com",
-          "summary": "Here are key takeaways from a WHO briefing on the hantavirus outbreak aboard a cruise ship.",
-          "authors": "Helen Branswell"
-        },
-        {
-          "title": "Official leading CDC’s cruise ship program retires",
-          "url": "https://www.statnews.com/2026/05/07/luis-rodriguez-retires-cdc-vessel-sanitation-program-amid-hantavirus-outbreak/?utm_campaign=rss",
-          "publishedDate": "Thu, 07 May 2026 16:54:04 +0000",
-          "source": "statnews.com",
-          "summary": "The hantavirus outbreak on the MV Hondius has focused the public's attention on cruise ship safety.",
-          "authors": "Daniel Payne"
         }
       ]
     },
@@ -117,6 +117,22 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Medicare is spending far less than expected on new Alzheimer’s drugs",
+          "url": "https://www.statnews.com/2026/05/11/medicare-spending-less-than-expected-alzheimers-drugs-leqembi-kisunla/?utm_campaign=rss",
+          "publishedDate": "Mon, 11 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Adoption has been slow with new Alzheimer’s drugs because the treatments are complicated to administer and the benefits are uncertain.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "STAT+: Provider, insurer groups rush to shape No Surprises Act arbitration rules",
+          "url": "https://www.statnews.com/2026/05/11/no-surprises-act-new-rules-dispute-resolution/?utm_campaign=rss",
+          "publishedDate": "Mon, 11 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Doctors and insurers are battling to reshape the controversial No Surprises Act arbitration process, which has long frustrated both sides.",
+          "authors": "Tara Bannow"
+        },
         {
           "title": "Scientists successfully transfer longevity gene and extend lifespan",
           "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
@@ -147,22 +163,6 @@
           "publishedDate": "Sat, 09 May 2026 20:58:55 EDT",
           "source": "sciencedaily.com",
           "summary": "Researchers have developed a stem cell-based model of the human intestine that may transform how new IBD treatments are discovered. After testing thousands of compounds, they identified glycyrrhizin — a natural substance found in black…",
-          "authors": ""
-        },
-        {
-          "title": "Experts wonder &#8216;Where is the CDC?&#8217; as hantavirus outbreak unfolds",
-          "url": "https://www.statnews.com/2026/05/09/mv-hondius-hantavirus-outbreak-cdc-takes-back-seat-to-who/?utm_campaign=rss",
-          "publishedDate": "Sat, 09 May 2026 18:28:39 +0000",
-          "source": "statnews.com",
-          "summary": "The CDC is playing an unusually small, and quiet, role in responding to the hantavirus outbreak.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "Scientists say this simple music trick can boost workout endurance by 20%",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260508003123.htm",
-          "publishedDate": "Sat, 09 May 2026 08:56:34 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new study shows that listening to your own favorite workout music can dramatically boost endurance. Cyclists exercising with self-selected songs lasted nearly 20% longer than when riding in silence, yet they didn’t feel more exhausted at…",
           "authors": ""
         }
       ]
