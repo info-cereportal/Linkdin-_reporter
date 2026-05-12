@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T13:52:42.186Z",
+  "generatedAt": "2026-05-12T17:01:59.377Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,20 +63,28 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Supreme Court extends mifepristone deadline",
+          "url": "https://www.statnews.com/2026/05/12/health-news-supreme-court-extends-mifepristone-deadline/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 16:24:40 +0000",
+          "source": "statnews.com",
+          "summary": "The deadliest drug in the country, the new name for PCOS, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "STAT+: STAT examines America’s deadliest drug",
+          "url": "https://www.statnews.com/2026/05/12/dc-diagnosis-medicaid-work-requirement-exemptions-deadliest-drug-series/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 14:23:52 +0000",
+          "source": "statnews.com",
+          "summary": "STAT examines America's failure to address excessive alcohol use across decades.",
+          "authors": "John Wilkerson"
+        },
+        {
           "title": "PCOS’s new name is PMOS, a small letter change that required a big scientific process",
           "url": "https://www.statnews.com/2026/05/12/pcos-now-called-pmos-polyendocrine-metabolic-ovarian-syndrome/?utm_campaign=rss",
           "publishedDate": "Tue, 12 May 2026 09:00:00 +0000",
           "source": "statnews.com",
           "summary": "A revised name for PCOS — polyendocrine metabolic ovarian syndrome, or PMOS — was introduced in a paper published Tuesday.",
           "authors": "Annalisa Merelli"
-        },
-        {
-          "title": "STAT+: Despite its toll, alcohol is still an awkward subject in the doctor’s office",
-          "url": "https://www.statnews.com/2026/05/12/alcohol-use-disorder-screening-deadliest-drug-series-part-2/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Alcohol screening and counseling are too often compressed or skipped during doctor's visits — a gap that is costing patients and the health care system.",
-          "authors": "Amanda Erickson and Isabella Cueto"
         },
         {
           "title": "6 takeaways from STAT’s investigation into the U.S. alcohol epidemic",
@@ -87,28 +95,20 @@
           "authors": "Isabella Cueto and Lev Facher"
         },
         {
+          "title": "STAT+: Despite its toll, alcohol is still an awkward subject in the doctor’s office",
+          "url": "https://www.statnews.com/2026/05/12/alcohol-use-disorder-screening-deadliest-drug-series-part-2/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Alcohol screening and counseling are too often compressed or skipped during doctor's visits — a gap that is costing patients and the health care system.",
+          "authors": "Amanda Erickson and Isabella Cueto"
+        },
+        {
           "title": "STAT+: Alcohol is wreaking havoc on U.S. public health. American society looks the other way",
           "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-plain-sight-deadliest-drug-series-part-1/?utm_campaign=rss",
           "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
           "source": "statnews.com",
           "summary": "The Deadliest Drug, a new investigative series, shows that the alcohol epidemic is a generational failure of the medical and public health systems, of industry, and of government.",
           "authors": "Lev Facher and Isabella Cueto"
-        },
-        {
-          "title": "STAT+: Patients jockey for exemptions from Medicaid’s new work requirements",
-          "url": "https://www.statnews.com/2026/05/12/medicaid-work-requirements-lobbyists-seek-exemptions-deadline-looms/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Advocates for people with HIV and sickle cell disease are among those pushing for exemptions from Medicaid’s new work requirements.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "Supreme Court temporarily extends women&#8217;s access to a widely used abortion pill",
-          "url": "https://www.statnews.com/2026/05/11/supreme-court-temporarily-extends-mifepristone-abortion-pill-access/?utm_campaign=rss",
-          "publishedDate": "Mon, 11 May 2026 20:14:08 +0000",
-          "source": "statnews.com",
-          "summary": "The Supreme Court is temporarily extending access to a widely used abortion pill while it considers whether to allow restrictions on the drug to take effect.",
-          "authors": "Associated Press"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: STAT examines America’s deadliest drug",
+          "url": "https://www.statnews.com/2026/05/12/dc-diagnosis-medicaid-work-requirement-exemptions-deadliest-drug-series/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 14:23:52 +0000",
+          "source": "statnews.com",
+          "summary": "STAT examines America's failure to address excessive alcohol use across decades.",
+          "authors": "John Wilkerson"
+        },
         {
           "title": "Scientists reversed biological age in older adults with a 4-week diet change",
           "url": "https://www.sciencedaily.com/releases/2026/05/260511213144.htm",
@@ -156,14 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "Staying strong may be one of the biggest secrets to living longer — especially for older women. A major study of more than 5,000 women found that simple signs of muscle strength, like a firm hand grip or the ability to quickly stand up…",
           "authors": ""
-        },
-        {
-          "title": "Supreme Court temporarily extends women&#8217;s access to a widely used abortion pill",
-          "url": "https://www.statnews.com/2026/05/11/supreme-court-temporarily-extends-mifepristone-abortion-pill-access/?utm_campaign=rss",
-          "publishedDate": "Mon, 11 May 2026 20:14:08 +0000",
-          "source": "statnews.com",
-          "summary": "The Supreme Court is temporarily extending access to a widely used abortion pill while it considers whether to allow restrictions on the drug to take effect.",
-          "authors": "Associated Press"
         }
       ]
     },
