@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T02:01:28.658Z",
+  "generatedAt": "2026-05-12T05:57:37.568Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Learning Cross-Atlas Consistent Brain Disorder Representations via Disentangled Multi-Atlas Functional Connectivity Learning",
-          "url": "https://arxiv.org/abs/2605.07026",
-          "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
+          "title": "Predictive and feedback signals differently shape the formation of group-level and individualized language representations",
+          "url": "https://arxiv.org/abs/2605.09409",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Functional connectivity (FC) derived from resting-state fMRI is widely used to characterize large-scale brain network alterations in neurological and psychiatric disorders. However, FC construction critically depends on the choice of brain…",
-          "authors": "Minheng Chen, Chao Cao, Jing Zhang, Tianming Liu, Dajiang Zhu"
+          "summary": "Adults vary greatly in how effectively they learn a new language, but the signals driving the learning processes and individual differences remain unclear. Over seven days, we tracked behavioral learning and collected fMRI data from 102…",
+          "authors": "Shuguang Yang, Shaoyun Yu, Xin Jiang, Suiping Wang, Gangyi Feng"
         },
         {
-          "title": "Dynamical mechanisms of flexible phase-locking in cortical theta oscillators",
-          "url": "https://arxiv.org/abs/2605.08014",
-          "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
+          "title": "Joint sparse coding and temporal dynamics support context reconfiguration",
+          "url": "https://arxiv.org/abs/2605.10178",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Oscillatory activity in auditory cortex is thought to play a central role in auditory and speech processing by synchronizing neural rhythms to external acoustic features of the speech stream. To support this function, cortical oscillators…",
-          "authors": "Yangyang Wang, Benjamin R. Pittman-Polletta"
+          "summary": "Adaptive behavior requires the brain to transition between distinct contexts while maintaining representations of prior experience. The ability to reconfigure neural representations without erasing previously acquired knowledge is central…",
+          "authors": "Qianqian Shi, Yue Che, Faqiang Liu, Hongyi Li, Mingkun Xu, Sandra Reinert, Pieter M. Goltstein, Rong Zhao, Luping Shi"
         },
         {
-          "title": "Partitioning Neural Co-Variability",
-          "url": "https://arxiv.org/abs/2605.06995",
-          "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
+          "title": "Cortico-cerebellar modularity as an architectural inductive bias for efficient temporal learning",
+          "url": "https://arxiv.org/abs/2605.10356",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Trial-to-trial variability of neural responses has been linked to important aspects of neural computation and is essential for understanding how neuronal populations respond. While current overdispersion models treat each neuron's gain as…",
-          "authors": "Skyler Thomas, Brandon J. Zhu, Kathleen E. Cullen, Adam S. Charles"
+          "summary": "The cerebellum and cerebral cortex form tightly coupled circuits thought to support flexible and efficient temporal processing. How this interaction shapes cortical learning dynamics, and whether such heterogeneous modularity can benefit…",
+          "authors": "Alexandra Voce, Emmanouil Giannakakis, Claudia Clopath"
         },
         {
-          "title": "Reason to Play: Behavioral and Brain Alignment Between Frontier LRMs and Human Game Learners",
-          "url": "https://arxiv.org/abs/2605.08019",
-          "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
+          "title": "Neurally-plausible radial basis kernels using distributed Fourier embeddings",
+          "url": "https://arxiv.org/abs/2605.08458",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Humans rapidly learn abstract knowledge when encountering novel environments and flexibly deploy this knowledge to guide efficient and intelligent action. Can modern AI systems learn and plan in a similar way? We study this question using…",
-          "authors": "Botos Csaba, Sreejan Kumar, Austin Tudor David Andrews, Laurence Hunt, Chris Summerfield, Joshua B. Tenenbaum, Rui Ponte Costa, Marcelo G. Mattar, Momchil Tomov"
+          "summary": "Coherent, continuous spatial representations are critical for synthesizing physical and perceptual phenomena into a single representational space. Radial basis kernels provide a path forward for this type of distributed representation. In…",
+          "authors": "Jakeb Chouinard"
         },
         {
-          "title": "Confidence is detection-like in high-dimensional spaces",
-          "url": "https://arxiv.org/abs/2410.18933",
-          "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
+          "title": "NeuralBench: A Unifying Framework to Benchmark NeuroAI Models",
+          "url": "https://arxiv.org/abs/2605.08495",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Confidence estimates are often \"detection-like\" - driven by positive evidence in favour of a decision. This empirical observation has been interpreted as showing that human metacognition is limited by biases or heuristics. Here, we show…",
-          "authors": "Wiktoria Kozyra, Kevin O'Neill, Stephen M. Fleming"
+          "summary": "Deep learning and large public datasets have recently catalyzed the proliferation of AI models for processing brain recordings. However, systematically evaluating these models remains a challenge: not only do the preprocessing pipelines,…",
+          "authors": "Hubert Banville (Lucy), Stéphane d'Ascoli (Lucy), Simon Dahan (Lucy), Jérémy Rapin (Lucy), Marlène Careil (Lucy), Yohann Benchetrit (Lucy), Jarod Lévy (Lucy), Saarang Panchavati (Lucy), Antoine Ratouchniak (Lucy), Mingfang (Lucy), Zhang, Elisa Cascardi, Katelyn Begany, Teon Brooks, Jean-Rémi King"
         },
         {
-          "title": "Human brain state classification via permutation entropy of EEG phase dynamics across consciousness levels and inattentive-type ADHD",
-          "url": "https://arxiv.org/abs/2503.19924",
-          "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
+          "title": "FLUX: Geometry-Aware Longitudinal Flow Matching with Mixture of Experts",
+          "url": "https://arxiv.org/abs/2605.08648",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We analyze electroencephalography (EEG) signals using the ordinal pattern framework to investigate whether different human brain states can be distinguished based on the disorder of EEG dynamics. Rather than analyzing raw EEG signals, we…",
-          "authors": "Athokpam Langlen Chanu, Youngjai Park, Jaesung Choi, Younghwa Cha, UnCheol Lee, Joon-Young Moon, Jong-Min Park"
+          "summary": "Many biological systems evolve through continuous local dynamics while switching between latent regimes defined by learning, stimulus context, internal state, or developmental stage. These processes are often observed only as unpaired…",
+          "authors": "Josue Ortega Caro, Yongxu Zhang, Hannah M Batchelor, Sizhuang He, Jessica Cardin, Shreya Saxena"
         }
       ]
     },
@@ -118,6 +118,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "This simple strength test could predict how long you live",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260510234722.htm",
+          "publishedDate": "Mon, 11 May 2026 21:13:48 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Staying strong may be one of the biggest secrets to living longer — especially for older women. A major study of more than 5,000 women found that simple signs of muscle strength, like a firm hand grip or the ability to quickly stand up…",
+          "authors": ""
+        },
+        {
           "title": "Supreme Court temporarily extends women&#8217;s access to a widely used abortion pill",
           "url": "https://www.statnews.com/2026/05/11/supreme-court-temporarily-extends-mifepristone-abortion-pill-access/?utm_campaign=rss",
           "publishedDate": "Mon, 11 May 2026 20:14:08 +0000",
@@ -156,14 +164,6 @@
           "source": "statnews.com",
           "summary": "Doctors and insurers are battling to reshape the controversial No Surprises Act arbitration process, which has long frustrated both sides.",
           "authors": "Tara Bannow"
-        },
-        {
-          "title": "Scientists say 8,500 steps a day could stop weight from creeping back",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260510234655.htm",
-          "publishedDate": "Mon, 11 May 2026 01:36:06 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new international analysis suggests there may be a surprisingly simple secret to keeping weight off after dieting: walking about 8,500 steps a day. Researchers found that people who boosted their daily steps to around that level during a…",
-          "authors": ""
         }
       ]
     },
@@ -173,75 +173,83 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "The Causally Emergent Alignment Hypothesis: Causal Emergence Aligns with and Predicts Final Reward in Reinforcement Learning Agents",
-          "url": "https://arxiv.org/abs/2605.06746",
-          "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
+          "title": "Drain-Vortex Optimization: A Population-Based Metaheuristic Inspired by Multi-Drain Free-Vortex Flow",
+          "url": "https://arxiv.org/abs/2605.08883",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "A hallmark of life on Earth is the ability of agents to exert causal power and be drivers of subsequent events. This is key to cognition at all scales. Causal emergence, measuring the degree to which an agent exerts unique predictive power…",
-          "authors": "Federico Pigozzi, Michael Levin"
+          "summary": "This paper proposes Drain-Vortex Optimization (DVO), a population-based metaheuristic for continuous optimization. DVO models each candidate solution as a particle moving in a multi-drain vortex field. Its update rule decomposes motion…",
+          "authors": "Mohsen Omidi, Brian Vaughan"
         },
         {
-          "title": "Direct-to-Event Spiking Neural Network Transfer",
-          "url": "https://arxiv.org/abs/2605.07207",
-          "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
+          "title": "Evolutionary Ensemble of Agents",
+          "url": "https://arxiv.org/abs/2605.09018",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking Neural Networks (SNNs) have gained increasing attention due to their potential for low-power computation on neuromorphic hardware. A widely adopted training strategy for SNNs is direct coding, which enable backpropagation on neuron…",
-          "authors": "Nhan Trong Luu, Duong Trung Luu, Pham Ngoc Nam, Truong Cong Thang"
+          "summary": "We introduce Evolutionary Ensemble (EvE), a decentralized framework that organizes existing, highly capable coding agents into a live, co-evolving system for algorithmic discovery. Rather than reinventing the wheel within the \"LLMs as…",
+          "authors": "Zongmin Yu, Liu Yang"
         },
         {
-          "title": "Broken-symmetry shape discrimination on a driven Duffing ring",
-          "url": "https://arxiv.org/abs/2605.07475",
-          "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
+          "title": "Neuromorphic Reinforcement Learning for Quadruped Locomotion Control on Uneven Terrain",
+          "url": "https://arxiv.org/abs/2605.09595",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Distributed computational substrates rely on two elementary operations: bundling, the act of populating a shared physical medium with independently retrievable components, and binding, the act of composing components into outputs whose…",
-          "authors": "Kaspar Anton Schindler"
+          "summary": "Reinforcement learning (RL) has enabled robust quadruped locomotion over complex terrain, but most learned controllers are trained offline with backpropagation in massively parallel simulation and deployed as fixed policies, limiting…",
+          "authors": "Zhuangyu Han, Abhronil Sengupta"
         },
         {
-          "title": "Globally Optimal Training of Spiking Neural Networks via Parameter Reconstruction",
-          "url": "https://arxiv.org/abs/2605.08022",
-          "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
+          "title": "RDEx-CASK: Cauchy Mutation, Archive, and Stagnation Kick for RDEx-CSOP",
+          "url": "https://arxiv.org/abs/2605.09652",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking Neural Networks (SNNs) have been proposed as biologically plausible and energy-efficient alternatives to conventional Artificial Neural Networks (ANNs). However, the training of SNN usually relies on surrogate gradients due to the…",
-          "authors": "Himanshu Udupi, Xiaocong Yang, ChengXiang Zhai"
+          "summary": "We extend RDEx-CSOP with 3 changes that target stagnation & late-stage variance, plus minor parameter tuning. The second scale factor in the standard branch is sampled independently from a truncated Cauchy. A small feasible-only JADE-style…",
+          "authors": "Dikshant, Dikshit Chauhan, Chen Hao, Anupam Trivedi, Harikumar Kandath, Senthilnath Jayavelu"
         },
         {
-          "title": "A Unified Measure-Theoretic View of Diffusion, Score-Based, and Flow Matching Generative Models",
-          "url": "https://arxiv.org/abs/2605.06829",
-          "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
+          "title": "LEVI: Stronger Search Architectures Can Substitute for Larger LLMs in Evolutionary Search",
+          "url": "https://arxiv.org/abs/2605.09764",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We survey continuous-time generative modeling methods based on transporting a simple reference distribution to a data distribution via stochastic or deterministic dynamics. We present a unified framework in which diffusion models,…",
-          "authors": "Aditya Ranganath, Mukesh Singhal"
+          "summary": "LLM-guided evolutionary methods such as AlphaEvolve have proven effective in domains like math, systems research, and algorithmic discovery, but their reliance on frontier models makes each run expensive. We argue this is largely an…",
+          "authors": "Temoor Tanveer"
         },
         {
-          "title": "Every Feedforward Neural Network Definable in an o-Minimal Structure Has Finite Sample Complexity",
-          "url": "https://arxiv.org/abs/2605.07097",
-          "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
+          "title": "Encoding and Decoding Temporal Signals with Spiking Bandpass Wavelets",
+          "url": "https://arxiv.org/abs/2605.09770",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We show that, in a precise sense, a broad class of feedforward neural networks learn (have finite sample complexity) in the PAC model: every fixed finite feedforward architecture whose layers are definable in an o-minimal structure has…",
-          "authors": "Anastasis Kratsios, Gregory Cousins, Haitz Sáez de Ocáriz Borde, Bum Jun Kim, Simone Brugiapaglia"
+          "summary": "Spike-based encodings are sparse and energy-efficient, but have largely been formulated probabilistically, disconnected from most signal processing literature. We recast spike encoders as time-causal wavelet frames with quantitative…",
+          "authors": "Jens Egholm Pedersen, Tony Lindeberg, Peter Gerstoft"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 3,
       "items": [
         {
-          "title": "Same Brain, Different Prediction: How Preprocessing Choices Undermine EEG Decoding Reliability",
-          "url": "https://arxiv.org/abs/2605.07212",
-          "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
+          "title": "Improving TMS EEG Signal Quality for Closed-Loop Neuro Stimulation via Source-Domain Denoising",
+          "url": "https://arxiv.org/abs/2605.08184",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Electroencephalography (EEG) is a cornerstone of brain-computer interfaces and clinical neuroscience, yet deep learning models are typically trained and evaluated under a single, unreported preprocessing pipeline. We formalize…",
-          "authors": "Dengzhe Hou, Zihao Wu, Lingyu Jiang, Zirui Li, Fangzhou Lin, Kazunori D. Yamada"
+          "summary": "This research addresses a validated TMS EEG cleaning pipeline and a corresponding benchmark dataset. It evaluates two widely used artifact removal pipelines. A reference dataset of carefully preprocessed EEG signals was established to…",
+          "authors": "Zhen Tang, Ameer Hamoodi, Stevie Foglia, Aimee Nelson, Zhen Gao"
         },
         {
-          "title": "Enabling Unsupervised Training of Deep EEG Denoisers With Intelligent Partitioning",
-          "url": "https://arxiv.org/abs/2605.06724",
-          "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
+          "title": "Modular Retrieval-Augmented Generalization for Human Action Recognition",
+          "url": "https://arxiv.org/abs/2605.08117",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Denoising wearable electroencephalogram (EEG) is inherently challenging since neural activity is not only subtle but also inseparable from spectrally overlapping noise artifacts. Classical signal processing methods, relying on fixed or…",
-          "authors": "Qiyu Rao, Haozhe Tian, Homayoun Hamedmoghadam, Danilo Mandic"
+          "summary": "Inertial Measurement Unit (IMU)-based Human Activity Recognition (HAR) aims to interpret and classify user behaviors from temporal motion signals. Recently, deep learning frameworks have advanced this task by learning and extracting…",
+          "authors": "Peng Liao, Shangsong Liang, Lin Chen, Peijia Zheng"
+        },
+        {
+          "title": "Clinical Utility and Feasibility of Smartphone-based EEG in Kenya: A Multicenter Observational Study",
+          "url": "https://arxiv.org/abs/2605.08157",
+          "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Purpose: Access to electroencephalography (EEG) remains limited across low- and middle-income countries (LMICs) due to cost, infrastructure requirements, and a shortage of trained staff. This study evaluated the feasibility and clinical…",
+          "authors": "Nomin Enkhtsetseg, William Lehn-Schiøler, Anton Storgaard Mosquera, Magnus Guldberg Pedersen, Dylan Rice, George Wambugu, Nshimiyimana Jules Fidele, Melita Cacic Hribljan, Anca Alina Arbune, Sidsel Armand Larsen, Sandor Beniczky, Farrah J. Mateen"
         }
       ]
     }
