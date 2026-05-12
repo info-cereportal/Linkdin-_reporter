@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T19:27:38.089Z",
+  "generatedAt": "2026-05-12T22:02:56.945Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -95,20 +95,20 @@
           "authors": "Annalisa Merelli"
         },
         {
-          "title": "STAT+: Despite its toll, alcohol is still an awkward subject in the doctor’s office",
-          "url": "https://www.statnews.com/2026/05/12/alcohol-use-disorder-screening-deadliest-drug-series-part-2/?utm_campaign=rss",
+          "title": "STAT+: Alcohol is wreaking havoc on U.S. public health. American society looks the other way",
+          "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-plain-sight-deadliest-drug-series-part-1/?utm_campaign=rss",
           "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "Alcohol screening and counseling are too often compressed or skipped during doctor's visits — a gap that is costing patients and the health care system.",
-          "authors": "Amanda Erickson and Isabella Cueto"
+          "summary": "The Deadliest Drug, a new investigative series, shows that the alcohol epidemic is a generational failure of the medical and public health systems, of industry, and of government.",
+          "authors": "Lev Facher and Isabella Cueto"
         },
         {
-          "title": "6 takeaways from STAT’s investigation into the U.S. alcohol epidemic",
-          "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-deadliest-drug-series-key-takeaways/?utm_campaign=rss",
+          "title": "STAT+: Patients jockey for exemptions from Medicaid’s new work requirements",
+          "url": "https://www.statnews.com/2026/05/12/medicaid-work-requirements-lobbyists-seek-exemptions-deadline-looms/?utm_campaign=rss",
           "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "Alcohol is the culprit behind the United States' most enduring and overlooked drug crisis. Here are 6 takeaways from STAT's new investigative series, The Deadliest Drug.",
-          "authors": "Isabella Cueto and Lev Facher"
+          "summary": "Advocates for people with HIV and sickle cell disease are among those pushing for exemptions from Medicaid’s new work requirements.",
+          "authors": "John Wilkerson"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Why Marty Makary was the worst FDA commissioner in 25 years",
+          "url": "https://www.statnews.com/2026/05/12/marty-makary-worst-fda-commissioner-25-years-stat-writer-matthew-herper/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 20:21:12 +0000",
+          "source": "statnews.com",
+          "summary": "Marty Makary, who resigned under pressure from the FDA, brought to the job a fundamental lack of understanding of the nature of the role, STAT's Matthew Herper writes.",
+          "authors": "Matthew Herper"
+        },
         {
           "title": "STAT+: Makary departs FDA amid turmoil as Diamantas, agency&#8217;s top food official, steps in",
           "url": "https://www.statnews.com/2026/05/12/fda-commissioner-marty-makary-resigns-kyle-diamantas-acting/?utm_campaign=rss",
@@ -156,14 +164,6 @@
           "source": "statnews.com",
           "summary": "The Deadliest Drug, a new investigative series, shows that the alcohol epidemic is a generational failure of the medical and public health systems, of industry, and of government.",
           "authors": "Lev Facher and Isabella Cueto"
-        },
-        {
-          "title": "STAT+: Patients jockey for exemptions from Medicaid’s new work requirements",
-          "url": "https://www.statnews.com/2026/05/12/medicaid-work-requirements-lobbyists-seek-exemptions-deadline-looms/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Advocates for people with HIV and sickle cell disease are among those pushing for exemptions from Medicaid’s new work requirements.",
-          "authors": "John Wilkerson"
         }
       ]
     },
