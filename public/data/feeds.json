@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T17:01:59.377Z",
+  "generatedAt": "2026-05-12T19:27:38.089Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Males who discuss suicide seek help less often than females, report finds",
+          "url": "https://www.statnews.com/2026/05/12/suicide-in-men-crisis-text-line-report-males-see-seeking-help-as-weakness/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 19:21:11 +0000",
+          "source": "statnews.com",
+          "summary": "Out of 1.5 million messages received in 2025, the Crisis Text Line found that less then 20% of the texters identified as male only",
+          "authors": "Annalisa Merelli"
+        },
+        {
           "title": "Supreme Court extends mifepristone deadline",
           "url": "https://www.statnews.com/2026/05/12/health-news-supreme-court-extends-mifepristone-deadline/?utm_campaign=rss",
           "publishedDate": "Tue, 12 May 2026 16:24:40 +0000",
@@ -87,14 +95,6 @@
           "authors": "Annalisa Merelli"
         },
         {
-          "title": "6 takeaways from STAT’s investigation into the U.S. alcohol epidemic",
-          "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-deadliest-drug-series-key-takeaways/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Alcohol is the culprit behind the United States' most enduring and overlooked drug crisis. Here are 6 takeaways from STAT's new investigative series, The Deadliest Drug.",
-          "authors": "Isabella Cueto and Lev Facher"
-        },
-        {
           "title": "STAT+: Despite its toll, alcohol is still an awkward subject in the doctor’s office",
           "url": "https://www.statnews.com/2026/05/12/alcohol-use-disorder-screening-deadliest-drug-series-part-2/?utm_campaign=rss",
           "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
@@ -103,12 +103,12 @@
           "authors": "Amanda Erickson and Isabella Cueto"
         },
         {
-          "title": "STAT+: Alcohol is wreaking havoc on U.S. public health. American society looks the other way",
-          "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-plain-sight-deadliest-drug-series-part-1/?utm_campaign=rss",
+          "title": "6 takeaways from STAT’s investigation into the U.S. alcohol epidemic",
+          "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-deadliest-drug-series-key-takeaways/?utm_campaign=rss",
           "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "The Deadliest Drug, a new investigative series, shows that the alcohol epidemic is a generational failure of the medical and public health systems, of industry, and of government.",
-          "authors": "Lev Facher and Isabella Cueto"
+          "summary": "Alcohol is the culprit behind the United States' most enduring and overlooked drug crisis. Here are 6 takeaways from STAT's new investigative series, The Deadliest Drug.",
+          "authors": "Isabella Cueto and Lev Facher"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Makary departs FDA amid turmoil as Diamantas, agency&#8217;s top food official, steps in",
+          "url": "https://www.statnews.com/2026/05/12/fda-commissioner-marty-makary-resigns-kyle-diamantas-acting/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 17:20:05 +0000",
+          "source": "statnews.com",
+          "summary": "Food and Drug Administration Commissioner Marty Makary is resigning from his role after a tumultuous tenure.",
+          "authors": "Lizzy Lawrence"
+        },
         {
           "title": "STAT+: STAT examines America’s deadliest drug",
           "url": "https://www.statnews.com/2026/05/12/dc-diagnosis-medicaid-work-requirement-exemptions-deadliest-drug-series/?utm_campaign=rss",
@@ -156,14 +164,6 @@
           "source": "statnews.com",
           "summary": "Advocates for people with HIV and sickle cell disease are among those pushing for exemptions from Medicaid’s new work requirements.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "This simple strength test could predict how long you live",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260510234722.htm",
-          "publishedDate": "Mon, 11 May 2026 21:13:48 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Staying strong may be one of the biggest secrets to living longer — especially for older women. A major study of more than 5,000 women found that simple signs of muscle strength, like a firm hand grip or the ability to quickly stand up…",
-          "authors": ""
         }
       ]
     },
