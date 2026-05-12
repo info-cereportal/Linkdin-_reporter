@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T08:34:10.557Z",
+  "generatedAt": "2026-05-12T11:11:53.937Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,20 +63,12 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: Despite its toll, alcohol is still an awkward subject in the doctor’s office",
-          "url": "https://www.statnews.com/2026/05/12/alcohol-use-disorder-screening-deadliest-drug-series-part-2/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
+          "title": "PCOS’s new name is PMOS, a small letter change that required a big scientific process",
+          "url": "https://www.statnews.com/2026/05/12/pcos-now-called-pmos-polyendocrine-metabolic-ovarian-syndrome/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 09:00:00 +0000",
           "source": "statnews.com",
-          "summary": "Alcohol screening and counseling are too often compressed or skipped during doctor's visits — a gap that is costing patients and the health care system.",
-          "authors": "Amanda Erickson and Isabella Cueto"
-        },
-        {
-          "title": "6 takeaways from STAT’s investigation into the U.S. alcohol epidemic",
-          "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-deadliest-drug-series-key-takeaways/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Alcohol is the culprit behind the United States' most enduring and overlooked drug crisis. Here are 6 takeaways from STAT's new investigative series, The Deadliest Drug.",
-          "authors": "Isabella Cueto and Lev Facher"
+          "summary": "A revised name for PCOS — polyendocrine metabolic ovarian syndrome, or PMOS — was introduced in a paper published Tuesday.",
+          "authors": "Annalisa Merelli"
         },
         {
           "title": "STAT+: Alcohol is wreaking havoc on U.S. public health. American society looks the other way",
@@ -95,20 +87,28 @@
           "authors": "John Wilkerson"
         },
         {
+          "title": "STAT+: Despite its toll, alcohol is still an awkward subject in the doctor’s office",
+          "url": "https://www.statnews.com/2026/05/12/alcohol-use-disorder-screening-deadliest-drug-series-part-2/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Alcohol screening and counseling are too often compressed or skipped during doctor's visits — a gap that is costing patients and the health care system.",
+          "authors": "Amanda Erickson and Isabella Cueto"
+        },
+        {
+          "title": "6 takeaways from STAT’s investigation into the U.S. alcohol epidemic",
+          "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-deadliest-drug-series-key-takeaways/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Alcohol is the culprit behind the United States' most enduring and overlooked drug crisis. Here are 6 takeaways from STAT's new investigative series, The Deadliest Drug.",
+          "authors": "Isabella Cueto and Lev Facher"
+        },
+        {
           "title": "Supreme Court temporarily extends women&#8217;s access to a widely used abortion pill",
           "url": "https://www.statnews.com/2026/05/11/supreme-court-temporarily-extends-mifepristone-abortion-pill-access/?utm_campaign=rss",
           "publishedDate": "Mon, 11 May 2026 20:14:08 +0000",
           "source": "statnews.com",
           "summary": "The Supreme Court is temporarily extending access to a widely used abortion pill while it considers whether to allow restrictions on the drug to take effect.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "STAT+: Trump pivots on kratom derivative 7-OH, floating approval for some forms",
-          "url": "https://www.statnews.com/2026/05/11/trump-pivots-on-kratom-derivative-7-oh-floating-approval-for-some-forms/?utm_campaign=rss",
-          "publishedDate": "Mon, 11 May 2026 18:04:34 +0000",
-          "source": "statnews.com",
-          "summary": "Last year, the FDA had warned that natural opioids in kratom were being turned into harmful products. Now President Trump says approval should be considered.",
-          "authors": "Lev Facher"
         }
       ]
     },

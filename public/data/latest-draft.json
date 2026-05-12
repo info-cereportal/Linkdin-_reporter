@@ -1,25 +1,27 @@
 {
-  "generatedAt": "2026-05-12T08:34:10.227Z",
+  "generatedAt": "2026-05-12T11:11:53.683Z",
   "date": "2026-05-12",
-  "topic": "脳刺激と前頭前皮質",
+  "topic": "学習とニューロAI",
   "templateName": "paradigm-shift",
   "riskScore": 0,
-  "paperTitle": "Modulating task outcome value to mitigate real-world procrastination via noninvasive brain stimulation",
-  "paperLink": "https://arxiv.org/abs/2506.21000",
-  "formatted": "脳刺激と前頭前皮質に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 脳刺激 × 前頭前皮質 × ニューロモデュレーション × tDCS(経頭蓋直流電気刺激)\n\n📊 注目すべきデータ：\n→ While the intervention is significantly associated with both decreased task aversiveness and increased perceived task outcome value, a mediation analysis indicated a disassociable...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\n認知・意思決定の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Modulating task outcome value to mitigate real-world procrastination via noninvasive brain stimulation\n🔗 https://arxiv.org/abs/2506.21000\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #認知科学",
-  "summaryJP": "脳刺激と前頭前皮質 — 通説を揺さぶる新たな知見（認知・意思決定）",
-  "paperAuthors": "Zhiyi Chen, Zhilin Ren, Wei Li, ZhenZhen Huo, ZhuangZheng Wang, Ye Liu, Bowen Hu, Wanting Chen, Ting Xu, Artemiy Leonov, Chenyan Zhang, Bernhard Hommel, Tingyong Feng",
+  "paperTitle": "How Much is Brain Data Worth for Machine Learning?",
+  "paperLink": "https://arxiv.org/abs/2605.09243",
+  "figureUrl": "https://arxiv.org/html/2605.09243/2605.09243v1/final-figs/gen_model.png",
+  "formatted": "学習とニューロAIに関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 学習 × ニューロAI\n\n> If a person can solve a task, can measuring their brain make it easier to train a model to solve that task too? Recent NeuroAI work suggests that supplementing task training with neural recordings can modestly improve model performance and robustness.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 How Much is Brain Data Worth for Machine Learning?\n🔗 https://arxiv.org/abs/2605.09243\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #神経科学",
+  "summaryJP": "学習とニューロAI — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
+  "paperAuthors": "Lane Lewis, Zhixin Wang, David Schwab, Xaq Pitkow",
   "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
-  "paperId": "2506.21000",
+  "paperId": "2605.09243",
   "paperSource": "arxiv",
-  "themeArea": "認知・意思決定",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "脳刺激",
-    "前頭前皮質",
-    "ニューロモデュレーション",
-    "tDCS(経頭蓋直流電気刺激)",
-    "PET"
+    "学習",
+    "ニューロAI"
   ],
-  "abstractExcerpt": "Procrastination represents one of the most prevalent behavioral problems associated with individual health and societal productivity. Despite its high prevalence and substantial impact on daily functioning, its underlying neurocognitive…",
-  "figureUrls": []
+  "abstractExcerpt": "If a person can solve a task, can measuring their brain make it easier to train a model to solve that task too? Recent NeuroAI work suggests that supplementing task training with neural recordings can modestly improve model performance and…",
+  "figureUrls": [
+    "https://arxiv.org/html/2605.09243/2605.09243v1/final-figs/gen_model.png",
+    "https://arxiv.org/html/2605.09243/2605.09243v1/x1.png",
+    "https://arxiv.org/html/2605.09243/2605.09243v1/x2.png"
+  ]
 }
