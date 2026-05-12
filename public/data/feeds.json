@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T05:57:37.568Z",
+  "generatedAt": "2026-05-12T08:34:10.557Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,38 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Despite its toll, alcohol is still an awkward subject in the doctor’s office",
+          "url": "https://www.statnews.com/2026/05/12/alcohol-use-disorder-screening-deadliest-drug-series-part-2/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Alcohol screening and counseling are too often compressed or skipped during doctor's visits — a gap that is costing patients and the health care system.",
+          "authors": "Amanda Erickson and Isabella Cueto"
+        },
+        {
+          "title": "6 takeaways from STAT’s investigation into the U.S. alcohol epidemic",
+          "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-deadliest-drug-series-key-takeaways/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Alcohol is the culprit behind the United States' most enduring and overlooked drug crisis. Here are 6 takeaways from STAT's new investigative series, The Deadliest Drug.",
+          "authors": "Isabella Cueto and Lev Facher"
+        },
+        {
+          "title": "STAT+: Alcohol is wreaking havoc on U.S. public health. American society looks the other way",
+          "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-plain-sight-deadliest-drug-series-part-1/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The Deadliest Drug, a new investigative series, shows that the alcohol epidemic is a generational failure of the medical and public health systems, of industry, and of government.",
+          "authors": "Lev Facher and Isabella Cueto"
+        },
+        {
+          "title": "STAT+: Patients jockey for exemptions from Medicaid’s new work requirements",
+          "url": "https://www.statnews.com/2026/05/12/medicaid-work-requirements-lobbyists-seek-exemptions-deadline-looms/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Advocates for people with HIV and sickle cell disease are among those pushing for exemptions from Medicaid’s new work requirements.",
+          "authors": "John Wilkerson"
+        },
+        {
           "title": "Supreme Court temporarily extends women&#8217;s access to a widely used abortion pill",
           "url": "https://www.statnews.com/2026/05/11/supreme-court-temporarily-extends-mifepristone-abortion-pill-access/?utm_campaign=rss",
           "publishedDate": "Mon, 11 May 2026 20:14:08 +0000",
@@ -77,38 +109,6 @@
           "source": "statnews.com",
           "summary": "Last year, the FDA had warned that natural opioids in kratom were being turned into harmful products. Now President Trump says approval should be considered.",
           "authors": "Lev Facher"
-        },
-        {
-          "title": "No FDA permission, no problem: New flavored vape policy worries experts",
-          "url": "https://www.statnews.com/2026/05/11/fda-vape-policy-new-guidance-favors-industry/?utm_campaign=rss",
-          "publishedDate": "Mon, 11 May 2026 17:14:24 +0000",
-          "source": "statnews.com",
-          "summary": "A new FDA policy will let some flavored vapes stay on the market without authorization.",
-          "authors": "Sarah Todd"
-        },
-        {
-          "title": "The connection between periods and mental health",
-          "url": "https://www.statnews.com/2026/05/11/health-news-connection-between-periods-and-mental-health/?utm_campaign=rss",
-          "publishedDate": "Mon, 11 May 2026 11:52:44 +0000",
-          "source": "statnews.com",
-          "summary": "Plans to oust Makary, a looming Supreme Court deadline on mifepristone, and other health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: Five years after disaster, a rare disease community gets new chance at treatment",
-          "url": "https://www.statnews.com/2026/05/11/astellas-gene-therapy-trials-resume-promising-myotubular-myopathy-treatment/?utm_campaign=rss",
-          "publishedDate": "Mon, 11 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Some boys had astonishing recoveries. But other boys died. Now Astellas is returning to revised gene therapy for XLMTM.",
-          "authors": "Jason Mast"
-        },
-        {
-          "title": "Animal skin disease confirmed in clusters of European men who have sex with men",
-          "url": "https://www.statnews.com/2026/05/11/rare-animal-skin-infection-msm-clusters-europe-dermatophilus-congolensis/?utm_campaign=rss",
-          "publishedDate": "Mon, 11 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "European researchers have diagnosed a number of men who have sex with other men with a skin disease that normally infects livestock.",
-          "authors": "Helen Branswell"
         }
       ]
     },
@@ -117,6 +117,22 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Alcohol is wreaking havoc on U.S. public health. American society looks the other way",
+          "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-plain-sight-deadliest-drug-series-part-1/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The Deadliest Drug, a new investigative series, shows that the alcohol epidemic is a generational failure of the medical and public health systems, of industry, and of government.",
+          "authors": "Lev Facher and Isabella Cueto"
+        },
+        {
+          "title": "STAT+: Patients jockey for exemptions from Medicaid’s new work requirements",
+          "url": "https://www.statnews.com/2026/05/12/medicaid-work-requirements-lobbyists-seek-exemptions-deadline-looms/?utm_campaign=rss",
+          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Advocates for people with HIV and sickle cell disease are among those pushing for exemptions from Medicaid’s new work requirements.",
+          "authors": "John Wilkerson"
+        },
         {
           "title": "This simple strength test could predict how long you live",
           "url": "https://www.sciencedaily.com/releases/2026/05/260510234722.htm",
@@ -148,22 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "Researchers say fructose is not just “empty calories” — it may actively push the body toward fat storage and metabolic disease. A new review found that fructose affects the body differently from glucose, disrupting normal energy regulation…",
           "authors": ""
-        },
-        {
-          "title": "STAT+: Medicare is spending far less than expected on new Alzheimer’s drugs",
-          "url": "https://www.statnews.com/2026/05/11/medicare-spending-less-than-expected-alzheimers-drugs-leqembi-kisunla/?utm_campaign=rss",
-          "publishedDate": "Mon, 11 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Adoption has been slow with new Alzheimer’s drugs because the treatments are complicated to administer and the benefits are uncertain.",
-          "authors": "Bob Herman"
-        },
-        {
-          "title": "STAT+: Provider, insurer groups rush to shape No Surprises Act arbitration rules",
-          "url": "https://www.statnews.com/2026/05/11/no-surprises-act-new-rules-dispute-resolution/?utm_campaign=rss",
-          "publishedDate": "Mon, 11 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Doctors and insurers are battling to reshape the controversial No Surprises Act arbitration process, which has long frustrated both sides.",
-          "authors": "Tara Bannow"
         }
       ]
     },
