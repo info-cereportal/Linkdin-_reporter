@@ -1,5 +1,27 @@
 [
   {
+    "generatedAt": "2026-05-13T06:17:09.006Z",
+    "date": "2026-05-13",
+    "topic": "学習と人工ニューラルネットワーク",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Internally triggered retrospective learning in neural networks",
+    "paperLink": "https://arxiv.org/abs/2605.10994",
+    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n数字が語る、学習と人工ニューラルネットワークの新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習 × 人工ニューラルネットワーク\n\n> Learning in artificial neural networks usually relies on continuous, externally driven weight updates, in which parameters are modified at every step in response to incoming data, error signals or reward feedback. In this setting, routine and informative inputs contribute...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Internally triggered retrospective learning in neural networks\n🔗 https://arxiv.org/abs/2605.10994\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #計算論的神経科学",
+    "summaryJP": "学習と人工ニューラルネットワーク — 数値で示された新事実（ニューロAI・計算論）",
+    "paperAuthors": "Arturo Tozzi",
+    "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+    "paperId": "2605.10994",
+    "paperSource": "arxiv",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "学習",
+      "人工ニューラルネットワーク"
+    ],
+    "abstractExcerpt": "Learning in artificial neural networks usually relies on continuous, externally driven weight updates, in which parameters are modified at every step in response to incoming data, error signals or reward feedback. In this setting, routine…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-05-13T02:06:47.185Z",
     "date": "2026-05-13",
     "topic": "ニューロAIと深層学習",
