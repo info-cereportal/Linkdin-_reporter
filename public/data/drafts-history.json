@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-05-13T11:25:35.150Z",
+    "date": "2026-05-13",
+    "topic": "人工ニューラルネットワークと視覚野",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Self-organized MT Direction Maps Emerge from Spatiotemporal Contrastive Optimization",
+    "paperLink": "https://arxiv.org/abs/2605.11718",
+    "figureUrl": "https://arxiv.org/html/2605.11718/2605.11718v1/x1.png",
+    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n数字が語る、人工ニューラルネットワークと視覚野の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 人工ニューラルネットワーク × 視覚野\n\n> The spatial and functional organization of the primate visual cortex is a fundamental problem in neuroscience. While recent computational frameworks like the Topographic Deep Artificial Neural Network (TDANN) have successfully modeled spatial organization in the ventral stream,...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Self-organized MT Direction Maps Emerge from Spatiotemporal Contrastive Optimization\n🔗 https://arxiv.org/abs/2605.11718\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #NeuroAI",
+    "summaryJP": "人工ニューラルネットワークと視覚野 — 数値で示された新事実（ニューロAI・計算論）",
+    "paperAuthors": "Zhaotian Gu, Molan Li, Jie Su, Chang Liu, Tianyi Qian, Dahui Wang",
+    "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+    "paperId": "2605.11718",
+    "paperSource": "arxiv",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "人工ニューラルネットワーク",
+      "視覚野"
+    ],
+    "abstractExcerpt": "The spatial and functional organization of the primate visual cortex is a fundamental problem in neuroscience. While recent computational frameworks like the Topographic Deep Artificial Neural Network (TDANN) have successfully modeled…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.11718/2605.11718v1/x1.png",
+      "https://arxiv.org/html/2605.11718/2605.11718v1/x2.png",
+      "https://arxiv.org/html/2605.11718/2605.11718v1/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-13T06:17:09.006Z",
     "date": "2026-05-13",
     "topic": "学習と人工ニューラルネットワーク",

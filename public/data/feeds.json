@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T06:17:09.291Z",
+  "generatedAt": "2026-05-13T11:25:35.720Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,38 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: A new kind of liver crisis is emerging in the U.S. The American diet is to blame",
+          "url": "https://www.statnews.com/2026/05/13/liver-disease-metald-examined-part-3-stat-series-deadliest-drug/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Young people and women are particularly vulnerable to MetALD, a dangerous merging of metabolic disease and alcohol use.",
+          "authors": "Isabella Cueto"
+        },
+        {
+          "title": "STAT+: Bill Cassidy risked his legacy. It may not be enough to save his career",
+          "url": "https://www.statnews.com/2026/05/13/bill-cassidy-rfk-jr-trump-louisiana-senate-primary/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Sen. Bill Cassidy risked his legacy. It may not be enough to save his career.",
+          "authors": "Chelsea Cirruzzo and Daniel Payne"
+        },
+        {
+          "title": "Opinion: Access to air conditioning is critical preventive care. But federal policy treats it as optional",
+          "url": "https://www.statnews.com/2026/05/13/heat-wave-air-conditioning-preventive-care-diabetes-liheap/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Access to air conditioning is critical preventive care. But federal policy treats it as optional, write Charles E. Leonard and Anthony Nicome.",
+          "authors": "Charles E. Leonard and Anthony Nicome"
+        },
+        {
+          "title": "Opinion: RFK Jr.’s antidepressant deprescribing push gets one thing right — and others dangerously wrong",
+          "url": "https://www.statnews.com/2026/05/13/antidepressant-deprescribing-kennedy-ssris/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "“Deprescribing requires gradual tapering, psychological support, careful risk stratification, and accessible alternatives — none of which Kennedy’s initiative provides at scale.”",
+          "authors": "Jonathan Slater"
+        },
+        {
           "title": "Males who discuss suicide seek help less often than females, report finds",
           "url": "https://www.statnews.com/2026/05/12/suicide-in-men-crisis-text-line-report-males-see-seeking-help-as-weakness/?utm_campaign=rss",
           "publishedDate": "Tue, 12 May 2026 19:21:11 +0000",
@@ -77,38 +109,6 @@
           "source": "statnews.com",
           "summary": "The deadliest drug in the country, the new name for PCOS, and more health news from Morning Rounds",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: STAT examines America’s deadliest drug",
-          "url": "https://www.statnews.com/2026/05/12/dc-diagnosis-medicaid-work-requirement-exemptions-deadliest-drug-series/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 14:23:52 +0000",
-          "source": "statnews.com",
-          "summary": "STAT examines America's failure to address excessive alcohol use across decades.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "PCOS’s new name is PMOS, a small letter change that required a big scientific process",
-          "url": "https://www.statnews.com/2026/05/12/pcos-now-called-pmos-polyendocrine-metabolic-ovarian-syndrome/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 09:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "A revised name for PCOS — polyendocrine metabolic ovarian syndrome, or PMOS — was introduced in a paper published Tuesday.",
-          "authors": "Annalisa Merelli"
-        },
-        {
-          "title": "STAT+: Despite its toll, alcohol is still an awkward subject in the doctor’s office",
-          "url": "https://www.statnews.com/2026/05/12/alcohol-use-disorder-screening-deadliest-drug-series-part-2/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Alcohol screening and counseling are too often compressed or skipped during doctor's visits — a gap that is costing patients and the health care system.",
-          "authors": "Amanda Erickson and Isabella Cueto"
-        },
-        {
-          "title": "6 takeaways from STAT’s investigation into the U.S. alcohol epidemic",
-          "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-deadliest-drug-series-key-takeaways/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Alcohol is the culprit behind the United States' most enduring and overlooked drug crisis. Here are 6 takeaways from STAT's new investigative series, The Deadliest Drug.",
-          "authors": "Isabella Cueto and Lev Facher"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Bill Cassidy risked his legacy. It may not be enough to save his career",
+          "url": "https://www.statnews.com/2026/05/13/bill-cassidy-rfk-jr-trump-louisiana-senate-primary/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Sen. Bill Cassidy risked his legacy. It may not be enough to save his career.",
+          "authors": "Chelsea Cirruzzo and Daniel Payne"
+        },
         {
           "title": "A rare cancer-fighting plant compound has been decoded",
           "url": "https://www.sciencedaily.com/releases/2026/05/260512213836.htm",
@@ -156,14 +164,6 @@
           "source": "statnews.com",
           "summary": "Marty Makary, who resigned under pressure from the FDA, brought to the job a fundamental lack of understanding of the nature of the role, STAT's Matthew Herper writes.",
           "authors": "Matthew Herper"
-        },
-        {
-          "title": "STAT+: Makary departs FDA amid turmoil as Diamantas, agency&#8217;s top food official, steps in",
-          "url": "https://www.statnews.com/2026/05/12/fda-commissioner-marty-makary-resigns-kyle-diamantas-acting/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 17:20:05 +0000",
-          "source": "statnews.com",
-          "summary": "Food and Drug Administration Commissioner Marty Makary is resigning from his role after a tumultuous tenure.",
-          "authors": "Lizzy Lawrence"
         }
       ]
     },
