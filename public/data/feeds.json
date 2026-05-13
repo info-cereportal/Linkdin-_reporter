@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T14:05:46.453Z",
+  "generatedAt": "2026-05-13T17:08:11.038Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "U.S. overdose deaths fell again in 2025, but some worry about policy and drug supply changes",
+          "url": "https://www.statnews.com/2026/05/13/us-overdose-deaths-2025-fell-again/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 16:16:25 +0000",
+          "source": "statnews.com",
+          "summary": "About 70,000 Americans died of drug overdoses last year — about 14% fewer than the previous year, according to preliminary government data.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "The ‘velocity of obesity’ aims to show which nations are slowing an epidemic",
+          "url": "https://www.statnews.com/2026/05/13/obesity-rates-bmi-rising-low-income-countries-plateau-wealthier-nations/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 15:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "A study finds the rise in U.S. obesity rates have hit a plateau in children but are still climbing for adults, and are still high compared to those in other&#8230;",
+          "authors": "Elizabeth Cooney"
+        },
+        {
           "title": "New subpoena suggests DOJ has begun criminal investigation of gender-affirming care",
           "url": "https://www.statnews.com/2026/05/13/gender-affirming-care-minors-doj-subpoenas-suggest-criminal-probe/?utm_campaign=rss",
           "publishedDate": "Wed, 13 May 2026 13:54:13 +0000",
@@ -77,22 +93,6 @@
           "source": "statnews.com",
           "summary": "Bill Cassidy's can't-win conundrum, what RFK Jr. gets right and wrong about antidepressants, and more health news",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "Opinion: Access to air conditioning is critical preventive care. But federal policy treats it as optional",
-          "url": "https://www.statnews.com/2026/05/13/heat-wave-air-conditioning-preventive-care-diabetes-liheap/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Access to air conditioning is critical preventive care. But federal policy treats it as optional, write Charles E. Leonard and Anthony Nicome.",
-          "authors": "Charles E. Leonard and Anthony Nicome"
-        },
-        {
-          "title": "Opinion: RFK Jr.’s antidepressant deprescribing push gets one thing right — and others dangerously wrong",
-          "url": "https://www.statnews.com/2026/05/13/antidepressant-deprescribing-kennedy-ssris/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "“Deprescribing requires gradual tapering, psychological support, careful risk stratification, and accessible alternatives — none of which Kennedy’s initiative provides at scale.”",
-          "authors": "Jonathan Slater"
         },
         {
           "title": "STAT+: A new kind of liver crisis is emerging in the U.S. The American diet is to blame",
@@ -118,6 +118,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Medicare halts enrollment of new hospice, home health providers",
+          "url": "https://www.statnews.com/2026/05/13/medicare-halts-enrollment-of-new-hospice-home-health-providers/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 15:17:25 +0000",
+          "source": "statnews.com",
+          "summary": "The Centers for Medicare and Medicaid Services said it will pause the enrollment of new hospice and home health providers.",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "This daily habit could lower dementia risk by 35%, scientists say",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260512202350.htm",
+          "publishedDate": "Wed, 13 May 2026 10:29:59 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A huge long-term study found that drinking two to three cups of coffee a day was linked to a much lower risk of dementia, especially before age 75. Researchers say caffeine may help keep brain cells active while reducing inflammation and…",
+          "authors": ""
+        },
+        {
           "title": "New subpoena suggests DOJ has begun criminal investigation of gender-affirming care",
           "url": "https://www.statnews.com/2026/05/13/gender-affirming-care-minors-doj-subpoenas-suggest-criminal-probe/?utm_campaign=rss",
           "publishedDate": "Wed, 13 May 2026 13:54:13 +0000",
@@ -134,35 +150,19 @@
           "authors": "Chelsea Cirruzzo and Daniel Payne"
         },
         {
-          "title": "A rare cancer-fighting plant compound has been decoded",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260512213836.htm",
-          "publishedDate": "Tue, 12 May 2026 21:45:40 EDT",
+          "title": "Scientists discover a mysterious silicone pollutant that may be everywhere",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260512202353.htm",
+          "publishedDate": "Wed, 13 May 2026 01:47:53 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists at UBC Okanagan have uncovered how plants produce mitraphylline, a rare natural compound with promising anti cancer potential. The team identified two enzymes that work together to build the molecule’s unusual twisted structure,…",
+          "summary": "Researchers have uncovered unexpectedly high levels of silicone-based pollutants called methylsiloxanes floating through the atmosphere across cities, rural regions, and even forests. Much of the pollution appears to come from vehicle…",
           "authors": ""
         },
         {
-          "title": "Scientists discover a weak spot shared by polio and common cold viruses",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260512202320.htm",
-          "publishedDate": "Tue, 12 May 2026 21:34:17 EDT",
+          "title": "Your “um” and pauses could reveal early dementia risk",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
+          "publishedDate": "Wed, 13 May 2026 00:18:33 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists at the University of Maryland, Baltimore County, have uncovered a crucial trick used by enteroviruses—the group behind diseases like polio, myocarditis, encephalitis, and even the common cold—to reproduce inside human cells. The…",
-          "authors": ""
-        },
-        {
-          "title": "New drugs could wipe out the “zombie cells” linked to cancer and aging",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260509210646.htm",
-          "publishedDate": "Tue, 12 May 2026 21:22:09 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers found a new way to kill harmful “zombie” cells that linger after chemotherapy and help cancers become more aggressive. These senescent cells survive by relying on a protective protein called GPX4, even while sitting on the edge…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
-          "publishedDate": "Tue, 12 May 2026 19:30:12 EDT",
-          "source": "sciencedaily.com",
-          "summary": "As blood stem cells age, their lysosomes become overactive and damaged, triggering inflammation and weakening the body’s ability to regenerate healthy blood and immune cells. By calming this cellular “overdrive,” researchers restored the…",
+          "summary": "The little pauses, “ums,” and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are closely tied to executive function — the…",
           "authors": ""
         }
       ]
