@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T11:25:35.720Z",
+  "generatedAt": "2026-05-13T14:05:46.453Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,20 +63,20 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: A new kind of liver crisis is emerging in the U.S. The American diet is to blame",
-          "url": "https://www.statnews.com/2026/05/13/liver-disease-metald-examined-part-3-stat-series-deadliest-drug/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 08:30:00 +0000",
+          "title": "New subpoena suggests DOJ has begun criminal investigation of gender-affirming care",
+          "url": "https://www.statnews.com/2026/05/13/gender-affirming-care-minors-doj-subpoenas-suggest-criminal-probe/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 13:54:13 +0000",
           "source": "statnews.com",
-          "summary": "Young people and women are particularly vulnerable to MetALD, a dangerous merging of metabolic disease and alcohol use.",
-          "authors": "Isabella Cueto"
+          "summary": "Several hospitals have received federal grand jury subpoenas regarding gender-affirming care for minors, suggesting a criminal investigation has begun.",
+          "authors": "Theresa Gaffney"
         },
         {
-          "title": "STAT+: Bill Cassidy risked his legacy. It may not be enough to save his career",
-          "url": "https://www.statnews.com/2026/05/13/bill-cassidy-rfk-jr-trump-louisiana-senate-primary/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 08:30:00 +0000",
+          "title": "Extreme heat is worsening faster for Black Americans",
+          "url": "https://www.statnews.com/2026/05/13/health-news-extreme-heat-worsens-faster-for-black-american/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 11:46:32 +0000",
           "source": "statnews.com",
-          "summary": "Sen. Bill Cassidy risked his legacy. It may not be enough to save his career.",
-          "authors": "Chelsea Cirruzzo and Daniel Payne"
+          "summary": "Bill Cassidy's can't-win conundrum, what RFK Jr. gets right and wrong about antidepressants, and more health news",
+          "authors": "Theresa Gaffney"
         },
         {
           "title": "Opinion: Access to air conditioning is critical preventive care. But federal policy treats it as optional",
@@ -95,20 +95,20 @@
           "authors": "Jonathan Slater"
         },
         {
-          "title": "Males who discuss suicide seek help less often than females, report finds",
-          "url": "https://www.statnews.com/2026/05/12/suicide-in-men-crisis-text-line-report-males-see-seeking-help-as-weakness/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 19:21:11 +0000",
+          "title": "STAT+: A new kind of liver crisis is emerging in the U.S. The American diet is to blame",
+          "url": "https://www.statnews.com/2026/05/13/liver-disease-metald-examined-part-3-stat-series-deadliest-drug/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "Out of 1.5 million messages received in 2025, the Crisis Text Line found that less then 20% of the texters identified as male only",
-          "authors": "Annalisa Merelli"
+          "summary": "Young people and women are particularly vulnerable to MetALD, a dangerous merging of metabolic disease and alcohol use.",
+          "authors": "Isabella Cueto"
         },
         {
-          "title": "Supreme Court extends mifepristone deadline",
-          "url": "https://www.statnews.com/2026/05/12/health-news-supreme-court-extends-mifepristone-deadline/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 16:24:40 +0000",
+          "title": "STAT+: Bill Cassidy risked his legacy. It may not be enough to save his career",
+          "url": "https://www.statnews.com/2026/05/13/bill-cassidy-rfk-jr-trump-louisiana-senate-primary/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "The deadliest drug in the country, the new name for PCOS, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
+          "summary": "Sen. Bill Cassidy risked his legacy. It may not be enough to save his career.",
+          "authors": "Chelsea Cirruzzo and Daniel Payne"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "New subpoena suggests DOJ has begun criminal investigation of gender-affirming care",
+          "url": "https://www.statnews.com/2026/05/13/gender-affirming-care-minors-doj-subpoenas-suggest-criminal-probe/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 13:54:13 +0000",
+          "source": "statnews.com",
+          "summary": "Several hospitals have received federal grand jury subpoenas regarding gender-affirming care for minors, suggesting a criminal investigation has begun.",
+          "authors": "Theresa Gaffney"
+        },
         {
           "title": "STAT+: Bill Cassidy risked his legacy. It may not be enough to save his career",
           "url": "https://www.statnews.com/2026/05/13/bill-cassidy-rfk-jr-trump-louisiana-senate-primary/?utm_campaign=rss",
@@ -156,14 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "As blood stem cells age, their lysosomes become overactive and damaged, triggering inflammation and weakening the body’s ability to regenerate healthy blood and immune cells. By calming this cellular “overdrive,” researchers restored the…",
           "authors": ""
-        },
-        {
-          "title": "STAT+: Why Marty Makary was the worst FDA commissioner in 25 years",
-          "url": "https://www.statnews.com/2026/05/12/marty-makary-worst-fda-commissioner-25-years-stat-writer-matthew-herper/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 20:21:12 +0000",
-          "source": "statnews.com",
-          "summary": "Marty Makary, who resigned under pressure from the FDA, brought to the job a fundamental lack of understanding of the nature of the role, STAT's Matthew Herper writes.",
-          "authors": "Matthew Herper"
         }
       ]
     },
