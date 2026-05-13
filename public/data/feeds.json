@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T22:02:56.945Z",
+  "generatedAt": "2026-05-13T02:06:48.232Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -95,20 +95,20 @@
           "authors": "Annalisa Merelli"
         },
         {
-          "title": "STAT+: Alcohol is wreaking havoc on U.S. public health. American society looks the other way",
-          "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-plain-sight-deadliest-drug-series-part-1/?utm_campaign=rss",
+          "title": "STAT+: Despite its toll, alcohol is still an awkward subject in the doctor’s office",
+          "url": "https://www.statnews.com/2026/05/12/alcohol-use-disorder-screening-deadliest-drug-series-part-2/?utm_campaign=rss",
           "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "The Deadliest Drug, a new investigative series, shows that the alcohol epidemic is a generational failure of the medical and public health systems, of industry, and of government.",
-          "authors": "Lev Facher and Isabella Cueto"
+          "summary": "Alcohol screening and counseling are too often compressed or skipped during doctor's visits — a gap that is costing patients and the health care system.",
+          "authors": "Amanda Erickson and Isabella Cueto"
         },
         {
-          "title": "STAT+: Patients jockey for exemptions from Medicaid’s new work requirements",
-          "url": "https://www.statnews.com/2026/05/12/medicaid-work-requirements-lobbyists-seek-exemptions-deadline-looms/?utm_campaign=rss",
+          "title": "6 takeaways from STAT’s investigation into the U.S. alcohol epidemic",
+          "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-deadliest-drug-series-key-takeaways/?utm_campaign=rss",
           "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "Advocates for people with HIV and sickle cell disease are among those pushing for exemptions from Medicaid’s new work requirements.",
-          "authors": "John Wilkerson"
+          "summary": "Alcohol is the culprit behind the United States' most enduring and overlooked drug crisis. Here are 6 takeaways from STAT's new investigative series, The Deadliest Drug.",
+          "authors": "Isabella Cueto and Lev Facher"
         }
       ]
     },
@@ -117,6 +117,38 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "A rare cancer-fighting plant compound has been decoded",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260512213836.htm",
+          "publishedDate": "Tue, 12 May 2026 21:45:40 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists at UBC Okanagan have uncovered how plants produce mitraphylline, a rare natural compound with promising anti cancer potential. The team identified two enzymes that work together to build the molecule’s unusual twisted structure,…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover a weak spot shared by polio and common cold viruses",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260512202320.htm",
+          "publishedDate": "Tue, 12 May 2026 21:34:17 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists at the University of Maryland, Baltimore County, have uncovered a crucial trick used by enteroviruses—the group behind diseases like polio, myocarditis, encephalitis, and even the common cold—to reproduce inside human cells. The…",
+          "authors": ""
+        },
+        {
+          "title": "New drugs could wipe out the “zombie cells” linked to cancer and aging",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260509210646.htm",
+          "publishedDate": "Tue, 12 May 2026 21:22:09 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers found a new way to kill harmful “zombie” cells that linger after chemotherapy and help cancers become more aggressive. These senescent cells survive by relying on a protective protein called GPX4, even while sitting on the edge…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists make old blood stem cells young again in major anti-aging breakthrough",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260511213204.htm",
+          "publishedDate": "Tue, 12 May 2026 19:30:12 EDT",
+          "source": "sciencedaily.com",
+          "summary": "As blood stem cells age, their lysosomes become overactive and damaged, triggering inflammation and weakening the body’s ability to regenerate healthy blood and immune cells. By calming this cellular “overdrive,” researchers restored the…",
+          "authors": ""
+        },
         {
           "title": "STAT+: Why Marty Makary was the worst FDA commissioner in 25 years",
           "url": "https://www.statnews.com/2026/05/12/marty-makary-worst-fda-commissioner-25-years-stat-writer-matthew-herper/?utm_campaign=rss",
@@ -132,38 +164,6 @@
           "source": "statnews.com",
           "summary": "Food and Drug Administration Commissioner Marty Makary is resigning from his role after a tumultuous tenure.",
           "authors": "Lizzy Lawrence"
-        },
-        {
-          "title": "STAT+: STAT examines America’s deadliest drug",
-          "url": "https://www.statnews.com/2026/05/12/dc-diagnosis-medicaid-work-requirement-exemptions-deadliest-drug-series/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 14:23:52 +0000",
-          "source": "statnews.com",
-          "summary": "STAT examines America's failure to address excessive alcohol use across decades.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "Scientists reversed biological age in older adults with a 4-week diet change",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260511213144.htm",
-          "publishedDate": "Tue, 12 May 2026 08:44:25 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A four-week diet change was enough to make some older adults appear biologically younger in a new University of Sydney study. Participants who reduced fat intake or shifted toward more plant-based protein showed improvements in key health…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover hidden fat-burning switch that could strengthen bones",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260511213141.htm",
-          "publishedDate": "Tue, 12 May 2026 07:58:13 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists at McGill University have uncovered a hidden molecular “switch” that turns on a powerful calorie-burning system in brown fat — the body’s heat-generating fat linked to metabolism and weight control. The breakthrough centers on…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Alcohol is wreaking havoc on U.S. public health. American society looks the other way",
-          "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-plain-sight-deadliest-drug-series-part-1/?utm_campaign=rss",
-          "publishedDate": "Tue, 12 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The Deadliest Drug, a new investigative series, shows that the alcohol epidemic is a generational failure of the medical and public health systems, of industry, and of government.",
-          "authors": "Lev Facher and Isabella Cueto"
         }
       ]
     },
