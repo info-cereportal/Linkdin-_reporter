@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T17:08:11.038Z",
+  "generatedAt": "2026-05-13T19:31:14.604Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Opinion: The hantavirus is a wake-up call. Will the Trump administration answer it?",
+          "url": "https://www.statnews.com/2026/05/13/hantavirus-biocontainment-response-cdc-who-pandemic-preparedness/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 19:10:34 +0000",
+          "source": "statnews.com",
+          "summary": "Arriving in the isolation ward of a biocontainment hospital is an unsettling, scary experience. In 2014, I spent 19 days in one while being treated for Ebola, watching the news&#8230;",
+          "authors": "Craig Spencer"
+        },
+        {
+          "title": "STAT+: What the Trump administration wants in its next FDA leader",
+          "url": "https://www.statnews.com/2026/05/13/marty-makary-fda-search-next-commissioner/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 17:26:08 +0000",
+          "source": "statnews.com",
+          "summary": "Leaders want the next FDA commissioner to be someone who can rebuild trust, focus on food policy, and drive drug-approval reforms.",
+          "authors": "Daniel Payne and Lizzy Lawrence"
+        },
+        {
           "title": "U.S. overdose deaths fell again in 2025, but some worry about policy and drug supply changes",
           "url": "https://www.statnews.com/2026/05/13/us-overdose-deaths-2025-fell-again/?utm_campaign=rss",
           "publishedDate": "Wed, 13 May 2026 16:16:25 +0000",
@@ -93,22 +109,6 @@
           "source": "statnews.com",
           "summary": "Bill Cassidy's can't-win conundrum, what RFK Jr. gets right and wrong about antidepressants, and more health news",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: A new kind of liver crisis is emerging in the U.S. The American diet is to blame",
-          "url": "https://www.statnews.com/2026/05/13/liver-disease-metald-examined-part-3-stat-series-deadliest-drug/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Young people and women are particularly vulnerable to MetALD, a dangerous merging of metabolic disease and alcohol use.",
-          "authors": "Isabella Cueto"
-        },
-        {
-          "title": "STAT+: Bill Cassidy risked his legacy. It may not be enough to save his career",
-          "url": "https://www.statnews.com/2026/05/13/bill-cassidy-rfk-jr-trump-louisiana-senate-primary/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Sen. Bill Cassidy risked his legacy. It may not be enough to save his career.",
-          "authors": "Chelsea Cirruzzo and Daniel Payne"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: What the Trump administration wants in its next FDA leader",
+          "url": "https://www.statnews.com/2026/05/13/marty-makary-fda-search-next-commissioner/?utm_campaign=rss",
+          "publishedDate": "Wed, 13 May 2026 17:26:08 +0000",
+          "source": "statnews.com",
+          "summary": "Leaders want the next FDA commissioner to be someone who can rebuild trust, focus on food policy, and drive drug-approval reforms.",
+          "authors": "Daniel Payne and Lizzy Lawrence"
+        },
         {
           "title": "Medicare halts enrollment of new hospice, home health providers",
           "url": "https://www.statnews.com/2026/05/13/medicare-halts-enrollment-of-new-hospice-home-health-providers/?utm_campaign=rss",
@@ -155,14 +163,6 @@
           "publishedDate": "Wed, 13 May 2026 01:47:53 EDT",
           "source": "sciencedaily.com",
           "summary": "Researchers have uncovered unexpectedly high levels of silicone-based pollutants called methylsiloxanes floating through the atmosphere across cities, rural regions, and even forests. Much of the pollution appears to come from vehicle…",
-          "authors": ""
-        },
-        {
-          "title": "Your “um” and pauses could reveal early dementia risk",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
-          "publishedDate": "Wed, 13 May 2026 00:18:33 EDT",
-          "source": "sciencedaily.com",
-          "summary": "The little pauses, “ums,” and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are closely tied to executive function — the…",
           "authors": ""
         }
       ]

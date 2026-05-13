@@ -1,21 +1,27 @@
 {
-  "generatedAt": "2026-05-13T17:08:10.499Z",
+  "generatedAt": "2026-05-13T19:31:14.347Z",
   "date": "2026-05-13",
-  "topic": "注意機構",
+  "topic": "人工ニューラルネットワークと視覚野",
   "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "Accounting for Missed Events in the Bayesian Modeling of IP3R Multimodal Gating",
-  "paperLink": "https://arxiv.org/abs/2605.11675",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、注意機構の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 注意機構\n\n📊 注目すべきデータ：\n→ This limitation can significantly bias the inference of kinetic models describing the receptor activity.\n\nなぜこの数字が重要か。\n\n計算論的神経科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Accounting for Missed Events in the Bayesian Modeling of IP3R Multimodal Gating\n🔗 https://arxiv.org/abs/2605.11675\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #計算論的神経科学",
-  "summaryJP": "注意機構 — 数値で示された新事実（計算論的神経科学）",
-  "paperAuthors": "Schayma Ben Marzougui (AISTROSIGHT), Audrey Denizot (AISTROSIGHT), Hugues Berry (AISTROSIGHT)",
+  "paperTitle": "Self-organized MT Direction Maps Emerge from Spatiotemporal Contrastive Optimization",
+  "paperLink": "https://arxiv.org/abs/2605.11718",
+  "figureUrl": "https://arxiv.org/html/2605.11718/2605.11718v1/x1.png",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n数字が語る、人工ニューラルネットワークと視覚野の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 人工ニューラルネットワーク × 視覚野\n\n> The spatial and functional organization of the primate visual cortex is a fundamental problem in neuroscience. While recent computational frameworks like the Topographic Deep Artificial Neural Network (TDANN) have successfully modeled spatial organization in the ventral stream,...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Self-organized MT Direction Maps Emerge from Spatiotemporal Contrastive Optimization\n🔗 https://arxiv.org/abs/2605.11718\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #NeuralDecoding",
+  "summaryJP": "人工ニューラルネットワークと視覚野 — 数値で示された新事実（ニューロAI・計算論）",
+  "paperAuthors": "Zhaotian Gu, Molan Li, Jie Su, Chang Liu, Tianyi Qian, Dahui Wang",
   "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
-  "paperId": "2605.11675",
+  "paperId": "2605.11718",
   "paperSource": "arxiv",
-  "themeArea": "計算論的神経科学",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "注意機構"
+    "人工ニューラルネットワーク",
+    "視覚野"
   ],
-  "abstractExcerpt": "The Inositol 1,4,5-trisphosphate receptor channel (IP 3 R) is an important calcium channel involved in calcium-induced calcium release, playing a prominent role in intracellular calcium signaling. However, accurately characterizing its…",
-  "figureUrls": []
+  "abstractExcerpt": "The spatial and functional organization of the primate visual cortex is a fundamental problem in neuroscience. While recent computational frameworks like the Topographic Deep Artificial Neural Network (TDANN) have successfully modeled…",
+  "figureUrls": [
+    "https://arxiv.org/html/2605.11718/2605.11718v1/x1.png",
+    "https://arxiv.org/html/2605.11718/2605.11718v1/x2.png",
+    "https://arxiv.org/html/2605.11718/2605.11718v1/x3.png"
+  ]
 }
