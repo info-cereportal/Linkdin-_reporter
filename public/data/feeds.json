@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T19:26:47.471Z",
+  "generatedAt": "2026-05-14T22:00:26.675Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Supreme Court preserves access to widely used abortion pill, while lawsuit plays out",
+          "url": "https://www.statnews.com/2026/05/14/supreme-court-preserves-access-abortion-pill-mifepristone/?utm_campaign=rss",
+          "publishedDate": "Thu, 14 May 2026 21:49:18 +0000",
+          "source": "statnews.com",
+          "summary": "The Supreme Court on Thursday preserved women’s access to the abortion drug mifepristone, rejecting lower-court restrictions while a lawsuit continues.",
+          "authors": "Associated Press"
+        },
+        {
           "title": "STAT+: Three years of declining overdose deaths begets cautious optimism and some concerns",
           "url": "https://www.statnews.com/2026/05/14/health-news-three-years-of-declining-overdose-deaths/?utm_campaign=rss",
           "publishedDate": "Thu, 14 May 2026 11:54:51 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "Arriving in the isolation ward of a biocontainment hospital is an unsettling, scary experience. In 2014, I spent 19 days in one while being treated for Ebola, watching the news&#8230;",
           "authors": "Craig Spencer"
-        },
-        {
-          "title": "STAT+: What the Trump administration wants in its next FDA leader",
-          "url": "https://www.statnews.com/2026/05/13/marty-makary-fda-search-next-commissioner/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 17:26:08 +0000",
-          "source": "statnews.com",
-          "summary": "Leaders want the next FDA commissioner to be someone who can rebuild trust, focus on food policy, and drive drug-approval reforms.",
-          "authors": "Daniel Payne and Lizzy Lawrence"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Supreme Court preserves access to widely used abortion pill, while lawsuit plays out",
+          "url": "https://www.statnews.com/2026/05/14/supreme-court-preserves-access-abortion-pill-mifepristone/?utm_campaign=rss",
+          "publishedDate": "Thu, 14 May 2026 21:49:18 +0000",
+          "source": "statnews.com",
+          "summary": "The Supreme Court on Thursday preserved women’s access to the abortion drug mifepristone, rejecting lower-court restrictions while a lawsuit continues.",
+          "authors": "Associated Press"
+        },
         {
           "title": "STAT+: The hunt for FDA’s next leader",
           "url": "https://www.statnews.com/2026/05/14/next-fda-commissioner-bill-cassidy-primary-challenge-dc-diagnosis/?utm_campaign=rss",
@@ -156,14 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "UC Davis researchers created brand-new psychedelic-like compounds by shining UV light on amino acid-based molecules. These compounds activated key serotonin receptors tied to brain plasticity and mental health benefits, but surprisingly…",
           "authors": ""
-        },
-        {
-          "title": "Officials say $1.3 billion in Medicaid money to California will be deferred over suspicions of fraud",
-          "url": "https://www.statnews.com/2026/05/13/medicaid-money-california-deferred-fraud-suspiscions/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 19:42:48 +0000",
-          "source": "statnews.com",
-          "summary": "Vice President JD Vance announced a $1.3 billion deferral in Medicaid reimbursements to California, as part of an initiative to root out fraud in federal health programs.",
-          "authors": "Associated Press"
         }
       ]
     },

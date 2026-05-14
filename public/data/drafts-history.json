@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-05-14T22:00:26.425Z",
+    "date": "2026-05-14",
+    "topic": "注意機構と言語処理",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "Behavioral Geometric Supervision Aligns Video Foundation Models with Human Social Perception",
+    "paperLink": "https://arxiv.org/abs/2510.01502",
+    "figureUrl": "https://arxiv.org/html/2510.01502/2510.01502v2/x1.png",
+    "formatted": "これを読んで、脳に対する見方が変わりました。\n\nこの研究から得られる3つの重要な示唆。\n\n注意機構と言語処理の最新成果を整理しました。\n\n🔬 注意機構 × 言語処理\n\n> Current video foundation models, including the strongest self-supervised models such as V-JEPA2, fail to capture how humans organize social information in dynamic scenes. For example, across a range of diverse vision models tested, none were able to predict human similarity...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n認知・意思決定の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Behavioral Geometric Supervision Aligns Video Foundation Models with Human Social Perception\n🔗 https://arxiv.org/abs/2510.01502\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #神経科学",
+    "summaryJP": "注意機構と言語処理 — 注目すべき3つの示唆（認知・意思決定）",
+    "paperAuthors": "Kathy Garcia, Leyla Isik",
+    "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+    "paperId": "2510.01502",
+    "paperSource": "arxiv",
+    "themeArea": "認知・意思決定",
+    "jpKeywords": [
+      "注意機構",
+      "言語処理"
+    ],
+    "abstractExcerpt": "Current video foundation models, including the strongest self-supervised models such as V-JEPA2, fail to capture how humans organize social information in dynamic scenes. For example, across a range of diverse vision models tested, none…",
+    "figureUrls": [
+      "https://arxiv.org/html/2510.01502/2510.01502v2/x1.png",
+      "https://arxiv.org/html/2510.01502/2510.01502v2/x2.png",
+      "https://arxiv.org/html/2510.01502/2510.01502v2/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-14T19:26:47.014Z",
     "date": "2026-05-14",
     "topic": "ブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御",
