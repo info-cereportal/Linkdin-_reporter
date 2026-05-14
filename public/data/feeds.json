@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T11:08:33.193Z",
+  "generatedAt": "2026-05-14T13:29:50.177Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Three years of declining overdose deaths begets cautious optimism and some concerns",
+          "url": "https://www.statnews.com/2026/05/14/health-news-three-years-of-declining-overdose-deaths/?utm_campaign=rss",
+          "publishedDate": "Thu, 14 May 2026 11:54:51 +0000",
+          "source": "statnews.com",
+          "summary": "The next FDA leader, how the CDC is responding to hantavirus, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
           "title": "STAT+: Treatment for alcohol addiction is undergoing a seismic shift. Many say it&#8217;s overdue",
           "url": "https://www.statnews.com/2026/05/14/alcohol-use-disorder-treatment-landscape-changing-deadliest-drug-series-part-4/?utm_campaign=rss",
           "publishedDate": "Thu, 14 May 2026 08:30:00 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "Leaders want the next FDA commissioner to be someone who can rebuild trust, focus on food policy, and drive drug-approval reforms.",
           "authors": "Daniel Payne and Lizzy Lawrence"
-        },
-        {
-          "title": "U.S. overdose deaths fell again in 2025, but some worry about policy and drug supply changes",
-          "url": "https://www.statnews.com/2026/05/13/us-overdose-deaths-2025-fell-again/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 16:16:25 +0000",
-          "source": "statnews.com",
-          "summary": "About 70,000 Americans died of drug overdoses last year — about 14% fewer than the previous year, according to preliminary government data.",
-          "authors": "Associated Press"
         }
       ]
     },
