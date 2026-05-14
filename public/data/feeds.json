@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T02:09:10.204Z",
+  "generatedAt": "2026-05-14T06:15:21.809Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Internally triggered retrospective learning in neural networks",
-          "url": "https://arxiv.org/abs/2605.10994",
-          "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+          "title": "Information as Maximum-Caliber Deviation: A bridge between Integrated Information Theory and the Free Energy Principle",
+          "url": "https://arxiv.org/abs/2605.12536",
+          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Learning in artificial neural networks usually relies on continuous, externally driven weight updates, in which parameters are modified at every step in response to incoming data, error signals or reward feedback. In this setting, routine…",
-          "authors": "Arturo Tozzi"
+          "summary": "The Free Energy Principle (FEP) is a leading framework for mathematically modeling self-organization and learning, while Integrated Information Theory (IIT) is a computational ontology of consciousness oriented around irreducible cause and…",
+          "authors": "Alexander Kearney"
         },
         {
-          "title": "Self-organized MT Direction Maps Emerge from Spatiotemporal Contrastive Optimization",
-          "url": "https://arxiv.org/abs/2605.11718",
-          "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+          "title": "Why the Unfinished Keeps Returning: Canxianization and the Dynamics of Conscious Priority",
+          "url": "https://arxiv.org/abs/2605.12543",
+          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The spatial and functional organization of the primate visual cortex is a fundamental problem in neuroscience. While recent computational frameworks like the Topographic Deep Artificial Neural Network (TDANN) have successfully modeled…",
-          "authors": "Zhaotian Gu, Molan Li, Jie Su, Chang Liu, Tianyi Qian, Dahui Wang"
+          "summary": "Some conscious contents disappear after access; others return repeatedly, long after their triggering conditions have ceased. We propose Canxianization as the process by which a perturbation becomes closure-resistant self-relevant…",
+          "authors": "Hengjin Cai, Tianqi Cai"
         },
         {
-          "title": "Empirical scaling laws in balanced networks with conductance-based synapses",
-          "url": "https://arxiv.org/abs/2605.12404",
-          "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+          "title": "Human face perception reflects inverse-generative and naturalistic discriminative objectives",
+          "url": "https://arxiv.org/abs/2605.12619",
+          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Strongly coupled, recurrent, balanced network models have been successful in describing and predicting many phenomena observed in cortical neural recordings. However, most balanced network models use current-based synapse models in place…",
-          "authors": "Vicky Zhu, Gabriel Ocker, Robert Rosenbaum"
+          "summary": "The perceptual representations supporting our ability to recognize faces remain a computational mystery. Deep neural networks offer mechanistic hypotheses for human face perception, but theoretically distinct models often make…",
+          "authors": "Wenxuan Guo, Heiko H. Schütt, Kamila Maria Jozwik, Katherine R. Storrs, Nikolaus Kriegeskorte, Tal Golan"
         },
         {
-          "title": "Letting the neural code speak: Automated characterization of monkey visual neurons through human language",
-          "url": "https://arxiv.org/abs/2605.12485",
-          "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+          "title": "Predictive Coding Light+: learning to predict visual sequences with spike timing-dependent plasticity and synaptic delays",
+          "url": "https://arxiv.org/abs/2605.12732",
+          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Understanding what individual neurons encode is a core question in neuroscience. In primary visual cortex (V1), mathematical models (e.g., Gabor functions) capture neural selectivity, but no comparable framework exists for higher areas. We…",
-          "authors": "Vedang Lad, Katrin Franke, Tamar Rott Shaham, Surya Ganguli, Andreas S. Tolias, Sophia Sanborn, Nikos Karantzas"
+          "summary": "The ability to predict the future is of great value for biological and artificial cognitive systems alike. However, successfully predicting the future typically requires maintaining a memory of the recent past. It is currently unclear how…",
+          "authors": "Antony W. N'dri, Thomas Barbier, Céline Teulière, Jochen Triesch"
         },
         {
-          "title": "Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic Architecture Search with Multi-Quadrant Evaluation",
-          "url": "https://arxiv.org/abs/2605.10947",
-          "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+          "title": "SpikeProphecy: A Large-Scale Benchmark for Autoregressive Neural Population Forecasting",
+          "url": "https://arxiv.org/abs/2605.12992",
+          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "EEG microstate analysis segments continuous brain electrical activity into brief, quasi-stable topographic configurations that reflect discrete functional brain states. Conventional approaches such as Modified K-Means operate directly in…",
-          "authors": "Saheed Faremi, Andrea Visentin, Luca Longo"
+          "summary": "Neural population models, which predict the joint firing of many simultaneously recorded neurons forward in time, are typically evaluated by a single aggregate Pearson correlation $r$ between predicted and actual spike counts, a number…",
+          "authors": "John R. Minnick, Jinghui Geng, Kamran Hussain, Jesus Gonzalez-Ferrer, Ash Robbins, Mohammed A. Mostajo-Radji, David Haussler, Jason K. Eshraghian, Mircea Teodorescu"
         },
         {
-          "title": "Accounting for Missed Events in the Bayesian Modeling of IP3R Multimodal Gating",
-          "url": "https://arxiv.org/abs/2605.11675",
-          "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+          "title": "Implicit Behavioral Decoding from Next-Step Spike Forecasts at Population Scale",
+          "url": "https://arxiv.org/abs/2605.12999",
+          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The Inositol 1,4,5-trisphosphate receptor channel (IP 3 R) is an important calcium channel involved in calcium-induced calcium release, playing a prominent role in intracellular calcium signaling. However, accurately characterizing its…",
-          "authors": "Schayma Ben Marzougui (AISTROSIGHT), Audrey Denizot (AISTROSIGHT), Hugues Berry (AISTROSIGHT)"
+          "summary": "Closed-loop brain-computer interfaces often require both a forecast of upcoming neural population activity and a readout of the animal's behavioral state. A single Mamba forecaster, trained only on next-step spike counts at Neuropixels…",
+          "authors": "John R. Minnick, Jesus Gonzalez-Ferrer, Kamran Hussain, Jinghui Geng, Ash Robbins, Mohammed A. Mostajo-Radji, David Haussler, Jason Eshraghian, Mircea Teodorescu"
         }
       ]
     },
@@ -118,6 +118,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Who are the Japanese? Huge DNA discovery rewrites history",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260514003314.htm",
+          "publishedDate": "Thu, 14 May 2026 01:00:37 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists analyzing the genomes of thousands of people across Japan discovered evidence for a previously overlooked third ancestral group, challenging the long-accepted “dual origins” theory. The newly identified ancestry appears linked…",
+          "authors": ""
+        },
+        {
+          "title": "New psychedelic-like drugs could treat depression without making you trip",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260512202325.htm",
+          "publishedDate": "Wed, 13 May 2026 21:07:03 EDT",
+          "source": "sciencedaily.com",
+          "summary": "UC Davis researchers created brand-new psychedelic-like compounds by shining UV light on amino acid-based molecules. These compounds activated key serotonin receptors tied to brain plasticity and mental health benefits, but surprisingly…",
+          "authors": ""
+        },
+        {
           "title": "Officials say $1.3 billion in Medicaid money to California will be deferred over suspicions of fraud",
           "url": "https://www.statnews.com/2026/05/13/medicaid-money-california-deferred-fraud-suspiscions/?utm_campaign=rss",
           "publishedDate": "Wed, 13 May 2026 19:42:48 +0000",
@@ -148,22 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "A huge long-term study found that drinking two to three cups of coffee a day was linked to a much lower risk of dementia, especially before age 75. Researchers say caffeine may help keep brain cells active while reducing inflammation and…",
           "authors": ""
-        },
-        {
-          "title": "New subpoena suggests DOJ has begun criminal investigation of gender-affirming care",
-          "url": "https://www.statnews.com/2026/05/13/gender-affirming-care-minors-doj-subpoenas-suggest-criminal-probe/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 13:54:13 +0000",
-          "source": "statnews.com",
-          "summary": "Several hospitals have received federal grand jury subpoenas regarding gender-affirming care for minors, suggesting a criminal investigation has begun.",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: Bill Cassidy risked his legacy. It may not be enough to save his career",
-          "url": "https://www.statnews.com/2026/05/13/bill-cassidy-rfk-jr-trump-louisiana-senate-primary/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Sen. Bill Cassidy risked his legacy. It may not be enough to save his career.",
-          "authors": "Chelsea Cirruzzo and Daniel Payne"
         }
       ]
     },
@@ -173,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "On the Impact of Crossover in Many-Objective Optimization: A Runtime Analysis of NSGA-III",
-          "url": "https://arxiv.org/abs/2605.11201",
-          "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+          "title": "FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal Shaping",
+          "url": "https://arxiv.org/abs/2605.13071",
+          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In recent years, a theoretical understanding has rapidly advanced regarding how popular multi-objective evolutionary algorithms (MOEAs) can optimize many-objective problems. However, the benefits of using crossover in many-objective…",
-          "authors": "Andre Opris"
+          "summary": "Spiking Neural Networks (SNNs) are a promising framework for event-driven temporal processing. Prior work has improved temporal modeling through richer neuron dynamics and network-level mechanisms such as recurrence and delays, but it…",
+          "authors": "Jongmin Choi, Joon Son Chung"
         },
         {
-          "title": "Leveraging Non-Equilibrium ECRAM Dynamics for Short-Term Plasticity in Neuromorphic Circuits",
-          "url": "https://arxiv.org/abs/2605.11243",
-          "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+          "title": "The Geno-Synthetic Algorithm: Type-Factored Coevolutionary Optimization for Heterogeneous Genotypes and Assembled Phenotypes",
+          "url": "https://arxiv.org/abs/2605.13365",
+          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Short-term plasticity (STP) is fundamental to temporal information processing in biological neural systems but remains difficult to realize efficiently in neuromorphic hardware. Memristive electrochemical random-access memory (ECRAM)…",
-          "authors": "Alex Currie, Sean Borkholder, Nithil Harris Manimaran, Huayuan Han, Cory Merkel, Ke Xu, Tejasvi Das"
+          "summary": "Many real-world optimization problems are not naturally homogeneous vectors but composite design objects with heterogeneous parameters: integers, real values, Booleans, categoricals, complex-valued descriptors, and embedding vectors.…",
+          "authors": "Alex Bogdan"
         },
         {
-          "title": "Multi-Timescale Conductance Spiking Networks: A Sparse, Gradient-Trainable Framework with Rich Firing Dynamics for Enhanced Temporal Processing",
-          "url": "https://arxiv.org/abs/2605.11835",
-          "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+          "title": "Texture Regenerating and Grafting Using Genome-Driven Neural Cellular Automata",
+          "url": "https://arxiv.org/abs/2605.13630",
+          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking neural networks (SNNs) promise low-power event-driven computation for temporally rich tasks, but commonly used neuron models often trade off gradient-based trainability, dynamical richness, and high activity sparsity. These…",
-          "authors": "Alex Fulleda-Garcia, Saray Soldado-Magraner, Josep Maria Margarit-Taulé"
+          "summary": "This study significantly advances multi-texture synthesis using Neural Cellular Automata (NCAs) by introducing a novel training methodology that enables robust self-regeneration of textures in damaged regions. This inherent healing…",
+          "authors": "Mirela-Magdalena Catrina, Ioana Cristina Plajer, Alexandra B\\uaicoianu"
         },
         {
-          "title": "Black-Box Optimization of Mixed Binary-Continuous Variables: Challenges and Opportunities in Evolutionary Model Merging",
-          "url": "https://arxiv.org/abs/2605.12326",
-          "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+          "title": "ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery",
+          "url": "https://arxiv.org/abs/2605.12784",
+          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Model merging has emerged as a cost-effective alternative to training large language models (LLMs) from scratch, enabling researchers to combine pre-trained models into more capable systems without full retraining. Evolutionary approaches…",
-          "authors": "Md. Robiul Islam Niloy"
+          "summary": "Advances in large language models (LLMs) have recently opened new and promising avenues for small-molecule drug discovery. Yet existing LLM-based approaches for molecular generation often suffer from high rates of invalid and low-quality…",
+          "authors": "Andrew Y. Zhou, Sharvaree Vadgama, Sumanth Varambally, Peter Eckmann, Michael K. Gilson, Rose Yu"
         },
         {
-          "title": "A Family of Quaternion-Valued Differential Evolution Algorithms for Numerical Function Optimization",
-          "url": "https://arxiv.org/abs/2605.12362",
-          "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+          "title": "Embodied Neurocomputation: A Framework for Interfacing Biological Neural Cultures with Scaled Task-Driven Validation",
+          "url": "https://arxiv.org/abs/2605.13315",
+          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The numerical optimization of continuous functions is a fundamental task in many scientific and engineering domains, ranging from mechanical design to training of artificial intelligence models. Among the most effective and widely used…",
-          "authors": "Gerardo Altamirano-Gomez, Álvaro Gallardo, Carlos Ignacio Hernández Castellanos"
+          "summary": "Biological neural networks (BNNs) have been established as a powerful and adaptive substrate that offer the potential for incredibly energy and data efficient information processing with distinct learning mechanisms. Yet a core challenge…",
+          "authors": "Johnson Zhou, Daniel Tanneberg, Forough Habibollahi, Alon Loeffler, Kiaran Lawson, Valentina Baccetti, Kwaku Dad Abu-Bonsrah, Candice Desouza, Finn Doensen, Bradley Watmuff, Daria Kornienko, Azin Azadi, Justin Leigh Bourke, Bernhard Sendhoff, Brett J. Kagan"
         },
         {
-          "title": "Decomposing Evolutionary Mixture-of-LoRA Architectures: The Routing Lever, the Lifecycle Penalty, and a Substrate-Conditional Boundary",
-          "url": "https://arxiv.org/abs/2605.11153",
-          "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+          "title": "TRUST-TAEA: A trustworthiness-guided two-archive evolutionary algorithm with variable-grouping sparse search for large-scale multi-objective optimization",
+          "url": "https://arxiv.org/abs/2605.13324",
+          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We decompose an evolutionary mixture-of-LoRA system on a from-scratch ~150M-parameter widened-D substrate (D=1536, V=32000; D/V approx 0.048; the \"widened-1536\" substrate) into three factors -- a router rewrite (parallel sigmoid gate with…",
-          "authors": "Ramchand Kumaresan"
+          "summary": "Large-scale multi-objective optimization remains challenging because high-dimensional decision spaces, complex variable interactions, and limited function evaluation budgets make it difficult to balance convergence, diversity, and…",
+          "authors": "JunYi Cui"
         }
       ]
     },
@@ -228,12 +228,12 @@
       "itemCount": 1,
       "items": [
         {
-          "title": "From EEG Cleaning to Decoding: The Role of Artifact Rejection in MI-based BCIs",
-          "url": "https://arxiv.org/abs/2605.12408",
-          "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
+          "title": "KAST-BAR: Knowledge-Anchored Semantically-Dynamic Topology Brain Autoregressive Modeling for Universal Neural Interpretation",
+          "url": "https://arxiv.org/abs/2605.13133",
+          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Motor imagery (MI) BCIs are sensitive to EEG artifacts, yet the practical impact of automated artifact rejection on downstream MI decoding performance remains unclear. While most work focuses on decoder design, the contribution of data…",
-          "authors": "Davoud Hajhassani, Bruno Aristimunha, Paul-Adrien Graignic, Apolline Mellot, Lionel Kusch, Arnaud Delorme, Thomas Semah, Arnault H. Caillet"
+          "summary": "While EEG foundation models have shown significant potential in universal neural decoding across tasks, their advancement remains constrained by the inadequacy modeling of complex spatiotemporal topology, as well as the inherent modality…",
+          "authors": "Haoning Wang, Wenchao Yang, Shuai Shen, Yang Li"
         }
       ]
     }

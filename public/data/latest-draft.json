@@ -1,21 +1,31 @@
 {
-  "generatedAt": "2026-05-14T02:09:09.916Z",
+  "generatedAt": "2026-05-14T06:15:21.528Z",
   "date": "2026-05-14",
-  "topic": "注意機構",
+  "topic": "予測符号化とスパイクタイミング",
   "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Accounting for Missed Events in the Bayesian Modeling of IP3R Multimodal Gating",
-  "paperLink": "https://arxiv.org/abs/2605.11675",
-  "formatted": "脳の秘密が、また一つ解き明かされました。\n\nこの研究から得られる3つの重要な示唆。\n\n注意機構の最新成果を整理しました。\n\n🔬 注意機構\n\n📊 注目すべきデータ：\n→ This limitation can significantly bias the inference of kinetic models describing the receptor activity.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n計算論的神経科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Accounting for Missed Events in the Bayesian Modeling of IP3R Multimodal Gating\n🔗 https://arxiv.org/abs/2605.11675\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #NeuroAI",
-  "summaryJP": "注意機構 — 注目すべき3つの示唆（計算論的神経科学）",
-  "paperAuthors": "Schayma Ben Marzougui (AISTROSIGHT), Audrey Denizot (AISTROSIGHT), Hugues Berry (AISTROSIGHT)",
-  "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
-  "paperId": "2605.11675",
+  "paperTitle": "Predictive Coding Light+: learning to predict visual sequences with spike timing-dependent plasticity and synaptic delays",
+  "paperLink": "https://arxiv.org/abs/2605.12732",
+  "figureUrl": "https://arxiv.org/html/2605.12732/2605.12732v1/x1.png",
+  "formatted": "脳の秘密が、また一つ解き明かされました。\n\nこの研究から得られる3つの重要な示唆。\n\n予測符号化とスパイクタイミングの最新成果を整理しました。\n\n🔬 予測符号化 × スパイクタイミング × 学習 × スパイキングニューラルネットワーク(SNN)\n\n> The ability to predict the future is of great value for biological and artificial cognitive systems alike. However, successfully predicting the future typically requires maintaining a memory of the recent past.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Predictive Coding Light+: learning to predict visual sequences with spike timing-dependent plasticity and synaptic delays\n🔗 https://arxiv.org/abs/2605.12732\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #DeepLearning",
+  "summaryJP": "予測符号化とスパイクタイミング — 注目すべき3つの示唆（ニューロAI・計算論）",
+  "paperAuthors": "Antony W. N'dri, Thomas Barbier, Céline Teulière, Jochen Triesch",
+  "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+  "paperId": "2605.12732",
   "paperSource": "arxiv",
-  "themeArea": "計算論的神経科学",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "注意機構"
+    "予測符号化",
+    "スパイクタイミング",
+    "学習",
+    "スパイキングニューラルネットワーク(SNN)",
+    "視覚野",
+    "記憶"
   ],
-  "abstractExcerpt": "The Inositol 1,4,5-trisphosphate receptor channel (IP 3 R) is an important calcium channel involved in calcium-induced calcium release, playing a prominent role in intracellular calcium signaling. However, accurately characterizing its…",
-  "figureUrls": []
+  "abstractExcerpt": "The ability to predict the future is of great value for biological and artificial cognitive systems alike. However, successfully predicting the future typically requires maintaining a memory of the recent past. It is currently unclear how…",
+  "figureUrls": [
+    "https://arxiv.org/html/2605.12732/2605.12732v1/x1.png",
+    "https://arxiv.org/html/2605.12732/2605.12732v1/x2.png",
+    "https://arxiv.org/html/2605.12732/2605.12732v1/x3.png"
+  ]
 }
