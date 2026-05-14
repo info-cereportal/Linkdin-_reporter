@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-05-14T11:08:32.843Z",
+    "date": "2026-05-14",
+    "topic": "Transformer",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "SpikeProphecy: A Large-Scale Benchmark for Autoregressive Neural Population Forecasting",
+    "paperLink": "https://arxiv.org/abs/2605.12992",
+    "figureUrl": "https://arxiv.org/html/2605.12992/2605.12992v1/figures/figure1_hero_v6.png",
+    "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\nTransformerの最新成果を整理しました。\n\n🔬 Transformer\n\n> Neural population models, which predict the joint firing of many simultaneously recorded neurons forward in time, are typically evaluated by a single aggregate Pearson correlation $r$ between predicted and actual spike counts, a number that masks critical structure. We argue...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 SpikeProphecy: A Large-Scale Benchmark for Autoregressive Neural Population Forecasting\n🔗 https://arxiv.org/abs/2605.12992\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #DeepLearning",
+    "summaryJP": "Transformer — 注目すべき3つの示唆（ニューロAI・計算論）",
+    "paperAuthors": "John R. Minnick, Jinghui Geng, Kamran Hussain, Jesus Gonzalez-Ferrer, Ash Robbins, Mohammed A. Mostajo-Radji, David Haussler, Jason K. Eshraghian, Mircea Teodorescu",
+    "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+    "paperId": "2605.12992",
+    "paperSource": "arxiv",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "Transformer"
+    ],
+    "abstractExcerpt": "Neural population models, which predict the joint firing of many simultaneously recorded neurons forward in time, are typically evaluated by a single aggregate Pearson correlation $r$ between predicted and actual spike counts, a number…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.12992/2605.12992v1/figures/figure1_hero_v6.png",
+      "https://arxiv.org/html/2605.12992/2605.12992v1/figures/figure3_findings.png",
+      "https://arxiv.org/html/2605.12992/2605.12992v1/figures/figure_a3_ar_rollout.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-14T06:15:21.528Z",
     "date": "2026-05-14",
     "topic": "予測符号化とスパイクタイミング",
