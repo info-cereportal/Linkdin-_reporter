@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-05-14T16:55:36.382Z",
+  "generatedAt": "2026-05-14T19:26:47.014Z",
   "date": "2026-05-14",
-  "topic": "クローズドループ制御と学習",
+  "topic": "ブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御",
   "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Embodied Neurocomputation: A Framework for Interfacing Biological Neural Cultures with Scaled Task-Driven Validation",
-  "paperLink": "https://arxiv.org/abs/2605.13315",
-  "figureUrl": "https://arxiv.org/html/2605.13315/2605.13315v1/x1.png",
-  "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\nクローズドループ制御と学習の最新成果を整理しました。\n\n🔬 クローズドループ制御 × 学習\n\n📊 注目すべきデータ：\n→ These configurations achieved significantly higher task performances than optimized silicon-based DQN agents under the same interaction budget.\n→ These findings represent an initial step toward robust and scalable goal-oriented learning using BNNs.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nBCI・ニューラルインターフェースの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Embodied Neurocomputation: A Framework for Interfacing Biological Neural Cultures with Scaled Task-Driven Validation\n🔗 https://arxiv.org/abs/2605.13315\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #計算論的神経科学",
-  "summaryJP": "クローズドループ制御と学習 — 注目すべき3つの示唆（BCI・ニューラルインターフェース）",
-  "paperAuthors": "Johnson Zhou, Daniel Tanneberg, Forough Habibollahi, Alon Loeffler, Kiaran Lawson, Valentina Baccetti, Kwaku Dad Abu-Bonsrah, Candice Desouza, Finn Doensen, Bradley Watmuff, Daria Kornienko, Azin Azadi, Justin Leigh Bourke, Bernhard Sendhoff, Brett J. Kagan",
+  "paperTitle": "Implicit Behavioral Decoding from Next-Step Spike Forecasts at Population Scale",
+  "paperLink": "https://arxiv.org/abs/2605.12999",
+  "figureUrl": "https://arxiv.org/html/2605.12999/2605.12999v1/figures/figure_pipeline.png",
+  "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\nブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御の最新成果を整理しました。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × クローズドループ制御\n\n📊 注目すべきデータ：\n→ Across three training seeds, Mamba's predicted rates decode mouse choice at 75.7$\\pm$0.2% trial vote, roughly 2.3 times chance level, and stimulus side at 66.1$\\pm$0.6%, about...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nBCI・ニューラルインターフェースの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Implicit Behavioral Decoding from Next-Step Spike Forecasts at Population Scale\n🔗 https://arxiv.org/abs/2605.12999\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #DeepLearning",
+  "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御 — 注目すべき3つの示唆（BCI・ニューラルインターフェース）",
+  "paperAuthors": "John R. Minnick, Jesus Gonzalez-Ferrer, Kamran Hussain, Jinghui Geng, Ash Robbins, Mohammed A. Mostajo-Radji, David Haussler, Jason Eshraghian, Mircea Teodorescu",
   "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
-  "paperId": "2605.13315",
+  "paperId": "2605.12999",
   "paperSource": "arxiv",
   "themeArea": "BCI・ニューラルインターフェース",
   "jpKeywords": [
-    "クローズドループ制御",
-    "学習"
+    "ブレイン・コンピュータ・インターフェース(BCI)",
+    "クローズドループ制御"
   ],
-  "abstractExcerpt": "Biological neural networks (BNNs) have been established as a powerful and adaptive substrate that offer the potential for incredibly energy and data efficient information processing with distinct learning mechanisms. Yet a core challenge…",
+  "abstractExcerpt": "Closed-loop brain-computer interfaces often require both a forecast of upcoming neural population activity and a readout of the animal's behavioral state. A single Mamba forecaster, trained only on next-step spike counts at Neuropixels…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.13315/2605.13315v1/x1.png",
-    "https://arxiv.org/html/2605.13315/2605.13315v1/x2.png",
-    "https://arxiv.org/html/2605.13315/2605.13315v1/x3.png"
+    "https://arxiv.org/html/2605.12999/2605.12999v1/figures/figure_pipeline.png",
+    "https://arxiv.org/html/2605.12999/2605.12999v1/x1.png",
+    "https://arxiv.org/html/2605.12999/2605.12999v1/x2.png"
   ]
 }
