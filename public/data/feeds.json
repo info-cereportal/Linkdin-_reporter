@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T13:29:50.177Z",
+  "generatedAt": "2026-05-14T16:55:36.804Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -118,6 +118,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: The hunt for FDA’s next leader",
+          "url": "https://www.statnews.com/2026/05/14/next-fda-commissioner-bill-cassidy-primary-challenge-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Thu, 14 May 2026 16:52:38 +0000",
+          "source": "statnews.com",
+          "summary": "Marty Makary is out, and the Trump administration has a long wish list for its next FDA commissioner.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "STAT+: MIT says research has fallen 10 percent, and grad student enrollment is down",
+          "url": "https://www.statnews.com/2026/05/14/mit-research-fell-10-percent-grad-student-enrollment-down/?utm_campaign=rss",
+          "publishedDate": "Thu, 14 May 2026 16:50:01 +0000",
+          "source": "statnews.com",
+          "summary": "At MIT, research has shrunk 10 percent from a year ago, and the school expects a persistent drop in graduate admissions.",
+          "authors": "Aidan Ryan — Boston Globe"
+        },
+        {
+          "title": "Scientists say a daily multivitamin may help slow aging",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260512202345.htm",
+          "publishedDate": "Thu, 14 May 2026 10:22:46 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A daily multivitamin may help slow biological aging, according to researchers studying older adults in a large clinical trial. After two years, participants taking multivitamins showed slower aging in several DNA-based “epigenetic clocks,”…",
+          "authors": ""
+        },
+        {
           "title": "Who are the Japanese? Huge DNA discovery rewrites history",
           "url": "https://www.sciencedaily.com/releases/2026/05/260514003314.htm",
           "publishedDate": "Thu, 14 May 2026 01:00:37 EDT",
@@ -140,30 +164,6 @@
           "source": "statnews.com",
           "summary": "Vice President JD Vance announced a $1.3 billion deferral in Medicaid reimbursements to California, as part of an initiative to root out fraud in federal health programs.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "STAT+: What the Trump administration wants in its next FDA leader",
-          "url": "https://www.statnews.com/2026/05/13/marty-makary-fda-search-next-commissioner/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 17:26:08 +0000",
-          "source": "statnews.com",
-          "summary": "Leaders want the next FDA commissioner to be someone who can rebuild trust, focus on food policy, and drive drug-approval reforms.",
-          "authors": "Daniel Payne and Lizzy Lawrence"
-        },
-        {
-          "title": "Medicare halts enrollment of new hospice, home health providers",
-          "url": "https://www.statnews.com/2026/05/13/medicare-halts-enrollment-of-new-hospice-home-health-providers/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 15:17:25 +0000",
-          "source": "statnews.com",
-          "summary": "The Centers for Medicare and Medicaid Services said it will pause the enrollment of new hospice and home health providers.",
-          "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "This daily habit could lower dementia risk by 35%, scientists say",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260512202350.htm",
-          "publishedDate": "Wed, 13 May 2026 10:29:59 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A huge long-term study found that drinking two to three cups of coffee a day was linked to a much lower risk of dementia, especially before age 75. Researchers say caffeine may help keep brain cells active while reducing inflammation and…",
-          "authors": ""
         }
       ]
     },
