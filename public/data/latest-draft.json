@@ -1,26 +1,25 @@
 {
-  "generatedAt": "2026-05-15T16:46:10.460Z",
+  "generatedAt": "2026-05-15T19:16:13.382Z",
   "date": "2026-05-15",
-  "topic": "言語処理",
+  "topic": "脳刺激と前頭前皮質",
   "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Do Language Models Align with Brains? Prediction Scores Are Not Enough",
-  "paperLink": "https://arxiv.org/abs/2605.14025",
-  "figureUrl": "https://arxiv.org/html/2605.14025/2605.14025v1/x1.png",
-  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n言語処理の最新研究です。\n\n🔬 言語処理\n\n> Brain-language model comparisons often interpret neural prediction scores as evidence that model representations capture brain-relevant language computation. We asked whether language models align with brains, and whether prediction scores are enough to support that claim, using...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Do Language Models Align with Brains? Prediction Scores Are Not Enough\n🔗 https://arxiv.org/abs/2605.14025\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #DeepLearning",
-  "summaryJP": "言語処理 — 次世代へ続く布石（神経デコーディング）",
-  "paperAuthors": "Xiao Jia",
+  "paperTitle": "Modulating task outcome value to mitigate real-world procrastination via noninvasive brain stimulation",
+  "paperLink": "https://arxiv.org/abs/2506.21000",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n脳刺激と前頭前皮質の最新研究です。\n\n🔬 脳刺激 × 前頭前皮質 × ニューロモデュレーション × tDCS(経頭蓋直流電気刺激)\n\n📊 注目すべきデータ：\n→ While the intervention is significantly associated with both decreased task aversiveness and increased perceived task outcome value, a mediation analysis indicated a disassociable...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Modulating task outcome value to mitigate real-world procrastination via noninvasive brain stimulation\n🔗 https://arxiv.org/abs/2506.21000\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #認知科学",
+  "summaryJP": "脳刺激と前頭前皮質 — 次世代へ続く布石（認知・意思決定）",
+  "paperAuthors": "Zhiyi Chen, Zhilin Ren, Wei Li, ZhenZhen Huo, ZhuangZheng Wang, Ye Liu, Bowen Hu, Wanting Chen, Ting Xu, Artemiy Leonov, Chenyan Zhang, Bernhard Hommel, Tingyong Feng",
   "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
-  "paperId": "2605.14025",
+  "paperId": "2506.21000",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "認知・意思決定",
   "jpKeywords": [
-    "言語処理"
+    "脳刺激",
+    "前頭前皮質",
+    "ニューロモデュレーション",
+    "tDCS(経頭蓋直流電気刺激)",
+    "PET"
   ],
-  "abstractExcerpt": "Brain-language model comparisons often interpret neural prediction scores as evidence that model representations capture brain-relevant language computation. We asked whether language models align with brains, and whether prediction scores…",
-  "figureUrls": [
-    "https://arxiv.org/html/2605.14025/2605.14025v1/x1.png",
-    "https://arxiv.org/html/2605.14025/2605.14025v1/x2.png",
-    "https://arxiv.org/html/2605.14025/2605.14025v1/x3.png"
-  ]
+  "abstractExcerpt": "Procrastination represents one of the most prevalent behavioral problems associated with individual health and societal productivity. Despite its high prevalence and substantial impact on daily functioning, its underlying neurocognitive…",
+  "figureUrls": []
 }
