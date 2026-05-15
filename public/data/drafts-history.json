@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-05-15T06:23:20.710Z",
+    "date": "2026-05-15",
+    "topic": "リカレントニューラルネットワーク(RNN)",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Multiple mechanisms of rhythm switching in recurrent neural networks with adaptive time constants",
+    "paperLink": "https://arxiv.org/abs/2605.14388",
+    "figureUrl": "https://arxiv.org/html/2605.14388/2605.14388v1/x1.png",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nリカレントニューラルネットワーク(RNN)の最新研究です。\n\n🔬 リカレントニューラルネットワーク(RNN)\n\n> Although recurrent neural networks (RNNs) trained on cognitive tasks have become a widely used framework for studying neural computation, the internal mechanisms by which RNNs switch between rhythms across multiple frequency bands, and how these mechanisms relate to neuronal...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Multiple mechanisms of rhythm switching in recurrent neural networks with adaptive time constants\n🔗 https://arxiv.org/abs/2605.14388\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #脳情報",
+    "summaryJP": "リカレントニューラルネットワーク(RNN) — 次世代へ続く布石（コネクトミクス・回路解析）",
+    "paperAuthors": "Yutaka Yamaguti, Shota Nakamura",
+    "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
+    "paperId": "2605.14388",
+    "paperSource": "arxiv",
+    "themeArea": "コネクトミクス・回路解析",
+    "jpKeywords": [
+      "リカレントニューラルネットワーク(RNN)"
+    ],
+    "abstractExcerpt": "Although recurrent neural networks (RNNs) trained on cognitive tasks have become a widely used framework for studying neural computation, the internal mechanisms by which RNNs switch between rhythms across multiple frequency bands, and how…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.14388/2605.14388v1/x1.png",
+      "https://arxiv.org/html/2605.14388/2605.14388v1/x2.png",
+      "https://arxiv.org/html/2605.14388/2605.14388v1/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-15T02:07:33.264Z",
     "date": "2026-05-15",
     "topic": "ブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御",

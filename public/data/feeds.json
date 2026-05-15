@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T02:07:33.534Z",
+  "generatedAt": "2026-05-15T06:23:20.953Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Information as Maximum-Caliber Deviation: A bridge between Integrated Information Theory and the Free Energy Principle",
-          "url": "https://arxiv.org/abs/2605.12536",
-          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+          "title": "Consciousness as Uncommon Self-Knowledge: A Synergistic Information Framework",
+          "url": "https://arxiv.org/abs/2605.13884",
+          "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The Free Energy Principle (FEP) is a leading framework for mathematically modeling self-organization and learning, while Integrated Information Theory (IIT) is a computational ontology of consciousness oriented around irreducible cause and…",
-          "authors": "Alexander Kearney"
+          "summary": "We propose uncommon self-knowledge (USK) as a candidate criterion for consciousness: synergistic information a system carries about itself that exists only in the joint of its subsystems and is destroyed by decomposition. Drawing on…",
+          "authors": "Krti Tallam"
         },
         {
-          "title": "Why the Unfinished Keeps Returning: Canxianization and the Dynamics of Conscious Priority",
-          "url": "https://arxiv.org/abs/2605.12543",
-          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+          "title": "Feature Visualization Recovers Known Cortical Selectivity from TRIBE v2",
+          "url": "https://arxiv.org/abs/2605.13904",
+          "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Some conscious contents disappear after access; others return repeatedly, long after their triggering conditions have ceased. We propose Canxianization as the process by which a perturbation becomes closure-resistant self-relevant…",
-          "authors": "Hengjin Cai, Tianqi Cai"
+          "summary": "Brain encoder models predict cortical fMRI responses from the internal activations of pretrained vision and language networks, and are typically evaluated by held-out prediction accuracy. This is a useful signal for training but a poor one…",
+          "authors": "Stuart Bladon, Brinnae Bent"
         },
         {
-          "title": "Human face perception reflects inverse-generative and naturalistic discriminative objectives",
-          "url": "https://arxiv.org/abs/2605.12619",
-          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+          "title": "Do Language Models Align with Brains? Prediction Scores Are Not Enough",
+          "url": "https://arxiv.org/abs/2605.14025",
+          "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The perceptual representations supporting our ability to recognize faces remain a computational mystery. Deep neural networks offer mechanistic hypotheses for human face perception, but theoretically distinct models often make…",
-          "authors": "Wenxuan Guo, Heiko H. Schütt, Kamila Maria Jozwik, Katherine R. Storrs, Nikolaus Kriegeskorte, Tal Golan"
+          "summary": "Brain-language model comparisons often interpret neural prediction scores as evidence that model representations capture brain-relevant language computation. We asked whether language models align with brains, and whether prediction scores…",
+          "authors": "Xiao Jia"
         },
         {
-          "title": "Predictive Coding Light+: learning to predict visual sequences with spike timing-dependent plasticity and synaptic delays",
-          "url": "https://arxiv.org/abs/2605.12732",
-          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+          "title": "Approximate Macroscopic Dynamics of Spiking Neural Networks Based on Solutions to the Transport Equation",
+          "url": "https://arxiv.org/abs/2605.14319",
+          "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The ability to predict the future is of great value for biological and artificial cognitive systems alike. However, successfully predicting the future typically requires maintaining a memory of the recent past. It is currently unclear how…",
-          "authors": "Antony W. N'dri, Thomas Barbier, Céline Teulière, Jochen Triesch"
+          "summary": "Firing rate fluctuations in neural populations are observed experimentally over multiple time scales, in single neurons, across trials when elicited by stimuli, and across populations. In this work, we examine how firing rate fluctuations…",
+          "authors": "Wilten Nicola, Sue Ann Campbell"
         },
         {
-          "title": "SpikeProphecy: A Large-Scale Benchmark for Autoregressive Neural Population Forecasting",
-          "url": "https://arxiv.org/abs/2605.12992",
-          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+          "title": "Multiple mechanisms of rhythm switching in recurrent neural networks with adaptive time constants",
+          "url": "https://arxiv.org/abs/2605.14388",
+          "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neural population models, which predict the joint firing of many simultaneously recorded neurons forward in time, are typically evaluated by a single aggregate Pearson correlation $r$ between predicted and actual spike counts, a number…",
-          "authors": "John R. Minnick, Jinghui Geng, Kamran Hussain, Jesus Gonzalez-Ferrer, Ash Robbins, Mohammed A. Mostajo-Radji, David Haussler, Jason K. Eshraghian, Mircea Teodorescu"
+          "summary": "Although recurrent neural networks (RNNs) trained on cognitive tasks have become a widely used framework for studying neural computation, the internal mechanisms by which RNNs switch between rhythms across multiple frequency bands, and how…",
+          "authors": "Yutaka Yamaguti, Shota Nakamura"
         },
         {
-          "title": "Implicit Behavioral Decoding from Next-Step Spike Forecasts at Population Scale",
-          "url": "https://arxiv.org/abs/2605.12999",
-          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+          "title": "Are cortical microcircuits optimized for information flux? -- A simulation-based reverse engineering study",
+          "url": "https://arxiv.org/abs/2605.14680",
+          "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Closed-loop brain-computer interfaces often require both a forecast of upcoming neural population activity and a readout of the animal's behavioral state. A single Mamba forecaster, trained only on next-step spike counts at Neuropixels…",
-          "authors": "John R. Minnick, Jesus Gonzalez-Ferrer, Kamran Hussain, Jinghui Geng, Ash Robbins, Mohammed A. Mostajo-Radji, David Haussler, Jason Eshraghian, Mircea Teodorescu"
+          "summary": "A sufficiently large information flux in recurrent neural networks, quantified by the mutual information between successive network states, is considered a prerequisite for rich information processing capabilities. This raises the question…",
+          "authors": "Claus Metzner, Ali Ghebleh, Karin Prebeck, Achim Schilling, Andreas Maier, Thomas Kinfe, Patrick Krauss"
         }
       ]
     },
@@ -118,6 +118,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "A grad student’s wild idea sparks a major aging breakthrough",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm",
+          "publishedDate": "Fri, 15 May 2026 00:50:11 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A casual conversation between graduate students helped spark a breakthrough in aging research at Mayo Clinic. Researchers discovered that tiny synthetic DNA molecules called aptamers can selectively attach to senescent “zombie cells,”…",
+          "authors": ""
+        },
+        {
+          "title": "A 47-year study reveals when strength and fitness start to fade",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515000947.htm",
+          "publishedDate": "Fri, 15 May 2026 00:15:26 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A groundbreaking Swedish study that tracked people for nearly 50 years has revealed when the body’s physical decline quietly begins. Researchers found that fitness, strength, and muscle endurance start slipping around age 35, with the…",
+          "authors": ""
+        },
+        {
+          "title": "Colon cancer is rising in young adults and doctors don’t fully know why",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260513221805.htm",
+          "publishedDate": "Thu, 14 May 2026 20:50:57 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Colorectal cancer is increasingly showing up in younger adults, with cases now appearing in people as young as their thirties — often with no family history or warning signs. A major Swiss study analyzing nearly 100,000 cases over four…",
+          "authors": ""
+        },
+        {
           "title": "Supreme Court preserves access to widely used abortion pill, while lawsuit plays out",
           "url": "https://www.statnews.com/2026/05/14/supreme-court-preserves-access-abortion-pill-mifepristone/?utm_campaign=rss",
           "publishedDate": "Thu, 14 May 2026 21:49:18 +0000",
@@ -140,30 +164,6 @@
           "source": "statnews.com",
           "summary": "At MIT, research has shrunk 10% from a year ago, and the school expects a persistent drop in graduate admissions.",
           "authors": "Aidan Ryan — Boston Globe"
-        },
-        {
-          "title": "Scientists say a daily multivitamin may help slow aging",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260512202345.htm",
-          "publishedDate": "Thu, 14 May 2026 10:22:46 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A daily multivitamin may help slow biological aging, according to researchers studying older adults in a large clinical trial. After two years, participants taking multivitamins showed slower aging in several DNA-based “epigenetic clocks,”…",
-          "authors": ""
-        },
-        {
-          "title": "Who are the Japanese? Huge DNA discovery rewrites history",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260514003314.htm",
-          "publishedDate": "Thu, 14 May 2026 01:00:37 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists analyzing the genomes of thousands of people across Japan discovered evidence for a previously overlooked third ancestral group, challenging the long-accepted “dual origins” theory. The newly identified ancestry appears linked…",
-          "authors": ""
-        },
-        {
-          "title": "New psychedelic-like drugs could treat depression without making you trip",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260512202325.htm",
-          "publishedDate": "Wed, 13 May 2026 21:07:03 EDT",
-          "source": "sciencedaily.com",
-          "summary": "UC Davis researchers created brand-new psychedelic-like compounds by shining UV light on amino acid-based molecules. These compounds activated key serotonin receptors tied to brain plasticity and mental health benefits, but surprisingly…",
-          "authors": ""
         }
       ]
     },
@@ -173,67 +173,75 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal Shaping",
-          "url": "https://arxiv.org/abs/2605.13071",
-          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+          "title": "A Hormone-inspired Emotion Layer for Transformer language models (HELT)",
+          "url": "https://arxiv.org/abs/2605.13858",
+          "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking Neural Networks (SNNs) are a promising framework for event-driven temporal processing. Prior work has improved temporal modeling through richer neuron dynamics and network-level mechanisms such as recurrence and delays, but it…",
-          "authors": "Jongmin Choi, Joon Son Chung"
+          "summary": "Large Language Models have demonstrated remarkable capabilities in generating contextually relevant and grammatically correct text. However, they fundamentally lack the ability to process and respond to emotional context in a manner…",
+          "authors": "Eslam Reda, Sara El-Metwally"
         },
         {
-          "title": "The Geno-Synthetic Algorithm: Type-Factored Coevolutionary Optimization for Heterogeneous Genotypes and Assembled Phenotypes",
-          "url": "https://arxiv.org/abs/2605.13365",
-          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+          "title": "BiSpikCLM: A Spiking Language Model integrating Softmax-Free Spiking Attention and Spike-Aware Alignment Distillation",
+          "url": "https://arxiv.org/abs/2605.13859",
+          "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Many real-world optimization problems are not naturally homogeneous vectors but composite design objects with heterogeneous parameters: integers, real values, Booleans, categoricals, complex-valued descriptors, and embedding vectors.…",
-          "authors": "Alex Bogdan"
+          "summary": "Spiking Neural Networks (SNNs) offer promising energy-efficient alternatives to large language models (LLMs) due to their event-driven nature and ultra-low power consumption. However, to preserve capacity, most existing spiking LLMs still…",
+          "authors": "Sihang Guo, Chenlin Zhou, Jiaqi Wang, Kehai Chen, Qingyan Meng, Zhengyu Ma"
         },
         {
-          "title": "Texture Regenerating and Grafting Using Genome-Driven Neural Cellular Automata",
-          "url": "https://arxiv.org/abs/2605.13630",
-          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+          "title": "Neuromorphic Graph Anomaly Detection via Adaptive STDP and Spiking Graph Neural Networks",
+          "url": "https://arxiv.org/abs/2605.13863",
+          "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This study significantly advances multi-texture synthesis using Neural Cellular Automata (NCAs) by introducing a novel training methodology that enables robust self-regeneration of textures in damaged regions. This inherent healing…",
-          "authors": "Mirela-Magdalena Catrina, Ioana Cristina Plajer, Alexandra B\\uaicoianu"
+          "summary": "Anomaly detection in dynamic networks is critical for applications from cybersecurity to industrial monitoring, yet existing methods face challenges in energy efficiency, temporal precision, and adaptability. This paper introduces…",
+          "authors": "Abdul Joseph Fofanah, Lian Wen, David Chen, Tsungcheng Yao, Kwabena Sarpong"
         },
         {
-          "title": "ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery",
-          "url": "https://arxiv.org/abs/2605.12784",
-          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+          "title": "Elastic Spiking Transformers for Efficient Gesture Understanding",
+          "url": "https://arxiv.org/abs/2605.13869",
+          "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Advances in large language models (LLMs) have recently opened new and promising avenues for small-molecule drug discovery. Yet existing LLM-based approaches for molecular generation often suffer from high rates of invalid and low-quality…",
-          "authors": "Andrew Y. Zhou, Sharvaree Vadgama, Sumanth Varambally, Peter Eckmann, Michael K. Gilson, Rose Yu"
+          "summary": "Spiking Neural Networks (SNNs), particularly Spiking Transformers, offer energy-efficient processing of event-based sensor data for healthcare applications. Yet current architectures are rigid: they are trained and deployed as static…",
+          "authors": "Alberto Ancilotto, Gianluca Amprimo, Stefano Di Carlo, Elisabetta Farella"
         },
         {
-          "title": "Embodied Neurocomputation: A Framework for Interfacing Biological Neural Cultures with Scaled Task-Driven Validation",
-          "url": "https://arxiv.org/abs/2605.13315",
-          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+          "title": "Indian Wedding System Optimization (IWSO): A Novel Socially Inspired Metaheuristic with Operational Design and Analysis",
+          "url": "https://arxiv.org/abs/2605.13871",
+          "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Biological neural networks (BNNs) have been established as a powerful and adaptive substrate that offer the potential for incredibly energy and data efficient information processing with distinct learning mechanisms. Yet a core challenge…",
-          "authors": "Johnson Zhou, Daniel Tanneberg, Forough Habibollahi, Alon Loeffler, Kiaran Lawson, Valentina Baccetti, Kwaku Dad Abu-Bonsrah, Candice Desouza, Finn Doensen, Bradley Watmuff, Daria Kornienko, Azin Azadi, Justin Leigh Bourke, Bernhard Sendhoff, Brett J. Kagan"
+          "summary": "This paper presents a novel population-based metaheuristic, Indian Wedding System Optimization (IWSO), inspired by the socio-cultural dynamics of traditional Indian weddings. IWSO models the matchmaking process driven by collaboration…",
+          "authors": "Deepika Saxena, Kishu Gupta, Jitendra Kumar, Jatinder Kumar, Sakshi Patni, Vinaytosh Mishra, Niharika Singh, Ashutosh Kumar Singh"
         },
         {
-          "title": "TRUST-TAEA: A trustworthiness-guided two-archive evolutionary algorithm with variable-grouping sparse search for large-scale multi-objective optimization",
-          "url": "https://arxiv.org/abs/2605.13324",
-          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+          "title": "S-AI-Recursive: A Bio-Inspired and Temporal Sparse AI Architecture for Iterative, Introspective, and Energy-Frugal Reasoning",
+          "url": "https://arxiv.org/abs/2605.13872",
+          "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Large-scale multi-objective optimization remains challenging because high-dimensional decision spaces, complex variable interactions, and limited function evaluation budgets make it difficult to balance convergence, diversity, and…",
-          "authors": "JunYi Cui"
+          "summary": "This article introduces S-AI-Recursive, a bio-inspired Sparse Artificial Intelligence architecture in which reasoning is operationalized as a hormonal closed-loop iteration rather than a single feed-forward pass. Building upon the S-AI…",
+          "authors": "Said Slaoui"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 1,
+      "itemCount": 2,
       "items": [
         {
-          "title": "KAST-BAR: Knowledge-Anchored Semantically-Dynamic Topology Brain Autoregressive Modeling for Universal Neural Interpretation",
-          "url": "https://arxiv.org/abs/2605.13133",
-          "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
+          "title": "nASR: An End-to-End Trainable Neural Layer for Channel-Level EEG Artifact Subspace Reconstruction in Real-Time BCI",
+          "url": "https://arxiv.org/abs/2605.14941",
+          "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "While EEG foundation models have shown significant potential in universal neural decoding across tasks, their advancement remains constrained by the inadequacy modeling of complex spatiotemporal topology, as well as the inherent modality…",
-          "authors": "Haoning Wang, Wenchao Yang, Shuai Shen, Yang Li"
+          "summary": "Electroencephalogram (EEG) signals are highly susceptible to artifacts, resulting in a low signal-to-noise ratio which makes extraction of meaningful neural information challenging. Artifact Subspace Reconstruction (ASR) is one of the most…",
+          "authors": "Shantanu Sarkar, Jose L. Contreras-Vidal"
+        },
+        {
+          "title": "BCI-Based Assessment of Ocular Response Time Using Dynamic Time Warping Leveraging an RDWT-Driven Deep Neural Framework",
+          "url": "https://arxiv.org/abs/2605.14883",
+          "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Mild traumatic brain injury (mTBI) is a prevalent condition that remains difficult to diagnose in its early stages. Oculomotor dysfunction is a well-established marker of mTBI, motivating the development of portable tools that capture both…",
+          "authors": "Shantanu Sarkar, Sai Shashank Gandavarapu, Jeff Feng, Saurabh Prasad, Reza Khanbabaie, Jose L. Contreras-Vidal"
         }
       ]
     }
