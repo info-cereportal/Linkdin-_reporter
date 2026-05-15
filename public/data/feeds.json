@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T19:16:13.714Z",
+  "generatedAt": "2026-05-15T21:49:18.660Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -118,6 +118,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: FDA drug center head Tracy Beth Høeg leaves as agency faces leadership vacuum",
+          "url": "https://www.statnews.com/2026/05/15/fda-leadership-vacuum-tracy-beth-hoeg-resigns-drug-center-post/?utm_campaign=rss",
+          "publishedDate": "Fri, 15 May 2026 21:15:23 +0000",
+          "source": "statnews.com",
+          "summary": "The acting director of the FDA’s drug center, Tracy Beth Høeg, is leaving the agency. The news come days after Commissioner Marty Makary handed in his resignation.",
+          "authors": "Lizzy Lawrence"
+        },
+        {
           "title": "Is cannabis safe after 65? Stanford experts reveal 5 risks older adults should know",
           "url": "https://www.sciencedaily.com/releases/2026/05/260515002201.htm",
           "publishedDate": "Fri, 15 May 2026 08:18:42 EDT",
@@ -156,14 +164,6 @@
           "source": "statnews.com",
           "summary": "It's a key piece of Trump's effort to secure lower drug prices for U.S. patients.",
           "authors": "Daniel Payne"
-        },
-        {
-          "title": "DOJ accuses Yale and UCLA medical schools of discriminating against white and Asian applicants",
-          "url": "https://www.statnews.com/2026/05/15/trump-doj-targets-yale-ucla-medical-school-admissions/?utm_campaign=rss",
-          "publishedDate": "Fri, 15 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The Justice Department sent a letter to Yale School of Medicine on Thursday, alleging it was illegally discriminating against applicants who are not Black or Hispanic.",
-          "authors": "Anil Oza"
         }
       ]
     },
