@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T06:23:20.953Z",
+  "generatedAt": "2026-05-15T11:12:43.877Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -118,6 +118,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Top U.S. officials pressured Germany to pay more for prescription drugs",
+          "url": "https://www.statnews.com/2026/05/15/trump-administration-presses-germany-presciption-drug-prices/?utm_campaign=rss",
+          "publishedDate": "Fri, 15 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "It's a key piece of Trump's effort to secure lower drug prices for U.S. patients.",
+          "authors": "Daniel Payne"
+        },
+        {
+          "title": "DOJ accuses Yale and UCLA medical schools of discriminating against white and Asian applicants",
+          "url": "https://www.statnews.com/2026/05/15/trump-doj-targets-yale-ucla-medical-school-admissions/?utm_campaign=rss",
+          "publishedDate": "Fri, 15 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The Justice Department sent a letter to Yale School of Medicine on Thursday, alleging it was illegally discriminating against applicants who are not Black or Hispanic, following a similar missive&#8230;",
+          "authors": "Anil Oza"
+        },
+        {
           "title": "A grad student’s wild idea sparks a major aging breakthrough",
           "url": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm",
           "publishedDate": "Fri, 15 May 2026 00:50:11 EDT",
@@ -148,22 +164,6 @@
           "source": "statnews.com",
           "summary": "The Supreme Court on Thursday preserved women’s access to the abortion drug mifepristone, rejecting lower-court restrictions while a lawsuit continues.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "STAT+: The hunt for FDA’s next leader",
-          "url": "https://www.statnews.com/2026/05/14/next-fda-commissioner-bill-cassidy-primary-challenge-dc-diagnosis/?utm_campaign=rss",
-          "publishedDate": "Thu, 14 May 2026 16:52:38 +0000",
-          "source": "statnews.com",
-          "summary": "Marty Makary is out, and the Trump administration has a long wish list for its next FDA commissioner.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "STAT+: MIT says research has fallen 10%, and grad student enrollment is down",
-          "url": "https://www.statnews.com/2026/05/14/mit-research-fell-10-percent-grad-student-enrollment-down/?utm_campaign=rss",
-          "publishedDate": "Thu, 14 May 2026 16:50:01 +0000",
-          "source": "statnews.com",
-          "summary": "At MIT, research has shrunk 10% from a year ago, and the school expects a persistent drop in graduate admissions.",
-          "authors": "Aidan Ryan — Boston Globe"
         }
       ]
     },
