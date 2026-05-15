@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-05-15T13:29:09.444Z",
+    "date": "2026-05-15",
+    "topic": "潜在空間",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic Architecture Search with Multi-Quadrant Evaluation",
+    "paperLink": "https://arxiv.org/abs/2605.10947",
+    "figureUrl": "https://arxiv.org/html/2605.10947/2605.10947v2/images/Late_breaking_work-Page-2.drawio.png",
+    "formatted": "この研究データ、知らないままでいいですか？\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n潜在空間の最新研究です。\n\n🔬 EEG × 潜在空間\n\n> EEG microstate analysis segments continuous brain electrical activity into brief, quasi-stable topographic configurations that reflect discrete functional brain states. Conventional approaches such as Modified K-Means operate directly in electrode space with hard assignment,...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic Architecture Search with Multi-Quadrant Evaluation\n🔗 https://arxiv.org/abs/2605.10947\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #NeuroAI",
+    "summaryJP": "潜在空間 — 次世代へ続く布石（神経デコーディング）",
+    "paperAuthors": "Saheed Faremi, Andrea Visentin, Luca Longo",
+    "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
+    "paperId": "2605.10947",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "EEG",
+      "潜在空間"
+    ],
+    "abstractExcerpt": "EEG microstate analysis segments continuous brain electrical activity into brief, quasi-stable topographic configurations that reflect discrete functional brain states. Conventional approaches such as Modified K-Means operate directly in…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.10947/2605.10947v2/images/Late_breaking_work-Page-2.drawio.png",
+      "https://arxiv.org/html/2605.10947/2605.10947v2/images/fig_cube_clean_sil.png",
+      "https://arxiv.org/html/2605.10947/2605.10947v2/images/fig_cube_clean_db.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-15T11:12:43.369Z",
     "date": "2026-05-15",
     "topic": "言語処理",

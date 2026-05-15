@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T11:12:43.877Z",
+  "generatedAt": "2026-05-15T13:29:09.646Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Mail-order abortion pills are legal (for now)",
+          "url": "https://www.statnews.com/2026/05/15/health-news-mail-order-abortion-pills-are-legal-for-now/?utm_campaign=rss",
+          "publishedDate": "Fri, 15 May 2026 13:04:06 +0000",
+          "source": "statnews.com",
+          "summary": "Africa CDC declares Ebola outbreak in DRC, the violent fallout from Trump’s cuts to foreign aid, and more health news",
+          "authors": "O. Rose Broderick"
+        },
+        {
           "title": "PSA screening for prostate cancer reduces disease-specific deaths, new review shows",
           "url": "https://www.statnews.com/2026/05/14/psa-tests-reduce-risk-prostate-cancer-deaths-new-study-cochrane-review/?utm_campaign=rss",
           "publishedDate": "Fri, 15 May 2026 00:00:00 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "Despite rising concern about the hantavirus outbreak on a cruise ship, two CDC doctors say the risk to the public remains low.",
           "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "Officials say $1.3 billion in Medicaid money to California will be deferred over suspicions of fraud",
-          "url": "https://www.statnews.com/2026/05/13/medicaid-money-california-deferred-fraud-suspiscions/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 19:42:48 +0000",
-          "source": "statnews.com",
-          "summary": "Vice President JD Vance announced a $1.3 billion deferral in Medicaid reimbursements to California, as part of an initiative to root out fraud in federal health programs.",
-          "authors": "Associated Press"
         }
       ]
     },
@@ -117,6 +117,38 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Is cannabis safe after 65? Stanford experts reveal 5 risks older adults should know",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515002201.htm",
+          "publishedDate": "Fri, 15 May 2026 08:18:42 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Cannabis use among older adults is rising fast, but today’s marijuana is far more potent than many people realize — and experts warn the risks may be underestimated. Stanford Medicine specialists say modern cannabis can increase the…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover vitamin B2 may help cancer cells survive",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515002158.htm",
+          "publishedDate": "Fri, 15 May 2026 07:44:45 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a surprising dark side to vitamin B2: it may help cancer cells stay alive. The vitamin supports a cellular shield that protects tumors from ferroptosis, a form of programmed cell death linked to cancer…",
+          "authors": ""
+        },
+        {
+          "title": "The brain’s “feel good” chemical may be secretly fueling tinnitus",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515002155.htm",
+          "publishedDate": "Fri, 15 May 2026 07:11:38 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered evidence that serotonin — the same brain chemical boosted by many antidepressants — may actually worsen tinnitus. Using advanced light-based brain stimulation in mice, researchers identified a serotonin-driven…",
+          "authors": ""
+        },
+        {
+          "title": "One in five people may carry this hidden cholesterol risk without knowing it",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515002151.htm",
+          "publishedDate": "Fri, 15 May 2026 06:39:01 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers analyzing over 20,000 patients found that very high levels of the inherited cholesterol particle Lp(a) dramatically raise the risk of stroke, cardiovascular death, and major heart complications. Because most people with…",
+          "authors": ""
+        },
         {
           "title": "STAT+: Top U.S. officials pressured Germany to pay more for prescription drugs",
           "url": "https://www.statnews.com/2026/05/15/trump-administration-presses-germany-presciption-drug-prices/?utm_campaign=rss",
@@ -130,40 +162,8 @@
           "url": "https://www.statnews.com/2026/05/15/trump-doj-targets-yale-ucla-medical-school-admissions/?utm_campaign=rss",
           "publishedDate": "Fri, 15 May 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "The Justice Department sent a letter to Yale School of Medicine on Thursday, alleging it was illegally discriminating against applicants who are not Black or Hispanic, following a similar missive&#8230;",
+          "summary": "The Justice Department sent a letter to Yale School of Medicine on Thursday, alleging it was illegally discriminating against applicants who are not Black or Hispanic.",
           "authors": "Anil Oza"
-        },
-        {
-          "title": "A grad student’s wild idea sparks a major aging breakthrough",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm",
-          "publishedDate": "Fri, 15 May 2026 00:50:11 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A casual conversation between graduate students helped spark a breakthrough in aging research at Mayo Clinic. Researchers discovered that tiny synthetic DNA molecules called aptamers can selectively attach to senescent “zombie cells,”…",
-          "authors": ""
-        },
-        {
-          "title": "A 47-year study reveals when strength and fitness start to fade",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260515000947.htm",
-          "publishedDate": "Fri, 15 May 2026 00:15:26 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A groundbreaking Swedish study that tracked people for nearly 50 years has revealed when the body’s physical decline quietly begins. Researchers found that fitness, strength, and muscle endurance start slipping around age 35, with the…",
-          "authors": ""
-        },
-        {
-          "title": "Colon cancer is rising in young adults and doctors don’t fully know why",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260513221805.htm",
-          "publishedDate": "Thu, 14 May 2026 20:50:57 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Colorectal cancer is increasingly showing up in younger adults, with cases now appearing in people as young as their thirties — often with no family history or warning signs. A major Swiss study analyzing nearly 100,000 cases over four…",
-          "authors": ""
-        },
-        {
-          "title": "Supreme Court preserves access to widely used abortion pill, while lawsuit plays out",
-          "url": "https://www.statnews.com/2026/05/14/supreme-court-preserves-access-abortion-pill-mifepristone/?utm_campaign=rss",
-          "publishedDate": "Thu, 14 May 2026 21:49:18 +0000",
-          "source": "statnews.com",
-          "summary": "The Supreme Court on Thursday preserved women’s access to the abortion drug mifepristone, rejecting lower-court restrictions while a lawsuit continues.",
-          "authors": "Associated Press"
         }
       ]
     },
