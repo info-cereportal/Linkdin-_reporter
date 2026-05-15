@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T13:29:09.646Z",
+  "generatedAt": "2026-05-15T16:46:10.625Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded",
+          "url": "https://www.statnews.com/2026/05/15/new-ebola-outbreak-congo-ituri-province/?utm_campaign=rss",
+          "publishedDate": "Fri, 15 May 2026 14:16:13 +0000",
+          "source": "statnews.com",
+          "summary": "A new Ebola outbreak has been confirmed in Congo’s remote Ituri province, with 246 suspected cases and 65 deaths recorded so far.",
+          "authors": "Associated Press"
+        },
+        {
           "title": "Mail-order abortion pills are legal (for now)",
           "url": "https://www.statnews.com/2026/05/15/health-news-mail-order-abortion-pills-are-legal-for-now/?utm_campaign=rss",
           "publishedDate": "Fri, 15 May 2026 13:04:06 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "The surging popularity of alternatives to Alcoholics Anonymous represents a seismic shift in the alcohol treatment landscape. Many say it's overdue.",
           "authors": "Lev Facher"
-        },
-        {
-          "title": "Hantavirus risk remains low, CDC says, citing its ‘playbook’ response",
-          "url": "https://www.statnews.com/2026/05/13/hantavirus-outbreak-cdc-briefing-cruise-ship-outbreak-response/?utm_campaign=rss",
-          "publishedDate": "Wed, 13 May 2026 21:12:10 +0000",
-          "source": "statnews.com",
-          "summary": "Despite rising concern about the hantavirus outbreak on a cruise ship, two CDC doctors say the risk to the public remains low.",
-          "authors": "Elizabeth Cooney"
         }
       ]
     },
