@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-05-16T01:59:29.772Z",
+    "date": "2026-05-16",
+    "topic": "潜在空間",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic Architecture Search with Multi-Quadrant Evaluation",
+    "paperLink": "https://arxiv.org/abs/2605.10947",
+    "figureUrl": "https://arxiv.org/html/2605.10947/2605.10947v2/images/Late_breaking_work-Page-2.drawio.png",
+    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n脳科学とAI——その境界線が消えつつある。\n\n潜在空間に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG × 潜在空間\n\n> EEG microstate analysis segments continuous brain electrical activity into brief, quasi-stable topographic configurations that reflect discrete functional brain states. Conventional approaches such as Modified K-Means operate directly in electrode space with hard assignment,...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic Architecture Search with Multi-Quadrant Evaluation\n🔗 https://arxiv.org/abs/2605.10947\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #DeepLearning",
+    "summaryJP": "潜在空間 — 脳科学とAIをつなぐ研究（神経デコーディング）",
+    "paperAuthors": "Saheed Faremi, Andrea Visentin, Luca Longo",
+    "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
+    "paperId": "2605.10947",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "EEG",
+      "潜在空間"
+    ],
+    "abstractExcerpt": "EEG microstate analysis segments continuous brain electrical activity into brief, quasi-stable topographic configurations that reflect discrete functional brain states. Conventional approaches such as Modified K-Means operate directly in…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.10947/2605.10947v2/images/Late_breaking_work-Page-2.drawio.png",
+      "https://arxiv.org/html/2605.10947/2605.10947v2/images/fig_cube_clean_sil.png",
+      "https://arxiv.org/html/2605.10947/2605.10947v2/images/fig_cube_clean_db.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-15T21:49:18.440Z",
     "date": "2026-05-15",
     "topic": "言語処理",
