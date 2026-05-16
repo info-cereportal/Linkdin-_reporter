@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-05-16T15:48:29.576Z",
+  "generatedAt": "2026-05-16T18:49:16.338Z",
   "date": "2026-05-16",
-  "topic": "深層学習と学習",
+  "topic": "深層学習と注意機構",
   "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Neural Responses to Affective Sentences Reveal Signatures of Depression.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42140957/",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n脳科学とAI——その境界線が消えつつある。\n\n深層学習と学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 深層学習 × 学習 × 情動 × EEG\n\n📊 注目すべきデータ：\n→ Our results reveal significant group-level differences in neural activity during sentence viewing, suggesting disrupted integration of emotional and self-referential information...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Neural Responses to Affective Sentences Reveal Signatures of Depression.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42140957/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #BCI",
-  "summaryJP": "深層学習と学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
-  "paperAuthors": "Aditya Kommineni, Woojae Jeong, Kleanthis Avramidis, Colin McDaniel, Myzelle Hughes, Thomas McGee",
+  "paperTitle": "Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model (CAGE-Fusion).",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42141488/",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n脳科学とAI——その境界線が消えつつある。\n\n深層学習と注意機構に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 深層学習 × 注意機構 × 学習 × PET\n\n📊 注目すべきデータ：\n→ CAGE-Fusion demonstrates competitive predictive performance across several MoleculeNet benchmarks and achieves a macro-averaged PR-AUC of 0.73 and ROC-AUC of 0.94 on a...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model (CAGE-Fusion).\n🔗 https://pubmed.ncbi.nlm.nih.gov/42141488/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #ニューロテック",
+  "summaryJP": "深層学習と注意機構 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+  "paperAuthors": "Siddhant Rath, Saswati Panda, Steven J Berthel, Kelsey Briggs, James C Sacchettini",
   "publishedDate": "2026-05-15",
-  "paperId": "42140957",
+  "paperId": "42141488",
   "paperSource": "pubmed",
   "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
     "深層学習",
+    "注意機構",
     "学習",
-    "情動",
-    "EEG"
+    "PET"
   ],
-  "abstractExcerpt": "Major Depressive Disorder (MDD) is a highly prevalent mental health condition, and a deeper understanding of its neurocognitive foundations is essential for identifying how core functions such as emotional and self-referential processing…",
+  "abstractExcerpt": "In drug discovery, nuisance compounds are chemicals that interfere with biochemical or cell-based assays, often generating misleading signals unrelated to true activity. These molecules operate through diverse, context-dependent…",
   "figureUrls": []
 }
