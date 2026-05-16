@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T12:57:35.947Z",
+  "generatedAt": "2026-05-16T15:48:29.806Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,6 +69,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Trump blasts &#8216;disloyal&#8217; Sen. Cassidy while pushing challenger in Louisiana Republican primary",
+          "url": "https://www.statnews.com/2026/05/16/trump-blasts-bill-cassidy-louisiana-republican-primary/?utm_campaign=rss",
+          "publishedDate": "Sat, 16 May 2026 14:23:06 +0000",
+          "source": "statnews.com",
+          "summary": "Bill Cassidy, leader of the Senate committee that oversees health policy, is fighting for his political life in Louisiana's Republican primary on Saturday.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515234759.htm",
+          "publishedDate": "Sat, 16 May 2026 08:41:30 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to…",
+          "authors": ""
+        },
+        {
           "title": "Opinion: Marty Makary misunderstood something fundamental about the FDA",
           "url": "https://www.statnews.com/2026/05/16/marty-makary-fda-commissioner-administrative-power/?utm_campaign=rss",
           "publishedDate": "Sat, 16 May 2026 11:00:00 +0000",
@@ -77,43 +93,27 @@
           "authors": "Joshua M. Sharfstein"
         },
         {
-          "title": "STAT+: FDA drug center head Tracy Beth Høeg leaves as agency faces leadership vacuum",
-          "url": "https://www.statnews.com/2026/05/15/fda-leadership-vacuum-tracy-beth-hoeg-resigns-drug-center-post/?utm_campaign=rss",
-          "publishedDate": "Fri, 15 May 2026 21:15:23 +0000",
-          "source": "statnews.com",
-          "summary": "The acting director of the FDA’s drug center, Tracy Beth Høeg, is leaving the agency. The news come days after Commissioner Marty Makary handed in his resignation.",
-          "authors": "Lizzy Lawrence"
-        },
-        {
-          "title": "Is cannabis safe after 65? Stanford experts reveal 5 risks older adults should know",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260515002201.htm",
-          "publishedDate": "Fri, 15 May 2026 08:18:42 EDT",
+          "title": "Scientists discover tiny gut particles that may drive aging and chronic disease",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515233322.htm",
+          "publishedDate": "Sat, 16 May 2026 01:47:41 EDT",
           "source": "sciencedaily.com",
-          "summary": "Cannabis use among older adults is rising fast, but today’s marijuana is far more potent than many people realize — and experts warn the risks may be underestimated. Stanford Medicine specialists say modern cannabis can increase the…",
+          "summary": "A new study suggests microscopic particles from the gut may actively drive inflammation and chronic diseases associated with aging. Remarkably, gut particles from young animals appeared to counter some aging-related damage in older…",
           "authors": ""
         },
         {
-          "title": "Scientists discover vitamin B2 may help cancer cells survive",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260515002158.htm",
-          "publishedDate": "Fri, 15 May 2026 07:44:45 EDT",
+          "title": "This silent tooth infection could be hurting your whole body",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515002146.htm",
+          "publishedDate": "Fri, 15 May 2026 22:12:34 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a surprising dark side to vitamin B2: it may help cancer cells stay alive. The vitamin supports a cellular shield that protects tumors from ferroptosis, a form of programmed cell death linked to cancer…",
+          "summary": "Scientists are uncovering a surprising link between hidden tooth infections and blood sugar problems. Deep infections around tooth roots can create chronic inflammation that spreads through the body and may interfere with insulin function.…",
           "authors": ""
         },
         {
-          "title": "The brain’s “feel good” chemical may be secretly fueling tinnitus",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260515002155.htm",
-          "publishedDate": "Fri, 15 May 2026 07:11:38 EDT",
+          "title": "Scientists say just 30 minutes of exercise a week could transform your health",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515002126.htm",
+          "publishedDate": "Fri, 15 May 2026 20:20:30 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered evidence that serotonin — the same brain chemical boosted by many antidepressants — may actually worsen tinnitus. Using advanced light-based brain stimulation in mice, researchers identified a serotonin-driven…",
-          "authors": ""
-        },
-        {
-          "title": "One in five people may carry this hidden cholesterol risk without knowing it",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260515002151.htm",
-          "publishedDate": "Fri, 15 May 2026 06:39:01 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers analyzing over 20,000 patients found that very high levels of the inherited cholesterol particle Lp(a) dramatically raise the risk of stroke, cardiovascular death, and major heart complications. Because most people with…",
+          "summary": "You may not need hours at the gym to boost your health after all. Researchers say just 30 minutes of high-intensity exercise per week — broken into tiny bursts of effort that leave you out of breath — can dramatically improve…",
           "authors": ""
         }
       ]

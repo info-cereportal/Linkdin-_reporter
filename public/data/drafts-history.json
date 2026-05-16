@@ -1,5 +1,29 @@
 [
   {
+    "generatedAt": "2026-05-16T15:48:29.576Z",
+    "date": "2026-05-16",
+    "topic": "深層学習と学習",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Neural Responses to Affective Sentences Reveal Signatures of Depression.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42140957/",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n脳科学とAI——その境界線が消えつつある。\n\n深層学習と学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 深層学習 × 学習 × 情動 × EEG\n\n📊 注目すべきデータ：\n→ Our results reveal significant group-level differences in neural activity during sentence viewing, suggesting disrupted integration of emotional and self-referential information...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Neural Responses to Affective Sentences Reveal Signatures of Depression.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42140957/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #BCI",
+    "summaryJP": "深層学習と学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+    "paperAuthors": "Aditya Kommineni, Woojae Jeong, Kleanthis Avramidis, Colin McDaniel, Myzelle Hughes, Thomas McGee",
+    "publishedDate": "2026-05-15",
+    "paperId": "42140957",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "深層学習",
+      "学習",
+      "情動",
+      "EEG"
+    ],
+    "abstractExcerpt": "Major Depressive Disorder (MDD) is a highly prevalent mental health condition, and a deeper understanding of its neurocognitive foundations is essential for identifying how core functions such as emotional and self-referential processing…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-05-16T12:57:35.280Z",
     "date": "2026-05-16",
     "topic": "深層学習と学習",
@@ -1267,31 +1291,5 @@
       "https://arxiv.org/html/2604.27583/2604.27583v1/x2.png",
       "https://arxiv.org/html/2604.27583/2604.27583v1/x3.png"
     ]
-  },
-  {
-    "generatedAt": "2026-05-01T08:11:34.425Z",
-    "date": "2026-05-01",
-    "topic": "学習と記憶",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Multisensory learning recruits visual neurons into an olfactory memory engram",
-    "paperLink": "https://arxiv.org/abs/2604.28007",
-    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n数字が語る、学習と記憶の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習 × 記憶 × コネクトミクス × ドーパミン\n\n> Associating multiple sensory cues with a single experience or object is a fundamental process that improves object recognition and memory performance. However, neural mechanisms that bind sensory features during learning and augment memory expression are unknown.\n\nなぜこの数字が重要か。\n\nコネクトミクス・回路解析において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Multisensory learning recruits visual neurons into an olfactory memory engram\n🔗 https://arxiv.org/abs/2604.28007\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #神経科学",
-    "summaryJP": "学習と記憶 — 数値で示された新事実（コネクトミクス・回路解析）",
-    "paperAuthors": "Zeynep Okray, Nils Otto, Anna A. Cook, Clifford Talbot, Ashwin Miriyala, Martín Klappenbach, Ciara Stern, Kieran Desmond, Paola Vargas-Gutierrez, Scott Waddell",
-    "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
-    "paperId": "2604.28007",
-    "paperSource": "arxiv",
-    "themeArea": "コネクトミクス・回路解析",
-    "jpKeywords": [
-      "学習",
-      "記憶",
-      "コネクトミクス",
-      "ドーパミン",
-      "GABA",
-      "ECoG(皮質脳波)"
-    ],
-    "abstractExcerpt": "Associating multiple sensory cues with a single experience or object is a fundamental process that improves object recognition and memory performance. However, neural mechanisms that bind sensory features during learning and augment memory…",
-    "figureUrls": []
   }
 ]
