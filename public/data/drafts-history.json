@@ -1,5 +1,29 @@
 [
   {
+    "generatedAt": "2026-05-16T12:57:35.280Z",
+    "date": "2026-05-16",
+    "topic": "深層学習と学習",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Neural Responses to Affective Sentences Reveal Signatures of Depression.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42140957/",
+    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n脳科学とAI——その境界線が消えつつある。\n\n深層学習と学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 深層学習 × 学習 × 情動 × EEG\n\n📊 注目すべきデータ：\n→ Our results reveal significant group-level differences in neural activity during sentence viewing, suggesting disrupted integration of emotional and self-referential information...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Neural Responses to Affective Sentences Reveal Signatures of Depression.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42140957/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #BCI",
+    "summaryJP": "深層学習と学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+    "paperAuthors": "Aditya Kommineni, Woojae Jeong, Kleanthis Avramidis, Colin McDaniel, Myzelle Hughes, Thomas McGee",
+    "publishedDate": "2026-05-15",
+    "paperId": "42140957",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "深層学習",
+      "学習",
+      "情動",
+      "EEG"
+    ],
+    "abstractExcerpt": "Major Depressive Disorder (MDD) is a highly prevalent mental health condition, and a deeper understanding of its neurocognitive foundations is essential for identifying how core functions such as emotional and self-referential processing…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-05-16T10:07:21.016Z",
     "date": "2026-05-16",
     "topic": "深層学習と学習",
@@ -1269,31 +1293,5 @@
     ],
     "abstractExcerpt": "Associating multiple sensory cues with a single experience or object is a fundamental process that improves object recognition and memory performance. However, neural mechanisms that bind sensory features during learning and augment memory…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-01T08:11:06.133Z",
-    "date": "2026-05-01",
-    "topic": "学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Cortex-Inspired Continual Learning: Unsupervised Instantiation and Recovery of Functional Task Networks",
-    "paperLink": "https://arxiv.org/abs/2604.24637",
-    "figureUrl": "https://arxiv.org/html/2604.24637/2604.24637v2/figures/neurons.png",
-    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習\n\n> arXiv:2604.24637v2 Announce Type: replace-cross Abstract: Block-sequential continual learning demands that a single model both protect prior solutions from catastrophic forgetting and efficiently infer at inference time which prior solution matches the current input without task...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Cortex-Inspired Continual Learning: Unsupervised Instantiation and Recovery of Functional Task Networks\n🔗 https://arxiv.org/abs/2604.24637\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #DeepLearning",
-    "summaryJP": "学習 — 数値で示された新事実（神経デコーディング）",
-    "paperAuthors": "Kevin McKee, Thomas Hazy, Yicong Zheng, Zacharie Bugaud, Thomas Miconi",
-    "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
-    "paperId": "2604.24637",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "学習"
-    ],
-    "abstractExcerpt": "arXiv:2604.24637v2 Announce Type: replace-cross Abstract: Block-sequential continual learning demands that a single model both protect prior solutions from catastrophic forgetting and efficiently infer at inference time which prior…",
-    "figureUrls": [
-      "https://arxiv.org/html/2604.24637/2604.24637v2/figures/neurons.png",
-      "https://arxiv.org/html/2604.24637/2604.24637v2/figures/exp1_synthetic_clf/tasks.png",
-      "https://arxiv.org/html/2604.24637/2604.24637v2/x1.png"
-    ]
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T10:07:21.336Z",
+  "generatedAt": "2026-05-16T12:57:35.947Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,6 +69,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Opinion: Marty Makary misunderstood something fundamental about the FDA",
+          "url": "https://www.statnews.com/2026/05/16/marty-makary-fda-commissioner-administrative-power/?utm_campaign=rss",
+          "publishedDate": "Sat, 16 May 2026 11:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "“The norm-shattering masks a more fundamental misunderstanding of how administrative power can bring about lasting change,” writes Joshua Sharfstein.",
+          "authors": "Joshua M. Sharfstein"
+        },
+        {
           "title": "STAT+: FDA drug center head Tracy Beth Høeg leaves as agency faces leadership vacuum",
           "url": "https://www.statnews.com/2026/05/15/fda-leadership-vacuum-tracy-beth-hoeg-resigns-drug-center-post/?utm_campaign=rss",
           "publishedDate": "Fri, 15 May 2026 21:15:23 +0000",
@@ -107,14 +115,6 @@
           "source": "sciencedaily.com",
           "summary": "Researchers analyzing over 20,000 patients found that very high levels of the inherited cholesterol particle Lp(a) dramatically raise the risk of stroke, cardiovascular death, and major heart complications. Because most people with…",
           "authors": ""
-        },
-        {
-          "title": "STAT+: Top U.S. officials pressured Germany to pay more for prescription drugs",
-          "url": "https://www.statnews.com/2026/05/15/trump-administration-presses-germany-presciption-drug-prices/?utm_campaign=rss",
-          "publishedDate": "Fri, 15 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "It's a key piece of Trump's effort to secure lower drug prices for U.S. patients.",
-          "authors": "Daniel Payne"
         }
       ]
     },
