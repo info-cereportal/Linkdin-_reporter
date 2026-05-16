@@ -1,5 +1,29 @@
 [
   {
+    "generatedAt": "2026-05-16T05:45:05.098Z",
+    "date": "2026-05-16",
+    "topic": "深層学習と注意機構",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model (CAGE-Fusion).",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42141488/",
+    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n脳科学とAI——その境界線が消えつつある。\n\n深層学習と注意機構に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 深層学習 × 注意機構 × 学習 × PET\n\n📊 注目すべきデータ：\n→ CAGE-Fusion demonstrates competitive predictive performance across several MoleculeNet benchmarks and achieves a macro-averaged PR-AUC of 0.73 and ROC-AUC of 0.94 on a...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model (CAGE-Fusion).\n🔗 https://pubmed.ncbi.nlm.nih.gov/42141488/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #DeepLearning",
+    "summaryJP": "深層学習と注意機構 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+    "paperAuthors": "Siddhant Rath, Saswati Panda, Steven J Berthel, Kelsey Briggs, James C Sacchettini",
+    "publishedDate": "2026-05-15",
+    "paperId": "42141488",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "深層学習",
+      "注意機構",
+      "学習",
+      "PET"
+    ],
+    "abstractExcerpt": "In drug discovery, nuisance compounds are chemicals that interfere with biochemical or cell-based assays, often generating misleading signals unrelated to true activity. These molecules operate through diverse, context-dependent…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-05-16T01:59:29.772Z",
     "date": "2026-05-16",
     "topic": "潜在空間",
