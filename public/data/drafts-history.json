@@ -1,5 +1,29 @@
 [
   {
+    "generatedAt": "2026-05-16T21:39:26.313Z",
+    "date": "2026-05-16",
+    "topic": "深層学習と注意機構",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model (CAGE-Fusion).",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42141488/",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n深層学習と注意機構に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 深層学習 × 注意機構 × 学習 × PET\n\n📊 注目すべきデータ：\n→ CAGE-Fusion demonstrates competitive predictive performance across several MoleculeNet benchmarks and achieves a macro-averaged PR-AUC of 0.73 and ROC-AUC of 0.94 on a...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model (CAGE-Fusion).\n🔗 https://pubmed.ncbi.nlm.nih.gov/42141488/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #計算論的神経科学",
+    "summaryJP": "深層学習と注意機構 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+    "paperAuthors": "Siddhant Rath, Saswati Panda, Steven J Berthel, Kelsey Briggs, James C Sacchettini",
+    "publishedDate": "2026-05-15",
+    "paperId": "42141488",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "深層学習",
+      "注意機構",
+      "学習",
+      "PET"
+    ],
+    "abstractExcerpt": "In drug discovery, nuisance compounds are chemicals that interfere with biochemical or cell-based assays, often generating misleading signals unrelated to true activity. These molecules operate through diverse, context-dependent…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-05-16T18:49:16.338Z",
     "date": "2026-05-16",
     "topic": "深層学習と注意機構",
@@ -1267,27 +1291,6 @@
       "Transformer"
     ],
     "abstractExcerpt": "Alzheimer's disease (AD) is one of the most prevalent neurodegenerative disorders worldwide, requiring early identification for timely intervention and to slow disease progression. However, existing diagnostic approaches, while effective…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-01T08:24:34.080Z",
-    "date": "2026-05-01",
-    "topic": "脳情報科学の最新研究",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Effect of an auditory static distractor on the perception of an auditory moving target",
-    "paperLink": "https://arxiv.org/abs/2510.25119",
-    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、脳情報科学の最新研究の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 脳情報科学\n\n> It is known that listeners lose the ability to discriminate the direction of motion of a revolving sound (clockwise vs. counterclockwise) beyond a critical velocity (\"the upper limit\"), likely due to degraded front-back discrimination.\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Effect of an auditory static distractor on the perception of an auditory moving target\n🔗 https://arxiv.org/abs/2510.25119\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #DeepLearning",
-    "summaryJP": "脳情報科学の最新研究 — 数値で示された新事実",
-    "paperAuthors": "Noa Kemp, Cynthia Tarlao, Catherine Guastavino, B. Suresh Krishna",
-    "publishedDate": "Fri, 01 May 2026 00:00:00 -0400",
-    "paperId": "2510.25119",
-    "paperSource": "arxiv",
-    "themeArea": "脳情報科学",
-    "jpKeywords": [
-      "脳情報科学"
-    ],
-    "abstractExcerpt": "It is known that listeners lose the ability to discriminate the direction of motion of a revolving sound (clockwise vs. counterclockwise) beyond a critical velocity (\"the upper limit\"), likely due to degraded front-back discrimination.…",
     "figureUrls": []
   }
 ]
