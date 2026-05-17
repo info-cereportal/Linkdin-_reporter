@@ -1,24 +1,22 @@
 {
-  "generatedAt": "2026-05-17T10:17:32.552Z",
+  "generatedAt": "2026-05-17T12:55:16.346Z",
   "date": "2026-05-17",
   "topic": "深層学習と学習",
   "templateName": "provocative-question",
   "riskScore": 0,
-  "paperTitle": "Neural Responses to Affective Sentences Reveal Signatures of Depression.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42140957/",
-  "formatted": "深層学習と学習について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 深層学習 × 学習 × 情動 × EEG\n\n📊 注目すべきデータ：\n→ Our results reveal significant group-level differences in neural activity during sentence viewing, suggesting disrupted integration of emotional and self-referential information...\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかしニューロAI・計算論の文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Neural Responses to Affective Sentences Reveal Signatures of Depression.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42140957/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #神経科学",
+  "paperTitle": "Multi-task deep learning assists detection and diagnosis of gliomas and brain metastases.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42143150/",
+  "formatted": "深層学習と学習について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 深層学習 × 学習\n\n📊 注目すべきデータ：\n→ Gliomas and brain metastases (BMs) on MRI pose significant diagnostic challenges for radiologists.\n→ With BTSC-CAD assistance, junior radiologists achieved mean AUC improvements of 4.8% (P&#x2009;<&#x2009;0.05) for detection and 17.3% (P&#x2009;<&#x2009;0.001) for diagnosis,...\n→ BTSC-CAD significantly improved radiologists' diagnostic accuracy and efficiency.\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかしニューロAI・計算論の文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Multi-task deep learning assists detection and diagnosis of gliomas and brain metastases.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42143150/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #DeepLearning",
   "summaryJP": "深層学習と学習 — 常識への問題提起（ニューロAI・計算論）",
-  "paperAuthors": "Aditya Kommineni, Woojae Jeong, Kleanthis Avramidis, Colin McDaniel, Myzelle Hughes, Thomas McGee",
-  "publishedDate": "2026-05-15",
-  "paperId": "42140957",
+  "paperAuthors": "Xiao Liu, Kun Lv, Peng Du, Kun Zhou, Qianru Zhao, Sen Jiao",
+  "publishedDate": "2026-05-16",
+  "paperId": "42143150",
   "paperSource": "pubmed",
   "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
     "深層学習",
-    "学習",
-    "情動",
-    "EEG"
+    "学習"
   ],
-  "abstractExcerpt": "Major Depressive Disorder (MDD) is a highly prevalent mental health condition, and a deeper understanding of its neurocognitive foundations is essential for identifying how core functions such as emotional and self-referential processing…",
+  "abstractExcerpt": "Gliomas and brain metastases (BMs) on MRI pose significant diagnostic challenges for radiologists. This study aims to develop a multi-task model and a computer-aided diagnosis (CAD) system for the detection and diagnosis of gliomas and…",
   "figureUrls": []
 }
