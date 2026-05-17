@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T06:12:49.662Z",
+  "generatedAt": "2026-05-17T10:17:33.113Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -13,6 +13,14 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "WHO declares Ebola outbreak an international public health emergency",
+          "url": "https://www.statnews.com/2026/05/17/who-ebola-drc-uganda-bundibugyo-pheic-public-health-emergency/?utm_campaign=rss",
+          "publishedDate": "Sun, 17 May 2026 07:17:53 +0000",
+          "source": "statnews.com",
+          "summary": "The WHO said an Ebola outbreak first seen in the Democratic Republic of the Congo was an international public health emergency, underscoring the world's concerns.",
+          "authors": "Andrew Joseph"
+        },
         {
           "title": "A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded",
           "url": "https://www.statnews.com/2026/05/15/new-ebola-outbreak-congo-ituri-province/?utm_campaign=rss",
@@ -52,14 +60,6 @@
           "source": "statnews.com",
           "summary": "The next FDA leader, how the CDC is responding to hantavirus, and more health news from Morning Rounds",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: Treatment for alcohol addiction is undergoing a seismic shift. Many say it&#8217;s overdue",
-          "url": "https://www.statnews.com/2026/05/14/alcohol-use-disorder-treatment-landscape-changing-deadliest-drug-series-part-4/?utm_campaign=rss",
-          "publishedDate": "Thu, 14 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The surging popularity of alternatives to Alcoholics Anonymous represents a seismic shift in the alcohol treatment landscape. Many say it's overdue.",
-          "authors": "Lev Facher"
         }
       ]
     },
@@ -69,6 +69,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "New study debunks the biggest fear about yo-yo dieting",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515233331.htm",
+          "publishedDate": "Sun, 17 May 2026 02:02:13 EDT",
+          "source": "sciencedaily.com",
+          "summary": "For years, “yo-yo dieting” has been blamed for wrecking metabolism and causing lasting damage, but a major new review says the fear may be wildly overblown. After analyzing decades of studies in humans and animals, researchers found little…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover why some cancers survive chemotherapy",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515233329.htm",
+          "publishedDate": "Sun, 17 May 2026 00:23:49 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a surprising new trick used by one of cancer’s most notorious proteins. MYC, already infamous for fueling runaway tumor growth, also appears to help cancer cells survive by repairing their damaged DNA — including…",
+          "authors": ""
+        },
+        {
           "title": "Trump blasts &#8216;disloyal&#8217; Sen. Cassidy while pushing challenger in Louisiana Republican primary",
           "url": "https://www.statnews.com/2026/05/16/trump-blasts-bill-cassidy-louisiana-republican-primary/?utm_campaign=rss",
           "publishedDate": "Sat, 16 May 2026 14:23:06 +0000",
@@ -77,43 +93,27 @@
           "authors": "Associated Press"
         },
         {
+          "title": "The real reason exercise makes you stronger isn’t what you think",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515233346.htm",
+          "publishedDate": "Sat, 16 May 2026 09:52:45 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Exercise may be training your brain just as much as your body. Researchers discovered that certain brain cells stay highly active even after a workout ends, and those lingering signals appear to help the body build endurance over time. In…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists reversed memory loss by recharging the brain’s tiny engines",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515234803.htm",
+          "publishedDate": "Sat, 16 May 2026 09:30:59 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial…",
+          "authors": ""
+        },
+        {
           "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
           "url": "https://www.sciencedaily.com/releases/2026/05/260515234759.htm",
           "publishedDate": "Sat, 16 May 2026 08:41:30 EDT",
           "source": "sciencedaily.com",
           "summary": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to…",
-          "authors": ""
-        },
-        {
-          "title": "Opinion: Marty Makary misunderstood something fundamental about the FDA",
-          "url": "https://www.statnews.com/2026/05/16/marty-makary-fda-commissioner-administrative-power/?utm_campaign=rss",
-          "publishedDate": "Sat, 16 May 2026 11:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "“The norm-shattering masks a more fundamental misunderstanding of how administrative power can bring about lasting change,” writes Joshua Sharfstein.",
-          "authors": "Joshua M. Sharfstein"
-        },
-        {
-          "title": "Scientists discover tiny gut particles that may drive aging and chronic disease",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260515233322.htm",
-          "publishedDate": "Sat, 16 May 2026 01:47:41 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new study suggests microscopic particles from the gut may actively drive inflammation and chronic diseases associated with aging. Remarkably, gut particles from young animals appeared to counter some aging-related damage in older…",
-          "authors": ""
-        },
-        {
-          "title": "This silent tooth infection could be hurting your whole body",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260515002146.htm",
-          "publishedDate": "Fri, 15 May 2026 22:12:34 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists are uncovering a surprising link between hidden tooth infections and blood sugar problems. Deep infections around tooth roots can create chronic inflammation that spreads through the body and may interfere with insulin function.…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists say just 30 minutes of exercise a week could transform your health",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260515002126.htm",
-          "publishedDate": "Fri, 15 May 2026 20:20:30 EDT",
-          "source": "sciencedaily.com",
-          "summary": "You may not need hours at the gym to boost your health after all. Researchers say just 30 minutes of high-intensity exercise per week — broken into tiny bursts of effort that leave you out of breath — can dramatically improve…",
           "authors": ""
         }
       ]
