@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-05-17T21:44:23.041Z",
+    "date": "2026-05-17",
+    "topic": "学習とブレイン・コンピュータ・インターフェース(BCI)",
+    "templateName": "provocative-question",
+    "riskScore": 0,
+    "paperTitle": "Comprehensive benchmarking and explainable machine learning analysis of EEG imagery activity recognition.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42143102/",
+    "formatted": "学習とブレイン・コンピュータ・インターフェース(BCI)について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 学習 × ECoG(皮質脳波) × EEG × ブレイン・コンピュータ・インターフェース(BCI)\n\n📊 注目すべきデータ：\n→ Through extensive simulations, the proposed two-stage optimization of the machine learning model demonstrates a superior performance in terms of accuracy, precision, and recall.\n→ This method outperforms the existing methods by 21.47% in accuracy with competitive prediction time.\n→ Its performance is further evaluated on the PhysioNet MI dataset, achieving a 4.67% accuracy improvement over state-of-the-art methods.\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかしBCI・ニューラルインターフェースの文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Comprehensive benchmarking and explainable machine learning analysis of EEG imagery activity recognition.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42143102/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #NeuroAI",
+    "summaryJP": "学習とブレイン・コンピュータ・インターフェース(BCI) — 常識への問題提起（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Md Julkar Nain Siam, Tanvir Ahsan Showrov, Md Sakir Hossain, Najmus Shakif Ayaan, S M Sadakatul Bari, Faisal Tariq",
+    "publishedDate": "2026-05-16",
+    "paperId": "42143102",
+    "paperSource": "pubmed",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "学習",
+      "ECoG(皮質脳波)",
+      "EEG",
+      "ブレイン・コンピュータ・インターフェース(BCI)",
+      "意思決定",
+      "PET"
+    ],
+    "abstractExcerpt": "Motor imagery (MI)-based brain-computer interfaces (BCIs) enable users to control external devices using EEG signals, offering great potential in assistive and rehabilitation technologies. However, MI recognition remains challenging due to…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-05-17T18:53:31.448Z",
     "date": "2026-05-17",
     "topic": "深層学習と学習",
@@ -1266,29 +1292,5 @@
       "https://arxiv.org/html/2605.07026/2605.07026v1/x1.png",
       "https://arxiv.org/html/2605.07026/2605.07026v1/x2.png"
     ]
-  },
-  {
-    "generatedAt": "2026-05-11T02:05:32.760Z",
-    "date": "2026-05-11",
-    "topic": "セロトニンと深層学習",
-    "templateName": "provocative-question",
-    "riskScore": 0,
-    "paperTitle": "Prenatal serotonin reuptake inhibitor exposure and maternal depression symptoms are associated with altered fetal brain and placental development.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42106476/",
-    "formatted": "セロトニンと深層学習について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 セロトニン × 深層学習 × 小脳 × 学習\n\n📊 注目すべきデータ：\n→ Notably, 29% of SRI-exposed women continued to report elevated depression.\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかしニューロAI・計算論の文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Prenatal serotonin reuptake inhibitor exposure and maternal depression symptoms are associated with altered fetal brain and placental development.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42106476/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #神経科学",
-    "summaryJP": "セロトニンと深層学習 — 常識への問題提起（ニューロAI・計算論）",
-    "paperAuthors": "Yao Wu, Nickie Andescavage, Katherine L Wisner, Kushal Kapse, Jonathan Murnick, Julius S Ngwa",
-    "publishedDate": "2026-05-09",
-    "paperId": "42106476",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "セロトニン",
-      "深層学習",
-      "小脳",
-      "学習"
-    ],
-    "abstractExcerpt": "Maternal mental health is associated with fetal neurodevelopment. Identifying effective treatments for maternal psychiatric conditions is a public health priority. SRIs (SSRIs and SNRIs) are commonly prescribed for prenatal mental health…",
-    "figureUrls": []
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T18:53:31.790Z",
+  "generatedAt": "2026-05-17T21:44:23.364Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -13,6 +13,14 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "When should you get a mammogram? Conflicting advice makes it hard to know",
+          "url": "https://www.statnews.com/2026/05/17/when-should-you-get-a-mammogram-conflicting-advice/?utm_campaign=rss",
+          "publishedDate": "Sun, 17 May 2026 19:04:45 +0000",
+          "source": "statnews.com",
+          "summary": "When should you get a mammogram? Conflicting advice makes it hard to know.",
+          "authors": "Associated Press"
+        },
         {
           "title": "STAT+: The hantavirus outbreak is prompting Covid flashbacks — including the conspiracies",
           "url": "https://www.statnews.com/2026/05/17/hantavirus-outbreak-cruise-ship-covid-flashbacks-conspiracy-theories/?utm_campaign=rss",
@@ -52,14 +60,6 @@
           "source": "statnews.com",
           "summary": "Prostate-specific antigen (PSA) blood testing likely reduces the risk of death from prostate cancer, found a new review",
           "authors": "Annalisa Merelli"
-        },
-        {
-          "title": "Supreme Court preserves access to widely used abortion pill, while lawsuit plays out",
-          "url": "https://www.statnews.com/2026/05/14/supreme-court-preserves-access-abortion-pill-mifepristone/?utm_campaign=rss",
-          "publishedDate": "Thu, 14 May 2026 21:49:18 +0000",
-          "source": "statnews.com",
-          "summary": "The Supreme Court on Thursday preserved women’s access to the abortion drug mifepristone, rejecting lower-court restrictions while a lawsuit continues.",
-          "authors": "Associated Press"
         }
       ]
     },
