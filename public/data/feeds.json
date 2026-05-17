@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T15:50:35.283Z",
+  "generatedAt": "2026-05-17T18:53:31.790Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -13,6 +13,14 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: The hantavirus outbreak is prompting Covid flashbacks — including the conspiracies",
+          "url": "https://www.statnews.com/2026/05/17/hantavirus-outbreak-cruise-ship-covid-flashbacks-conspiracy-theories/?utm_campaign=rss",
+          "publishedDate": "Sun, 17 May 2026 18:07:58 +0000",
+          "source": "statnews.com",
+          "summary": "The deadly outbreak of a rare strain of hantavirus on a cruise has generated echoes of the pandemic era, including conspiracy theories.",
+          "authors": "Tal Kopan — Boston Globe"
+        },
         {
           "title": "WHO declares Ebola outbreak an international public health emergency",
           "url": "https://www.statnews.com/2026/05/17/who-ebola-drc-uganda-bundibugyo-pheic-public-health-emergency/?utm_campaign=rss",
@@ -52,14 +60,6 @@
           "source": "statnews.com",
           "summary": "The Supreme Court on Thursday preserved women’s access to the abortion drug mifepristone, rejecting lower-court restrictions while a lawsuit continues.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "STAT+: Three years of declining overdose deaths begets cautious optimism and some concerns",
-          "url": "https://www.statnews.com/2026/05/14/health-news-three-years-of-declining-overdose-deaths/?utm_campaign=rss",
-          "publishedDate": "Thu, 14 May 2026 11:54:51 +0000",
-          "source": "statnews.com",
-          "summary": "The next FDA leader, how the CDC is responding to hantavirus, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
         }
       ]
     },
