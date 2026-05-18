@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T12:20:38.719Z",
+  "generatedAt": "2026-05-18T17:25:07.143Z",
   "date": "2026-05-18",
   "topic": "Transformerと畳み込みニューラルネットワーク(CNN)",
   "templateName": "paradigm-shift",
@@ -7,7 +7,7 @@
   "paperTitle": "From Clever Hans to Scientific Discovery: Interpreting EEG Foundational Transformers with LRP",
   "paperLink": "https://arxiv.org/abs/2605.11885",
   "figureUrl": "https://arxiv.org/html/2605.11885/2605.11885v1/x1.png",
-  "formatted": "Transformerと畳み込みニューラルネットワーク(CNN)に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 Transformer × EEG × 畳み込みニューラルネットワーク(CNN) × ブレイン・コンピュータ・インターフェース(BCI)\n\n📊 注目すべきデータ：\n→ We find that LRP can both verify EEG-FM decisions and surface novel, biologically plausible hypotheses from them.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nBCI・ニューラルインターフェースの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 From Clever Hans to Scientific Discovery: Interpreting EEG Foundational Transformers with LRP\n🔗 https://arxiv.org/abs/2605.11885\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #BrainComputerInterface",
+  "formatted": "Transformerと畳み込みニューラルネットワーク(CNN)に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 Transformer × EEG × 畳み込みニューラルネットワーク(CNN) × ブレイン・コンピュータ・インターフェース(BCI)\n\n📊 注目すべきデータ：\n→ We find that LRP can both verify EEG-FM decisions and surface novel, biologically plausible hypotheses from them.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nBCI・ニューラルインターフェースの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 From Clever Hans to Scientific Discovery: Interpreting EEG Foundational Transformers with LRP\n🔗 https://arxiv.org/abs/2605.11885\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #NeuroAI",
   "summaryJP": "Transformerと畳み込みニューラルネットワーク(CNN) — 通説を揺さぶる新たな知見（BCI・ニューラルインターフェース）",
   "paperAuthors": "Justus Meyer zu Bexten, Nico Scherf, Bogdan Franczyk, Simon M. Hofmann",
   "publishedDate": "Mon, 18 May 2026 00:00:00 -0400",

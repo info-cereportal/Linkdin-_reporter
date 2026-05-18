@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T12:20:39.402Z",
+  "generatedAt": "2026-05-18T17:25:07.419Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "U.S. bans entry for travelers from Ebola-affected countries",
+          "url": "https://www.statnews.com/2026/05/18/cdc-ebola-travel-ban-announced-uganda-congo-south-sudan/?utm_campaign=rss",
+          "publishedDate": "Mon, 18 May 2026 16:04:31 +0000",
+          "source": "statnews.com",
+          "summary": "In response to an Ebola outbreak, the U.S. has banned entry for foreign travelers who have been in the Democratic Republic of the Congo, Uganda, or South Sudan in the&#8230;",
+          "authors": "Annalisa Merelli"
+        },
+        {
           "title": "Texas is opening up a detransition clinic",
           "url": "https://www.statnews.com/2026/05/18/health-news-texas-opens-detransition-clinic/?utm_campaign=rss",
           "publishedDate": "Mon, 18 May 2026 11:43:39 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "The WHO said an Ebola outbreak first seen in the Democratic Republic of the Congo was an international public health emergency, underscoring the world's concerns.",
           "authors": "Andrew Joseph"
-        },
-        {
-          "title": "A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded",
-          "url": "https://www.statnews.com/2026/05/15/new-ebola-outbreak-congo-ituri-province/?utm_campaign=rss",
-          "publishedDate": "Fri, 15 May 2026 14:16:13 +0000",
-          "source": "statnews.com",
-          "summary": "A new Ebola outbreak has been confirmed in Congo’s remote Ituri province, with 246 suspected cases and 65 deaths recorded so far.",
-          "authors": "Associated Press"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Supreme Court rejects challenge to Medicare drug price negotiation",
+          "url": "https://www.statnews.com/2026/05/18/supreme-court-rejects-challenge-medicare-drug-price-negotiations/?utm_campaign=rss",
+          "publishedDate": "Mon, 18 May 2026 14:43:27 +0000",
+          "source": "statnews.com",
+          "summary": "The rejection may make the pharma firms remaining lawsuits more difficult.",
+          "authors": "John Wilkerson"
+        },
         {
           "title": "This popular fermented food may help flush microplastics from the body",
           "url": "https://www.sciencedaily.com/releases/2026/05/260517211451.htm",
@@ -155,14 +163,6 @@
           "publishedDate": "Sun, 17 May 2026 08:38:40 EDT",
           "source": "sciencedaily.com",
           "summary": "Scientists have discovered that the human body undergoes a dramatic internal transformation during extended fasting, with major changes appearing only after about three days without food. In a seven-day water-only fasting study,…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260517030326.htm",
-          "publishedDate": "Sun, 17 May 2026 07:11:34 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new nanotechnology treatment reversed Alzheimer’s symptoms in mice by restoring the brain’s natural cleanup system. The specially engineered nanoparticles helped clear toxic amyloid proteins from the brain and repair the blood-brain…",
           "authors": ""
         }
       ]
