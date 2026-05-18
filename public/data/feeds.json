@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T06:44:28.774Z",
+  "generatedAt": "2026-05-18T12:20:39.402Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Texas is opening up a detransition clinic",
+          "url": "https://www.statnews.com/2026/05/18/health-news-texas-opens-detransition-clinic/?utm_campaign=rss",
+          "publishedDate": "Mon, 18 May 2026 11:43:39 +0000",
+          "source": "statnews.com",
+          "summary": "Americans exposed to Ebola outbreak, Bill Cassidy's primary defeat, and more health news from Morning Rounds",
+          "authors": "O. Rose Broderick"
+        },
+        {
           "title": "In Ebola outbreak, a number of Americans in the Congo believed to have had exposure to suspected cases",
           "url": "https://www.statnews.com/2026/05/17/ebola-outbreak-congo-americans-exposure-suspected-cases/?utm_campaign=rss",
           "publishedDate": "Sun, 17 May 2026 21:45:09 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "A new Ebola outbreak has been confirmed in Congo’s remote Ituri province, with 246 suspected cases and 65 deaths recorded so far.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "Mail-order abortion pills are legal (for now)",
-          "url": "https://www.statnews.com/2026/05/15/health-news-mail-order-abortion-pills-are-legal-for-now/?utm_campaign=rss",
-          "publishedDate": "Fri, 15 May 2026 13:04:06 +0000",
-          "source": "statnews.com",
-          "summary": "Africa CDC declares Ebola outbreak in DRC, the violent fallout from Trump’s cuts to foreign aid, and more health news",
-          "authors": "O. Rose Broderick"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "This popular fermented food may help flush microplastics from the body",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260517211451.htm",
+          "publishedDate": "Mon, 18 May 2026 05:59:47 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists in South Korea have discovered that a probiotic bacterium found in kimchi may help the body flush out tiny plastic particles before they can build up in organs. In lab tests, the kimchi-derived microbe clung tightly to…",
+          "authors": ""
+        },
         {
           "title": "Scientists reveal the surprising truth about coffee and blood pressure",
           "url": "https://www.sciencedaily.com/releases/2026/05/260515233343.htm",
@@ -155,14 +163,6 @@
           "publishedDate": "Sun, 17 May 2026 07:11:34 EDT",
           "source": "sciencedaily.com",
           "summary": "A new nanotechnology treatment reversed Alzheimer’s symptoms in mice by restoring the brain’s natural cleanup system. The specially engineered nanoparticles helped clear toxic amyloid proteins from the brain and repair the blood-brain…",
-          "authors": ""
-        },
-        {
-          "title": "New study debunks the biggest fear about yo-yo dieting",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260515233331.htm",
-          "publishedDate": "Sun, 17 May 2026 02:02:13 EDT",
-          "source": "sciencedaily.com",
-          "summary": "For years, “yo-yo dieting” has been blamed for wrecking metabolism and causing lasting damage, but a major new review says the fear may be wildly overblown. After analyzing decades of studies in humans and animals, researchers found little…",
           "authors": ""
         }
       ]
