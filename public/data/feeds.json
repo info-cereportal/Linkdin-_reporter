@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T21:44:23.364Z",
+  "generatedAt": "2026-05-18T02:14:00.288Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -13,6 +13,14 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "In Ebola outbreak, a number of Americans in the Congo believed to have had exposure to suspected cases",
+          "url": "https://www.statnews.com/2026/05/17/ebola-outbreak-congo-americans-exposure-suspected-cases/?utm_campaign=rss",
+          "publishedDate": "Sun, 17 May 2026 21:45:09 +0000",
+          "source": "statnews.com",
+          "summary": "A number of Americans who are in the Congo are believed to have had exposure to suspected cases in the country’s latest Ebola outbreak, sources have told STAT.",
+          "authors": "Helen Branswell"
+        },
         {
           "title": "When should you get a mammogram? Conflicting advice makes it hard to know",
           "url": "https://www.statnews.com/2026/05/17/when-should-you-get-a-mammogram-conflicting-advice/?utm_campaign=rss",
@@ -52,14 +60,6 @@
           "source": "statnews.com",
           "summary": "Africa CDC declares Ebola outbreak in DRC, the violent fallout from Trump’s cuts to foreign aid, and more health news",
           "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "PSA screening for prostate cancer reduces disease-specific deaths, new review shows",
-          "url": "https://www.statnews.com/2026/05/14/psa-tests-reduce-risk-prostate-cancer-deaths-new-study-cochrane-review/?utm_campaign=rss",
-          "publishedDate": "Fri, 15 May 2026 00:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "Prostate-specific antigen (PSA) blood testing likely reduces the risk of death from prostate cancer, found a new review",
-          "authors": "Annalisa Merelli"
         }
       ]
     },
