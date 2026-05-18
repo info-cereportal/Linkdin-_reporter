@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T17:25:07.419Z",
+  "generatedAt": "2026-05-18T19:23:51.793Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,12 +63,12 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "U.S. bans entry for travelers from Ebola-affected countries",
+          "title": "U.S. bans entry from Ebola-affected countries as American patient is identified",
           "url": "https://www.statnews.com/2026/05/18/cdc-ebola-travel-ban-announced-uganda-congo-south-sudan/?utm_campaign=rss",
           "publishedDate": "Mon, 18 May 2026 16:04:31 +0000",
           "source": "statnews.com",
-          "summary": "In response to an Ebola outbreak, the U.S. has banned entry for foreign travelers who have been in the Democratic Republic of the Congo, Uganda, or South Sudan in the&#8230;",
-          "authors": "Annalisa Merelli"
+          "summary": "In response to an Ebola outbreak, the U.S. has banned entry for noncitizens who have been in the Democratic Republic of the Congo, Uganda, or South Sudan recently.",
+          "authors": "Annalisa Merelli and Helen Branswell"
         },
         {
           "title": "Texas is opening up a detransition clinic",
@@ -118,6 +118,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Why the WakeMed &#8211; Atrium Health hospital merger matters",
+          "url": "https://www.statnews.com/2026/05/18/atrium-health-wake-med-merger-gmrs-ipo-health-care-inc/?utm_campaign=rss",
+          "publishedDate": "Mon, 18 May 2026 17:39:27 +0000",
+          "source": "statnews.com",
+          "summary": "Hospital execs worked in secret on the deal for two years.",
+          "authors": "Bob Herman"
+        },
+        {
           "title": "STAT+: Supreme Court rejects challenge to Medicare drug price negotiation",
           "url": "https://www.statnews.com/2026/05/18/supreme-court-rejects-challenge-medicare-drug-price-negotiations/?utm_campaign=rss",
           "publishedDate": "Mon, 18 May 2026 14:43:27 +0000",
@@ -155,14 +163,6 @@
           "publishedDate": "Sun, 17 May 2026 08:56:21 EDT",
           "source": "sciencedaily.com",
           "summary": "Studies suggest watermelon could be a hidden powerhouse for better health. Researchers found that people who eat watermelon tend to have higher-quality diets packed with more vitamins, fiber, and antioxidants — while consuming less added…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists reveal how seven days of fasting transforms the human body",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260517030404.htm",
-          "publishedDate": "Sun, 17 May 2026 08:38:40 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that the human body undergoes a dramatic internal transformation during extended fasting, with major changes appearing only after about three days without food. In a seven-day water-only fasting study,…",
           "authors": ""
         }
       ]

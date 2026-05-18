@@ -1,5 +1,33 @@
 [
   {
+    "generatedAt": "2026-05-18T19:23:51.473Z",
+    "date": "2026-05-18",
+    "topic": "スパイキングニューラルネットワーク(SNN)と計算論的神経科学",
+    "templateName": "paradigm-shift",
+    "riskScore": 0,
+    "paperTitle": "Scalable Construction of Spiking Neural Networks using up to thousands of GPUs",
+    "paperLink": "https://arxiv.org/abs/2512.09502",
+    "figureUrl": "https://arxiv.org/html/2512.09502/2512.09502v2/x1.png",
+    "formatted": "スパイキングニューラルネットワーク(SNN)と計算論的神経科学に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 スパイキングニューラルネットワーク(SNN) × 計算論的神経科学 × 記憶\n\n📊 注目すべきデータ：\n→ This work presents a novel network construction method for multi-GPU clusters and upcoming exascale supercomputers using the Message Passing Interface (MPI), where each process...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Scalable Construction of Spiking Neural Networks using up to thousands of GPUs\n🔗 https://arxiv.org/abs/2512.09502\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #神経科学 #計算論的神経科学 #ComputationalNeuroscience",
+    "summaryJP": "スパイキングニューラルネットワーク(SNN)と計算論的神経科学 — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
+    "paperAuthors": "Bruno Golosio, Gianmarco Tiddia, José Villamar, Luca Pontisso, Luca Sergi, Francesco Simula, Pooja Babu, Elena Pastorelli, Abigail Morrison, Markus Diesmann, Alessandro Lonardo, Pier Stanislao Paolucci, Johanna Senk",
+    "publishedDate": "Mon, 18 May 2026 00:00:00 -0400",
+    "paperId": "2512.09502",
+    "paperSource": "arxiv",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "スパイキングニューラルネットワーク(SNN)",
+      "計算論的神経科学",
+      "記憶"
+    ],
+    "abstractExcerpt": "Diverse scientific and engineering research areas deal with discrete, time-stamped changes in large systems of interacting delay differential equations. Simulating such complex systems at scale on high-performance computing clusters…",
+    "figureUrls": [
+      "https://arxiv.org/html/2512.09502/2512.09502v2/x1.png",
+      "https://arxiv.org/html/2512.09502/2512.09502v2/x2.png",
+      "https://arxiv.org/html/2512.09502/2512.09502v2/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-18T17:25:07.143Z",
     "date": "2026-05-18",
     "topic": "Transformerと畳み込みニューラルネットワーク(CNN)",
@@ -1265,35 +1293,6 @@
       "https://arxiv.org/html/2605.08019/2605.08019v1/x1.png",
       "https://arxiv.org/html/2605.08019/2605.08019v1/x2.png",
       "https://arxiv.org/html/2605.08019/2605.08019v1/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-11T19:27:03.590Z",
-    "date": "2026-05-11",
-    "topic": "学習と表現学習",
-    "templateName": "provocative-question",
-    "riskScore": 0,
-    "paperTitle": "Learning Cross-Atlas Consistent Brain Disorder Representations via Disentangled Multi-Atlas Functional Connectivity Learning",
-    "paperLink": "https://arxiv.org/abs/2605.07026",
-    "figureUrl": "https://arxiv.org/html/2605.07026/2605.07026v1/x1.png",
-    "formatted": "学習と表現学習について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 学習 × 表現学習 × Transformer × fMRI\n\n> Functional connectivity (FC) derived from resting-state fMRI is widely used to characterize large-scale brain network alterations in neurological and psychiatric disorders. However, FC construction critically depends on the choice of brain atlas, and different parcellations may...\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかしニューロAI・計算論の文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Learning Cross-Atlas Consistent Brain Disorder Representations via Disentangled Multi-Atlas Functional Connectivity Learning\n🔗 https://arxiv.org/abs/2605.07026\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #BrainComputerInterface",
-    "summaryJP": "学習と表現学習 — 常識への問題提起（ニューロAI・計算論）",
-    "paperAuthors": "Minheng Chen, Chao Cao, Jing Zhang, Tianming Liu, Dajiang Zhu",
-    "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
-    "paperId": "2605.07026",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "学習",
-      "表現学習",
-      "Transformer",
-      "fMRI",
-      "PET"
-    ],
-    "abstractExcerpt": "Functional connectivity (FC) derived from resting-state fMRI is widely used to characterize large-scale brain network alterations in neurological and psychiatric disorders. However, FC construction critically depends on the choice of brain…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.07026/2605.07026v1/x1.png",
-      "https://arxiv.org/html/2605.07026/2605.07026v1/x2.png"
     ]
   }
 ]
