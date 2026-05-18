@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T19:23:51.793Z",
+  "generatedAt": "2026-05-18T21:58:00.277Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "With no approved vaccine for Ebola outbreak, experts weigh testing a long shot",
+          "url": "https://www.statnews.com/2026/05/18/ebola-outbreak-update-experts-weigh-use-merck-vaccine-ervebo/?utm_campaign=rss",
+          "publishedDate": "Mon, 18 May 2026 20:44:16 +0000",
+          "source": "statnews.com",
+          "summary": "With no approved vaccine for the fast-growing Ebola outbreak in the DRC, experts weigh testing one with unknown protection.",
+          "authors": "Helen Branswell"
+        },
+        {
           "title": "U.S. bans entry from Ebola-affected countries as American patient is identified",
           "url": "https://www.statnews.com/2026/05/18/cdc-ebola-travel-ban-announced-uganda-congo-south-sudan/?utm_campaign=rss",
           "publishedDate": "Mon, 18 May 2026 16:04:31 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "The deadly outbreak of a rare strain of hantavirus on a cruise has generated echoes of the pandemic era, including conspiracy theories.",
           "authors": "Tal Kopan — Boston Globe"
-        },
-        {
-          "title": "WHO declares Ebola outbreak an international public health emergency",
-          "url": "https://www.statnews.com/2026/05/17/who-ebola-drc-uganda-bundibugyo-pheic-public-health-emergency/?utm_campaign=rss",
-          "publishedDate": "Sun, 17 May 2026 07:17:53 +0000",
-          "source": "statnews.com",
-          "summary": "The WHO said an Ebola outbreak first seen in the Democratic Republic of the Congo was an international public health emergency, underscoring the world's concerns.",
-          "authors": "Andrew Joseph"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Trump’s CMS to allow skimpier plans on ACA exchanges",
+          "url": "https://www.statnews.com/2026/05/18/trump-aca-insurance-new-cms-rules-expand-catastrophic-coverage/?utm_campaign=rss",
+          "publishedDate": "Mon, 18 May 2026 19:45:49 +0000",
+          "source": "statnews.com",
+          "summary": "The new plans could leave patients on the hook for more of their health care costs.",
+          "authors": "Tara Bannow"
+        },
         {
           "title": "STAT+: Why the WakeMed &#8211; Atrium Health hospital merger matters",
           "url": "https://www.statnews.com/2026/05/18/atrium-health-wake-med-merger-gmrs-ipo-health-care-inc/?utm_campaign=rss",
@@ -156,14 +164,6 @@
           "source": "statnews.com",
           "summary": "Key health lawmaker Sen. Bill Cassidy will lose his seat, as Louisiana’s Senate primary heads for a runoff between state treasurer John Fleming and Trump-backed Rep. Julia Letlow.",
           "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Scientists uncover surprising health benefits of watermelon",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260517030515.htm",
-          "publishedDate": "Sun, 17 May 2026 08:56:21 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Studies suggest watermelon could be a hidden powerhouse for better health. Researchers found that people who eat watermelon tend to have higher-quality diets packed with more vitamins, fiber, and antioxidants — while consuming less added…",
-          "authors": ""
         }
       ]
     },
