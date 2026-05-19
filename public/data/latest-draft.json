@@ -1,28 +1,26 @@
 {
-  "generatedAt": "2026-05-19T02:13:01.699Z",
+  "generatedAt": "2026-05-19T06:39:39.979Z",
   "date": "2026-05-19",
-  "topic": "スパイキングニューラルネットワーク(SNN)と計算論的神経科学",
+  "topic": "学習",
   "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "Scalable Construction of Spiking Neural Networks using up to thousands of GPUs",
-  "paperLink": "https://arxiv.org/abs/2512.09502",
-  "figureUrl": "https://arxiv.org/html/2512.09502/2512.09502v2/x1.png",
-  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、スパイキングニューラルネットワーク(SNN)と計算論的神経科学の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 スパイキングニューラルネットワーク(SNN) × 計算論的神経科学 × 記憶\n\n📊 注目すべきデータ：\n→ This work presents a novel network construction method for multi-GPU clusters and upcoming exascale supercomputers using the Message Passing Interface (MPI), where each process...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Scalable Construction of Spiking Neural Networks using up to thousands of GPUs\n🔗 https://arxiv.org/abs/2512.09502\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #神経科学 #計算論的神経科学 #ComputationalNeuroscience",
-  "summaryJP": "スパイキングニューラルネットワーク(SNN)と計算論的神経科学 — 数値で示された新事実（ニューロAI・計算論）",
-  "paperAuthors": "Bruno Golosio, Gianmarco Tiddia, José Villamar, Luca Pontisso, Luca Sergi, Francesco Simula, Pooja Babu, Elena Pastorelli, Abigail Morrison, Markus Diesmann, Alessandro Lonardo, Pier Stanislao Paolucci, Johanna Senk",
-  "publishedDate": "Mon, 18 May 2026 00:00:00 -0400",
-  "paperId": "2512.09502",
+  "paperTitle": "Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior",
+  "paperLink": "https://arxiv.org/abs/2502.20349",
+  "figureUrl": "https://arxiv.org/html/2502.20349/2502.20349v3/x1.png",
+  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習\n\n> How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace experiments with increasingly naturalistic...\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior\n🔗 https://arxiv.org/abs/2502.20349\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #認知科学",
+  "summaryJP": "学習 — 数値で示された新事実",
+  "paperAuthors": "Wilka Carvalho, Andrew Lampinen",
+  "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+  "paperId": "2502.20349",
   "paperSource": "arxiv",
-  "themeArea": "ニューロAI・計算論",
+  "themeArea": "脳情報科学",
   "jpKeywords": [
-    "スパイキングニューラルネットワーク(SNN)",
-    "計算論的神経科学",
-    "記憶"
+    "学習"
   ],
-  "abstractExcerpt": "Diverse scientific and engineering research areas deal with discrete, time-stamped changes in large systems of interacting delay differential equations. Simulating such complex systems at scale on high-performance computing clusters…",
+  "abstractExcerpt": "How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace…",
   "figureUrls": [
-    "https://arxiv.org/html/2512.09502/2512.09502v2/x1.png",
-    "https://arxiv.org/html/2512.09502/2512.09502v2/x2.png",
-    "https://arxiv.org/html/2512.09502/2512.09502v2/x3.png"
+    "https://arxiv.org/html/2502.20349/2502.20349v3/x1.png",
+    "https://arxiv.org/html/2502.20349/2502.20349v3/x2.png",
+    "https://arxiv.org/html/2502.20349/2502.20349v3/x4.png"
   ]
 }

@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-05-19T06:39:39.979Z",
+    "date": "2026-05-19",
+    "topic": "学習",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior",
+    "paperLink": "https://arxiv.org/abs/2502.20349",
+    "figureUrl": "https://arxiv.org/html/2502.20349/2502.20349v3/x1.png",
+    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習\n\n> How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace experiments with increasingly naturalistic...\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior\n🔗 https://arxiv.org/abs/2502.20349\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #認知科学",
+    "summaryJP": "学習 — 数値で示された新事実",
+    "paperAuthors": "Wilka Carvalho, Andrew Lampinen",
+    "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+    "paperId": "2502.20349",
+    "paperSource": "arxiv",
+    "themeArea": "脳情報科学",
+    "jpKeywords": [
+      "学習"
+    ],
+    "abstractExcerpt": "How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace…",
+    "figureUrls": [
+      "https://arxiv.org/html/2502.20349/2502.20349v3/x1.png",
+      "https://arxiv.org/html/2502.20349/2502.20349v3/x2.png",
+      "https://arxiv.org/html/2502.20349/2502.20349v3/x4.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-19T02:13:01.699Z",
     "date": "2026-05-19",
     "topic": "スパイキングニューラルネットワーク(SNN)と計算論的神経科学",
@@ -1266,32 +1292,5 @@
     ],
     "abstractExcerpt": "Procrastination represents one of the most prevalent behavioral problems associated with individual health and societal productivity. Despite its high prevalence and substantial impact on daily functioning, its underlying neurocognitive…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-12T05:57:36.581Z",
-    "date": "2026-05-12",
-    "topic": "学習とニューロAI",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "How Much is Brain Data Worth for Machine Learning?",
-    "paperLink": "https://arxiv.org/abs/2605.09243",
-    "figureUrl": "https://arxiv.org/html/2605.09243/2605.09243v1/final-figs/gen_model.png",
-    "formatted": "学習とニューロAIに関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 学習 × ニューロAI\n\n> If a person can solve a task, can measuring their brain make it easier to train a model to solve that task too? Recent NeuroAI work suggests that supplementing task training with neural recordings can modestly improve model performance and robustness.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 How Much is Brain Data Worth for Machine Learning?\n🔗 https://arxiv.org/abs/2605.09243\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #計算論的神経科学",
-    "summaryJP": "学習とニューロAI — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
-    "paperAuthors": "Lane Lewis, Zhixin Wang, David Schwab, Xaq Pitkow",
-    "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
-    "paperId": "2605.09243",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "学習",
-      "ニューロAI"
-    ],
-    "abstractExcerpt": "If a person can solve a task, can measuring their brain make it easier to train a model to solve that task too? Recent NeuroAI work suggests that supplementing task training with neural recordings can modestly improve model performance and…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.09243/2605.09243v1/final-figs/gen_model.png",
-      "https://arxiv.org/html/2605.09243/2605.09243v1/x1.png",
-      "https://arxiv.org/html/2605.09243/2605.09243v1/x2.png"
-    ]
   }
 ]
