@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T21:58:00.277Z",
+  "generatedAt": "2026-05-19T02:13:02.318Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Maryland state affordability board places a price cap on Ozempic",
+          "url": "https://www.statnews.com/pharmalot/2026/05/18/maryland-state-affordability-board-places-price-cap-on-ozempic/?utm_campaign=rss",
+          "publishedDate": "Mon, 18 May 2026 22:08:23 +0000",
+          "source": "statnews.com",
+          "summary": "Nine states have been pursuing the idea of prescription drug affordability boards. Maryland's board just set limits on the price of Ozempic.",
+          "authors": "Ed Silverman"
+        },
+        {
+          "title": "STAT+: White House taps Amazon, GoodRx, and Mark Cuban to bolster TrumpRx",
+          "url": "https://www.statnews.com/2026/05/18/trumprx-adds-generic-drugs-amazon-pharmacy-mark-cuban-goodrx/?utm_campaign=rss",
+          "publishedDate": "Mon, 18 May 2026 22:03:22 +0000",
+          "source": "statnews.com",
+          "summary": "Trump's drug discount platform adds 600 generic medications via major online pharmacies.",
+          "authors": "Chelsea Cirruzzo and Daniel Payne"
+        },
+        {
           "title": "With no approved vaccine for Ebola outbreak, experts weigh testing a long shot",
           "url": "https://www.statnews.com/2026/05/18/ebola-outbreak-update-experts-weigh-use-merck-vaccine-ervebo/?utm_campaign=rss",
           "publishedDate": "Mon, 18 May 2026 20:44:16 +0000",
@@ -93,22 +109,6 @@
           "source": "statnews.com",
           "summary": "A number of Americans who are in the Congo are believed to have had exposure to suspected cases in the country’s latest Ebola outbreak, sources have told STAT.",
           "authors": "Helen Branswell"
-        },
-        {
-          "title": "When should you get a mammogram? Conflicting advice makes it hard to know",
-          "url": "https://www.statnews.com/2026/05/17/when-should-you-get-a-mammogram-conflicting-advice/?utm_campaign=rss",
-          "publishedDate": "Sun, 17 May 2026 19:04:45 +0000",
-          "source": "statnews.com",
-          "summary": "When should you get a mammogram? Conflicting advice makes it hard to know.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "STAT+: The hantavirus outbreak is prompting Covid flashbacks — including the conspiracies",
-          "url": "https://www.statnews.com/2026/05/17/hantavirus-outbreak-cruise-ship-covid-flashbacks-conspiracy-theories/?utm_campaign=rss",
-          "publishedDate": "Sun, 17 May 2026 18:07:58 +0000",
-          "source": "statnews.com",
-          "summary": "The deadly outbreak of a rare strain of hantavirus on a cruise has generated echoes of the pandemic era, including conspiracy theories.",
-          "authors": "Tal Kopan — Boston Globe"
         }
       ]
     },
@@ -117,6 +117,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Hidden sugar patterns on human cells could reveal cancer early",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260517211431.htm",
+          "publishedDate": "Mon, 18 May 2026 19:57:14 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a hidden “sugar code” on the surface of human cells that could transform how diseases are detected. Using an advanced imaging technique called Glycan Atlasing, researchers at the Max Planck Institute mapped the…",
+          "authors": ""
+        },
+        {
+          "title": "Eating grapes daily could unlock powerful skin protection",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260517211427.htm",
+          "publishedDate": "Mon, 18 May 2026 19:31:33 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists discovered that eating grapes can actually change how your skin behaves at the genetic level. After just two weeks of daily grape consumption, volunteers showed signs of improved skin protection and reduced oxidative stress from…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: White House taps Amazon, GoodRx, and Mark Cuban to bolster TrumpRx",
+          "url": "https://www.statnews.com/2026/05/18/trumprx-adds-generic-drugs-amazon-pharmacy-mark-cuban-goodrx/?utm_campaign=rss",
+          "publishedDate": "Mon, 18 May 2026 22:03:22 +0000",
+          "source": "statnews.com",
+          "summary": "Trump's drug discount platform adds 600 generic medications via major online pharmacies.",
+          "authors": "Chelsea Cirruzzo and Daniel Payne"
+        },
         {
           "title": "STAT+: Trump’s CMS to allow skimpier plans on ACA exchanges",
           "url": "https://www.statnews.com/2026/05/18/trump-aca-insurance-new-cms-rules-expand-catastrophic-coverage/?utm_campaign=rss",
@@ -140,30 +164,6 @@
           "source": "statnews.com",
           "summary": "The rejection may make the pharma firms remaining lawsuits more difficult.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "This popular fermented food may help flush microplastics from the body",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260517211451.htm",
-          "publishedDate": "Mon, 18 May 2026 05:59:47 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists in South Korea have discovered that a probiotic bacterium found in kimchi may help the body flush out tiny plastic particles before they can build up in organs. In lab tests, the kimchi-derived microbe clung tightly to…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists reveal the surprising truth about coffee and blood pressure",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260515233343.htm",
-          "publishedDate": "Sun, 17 May 2026 20:53:50 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Coffee may give your blood pressure a temporary jolt, but that doesn’t mean it’s secretly wrecking your heart. Researchers say caffeine can briefly raise blood pressure by stimulating your heart and tightening blood vessels, especially in…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Sen. Bill Cassidy loses primary as race heads to run-off in win for Trump",
-          "url": "https://www.statnews.com/2026/05/17/bill-cassidy-loses-louisiana-primary-after-maga-maha-opposition/?utm_campaign=rss",
-          "publishedDate": "Sun, 17 May 2026 14:12:53 +0000",
-          "source": "statnews.com",
-          "summary": "Key health lawmaker Sen. Bill Cassidy will lose his seat, as Louisiana’s Senate primary heads for a runoff between state treasurer John Fleming and Trump-backed Rep. Julia Letlow.",
-          "authors": "Chelsea Cirruzzo"
         }
       ]
     },

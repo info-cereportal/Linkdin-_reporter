@@ -1,5 +1,33 @@
 [
   {
+    "generatedAt": "2026-05-19T02:13:01.699Z",
+    "date": "2026-05-19",
+    "topic": "スパイキングニューラルネットワーク(SNN)と計算論的神経科学",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Scalable Construction of Spiking Neural Networks using up to thousands of GPUs",
+    "paperLink": "https://arxiv.org/abs/2512.09502",
+    "figureUrl": "https://arxiv.org/html/2512.09502/2512.09502v2/x1.png",
+    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、スパイキングニューラルネットワーク(SNN)と計算論的神経科学の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 スパイキングニューラルネットワーク(SNN) × 計算論的神経科学 × 記憶\n\n📊 注目すべきデータ：\n→ This work presents a novel network construction method for multi-GPU clusters and upcoming exascale supercomputers using the Message Passing Interface (MPI), where each process...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Scalable Construction of Spiking Neural Networks using up to thousands of GPUs\n🔗 https://arxiv.org/abs/2512.09502\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #神経科学 #計算論的神経科学 #ComputationalNeuroscience",
+    "summaryJP": "スパイキングニューラルネットワーク(SNN)と計算論的神経科学 — 数値で示された新事実（ニューロAI・計算論）",
+    "paperAuthors": "Bruno Golosio, Gianmarco Tiddia, José Villamar, Luca Pontisso, Luca Sergi, Francesco Simula, Pooja Babu, Elena Pastorelli, Abigail Morrison, Markus Diesmann, Alessandro Lonardo, Pier Stanislao Paolucci, Johanna Senk",
+    "publishedDate": "Mon, 18 May 2026 00:00:00 -0400",
+    "paperId": "2512.09502",
+    "paperSource": "arxiv",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "スパイキングニューラルネットワーク(SNN)",
+      "計算論的神経科学",
+      "記憶"
+    ],
+    "abstractExcerpt": "Diverse scientific and engineering research areas deal with discrete, time-stamped changes in large systems of interacting delay differential equations. Simulating such complex systems at scale on high-performance computing clusters…",
+    "figureUrls": [
+      "https://arxiv.org/html/2512.09502/2512.09502v2/x1.png",
+      "https://arxiv.org/html/2512.09502/2512.09502v2/x2.png",
+      "https://arxiv.org/html/2512.09502/2512.09502v2/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-18T21:57:59.660Z",
     "date": "2026-05-18",
     "topic": "Transformerと学習",
@@ -1264,35 +1292,6 @@
       "https://arxiv.org/html/2605.09243/2605.09243v1/final-figs/gen_model.png",
       "https://arxiv.org/html/2605.09243/2605.09243v1/x1.png",
       "https://arxiv.org/html/2605.09243/2605.09243v1/x2.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-12T02:01:28.267Z",
-    "date": "2026-05-12",
-    "topic": "強化学習と意思決定",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "Reason to Play: Behavioral and Brain Alignment Between Frontier LRMs and Human Game Learners",
-    "paperLink": "https://arxiv.org/abs/2605.08019",
-    "figureUrl": "https://arxiv.org/html/2605.08019/2605.08019v1/x1.png",
-    "formatted": "強化学習と意思決定に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 強化学習 × 意思決定 × 学習 × fMRI\n\n📊 注目すべきデータ：\n→ Humans rapidly learn abstract knowledge when encountering novel environments and flexibly deploy this knowledge to guide efficient and intelligent action.\n→ We study this question using a dataset of complex human gameplay with concurrent fMRI recordings, in which participants learn novel video games that require rule discovery,...\n→ We find that frontier LRMs most closely match human behavioral patterns during game discovery and predict brain activity an order of magnitude better than both reinforcement...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\n計算論的神経科学の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Reason to Play: Behavioral and Brain Alignment Between Frontier LRMs and Human Game Learners\n🔗 https://arxiv.org/abs/2605.08019\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #NeuralDecoding",
-    "summaryJP": "強化学習と意思決定 — 通説を揺さぶる新たな知見（計算論的神経科学）",
-    "paperAuthors": "Botos Csaba, Sreejan Kumar, Austin Tudor David Andrews, Laurence Hunt, Chris Summerfield, Joshua B. Tenenbaum, Rui Ponte Costa, Marcelo G. Mattar, Momchil Tomov",
-    "publishedDate": "Mon, 11 May 2026 00:00:00 -0400",
-    "paperId": "2605.08019",
-    "paperSource": "arxiv",
-    "themeArea": "計算論的神経科学",
-    "jpKeywords": [
-      "強化学習",
-      "意思決定",
-      "学習",
-      "fMRI"
-    ],
-    "abstractExcerpt": "Humans rapidly learn abstract knowledge when encountering novel environments and flexibly deploy this knowledge to guide efficient and intelligent action. Can modern AI systems learn and plan in a similar way? We study this question using…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.08019/2605.08019v1/x1.png",
-      "https://arxiv.org/html/2605.08019/2605.08019v1/x2.png",
-      "https://arxiv.org/html/2605.08019/2605.08019v1/x3.png"
     ]
   }
 ]
