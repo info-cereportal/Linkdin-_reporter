@@ -1,5 +1,34 @@
 [
   {
+    "generatedAt": "2026-05-19T17:33:24.873Z",
+    "date": "2026-05-19",
+    "topic": "注意機構とブレイン・マシン・インターフェース(BMI)",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Subject-Specific Analysis of Self-Initiated Attention Shifts from EEG with Controlled Internal and External Attention Conditions",
+    "paperLink": "https://arxiv.org/abs/2605.18251",
+    "figureUrl": "https://arxiv.org/html/2605.18251/2605.18251v1/electrode.png",
+    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、注意機構とブレイン・マシン・インターフェース(BMI)の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 注意機構 × EEG × ブレイン・マシン・インターフェース(BMI) × 学習\n\n📊 注目すべきデータ：\n→ We adopt a machine learning-based approach and conduct two complementary analyses: (1) a performance-oriented assessment of frequency-specific topographic patterns, and (2) a...\n\nなぜこの数字が重要か。\n\nBCI・ニューラルインターフェースにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Subject-Specific Analysis of Self-Initiated Attention Shifts from EEG with Controlled Internal and External Attention Conditions\n🔗 https://arxiv.org/abs/2605.18251\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #BCI",
+    "summaryJP": "注意機構とブレイン・マシン・インターフェース(BMI) — 数値で示された新事実（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Yuwen Zeng, Dengzhe Hou, Zhang Zhang, Sai Sun, Yongsong Huang, Chia-huei Tseng, Satoshi Shioiri",
+    "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+    "paperId": "2605.18251",
+    "paperSource": "arxiv",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "注意機構",
+      "EEG",
+      "ブレイン・マシン・インターフェース(BMI)",
+      "学習"
+    ],
+    "abstractExcerpt": "Self-initiated attention shifts play a critical role in voluntary behavior but are difficult to study due to the absence of explicit temporal markers. While previous studies have examined their neural correlates, it remains unclear how…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.18251/2605.18251v1/electrode.png",
+      "https://arxiv.org/html/2605.18251/2605.18251v1/roc.png",
+      "https://arxiv.org/html/2605.18251/2605.18251v1/band_topo.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-19T14:35:35.169Z",
     "date": "2026-05-19",
     "topic": "計算論的神経科学とコネクトーム",
@@ -1273,30 +1302,5 @@
       "https://arxiv.org/html/2509.21671/2509.21671v2/x1.png",
       "https://arxiv.org/html/2509.21671/2509.21671v2/x2.png"
     ]
-  },
-  {
-    "generatedAt": "2026-05-12T13:52:42.026Z",
-    "date": "2026-05-12",
-    "topic": "脳刺激と前頭前皮質",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "Modulating task outcome value to mitigate real-world procrastination via noninvasive brain stimulation",
-    "paperLink": "https://arxiv.org/abs/2506.21000",
-    "formatted": "脳刺激と前頭前皮質に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 脳刺激 × 前頭前皮質 × ニューロモデュレーション × tDCS(経頭蓋直流電気刺激)\n\n📊 注目すべきデータ：\n→ While the intervention is significantly associated with both decreased task aversiveness and increased perceived task outcome value, a mediation analysis indicated a disassociable...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\n認知・意思決定の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Modulating task outcome value to mitigate real-world procrastination via noninvasive brain stimulation\n🔗 https://arxiv.org/abs/2506.21000\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #神経科学",
-    "summaryJP": "脳刺激と前頭前皮質 — 通説を揺さぶる新たな知見（認知・意思決定）",
-    "paperAuthors": "Zhiyi Chen, Zhilin Ren, Wei Li, ZhenZhen Huo, ZhuangZheng Wang, Ye Liu, Bowen Hu, Wanting Chen, Ting Xu, Artemiy Leonov, Chenyan Zhang, Bernhard Hommel, Tingyong Feng",
-    "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
-    "paperId": "2506.21000",
-    "paperSource": "arxiv",
-    "themeArea": "認知・意思決定",
-    "jpKeywords": [
-      "脳刺激",
-      "前頭前皮質",
-      "ニューロモデュレーション",
-      "tDCS(経頭蓋直流電気刺激)",
-      "PET"
-    ],
-    "abstractExcerpt": "Procrastination represents one of the most prevalent behavioral problems associated with individual health and societal productivity. Despite its high prevalence and substantial impact on daily functioning, its underlying neurocognitive…",
-    "figureUrls": []
   }
 ]
