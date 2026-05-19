@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T06:39:40.250Z",
+  "generatedAt": "2026-05-19T11:54:00.966Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "The latest on Ebola: A travel ban and an old vaccine",
+          "url": "https://www.statnews.com/2026/05/19/health-news-ebola-travel-ban-and-old-vaccine/?utm_campaign=rss",
+          "publishedDate": "Tue, 19 May 2026 11:39:48 +0000",
+          "source": "statnews.com",
+          "summary": "Affordable Care Act changes, drinking while pregnant, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "STAT+: 1 in 8 women drink during pregnancy. Experts dread the consequences",
+          "url": "https://www.statnews.com/2026/05/19/drinking-while-pregnant-fetal-alcohol-exposure-explored-part-5-deadliest-drug-series/?utm_campaign=rss",
+          "publishedDate": "Tue, 19 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "More than 1 in 8 pregnant women report drinking. Doctors warn fetal alcohol disorders may be more common than many realize, perhaps more common than autism.",
+          "authors": "Isabella Cueto"
+        },
+        {
           "title": "STAT+: Maryland state affordability board places a price cap on Ozempic",
           "url": "https://www.statnews.com/pharmalot/2026/05/18/maryland-state-affordability-board-places-price-cap-on-ozempic/?utm_campaign=rss",
           "publishedDate": "Mon, 18 May 2026 22:08:23 +0000",
@@ -93,22 +109,6 @@
           "source": "statnews.com",
           "summary": "In response to an Ebola outbreak, the U.S. has banned entry for noncitizens who have been in the Democratic Republic of the Congo, Uganda, or South Sudan recently.",
           "authors": "Annalisa Merelli and Helen Branswell"
-        },
-        {
-          "title": "Texas is opening up a detransition clinic",
-          "url": "https://www.statnews.com/2026/05/18/health-news-texas-opens-detransition-clinic/?utm_campaign=rss",
-          "publishedDate": "Mon, 18 May 2026 11:43:39 +0000",
-          "source": "statnews.com",
-          "summary": "Americans exposed to Ebola outbreak, Bill Cassidy's primary defeat, and more health news from Morning Rounds",
-          "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "In Ebola outbreak, a number of Americans in the Congo believed to have had exposure to suspected cases",
-          "url": "https://www.statnews.com/2026/05/17/ebola-outbreak-congo-americans-exposure-suspected-cases/?utm_campaign=rss",
-          "publishedDate": "Sun, 17 May 2026 21:45:09 +0000",
-          "source": "statnews.com",
-          "summary": "A number of Americans who are in the Congo are believed to have had exposure to suspected cases in the country’s latest Ebola outbreak, sources have told STAT.",
-          "authors": "Helen Branswell"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Scientists found a smarter Mediterranean diet that slashes diabetes risk by 31%",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260519003103.htm",
+          "publishedDate": "Tue, 19 May 2026 03:02:22 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A large European study revealed that a lower-calorie Mediterranean diet paired with exercise and coaching dramatically reduced the risk of type 2 diabetes. Participants who made these lifestyle changes were 31% less likely to develop the…",
+          "authors": ""
+        },
         {
           "title": "Hidden sugar patterns on human cells could reveal cancer early",
           "url": "https://www.sciencedaily.com/releases/2026/05/260517211431.htm",
@@ -156,14 +164,6 @@
           "source": "statnews.com",
           "summary": "Hospital execs worked in secret on the deal for two years.",
           "authors": "Bob Herman"
-        },
-        {
-          "title": "STAT+: Supreme Court rejects challenge to Medicare drug price negotiation",
-          "url": "https://www.statnews.com/2026/05/18/supreme-court-rejects-challenge-medicare-drug-price-negotiations/?utm_campaign=rss",
-          "publishedDate": "Mon, 18 May 2026 14:43:27 +0000",
-          "source": "statnews.com",
-          "summary": "The rejection may make the pharma firms remaining lawsuits more difficult.",
-          "authors": "John Wilkerson"
         }
       ]
     },

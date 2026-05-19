@@ -31,6 +31,12 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://eegbugckets.web.app/article/202605191154-2605.18118</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://eegbugckets.web.app/article/202605190639-2502.20349</loc>
     <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -320,12 +326,6 @@
   </url>
   <url>
     <loc>https://eegbugckets.web.app/article/202605121111-2605.09243</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://eegbugckets.web.app/article/202605120834-2506.21000</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
