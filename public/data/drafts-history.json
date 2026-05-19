@@ -1,5 +1,33 @@
 [
   {
+    "generatedAt": "2026-05-19T22:06:06.328Z",
+    "date": "2026-05-19",
+    "topic": "言語処理と情動",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "EmoMind: Decoding Affective Captions from Human Brain fMRI",
+    "paperLink": "https://arxiv.org/abs/2605.16739",
+    "figureUrl": "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure1_pipeline.png",
+    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、言語処理と情動の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 fMRI × 言語処理 × 情動\n\n📊 注目すべきデータ：\n→ Across two independent emotion fMRI datasets, EmoMind significantly outperforms label-prompted GPT-4 on all three axes, with the largest gains on metrics that require...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 EmoMind: Decoding Affective Captions from Human Brain fMRI\n🔗 https://arxiv.org/abs/2605.16739\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #DeepLearning",
+    "summaryJP": "言語処理と情動 — 数値で示された新事実（神経デコーディング）",
+    "paperAuthors": "Bilal A. Mohammed, Lin Gu, Ruogo Fang",
+    "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+    "paperId": "2605.16739",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "fMRI",
+      "言語処理",
+      "情動"
+    ],
+    "abstractExcerpt": "Decoding visual experience from brain activity has advanced substantially, but cur- rent brain-to-text systems largely recover semantic content while discarding affect. Additionally, language models can generate emotional text when…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure1_pipeline.png",
+      "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure2_architecture.png",
+      "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure4_qualitative.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-19T19:42:52.496Z",
     "date": "2026-05-19",
     "topic": "学習",
@@ -1267,36 +1295,6 @@
       "https://arxiv.org/html/2512.10976/2512.10976v2/exp1_result.png",
       "https://arxiv.org/html/2512.10976/2512.10976v2/exp2_long_run_7x7.png",
       "https://arxiv.org/html/2512.10976/2512.10976v2/exp3_savitch_fig2_capacity.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-12T19:27:37.277Z",
-    "date": "2026-05-12",
-    "topic": "ブレイン・コンピュータ・インターフェース(BCI)と前頭前皮質",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "Neuroprobe: Evaluating Intracranial Brain Responses to Naturalistic Stimuli",
-    "paperLink": "https://arxiv.org/abs/2509.21671",
-    "figureUrl": "https://arxiv.org/html/2509.21671/2509.21671v2/fig/overview_figure.png",
-    "formatted": "ブレイン・コンピュータ・インターフェース(BCI)と前頭前皮質に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × 前頭前皮質 × 言語処理 × EEG\n\n📊 注目すべきデータ：\n→ Using Neuroprobe, we visualize how information flows from key language and audio processing sites in the superior temporal gyrus to sites in the prefrontal cortex.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nBCI・ニューラルインターフェースの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Neuroprobe: Evaluating Intracranial Brain Responses to Naturalistic Stimuli\n🔗 https://arxiv.org/abs/2509.21671\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #ニューロテック",
-    "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)と前頭前皮質 — 通説を揺さぶる新たな知見（BCI・ニューラルインターフェース）",
-    "paperAuthors": "Andrii Zahorodnii, Christopher Wang, Geeling Chau, Bennett Stankovits, Charikleia Moraitaki, Eli Gross, Alexander Brady, Andrei Barbu, Boris Katz, Ila R Fiete",
-    "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
-    "paperId": "2509.21671",
-    "paperSource": "arxiv",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "ブレイン・コンピュータ・インターフェース(BCI)",
-      "前頭前皮質",
-      "言語処理",
-      "EEG",
-      "PET"
-    ],
-    "abstractExcerpt": "High-resolution neural datasets enable foundation models for the next generation of brain-computer interfaces and neurological treatments. The community requires rigorous benchmarks to discriminate between competing modeling approaches,…",
-    "figureUrls": [
-      "https://arxiv.org/html/2509.21671/2509.21671v2/fig/overview_figure.png",
-      "https://arxiv.org/html/2509.21671/2509.21671v2/x1.png",
-      "https://arxiv.org/html/2509.21671/2509.21671v2/x2.png"
     ]
   }
 ]

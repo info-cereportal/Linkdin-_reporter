@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-05-19T19:42:52.496Z",
+  "generatedAt": "2026-05-19T22:06:06.328Z",
   "date": "2026-05-19",
-  "topic": "学習",
+  "topic": "言語処理と情動",
   "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior",
-  "paperLink": "https://arxiv.org/abs/2502.20349",
-  "figureUrl": "https://arxiv.org/html/2502.20349/2502.20349v3/x1.png",
-  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習\n\n> How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace experiments with increasingly naturalistic...\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior\n🔗 https://arxiv.org/abs/2502.20349\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #DeepLearning",
-  "summaryJP": "学習 — 数値で示された新事実",
-  "paperAuthors": "Wilka Carvalho, Andrew Lampinen",
+  "paperTitle": "EmoMind: Decoding Affective Captions from Human Brain fMRI",
+  "paperLink": "https://arxiv.org/abs/2605.16739",
+  "figureUrl": "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure1_pipeline.png",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、言語処理と情動の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 fMRI × 言語処理 × 情動\n\n📊 注目すべきデータ：\n→ Across two independent emotion fMRI datasets, EmoMind significantly outperforms label-prompted GPT-4 on all three axes, with the largest gains on metrics that require...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 EmoMind: Decoding Affective Captions from Human Brain fMRI\n🔗 https://arxiv.org/abs/2605.16739\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #DeepLearning",
+  "summaryJP": "言語処理と情動 — 数値で示された新事実（神経デコーディング）",
+  "paperAuthors": "Bilal A. Mohammed, Lin Gu, Ruogo Fang",
   "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
-  "paperId": "2502.20349",
+  "paperId": "2605.16739",
   "paperSource": "arxiv",
-  "themeArea": "脳情報科学",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "学習"
+    "fMRI",
+    "言語処理",
+    "情動"
   ],
-  "abstractExcerpt": "How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace…",
+  "abstractExcerpt": "Decoding visual experience from brain activity has advanced substantially, but cur- rent brain-to-text systems largely recover semantic content while discarding affect. Additionally, language models can generate emotional text when…",
   "figureUrls": [
-    "https://arxiv.org/html/2502.20349/2502.20349v3/x1.png",
-    "https://arxiv.org/html/2502.20349/2502.20349v3/x2.png",
-    "https://arxiv.org/html/2502.20349/2502.20349v3/x4.png"
+    "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure1_pipeline.png",
+    "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure2_architecture.png",
+    "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure4_qualitative.png"
   ]
 }
