@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-05-20T06:39:32.315Z",
+    "date": "2026-05-20",
+    "topic": "シナプス可塑性と学習",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "Reshaping Neural Representation via Associative, Presynaptic Short-Term Plasticity",
+    "paperLink": "https://arxiv.org/abs/2601.10397",
+    "figureUrl": "https://arxiv.org/html/2601.10397/2601.10397v3/x1.png",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\nシナプス可塑性と学習の最新成果を整理しました。\n\n🔬 シナプス可塑性 × 学習\n\n> Short-term synaptic plasticity (STP) is often regarded as a presynaptic filter of spikes, independent of postsynaptic activity. Recent experiments, however, indicate an associative STP that depends on pre- and postsynaptic coactivation.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Reshaping Neural Representation via Associative, Presynaptic Short-Term Plasticity\n🔗 https://arxiv.org/abs/2601.10397\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #脳情報",
+    "summaryJP": "シナプス可塑性と学習 — 注目すべき3つの示唆（神経デコーディング）",
+    "paperAuthors": "Genki Shimizu, Taro Toyoizumi",
+    "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+    "paperId": "2601.10397",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "シナプス可塑性",
+      "学習"
+    ],
+    "abstractExcerpt": "Short-term synaptic plasticity (STP) is often regarded as a presynaptic filter of spikes, independent of postsynaptic activity. Recent experiments, however, indicate an associative STP that depends on pre- and postsynaptic coactivation. We…",
+    "figureUrls": [
+      "https://arxiv.org/html/2601.10397/2601.10397v3/x1.png",
+      "https://arxiv.org/html/2601.10397/2601.10397v3/x2.png",
+      "https://arxiv.org/html/2601.10397/2601.10397v3/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-20T02:11:54.035Z",
     "date": "2026-05-20",
     "topic": "表現学習と神経デコーディング",
@@ -1269,36 +1296,5 @@
     ],
     "abstractExcerpt": "Learning in artificial neural networks usually relies on continuous, externally driven weight updates, in which parameters are modified at every step in response to incoming data, error signals or reward feedback. In this setting, routine…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-13T02:06:47.185Z",
-    "date": "2026-05-13",
-    "topic": "ニューロAIと深層学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "NeuralBench: A Unifying Framework to Benchmark NeuroAI Models",
-    "paperLink": "https://arxiv.org/abs/2605.08495",
-    "figureUrl": "https://arxiv.org/html/2605.08495/2605.08495v1/x1.png",
-    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、ニューロAIと深層学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 ニューロAI × 深層学習 × 学習 × 脳画像研究\n\n📊 注目すべきデータ：\n→ First, current foundation models only marginally outperform task-specific models.\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 NeuralBench: A Unifying Framework to Benchmark NeuroAI Models\n🔗 https://arxiv.org/abs/2605.08495\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #BrainComputerInterface",
-    "summaryJP": "ニューロAIと深層学習 — 数値で示された新事実（ニューロAI・計算論）",
-    "paperAuthors": "Hubert Banville (Lucy), Stéphane d'Ascoli (Lucy), Simon Dahan (Lucy), Jérémy Rapin (Lucy), Marlène Careil (Lucy), Yohann Benchetrit (Lucy), Jarod Lévy (Lucy), Saarang Panchavati (Lucy), Antoine Ratouchniak (Lucy), Mingfang (Lucy), Zhang, Elisa Cascardi, Katelyn Begany, Teon Brooks, Jean-Rémi King",
-    "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
-    "paperId": "2605.08495",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "ニューロAI",
-      "深層学習",
-      "学習",
-      "脳画像研究",
-      "fMRI",
-      "EEG"
-    ],
-    "abstractExcerpt": "Deep learning and large public datasets have recently catalyzed the proliferation of AI models for processing brain recordings. However, systematically evaluating these models remains a challenge: not only do the preprocessing pipelines,…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.08495/2605.08495v1/x1.png",
-      "https://arxiv.org/html/2605.08495/2605.08495v1/x2.png",
-      "https://arxiv.org/html/2605.08495/2605.08495v1/x3.png"
-    ]
   }
 ]

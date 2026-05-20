@@ -1,31 +1,27 @@
 {
-  "generatedAt": "2026-05-20T02:11:54.035Z",
+  "generatedAt": "2026-05-20T06:39:32.315Z",
   "date": "2026-05-20",
-  "topic": "表現学習と神経デコーディング",
+  "topic": "シナプス可塑性と学習",
   "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity",
-  "paperLink": "https://arxiv.org/abs/2603.03190",
-  "figureUrl": "https://arxiv.org/html/2603.03190/2603.03190v3/figures/concept.png",
-  "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n表現学習と神経デコーディングの最新成果を整理しました。\n\n🔬 表現学習 × 神経デコーディング × 神経エンコーディング × 学習\n\n📊 注目すべきデータ：\n→ Models pretrained to predict either representation outperform non-pretrained baselines, and combining them yields complementary gains that exceed strong seed ensembles formed by...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity\n🔗 https://arxiv.org/abs/2603.03190\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #脳情報",
-  "summaryJP": "表現学習と神経デコーディング — 注目すべき3つの示唆（神経デコーディング）",
-  "paperAuthors": "Shogo Noguchi, Taketo Akama, Tai Nakamura, Shun Minamikawa, Natalia Polouliakh",
-  "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
-  "paperId": "2603.03190",
+  "paperTitle": "Reshaping Neural Representation via Associative, Presynaptic Short-Term Plasticity",
+  "paperLink": "https://arxiv.org/abs/2601.10397",
+  "figureUrl": "https://arxiv.org/html/2601.10397/2601.10397v3/x1.png",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\nシナプス可塑性と学習の最新成果を整理しました。\n\n🔬 シナプス可塑性 × 学習\n\n> Short-term synaptic plasticity (STP) is often regarded as a presynaptic filter of spikes, independent of postsynaptic activity. Recent experiments, however, indicate an associative STP that depends on pre- and postsynaptic coactivation.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Reshaping Neural Representation via Associative, Presynaptic Short-Term Plasticity\n🔗 https://arxiv.org/abs/2601.10397\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #脳情報",
+  "summaryJP": "シナプス可塑性と学習 — 注目すべき3つの示唆（神経デコーディング）",
+  "paperAuthors": "Genki Shimizu, Taro Toyoizumi",
+  "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+  "paperId": "2601.10397",
   "paperSource": "arxiv",
   "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "表現学習",
-    "神経デコーディング",
-    "神経エンコーディング",
-    "学習",
-    "ECoG(皮質脳波)",
-    "EEG"
+    "シナプス可塑性",
+    "学習"
   ],
-  "abstractExcerpt": "During music listening, cortical activity encodes both acoustic and expectation-related information. Prior work has shown that ANN representations resemble cortical representations and can serve as supervisory signals for EEG recognition.…",
+  "abstractExcerpt": "Short-term synaptic plasticity (STP) is often regarded as a presynaptic filter of spikes, independent of postsynaptic activity. Recent experiments, however, indicate an associative STP that depends on pre- and postsynaptic coactivation. We…",
   "figureUrls": [
-    "https://arxiv.org/html/2603.03190/2603.03190v3/figures/concept.png",
-    "https://arxiv.org/html/2603.03190/2603.03190v3/x1.png",
-    "https://arxiv.org/html/2603.03190/2603.03190v3/x2.png"
+    "https://arxiv.org/html/2601.10397/2601.10397v3/x1.png",
+    "https://arxiv.org/html/2601.10397/2601.10397v3/x2.png",
+    "https://arxiv.org/html/2601.10397/2601.10397v3/x3.png"
   ]
 }

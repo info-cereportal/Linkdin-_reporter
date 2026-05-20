@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T02:11:54.667Z",
+  "generatedAt": "2026-05-20T06:39:32.472Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "MIRAGE: Robust multi-modal architectures translate fMRI-to-image models from vision to mental imagery",
-          "url": "https://arxiv.org/abs/2605.17198",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+          "title": "Features have life history. And we should care",
+          "url": "https://arxiv.org/abs/2605.18789",
+          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "To be useful for downstream applications, vision decoding models that are trained to reconstruct seen images from human brain activity must be able to generalize to internally generated visual representations, i.e., mental images. In an…",
-          "authors": "Reese Kneeland, Cesar Kadir Torrico Villanueva, Jordyn Ojeda, Shuhb Khanna, Jonathan Xu, Paul S. Scotti, Thomas Naselaris"
+          "summary": "Features in language models have life history: they emerge, persist, and die during training, yet the importance of that history remains largely unexplored. We find evidence of a persistent representational backbone, which we identify in…",
+          "authors": "Philipp Stecher, Sandro Radovanović, Vlasta Sikimić, Reinhard Kahle"
         },
         {
-          "title": "Geometric Phase Transition Enables Extreme Hippocampal Memory Capacity",
-          "url": "https://arxiv.org/abs/2605.17199",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+          "title": "Conserved Kinematic Representations enable Zero-Shot Decoding in Handwriting BCIs",
+          "url": "https://arxiv.org/abs/2605.19048",
+          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Memory systems can store vastly different amounts of information despite similar hardware constraints. Here, we show that superior spatial memory emerges from a discrete stiffening of hippocampal population geometry-a transition from…",
-          "authors": "Prashant C. Raju"
+          "summary": "While intracortical Brain-Computer Interfaces (iBCIs) that decode imagined handwriting have achieved high communication rates for Latin scripts, they rely on observing every character in the alphabet during training. This poses a challenge…",
+          "authors": "Srinivas Ravishankar, Virginia de Sa"
         },
         {
-          "title": "Von Economo neurons enable reliable social skill acquisition in recurrent spiking neural networks: a computational account with clinical predictions",
-          "url": "https://arxiv.org/abs/2605.17399",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+          "title": "Computational Auditory Periphery Models: the Return of the Rodent",
+          "url": "https://arxiv.org/abs/2605.19070",
+          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Von Economo neurons (VENs) are selectively lost in behavioural-variant frontotemporal dementia (bvFTD) and reduced in autism spectrum conditions (ASC), yet their computational role in social learning remains unexplained. We train a spiking…",
-          "authors": "Esila Keskin"
+          "summary": "Animal experiments have provided many insights on auditory function, notably in cases of sensorineural hearing loss (SNHL). However, it is not always clear how these findings translate to the human auditory system in clinically relevant…",
+          "authors": "Morgan Thienpont, F. Deloche, S. Keshishzadeh, D. Kiselev, J. Bourien, J. -L. Puel, B. N. Buran, N. Bramhall, S. Verhulst"
         },
         {
-          "title": "Functional Whole-Brain Models: A New Framework for Unifying Brain Structure and Cognitive Function",
-          "url": "https://arxiv.org/abs/2605.18118",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+          "title": "Brain alignment of reasoning and action representations from vision-language and action models during naturalistic gameplay",
+          "url": "https://arxiv.org/abs/2605.19352",
+          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Contemporary computational neuroscience features two prominent modeling traditions. Bottom-up whole-brain modeling (WBM) builds biophysically detailed simulations of brain structure and dynamics, whereas top-down neuroconnectionism…",
-          "authors": "Mario Senden, Leonardo Dalla Porta, Jan Fousek, Jorge F. Mejias, Gorka Zamora-López"
+          "summary": "Understanding how humans and artificial intelligence systems predict and plan by interacting with their environment is a fundamental challenge at the intersection of neuroscience and machine learning. Most brain-encoding studies focus on…",
+          "authors": "Subba Reddy Oota, Anant Khandelwal, Khushbu Pahwa, Satya Sai Srinath Namburi, Tanmoy Chakraborty, Bapi S. Raju, Manish Gupta"
         },
         {
-          "title": "Mechanistically Interpretable Neural Encoding Reveals Fine-Grained Functional Selectivity in Human Visual Cortex",
-          "url": "https://arxiv.org/abs/2605.16468",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+          "title": "BCI-sift: An automated feature selection toolbox for Brain Computer Interface applications",
+          "url": "https://arxiv.org/abs/2605.19646",
+          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "A central goal in understanding human vision is to uncover the visual features that drive neuronal activity. A growing body of work has used artificial neural networks as encoding models to predict cortical responses to natural images,…",
-          "authors": "Idan Daniel Grosbard, Mor Geva, Galit Yovel"
+          "summary": "Advancements in clinical Brain-Computer Interfaces (BCIs) depend on precise and reliable signal interpretation. However, the high-dimensional and noisy nature of data captured from both implanted and non-implanted BCIs poses significant…",
+          "authors": "Elena C Offenberg, Dirk Keller, Mariska J Vansteensel, Zachary V Freudenburg, Nick F Ramsey, Julia Berezutskaya"
         },
         {
-          "title": "EmoMind: Decoding Affective Captions from Human Brain fMRI",
-          "url": "https://arxiv.org/abs/2605.16739",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+          "title": "Performance of low vision individuals when selecting a target with head-pointing in virtual reality",
+          "url": "https://arxiv.org/abs/2605.19816",
+          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Decoding visual experience from brain activity has advanced substantially, but cur- rent brain-to-text systems largely recover semantic content while discarding affect. Additionally, language models can generate emotional text when…",
-          "authors": "Bilal A. Mohammed, Lin Gu, Ruogo Fang"
+          "summary": "Purpose: To investigate psychophysically the ability of low vision individuals with central visual field loss (CFL) to perform a visually-guided pointing task in a virtual reality environment. Methods: Patients with CFL (n=25, ages = 67-90…",
+          "authors": "Camille Bordeau (CRPN), Célia Passerel (CRPN), Ambre Denis-Noël (LPL), Jean-Baptiste Melmi (CRPN), Marianne Vaugoyeau (LNC, CRPN), Carlos Aguilar (UniCA, BIOVISION), Iliana Huyet (UniCA, BIOVISION), Caroline Topart (UniCA, BIOVISION), François Devin (UniCA, BIOVISION), Frédéric Matonti (UniCA, BIOVISION), Pierre Kornprobst (UniCA, BIOVISION), Eric Castet (CRPN)"
         }
       ]
     },
@@ -173,91 +173,75 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Evolutionary Extreme Learning Machine of ab-initio Energy Landscapes for Crystal Structure Prediction using Manta Ray Optimization with Levy Flight",
-          "url": "https://arxiv.org/abs/2605.17148",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+          "title": "GOAL: Graph-based Objective-Aligned Diffusion Solvers for Dynamic Multi-Objective Optimization",
+          "url": "https://arxiv.org/abs/2605.19119",
+          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The Manta Ray Foraging Optimization algorithm (MRFO) has proven to be a powerful heuristic strategy in the optimal solution of a large number of engineering problems. In this paper, an improvement of MRFO with Levy Flight is suggested for…",
-          "authors": "Adrian Rubio-Solis"
+          "summary": "Existing neural combinatorial optimization solvers frame solution search as imitation of optimal decisions, inherently limiting their utility to single-objective minimization and static constraints. We propose GOAL, a conditioned diffusion…",
+          "authors": "Xingyu Li"
         },
         {
-          "title": "Adaptive Stochastic Natural Gradient Method for Safe Optimization on Binary Space",
-          "url": "https://arxiv.org/abs/2605.17925",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+          "title": "Multi-population Diversity-guided Genetic Algorithm for Feature Selection in Network Intrusion Detection",
+          "url": "https://arxiv.org/abs/2605.19864",
+          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Optimization problems in real-world applications across the medical and engineering domains often involve potential risks when evaluating candidate solutions. Safe optimization aims to perform optimization while suppressing unsafe solution…",
-          "authors": "Kento Uchida, Ryoki Hamano, Masahiro Nomura, Shinichi Shirakawa"
+          "summary": "Network Intrusion Detection System is a critical means of ensuring cybersecurity. However, existing Genetic Algorithm-based feature selection methods face several limitations when dealing with high-dimensional redundant traffic features.…",
+          "authors": "Chunzhen Li"
         },
         {
-          "title": "Spiker-LL: An Energy-Efficient FPGA Accelerator Enabling Adaptive Local Learning in Spiking Neural Networks",
-          "url": "https://arxiv.org/abs/2605.18003",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+          "title": "What Do Evolutionary Coding Agents Evolve?",
+          "url": "https://arxiv.org/abs/2605.20086",
+          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Deploying adaptive intelligence at the edge remains challenging due to the high computational and energy cost of training neural models. Spiking Neural Networks (SNNs) offer a promising alternative, but enabling on-device learning requires…",
-          "authors": "Alessio Caviglia, Filippo Marostica, Alessandro Savino, Stefano Di Carlo"
+          "summary": "Recent work pairs LLMs with evolutionary search to iteratively generate, modify, and select code using task-specific feedback. These systems have produced strong results in mathematical discovery and algorithm design, yet a fundamental…",
+          "authors": "Nico Pelleriti, Sree Harsha Nelaturu, Zhanke Zhou, Zongze Li, Max Zimmer, Bo Han, Sebastian Pokutta"
         },
         {
-          "title": "Mapping the Fitness Landscape: A Structure-Guided Approach to Multi-Modal Optimization",
-          "url": "https://arxiv.org/abs/2605.18351",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+          "title": "MO-CAPO: Multi-Objective Cost-Aware Prompt Optimization",
+          "url": "https://arxiv.org/abs/2605.18869",
+          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Multimodal optimization requires finding many optima rather than merely keeping a diverse population. Yet most niching-based evolutionary algorithms rely on distances or density estimators without explicitly recovering the underlying…",
-          "authors": "Meng Xiang, Pei Yan"
+          "summary": "Large language models (LLMs) achieve strong performance across a wide range of tasks but are highly sensitive to prompt design, motivating the need for automatic prompt optimization. Existing methods predominantly focus on performance…",
+          "authors": "Jan Büssing, Moritz Schlager, Timo Heiß, Tom Zehle, Matthias Feurer"
         },
         {
-          "title": "Deep Reinforcement Learning Framework for Diversified Portfolio Management Across Global Equity Markets",
-          "url": "https://arxiv.org/abs/2605.17307",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+          "title": "Stability and Discretization Error of State Space Model Neural Operators",
+          "url": "https://arxiv.org/abs/2605.18905",
+          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This study develops and evaluates a deep reinforcement learning framework for dynamic portfolio allocation across global equity markets. The Soft Actor-Critic algorithm is used to learn continuous portfolio weights within a Markov Decision…",
-          "authors": "Kamil Kashif, Robert Ślepaczuk"
+          "summary": "Neural operators have emerged as a powerful, discretization-invariant framework for solving partial differential equations (PDEs). Although established approaches like the Deep Operator Network (DeepONet) have successfully achieved…",
+          "authors": "Abderrahim Bendahi, Adrien Fradin, Johan Peralez, Julie Digne, Madiha Nadri"
         },
         {
-          "title": "Von Economo neurons enable reliable social skill acquisition in recurrent spiking neural networks: a computational account with clinical predictions",
-          "url": "https://arxiv.org/abs/2605.17399",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+          "title": "Information Processing Capacity of Stationary Physical Systems: Theory, Data-efficient Estimation Methods, and Photonic Demonstration",
+          "url": "https://arxiv.org/abs/2605.19152",
+          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Von Economo neurons (VENs) are selectively lost in behavioural-variant frontotemporal dementia (bvFTD) and reduced in autism spectrum conditions (ASC), yet their computational role in social learning remains unexplained. We train a spiking…",
-          "authors": "Esila Keskin"
+          "summary": "Physical computing systems provide a promising route toward hardware-native machine learning, but their computational capabilities remain difficult to characterize in a principled, task-independent, and data-efficient way. We extend the…",
+          "authors": "Rahul Uma Ramachandran, Serge Massar"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 4,
+      "itemCount": 2,
       "items": [
         {
-          "title": "Estimating Target Doppler in Unsynchronized Multistatic ISAC Deployments with Mobile Nodes",
-          "url": "https://arxiv.org/abs/2605.16934",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+          "title": "Cross-Subject Intracranial EEG Reconstruction from Scalp Recordings Using Multi-Scale Cross-Attention Transformers",
+          "url": "https://arxiv.org/abs/2605.18897",
+          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Integrated Sensing And Communication (ISAC) is recognized as a key enabler for future 6th Generation (6G) networks, combining communication capabilities with pervasive sensing. In such systems, the estimation of the Doppler shift plays a…",
-          "authors": "Zaman Bhalli, Michele Rossi, Joerg Widmer, Marco Canil"
+          "summary": "Intracranial EEG (iEEG) provides high-fidelity neural recordings essential for clinical and brain-computer interface applications, but acquiring these signals requires invasive surgery. While recent studies have attempted to estimate iEEG…",
+          "authors": "Tien-Dat Pham, Xuan-The Tran"
         },
         {
-          "title": "Connectionless Bluetooth LE Channel Sounding via PAwR for Scalable and Energy-Efficient Ranging",
-          "url": "https://arxiv.org/abs/2605.17094",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+          "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
+          "url": "https://arxiv.org/abs/2605.19031",
+          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Bluetooth Core Specification v6.0 introduces Channel Sounding (CS) as a standardized high-accuracy ranging primitive for Bluetooth Low Energy (BLE). However, standard CS usage remains tied to per-pair LE asynchronous connection logical…",
-          "authors": "Leon Schex, Markus Cremer, Uwe Dettmar"
-        },
-        {
-          "title": "Modulation Feature Enhancement with a Multi-Stage Attention Network for Underwater Acoustic Target Recognition",
-          "url": "https://arxiv.org/abs/2605.16304",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Underwater acoustic target recognition is critical for maritime applications, yet it faces challenges arising from the complex and diverse nature of ship-radiated noise. To address these issues, we propose a robust deep learning-based…",
-          "authors": "Shefeng Yan, Linlin Mao, Zeping Sui, Chunjin Jiang"
-        },
-        {
-          "title": "PRiSE-EEG: A Prior-Guided Foundation Model with Depth-Stratified Experts for Cross-Paradigm EEG Representation Learning",
-          "url": "https://arxiv.org/abs/2605.18085",
-          "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "EEG foundation models aim to learn reusable representations across heterogeneous paradigms, yet existing approaches often use uniform adaptation mechanisms and are typically reported under separate downstream fine-tuning protocols. In this…",
-          "authors": "Wei Xiong, Jiangtong Li, Kun Zhu, Jie Li"
+          "summary": "Kolmogorov-Arnold Networks (KANs) have demonstrated an exceptional ability to learn complex functions on clean, low-dimensional data but struggle to maintain performance on noisy and imperfect real-world datasets. In contrast, conventional…",
+          "authors": "Mengxi Liu, Sizhen Bian, Vitor Fortes, Francisco Calatrava Nicolas, Daniel Geißler, Maximilian Kiefer-Emmanouilidis, Bo Zhou, Paul Lukowicz"
         }
       ]
     }
