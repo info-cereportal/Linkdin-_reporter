@@ -1,25 +1,31 @@
 {
-  "generatedAt": "2026-05-20T20:01:13.141Z",
+  "generatedAt": "2026-05-20T22:19:24.130Z",
   "date": "2026-05-20",
-  "topic": "ブレイン・コンピュータ・インターフェース(BCI)と運動野",
+  "topic": "ブレイン・コンピュータ・インターフェース(BCI)とニューロプロテーゼ",
   "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "BCI-sift: An automated feature selection toolbox for Brain Computer Interface applications",
-  "paperLink": "https://arxiv.org/abs/2605.19646",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\nブレイン・コンピュータ・インターフェース(BCI)と運動野の最新成果を整理しました。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × 運動野 × 学習 × 皮質脳波(ECoG)\n\n📊 注目すべきデータ：\n→ However, the high-dimensional and noisy nature of data captured from both implanted and non-implanted BCIs poses significant challenges, motivating the use of feature selection...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nBCI・ニューラルインターフェースの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 BCI-sift: An automated feature selection toolbox for Brain Computer Interface applications\n🔗 https://arxiv.org/abs/2605.19646\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #脳情報",
-  "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)と運動野 — 注目すべき3つの示唆（BCI・ニューラルインターフェース）",
-  "paperAuthors": "Elena C Offenberg, Dirk Keller, Mariska J Vansteensel, Zachary V Freudenburg, Nick F Ramsey, Julia Berezutskaya",
+  "paperTitle": "Conserved Kinematic Representations enable Zero-Shot Decoding in Handwriting BCIs",
+  "paperLink": "https://arxiv.org/abs/2605.19048",
+  "figureUrl": "https://arxiv.org/html/2605.19048/2605.19048v1/x1.png",
+  "formatted": "これを読んで、脳に対する見方が変わりました。\n\nこの研究から得られる3つの重要な示唆。\n\nブレイン・コンピュータ・インターフェース(BCI)とニューロプロテーゼの最新成果を整理しました。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × ニューロプロテーゼ × 神経ダイナミクス × 運動野\n\n📊 注目すべきデータ：\n→ Our model achieves 64% hits@3 retrieval on unseen letters, suggesting that neural representations of kinematic strokes are robustly conserved across different character contexts.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nBCI・ニューラルインターフェースの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Conserved Kinematic Representations enable Zero-Shot Decoding in Handwriting BCIs\n🔗 https://arxiv.org/abs/2605.19048\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #NeuralDecoding",
+  "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)とニューロプロテーゼ — 注目すべき3つの示唆（BCI・ニューラルインターフェース）",
+  "paperAuthors": "Srinivas Ravishankar, Virginia de Sa",
   "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
-  "paperId": "2605.19646",
+  "paperId": "2605.19048",
   "paperSource": "arxiv",
   "themeArea": "BCI・ニューラルインターフェース",
   "jpKeywords": [
     "ブレイン・コンピュータ・インターフェース(BCI)",
+    "ニューロプロテーゼ",
+    "神経ダイナミクス",
     "運動野",
     "学習",
-    "皮質脳波(ECoG)",
-    "ECoG(皮質脳波)"
+    "言語処理"
   ],
-  "abstractExcerpt": "Advancements in clinical Brain-Computer Interfaces (BCIs) depend on precise and reliable signal interpretation. However, the high-dimensional and noisy nature of data captured from both implanted and non-implanted BCIs poses significant…",
-  "figureUrls": []
+  "abstractExcerpt": "While intracortical Brain-Computer Interfaces (iBCIs) that decode imagined handwriting have achieved high communication rates for Latin scripts, they rely on observing every character in the alphabet during training. This poses a challenge…",
+  "figureUrls": [
+    "https://arxiv.org/html/2605.19048/2605.19048v1/x1.png",
+    "https://arxiv.org/html/2605.19048/2605.19048v1/Figures/two_stage_pipeline_template_matching.png",
+    "https://arxiv.org/html/2605.19048/2605.19048v1/Figures/kinematics_predictor3.png"
+  ]
 }
