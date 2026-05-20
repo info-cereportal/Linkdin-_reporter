@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T22:06:06.989Z",
+  "generatedAt": "2026-05-20T02:11:54.667Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,11 +63,27 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: 23andMe offers to connect users’ DNA data with medical records",
+          "url": "https://www.statnews.com/2026/05/19/23andme-healthex-to-connect-dna-data-with-health-records/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 01:35:55 +0000",
+          "source": "statnews.com",
+          "summary": "23andMe is partnering with HealthEx to allow users to import their medical records, the company said Tuesday at STAT Breakthrough Summit West.",
+          "authors": "Matthew Herper"
+        },
+        {
+          "title": "Trump’s cuts to foreign aid are undermining the Ebola response, insiders say",
+          "url": "https://www.statnews.com/2026/05/19/us-aid-cuts-hamper-drc-ebola-response/?utm_campaign=rss",
+          "publishedDate": "Tue, 19 May 2026 22:39:31 +0000",
+          "source": "statnews.com",
+          "summary": "President Trump's cuts to foreign aid probably hampered the detection of the Ebola outbreak and the response to it.",
+          "authors": "Daniel Payne"
+        },
+        {
           "title": "How AI helped treat a newborn’s ultra rare disease. ‘It was almost like a light switch.’",
           "url": "https://www.statnews.com/2026/05/19/ai-helped-find-treatment-newborn-ultra-rare-disease/?utm_campaign=rss",
           "publishedDate": "Tue, 19 May 2026 20:52:08 +0000",
           "source": "statnews.com",
-          "summary": "The parents of Jorie Krause told the audience at STAT's Breakthrough Summit West about how AI helped their daughter who was born with a rare disease.",
+          "summary": "The parents of Jorie Kraus told the audience at STAT's Breakthrough Summit West about how AI helped their daughter who was born with a rare disease.",
           "authors": "Casey Ross"
         },
         {
@@ -93,22 +109,6 @@
           "source": "statnews.com",
           "summary": "More than 1 in 8 pregnant women report drinking. Doctors warn fetal alcohol disorders may be more common than many realize, perhaps more common than autism.",
           "authors": "Isabella Cueto"
-        },
-        {
-          "title": "STAT+: Maryland state affordability board places a price cap on Ozempic",
-          "url": "https://www.statnews.com/pharmalot/2026/05/18/maryland-state-affordability-board-places-price-cap-on-ozempic/?utm_campaign=rss",
-          "publishedDate": "Mon, 18 May 2026 22:08:23 +0000",
-          "source": "statnews.com",
-          "summary": "Nine states have been pursuing the idea of prescription drug affordability boards. Maryland's board just set limits on the price of Ozempic.",
-          "authors": "Ed Silverman"
-        },
-        {
-          "title": "STAT+: White House taps Amazon, GoodRx, and Mark Cuban to bolster TrumpRx",
-          "url": "https://www.statnews.com/2026/05/18/trumprx-adds-generic-drugs-amazon-pharmacy-mark-cuban-goodrx/?utm_campaign=rss",
-          "publishedDate": "Mon, 18 May 2026 22:03:22 +0000",
-          "source": "statnews.com",
-          "summary": "Trump's drug discount platform adds 600 generic medications via major online pharmacies.",
-          "authors": "Chelsea Cirruzzo and Daniel Payne"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Trump’s cuts to foreign aid are undermining the Ebola response, insiders say",
+          "url": "https://www.statnews.com/2026/05/19/us-aid-cuts-hamper-drc-ebola-response/?utm_campaign=rss",
+          "publishedDate": "Tue, 19 May 2026 22:39:31 +0000",
+          "source": "statnews.com",
+          "summary": "President Trump's cuts to foreign aid probably hampered the detection of the Ebola outbreak and the response to it.",
+          "authors": "Daniel Payne"
+        },
         {
           "title": "STAT+: This spine surgery usually costs $1,400. Under No Surprises Act arbitration? $34,000",
           "url": "https://www.statnews.com/2026/05/19/no-surprises-act-dispute-resolution-fuels-extraordinary-payouts/?utm_campaign=rss",
@@ -155,14 +163,6 @@
           "publishedDate": "Tue, 19 May 2026 09:05:57 EDT",
           "source": "sciencedaily.com",
           "summary": "People who lost significant weight while taking Ozempic, Wegovy, Mounjaro, or Saxenda had sharply lower risks of major obesity-related health problems, including sleep apnea and kidney disease. Those who gained weight instead faced higher…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists found a smarter Mediterranean diet that slashes diabetes risk by 31%",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260519003103.htm",
-          "publishedDate": "Tue, 19 May 2026 03:02:22 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A large European study revealed that a lower-calorie Mediterranean diet paired with exercise and coaching dramatically reduced the risk of type 2 diabetes. Participants who made these lifestyle changes were 31% less likely to develop the…",
           "authors": ""
         }
       ]

@@ -1,5 +1,36 @@
 [
   {
+    "generatedAt": "2026-05-20T02:11:54.035Z",
+    "date": "2026-05-20",
+    "topic": "表現学習と神経デコーディング",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity",
+    "paperLink": "https://arxiv.org/abs/2603.03190",
+    "figureUrl": "https://arxiv.org/html/2603.03190/2603.03190v3/figures/concept.png",
+    "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n表現学習と神経デコーディングの最新成果を整理しました。\n\n🔬 表現学習 × 神経デコーディング × 神経エンコーディング × 学習\n\n📊 注目すべきデータ：\n→ Models pretrained to predict either representation outperform non-pretrained baselines, and combining them yields complementary gains that exceed strong seed ensembles formed by...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity\n🔗 https://arxiv.org/abs/2603.03190\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #脳情報",
+    "summaryJP": "表現学習と神経デコーディング — 注目すべき3つの示唆（神経デコーディング）",
+    "paperAuthors": "Shogo Noguchi, Taketo Akama, Tai Nakamura, Shun Minamikawa, Natalia Polouliakh",
+    "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
+    "paperId": "2603.03190",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "表現学習",
+      "神経デコーディング",
+      "神経エンコーディング",
+      "学習",
+      "ECoG(皮質脳波)",
+      "EEG"
+    ],
+    "abstractExcerpt": "During music listening, cortical activity encodes both acoustic and expectation-related information. Prior work has shown that ANN representations resemble cortical representations and can serve as supervisory signals for EEG recognition.…",
+    "figureUrls": [
+      "https://arxiv.org/html/2603.03190/2603.03190v3/figures/concept.png",
+      "https://arxiv.org/html/2603.03190/2603.03190v3/x1.png",
+      "https://arxiv.org/html/2603.03190/2603.03190v3/x2.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-19T22:06:06.328Z",
     "date": "2026-05-19",
     "topic": "言語処理と情動",
@@ -1268,33 +1299,6 @@
       "https://arxiv.org/html/2605.08495/2605.08495v1/x1.png",
       "https://arxiv.org/html/2605.08495/2605.08495v1/x2.png",
       "https://arxiv.org/html/2605.08495/2605.08495v1/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-12T22:02:56.690Z",
-    "date": "2026-05-12",
-    "topic": "シナプス可塑性と睡眠",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "The Homological Brain: Parity Principle and Amortized Inference",
-    "paperLink": "https://arxiv.org/abs/2512.10976",
-    "figureUrl": "https://arxiv.org/html/2512.10976/2512.10976v2/exp1_result.png",
-    "formatted": "シナプス可塑性と睡眠に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 シナプス可塑性 × 睡眠\n\n> Biological intelligence emerges from substrates that are slow, noisy, and energetically constrained, yet it performs rapid and coherent inference in open-ended environments. Classical computational theories, built around vector-space transformations and instantaneous error...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\n神経デコーディングの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 The Homological Brain: Parity Principle and Amortized Inference\n🔗 https://arxiv.org/abs/2512.10976\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #BrainComputerInterface",
-    "summaryJP": "シナプス可塑性と睡眠 — 通説を揺さぶる新たな知見（神経デコーディング）",
-    "paperAuthors": "Xin Li",
-    "publishedDate": "Tue, 12 May 2026 00:00:00 -0400",
-    "paperId": "2512.10976",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "シナプス可塑性",
-      "睡眠"
-    ],
-    "abstractExcerpt": "Biological intelligence emerges from substrates that are slow, noisy, and energetically constrained, yet it performs rapid and coherent inference in open-ended environments. Classical computational theories, built around vector-space…",
-    "figureUrls": [
-      "https://arxiv.org/html/2512.10976/2512.10976v2/exp1_result.png",
-      "https://arxiv.org/html/2512.10976/2512.10976v2/exp2_long_run_7x7.png",
-      "https://arxiv.org/html/2512.10976/2512.10976v2/exp3_savitch_fig2_capacity.png"
     ]
   }
 ]

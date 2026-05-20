@@ -1,28 +1,31 @@
 {
-  "generatedAt": "2026-05-19T22:06:06.328Z",
-  "date": "2026-05-19",
-  "topic": "言語処理と情動",
-  "templateName": "data-driven",
+  "generatedAt": "2026-05-20T02:11:54.035Z",
+  "date": "2026-05-20",
+  "topic": "表現学習と神経デコーディング",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "EmoMind: Decoding Affective Captions from Human Brain fMRI",
-  "paperLink": "https://arxiv.org/abs/2605.16739",
-  "figureUrl": "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure1_pipeline.png",
-  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、言語処理と情動の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 fMRI × 言語処理 × 情動\n\n📊 注目すべきデータ：\n→ Across two independent emotion fMRI datasets, EmoMind significantly outperforms label-prompted GPT-4 on all three axes, with the largest gains on metrics that require...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 EmoMind: Decoding Affective Captions from Human Brain fMRI\n🔗 https://arxiv.org/abs/2605.16739\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #DeepLearning",
-  "summaryJP": "言語処理と情動 — 数値で示された新事実（神経デコーディング）",
-  "paperAuthors": "Bilal A. Mohammed, Lin Gu, Ruogo Fang",
+  "paperTitle": "Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity",
+  "paperLink": "https://arxiv.org/abs/2603.03190",
+  "figureUrl": "https://arxiv.org/html/2603.03190/2603.03190v3/figures/concept.png",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n表現学習と神経デコーディングの最新成果を整理しました。\n\n🔬 表現学習 × 神経デコーディング × 神経エンコーディング × 学習\n\n📊 注目すべきデータ：\n→ Models pretrained to predict either representation outperform non-pretrained baselines, and combining them yields complementary gains that exceed strong seed ensembles formed by...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity\n🔗 https://arxiv.org/abs/2603.03190\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #脳情報",
+  "summaryJP": "表現学習と神経デコーディング — 注目すべき3つの示唆（神経デコーディング）",
+  "paperAuthors": "Shogo Noguchi, Taketo Akama, Tai Nakamura, Shun Minamikawa, Natalia Polouliakh",
   "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
-  "paperId": "2605.16739",
+  "paperId": "2603.03190",
   "paperSource": "arxiv",
   "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "fMRI",
-    "言語処理",
-    "情動"
+    "表現学習",
+    "神経デコーディング",
+    "神経エンコーディング",
+    "学習",
+    "ECoG(皮質脳波)",
+    "EEG"
   ],
-  "abstractExcerpt": "Decoding visual experience from brain activity has advanced substantially, but cur- rent brain-to-text systems largely recover semantic content while discarding affect. Additionally, language models can generate emotional text when…",
+  "abstractExcerpt": "During music listening, cortical activity encodes both acoustic and expectation-related information. Prior work has shown that ANN representations resemble cortical representations and can serve as supervisory signals for EEG recognition.…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure1_pipeline.png",
-    "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure2_architecture.png",
-    "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure4_qualitative.png"
+    "https://arxiv.org/html/2603.03190/2603.03190v3/figures/concept.png",
+    "https://arxiv.org/html/2603.03190/2603.03190v3/x1.png",
+    "https://arxiv.org/html/2603.03190/2603.03190v3/x2.png"
   ]
 }
