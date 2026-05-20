@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T17:50:00.947Z",
+  "generatedAt": "2026-05-20T20:01:13.926Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Pioneering trial for treating genetic disease before birth nears reality",
+          "url": "https://www.statnews.com/2026/05/20/tippi-mackenzie-in-utero-gene-therapy-nears-first-fda-trial/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 18:48:30 +0000",
+          "source": "statnews.com",
+          "summary": "A UCSF team has submitted an application to the FDA seeking approval for a small trial of in utero gene therapy for a rare lysosomal storage disorder.",
+          "authors": "Megan Molteni"
+        },
+        {
+          "title": "Surgeon general’s office issues warning on screen time for children",
+          "url": "https://www.statnews.com/2026/05/20/surgeon-general-public-health-warning-screen-time-children/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 18:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A public health advisory calls on parents, schools, and government to limit children's use of screens, saying some patterns of use “can pose real harm to children.”",
+          "authors": "Chelsea Cirruzzo and Daniel Payne"
+        },
+        {
+          "title": "STAT+: Scientists track cellular disruptions that lead to type 1 diabetes",
+          "url": "https://www.statnews.com/2026/05/20/type-1-diabetes-early-molecular-clues-science-translational-medicine/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 18:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "Growing evidence suggests it takes a sustained viral infection in the right genetic environment to lead to type 1 diabetes.",
+          "authors": "Elizabeth Cooney"
+        },
+        {
           "title": "STAT+: Kennedy fires two leaders on preventive services task force",
           "url": "https://www.statnews.com/2026/05/20/kennedy-fires-vice-chairs-us-preventive-services-task-force/?utm_campaign=rss",
           "publishedDate": "Wed, 20 May 2026 16:44:42 +0000",
@@ -85,30 +109,6 @@
           "source": "statnews.com",
           "summary": "USAID cuts have painful outcomes for the Ebola outbreak, states sue over a new professional ed loan rule, and other health news",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "After a critique from Rubio, WHO defends work on Ebola response",
-          "url": "https://www.statnews.com/2026/05/20/who-ebola-response-outbreak-investigation-drc-marco-rubio/?utm_campaign=rss",
-          "publishedDate": "Wed, 20 May 2026 11:24:32 +0000",
-          "source": "statnews.com",
-          "summary": "The WHO defended its Ebola response, noting it's national authorities who detect outbreaks. Marco Rubio had said the WHO was \"a little late.\"",
-          "authors": "Andrew Joseph"
-        },
-        {
-          "title": "STAT+: Senate Democrats propose adding long-term care benefit to Medicare",
-          "url": "https://www.statnews.com/2026/05/20/medicare-long-term-care-coverage-new-proposal-senate-democrats/?utm_campaign=rss",
-          "publishedDate": "Wed, 20 May 2026 08:45:00 +0000",
-          "source": "statnews.com",
-          "summary": "It's part of Democrats' strategy to focus on health care affordability and access in drawing contrasts with Republicans ahead of the midterms.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "STAT+: 23andMe offers to connect users’ DNA data with medical records",
-          "url": "https://www.statnews.com/2026/05/19/23andme-healthex-to-connect-dna-data-with-health-records/?utm_campaign=rss",
-          "publishedDate": "Wed, 20 May 2026 01:35:55 +0000",
-          "source": "statnews.com",
-          "summary": "23andMe is partnering with HealthEx to allow users to import their medical records, the company said Tuesday at STAT Breakthrough Summit West.",
-          "authors": "Matthew Herper"
         }
       ]
     },
@@ -117,6 +117,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Congressional Democrats try to force a vote to end Medicare AI prior authorization pilot",
+          "url": "https://www.statnews.com/2026/05/20/democrats-force-vote-to-end-medicare-ai-prior-authorization-pilot/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 19:28:21 +0000",
+          "source": "statnews.com",
+          "summary": "Congressional Democrats are mounting a fresh effort to end a Medicare experiment to use AI to approve or deny care.",
+          "authors": "Brittany Trang"
+        },
+        {
+          "title": "Surgeon general’s office issues warning on screen time for children",
+          "url": "https://www.statnews.com/2026/05/20/surgeon-general-public-health-warning-screen-time-children/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 18:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A public health advisory calls on parents, schools, and government to limit children's use of screens, saying some patterns of use “can pose real harm to children.”",
+          "authors": "Chelsea Cirruzzo and Daniel Payne"
+        },
+        {
+          "title": "STAT+: Florida hospitals win $8 billion in extra Medicaid funds",
+          "url": "https://www.statnews.com/2026/05/20/florida-hospitals-get-8-billion-extra-medicaid-funds-before-trump-limits/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 18:03:37 +0000",
+          "source": "statnews.com",
+          "summary": "Stricter limits on extra Medicaid funds are coming, stemming from President Trump's tax cut bill.",
+          "authors": "Bob Herman"
+        },
         {
           "title": "STAT+: Biotech execs, academic expert lament impact of FDA turnover on rare disease drug development",
           "url": "https://www.statnews.com/2026/05/20/rare-disease-biotech-ceos-discuss-fda-uncertainty-stat-summit/?utm_campaign=rss",
@@ -140,30 +164,6 @@
           "source": "statnews.com",
           "summary": "Stephanie Haridopolos, a family medicine physician and senior HHS adviser, will take on the surgeon general's duties on an interim basis.",
           "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Scientists discover why Alzheimer’s risk hits women so much harder",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260519224312.htm",
-          "publishedDate": "Wed, 20 May 2026 09:04:32 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Women may be especially sensitive to the effects of common dementia risk factors, according to a new UC San Diego study of over 17,000 adults. Researchers say tailoring prevention strategies specifically for women could be key to reducing…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
-          "publishedDate": "Wed, 20 May 2026 08:54:32 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists use light to create tiny molecules that could transform medicine",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260519224332.htm",
-          "publishedDate": "Wed, 20 May 2026 06:00:45 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers have developed a light-driven method for creating tiny, high-energy “housane” molecules that are valuable for drug development and materials science. These compact ring-shaped structures are difficult to produce because of the…",
-          "authors": ""
         }
       ]
     },
