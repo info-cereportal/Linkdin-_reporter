@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T14:34:36.361Z",
+  "generatedAt": "2026-05-20T17:50:00.947Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Kennedy fires two leaders on preventive services task force",
+          "url": "https://www.statnews.com/2026/05/20/kennedy-fires-vice-chairs-us-preventive-services-task-force/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 16:44:42 +0000",
+          "source": "statnews.com",
+          "summary": "Kennedy will have broad latitude to remake the panel, which advises the government on types of preventive care that should be covered by health insurance.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "STAT+: Kennedy names interim surgeon general amid vacancies atop health department",
+          "url": "https://www.statnews.com/2026/05/20/kennedy-names-stephanie-haridopolos-interim-surgeon-general/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 14:44:26 +0000",
+          "source": "statnews.com",
+          "summary": "Stephanie Haridopolos, a family medicine physician and senior HHS adviser, will take on the surgeon general's duties on an interim basis.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
           "title": "There&#8217;s a leadership vacuum at NIH, too",
           "url": "https://www.statnews.com/2026/05/20/health-news-leadership-vacuum-at-nih-and-broader-hhs/?utm_campaign=rss",
           "publishedDate": "Wed, 20 May 2026 11:54:38 +0000",
@@ -93,22 +109,6 @@
           "source": "statnews.com",
           "summary": "23andMe is partnering with HealthEx to allow users to import their medical records, the company said Tuesday at STAT Breakthrough Summit West.",
           "authors": "Matthew Herper"
-        },
-        {
-          "title": "Trump’s cuts to foreign aid are undermining the Ebola response, insiders say",
-          "url": "https://www.statnews.com/2026/05/19/us-aid-cuts-hamper-drc-ebola-response/?utm_campaign=rss",
-          "publishedDate": "Tue, 19 May 2026 22:39:31 +0000",
-          "source": "statnews.com",
-          "summary": "President Trump's cuts to foreign aid probably hampered the detection of the Ebola outbreak and the response to it.",
-          "authors": "Daniel Payne"
-        },
-        {
-          "title": "How AI helped treat a newborn’s ultra rare disease. ‘It was almost like a light switch.’",
-          "url": "https://www.statnews.com/2026/05/19/ai-helped-find-treatment-newborn-ultra-rare-disease/?utm_campaign=rss",
-          "publishedDate": "Tue, 19 May 2026 20:52:08 +0000",
-          "source": "statnews.com",
-          "summary": "The parents of Jorie Kraus told the audience at STAT's Breakthrough Summit West about how AI helped their daughter who was born with a rare disease.",
-          "authors": "Casey Ross"
         }
       ]
     },
@@ -117,6 +117,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Biotech execs, academic expert lament impact of FDA turnover on rare disease drug development",
+          "url": "https://www.statnews.com/2026/05/20/rare-disease-biotech-ceos-discuss-fda-uncertainty-stat-summit/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 17:00:07 +0000",
+          "source": "statnews.com",
+          "summary": "How the ouster of key officials at the FDA has created anxiety and uncertainty for the developers of rare disease drugs.",
+          "authors": "Lizzy Lawrence"
+        },
+        {
+          "title": "STAT+: Kennedy fires two leaders on preventive services task force",
+          "url": "https://www.statnews.com/2026/05/20/kennedy-fires-vice-chairs-us-preventive-services-task-force/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 16:44:42 +0000",
+          "source": "statnews.com",
+          "summary": "Kennedy will have broad latitude to remake the panel, which advises the government on types of preventive care that should be covered by health insurance.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "STAT+: Kennedy names interim surgeon general amid vacancies atop health department",
+          "url": "https://www.statnews.com/2026/05/20/kennedy-names-stephanie-haridopolos-interim-surgeon-general/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 14:44:26 +0000",
+          "source": "statnews.com",
+          "summary": "Stephanie Haridopolos, a family medicine physician and senior HHS adviser, will take on the surgeon general's duties on an interim basis.",
+          "authors": "Chelsea Cirruzzo"
+        },
         {
           "title": "Scientists discover why Alzheimer’s risk hits women so much harder",
           "url": "https://www.sciencedaily.com/releases/2026/05/260519224312.htm",
@@ -139,30 +163,6 @@
           "publishedDate": "Wed, 20 May 2026 06:00:45 EDT",
           "source": "sciencedaily.com",
           "summary": "Researchers have developed a light-driven method for creating tiny, high-energy “housane” molecules that are valuable for drug development and materials science. These compact ring-shaped structures are difficult to produce because of the…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Senate Democrats propose adding long-term care benefit to Medicare",
-          "url": "https://www.statnews.com/2026/05/20/medicare-long-term-care-coverage-new-proposal-senate-democrats/?utm_campaign=rss",
-          "publishedDate": "Wed, 20 May 2026 08:45:00 +0000",
-          "source": "statnews.com",
-          "summary": "It's part of Democrats' strategy to focus on health care affordability and access in drawing contrasts with Republicans ahead of the midterms.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "STAT+: NIH behind in filling top roles, with 15 of 27 institutes led by acting directors",
-          "url": "https://www.statnews.com/2026/05/20/nih-leadership-questions-15-of-27-institutes-acting-directors/?utm_campaign=rss",
-          "publishedDate": "Wed, 20 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "An NIH leadership vacuum has persisted for months, with 15 of the 27 institutes being led by acting directors.",
-          "authors": "Anil Oza"
-        },
-        {
-          "title": "Scientists discover strange link between vitamin D and pain",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260519224308.htm",
-          "publishedDate": "Tue, 19 May 2026 23:30:39 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Low vitamin D levels could be quietly making breast cancer surgery recovery far more painful. In a new study, patients deficient in vitamin D were three times more likely to experience moderate to severe pain after mastectomy surgery and…",
           "authors": ""
         }
       ]
