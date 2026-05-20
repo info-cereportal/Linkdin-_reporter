@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T06:39:32.315Z",
+  "generatedAt": "2026-05-20T11:42:47.185Z",
   "date": "2026-05-20",
   "topic": "シナプス可塑性と学習",
   "templateName": "three-insights",
@@ -7,7 +7,7 @@
   "paperTitle": "Reshaping Neural Representation via Associative, Presynaptic Short-Term Plasticity",
   "paperLink": "https://arxiv.org/abs/2601.10397",
   "figureUrl": "https://arxiv.org/html/2601.10397/2601.10397v3/x1.png",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\nシナプス可塑性と学習の最新成果を整理しました。\n\n🔬 シナプス可塑性 × 学習\n\n> Short-term synaptic plasticity (STP) is often regarded as a presynaptic filter of spikes, independent of postsynaptic activity. Recent experiments, however, indicate an associative STP that depends on pre- and postsynaptic coactivation.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Reshaping Neural Representation via Associative, Presynaptic Short-Term Plasticity\n🔗 https://arxiv.org/abs/2601.10397\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #脳情報",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\nこの研究から得られる3つの重要な示唆。\n\nシナプス可塑性と学習の最新成果を整理しました。\n\n🔬 シナプス可塑性 × 学習\n\n> Short-term synaptic plasticity (STP) is often regarded as a presynaptic filter of spikes, independent of postsynaptic activity. Recent experiments, however, indicate an associative STP that depends on pre- and postsynaptic coactivation.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Reshaping Neural Representation via Associative, Presynaptic Short-Term Plasticity\n🔗 https://arxiv.org/abs/2601.10397\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #BrainComputerInterface",
   "summaryJP": "シナプス可塑性と学習 — 注目すべき3つの示唆（神経デコーディング）",
   "paperAuthors": "Genki Shimizu, Taro Toyoizumi",
   "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",

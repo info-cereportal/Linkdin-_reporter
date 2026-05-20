@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T06:39:32.472Z",
+  "generatedAt": "2026-05-20T11:42:47.386Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "After Rubio&#8217;s critique, WHO defends work on Ebola response",
+          "url": "https://www.statnews.com/2026/05/20/who-ebola-response-outbreak-investigation-drc-marco-rubio/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 11:24:32 +0000",
+          "source": "statnews.com",
+          "summary": "The WHO defended its Ebola response, noting it's national authorities who detect outbreaks. Marco Rubio had said the WHO was 'a little late'",
+          "authors": "Andrew Joseph"
+        },
+        {
+          "title": "STAT+: Senate Democrats propose adding long-term care benefit to Medicare",
+          "url": "https://www.statnews.com/2026/05/20/medicare-long-term-care-coverage-new-proposal-senate-democrats/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 08:45:00 +0000",
+          "source": "statnews.com",
+          "summary": "It's part of Democrats' strategy to focus on health care affordability and access in drawing contrasts with Republicans ahead of the midterms.",
+          "authors": "John Wilkerson"
+        },
+        {
           "title": "STAT+: 23andMe offers to connect users’ DNA data with medical records",
           "url": "https://www.statnews.com/2026/05/19/23andme-healthex-to-connect-dna-data-with-health-records/?utm_campaign=rss",
           "publishedDate": "Wed, 20 May 2026 01:35:55 +0000",
@@ -93,22 +109,6 @@
           "source": "statnews.com",
           "summary": "A deal with Mark Cuban, Amazon Pharmacy, and GoodRx is boosting TrumpRx's offerings.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "The latest on Ebola: A travel ban and an old vaccine",
-          "url": "https://www.statnews.com/2026/05/19/health-news-ebola-travel-ban-and-old-vaccine/?utm_campaign=rss",
-          "publishedDate": "Tue, 19 May 2026 11:39:48 +0000",
-          "source": "statnews.com",
-          "summary": "Affordable Care Act changes, drinking while pregnant, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: 1 in 8 women drink during pregnancy. Experts dread the consequences",
-          "url": "https://www.statnews.com/2026/05/19/drinking-while-pregnant-fetal-alcohol-exposure-explored-part-5-deadliest-drug-series/?utm_campaign=rss",
-          "publishedDate": "Tue, 19 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "More than 1 in 8 pregnant women report drinking. Doctors warn fetal alcohol disorders may be more common than many realize, perhaps more common than autism.",
-          "authors": "Isabella Cueto"
         }
       ]
     },
@@ -117,6 +117,38 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Senate Democrats propose adding long-term care benefit to Medicare",
+          "url": "https://www.statnews.com/2026/05/20/medicare-long-term-care-coverage-new-proposal-senate-democrats/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 08:45:00 +0000",
+          "source": "statnews.com",
+          "summary": "It's part of Democrats' strategy to focus on health care affordability and access in drawing contrasts with Republicans ahead of the midterms.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "NIH behind in filling top roles, with 15 of 27 institutes led by acting directors",
+          "url": "https://www.statnews.com/2026/05/20/nih-leadership-questions-15-of-27-institutes-acting-directors/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "An NIH leadership vacuum has persisted for months, with 15 of the 27 institutes being led by acting directors.",
+          "authors": "Anil Oza"
+        },
+        {
+          "title": "Scientists discover strange link between vitamin D and pain",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260519224308.htm",
+          "publishedDate": "Tue, 19 May 2026 23:30:39 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Low vitamin D levels could be quietly making breast cancer surgery recovery far more painful. In a new study, patients deficient in vitamin D were three times more likely to experience moderate to severe pain after mastectomy surgery and…",
+          "authors": ""
+        },
+        {
+          "title": "Breakthrough drug reverses aging in skin and dramatically speeds healing",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260519003215.htm",
+          "publishedDate": "Tue, 19 May 2026 21:13:26 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have discovered that a topical anti-aging drug called ABT-263 can dramatically improve wound healing in older skin. The treatment works by removing damaged “senescent” cells that accumulate with age and slow the body’s repair…",
+          "authors": ""
+        },
         {
           "title": "Trump’s cuts to foreign aid are undermining the Ebola response, insiders say",
           "url": "https://www.statnews.com/2026/05/19/us-aid-cuts-hamper-drc-ebola-response/?utm_campaign=rss",
@@ -132,38 +164,6 @@
           "source": "statnews.com",
           "summary": "A new analysis shows how some clinicians are cashing in on a new process designed to protect patients from surprise bills.",
           "authors": "Tara Bannow"
-        },
-        {
-          "title": "STAT+: At a time of tumult at FDA, a former commissioner is hopeful it’s on a better path",
-          "url": "https://www.statnews.com/2026/05/19/fda-can-thrive-despite-talent-loss-says-david-kessler-former-commissioner/?utm_campaign=rss",
-          "publishedDate": "Tue, 19 May 2026 17:08:02 +0000",
-          "source": "statnews.com",
-          "summary": "With the FDA facing upheaval and personnel exits, former commissioner David Kessler sees an opportunity whereby the agency can make a turn for the better.",
-          "authors": "Anil Oza"
-        },
-        {
-          "title": "STAT+: TrumpRx adds generic drugs",
-          "url": "https://www.statnews.com/2026/05/19/trumprx-generic-drugs-cassidy-loses-fda-turmoil-dc-diagnosis/?utm_campaign=rss",
-          "publishedDate": "Tue, 19 May 2026 16:24:08 +0000",
-          "source": "statnews.com",
-          "summary": "A deal with Mark Cuban, Amazon Pharmacy, and GoodRx is boosting TrumpRx's offerings.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "Scientists boosted one protein and aging mice became stronger and healthier",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260518041436.htm",
-          "publishedDate": "Tue, 19 May 2026 09:11:02 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have identified a protein that appears to put the brakes on the chronic inflammation linked to aging. Older mice with boosted levels of the protein were stronger, more energetic, and had healthier bones than untreated mice.…",
-          "authors": ""
-        },
-        {
-          "title": "People who lost the most weight on Ozempic saw huge health benefits",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260518041432.htm",
-          "publishedDate": "Tue, 19 May 2026 09:05:57 EDT",
-          "source": "sciencedaily.com",
-          "summary": "People who lost significant weight while taking Ozempic, Wegovy, Mounjaro, or Saxenda had sharply lower risks of major obesity-related health problems, including sleep apnea and kidney disease. Those who gained weight instead faced higher…",
-          "authors": ""
         }
       ]
     },
