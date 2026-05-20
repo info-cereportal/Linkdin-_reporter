@@ -1,27 +1,31 @@
 {
-  "generatedAt": "2026-05-20T11:42:47.185Z",
+  "generatedAt": "2026-05-20T14:34:35.694Z",
   "date": "2026-05-20",
-  "topic": "シナプス可塑性と学習",
+  "topic": "ブレイン・コンピュータ・インターフェース(BCI)とニューロプロテーゼ",
   "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Reshaping Neural Representation via Associative, Presynaptic Short-Term Plasticity",
-  "paperLink": "https://arxiv.org/abs/2601.10397",
-  "figureUrl": "https://arxiv.org/html/2601.10397/2601.10397v3/x1.png",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\nこの研究から得られる3つの重要な示唆。\n\nシナプス可塑性と学習の最新成果を整理しました。\n\n🔬 シナプス可塑性 × 学習\n\n> Short-term synaptic plasticity (STP) is often regarded as a presynaptic filter of spikes, independent of postsynaptic activity. Recent experiments, however, indicate an associative STP that depends on pre- and postsynaptic coactivation.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Reshaping Neural Representation via Associative, Presynaptic Short-Term Plasticity\n🔗 https://arxiv.org/abs/2601.10397\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #BrainComputerInterface",
-  "summaryJP": "シナプス可塑性と学習 — 注目すべき3つの示唆（神経デコーディング）",
-  "paperAuthors": "Genki Shimizu, Taro Toyoizumi",
+  "paperTitle": "Conserved Kinematic Representations enable Zero-Shot Decoding in Handwriting BCIs",
+  "paperLink": "https://arxiv.org/abs/2605.19048",
+  "figureUrl": "https://arxiv.org/html/2605.19048/2605.19048v1/x1.png",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\nブレイン・コンピュータ・インターフェース(BCI)とニューロプロテーゼの最新成果を整理しました。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × ニューロプロテーゼ × 神経ダイナミクス × 運動野\n\n📊 注目すべきデータ：\n→ Our model achieves 64% hits@3 retrieval on unseen letters, suggesting that neural representations of kinematic strokes are robustly conserved across different character contexts.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nBCI・ニューラルインターフェースの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Conserved Kinematic Representations enable Zero-Shot Decoding in Handwriting BCIs\n🔗 https://arxiv.org/abs/2605.19048\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #BrainComputerInterface",
+  "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)とニューロプロテーゼ — 注目すべき3つの示唆（BCI・ニューラルインターフェース）",
+  "paperAuthors": "Srinivas Ravishankar, Virginia de Sa",
   "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
-  "paperId": "2601.10397",
+  "paperId": "2605.19048",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "BCI・ニューラルインターフェース",
   "jpKeywords": [
-    "シナプス可塑性",
-    "学習"
+    "ブレイン・コンピュータ・インターフェース(BCI)",
+    "ニューロプロテーゼ",
+    "神経ダイナミクス",
+    "運動野",
+    "学習",
+    "言語処理"
   ],
-  "abstractExcerpt": "Short-term synaptic plasticity (STP) is often regarded as a presynaptic filter of spikes, independent of postsynaptic activity. Recent experiments, however, indicate an associative STP that depends on pre- and postsynaptic coactivation. We…",
+  "abstractExcerpt": "While intracortical Brain-Computer Interfaces (iBCIs) that decode imagined handwriting have achieved high communication rates for Latin scripts, they rely on observing every character in the alphabet during training. This poses a challenge…",
   "figureUrls": [
-    "https://arxiv.org/html/2601.10397/2601.10397v3/x1.png",
-    "https://arxiv.org/html/2601.10397/2601.10397v3/x2.png",
-    "https://arxiv.org/html/2601.10397/2601.10397v3/x3.png"
+    "https://arxiv.org/html/2605.19048/2605.19048v1/x1.png",
+    "https://arxiv.org/html/2605.19048/2605.19048v1/Figures/two_stage_pipeline_template_matching.png",
+    "https://arxiv.org/html/2605.19048/2605.19048v1/Figures/kinematics_predictor3.png"
   ]
 }

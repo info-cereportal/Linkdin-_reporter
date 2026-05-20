@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T11:42:47.386Z",
+  "generatedAt": "2026-05-20T14:34:36.361Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,11 +63,19 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "After Rubio&#8217;s critique, WHO defends work on Ebola response",
+          "title": "There&#8217;s a leadership vacuum at NIH, too",
+          "url": "https://www.statnews.com/2026/05/20/health-news-leadership-vacuum-at-nih-and-broader-hhs/?utm_campaign=rss",
+          "publishedDate": "Wed, 20 May 2026 11:54:38 +0000",
+          "source": "statnews.com",
+          "summary": "USAID cuts have painful outcomes for the Ebola outbreak, states sue over a new professional ed loan rule, and other health news",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "After a critique from Rubio, WHO defends work on Ebola response",
           "url": "https://www.statnews.com/2026/05/20/who-ebola-response-outbreak-investigation-drc-marco-rubio/?utm_campaign=rss",
           "publishedDate": "Wed, 20 May 2026 11:24:32 +0000",
           "source": "statnews.com",
-          "summary": "The WHO defended its Ebola response, noting it's national authorities who detect outbreaks. Marco Rubio had said the WHO was 'a little late'",
+          "summary": "The WHO defended its Ebola response, noting it's national authorities who detect outbreaks. Marco Rubio had said the WHO was \"a little late.\"",
           "authors": "Andrew Joseph"
         },
         {
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "The parents of Jorie Kraus told the audience at STAT's Breakthrough Summit West about how AI helped their daughter who was born with a rare disease.",
           "authors": "Casey Ross"
-        },
-        {
-          "title": "STAT+: TrumpRx adds generic drugs",
-          "url": "https://www.statnews.com/2026/05/19/trumprx-generic-drugs-cassidy-loses-fda-turmoil-dc-diagnosis/?utm_campaign=rss",
-          "publishedDate": "Tue, 19 May 2026 16:24:08 +0000",
-          "source": "statnews.com",
-          "summary": "A deal with Mark Cuban, Amazon Pharmacy, and GoodRx is boosting TrumpRx's offerings.",
-          "authors": "John Wilkerson"
         }
       ]
     },
@@ -118,6 +118,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists discover why Alzheimer’s risk hits women so much harder",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260519224312.htm",
+          "publishedDate": "Wed, 20 May 2026 09:04:32 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Women may be especially sensitive to the effects of common dementia risk factors, according to a new UC San Diego study of over 17,000 adults. Researchers say tailoring prevention strategies specifically for women could be key to reducing…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists found a hidden Alzheimer’s trigger and shut it down",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260519224334.htm",
+          "publishedDate": "Wed, 20 May 2026 08:54:32 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists use light to create tiny molecules that could transform medicine",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260519224332.htm",
+          "publishedDate": "Wed, 20 May 2026 06:00:45 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers have developed a light-driven method for creating tiny, high-energy “housane” molecules that are valuable for drug development and materials science. These compact ring-shaped structures are difficult to produce because of the…",
+          "authors": ""
+        },
+        {
           "title": "STAT+: Senate Democrats propose adding long-term care benefit to Medicare",
           "url": "https://www.statnews.com/2026/05/20/medicare-long-term-care-coverage-new-proposal-senate-democrats/?utm_campaign=rss",
           "publishedDate": "Wed, 20 May 2026 08:45:00 +0000",
@@ -126,7 +150,7 @@
           "authors": "John Wilkerson"
         },
         {
-          "title": "NIH behind in filling top roles, with 15 of 27 institutes led by acting directors",
+          "title": "STAT+: NIH behind in filling top roles, with 15 of 27 institutes led by acting directors",
           "url": "https://www.statnews.com/2026/05/20/nih-leadership-questions-15-of-27-institutes-acting-directors/?utm_campaign=rss",
           "publishedDate": "Wed, 20 May 2026 08:30:00 +0000",
           "source": "statnews.com",
@@ -140,30 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "Low vitamin D levels could be quietly making breast cancer surgery recovery far more painful. In a new study, patients deficient in vitamin D were three times more likely to experience moderate to severe pain after mastectomy surgery and…",
           "authors": ""
-        },
-        {
-          "title": "Breakthrough drug reverses aging in skin and dramatically speeds healing",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260519003215.htm",
-          "publishedDate": "Tue, 19 May 2026 21:13:26 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that a topical anti-aging drug called ABT-263 can dramatically improve wound healing in older skin. The treatment works by removing damaged “senescent” cells that accumulate with age and slow the body’s repair…",
-          "authors": ""
-        },
-        {
-          "title": "Trump’s cuts to foreign aid are undermining the Ebola response, insiders say",
-          "url": "https://www.statnews.com/2026/05/19/us-aid-cuts-hamper-drc-ebola-response/?utm_campaign=rss",
-          "publishedDate": "Tue, 19 May 2026 22:39:31 +0000",
-          "source": "statnews.com",
-          "summary": "President Trump's cuts to foreign aid probably hampered the detection of the Ebola outbreak and the response to it.",
-          "authors": "Daniel Payne"
-        },
-        {
-          "title": "STAT+: This spine surgery usually costs $1,400. Under No Surprises Act arbitration? $34,000",
-          "url": "https://www.statnews.com/2026/05/19/no-surprises-act-dispute-resolution-fuels-extraordinary-payouts/?utm_campaign=rss",
-          "publishedDate": "Tue, 19 May 2026 20:53:35 +0000",
-          "source": "statnews.com",
-          "summary": "A new analysis shows how some clinicians are cashing in on a new process designed to protect patients from surprise bills.",
-          "authors": "Tara Bannow"
         }
       ]
     },
