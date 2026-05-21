@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-05-21T12:00:49.980Z",
+    "date": "2026-05-21",
+    "topic": "畳み込みニューラルネットワーク(CNN)",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Perceptual misalignment of texture representations in convolutional neural networks",
+    "paperLink": "https://arxiv.org/abs/2604.01341",
+    "figureUrl": "https://arxiv.org/html/2604.01341/2604.01341v2/figures/vgg19_layer_layer_1_orig_rsa.png",
+    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n畳み込みニューラルネットワーク(CNN)の最新研究です。\n\n🔬 畳み込みニューラルネットワーク(CNN) × ECoG(皮質脳波)\n\n> Mathematical modeling of visual textures traces back to Julesz's intuition that texture perception in humans is based on local correlations between image features. An influential approach for texture analysis and generation generalizes this notion to linear correlations between...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Perceptual misalignment of texture representations in convolutional neural networks\n🔗 https://arxiv.org/abs/2604.01341\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #NeuroAI",
+    "summaryJP": "畳み込みニューラルネットワーク(CNN) — 次世代へ続く布石（神経デコーディング）",
+    "paperAuthors": "Ludovica de Paolis, Fabio Anselmi, Alessio Ansuini, Eugenio Piasini",
+    "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+    "paperId": "2604.01341",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "畳み込みニューラルネットワーク(CNN)",
+      "ECoG(皮質脳波)"
+    ],
+    "abstractExcerpt": "Mathematical modeling of visual textures traces back to Julesz's intuition that texture perception in humans is based on local correlations between image features. An influential approach for texture analysis and generation generalizes…",
+    "figureUrls": [
+      "https://arxiv.org/html/2604.01341/2604.01341v2/figures/vgg19_layer_layer_1_orig_rsa.png",
+      "https://arxiv.org/html/2604.01341/2604.01341v2/figures/mi_per_model_data_bits_k47.png",
+      "https://arxiv.org/html/2604.01341/2604.01341v2/figures/correlation_mi_all_brainscores_k47.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-21T06:42:01.463Z",
     "date": "2026-05-21",
     "topic": "セロトニンと神経伝達物質",
@@ -1297,37 +1324,6 @@
       "https://arxiv.org/html/2605.12992/2605.12992v1/figures/figure1_hero_v6.png",
       "https://arxiv.org/html/2605.12992/2605.12992v1/figures/figure3_findings.png",
       "https://arxiv.org/html/2605.12992/2605.12992v1/figures/figure_a3_ar_rollout.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-14T06:15:21.528Z",
-    "date": "2026-05-14",
-    "topic": "予測符号化とスパイクタイミング",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Predictive Coding Light+: learning to predict visual sequences with spike timing-dependent plasticity and synaptic delays",
-    "paperLink": "https://arxiv.org/abs/2605.12732",
-    "figureUrl": "https://arxiv.org/html/2605.12732/2605.12732v1/x1.png",
-    "formatted": "脳の秘密が、また一つ解き明かされました。\n\nこの研究から得られる3つの重要な示唆。\n\n予測符号化とスパイクタイミングの最新成果を整理しました。\n\n🔬 予測符号化 × スパイクタイミング × 学習 × スパイキングニューラルネットワーク(SNN)\n\n> The ability to predict the future is of great value for biological and artificial cognitive systems alike. However, successfully predicting the future typically requires maintaining a memory of the recent past.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Predictive Coding Light+: learning to predict visual sequences with spike timing-dependent plasticity and synaptic delays\n🔗 https://arxiv.org/abs/2605.12732\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #DeepLearning",
-    "summaryJP": "予測符号化とスパイクタイミング — 注目すべき3つの示唆（ニューロAI・計算論）",
-    "paperAuthors": "Antony W. N'dri, Thomas Barbier, Céline Teulière, Jochen Triesch",
-    "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
-    "paperId": "2605.12732",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "予測符号化",
-      "スパイクタイミング",
-      "学習",
-      "スパイキングニューラルネットワーク(SNN)",
-      "視覚野",
-      "記憶"
-    ],
-    "abstractExcerpt": "The ability to predict the future is of great value for biological and artificial cognitive systems alike. However, successfully predicting the future typically requires maintaining a memory of the recent past. It is currently unclear how…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.12732/2605.12732v1/x1.png",
-      "https://arxiv.org/html/2605.12732/2605.12732v1/x2.png",
-      "https://arxiv.org/html/2605.12732/2605.12732v1/x3.png"
     ]
   }
 ]

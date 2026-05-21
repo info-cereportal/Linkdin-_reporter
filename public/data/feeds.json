@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T06:42:01.767Z",
+  "generatedAt": "2026-05-21T12:00:50.238Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -118,6 +118,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Opinion: STAT+: Dark times ahead at the FDA",
+          "url": "https://www.statnews.com/2026/05/21/fda-makary-hoeg-szarama-leadership-vacuum/?utm_campaign=rss",
+          "publishedDate": "Thu, 21 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "It almost feels like the Trump administration is intentionally breaking the FDA, writes Lab Dish columnist Paul Knoepfler.",
+          "authors": "Paul Knoepfler"
+        },
+        {
           "title": "Scientists discover the nutrient that can supercharge cellular energy",
           "url": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
           "publishedDate": "Thu, 21 May 2026 01:34:34 EDT",
@@ -156,14 +164,6 @@
           "source": "statnews.com",
           "summary": "Stricter limits on extra Medicaid funds are coming, stemming from President Trump's tax cut bill.",
           "authors": "Bob Herman"
-        },
-        {
-          "title": "STAT+: Biotech execs, academic expert lament impact of FDA turnover on rare disease drug development",
-          "url": "https://www.statnews.com/2026/05/20/rare-disease-biotech-ceos-discuss-fda-uncertainty-stat-summit/?utm_campaign=rss",
-          "publishedDate": "Wed, 20 May 2026 17:00:07 +0000",
-          "source": "statnews.com",
-          "summary": "How the ouster of key officials at the FDA has created anxiety and uncertainty for the developers of rare disease drugs.",
-          "authors": "Lizzy Lawrence"
         }
       ]
     },
