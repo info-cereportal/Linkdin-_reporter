@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-05-21T17:25:59.381Z",
+  "generatedAt": "2026-05-21T19:42:18.436Z",
   "date": "2026-05-21",
-  "topic": "人工ニューラルネットワークと視覚野",
+  "topic": "大規模言語モデル(LLM)と学習",
   "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry",
-  "paperLink": "https://arxiv.org/abs/2605.20496",
-  "figureUrl": "https://arxiv.org/html/2605.20496/2605.20496v1/x1.png",
-  "formatted": "この研究データ、知らないままでいいですか？\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n人工ニューラルネットワークと視覚野の最新研究です。\n\n🔬 人工ニューラルネットワーク × 視覚野 × 潜在空間 × fMRI\n\n> The Strong Platonic Representation Hypothesis suggests that representational convergence in artificial neural networks can be harnessed constructively: embeddings can be translated across models through a universal latent space without paired data. We ask whether an analogous...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry\n🔗 https://arxiv.org/abs/2605.20496\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #BrainComputerInterface",
-  "summaryJP": "人工ニューラルネットワークと視覚野 — 次世代へ続く布石（ニューロAI・計算論）",
-  "paperAuthors": "Pablo Marcos-Manchón, Rishi Jha, Lluís Fuentemilla",
+  "paperTitle": "Task-conditioned probing of instruction-tuned multimodal LLMs: Region-specific brain alignment patterns under naturalistic stimuli",
+  "paperLink": "https://arxiv.org/abs/2506.08277",
+  "figureUrl": "https://arxiv.org/html/2506.08277/2506.08277v3/x1.png",
+  "formatted": "研究者もエンジニアも、この論文は必読です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n大規模言語モデル(LLM)と学習の最新研究です。\n\n🔬 大規模言語モデル(LLM) × 学習 × 言語処理 × fMRI\n\n📊 注目すべきデータ：\n→ Using instruction-specific embeddings from six video and two audio IT-MLLMs, across 13 video task instructions, we find that instruction-tuned video MLLMs show higher brain...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Task-conditioned probing of instruction-tuned multimodal LLMs: Region-specific brain alignment patterns under naturalistic stimuli\n🔗 https://arxiv.org/abs/2506.08277\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #NeuralDecoding",
+  "summaryJP": "大規模言語モデル(LLM)と学習 — 次世代へ続く布石（神経デコーディング）",
+  "paperAuthors": "Subba Reddy Oota, Khushbu Pahwa, Prachi Jindal, Satya Sai Srinath Namburi, Maneesh Singh, Tanmoy Chakraborty, Bapi S. Raju, Manish Gupta",
   "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
-  "paperId": "2605.20496",
+  "paperId": "2506.08277",
   "paperSource": "arxiv",
-  "themeArea": "ニューロAI・計算論",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "人工ニューラルネットワーク",
-    "視覚野",
-    "潜在空間",
+    "大規模言語モデル(LLM)",
+    "学習",
+    "言語処理",
     "fMRI"
   ],
-  "abstractExcerpt": "The Strong Platonic Representation Hypothesis suggests that representational convergence in artificial neural networks can be harnessed constructively: embeddings can be translated across models through a universal latent space without…",
+  "abstractExcerpt": "Recent voxel-wise multimodal brain encoding studies have shown that multimodal large language models (MLLMs) exhibit a higher degree of brain alignment compared to unimodal models. More recently, instruction-tuned multimodal (IT) models…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.20496/2605.20496v1/x1.png",
-    "https://arxiv.org/html/2605.20496/2605.20496v1/x2.png",
-    "https://arxiv.org/html/2605.20496/2605.20496v1/x3.png"
+    "https://arxiv.org/html/2506.08277/2506.08277v3/x1.png",
+    "https://arxiv.org/html/2506.08277/2506.08277v3/x2.png",
+    "https://arxiv.org/html/2506.08277/2506.08277v3/x3.png"
   ]
 }
