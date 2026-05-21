@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T02:11:14.843Z",
+  "generatedAt": "2026-05-21T06:42:01.767Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Features have life history. And we should care",
-          "url": "https://arxiv.org/abs/2605.18789",
-          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+          "title": "Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry",
+          "url": "https://arxiv.org/abs/2605.20496",
+          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Features in language models have life history: they emerge, persist, and die during training, yet the importance of that history remains largely unexplored. We find evidence of a persistent representational backbone, which we identify in…",
-          "authors": "Philipp Stecher, Sandro Radovanović, Vlasta Sikimić, Reinhard Kahle"
+          "summary": "The Strong Platonic Representation Hypothesis suggests that representational convergence in artificial neural networks can be harnessed constructively: embeddings can be translated across models through a universal latent space without…",
+          "authors": "Pablo Marcos-Manchón, Rishi Jha, Lluís Fuentemilla"
         },
         {
-          "title": "Conserved Kinematic Representations enable Zero-Shot Decoding in Handwriting BCIs",
-          "url": "https://arxiv.org/abs/2605.19048",
-          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+          "title": "Stimulus symmetries can confound representational similarity analyses",
+          "url": "https://arxiv.org/abs/2605.21324",
+          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "While intracortical Brain-Computer Interfaces (iBCIs) that decode imagined handwriting have achieved high communication rates for Latin scripts, they rely on observing every character in the alphabet during training. This poses a challenge…",
-          "authors": "Srinivas Ravishankar, Virginia de Sa"
+          "summary": "What can representational similarity matrices (RSMs) tell us about a neural code? As the popularity of these summary statistics grows, so too does the need for a more complete characterization of their properties. Here, we show that…",
+          "authors": "Farhad Pashakhanloo, Jacob A. Zavatone-Veth"
         },
         {
-          "title": "Computational Auditory Periphery Models: the Return of the Rodent",
-          "url": "https://arxiv.org/abs/2605.19070",
-          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+          "title": "A simple model of co-emergence of grid and place fields",
+          "url": "https://arxiv.org/abs/2605.21356",
+          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Animal experiments have provided many insights on auditory function, notably in cases of sensorineural hearing loss (SNHL). However, it is not always clear how these findings translate to the human auditory system in clinically relevant…",
-          "authors": "Morgan Thienpont, F. Deloche, S. Keshishzadeh, D. Kiselev, J. Bourien, J. -L. Puel, B. N. Buran, N. Bramhall, S. Verhulst"
+          "summary": "Grid cells in the medial entorhinal cortex and place cells in the hippocampus together support spatial navigation. The two regions are reciprocally connected, and there is a chicken-and-egg problem for how both arise and reinforce each…",
+          "authors": "Zhaoze Wang, Genela Morris, Dori Derdikman, Pratik Chaudhari, Vijay Balasubramanian"
         },
         {
-          "title": "Brain alignment of reasoning and action representations from vision-language and action models during naturalistic gameplay",
-          "url": "https://arxiv.org/abs/2605.19352",
-          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+          "title": "Perceptual misalignment of texture representations in convolutional neural networks",
+          "url": "https://arxiv.org/abs/2604.01341",
+          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Understanding how humans and artificial intelligence systems predict and plan by interacting with their environment is a fundamental challenge at the intersection of neuroscience and machine learning. Most brain-encoding studies focus on…",
-          "authors": "Subba Reddy Oota, Anant Khandelwal, Khushbu Pahwa, Satya Sai Srinath Namburi, Tanmoy Chakraborty, Bapi S. Raju, Manish Gupta"
+          "summary": "Mathematical modeling of visual textures traces back to Julesz's intuition that texture perception in humans is based on local correlations between image features. An influential approach for texture analysis and generation generalizes…",
+          "authors": "Ludovica de Paolis, Fabio Anselmi, Alessio Ansuini, Eugenio Piasini"
         },
         {
-          "title": "BCI-sift: An automated feature selection toolbox for Brain Computer Interface applications",
-          "url": "https://arxiv.org/abs/2605.19646",
-          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+          "title": "Task-conditioned probing of instruction-tuned multimodal LLMs: Region-specific brain alignment patterns under naturalistic stimuli",
+          "url": "https://arxiv.org/abs/2506.08277",
+          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Advancements in clinical Brain-Computer Interfaces (BCIs) depend on precise and reliable signal interpretation. However, the high-dimensional and noisy nature of data captured from both implanted and non-implanted BCIs poses significant…",
-          "authors": "Elena C Offenberg, Dirk Keller, Mariska J Vansteensel, Zachary V Freudenburg, Nick F Ramsey, Julia Berezutskaya"
+          "summary": "Recent voxel-wise multimodal brain encoding studies have shown that multimodal large language models (MLLMs) exhibit a higher degree of brain alignment compared to unimodal models. More recently, instruction-tuned multimodal (IT) models…",
+          "authors": "Subba Reddy Oota, Khushbu Pahwa, Prachi Jindal, Satya Sai Srinath Namburi, Maneesh Singh, Tanmoy Chakraborty, Bapi S. Raju, Manish Gupta"
         },
         {
-          "title": "Performance of low vision individuals when selecting a target with head-pointing in virtual reality",
-          "url": "https://arxiv.org/abs/2605.19816",
-          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+          "title": "Parallelized Hierarchical Connectome: A Spatiotemporal Recurrent Framework for Spiking State-Space Models",
+          "url": "https://arxiv.org/abs/2604.01295",
+          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Purpose: To investigate psychophysically the ability of low vision individuals with central visual field loss (CFL) to perform a visually-guided pointing task in a virtual reality environment. Methods: Patients with CFL (n=25, ages = 67-90…",
-          "authors": "Camille Bordeau (CRPN), Célia Passerel (CRPN), Ambre Denis-Noël (LPL), Jean-Baptiste Melmi (CRPN), Marianne Vaugoyeau (LNC, CRPN), Carlos Aguilar (UniCA, BIOVISION), Iliana Huyet (UniCA, BIOVISION), Caroline Topart (UniCA, BIOVISION), François Devin (UniCA, BIOVISION), Frédéric Matonti (UniCA, BIOVISION), Pierre Kornprobst (UniCA, BIOVISION), Eric Castet (CRPN)"
+          "summary": "This work presents the Parallelized Hierarchical Connectome (PHC), a general architectural framework that upgrades temporal-only State-Space Models (SSMs) into spatiotemporal recurrent networks. Conventional SSMs achieve parallel-scan…",
+          "authors": "Po-Han Chiang"
         }
       ]
     },
@@ -118,6 +118,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists discover the nutrient that can supercharge cellular energy",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260520233221.htm",
+          "publishedDate": "Thu, 21 May 2026 01:34:34 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular…",
+          "authors": ""
+        },
+        {
+          "title": "MIT scientists discover amino acid that helps the gut heal itself",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
+          "publishedDate": "Thu, 21 May 2026 00:40:33 EDT",
+          "source": "sciencedaily.com",
+          "summary": "MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals,…",
+          "authors": ""
+        },
+        {
           "title": "Congressional Democrats try to force a vote to end Medicare AI prior authorization pilot",
           "url": "https://www.statnews.com/2026/05/20/democrats-force-vote-to-end-medicare-ai-prior-authorization-pilot/?utm_campaign=rss",
           "publishedDate": "Wed, 20 May 2026 19:28:21 +0000",
@@ -148,22 +164,6 @@
           "source": "statnews.com",
           "summary": "How the ouster of key officials at the FDA has created anxiety and uncertainty for the developers of rare disease drugs.",
           "authors": "Lizzy Lawrence"
-        },
-        {
-          "title": "STAT+: Kennedy fires two leaders on preventive services task force",
-          "url": "https://www.statnews.com/2026/05/20/kennedy-fires-vice-chairs-us-preventive-services-task-force/?utm_campaign=rss",
-          "publishedDate": "Wed, 20 May 2026 16:44:42 +0000",
-          "source": "statnews.com",
-          "summary": "Kennedy will have broad latitude to remake the panel, which advises the government on types of preventive care that should be covered by health insurance.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: Kennedy names interim surgeon general amid vacancies atop health department",
-          "url": "https://www.statnews.com/2026/05/20/kennedy-names-stephanie-haridopolos-interim-surgeon-general/?utm_campaign=rss",
-          "publishedDate": "Wed, 20 May 2026 14:44:26 +0000",
-          "source": "statnews.com",
-          "summary": "Stephanie Haridopolos, a family medicine physician and senior HHS adviser, will take on the surgeon general's duties on an interim basis.",
-          "authors": "Chelsea Cirruzzo"
         }
       ]
     },
@@ -173,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "GOAL: Graph-based Objective-Aligned Diffusion Solvers for Dynamic Multi-Objective Optimization",
-          "url": "https://arxiv.org/abs/2605.19119",
-          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+          "title": "E-ReCON: An Energy- and Resource-Efficient Precision-Configurable Sparse nvCIM Macro for Conventional and Spiking Neural Edge Inference",
+          "url": "https://arxiv.org/abs/2605.20717",
+          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Existing neural combinatorial optimization solvers frame solution search as imitation of optimal decisions, inherently limiting their utility to single-objective minimization and static constraints. We propose GOAL, a conditioned diffusion…",
-          "authors": "Xingyu Li"
+          "summary": "This work presents E-ReCON, a 16 Kb energy and resource-efficient digital compute-in-memory (DCIM) macro based on a compact 3T1R ReRAM bitcell for edge-AI inference. The proposed bitcell occupies only 0.85 um^2 and supports reliable…",
+          "authors": "Ankit Kumar Tenwar, Mukul Lokhande, Santosh Kumar Vishvakarma"
         },
         {
-          "title": "Multi-population Diversity-guided Genetic Algorithm for Feature Selection in Network Intrusion Detection",
-          "url": "https://arxiv.org/abs/2605.19864",
-          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+          "title": "Privacy-Preserving Distributed Optimization Under Time Constraints Using Secure Multi-Party Computation and Evolutionary Algorithms",
+          "url": "https://arxiv.org/abs/2605.20944",
+          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Network Intrusion Detection System is a critical means of ensuring cybersecurity. However, existing Genetic Algorithm-based feature selection methods face several limitations when dealing with high-dimensional redundant traffic features.…",
-          "authors": "Chunzhen Li"
+          "summary": "In distributed optimization, multiple parties collaborate to find an optimal solution to a problem. Privacy-preserving distributed optimization uses techniques, such as secure multi-party computation (MPC), to protect the private inputs of…",
+          "authors": "Sebastian Gruber, Tobias Harzfeld, Christoph G. Schuetz, Florian Wohner, Thomas Lorünser"
         },
         {
-          "title": "What Do Evolutionary Coding Agents Evolve?",
-          "url": "https://arxiv.org/abs/2605.20086",
-          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+          "title": "Convergence Analysis of Evolution Strategies for Mixed-Integer Optimization",
+          "url": "https://arxiv.org/abs/2605.21000",
+          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent work pairs LLMs with evolutionary search to iteratively generate, modify, and select code using task-specific feedback. These systems have produced strong results in mathematical discovery and algorithm design, yet a fundamental…",
-          "authors": "Nico Pelleriti, Sree Harsha Nelaturu, Zhanke Zhou, Zongze Li, Max Zimmer, Bo Han, Sebastian Pokutta"
+          "summary": "Mixed-integer extensions of evolution strategies (ES) that discretize selected coordinates of sampled continuous vectors often impose a lower bound on the standard deviation of integer variables to prevent premature convergence. While…",
+          "authors": "Ryoki Hamano, Kento Uchida, Shinichi Shirakawa"
         },
         {
-          "title": "MO-CAPO: Multi-Objective Cost-Aware Prompt Optimization",
-          "url": "https://arxiv.org/abs/2605.18869",
-          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+          "title": "Genetic Programming with Transformer-Based Mutation for Approximate Circuit Design",
+          "url": "https://arxiv.org/abs/2605.21055",
+          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Large language models (LLMs) achieve strong performance across a wide range of tasks but are highly sensitive to prompt design, motivating the need for automatic prompt optimization. Existing methods predominantly focus on performance…",
-          "authors": "Jan Büssing, Moritz Schlager, Timo Heiß, Tom Zehle, Matthias Feurer"
+          "summary": "A recent trend is to leverage machine learning models to improve the evolutionary design and optimization process. We propose a novel transformer-based mutation operator for Cartesian genetic programming (CGP) for the automated design of…",
+          "authors": "Ondrej Galeta, Lukas Sekanina"
         },
         {
-          "title": "Stability and Discretization Error of State Space Model Neural Operators",
-          "url": "https://arxiv.org/abs/2605.18905",
-          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+          "title": "How to Build Marcus's Algebraic Mind: Algebro-Deterministic Substrate over Galois Fields",
+          "url": "https://arxiv.org/abs/2605.21379",
+          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neural operators have emerged as a powerful, discretization-invariant framework for solving partial differential equations (PDEs). Although established approaches like the Deep Operator Network (DeepONet) have successfully achieved…",
-          "authors": "Abderrahim Bendahi, Adrien Fradin, Johan Peralez, Julie Digne, Madiha Nadri"
+          "summary": "In The Algebraic Mind, Gary Marcus identified three components essential for any adequate cognitive architecture: operations over variables, recursively structured representations, and a distinction between mental representations of…",
+          "authors": "Hiroyuki Chuma, Kanji Otsuk, Yoichi Sato"
         },
         {
-          "title": "Information Processing Capacity of Stationary Physical Systems: Theory, Data-efficient Estimation Methods, and Photonic Demonstration",
-          "url": "https://arxiv.org/abs/2605.19152",
-          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+          "title": "Closed-form predictive coding via hierarchical Gaussian filters",
+          "url": "https://arxiv.org/abs/2605.20293",
+          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Physical computing systems provide a promising route toward hardware-native machine learning, but their computational capabilities remain difficult to characterize in a principled, task-independent, and data-efficient way. We extend the…",
-          "authors": "Rahul Uma Ramachandran, Serge Massar"
+          "summary": "Predictive coding (PC) offers a local and biologically grounded alternative to backpropagation in the training of artificial neural networks, yet to date, it remains slower, and performance degrades sharply as network depth increases. We…",
+          "authors": "Aleksandrs Baskakovs, Sylvain Estebe, Kenneth Enevoldsen, Kristoffer Nielbo, Chris Mathys, Nicolas Legrand"
         }
       ]
     },
@@ -228,20 +228,20 @@
       "itemCount": 2,
       "items": [
         {
-          "title": "Cross-Subject Intracranial EEG Reconstruction from Scalp Recordings Using Multi-Scale Cross-Attention Transformers",
-          "url": "https://arxiv.org/abs/2605.18897",
-          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+          "title": "AMAR: Lightweight Attention-Based Multi-User Activity Recognition from Wi-Fi CSI",
+          "url": "https://arxiv.org/abs/2605.20649",
+          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Intracranial EEG (iEEG) provides high-fidelity neural recordings essential for clinical and brain-computer interface applications, but acquiring these signals requires invasive surgery. While recent studies have attempted to estimate iEEG…",
-          "authors": "Tien-Dat Pham, Xuan-The Tran"
+          "summary": "Wi-Fi-based human activity recognition (HAR) has emerged as a promising approach for contactless sensing, leveraging channel state information (CSI) collected from wireless transceivers. While existing studies have primarily concentrated…",
+          "authors": "Amirhossein Mohammadi, Hina Tabassum"
         },
         {
-          "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
-          "url": "https://arxiv.org/abs/2605.19031",
-          "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
+          "title": "Optimal Time Window and Frequency Bandwidth Parameter Combination for Subject-Specific Motor Imagery EEG Classification",
+          "url": "https://arxiv.org/abs/2605.21319",
+          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Kolmogorov-Arnold Networks (KANs) have demonstrated an exceptional ability to learn complex functions on clean, low-dimensional data but struggle to maintain performance on noisy and imperfect real-world datasets. In contrast, conventional…",
-          "authors": "Mengxi Liu, Sizhen Bian, Vitor Fortes, Francisco Calatrava Nicolas, Daniel Geißler, Maximilian Kiefer-Emmanouilidis, Bo Zhou, Paul Lukowicz"
+          "summary": "Motor-imagery (MI) EEG can be classified using supervised machine learning techniques such as Linear Discriminant Analysis applied to features extracted by Common Spatial Patterns. Performance of these models varies widely, possibly due to…",
+          "authors": "Matthew A. McCartney, Liisa A. Kivioja, Sonal S. Baberwal, Shirley Coyle"
         }
       ]
     }

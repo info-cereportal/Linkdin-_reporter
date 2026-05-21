@@ -1,31 +1,27 @@
 {
-  "generatedAt": "2026-05-21T02:11:14.227Z",
+  "generatedAt": "2026-05-21T06:42:01.463Z",
   "date": "2026-05-21",
-  "topic": "ブレイン・コンピュータ・インターフェース(BCI)とニューロプロテーゼ",
+  "topic": "セロトニンと神経伝達物質",
   "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Conserved Kinematic Representations enable Zero-Shot Decoding in Handwriting BCIs",
-  "paperLink": "https://arxiv.org/abs/2605.19048",
-  "figureUrl": "https://arxiv.org/html/2605.19048/2605.19048v1/x1.png",
-  "formatted": "これを読んで、脳に対する見方が変わりました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nブレイン・コンピュータ・インターフェース(BCI)とニューロプロテーゼの最新研究です。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × ニューロプロテーゼ × 神経ダイナミクス × 運動野\n\n📊 注目すべきデータ：\n→ Our model achieves 64% hits@3 retrieval on unseen letters, suggesting that neural representations of kinematic strokes are robustly conserved across different character contexts.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Conserved Kinematic Representations enable Zero-Shot Decoding in Handwriting BCIs\n🔗 https://arxiv.org/abs/2605.19048\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #NeuroAI",
-  "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)とニューロプロテーゼ — 次世代へ続く布石（BCI・ニューラルインターフェース）",
-  "paperAuthors": "Srinivas Ravishankar, Virginia de Sa",
-  "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
-  "paperId": "2605.19048",
+  "paperTitle": "Compartmental-reaction diffusion framework for microscale dynamics of extracellular serotonin in brain tissue",
+  "paperLink": "https://arxiv.org/abs/2512.10983",
+  "figureUrl": "https://arxiv.org/html/2512.10983/2512.10983v2/x1.png",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nセロトニンと神経伝達物質の最新研究です。\n\n🔬 セロトニン × 神経伝達物質\n\n> Serotonin (5-hydroxytryptamine) is a major neurotransmitter whose release from densely distributed serotonergic varicosities shapes plasticity and network integration throughout the brain, yet its extracellular dynamics remain poorly understood due to the sub-micrometer and...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Compartmental-reaction diffusion framework for microscale dynamics of extracellular serotonin in brain tissue\n🔗 https://arxiv.org/abs/2512.10983\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #NeuralDecoding",
+  "summaryJP": "セロトニンと神経伝達物質 — 次世代へ続く布石",
+  "paperAuthors": "Merlin Pelz, Skirmantas Janusonis, Gregory Handy",
+  "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+  "paperId": "2512.10983",
   "paperSource": "arxiv",
-  "themeArea": "BCI・ニューラルインターフェース",
+  "themeArea": "脳情報科学",
   "jpKeywords": [
-    "ブレイン・コンピュータ・インターフェース(BCI)",
-    "ニューロプロテーゼ",
-    "神経ダイナミクス",
-    "運動野",
-    "学習",
-    "言語処理"
+    "セロトニン",
+    "神経伝達物質"
   ],
-  "abstractExcerpt": "While intracortical Brain-Computer Interfaces (iBCIs) that decode imagined handwriting have achieved high communication rates for Latin scripts, they rely on observing every character in the alphabet during training. This poses a challenge…",
+  "abstractExcerpt": "Serotonin (5-hydroxytryptamine) is a major neurotransmitter whose release from densely distributed serotonergic varicosities shapes plasticity and network integration throughout the brain, yet its extracellular dynamics remain poorly…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.19048/2605.19048v1/x1.png",
-    "https://arxiv.org/html/2605.19048/2605.19048v1/Figures/two_stage_pipeline_template_matching.png",
-    "https://arxiv.org/html/2605.19048/2605.19048v1/Figures/kinematics_predictor3.png"
+    "https://arxiv.org/html/2512.10983/2512.10983v2/x1.png",
+    "https://arxiv.org/html/2512.10983/2512.10983v2/x2.png",
+    "https://arxiv.org/html/2512.10983/2512.10983v2/x3.png"
   ]
 }

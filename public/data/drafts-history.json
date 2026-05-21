@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-05-21T06:42:01.463Z",
+    "date": "2026-05-21",
+    "topic": "セロトニンと神経伝達物質",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Compartmental-reaction diffusion framework for microscale dynamics of extracellular serotonin in brain tissue",
+    "paperLink": "https://arxiv.org/abs/2512.10983",
+    "figureUrl": "https://arxiv.org/html/2512.10983/2512.10983v2/x1.png",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nセロトニンと神経伝達物質の最新研究です。\n\n🔬 セロトニン × 神経伝達物質\n\n> Serotonin (5-hydroxytryptamine) is a major neurotransmitter whose release from densely distributed serotonergic varicosities shapes plasticity and network integration throughout the brain, yet its extracellular dynamics remain poorly understood due to the sub-micrometer and...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Compartmental-reaction diffusion framework for microscale dynamics of extracellular serotonin in brain tissue\n🔗 https://arxiv.org/abs/2512.10983\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #NeuralDecoding",
+    "summaryJP": "セロトニンと神経伝達物質 — 次世代へ続く布石",
+    "paperAuthors": "Merlin Pelz, Skirmantas Janusonis, Gregory Handy",
+    "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+    "paperId": "2512.10983",
+    "paperSource": "arxiv",
+    "themeArea": "脳情報科学",
+    "jpKeywords": [
+      "セロトニン",
+      "神経伝達物質"
+    ],
+    "abstractExcerpt": "Serotonin (5-hydroxytryptamine) is a major neurotransmitter whose release from densely distributed serotonergic varicosities shapes plasticity and network integration throughout the brain, yet its extracellular dynamics remain poorly…",
+    "figureUrls": [
+      "https://arxiv.org/html/2512.10983/2512.10983v2/x1.png",
+      "https://arxiv.org/html/2512.10983/2512.10983v2/x2.png",
+      "https://arxiv.org/html/2512.10983/2512.10983v2/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-21T02:11:14.227Z",
     "date": "2026-05-21",
     "topic": "ブレイン・コンピュータ・インターフェース(BCI)とニューロプロテーゼ",
@@ -1302,26 +1329,5 @@
       "https://arxiv.org/html/2605.12732/2605.12732v1/x2.png",
       "https://arxiv.org/html/2605.12732/2605.12732v1/x3.png"
     ]
-  },
-  {
-    "generatedAt": "2026-05-14T02:09:09.916Z",
-    "date": "2026-05-14",
-    "topic": "注意機構",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Accounting for Missed Events in the Bayesian Modeling of IP3R Multimodal Gating",
-    "paperLink": "https://arxiv.org/abs/2605.11675",
-    "formatted": "脳の秘密が、また一つ解き明かされました。\n\nこの研究から得られる3つの重要な示唆。\n\n注意機構の最新成果を整理しました。\n\n🔬 注意機構\n\n📊 注目すべきデータ：\n→ This limitation can significantly bias the inference of kinetic models describing the receptor activity.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n計算論的神経科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Accounting for Missed Events in the Bayesian Modeling of IP3R Multimodal Gating\n🔗 https://arxiv.org/abs/2605.11675\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #NeuroAI",
-    "summaryJP": "注意機構 — 注目すべき3つの示唆（計算論的神経科学）",
-    "paperAuthors": "Schayma Ben Marzougui (AISTROSIGHT), Audrey Denizot (AISTROSIGHT), Hugues Berry (AISTROSIGHT)",
-    "publishedDate": "Wed, 13 May 2026 00:00:00 -0400",
-    "paperId": "2605.11675",
-    "paperSource": "arxiv",
-    "themeArea": "計算論的神経科学",
-    "jpKeywords": [
-      "注意機構"
-    ],
-    "abstractExcerpt": "The Inositol 1,4,5-trisphosphate receptor channel (IP 3 R) is an important calcium channel involved in calcium-induced calcium release, playing a prominent role in intracellular calcium signaling. However, accurately characterizing its…",
-    "figureUrls": []
   }
 ]
