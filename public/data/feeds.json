@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T19:42:18.680Z",
+  "generatedAt": "2026-05-21T22:11:06.266Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Merck-Kelun lung cancer drug cut risk of tumor progression by 65%, ASCO abstract shows",
+          "url": "https://www.statnews.com/2026/05/21/merck-kelun-sac-tmt-lung-cancer-drug-trial-results/?utm_campaign=rss",
+          "publishedDate": "Thu, 21 May 2026 21:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "A type of targeted chemotherapy developed by China-based Kelun-Biotech and licensed to Merck cut the risk of tumor progression by 65% in patients with lung cancer, according to Phase 3&#8230;",
+          "authors": "Adam Feuerstein"
+        },
+        {
           "title": "STAT+: RFK Jr.’s screen time warning",
           "url": "https://www.statnews.com/2026/05/21/rfk-jr-s-screen-time-warning/?utm_campaign=rss",
           "publishedDate": "Thu, 21 May 2026 16:43:27 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "Growing evidence suggests it takes a sustained viral infection in the right genetic environment to lead to type 1 diabetes.",
           "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "STAT+: Kennedy fires two leaders on preventive services task force",
-          "url": "https://www.statnews.com/2026/05/20/kennedy-fires-vice-chairs-us-preventive-services-task-force/?utm_campaign=rss",
-          "publishedDate": "Wed, 20 May 2026 16:44:42 +0000",
-          "source": "statnews.com",
-          "summary": "Kennedy will have broad latitude to remake the panel, which advises the government on types of preventive care that should be covered by health insurance.",
-          "authors": "Chelsea Cirruzzo"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: 3 burning questions senators had for the NIH director",
+          "url": "https://www.statnews.com/2026/05/21/nih-budget-hearing-3-questions-director-jay-bhattacharya/?utm_campaign=rss",
+          "publishedDate": "Thu, 21 May 2026 21:06:46 +0000",
+          "source": "statnews.com",
+          "summary": "Besides showing skepticism on the budget, senators grilled the NIH director about a leadership vacuum, two viral outbreaks, and the pace of funding.",
+          "authors": "Anil Oza"
+        },
         {
           "title": "STAT+: RFK Jr.’s screen time warning",
           "url": "https://www.statnews.com/2026/05/21/rfk-jr-s-screen-time-warning/?utm_campaign=rss",
@@ -155,14 +163,6 @@
           "publishedDate": "Thu, 21 May 2026 09:31:48 EDT",
           "source": "sciencedaily.com",
           "summary": "Eating too much junk food early in life may rewire the brain in ways that last into adulthood, even after switching to a healthier diet. Scientists found that high-fat, high-sugar diets changed feeding behavior and disrupted…",
-          "authors": ""
-        },
-        {
-          "title": "Popular GLP-1 weight-loss drugs like Ozempic slash heart attack and stroke risk",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260520093731.htm",
-          "publishedDate": "Thu, 21 May 2026 09:02:24 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A huge international review found that GLP-1 weight-loss drugs significantly reduce the risk of heart attacks, strokes, heart failure, and premature death over the long term. Researchers say these medications could become a major weapon…",
           "authors": ""
         }
       ]
