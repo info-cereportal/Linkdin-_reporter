@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T02:14:18.489Z",
+  "generatedAt": "2026-05-22T06:39:28.508Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry",
-          "url": "https://arxiv.org/abs/2605.20496",
-          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+          "title": "Canonical Functionalism: Defining Functional Structure without Observer-Relative Semantic Maps",
+          "url": "https://arxiv.org/abs/2605.21506",
+          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The Strong Platonic Representation Hypothesis suggests that representational convergence in artificial neural networks can be harnessed constructively: embeddings can be translated across models through a universal latent space without…",
-          "authors": "Pablo Marcos-Manchón, Rishi Jha, Lluís Fuentemilla"
+          "summary": "Computational functionalism about consciousness is often criticized for relying on observer-relative interpretations of physical systems. This paper proposes a mathematical refinement of functionalism that avoids this problem. The central…",
+          "authors": "Ryota Kanai, Shuqin Ma"
         },
         {
-          "title": "Stimulus symmetries can confound representational similarity analyses",
-          "url": "https://arxiv.org/abs/2605.21324",
-          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+          "title": "Learning sequence timing and control of replay speed in networks of spiking neurons",
+          "url": "https://arxiv.org/abs/2605.22523",
+          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "What can representational similarity matrices (RSMs) tell us about a neural code? As the popularity of these summary statistics grows, so too does the need for a more complete characterization of their properties. Here, we show that…",
-          "authors": "Farhad Pashakhanloo, Jacob A. Zavatone-Veth"
+          "summary": "Processing sequential inputs is a fundamental brain function, underlying tasks such as sensory perception, language, and motor control. A challenge in sequence processing is to represent not only the order of events, but also their precise…",
+          "authors": "Melissa Lober, Younes Bouhadjar, Markus Diesmann, Tom Tetzlaff"
         },
         {
-          "title": "A simple model of co-emergence of grid and place fields",
-          "url": "https://arxiv.org/abs/2605.21356",
-          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+          "title": "Efficient coding under constraint drives neural systems towards criticality and sloppiness",
+          "url": "https://arxiv.org/abs/2605.22598",
+          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Grid cells in the medial entorhinal cortex and place cells in the hippocampus together support spatial navigation. The two regions are reciprocally connected, and there is a chicken-and-egg problem for how both arise and reinforce each…",
-          "authors": "Zhaoze Wang, Genela Morris, Dori Derdikman, Pratik Chaudhari, Vijay Balasubramanian"
+          "summary": "It is widely accepted that the brain operates near a critical state, characterized by neural avalanches that follow power-law distributions. However, the functional rationale for why neural systems attain criticality remains unclear. Here,…",
+          "authors": "He Xiao, Xinyue Zhao, Weikang Wang"
         },
         {
-          "title": "Perceptual misalignment of texture representations in convolutional neural networks",
-          "url": "https://arxiv.org/abs/2604.01341",
-          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+          "title": "Cross-Species RSA Reveals Conserved Early Visual Alignment but Divergent Higher-Area Rankings Across Human fMRI and Macaque Electrophysiology",
+          "url": "https://arxiv.org/abs/2605.22401",
+          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Mathematical modeling of visual textures traces back to Julesz's intuition that texture perception in humans is based on local correlations between image features. An influential approach for texture analysis and generation generalizes…",
-          "authors": "Ludovica de Paolis, Fabio Anselmi, Alessio Ansuini, Eugenio Piasini"
+          "summary": "Does the relationship between learning rules and brain alignment generalize across species? We extend our prior finding that untrained CNNs match backpropagation at human V1 by testing the same five learning rules against macaque…",
+          "authors": "Nils Leutenegger"
         },
         {
-          "title": "Task-conditioned probing of instruction-tuned multimodal LLMs: Region-specific brain alignment patterns under naturalistic stimuli",
-          "url": "https://arxiv.org/abs/2506.08277",
-          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+          "title": "Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior",
+          "url": "https://arxiv.org/abs/2502.20349",
+          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent voxel-wise multimodal brain encoding studies have shown that multimodal large language models (MLLMs) exhibit a higher degree of brain alignment compared to unimodal models. More recently, instruction-tuned multimodal (IT) models…",
-          "authors": "Subba Reddy Oota, Khushbu Pahwa, Prachi Jindal, Satya Sai Srinath Namburi, Maneesh Singh, Tanmoy Chakraborty, Bapi S. Raju, Manish Gupta"
+          "summary": "How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace…",
+          "authors": "Wilka Carvalho, Andrew Lampinen"
         },
         {
-          "title": "Parallelized Hierarchical Connectome: A Spatiotemporal Recurrent Framework for Spiking State-Space Models",
-          "url": "https://arxiv.org/abs/2604.01295",
-          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+          "title": "Self-orthogonalizing attractor neural networks emerging from the free energy principle",
+          "url": "https://arxiv.org/abs/2505.22749",
+          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This work presents the Parallelized Hierarchical Connectome (PHC), a general architectural framework that upgrades temporal-only State-Space Models (SSMs) into spatiotemporal recurrent networks. Conventional SSMs achieve parallel-scan…",
-          "authors": "Po-Han Chiang"
+          "summary": "Attractor dynamics are a hallmark of many complex systems, including the brain. Understanding how such self-organizing dynamics emerge from first principles is crucial for advancing our understanding of neuronal computations and the design…",
+          "authors": "Tamas Spisak, Karl Friston"
         }
       ]
     },
@@ -118,6 +118,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "“Zombie cells” aren’t always bad and that could transform anti-aging medicine",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260521072402.htm",
+          "publishedDate": "Fri, 22 May 2026 00:28:12 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists are uncovering a surprising truth about aging cells: some may damage the body, while others help protect it. The discovery is fueling a new wave of precision anti-aging therapies aimed at removing only the harmful “zombie” cells…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover a two-stage aging process that may cause cancer and arthritis",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260521072420.htm",
+          "publishedDate": "Thu, 21 May 2026 21:00:18 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new theory suggests many age-related diseases may actually start decades before symptoms appear. Researchers say early-life damage — from infections, injuries, or genetic mutations — can remain hidden until aging weakens the body’s…",
+          "authors": ""
+        },
+        {
           "title": "STAT+: 3 burning questions senators had for the NIH director",
           "url": "https://www.statnews.com/2026/05/21/nih-budget-hearing-3-questions-director-jay-bhattacharya/?utm_campaign=rss",
           "publishedDate": "Thu, 21 May 2026 21:06:46 +0000",
@@ -148,22 +164,6 @@
           "source": "statnews.com",
           "summary": "The DOJ alleges Elevance fraudulently billed the government for inaccurate medical diagnoses.",
           "authors": "Bob Herman"
-        },
-        {
-          "title": "Senate committee questions NIH director on 2027 budget",
-          "url": "https://www.statnews.com/2026/05/21/live-coverage-nih-director-jay-bhattacharya-senate-testimony/?utm_campaign=rss",
-          "publishedDate": "Thu, 21 May 2026 14:00:40 +0000",
-          "source": "statnews.com",
-          "summary": "Watch as NIH Director Jay Bhattacharya is questioned by the Senate Appropriations Committee this morning on President Trump’s budget proposal for the 2027 fiscal year.",
-          "authors": "Anil Oza"
-        },
-        {
-          "title": "Childhood junk food may rewire the brain for life",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260520093807.htm",
-          "publishedDate": "Thu, 21 May 2026 09:31:48 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Eating too much junk food early in life may rewire the brain in ways that last into adulthood, even after switching to a healthier diet. Scientists found that high-fat, high-sugar diets changed feeding behavior and disrupted…",
-          "authors": ""
         }
       ]
     },
@@ -173,77 +173,61 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "E-ReCON: An Energy- and Resource-Efficient Precision-Configurable Sparse nvCIM Macro for Conventional and Spiking Neural Edge Inference",
-          "url": "https://arxiv.org/abs/2605.20717",
-          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+          "title": "Temporal Coding as a Substrate for Sensorimotor Object Inference: A Spiking Reinterpretation of Thousand Brains Architecture",
+          "url": "https://arxiv.org/abs/2605.22206",
+          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This work presents E-ReCON, a 16 Kb energy and resource-efficient digital compute-in-memory (DCIM) macro based on a compact 3T1R ReRAM bitcell for edge-AI inference. The proposed bitcell occupies only 0.85 um^2 and supports reliable…",
-          "authors": "Ankit Kumar Tenwar, Mukul Lokhande, Santosh Kumar Vishvakarma"
+          "summary": "The Thousand Brains Theory (TBT) and its open-source Monty framework model object recognition through sensorimotor inference -- identifying objects by actively moving a sensor across their surface and building evidence contact by contact.…",
+          "authors": "Joy Bose"
         },
         {
-          "title": "Privacy-Preserving Distributed Optimization Under Time Constraints Using Secure Multi-Party Computation and Evolutionary Algorithms",
-          "url": "https://arxiv.org/abs/2605.20944",
-          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+          "title": "Guiding Multi-Objective Genetic Programming with Description Length Improves Symbolic Regression Solutions",
+          "url": "https://arxiv.org/abs/2605.22374",
+          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In distributed optimization, multiple parties collaborate to find an optimal solution to a problem. Privacy-preserving distributed optimization uses techniques, such as secure multi-party computation (MPC), to protect the private inputs of…",
-          "authors": "Sebastian Gruber, Tobias Harzfeld, Christoph G. Schuetz, Florian Wohner, Thomas Lorünser"
+          "summary": "Symbolic regression with genetic programming (GPSR) may suffer from overfitting and structural bloat, especially when noise is present. In this paper we evaluate description length (DL) and fractional Bayes factor (FBF) criteria as…",
+          "authors": "Gabriel Kronberger, Fabricio Olivetti de Franca, Deaglan J. Bartlett, Harry Desmond, Pedro G. Ferreira"
         },
         {
-          "title": "Convergence Analysis of Evolution Strategies for Mixed-Integer Optimization",
-          "url": "https://arxiv.org/abs/2605.21000",
-          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+          "title": "Quantum Genetic Optimization for Negative Selection Algorithms in Anomaly Detection",
+          "url": "https://arxiv.org/abs/2605.22527",
+          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Mixed-integer extensions of evolution strategies (ES) that discretize selected coordinates of sampled continuous vectors often impose a lower bound on the standard deviation of integer variables to prevent premature convergence. While…",
-          "authors": "Ryoki Hamano, Kento Uchida, Shinichi Shirakawa"
+          "summary": "Negative Selection Algorithms (NSAs), inspired by the self/non-self discrimination mechanism of the human immune system, have been widely employed in anomaly detection. However, their effectiveness is often constrained by the efficiency of…",
+          "authors": "Giancarlo P. Gamberi, Calebe P. Bianchini"
         },
         {
-          "title": "Genetic Programming with Transformer-Based Mutation for Approximate Circuit Design",
-          "url": "https://arxiv.org/abs/2605.21055",
-          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+          "title": "Canonical Functionalism: Defining Functional Structure without Observer-Relative Semantic Maps",
+          "url": "https://arxiv.org/abs/2605.21506",
+          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "A recent trend is to leverage machine learning models to improve the evolutionary design and optimization process. We propose a novel transformer-based mutation operator for Cartesian genetic programming (CGP) for the automated design of…",
-          "authors": "Ondrej Galeta, Lukas Sekanina"
+          "summary": "Computational functionalism about consciousness is often criticized for relying on observer-relative interpretations of physical systems. This paper proposes a mathematical refinement of functionalism that avoids this problem. The central…",
+          "authors": "Ryota Kanai, Shuqin Ma"
         },
         {
-          "title": "How to Build Marcus's Algebraic Mind: Algebro-Deterministic Substrate over Galois Fields",
-          "url": "https://arxiv.org/abs/2605.21379",
-          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+          "title": "Dropout Universality: Scaling Laws and Optimal Scheduling at the Edge-of-Chaos",
+          "url": "https://arxiv.org/abs/2605.21648",
+          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In The Algebraic Mind, Gary Marcus identified three components essential for any adequate cognitive architecture: operations over variables, recursively structured representations, and a distinction between mental representations of…",
-          "authors": "Hiroyuki Chuma, Kanji Otsuk, Yoichi Sato"
+          "summary": "We develop a mean-field theory of dropout as a perturbation of critical signal propagation at the edge of chaos. Dropout shifts the perfect-alignment fixed point, making the depth scale for information propagation finite even at critical…",
+          "authors": "Lucas Fernandez Sarmiento"
         },
         {
-          "title": "Closed-form predictive coding via hierarchical Gaussian filters",
-          "url": "https://arxiv.org/abs/2605.20293",
-          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+          "title": "Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review",
+          "url": "https://arxiv.org/abs/2605.21903",
+          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Predictive coding (PC) offers a local and biologically grounded alternative to backpropagation in the training of artificial neural networks, yet to date, it remains slower, and performance degrades sharply as network depth increases. We…",
-          "authors": "Aleksandrs Baskakovs, Sylvain Estebe, Kenneth Enevoldsen, Kristoffer Nielbo, Chris Mathys, Nicolas Legrand"
+          "summary": "The integration of machine learning with domain-specific physics is transforming the design, monitoring, and control of electricity systems, where data scarcity, limited interpretability, and the need to enforce physical laws constrain…",
+          "authors": "Joseph Nyangon"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
-      "items": [
-        {
-          "title": "AMAR: Lightweight Attention-Based Multi-User Activity Recognition from Wi-Fi CSI",
-          "url": "https://arxiv.org/abs/2605.20649",
-          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Wi-Fi-based human activity recognition (HAR) has emerged as a promising approach for contactless sensing, leveraging channel state information (CSI) collected from wireless transceivers. While existing studies have primarily concentrated…",
-          "authors": "Amirhossein Mohammadi, Hina Tabassum"
-        },
-        {
-          "title": "Optimal Time Window and Frequency Bandwidth Parameter Combination for Subject-Specific Motor Imagery EEG Classification",
-          "url": "https://arxiv.org/abs/2605.21319",
-          "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Motor-imagery (MI) EEG can be classified using supervised machine learning techniques such as Linear Discriminant Analysis applied to features extracted by Common Spatial Patterns. Performance of these models varies widely, possibly due to…",
-          "authors": "Matthew A. McCartney, Liisa A. Kivioja, Sonal S. Baberwal, Shirley Coyle"
-        }
-      ]
+      "itemCount": 0,
+      "error": "no BCI-keyword match in fetched feed",
+      "items": []
     }
   }
 }
