@@ -1,31 +1,29 @@
 {
-  "generatedAt": "2026-05-22T17:01:54.076Z",
+  "generatedAt": "2026-05-22T19:22:33.402Z",
   "date": "2026-05-22",
-  "topic": "学習と生物学的妥当性",
+  "topic": "自由エネルギー原理と生物学的妥当性",
   "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Learning sequence timing and control of replay speed in networks of spiking neurons",
-  "paperLink": "https://arxiv.org/abs/2605.22523",
-  "figureUrl": "https://arxiv.org/html/2605.22523/2605.22523v1/x1.png",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習と生物学的妥当性に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習 × 生物学的妥当性 × 言語処理 × 記憶\n\n📊 注目すべきデータ：\n→ Additionally, we show that oscillatory background inputs can serve as a clock signal and provide a robust and flexible mechanism for controlling the speed of sequence replay.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Learning sequence timing and control of replay speed in networks of spiking neurons\n🔗 https://arxiv.org/abs/2605.22523\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #計算論的神経科学",
-  "summaryJP": "学習と生物学的妥当性 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
-  "paperAuthors": "Melissa Lober, Younes Bouhadjar, Markus Diesmann, Tom Tetzlaff",
+  "paperTitle": "Self-orthogonalizing attractor neural networks emerging from the free energy principle",
+  "paperLink": "https://arxiv.org/abs/2505.22749",
+  "figureUrl": "https://arxiv.org/html/2505.22749/2505.22749v2/fig/schematics.png",
+  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n脳科学とAI——その境界線が消えつつある。\n\n自由エネルギー原理と生物学的妥当性に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 自由エネルギー原理 × 生物学的妥当性 × 能動推論 × 学習\n\n📊 注目すべきデータ：\n→ Our findings offer a unifying theory of self-organizing attractor networks, providing novel insights for AI and neuroscience.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Self-orthogonalizing attractor neural networks emerging from the free energy principle\n🔗 https://arxiv.org/abs/2505.22749\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #BrainComputerInterface",
+  "summaryJP": "自由エネルギー原理と生物学的妥当性 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+  "paperAuthors": "Tamas Spisak, Karl Friston",
   "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-  "paperId": "2605.22523",
+  "paperId": "2505.22749",
   "paperSource": "arxiv",
   "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "学習",
+    "自由エネルギー原理",
     "生物学的妥当性",
-    "言語処理",
-    "記憶",
-    "睡眠",
-    "EEG"
+    "能動推論",
+    "学習"
   ],
-  "abstractExcerpt": "Processing sequential inputs is a fundamental brain function, underlying tasks such as sensory perception, language, and motor control. A challenge in sequence processing is to represent not only the order of events, but also their precise…",
+  "abstractExcerpt": "Attractor dynamics are a hallmark of many complex systems, including the brain. Understanding how such self-organizing dynamics emerge from first principles is crucial for advancing our understanding of neuronal computations and the design…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.22523/2605.22523v1/x1.png",
-    "https://arxiv.org/html/2605.22523/2605.22523v1/x2.png",
-    "https://arxiv.org/html/2605.22523/2605.22523v1/x3.png"
+    "https://arxiv.org/html/2505.22749/2505.22749v2/fig/schematics.png",
+    "https://arxiv.org/html/2505.22749/2505.22749v2/fig/concept.png",
+    "https://arxiv.org/html/2505.22749/2505.22749v2/fig/parametrization.png"
   ]
 }

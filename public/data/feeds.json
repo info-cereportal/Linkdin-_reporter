@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T17:01:54.648Z",
+  "generatedAt": "2026-05-22T19:22:34.096Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Congress slashed Medicaid funding to providers. The Trump administration wants to cut even further",
+          "url": "https://www.statnews.com/2026/05/22/medicaid-state-directed-payments-trump-proposes-more-cuts/?utm_campaign=rss",
+          "publishedDate": "Fri, 22 May 2026 17:19:15 +0000",
+          "source": "statnews.com",
+          "summary": "The Trump administration disclosed plans to reduce state directed payments even more, setting up a probable showdown with provider groups.",
+          "authors": "Tara Bannow"
+        },
+        {
           "title": "A CDC page on mpox caught in political crosshairs",
           "url": "https://www.statnews.com/2026/05/22/health-news-cdc-mpox-page-caught-in-political-crosshairs/?utm_campaign=rss",
           "publishedDate": "Fri, 22 May 2026 13:14:29 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "A UCSF team has submitted an application to the FDA seeking approval for a small trial of in utero gene therapy for a rare lysosomal storage disorder.",
           "authors": "Megan Molteni"
-        },
-        {
-          "title": "Surgeon general’s office issues warning on screen time for children",
-          "url": "https://www.statnews.com/2026/05/20/surgeon-general-public-health-warning-screen-time-children/?utm_campaign=rss",
-          "publishedDate": "Wed, 20 May 2026 18:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "A public health advisory calls on parents, schools, and government to limit children's use of screens, saying some patterns of use “can pose real harm to children.”",
-          "authors": "Chelsea Cirruzzo and Daniel Payne"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Congress slashed Medicaid funding to providers. The Trump administration wants to cut even further",
+          "url": "https://www.statnews.com/2026/05/22/medicaid-state-directed-payments-trump-proposes-more-cuts/?utm_campaign=rss",
+          "publishedDate": "Fri, 22 May 2026 17:19:15 +0000",
+          "source": "statnews.com",
+          "summary": "The Trump administration disclosed plans to reduce state directed payments even more, setting up a probable showdown with provider groups.",
+          "authors": "Tara Bannow"
+        },
         {
           "title": "Scientists uncover cancer-causing chemicals hidden in everyday foods",
           "url": "https://www.sciencedaily.com/releases/2026/05/260522030853.htm",
@@ -156,14 +164,6 @@
           "source": "statnews.com",
           "summary": "Supporters worry that a men’s health office created by the Trump administration risks being dismantled by a future Democratic president",
           "authors": "Annalisa Merelli"
-        },
-        {
-          "title": "Popular weight loss drugs like Wegovy may also target arthritis inflammation",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260521072408.htm",
-          "publishedDate": "Fri, 22 May 2026 02:12:43 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers have discovered that the GLP-1 hormone targeted by drugs like Wegovy is present in very low amounts inside the joints of arthritis patients. That finding suggests high-dose GLP-1 medications could potentially reach the joints…",
-          "authors": ""
         }
       ]
     },
