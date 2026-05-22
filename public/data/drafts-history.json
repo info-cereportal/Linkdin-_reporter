@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-05-22T02:14:18.216Z",
+    "date": "2026-05-22",
+    "topic": "セロトニンと神経伝達物質",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Compartmental-reaction diffusion framework for microscale dynamics of extracellular serotonin in brain tissue",
+    "paperLink": "https://arxiv.org/abs/2512.10983",
+    "figureUrl": "https://arxiv.org/html/2512.10983/2512.10983v2/x1.png",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\nセロトニンと神経伝達物質に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 セロトニン × 神経伝達物質\n\n> Serotonin (5-hydroxytryptamine) is a major neurotransmitter whose release from densely distributed serotonergic varicosities shapes plasticity and network integration throughout the brain, yet its extracellular dynamics remain poorly understood due to the sub-micrometer and...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n脳情報科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Compartmental-reaction diffusion framework for microscale dynamics of extracellular serotonin in brain tissue\n🔗 https://arxiv.org/abs/2512.10983\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #BCI",
+    "summaryJP": "セロトニンと神経伝達物質 — 脳科学とAIをつなぐ研究",
+    "paperAuthors": "Merlin Pelz, Skirmantas Janusonis, Gregory Handy",
+    "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
+    "paperId": "2512.10983",
+    "paperSource": "arxiv",
+    "themeArea": "脳情報科学",
+    "jpKeywords": [
+      "セロトニン",
+      "神経伝達物質"
+    ],
+    "abstractExcerpt": "Serotonin (5-hydroxytryptamine) is a major neurotransmitter whose release from densely distributed serotonergic varicosities shapes plasticity and network integration throughout the brain, yet its extracellular dynamics remain poorly…",
+    "figureUrls": [
+      "https://arxiv.org/html/2512.10983/2512.10983v2/x1.png",
+      "https://arxiv.org/html/2512.10983/2512.10983v2/x2.png",
+      "https://arxiv.org/html/2512.10983/2512.10983v2/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-21T22:11:06.088Z",
     "date": "2026-05-21",
     "topic": "大規模言語モデル(LLM)と学習",
@@ -1304,33 +1331,6 @@
       "https://arxiv.org/html/2510.01502/2510.01502v2/x1.png",
       "https://arxiv.org/html/2510.01502/2510.01502v2/x2.png",
       "https://arxiv.org/html/2510.01502/2510.01502v2/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-14T19:26:47.014Z",
-    "date": "2026-05-14",
-    "topic": "ブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Implicit Behavioral Decoding from Next-Step Spike Forecasts at Population Scale",
-    "paperLink": "https://arxiv.org/abs/2605.12999",
-    "figureUrl": "https://arxiv.org/html/2605.12999/2605.12999v1/figures/figure_pipeline.png",
-    "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\nブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御の最新成果を整理しました。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × クローズドループ制御\n\n📊 注目すべきデータ：\n→ Across three training seeds, Mamba's predicted rates decode mouse choice at 75.7$\\pm$0.2% trial vote, roughly 2.3 times chance level, and stimulus side at 66.1$\\pm$0.6%, about...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nBCI・ニューラルインターフェースの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Implicit Behavioral Decoding from Next-Step Spike Forecasts at Population Scale\n🔗 https://arxiv.org/abs/2605.12999\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #DeepLearning",
-    "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御 — 注目すべき3つの示唆（BCI・ニューラルインターフェース）",
-    "paperAuthors": "John R. Minnick, Jesus Gonzalez-Ferrer, Kamran Hussain, Jinghui Geng, Ash Robbins, Mohammed A. Mostajo-Radji, David Haussler, Jason Eshraghian, Mircea Teodorescu",
-    "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
-    "paperId": "2605.12999",
-    "paperSource": "arxiv",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "ブレイン・コンピュータ・インターフェース(BCI)",
-      "クローズドループ制御"
-    ],
-    "abstractExcerpt": "Closed-loop brain-computer interfaces often require both a forecast of upcoming neural population activity and a readout of the animal's behavioral state. A single Mamba forecaster, trained only on next-step spike counts at Neuropixels…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.12999/2605.12999v1/figures/figure_pipeline.png",
-      "https://arxiv.org/html/2605.12999/2605.12999v1/x1.png",
-      "https://arxiv.org/html/2605.12999/2605.12999v1/x2.png"
     ]
   }
 ]
