@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T14:14:55.082Z",
+  "generatedAt": "2026-05-22T17:01:54.648Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -118,6 +118,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists uncover cancer-causing chemicals hidden in everyday foods",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260522030853.htm",
+          "publishedDate": "Fri, 22 May 2026 10:46:22 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have identified potentially cancer-causing chemicals hiding in many everyday foods, especially those exposed to high heat cooking methods like grilling, roasting, smoking, and frying. The compounds, known as PAHs, can form…",
+          "authors": ""
+        },
+        {
+          "title": "Surprising study finds beef doesn’t worsen blood sugar or diabetes risk",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260521072416.htm",
+          "publishedDate": "Fri, 22 May 2026 10:39:24 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new clinical trial suggests that eating beef every day may not be as risky for people with prediabetes as many assume. Researchers found that adults who ate 6–7 ounces of beef daily for a month showed no worsening in blood sugar control,…",
+          "authors": ""
+        },
+        {
           "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
           "url": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
           "publishedDate": "Fri, 22 May 2026 08:33:40 EDT",
@@ -147,22 +163,6 @@
           "publishedDate": "Fri, 22 May 2026 02:12:43 EDT",
           "source": "sciencedaily.com",
           "summary": "Researchers have discovered that the GLP-1 hormone targeted by drugs like Wegovy is present in very low amounts inside the joints of arthritis patients. That finding suggests high-dose GLP-1 medications could potentially reach the joints…",
-          "authors": ""
-        },
-        {
-          "title": "“Zombie cells” aren’t always bad and that could transform anti-aging medicine",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260521072402.htm",
-          "publishedDate": "Fri, 22 May 2026 00:28:12 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists are uncovering a surprising truth about aging cells: some may damage the body, while others help protect it. The discovery is fueling a new wave of precision anti-aging therapies aimed at removing only the harmful “zombie” cells…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover a two-stage aging process that may cause cancer and arthritis",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260521072420.htm",
-          "publishedDate": "Thu, 21 May 2026 21:00:18 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new theory suggests many age-related diseases may actually start decades before symptoms appear. Researchers say early-life damage — from infections, injuries, or genetic mutations — can remain hidden until aging weakens the body’s…",
           "authors": ""
         }
       ]

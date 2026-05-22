@@ -1,5 +1,36 @@
 [
   {
+    "generatedAt": "2026-05-22T17:01:54.076Z",
+    "date": "2026-05-22",
+    "topic": "学習と生物学的妥当性",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Learning sequence timing and control of replay speed in networks of spiking neurons",
+    "paperLink": "https://arxiv.org/abs/2605.22523",
+    "figureUrl": "https://arxiv.org/html/2605.22523/2605.22523v1/x1.png",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習と生物学的妥当性に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習 × 生物学的妥当性 × 言語処理 × 記憶\n\n📊 注目すべきデータ：\n→ Additionally, we show that oscillatory background inputs can serve as a clock signal and provide a robust and flexible mechanism for controlling the speed of sequence replay.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Learning sequence timing and control of replay speed in networks of spiking neurons\n🔗 https://arxiv.org/abs/2605.22523\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #計算論的神経科学",
+    "summaryJP": "学習と生物学的妥当性 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+    "paperAuthors": "Melissa Lober, Younes Bouhadjar, Markus Diesmann, Tom Tetzlaff",
+    "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
+    "paperId": "2605.22523",
+    "paperSource": "arxiv",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "学習",
+      "生物学的妥当性",
+      "言語処理",
+      "記憶",
+      "睡眠",
+      "EEG"
+    ],
+    "abstractExcerpt": "Processing sequential inputs is a fundamental brain function, underlying tasks such as sensory perception, language, and motor control. A challenge in sequence processing is to represent not only the order of events, but also their precise…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.22523/2605.22523v1/x1.png",
+      "https://arxiv.org/html/2605.22523/2605.22523v1/x2.png",
+      "https://arxiv.org/html/2605.22523/2605.22523v1/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-22T14:14:54.670Z",
     "date": "2026-05-22",
     "topic": "自由エネルギー原理と生物学的妥当性",
@@ -1309,32 +1340,6 @@
       "https://arxiv.org/html/2605.10947/2605.10947v2/images/Late_breaking_work-Page-2.drawio.png",
       "https://arxiv.org/html/2605.10947/2605.10947v2/images/fig_cube_clean_sil.png",
       "https://arxiv.org/html/2605.10947/2605.10947v2/images/fig_cube_clean_db.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-15T11:12:43.369Z",
-    "date": "2026-05-15",
-    "topic": "言語処理",
-    "templateName": "future-vision",
-    "riskScore": 0,
-    "paperTitle": "Do Language Models Align with Brains? Prediction Scores Are Not Enough",
-    "paperLink": "https://arxiv.org/abs/2605.14025",
-    "figureUrl": "https://arxiv.org/html/2605.14025/2605.14025v1/x1.png",
-    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n言語処理の最新研究です。\n\n🔬 言語処理\n\n> Brain-language model comparisons often interpret neural prediction scores as evidence that model representations capture brain-relevant language computation. We asked whether language models align with brains, and whether prediction scores are enough to support that claim, using...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Do Language Models Align with Brains? Prediction Scores Are Not Enough\n🔗 https://arxiv.org/abs/2605.14025\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #BrainComputerInterface",
-    "summaryJP": "言語処理 — 次世代へ続く布石（神経デコーディング）",
-    "paperAuthors": "Xiao Jia",
-    "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
-    "paperId": "2605.14025",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "言語処理"
-    ],
-    "abstractExcerpt": "Brain-language model comparisons often interpret neural prediction scores as evidence that model representations capture brain-relevant language computation. We asked whether language models align with brains, and whether prediction scores…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.14025/2605.14025v1/x1.png",
-      "https://arxiv.org/html/2605.14025/2605.14025v1/x2.png",
-      "https://arxiv.org/html/2605.14025/2605.14025v1/x3.png"
     ]
   }
 ]
