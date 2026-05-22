@@ -1,29 +1,26 @@
 {
-  "generatedAt": "2026-05-22T06:39:28.161Z",
+  "generatedAt": "2026-05-22T11:37:36.985Z",
   "date": "2026-05-22",
-  "topic": "予測符号化と視覚野",
+  "topic": "学習",
   "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Cross-Species RSA Reveals Conserved Early Visual Alignment but Divergent Higher-Area Rankings Across Human fMRI and Macaque Electrophysiology",
-  "paperLink": "https://arxiv.org/abs/2605.22401",
-  "figureUrl": "https://arxiv.org/html/2605.22401/2605.22401v1/x1.png",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n脳科学とAI——その境界線が消えつつある。\n\n予測符号化と視覚野に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 fMRI × 予測符号化 × 視覚野 × 学習\n\n📊 注目すべきデータ：\n→ These results demonstrate that early visual alignment is robust across species, while higher-area alignment is modulated by model capacity and stimulus domain.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n計算論的神経科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Cross-Species RSA Reveals Conserved Early Visual Alignment but Divergent Higher-Area Rankings Across Human fMRI and Macaque Electrophysiology\n🔗 https://arxiv.org/abs/2605.22401\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #計算論的神経科学",
-  "summaryJP": "予測符号化と視覚野 — 脳科学とAIをつなぐ研究（計算論的神経科学）",
-  "paperAuthors": "Nils Leutenegger",
+  "paperTitle": "Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior",
+  "paperLink": "https://arxiv.org/abs/2502.20349",
+  "figureUrl": "https://arxiv.org/html/2502.20349/2502.20349v4/x1.png",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習\n\n> How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace experiments with increasingly naturalistic...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n脳情報科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior\n🔗 https://arxiv.org/abs/2502.20349\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #神経科学",
+  "summaryJP": "学習 — 脳科学とAIをつなぐ研究",
+  "paperAuthors": "Wilka Carvalho, Andrew Lampinen",
   "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-  "paperId": "2605.22401",
+  "paperId": "2502.20349",
   "paperSource": "arxiv",
-  "themeArea": "計算論的神経科学",
+  "themeArea": "脳情報科学",
   "jpKeywords": [
-    "fMRI",
-    "予測符号化",
-    "視覚野",
     "学習"
   ],
-  "abstractExcerpt": "Does the relationship between learning rules and brain alignment generalize across species? We extend our prior finding that untrained CNNs match backpropagation at human V1 by testing the same five learning rules against macaque…",
+  "abstractExcerpt": "How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.22401/2605.22401v1/x1.png",
-    "https://arxiv.org/html/2605.22401/2605.22401v1/x2.png",
-    "https://arxiv.org/html/2605.22401/2605.22401v1/x3.png"
+    "https://arxiv.org/html/2502.20349/2502.20349v4/x1.png",
+    "https://arxiv.org/html/2502.20349/2502.20349v4/x2.png",
+    "https://arxiv.org/html/2502.20349/2502.20349v4/x4.png"
   ]
 }

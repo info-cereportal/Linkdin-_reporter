@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-05-22T11:37:36.985Z",
+    "date": "2026-05-22",
+    "topic": "学習",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior",
+    "paperLink": "https://arxiv.org/abs/2502.20349",
+    "figureUrl": "https://arxiv.org/html/2502.20349/2502.20349v4/x1.png",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習\n\n> How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace experiments with increasingly naturalistic...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n脳情報科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior\n🔗 https://arxiv.org/abs/2502.20349\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #神経科学",
+    "summaryJP": "学習 — 脳科学とAIをつなぐ研究",
+    "paperAuthors": "Wilka Carvalho, Andrew Lampinen",
+    "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
+    "paperId": "2502.20349",
+    "paperSource": "arxiv",
+    "themeArea": "脳情報科学",
+    "jpKeywords": [
+      "学習"
+    ],
+    "abstractExcerpt": "How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace…",
+    "figureUrls": [
+      "https://arxiv.org/html/2502.20349/2502.20349v4/x1.png",
+      "https://arxiv.org/html/2502.20349/2502.20349v4/x2.png",
+      "https://arxiv.org/html/2502.20349/2502.20349v4/x4.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-22T06:39:28.161Z",
     "date": "2026-05-22",
     "topic": "予測符号化と視覚野",
@@ -1306,33 +1332,6 @@
       "https://arxiv.org/html/2605.14388/2605.14388v1/x1.png",
       "https://arxiv.org/html/2605.14388/2605.14388v1/x2.png",
       "https://arxiv.org/html/2605.14388/2605.14388v1/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-15T02:07:33.264Z",
-    "date": "2026-05-15",
-    "topic": "ブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御",
-    "templateName": "future-vision",
-    "riskScore": 0,
-    "paperTitle": "Implicit Behavioral Decoding from Next-Step Spike Forecasts at Population Scale",
-    "paperLink": "https://arxiv.org/abs/2605.12999",
-    "figureUrl": "https://arxiv.org/html/2605.12999/2605.12999v1/figures/figure_pipeline.png",
-    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御の最新研究です。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × クローズドループ制御\n\n📊 注目すべきデータ：\n→ Across three training seeds, Mamba's predicted rates decode mouse choice at 75.7$\\pm$0.2% trial vote, roughly 2.3 times chance level, and stimulus side at 66.1$\\pm$0.6%, about...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Implicit Behavioral Decoding from Next-Step Spike Forecasts at Population Scale\n🔗 https://arxiv.org/abs/2605.12999\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #神経科学",
-    "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御 — 次世代へ続く布石（BCI・ニューラルインターフェース）",
-    "paperAuthors": "John R. Minnick, Jesus Gonzalez-Ferrer, Kamran Hussain, Jinghui Geng, Ash Robbins, Mohammed A. Mostajo-Radji, David Haussler, Jason Eshraghian, Mircea Teodorescu",
-    "publishedDate": "Thu, 14 May 2026 00:00:00 -0400",
-    "paperId": "2605.12999",
-    "paperSource": "arxiv",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "ブレイン・コンピュータ・インターフェース(BCI)",
-      "クローズドループ制御"
-    ],
-    "abstractExcerpt": "Closed-loop brain-computer interfaces often require both a forecast of upcoming neural population activity and a readout of the animal's behavioral state. A single Mamba forecaster, trained only on next-step spike counts at Neuropixels…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.12999/2605.12999v1/figures/figure_pipeline.png",
-      "https://arxiv.org/html/2605.12999/2605.12999v1/x1.png",
-      "https://arxiv.org/html/2605.12999/2605.12999v1/x2.png"
     ]
   }
 ]

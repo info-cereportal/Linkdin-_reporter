@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T06:39:28.508Z",
+  "generatedAt": "2026-05-22T11:37:37.222Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -118,6 +118,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists discover simple way to relieve arthritis pain without pills or surgery",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260522031135.htm",
+          "publishedDate": "Fri, 22 May 2026 07:07:58 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A surprisingly simple walking tweak may offer new hope for millions living with knee osteoarthritis. In a year-long clinical trial, researchers found that slightly changing the angle of a person’s foot while walking reduced knee pain as…",
+          "authors": ""
+        },
+        {
+          "title": "A federal office of men’s health has never been closer, yet it’s likely still years away",
+          "url": "https://www.statnews.com/2026/05/22/state-of-mens-health-act-new-office-slowed/?utm_campaign=rss",
+          "publishedDate": "Fri, 22 May 2026 10:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "Supporters worry that a men’s health office created by the Trump administration risks being dismantled by a future Democratic president",
+          "authors": "Annalisa Merelli"
+        },
+        {
+          "title": "Popular weight loss drugs like Wegovy may also target arthritis inflammation",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260521072408.htm",
+          "publishedDate": "Fri, 22 May 2026 02:12:43 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers have discovered that the GLP-1 hormone targeted by drugs like Wegovy is present in very low amounts inside the joints of arthritis patients. That finding suggests high-dose GLP-1 medications could potentially reach the joints…",
+          "authors": ""
+        },
+        {
           "title": "“Zombie cells” aren’t always bad and that could transform anti-aging medicine",
           "url": "https://www.sciencedaily.com/releases/2026/05/260521072402.htm",
           "publishedDate": "Fri, 22 May 2026 00:28:12 EDT",
@@ -140,30 +164,6 @@
           "source": "statnews.com",
           "summary": "Besides showing skepticism on the budget, senators grilled the NIH director about a leadership vacuum, two viral outbreaks, and the pace of funding.",
           "authors": "Anil Oza"
-        },
-        {
-          "title": "STAT+: RFK Jr.’s screen time warning",
-          "url": "https://www.statnews.com/2026/05/21/rfk-jr-s-screen-time-warning/?utm_campaign=rss",
-          "publishedDate": "Thu, 21 May 2026 16:43:27 +0000",
-          "source": "statnews.com",
-          "summary": "RFK Jr. is urging limits on how much screen time kids get, in a new government advisory.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "STAT+: Acting head of NIH’s infectious disease institute reported to have stepped down",
-          "url": "https://www.statnews.com/2026/05/21/nih-niaid-jeffrey-taubenberger-exit/?utm_campaign=rss",
-          "publishedDate": "Thu, 21 May 2026 14:48:36 +0000",
-          "source": "statnews.com",
-          "summary": "Jeffery Taubenberger, the acting head of the NIAID, the NIH’s infectious disease institute, is reported to have stepped down.",
-          "authors": "Helen Branswell and Anil Oza"
-        },
-        {
-          "title": "STAT+: Elevance executive ordered to testify in Medicare Advantage fraud case",
-          "url": "https://www.statnews.com/2026/05/21/elevance-medicare-advantage-fraud-case-peter-haytaian-deposition/?utm_campaign=rss",
-          "publishedDate": "Thu, 21 May 2026 14:33:20 +0000",
-          "source": "statnews.com",
-          "summary": "The DOJ alleges Elevance fraudulently billed the government for inaccurate medical diagnoses.",
-          "authors": "Bob Herman"
         }
       ]
     },
