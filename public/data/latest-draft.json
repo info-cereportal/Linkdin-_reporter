@@ -1,26 +1,29 @@
 {
-  "generatedAt": "2026-05-22T11:37:36.985Z",
+  "generatedAt": "2026-05-22T14:14:54.670Z",
   "date": "2026-05-22",
-  "topic": "学習",
+  "topic": "自由エネルギー原理と生物学的妥当性",
   "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior",
-  "paperLink": "https://arxiv.org/abs/2502.20349",
-  "figureUrl": "https://arxiv.org/html/2502.20349/2502.20349v4/x1.png",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習\n\n> How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace experiments with increasingly naturalistic...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n脳情報科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior\n🔗 https://arxiv.org/abs/2502.20349\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #神経科学",
-  "summaryJP": "学習 — 脳科学とAIをつなぐ研究",
-  "paperAuthors": "Wilka Carvalho, Andrew Lampinen",
+  "paperTitle": "Self-orthogonalizing attractor neural networks emerging from the free energy principle",
+  "paperLink": "https://arxiv.org/abs/2505.22749",
+  "figureUrl": "https://arxiv.org/html/2505.22749/2505.22749v2/fig/schematics.png",
+  "formatted": "この研究データ、知らないままでいいですか？\n\n脳科学とAI——その境界線が消えつつある。\n\n自由エネルギー原理と生物学的妥当性に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 自由エネルギー原理 × 生物学的妥当性 × 能動推論 × 学習\n\n📊 注目すべきデータ：\n→ Our findings offer a unifying theory of self-organizing attractor networks, providing novel insights for AI and neuroscience.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Self-orthogonalizing attractor neural networks emerging from the free energy principle\n🔗 https://arxiv.org/abs/2505.22749\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #BrainComputerInterface",
+  "summaryJP": "自由エネルギー原理と生物学的妥当性 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+  "paperAuthors": "Tamas Spisak, Karl Friston",
   "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-  "paperId": "2502.20349",
+  "paperId": "2505.22749",
   "paperSource": "arxiv",
-  "themeArea": "脳情報科学",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
+    "自由エネルギー原理",
+    "生物学的妥当性",
+    "能動推論",
     "学習"
   ],
-  "abstractExcerpt": "How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace…",
+  "abstractExcerpt": "Attractor dynamics are a hallmark of many complex systems, including the brain. Understanding how such self-organizing dynamics emerge from first principles is crucial for advancing our understanding of neuronal computations and the design…",
   "figureUrls": [
-    "https://arxiv.org/html/2502.20349/2502.20349v4/x1.png",
-    "https://arxiv.org/html/2502.20349/2502.20349v4/x2.png",
-    "https://arxiv.org/html/2502.20349/2502.20349v4/x4.png"
+    "https://arxiv.org/html/2505.22749/2505.22749v2/fig/schematics.png",
+    "https://arxiv.org/html/2505.22749/2505.22749v2/fig/concept.png",
+    "https://arxiv.org/html/2505.22749/2505.22749v2/fig/parametrization.png"
   ]
 }

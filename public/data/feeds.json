@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T11:37:37.222Z",
+  "generatedAt": "2026-05-22T14:14:55.082Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "A CDC page on mpox caught in political crosshairs",
+          "url": "https://www.statnews.com/2026/05/22/health-news-cdc-mpox-page-caught-in-political-crosshairs/?utm_campaign=rss",
+          "publishedDate": "Fri, 22 May 2026 13:14:29 +0000",
+          "source": "statnews.com",
+          "summary": "Seed oil panic, how STIs spread, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
           "title": "STAT+: Merck-Kelun lung cancer drug cut risk of tumor progression by 65%, ASCO abstract shows",
           "url": "https://www.statnews.com/2026/05/21/merck-kelun-sac-tmt-lung-cancer-drug-trial-results/?utm_campaign=rss",
           "publishedDate": "Thu, 21 May 2026 21:00:00 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "A public health advisory calls on parents, schools, and government to limit children's use of screens, saying some patterns of use “can pose real harm to children.”",
           "authors": "Chelsea Cirruzzo and Daniel Payne"
-        },
-        {
-          "title": "STAT+: Scientists track cellular disruptions that lead to type 1 diabetes",
-          "url": "https://www.statnews.com/2026/05/20/type-1-diabetes-early-molecular-clues-science-translational-medicine/?utm_campaign=rss",
-          "publishedDate": "Wed, 20 May 2026 18:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "Growing evidence suggests it takes a sustained viral infection in the right genetic environment to lead to type 1 diabetes.",
-          "authors": "Elizabeth Cooney"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
+          "publishedDate": "Fri, 22 May 2026 08:33:40 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Getting enough vitamin B12 to meet current health guidelines may not actually be enough to protect the aging brain. Researchers at UC San Francisco found that older adults with “normal” but lower levels of active B12 showed signs of slower…",
+          "authors": ""
+        },
         {
           "title": "Scientists discover simple way to relieve arthritis pain without pills or surgery",
           "url": "https://www.sciencedaily.com/releases/2026/05/260522031135.htm",
@@ -156,14 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "A new theory suggests many age-related diseases may actually start decades before symptoms appear. Researchers say early-life damage — from infections, injuries, or genetic mutations — can remain hidden until aging weakens the body’s…",
           "authors": ""
-        },
-        {
-          "title": "STAT+: 3 burning questions senators had for the NIH director",
-          "url": "https://www.statnews.com/2026/05/21/nih-budget-hearing-3-questions-director-jay-bhattacharya/?utm_campaign=rss",
-          "publishedDate": "Thu, 21 May 2026 21:06:46 +0000",
-          "source": "statnews.com",
-          "summary": "Besides showing skepticism on the budget, senators grilled the NIH director about a leadership vacuum, two viral outbreaks, and the pace of funding.",
-          "authors": "Anil Oza"
         }
       ]
     },
