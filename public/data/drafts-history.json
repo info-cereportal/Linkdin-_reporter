@@ -1,5 +1,27 @@
 [
   {
+    "generatedAt": "2026-05-23T05:58:29.001Z",
+    "date": "2026-05-23",
+    "topic": "深層学習と学習",
+    "templateName": "provocative-question",
+    "riskScore": 0,
+    "paperTitle": "Physics-informed DynUNet for brain metastasis segmentation.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42172695/",
+    "formatted": "深層学習と学習について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 深層学習 × 学習\n\n📊 注目すべきデータ：\n→ In neuro-oncology, detecting, segmenting, and delineating the boundaries of small-volume brain metastatic foci remains a significant challenge.\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかしニューロAI・計算論の文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Physics-informed DynUNet for brain metastasis segmentation.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42172695/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #ニューロテック",
+    "summaryJP": "深層学習と学習 — 常識への問題提起（ニューロAI・計算論）",
+    "paperAuthors": "Murat G&#xfc;zel, &#xd6;mer Kaan Baykan",
+    "publishedDate": "2026-05-22",
+    "paperId": "42172695",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "深層学習",
+      "学習"
+    ],
+    "abstractExcerpt": "In neuro-oncology, detecting, segmenting, and delineating the boundaries of small-volume brain metastatic foci remains a significant challenge. The lack of explicit biological information on metastasis growth and spread in standard deep…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-05-23T02:01:07.982Z",
     "date": "2026-05-23",
     "topic": "学習",
@@ -1320,32 +1342,6 @@
       "https://arxiv.org/html/2605.10947/2605.10947v2/images/Late_breaking_work-Page-2.drawio.png",
       "https://arxiv.org/html/2605.10947/2605.10947v2/images/fig_cube_clean_sil.png",
       "https://arxiv.org/html/2605.10947/2605.10947v2/images/fig_cube_clean_db.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-15T21:49:18.440Z",
-    "date": "2026-05-15",
-    "topic": "言語処理",
-    "templateName": "future-vision",
-    "riskScore": 0,
-    "paperTitle": "Do Language Models Align with Brains? Prediction Scores Are Not Enough",
-    "paperLink": "https://arxiv.org/abs/2605.14025",
-    "figureUrl": "https://arxiv.org/html/2605.14025/2605.14025v1/x1.png",
-    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n言語処理の最新研究です。\n\n🔬 言語処理\n\n> Brain-language model comparisons often interpret neural prediction scores as evidence that model representations capture brain-relevant language computation. We asked whether language models align with brains, and whether prediction scores are enough to support that claim, using...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Do Language Models Align with Brains? Prediction Scores Are Not Enough\n🔗 https://arxiv.org/abs/2605.14025\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #計算論的神経科学",
-    "summaryJP": "言語処理 — 次世代へ続く布石（神経デコーディング）",
-    "paperAuthors": "Xiao Jia",
-    "publishedDate": "Fri, 15 May 2026 00:00:00 -0400",
-    "paperId": "2605.14025",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "言語処理"
-    ],
-    "abstractExcerpt": "Brain-language model comparisons often interpret neural prediction scores as evidence that model representations capture brain-relevant language computation. We asked whether language models align with brains, and whether prediction scores…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.14025/2605.14025v1/x1.png",
-      "https://arxiv.org/html/2605.14025/2605.14025v1/x2.png",
-      "https://arxiv.org/html/2605.14025/2605.14025v1/x3.png"
     ]
   }
 ]

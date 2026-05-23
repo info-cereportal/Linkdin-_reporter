@@ -1,26 +1,22 @@
 {
-  "generatedAt": "2026-05-23T02:01:07.982Z",
+  "generatedAt": "2026-05-23T05:58:29.001Z",
   "date": "2026-05-23",
-  "topic": "学習",
+  "topic": "深層学習と学習",
   "templateName": "provocative-question",
   "riskScore": 0,
-  "paperTitle": "Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior",
-  "paperLink": "https://arxiv.org/abs/2502.20349",
-  "figureUrl": "https://arxiv.org/html/2502.20349/2502.20349v4/x1.png",
-  "formatted": "学習について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 学習\n\n> How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace experiments with increasingly naturalistic...\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかし脳情報科学の文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior\n🔗 https://arxiv.org/abs/2502.20349\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #NeuroAI",
-  "summaryJP": "学習 — 常識への問題提起",
-  "paperAuthors": "Wilka Carvalho, Andrew Lampinen",
-  "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-  "paperId": "2502.20349",
-  "paperSource": "arxiv",
-  "themeArea": "脳情報科学",
+  "paperTitle": "Physics-informed DynUNet for brain metastasis segmentation.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42172695/",
+  "formatted": "深層学習と学習について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 深層学習 × 学習\n\n📊 注目すべきデータ：\n→ In neuro-oncology, detecting, segmenting, and delineating the boundaries of small-volume brain metastatic foci remains a significant challenge.\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかしニューロAI・計算論の文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Physics-informed DynUNet for brain metastasis segmentation.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42172695/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #ニューロテック",
+  "summaryJP": "深層学習と学習 — 常識への問題提起（ニューロAI・計算論）",
+  "paperAuthors": "Murat G&#xfc;zel, &#xd6;mer Kaan Baykan",
+  "publishedDate": "2026-05-22",
+  "paperId": "42172695",
+  "paperSource": "pubmed",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
+    "深層学習",
     "学習"
   ],
-  "abstractExcerpt": "How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace…",
-  "figureUrls": [
-    "https://arxiv.org/html/2502.20349/2502.20349v4/x1.png",
-    "https://arxiv.org/html/2502.20349/2502.20349v4/x2.png",
-    "https://arxiv.org/html/2502.20349/2502.20349v4/x4.png"
-  ]
+  "abstractExcerpt": "In neuro-oncology, detecting, segmenting, and delineating the boundaries of small-volume brain metastatic foci remains a significant challenge. The lack of explicit biological information on metastasis growth and spread in standard deep…",
+  "figureUrls": []
 }

@@ -1,61 +1,12 @@
 {
-  "generatedAt": "2026-05-23T02:01:08.677Z",
+  "generatedAt": "2026-05-23T05:58:29.251Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Canonical Functionalism: Defining Functional Structure without Observer-Relative Semantic Maps",
-          "url": "https://arxiv.org/abs/2605.21506",
-          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Computational functionalism about consciousness is often criticized for relying on observer-relative interpretations of physical systems. This paper proposes a mathematical refinement of functionalism that avoids this problem. The central…",
-          "authors": "Ryota Kanai, Shuqin Ma"
-        },
-        {
-          "title": "Learning sequence timing and control of replay speed in networks of spiking neurons",
-          "url": "https://arxiv.org/abs/2605.22523",
-          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Processing sequential inputs is a fundamental brain function, underlying tasks such as sensory perception, language, and motor control. A challenge in sequence processing is to represent not only the order of events, but also their precise…",
-          "authors": "Melissa Lober, Younes Bouhadjar, Markus Diesmann, Tom Tetzlaff"
-        },
-        {
-          "title": "Efficient coding under constraint drives neural systems towards criticality and sloppiness",
-          "url": "https://arxiv.org/abs/2605.22598",
-          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "It is widely accepted that the brain operates near a critical state, characterized by neural avalanches that follow power-law distributions. However, the functional rationale for why neural systems attain criticality remains unclear. Here,…",
-          "authors": "He Xiao, Xinyue Zhao, Weikang Wang"
-        },
-        {
-          "title": "Cross-Species RSA Reveals Conserved Early Visual Alignment but Divergent Higher-Area Rankings Across Human fMRI and Macaque Electrophysiology",
-          "url": "https://arxiv.org/abs/2605.22401",
-          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Does the relationship between learning rules and brain alignment generalize across species? We extend our prior finding that untrained CNNs match backpropagation at human V1 by testing the same five learning rules against macaque…",
-          "authors": "Nils Leutenegger"
-        },
-        {
-          "title": "Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior",
-          "url": "https://arxiv.org/abs/2502.20349",
-          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace…",
-          "authors": "Wilka Carvalho, Andrew Lampinen"
-        },
-        {
-          "title": "Self-orthogonalizing attractor neural networks emerging from the free energy principle",
-          "url": "https://arxiv.org/abs/2505.22749",
-          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Attractor dynamics are a hallmark of many complex systems, including the brain. Understanding how such self-organizing dynamics emerge from first principles is crucial for advancing our understanding of neuronal computations and the design…",
-          "authors": "Tamas Spisak, Karl Friston"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -170,64 +121,63 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Temporal Coding as a Substrate for Sensorimotor Object Inference: A Spiking Reinterpretation of Thousand Brains Architecture",
-          "url": "https://arxiv.org/abs/2605.22206",
-          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The Thousand Brains Theory (TBT) and its open-source Monty framework model object recognition through sensorimotor inference -- identifying objects by actively moving a sensor across their surface and building evidence contact by contact.…",
-          "authors": "Joy Bose"
-        },
-        {
-          "title": "Guiding Multi-Objective Genetic Programming with Description Length Improves Symbolic Regression Solutions",
-          "url": "https://arxiv.org/abs/2605.22374",
-          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Symbolic regression with genetic programming (GPSR) may suffer from overfitting and structural bloat, especially when noise is present. In this paper we evaluate description length (DL) and fractional Bayes factor (FBF) criteria as…",
-          "authors": "Gabriel Kronberger, Fabricio Olivetti de Franca, Deaglan J. Bartlett, Harry Desmond, Pedro G. Ferreira"
-        },
-        {
-          "title": "Quantum Genetic Optimization for Negative Selection Algorithms in Anomaly Detection",
-          "url": "https://arxiv.org/abs/2605.22527",
-          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Negative Selection Algorithms (NSAs), inspired by the self/non-self discrimination mechanism of the human immune system, have been widely employed in anomaly detection. However, their effectiveness is often constrained by the efficiency of…",
-          "authors": "Giancarlo P. Gamberi, Calebe P. Bianchini"
-        },
-        {
-          "title": "Canonical Functionalism: Defining Functional Structure without Observer-Relative Semantic Maps",
-          "url": "https://arxiv.org/abs/2605.21506",
-          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Computational functionalism about consciousness is often criticized for relying on observer-relative interpretations of physical systems. This paper proposes a mathematical refinement of functionalism that avoids this problem. The central…",
-          "authors": "Ryota Kanai, Shuqin Ma"
-        },
-        {
-          "title": "Dropout Universality: Scaling Laws and Optimal Scheduling at the Edge-of-Chaos",
-          "url": "https://arxiv.org/abs/2605.21648",
-          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We develop a mean-field theory of dropout as a perturbation of critical signal propagation at the edge of chaos. Dropout shifts the perfect-alignment fixed point, making the depth scale for information propagation finite even at critical…",
-          "authors": "Lucas Fernandez Sarmiento"
-        },
-        {
-          "title": "Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review",
-          "url": "https://arxiv.org/abs/2605.21903",
-          "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The integration of machine learning with domain-specific physics is transforming the design, monitoring, and control of electricity systems, where data scarcity, limited interpretability, and the need to enforce physical laws constrain…",
-          "authors": "Joseph Nyangon"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
+        },
+        {
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
+        }
+      ]
     }
   }
 }
