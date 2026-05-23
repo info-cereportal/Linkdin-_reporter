@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T12:58:55.154Z",
+  "generatedAt": "2026-05-23T15:54:20.524Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,6 +69,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists warn popular vitamin D supplement may have a “previously unknown” downside",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260523021820.htm",
+          "publishedDate": "Sat, 23 May 2026 10:38:26 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A surprising study suggests vitamin D2 supplements may reduce the body’s levels of vitamin D3 — the more effective form of vitamin D. Researchers found D3 not only boosts vitamin D status more efficiently, but may also play a unique role…",
+          "authors": ""
+        },
+        {
+          "title": "Wegovy linked to rare “eye stroke” that can cause sudden blindness",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260522023134.htm",
+          "publishedDate": "Sat, 23 May 2026 09:23:30 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new analysis is raising concerns about Wegovy, the blockbuster weight-loss drug, after researchers found it may carry the highest risk of a rare “eye stroke” that can cause sudden vision loss. The study, based on millions of FDA…",
+          "authors": ""
+        },
+        {
+          "title": "New AI body map reveals obesity’s hidden attack on facial nerves",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260522023308.htm",
+          "publishedDate": "Sat, 23 May 2026 08:34:45 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have created an AI-powered system that can scan and map an entire mouse body in extraordinary detail — and it just uncovered a surprising new effect of obesity. Beyond disrupting metabolism, obesity appears to damage facial…",
+          "authors": ""
+        },
+        {
           "title": "STAT+: Congress slashed Medicaid funding to providers. The Trump administration wants to cut even further",
           "url": "https://www.statnews.com/2026/05/22/medicaid-state-directed-payments-trump-proposes-more-cuts/?utm_campaign=rss",
           "publishedDate": "Fri, 22 May 2026 17:19:15 +0000",
@@ -91,30 +115,6 @@
           "source": "sciencedaily.com",
           "summary": "A new clinical trial suggests that eating beef every day may not be as risky for people with prediabetes as many assume. Researchers found that adults who ate 6–7 ounces of beef daily for a month showed no worsening in blood sugar control,…",
           "authors": ""
-        },
-        {
-          "title": "Scientists warn that current vitamin B12 guidelines may be putting your brain at risk",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260522031001.htm",
-          "publishedDate": "Fri, 22 May 2026 08:33:40 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Getting enough vitamin B12 to meet current health guidelines may not actually be enough to protect the aging brain. Researchers at UC San Francisco found that older adults with “normal” but lower levels of active B12 showed signs of slower…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover simple way to relieve arthritis pain without pills or surgery",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260522031135.htm",
-          "publishedDate": "Fri, 22 May 2026 07:07:58 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A surprisingly simple walking tweak may offer new hope for millions living with knee osteoarthritis. In a year-long clinical trial, researchers found that slightly changing the angle of a person’s foot while walking reduced knee pain as…",
-          "authors": ""
-        },
-        {
-          "title": "A federal office of men’s health has never been closer, yet it’s likely still years away",
-          "url": "https://www.statnews.com/2026/05/22/state-of-mens-health-act-new-office-slowed/?utm_campaign=rss",
-          "publishedDate": "Fri, 22 May 2026 10:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "Supporters worry that a men’s health office created by the Trump administration risks being dismantled by a future Democratic president",
-          "authors": "Annalisa Merelli"
         }
       ]
     },
