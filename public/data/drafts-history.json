@@ -1,5 +1,29 @@
 [
   {
+    "generatedAt": "2026-05-24T06:27:28.510Z",
+    "date": "2026-05-24",
+    "topic": "学習と畳み込みニューラルネットワーク(CNN)",
+    "templateName": "paradigm-shift",
+    "riskScore": 0,
+    "paperTitle": "Architecture-Specific Impact of Preprocessing on Machine Learning Models for ECG Classification.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42174902/",
+    "formatted": "学習と畳み込みニューラルネットワーク(CNN)に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 学習 × 畳み込みニューラルネットワーク(CNN) × 深層学習 × Transformer\n\n> Automated analysis of electrocardiograms relies increasingly on deep learning models. In these models, preprocessing steps may often be applied under the assumption that they inherently improve performance.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Architecture-Specific Impact of Preprocessing on Machine Learning Models for ECG Classification.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42174902/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #ニューロテック",
+    "summaryJP": "学習と畳み込みニューラルネットワーク(CNN) — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
+    "paperAuthors": "Lucas Bickmann, Lucas Plagwitz, Antonius B&#xfc;scher, Julian Varghese",
+    "publishedDate": "2026-05-23",
+    "paperId": "42174902",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "学習",
+      "畳み込みニューラルネットワーク(CNN)",
+      "深層学習",
+      "Transformer"
+    ],
+    "abstractExcerpt": "Automated analysis of electrocardiograms relies increasingly on deep learning models. In these models, preprocessing steps may often be applied under the assumption that they inherently improve performance. This study investigates the…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-05-24T02:10:29.557Z",
     "date": "2026-05-24",
     "topic": "学習と畳み込みニューラルネットワーク(CNN)",
@@ -1313,30 +1337,6 @@
       "学習"
     ],
     "abstractExcerpt": "The galloping movement toward completely renewable power systems means that new control architectures are needed that can cope with increased variability to date whilst maintaining short-lived stability in low-inertia networks. This paper…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-16T21:39:26.313Z",
-    "date": "2026-05-16",
-    "topic": "深層学習と注意機構",
-    "templateName": "neuro-ai-bridge",
-    "riskScore": 0,
-    "paperTitle": "Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model (CAGE-Fusion).",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42141488/",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n深層学習と注意機構に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 深層学習 × 注意機構 × 学習 × PET\n\n📊 注目すべきデータ：\n→ CAGE-Fusion demonstrates competitive predictive performance across several MoleculeNet benchmarks and achieves a macro-averaged PR-AUC of 0.73 and ROC-AUC of 0.94 on a...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Deep learning for assay nuisance compound detection using a gated co-attention graph embedding model (CAGE-Fusion).\n🔗 https://pubmed.ncbi.nlm.nih.gov/42141488/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #計算論的神経科学",
-    "summaryJP": "深層学習と注意機構 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
-    "paperAuthors": "Siddhant Rath, Saswati Panda, Steven J Berthel, Kelsey Briggs, James C Sacchettini",
-    "publishedDate": "2026-05-15",
-    "paperId": "42141488",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "深層学習",
-      "注意機構",
-      "学習",
-      "PET"
-    ],
-    "abstractExcerpt": "In drug discovery, nuisance compounds are chemicals that interfere with biochemical or cell-based assays, often generating misleading signals unrelated to true activity. These molecules operate through diverse, context-dependent…",
     "figureUrls": []
   }
 ]
