@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T10:25:49.711Z",
+  "generatedAt": "2026-05-24T12:59:21.567Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,51 +69,51 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Surprising research reveals why you shouldn&#039;t add bananas to your smoothies",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260524020950.htm",
+          "publishedDate": "Sun, 24 May 2026 08:48:32 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers found that adding bananas to berry smoothies can dramatically reduce the body’s ability to absorb healthy flavanols. The surprising discovery shows that even simple food combinations can change how much nutrition your body…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists say house cats could help unlock new cancer treatments for humans",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260523103943.htm",
+          "publishedDate": "Sun, 24 May 2026 08:35:15 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have cracked open the “black box” of feline cancer in a landmark study that genetically analyzed nearly 500 cat tumors from around the world. The research uncovered striking similarities between cancers in cats, dogs, and humans…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists “recharge” damaged nerves to ease chronic pain",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260523103950.htm",
+          "publishedDate": "Sun, 24 May 2026 07:51:53 EDT",
+          "source": "sciencedaily.com",
+          "summary": "For millions battling chronic nerve pain, even the softest touch can feel agonizing — but scientists may have uncovered a radically new way to stop it at the source. Researchers at Duke University found that damaged nerves can be revived…",
+          "authors": ""
+        },
+        {
+          "title": "AI scans 400,000 Reddit posts and finds hidden Ozempic side effects",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260523103914.htm",
+          "publishedDate": "Sun, 24 May 2026 07:30:31 EDT",
+          "source": "sciencedaily.com",
+          "summary": "By analyzing over 400,000 Reddit posts, researchers discovered that users of popular GLP-1 weight-loss drugs frequently discussed unexpected symptoms like menstrual irregularities, chills, and hot flashes. The findings suggest AI could…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover hidden driver of aging — Simple supplement reversed brain decline",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260524012959.htm",
+          "publishedDate": "Sun, 24 May 2026 01:40:19 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A newly identified brain protein may play a major role in how the body ages. Researchers discovered that declining levels of Menin in the hypothalamus triggered inflammation, memory problems, bone loss, and other aging-related changes in…",
+          "authors": ""
+        },
+        {
           "title": "Scientists warn popular vitamin D supplement may have a “previously unknown” downside",
           "url": "https://www.sciencedaily.com/releases/2026/05/260523021820.htm",
           "publishedDate": "Sat, 23 May 2026 10:38:26 EDT",
           "source": "sciencedaily.com",
           "summary": "A surprising study suggests vitamin D2 supplements may reduce the body’s levels of vitamin D3 — the more effective form of vitamin D. Researchers found D3 not only boosts vitamin D status more efficiently, but may also play a unique role…",
-          "authors": ""
-        },
-        {
-          "title": "Wegovy linked to rare “eye stroke” that can cause sudden blindness",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260522023134.htm",
-          "publishedDate": "Sat, 23 May 2026 09:23:30 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new analysis is raising concerns about Wegovy, the blockbuster weight-loss drug, after researchers found it may carry the highest risk of a rare “eye stroke” that can cause sudden vision loss. The study, based on millions of FDA…",
-          "authors": ""
-        },
-        {
-          "title": "New AI body map reveals obesity’s hidden attack on facial nerves",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260522023308.htm",
-          "publishedDate": "Sat, 23 May 2026 08:34:45 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have created an AI-powered system that can scan and map an entire mouse body in extraordinary detail — and it just uncovered a surprising new effect of obesity. Beyond disrupting metabolism, obesity appears to damage facial…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Congress slashed Medicaid funding to providers. The Trump administration wants to cut even further",
-          "url": "https://www.statnews.com/2026/05/22/medicaid-state-directed-payments-trump-proposes-more-cuts/?utm_campaign=rss",
-          "publishedDate": "Fri, 22 May 2026 17:19:15 +0000",
-          "source": "statnews.com",
-          "summary": "The Trump administration disclosed plans to reduce state directed payments even more, setting up a probable showdown with provider groups.",
-          "authors": "Tara Bannow"
-        },
-        {
-          "title": "Scientists uncover cancer-causing chemicals hidden in everyday foods",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260522030853.htm",
-          "publishedDate": "Fri, 22 May 2026 10:46:22 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have identified potentially cancer-causing chemicals hiding in many everyday foods, especially those exposed to high heat cooking methods like grilling, roasting, smoking, and frying. The compounds, known as PAHs, can form…",
-          "authors": ""
-        },
-        {
-          "title": "Surprising study finds beef doesn’t worsen blood sugar or diabetes risk",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260521072416.htm",
-          "publishedDate": "Fri, 22 May 2026 10:39:24 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new clinical trial suggests that eating beef every day may not be as risky for people with prediabetes as many assume. Researchers found that adults who ate 6–7 ounces of beef daily for a month showed no worsening in blood sugar control,…",
           "authors": ""
         }
       ]
