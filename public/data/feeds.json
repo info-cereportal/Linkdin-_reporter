@@ -1,12 +1,61 @@
 {
-  "generatedAt": "2026-05-25T02:29:14.944Z",
+  "generatedAt": "2026-05-25T07:02:09.616Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Active Sensing Subserves Task-Level Control",
+          "url": "https://arxiv.org/abs/2605.22988",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Active sensing is traditionally defined as the expenditure of energy, typically in the form of movement, for obtaining information. Here, we propose that the combination of reliance on adaptive sensors, the linkage between movement and…",
+          "authors": "Andrew Lamperski, Debojyoti Biswas, Eric S. Fortune, John Guckenheimer, Kathleen Hoffman, Noah J. Cowan"
+        },
+        {
+          "title": "Integrating Cognitive Load and Embodied Cognition Theories Through Representations as Multi-Scale Attractors",
+          "url": "https://arxiv.org/abs/2605.23012",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "This article proposes a formal rapprochement between cognitive load theory and embodied cognition by reconceptualizing psychological representations as dynamic multiscale attractors within a temporal-hierarchical prediction architecture.…",
+          "authors": "David C. Gibson, Mary Elizabeth Azukas, Meryem Yilmaz Soylu"
+        },
+        {
+          "title": "Contextual Role Modulates Object Representational Geometry in the Human Brain",
+          "url": "https://arxiv.org/abs/2605.23111",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The human brain represents objects in a way that is both invariant across instances and flexible enough to support different contexts and tasks. Yet it remains unknown how object representations are dynamically remapped as the same object…",
+          "authors": "Julien Dirani, Shankar Chawla, Leila Wehbe, Bradford Z. Mahon"
+        },
+        {
+          "title": "Beyond Neural Activity Prediction: Probing Latent Representations in Mouse V1 Digital Twins",
+          "url": "https://arxiv.org/abs/2605.23122",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Digital twins of sensory cortex serve as powerful response oracles. Although prediction accuracy is the central metric by which these models are evaluated, it provides limited insight into the latent representations that support those…",
+          "authors": "Adriano Lima, Yuchen Hou, Michael Beyeler, Marius Schneider"
+        },
+        {
+          "title": "GazeBehavior Annotation Toolkit (GBAT): AI-powered toolkit for automatic annotation of egocentric eye-tracking and video data of child-caregiver interaction",
+          "url": "https://arxiv.org/abs/2605.22962",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Video recordings of child-caregiver interactions enable investigation of attentional dynamics during naturalistic behavior. Such multimodal recording also allows researchers to examine how attention interacts with action and language use…",
+          "authors": "Iba Baig, Kevin Li, Yanbin Xu, Seiji Cattelain, Marie Hallo, Hayato Ono, Sho Tsuji, Ming Bo Cai"
+        },
+        {
+          "title": "Brain-LLM Alignment Tracks Training Data, Not Typology",
+          "url": "https://arxiv.org/abs/2605.23032",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Brain-LLM alignment is well established in English, yet the brain's language network is neuroanatomically universal across languages. Does alignment also generalize cross-linguistically, and what governs the variation? We test this using…",
+          "authors": "Dongxin Guo, Jikun Wu, Siu Ming Yiu"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -69,6 +118,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Beet juice lowers blood pressure in older adults in just 2 weeks",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260524021154.htm",
+          "publishedDate": "Mon, 25 May 2026 01:01:09 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Drinking nitrate-rich beetroot juice may do more than support heart health — it could actually reshape the bacteria living in the mouth in ways that help lower blood pressure in older adults. In the largest study of its kind, researchers…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists supercharge natural killer cells to fight aggressive cancers",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260523103910.htm",
+          "publishedDate": "Sun, 24 May 2026 23:03:20 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists at McGill University have found a way to supercharge the immune system’s natural killer (NK) cells, helping them break through the defenses tumors use to stay alive. By temporarily blocking two proteins, researchers turned these…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover hidden liver switch that cuts harmful cholesterol",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260523103947.htm",
+          "publishedDate": "Sun, 24 May 2026 22:52:23 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists at UT Southwestern have uncovered a surprising new “master switch” that helps control how much cholesterol the liver sends into the bloodstream. The newly identified protein, HELZ2, works by shutting down the genetic…",
+          "authors": ""
+        },
+        {
           "title": "Surprising research reveals why you shouldn&#039;t add bananas to your smoothies",
           "url": "https://www.sciencedaily.com/releases/2026/05/260524020950.htm",
           "publishedDate": "Sun, 24 May 2026 08:48:32 EDT",
@@ -91,91 +164,92 @@
           "source": "sciencedaily.com",
           "summary": "For millions battling chronic nerve pain, even the softest touch can feel agonizing — but scientists may have uncovered a radically new way to stop it at the source. Researchers at Duke University found that damaged nerves can be revived…",
           "authors": ""
-        },
-        {
-          "title": "AI scans 400,000 Reddit posts and finds hidden Ozempic side effects",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260523103914.htm",
-          "publishedDate": "Sun, 24 May 2026 07:30:31 EDT",
-          "source": "sciencedaily.com",
-          "summary": "By analyzing over 400,000 Reddit posts, researchers discovered that users of popular GLP-1 weight-loss drugs frequently discussed unexpected symptoms like menstrual irregularities, chills, and hot flashes. The findings suggest AI could…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover hidden driver of aging — Simple supplement reversed brain decline",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260524012959.htm",
-          "publishedDate": "Sun, 24 May 2026 01:40:19 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A newly identified brain protein may play a major role in how the body ages. Researchers discovered that declining levels of Menin in the hypothalamus triggered inflammation, memory problems, bone loss, and other aging-related changes in…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists warn popular vitamin D supplement may have a “previously unknown” downside",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260523021820.htm",
-          "publishedDate": "Sat, 23 May 2026 10:38:26 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A surprising study suggests vitamin D2 supplements may reduce the body’s levels of vitamin D3 — the more effective form of vitamin D. Researchers found D3 not only boosts vitamin D status more efficiently, but may also play a unique role…",
-          "authors": ""
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "SpikingMoE: SDPrompt-Guided Dynamic Expert Fusion in Spiking Neural Networks",
+          "url": "https://arxiv.org/abs/2605.23188",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Spiking Neural Networks (SNNs) provide an energy-efficient paradigm for visual recognition. We present SpikingMoE, which integrates a spike-driven Transformer with a Mixture-of-Experts (MoE) framework for dynamic computation. Inspired by…",
+          "authors": "Yukai Yang, Chenxi Qin, Jungang Li, Xin Zhang, Wenwei Shao, Liqun Chen"
+        },
+        {
+          "title": "UniSpike: Accelerating Spiking Neural Networks on Neuromorphic Systems via Eliminating Address Redundancy",
+          "url": "https://arxiv.org/abs/2605.23796",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Many-core neuromorphic systems accelerate Spiking Neural Networks (SNNs), yet their packet-based spike communication can spend substantial traffic and energy repeatedly transmitting destination addresses. This overhead is amplified by the…",
+          "authors": "Qinghui Xing, Zhuo Chen, Xin Du, Ouwen Jin, Ming Zhang, Pan Lv, Ying Li, Shuiguang Deng, Gang Pan"
+        },
+        {
+          "title": "Preisach Attention: A Hysteretic Model of Sequential Memory",
+          "url": "https://arxiv.org/abs/2605.23603",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We introduce the Preisach Attention Layer (PAL), a novel sequence modelling architecture grounded in the classical Preisach hysteresis operator from mathematical physics. PAL replaces the softmax attention mechanism with a binary relay…",
+          "authors": "Piotr Frydrych"
+        },
+        {
+          "title": "Bridging Silicon and the Hippocampus: Algebro-Deterministic Memory \"VaCoAl\" as a Substrate for Vector-HaSH and TEM",
+          "url": "https://arxiv.org/abs/2605.15652",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Vector-HaSH and the Tolman-Eichenbaum Machine (TEM) propose the hippocampal-entorhinal circuit factorizes memory via a grid-cell scaffold for compositional replay. Concurrently, human iEEG shows sharp-wave ripples gate recall and multi-hop…",
+          "authors": "Hiroyuki Chuma, Kanji Otsuka, Yoichi Sato"
+        },
+        {
+          "title": "On the Infinite Width and Depth Limits of Predictive Coding Networks",
+          "url": "https://arxiv.org/abs/2602.07697",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Predictive coding (PC) is a biologically plausible alternative to standard backpropagation (BP) that minimises an energy function with respect to network activities before updating weights. Recent work has improved the training stability…",
+          "authors": "Francesco Innocenti, El Mehdi Achour, Rafal Bogacz"
+        },
+        {
+          "title": "Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders",
+          "url": "https://arxiv.org/abs/2605.13930",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "EEG foundation models achieve state-of-the-art clinical performance, yet the internal computations driving their predictions remain opaque: a barrier to clinical trust. We apply TopK Sparse Autoencoders (SAEs) across three architecturally…",
+          "authors": "William Lehn-Schiøler, Magnus Ruud Kjær, Rahul Thapa, Magnus Guldberg Pedersen, Anton Mosquera Storgaard, Nick Williams, Radu Gatej, Tue Lehn-Schiøler, Andreas Brink-Kjær, Sadasivan Puthusserypady, Sándor Beniczky, James Zou, Lars Kai Hansen"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 3,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
+          "title": "JointHRRP-Net: A Statistically Constrained Decoupling Network for Joint Target and Jamming Recognition in Composite Jamming",
+          "url": "https://arxiv.org/abs/2605.22857",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "High-resolution range profile (HRRP)-based radar automatic target recognition suffers from severe performance degradation in composite jamming environments. Active jamming introduces suppression- and deception-related components into the…",
+          "authors": "Yunfei Zhao, Mei Liu, Shuowei Liu, Xunzhang Gao, Yujie Zhou"
         },
         {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
+          "title": "Classification of IED-free EEG Responses for Assisted Epilepsy Diagnosis",
+          "url": "https://arxiv.org/abs/2605.22858",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Diagnosing epilepsy is challenging when routine EEGs lack interictal epileptiform discharges (IEDs). Intermittent photic stimulation (IPS) and hyperventilation (HV) can increase diagnostic yield, but their interpretation is subjective. We…",
+          "authors": "Giacomo Zanardini, Ryan Moesman, Paul van der Kleij, Robert van den Berg, Justin Dauwels"
         },
         {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "L-FAME: Longitudinal Focused Attention Meditation EEG Dataset and Benchmark",
+          "url": "https://arxiv.org/abs/2605.22893",
+          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We introduce a novel Longitudinal Focused Attention Meditation Electroencephalography (L-FAME) dataset and an accompanying benchmark, designed to foster research into the neural effects of various meditation practices and the evolution of…",
+          "authors": "Angqi Li, Ab Basit Rafi Syed, Hamzeh Alzweri, Taosheng Liu, Barry H. Cohen, Saiprasad Ravishankar"
         }
       ]
     }

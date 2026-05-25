@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-05-25T02:29:14.129Z",
+  "generatedAt": "2026-05-25T07:02:09.298Z",
   "date": "2026-05-25",
-  "topic": "深層学習と学習",
+  "topic": "fMRIとECoG(皮質脳波)",
   "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "Heterogeneous neural blind deconvolution: A signal processing-empowered foundation feature extractor for bearing fault diagnosis.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42176664/",
-  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、深層学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 深層学習 × 学習\n\n📊 注目すべきデータ：\n→ Extensive experiments and comparisons with state-of-the-art baselines clearly show the advantage of HBD in enhancing the accuracy and interpretablity for bearing fault diagnosis.\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Heterogeneous neural blind deconvolution: A signal processing-empowered foundation feature extractor for bearing fault diagnosis.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42176664/\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #神経科学",
-  "summaryJP": "深層学習と学習 — 数値で示された新事実（ニューロAI・計算論）",
-  "paperAuthors": "Jing-Xiao Liao, Chao He, Jipu Li, Xiao-Cong Zhong, Jinwei Sun, Yiu-Ming Cheung",
-  "publishedDate": "2026-05-23",
-  "paperId": "42176664",
-  "paperSource": "pubmed",
-  "themeArea": "ニューロAI・計算論",
+  "paperTitle": "Contextual Role Modulates Object Representational Geometry in the Human Brain",
+  "paperLink": "https://arxiv.org/abs/2605.23111",
+  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、fMRIとECoG(皮質脳波)の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 fMRI × ECoG(皮質脳波)\n\n> The human brain represents objects in a way that is both invariant across instances and flexible enough to support different contexts and tasks. Yet it remains unknown how object representations are dynamically remapped as the same object shifts across contextual roles.\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Contextual Role Modulates Object Representational Geometry in the Human Brain\n🔗 https://arxiv.org/abs/2605.23111\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #認知科学",
+  "summaryJP": "fMRIとECoG(皮質脳波) — 数値で示された新事実（神経デコーディング）",
+  "paperAuthors": "Julien Dirani, Shankar Chawla, Leila Wehbe, Bradford Z. Mahon",
+  "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+  "paperId": "2605.23111",
+  "paperSource": "arxiv",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "深層学習",
-    "学習"
+    "fMRI",
+    "ECoG(皮質脳波)"
   ],
-  "abstractExcerpt": "Deep learning has exhibited a promising performance in a series of task-specific bearing fault diagnosis problems. However, the current literature lacks a versatile model that could serve as a general-purpose feature extractor for a wide…",
+  "abstractExcerpt": "The human brain represents objects in a way that is both invariant across instances and flexible enough to support different contexts and tasks. Yet it remains unknown how object representations are dynamically remapped as the same object…",
   "figureUrls": []
 }
