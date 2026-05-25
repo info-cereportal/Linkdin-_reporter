@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T12:18:33.142Z",
+  "generatedAt": "2026-05-25T16:58:41.207Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -118,6 +118,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists discover why Ozempic and Wegovy weight loss eventually plateaus",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260525000453.htm",
+          "publishedDate": "Mon, 25 May 2026 09:39:26 EDT",
+          "source": "sciencedaily.com",
+          "summary": "New NIH research reveals that semaglutide sparks different responses inside appetite-controlling brain cells, offering fresh insight into why GLP-1 weight-loss drugs don’t work the same for everyone. Scientists also found a possible way to…",
+          "authors": ""
+        },
+        {
+          "title": "Common heart drug taken by millions found useless — and possibly dangerous",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260524021151.htm",
+          "publishedDate": "Mon, 25 May 2026 08:36:20 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A massive international study could upend 40 years of heart attack treatment. Researchers found that beta blockers—routinely prescribed after uncomplicated heart attacks—offered no real benefit for patients whose heart function remained…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover why some DNA-doubled cells refuse to die",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260523103908.htm",
+          "publishedDate": "Mon, 25 May 2026 06:03:35 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a surprising twist in how cells behave when division goes wrong. Sometimes a cell successfully copies its DNA but fails to split into two, leaving it with double the genetic material — a mistake linked to aging,…",
+          "authors": ""
+        },
+        {
           "title": "Beet juice lowers blood pressure in older adults in just 2 weeks",
           "url": "https://www.sciencedaily.com/releases/2026/05/260524021154.htm",
           "publishedDate": "Mon, 25 May 2026 01:01:09 EDT",
@@ -139,30 +163,6 @@
           "publishedDate": "Sun, 24 May 2026 22:52:23 EDT",
           "source": "sciencedaily.com",
           "summary": "Scientists at UT Southwestern have uncovered a surprising new “master switch” that helps control how much cholesterol the liver sends into the bloodstream. The newly identified protein, HELZ2, works by shutting down the genetic…",
-          "authors": ""
-        },
-        {
-          "title": "Surprising research reveals why you shouldn&#039;t add bananas to your smoothies",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260524020950.htm",
-          "publishedDate": "Sun, 24 May 2026 08:48:32 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers found that adding bananas to berry smoothies can dramatically reduce the body’s ability to absorb healthy flavanols. The surprising discovery shows that even simple food combinations can change how much nutrition your body…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists say house cats could help unlock new cancer treatments for humans",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260523103943.htm",
-          "publishedDate": "Sun, 24 May 2026 08:35:15 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have cracked open the “black box” of feline cancer in a landmark study that genetically analyzed nearly 500 cat tumors from around the world. The research uncovered striking similarities between cancers in cats, dogs, and humans…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists “recharge” damaged nerves to ease chronic pain",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260523103950.htm",
-          "publishedDate": "Sun, 24 May 2026 07:51:53 EDT",
-          "source": "sciencedaily.com",
-          "summary": "For millions battling chronic nerve pain, even the softest touch can feel agonizing — but scientists may have uncovered a radically new way to stop it at the source. Researchers at Duke University found that damaged nerves can be revived…",
           "authors": ""
         }
       ]
