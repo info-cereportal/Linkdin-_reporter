@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-05-25T19:14:47.401Z",
+    "date": "2026-05-25",
+    "topic": "身体性認知とワーキングメモリ",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Integrating Cognitive Load and Embodied Cognition Theories Through Representations as Multi-Scale Attractors",
+    "paperLink": "https://arxiv.org/abs/2605.23012",
+    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n数字が語る、身体性認知とワーキングメモリの新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 身体性認知 × ワーキングメモリ × メタ認知 × 学習\n\n📊 注目すべきデータ：\n→ From these understandings, five novel, testable predictions are advanced concerning cross-timescale interference, embodied load reduction, metacognition as timescale coupling,...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Integrating Cognitive Load and Embodied Cognition Theories Through Representations as Multi-Scale Attractors\n🔗 https://arxiv.org/abs/2605.23012\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #計算論的神経科学",
+    "summaryJP": "身体性認知とワーキングメモリ — 数値で示された新事実（神経デコーディング）",
+    "paperAuthors": "David C. Gibson, Mary Elizabeth Azukas, Meryem Yilmaz Soylu",
+    "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+    "paperId": "2605.23012",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "身体性認知",
+      "ワーキングメモリ",
+      "メタ認知",
+      "学習",
+      "記憶",
+      "PET"
+    ],
+    "abstractExcerpt": "This article proposes a formal rapprochement between cognitive load theory and embodied cognition by reconceptualizing psychological representations as dynamic multiscale attractors within a temporal-hierarchical prediction architecture.…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-05-25T16:58:40.946Z",
     "date": "2026-05-25",
     "topic": "学習",
@@ -1279,37 +1305,6 @@
     "paperLink": "https://arxiv.org/abs/2605.11885",
     "figureUrl": "https://arxiv.org/html/2605.11885/2605.11885v1/x1.png",
     "formatted": "Transformerと畳み込みニューラルネットワーク(CNN)に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 Transformer × EEG × 畳み込みニューラルネットワーク(CNN) × ブレイン・コンピュータ・インターフェース(BCI)\n\n📊 注目すべきデータ：\n→ We find that LRP can both verify EEG-FM decisions and surface novel, biologically plausible hypotheses from them.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nBCI・ニューラルインターフェースの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 From Clever Hans to Scientific Discovery: Interpreting EEG Foundational Transformers with LRP\n🔗 https://arxiv.org/abs/2605.11885\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #NeuroAI",
-    "summaryJP": "Transformerと畳み込みニューラルネットワーク(CNN) — 通説を揺さぶる新たな知見（BCI・ニューラルインターフェース）",
-    "paperAuthors": "Justus Meyer zu Bexten, Nico Scherf, Bogdan Franczyk, Simon M. Hofmann",
-    "publishedDate": "Mon, 18 May 2026 00:00:00 -0400",
-    "paperId": "2605.11885",
-    "paperSource": "arxiv",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "Transformer",
-      "EEG",
-      "畳み込みニューラルネットワーク(CNN)",
-      "ブレイン・コンピュータ・インターフェース(BCI)",
-      "生物学的妥当性",
-      "深層学習"
-    ],
-    "abstractExcerpt": "Emerging foundation models (FMs) in electroencephalography (EEG) promise a path to scale deep learning in diagnostics and brain-computer interfaces despite data scarcity, yet their opaque nature remains a barrier to wider adoption. We…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.11885/2605.11885v1/x1.png",
-      "https://arxiv.org/html/2605.11885/2605.11885v1/x2.png",
-      "https://arxiv.org/html/2605.11885/2605.11885v1/assets/val_baccs_loss_combined.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-18T12:20:38.719Z",
-    "date": "2026-05-18",
-    "topic": "Transformerと畳み込みニューラルネットワーク(CNN)",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "From Clever Hans to Scientific Discovery: Interpreting EEG Foundational Transformers with LRP",
-    "paperLink": "https://arxiv.org/abs/2605.11885",
-    "figureUrl": "https://arxiv.org/html/2605.11885/2605.11885v1/x1.png",
-    "formatted": "Transformerと畳み込みニューラルネットワーク(CNN)に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 Transformer × EEG × 畳み込みニューラルネットワーク(CNN) × ブレイン・コンピュータ・インターフェース(BCI)\n\n📊 注目すべきデータ：\n→ We find that LRP can both verify EEG-FM decisions and surface novel, biologically plausible hypotheses from them.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nBCI・ニューラルインターフェースの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 From Clever Hans to Scientific Discovery: Interpreting EEG Foundational Transformers with LRP\n🔗 https://arxiv.org/abs/2605.11885\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #BrainComputerInterface",
     "summaryJP": "Transformerと畳み込みニューラルネットワーク(CNN) — 通説を揺さぶる新たな知見（BCI・ニューラルインターフェース）",
     "paperAuthors": "Justus Meyer zu Bexten, Nico Scherf, Bogdan Franczyk, Simon M. Hofmann",
     "publishedDate": "Mon, 18 May 2026 00:00:00 -0400",
