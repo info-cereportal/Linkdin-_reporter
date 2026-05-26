@@ -1,21 +1,31 @@
 {
-  "generatedAt": "2026-05-26T17:51:05.189Z",
+  "generatedAt": "2026-05-26T19:55:11.867Z",
   "date": "2026-05-26",
-  "topic": "脳情報科学の最新研究",
+  "topic": "言語処理と潜在空間",
   "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Bootstrapping Life-Inspired Machine Intelligence: The Biological Route from Chemistry to Cognition and Creativity",
-  "paperLink": "https://arxiv.org/abs/2602.08079",
-  "formatted": "これを読んで、脳に対する見方が変わりました。\n\nこの研究から得られる3つの重要な示唆。\n\n脳情報科学の最新研究の最新成果を整理しました。\n\n🔬 脳情報科学\n\n> Achieving advanced machine intelligence remains a central challenge in AI research, often approached through scaling neural architectures and generative models. However, biological systems offer a broader repertoire of strategies for adaptive, goal-directed behavior - strategies...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n脳情報科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Bootstrapping Life-Inspired Machine Intelligence: The Biological Route from Chemistry to Cognition and Creativity\n🔗 https://arxiv.org/abs/2602.08079\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #認知科学",
-  "summaryJP": "脳情報科学の最新研究 — 注目すべき3つの示唆",
-  "paperAuthors": "Giovanni Pezzulo, Michael Levin",
+  "paperTitle": "MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding",
+  "paperLink": "https://arxiv.org/abs/2605.24523",
+  "figureUrl": "https://arxiv.org/html/2605.24523/2605.24523v1/x1.png",
+  "formatted": "これを読んで、脳に対する見方が変わりました。\n\nこの研究から得られる3つの重要な示唆。\n\n言語処理と潜在空間の最新成果を整理しました。\n\n🔬 言語処理 × EEG × 潜在空間 × 注意機構\n\n📊 注目すべきデータ：\n→ On the Things-EEG2 200-way zero-shot benchmark, our framework achieves 54.1% Top-1 and 83.4% Top-5 accuracy, substantially exceeding the strongest prior baseline (32.4% / 64.0%),...\n→ Analysis reveals that compact embedding geometries (CN-CLIP) outperform much larger backbones, and that decoding aligns with established neurophysiology of visual processing.\n→ This work is a critical step towards robust, semantically-grounded visual decoding from non-invasive temporal neural signals.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding\n🔗 https://arxiv.org/abs/2605.24523\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #BrainComputerInterface",
+  "summaryJP": "言語処理と潜在空間 — 注目すべき3つの示唆（神経デコーディング）",
+  "paperAuthors": "Zexuan Chen, Sichao Liu, Runhao Lu, Huichao Qi, Alexandra Woolgar, Xi Vincent Wang, Lihui Wang",
   "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
-  "paperId": "2602.08079",
+  "paperId": "2605.24523",
   "paperSource": "arxiv",
-  "themeArea": "脳情報科学",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "脳情報科学"
+    "言語処理",
+    "EEG",
+    "潜在空間",
+    "注意機構",
+    "学習",
+    "MEG(脳磁図)"
   ],
-  "abstractExcerpt": "Achieving advanced machine intelligence remains a central challenge in AI research, often approached through scaling neural architectures and generative models. However, biological systems offer a broader repertoire of strategies for…",
-  "figureUrls": []
+  "abstractExcerpt": "Visual decoding from brain signals is a key challenge at the intersection of computer vision and neuroscience, requiring methods that bridge neural representations and computational models of vision. We introduce a tri-modal contrastive…",
+  "figureUrls": [
+    "https://arxiv.org/html/2605.24523/2605.24523v1/x1.png",
+    "https://arxiv.org/html/2605.24523/2605.24523v1/x2.png",
+    "https://arxiv.org/html/2605.24523/2605.24523v1/x3.png"
+  ]
 }
