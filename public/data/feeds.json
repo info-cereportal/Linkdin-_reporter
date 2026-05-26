@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T02:09:01.108Z",
+  "generatedAt": "2026-05-26T06:37:19.941Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Active Sensing Subserves Task-Level Control",
-          "url": "https://arxiv.org/abs/2605.22988",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "title": "Sensing Intelligence as a Trainable Metamaterial Property",
+          "url": "https://arxiv.org/abs/2605.23967",
+          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Active sensing is traditionally defined as the expenditure of energy, typically in the form of movement, for obtaining information. Here, we propose that the combination of reliance on adaptive sensors, the linkage between movement and…",
-          "authors": "Andrew Lamperski, Debojyoti Biswas, Eric S. Fortune, John Guckenheimer, Kathleen Hoffman, Noah J. Cowan"
+          "summary": "In biological systems, sensing is not performed by the brain alone: the body deforms, vibrates, and filters external stimuli before they are transduced into neural signals. In engineered systems, this processing burden is placed largely on…",
+          "authors": "Kyungmi Na, Yifei Li, Xinyi Yang, Bolei Deng"
         },
         {
-          "title": "Integrating Cognitive Load and Embodied Cognition Theories Through Representations as Multi-Scale Attractors",
-          "url": "https://arxiv.org/abs/2605.23012",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "title": "Metacognition Should Be the Scientific Framework for Bounded and Effective Self-Governance in Generative AI",
+          "url": "https://arxiv.org/abs/2605.23981",
+          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This article proposes a formal rapprochement between cognitive load theory and embodied cognition by reconceptualizing psychological representations as dynamic multiscale attractors within a temporal-hierarchical prediction architecture.…",
-          "authors": "David C. Gibson, Mary Elizabeth Azukas, Meryem Yilmaz Soylu"
+          "summary": "Generative AI research increasingly confronts a shared problem: systems must sustain yet govern their own generative activity when uncertainty is high, evidence is missing, or context is insufficient. This position paper argues that…",
+          "authors": "Eugene Yu Ji, Igor Grossmann, Amir-Hossein Karimi"
         },
         {
-          "title": "Contextual Role Modulates Object Representational Geometry in the Human Brain",
-          "url": "https://arxiv.org/abs/2605.23111",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "title": "Interpretation, Learning, and Empathy as One Constraint: A Residual-Adequacy Architecture with Accountable Abstention",
+          "url": "https://arxiv.org/abs/2605.24999",
+          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The human brain represents objects in a way that is both invariant across instances and flexible enough to support different contexts and tasks. Yet it remains unknown how object representations are dynamically remapped as the same object…",
-          "authors": "Julien Dirani, Shankar Chawla, Leila Wehbe, Bradford Z. Mahon"
+          "summary": "An agent must act on the situation before it, learn what it cannot yet represent, and model other agents well enough to coordinate. These faculties are usually realized by separate mechanisms, yet they share a failure mode: the situation…",
+          "authors": "Chainarong Amornbunchornvej"
         },
         {
-          "title": "Beyond Neural Activity Prediction: Probing Latent Representations in Mouse V1 Digital Twins",
-          "url": "https://arxiv.org/abs/2605.23122",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "title": "Growing a Neural Network in Breadth, Depth, and Time",
+          "url": "https://arxiv.org/abs/2605.25174",
+          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Digital twins of sensory cortex serve as powerful response oracles. Although prediction accuracy is the central metric by which these models are evaluated, it provides limited insight into the latent representations that support those…",
-          "authors": "Adriano Lima, Yuchen Hou, Michael Beyeler, Marius Schneider"
+          "summary": "Spatial and temporal resource constraints are critical for both biological and artificial intelligent systems. Here we define differentiable cost terms for breadth, depth, and time within a recurrent convolutional neural network conceived…",
+          "authors": "Eivinas Butkus, Kedar Garzón Gupta, Nikolaus Kriegeskorte"
         },
         {
-          "title": "GazeBehavior Annotation Toolkit (GBAT): AI-powered toolkit for automatic annotation of egocentric eye-tracking and video data of child-caregiver interaction",
-          "url": "https://arxiv.org/abs/2605.22962",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "title": "A Quantum-Analogue Formalism for Modeling Supraliminal Information Processing",
+          "url": "https://arxiv.org/abs/2605.25214",
+          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Video recordings of child-caregiver interactions enable investigation of attentional dynamics during naturalistic behavior. Such multimodal recording also allows researchers to examine how attention interacts with action and language use…",
-          "authors": "Iba Baig, Kevin Li, Yanbin Xu, Seiji Cattelain, Marie Hallo, Hayato Ono, Sho Tsuji, Ming Bo Cai"
+          "summary": "We develop a novel cloud-function formalism describing the dynamical relationship between sensory-information processing in large-scale brain networks (supraliminal processing) and the content of the mental representation of an observed…",
+          "authors": "Vasily Lubashevskiy, Ihor Lubashevsky"
         },
         {
-          "title": "Brain-LLM Alignment Tracks Training Data, Not Typology",
-          "url": "https://arxiv.org/abs/2605.23032",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "title": "Multi-Objective Optimisation with Oscillatory Dynamics in Spontaneous and Decision Spiking Neural Networks",
+          "url": "https://arxiv.org/abs/2605.25224",
+          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brain-LLM alignment is well established in English, yet the brain's language network is neuroanatomically universal across languages. Does alignment also generalize cross-linguistically, and what governs the variation? We test this using…",
-          "authors": "Dongxin Guo, Jikun Wu, Siu Ming Yiu"
+          "summary": "Spiking neural networks (SNNs) can be used for implementing cost-efficient artificial intelligence computing or mechanistic modelling of experimentally observed neural data. In the latter, fitting neural data with recurrent SNNs (RSNNs)…",
+          "authors": "Divyansh Sethi, Muhammad Faraz, KongFatt Wong-Lin"
         }
       ]
     },
@@ -118,6 +118,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "USC scientists discover a hidden Alzheimer’s trigger and a possible way to shut it down",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260525000504.htm",
+          "publishedDate": "Tue, 26 May 2026 00:56:55 EDT",
+          "source": "sciencedaily.com",
+          "summary": "USC researchers have identified potential new drug compounds that may reduce the brain inflammation linked to Alzheimer’s disease, especially in people with the high-risk APOE4 gene. The compounds target cPLA2, an enzyme that seems to fuel…",
+          "authors": ""
+        },
+        {
+          "title": "Eating more beans and soy could slash high blood pressure risk by nearly 30%",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260523103906.htm",
+          "publishedDate": "Tue, 26 May 2026 00:09:23 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Eating more beans, lentils, chickpeas, tofu, and other soy foods could be a surprisingly powerful way to fight high blood pressure. A major analysis of studies from around the world found that people with the highest intake of legumes were…",
+          "authors": ""
+        },
+        {
           "title": "Scientists discover why Ozempic and Wegovy weight loss eventually plateaus",
           "url": "https://www.sciencedaily.com/releases/2026/05/260525000453.htm",
           "publishedDate": "Mon, 25 May 2026 09:39:26 EDT",
@@ -148,22 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "Drinking nitrate-rich beetroot juice may do more than support heart health — it could actually reshape the bacteria living in the mouth in ways that help lower blood pressure in older adults. In the largest study of its kind, researchers…",
           "authors": ""
-        },
-        {
-          "title": "Scientists supercharge natural killer cells to fight aggressive cancers",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260523103910.htm",
-          "publishedDate": "Sun, 24 May 2026 23:03:20 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists at McGill University have found a way to supercharge the immune system’s natural killer (NK) cells, helping them break through the defenses tumors use to stay alive. By temporarily blocking two proteins, researchers turned these…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover hidden liver switch that cuts harmful cholesterol",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260523103947.htm",
-          "publishedDate": "Sun, 24 May 2026 22:52:23 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists at UT Southwestern have uncovered a surprising new “master switch” that helps control how much cholesterol the liver sends into the bloodstream. The newly identified protein, HELZ2, works by shutting down the genetic…",
-          "authors": ""
         }
       ]
     },
@@ -173,85 +173,61 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "SpikingMoE: SDPrompt-Guided Dynamic Expert Fusion in Spiking Neural Networks",
-          "url": "https://arxiv.org/abs/2605.23188",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "title": "Cultivating Machine Intelligence: The OMEGA Shift from Top-Down Optimization to Autopoietic Cognitive Ecologies",
+          "url": "https://arxiv.org/abs/2605.25062",
+          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking Neural Networks (SNNs) provide an energy-efficient paradigm for visual recognition. We present SpikingMoE, which integrates a spike-driven Transformer with a Mixture-of-Experts (MoE) framework for dynamic computation. Inspired by…",
-          "authors": "Yukai Yang, Chenxi Qin, Jungang Li, Xin Zhang, Wenwei Shao, Liqun Chen"
+          "summary": "The dominant artificial intelligence paradigm trains neural architectures via gradient descent against proxy objectives and reinforcement learning from human feedback. While remarkably capable, this top-down optimization inherently…",
+          "authors": "Ata G. Zare"
         },
         {
-          "title": "UniSpike: Accelerating Spiking Neural Networks on Neuromorphic Systems via Eliminating Address Redundancy",
-          "url": "https://arxiv.org/abs/2605.23796",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "title": "Anarchy in the swarm: Testing informed and uninformed diversity-enhancing mechanisms within PSO framework",
+          "url": "https://arxiv.org/abs/2605.25093",
+          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Many-core neuromorphic systems accelerate Spiking Neural Networks (SNNs), yet their packet-based spike communication can spend substantial traffic and energy repeatedly transmitting destination addresses. This overhead is amplified by the…",
-          "authors": "Qinghui Xing, Zhuo Chen, Xin Du, Ouwen Jin, Ming Zhang, Pan Lv, Ying Li, Shuiguang Deng, Gang Pan"
+          "summary": "Particle Swarm Optimization (PSO) frequently suffers from premature convergence. This paper introduces a family of problem-informed diversity-enhancing strategies that manipulate the swarm's social and cognitive components. These include…",
+          "authors": "Piotr Urbańczyk, Aleksandra Urbańczyk"
         },
         {
-          "title": "Preisach Attention: A Hysteretic Model of Sequential Memory",
-          "url": "https://arxiv.org/abs/2605.23603",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "title": "A Scalable Benchmark Test Suite for Dynamic Multi-Objective Optimization with a Changing Number of Objectives",
+          "url": "https://arxiv.org/abs/2605.25785",
+          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We introduce the Preisach Attention Layer (PAL), a novel sequence modelling architecture grounded in the classical Preisach hysteresis operator from mathematical physics. PAL replaces the softmax attention mechanism with a binary relay…",
-          "authors": "Piotr Frydrych"
+          "summary": "Dynamic multi-objective optimization with a changing number of objectives has recently attracted increasing attention due to its relevance to real-world problems whose evaluation criteria may evolve over time. However, existing benchmark…",
+          "authors": "Ke Shang, Zhiyun Xiao, Yuxuan Liu, Jianguo Li, Shaojiang Wang, Wei Sun"
         },
         {
-          "title": "Bridging Silicon and the Hippocampus: Algebro-Deterministic Memory \"VaCoAl\" as a Substrate for Vector-HaSH and TEM",
-          "url": "https://arxiv.org/abs/2605.15652",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
+          "url": "https://arxiv.org/abs/2605.23908",
+          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Vector-HaSH and the Tolman-Eichenbaum Machine (TEM) propose the hippocampal-entorhinal circuit factorizes memory via a grid-cell scaffold for compositional replay. Concurrently, human iEEG shows sharp-wave ripples gate recall and multi-hop…",
-          "authors": "Hiroyuki Chuma, Kanji Otsuka, Yoichi Sato"
+          "summary": "We are in the midst of large-scale industrial and academic efforts to automate the processes of scientific, technological and creative production through AI-driven assistants. Historically, a fundamental property of these processes in…",
+          "authors": "Sam Earle, Kay Arulkumaran, Andrew Dai, Akarsh Kumar, Julian Togelius, Sebastian Risi"
         },
         {
-          "title": "On the Infinite Width and Depth Limits of Predictive Coding Networks",
-          "url": "https://arxiv.org/abs/2602.07697",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "title": "Memory Uncertainty Relation and Harmonic Memory in Random Recurrent Networks",
+          "url": "https://arxiv.org/abs/2605.24628",
+          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Predictive coding (PC) is a biologically plausible alternative to standard backpropagation (BP) that minimises an energy function with respect to network activities before updating weights. Recent work has improved the training stability…",
-          "authors": "Francesco Innocenti, El Mehdi Achour, Rafal Bogacz"
+          "summary": "We present an inequality that bounds the short-term memory capability of dynamical systems from below. It can be interpreted as an uncertainty relation between a measure of short-term memory and that of the size of state fluctuations…",
+          "authors": "Taichi Haruna, Kohei Nakajima"
         },
         {
-          "title": "Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders",
-          "url": "https://arxiv.org/abs/2605.13930",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
+          "title": "Convex-Neural RRT*: Fast and Reliable Learning-Guided Sampling for High-Quality Robot Path Planning",
+          "url": "https://arxiv.org/abs/2605.25006",
+          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "EEG foundation models achieve state-of-the-art clinical performance, yet the internal computations driving their predictions remain opaque: a barrier to clinical trust. We apply TopK Sparse Autoencoders (SAEs) across three architecturally…",
-          "authors": "William Lehn-Schiøler, Magnus Ruud Kjær, Rahul Thapa, Magnus Guldberg Pedersen, Anton Mosquera Storgaard, Nick Williams, Radu Gatej, Tue Lehn-Schiøler, Andreas Brink-Kjær, Sadasivan Puthusserypady, Sándor Beniczky, James Zou, Lars Kai Hansen"
+          "summary": "Sampling-based algorithms for robot path planning offer probabilistic completeness and strong empirical convergence properties across environments with diverse obstacle configurations. However, in practice, these methods often require many…",
+          "authors": "Hichem Cheriet, Badra Khellat Kihel, Samira Chouraqui, Bara J. Emran"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 3,
-      "items": [
-        {
-          "title": "JointHRRP-Net: A Statistically Constrained Decoupling Network for Joint Target and Jamming Recognition in Composite Jamming",
-          "url": "https://arxiv.org/abs/2605.22857",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "High-resolution range profile (HRRP)-based radar automatic target recognition suffers from severe performance degradation in composite jamming environments. Active jamming introduces suppression- and deception-related components into the…",
-          "authors": "Yunfei Zhao, Mei Liu, Shuowei Liu, Xunzhang Gao, Yujie Zhou"
-        },
-        {
-          "title": "Classification of IED-free EEG Responses for Assisted Epilepsy Diagnosis",
-          "url": "https://arxiv.org/abs/2605.22858",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Diagnosing epilepsy is challenging when routine EEGs lack interictal epileptiform discharges (IEDs). Intermittent photic stimulation (IPS) and hyperventilation (HV) can increase diagnostic yield, but their interpretation is subjective. We…",
-          "authors": "Giacomo Zanardini, Ryan Moesman, Paul van der Kleij, Robert van den Berg, Justin Dauwels"
-        },
-        {
-          "title": "L-FAME: Longitudinal Focused Attention Meditation EEG Dataset and Benchmark",
-          "url": "https://arxiv.org/abs/2605.22893",
-          "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We introduce a novel Longitudinal Focused Attention Meditation Electroencephalography (L-FAME) dataset and an accompanying benchmark, designed to foster research into the neural effects of various meditation practices and the evolution of…",
-          "authors": "Angqi Li, Ab Basit Rafi Syed, Hamzeh Alzweri, Taosheng Liu, Barry H. Cohen, Saiprasad Ravishankar"
-        }
-      ]
+      "itemCount": 0,
+      "error": "no BCI-keyword match in fetched feed",
+      "items": []
     }
   }
 }

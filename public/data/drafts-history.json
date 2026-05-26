@@ -1,5 +1,26 @@
 [
   {
+    "generatedAt": "2026-05-26T06:37:19.678Z",
+    "date": "2026-05-26",
+    "topic": "脳情報科学の最新研究",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "Bootstrapping Life-Inspired Machine Intelligence: The Biological Route from Chemistry to Cognition and Creativity",
+    "paperLink": "https://arxiv.org/abs/2602.08079",
+    "formatted": "研究者もエンジニアも、この論文は必読です。\n\nこの研究から得られる3つの重要な示唆。\n\n脳情報科学の最新研究の最新成果を整理しました。\n\n🔬 脳情報科学\n\n> Achieving advanced machine intelligence remains a central challenge in AI research, often approached through scaling neural architectures and generative models. However, biological systems offer a broader repertoire of strategies for adaptive, goal-directed behavior - strategies...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n脳情報科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Bootstrapping Life-Inspired Machine Intelligence: The Biological Route from Chemistry to Cognition and Creativity\n🔗 https://arxiv.org/abs/2602.08079\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #NeuroAI",
+    "summaryJP": "脳情報科学の最新研究 — 注目すべき3つの示唆",
+    "paperAuthors": "Giovanni Pezzulo, Michael Levin",
+    "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+    "paperId": "2602.08079",
+    "paperSource": "arxiv",
+    "themeArea": "脳情報科学",
+    "jpKeywords": [
+      "脳情報科学"
+    ],
+    "abstractExcerpt": "Achieving advanced machine intelligence remains a central challenge in AI research, often approached through scaling neural architectures and generative models. However, biological systems offer a broader repertoire of strategies for…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-05-26T02:09:00.629Z",
     "date": "2026-05-26",
     "topic": "学習",
@@ -1288,35 +1309,6 @@
       "https://arxiv.org/html/2512.09502/2512.09502v2/x1.png",
       "https://arxiv.org/html/2512.09502/2512.09502v2/x2.png",
       "https://arxiv.org/html/2512.09502/2512.09502v2/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-18T21:57:59.660Z",
-    "date": "2026-05-18",
-    "topic": "Transformerと学習",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "Convergent Representations of Linguistic Constructions in Human and Artificial Neural Systems",
-    "paperLink": "https://arxiv.org/abs/2603.29617",
-    "figureUrl": "https://arxiv.org/html/2603.29617/2603.29617v2/Figure_1.png",
-    "formatted": "Transformerと学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 Transformer × 学習 × 言語処理 × EEG\n\n> Understanding how the brain processes linguistic constructions is a central challenge in cognitive neuroscience and linguistics. Recent computational studies show that artificial neural language models spontaneously develop differentiated representations of Argument Structure...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Convergent Representations of Linguistic Constructions in Human and Artificial Neural Systems\n🔗 https://arxiv.org/abs/2603.29617\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #NeuralDecoding",
-    "summaryJP": "Transformerと学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
-    "paperAuthors": "Pegah Ramezani, Thomas Kinfe, Andreas Maier, Achim Schilling, Patrick Krauss",
-    "publishedDate": "Mon, 18 May 2026 00:00:00 -0400",
-    "paperId": "2603.29617",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "Transformer",
-      "学習",
-      "言語処理",
-      "EEG"
-    ],
-    "abstractExcerpt": "Understanding how the brain processes linguistic constructions is a central challenge in cognitive neuroscience and linguistics. Recent computational studies show that artificial neural language models spontaneously develop differentiated…",
-    "figureUrls": [
-      "https://arxiv.org/html/2603.29617/2603.29617v2/Figure_1.png",
-      "https://arxiv.org/html/2603.29617/2603.29617v2/evoked_all_the.png",
-      "https://arxiv.org/html/2603.29617/2603.29617v2/length_dif_constructions.png"
     ]
   }
 ]
