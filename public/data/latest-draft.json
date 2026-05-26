@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-25T22:00:59.264Z",
-  "date": "2026-05-25",
-  "topic": "大規模言語モデル(LLM)と神経エンコーディング",
-  "templateName": "data-driven",
+  "generatedAt": "2026-05-26T02:09:00.629Z",
+  "date": "2026-05-26",
+  "topic": "学習",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Sparse Autoencoders Map Brain-LLM Alignment onto Cortical Semantic Topography",
-  "paperLink": "https://arxiv.org/abs/2605.23035",
-  "figureUrl": "https://arxiv.org/html/2605.23035/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、大規模言語モデル(LLM)と神経エンコーディングの新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 大規模言語モデル(LLM) × 神経エンコーディング × 言語処理\n\n📊 注目すべきデータ：\n→ Intermediate layers of large language models (LLMs) best predict human brain responses to language, one of the most robust findings in computational neurolinguistics, yet why...\n→ A human-validated taxonomy ($\\kappa \\geq 0.74$) reveals that semantic features alone recover 94% of peak encoding performance ($r=0.285$), substantially exceeding variance-matched...\n→ Beyond this aggregate dominance, we test a novel cortical topography prediction: five semantic subcategories derived a priori from three independent neuroscience programs should...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Sparse Autoencoders Map Brain-LLM Alignment onto Cortical Semantic Topography\n🔗 https://arxiv.org/abs/2605.23035\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #脳情報",
-  "summaryJP": "大規模言語モデル(LLM)と神経エンコーディング — 数値で示された新事実（神経デコーディング）",
-  "paperAuthors": "Dongxin Guo, Jikun Wu, Siu Ming Yiu",
+  "paperTitle": "Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior",
+  "paperLink": "https://arxiv.org/abs/2502.20349",
+  "figureUrl": "https://arxiv.org/html/2502.20349/2502.20349v5/x1.png",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n学習の最新成果を整理しました。\n\n🔬 学習\n\n> How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace experiments with increasingly naturalistic...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n脳情報科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior\n🔗 https://arxiv.org/abs/2502.20349\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #認知科学",
+  "summaryJP": "学習 — 注目すべき3つの示唆",
+  "paperAuthors": "Wilka Carvalho, Andrew Lampinen",
   "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
-  "paperId": "2605.23035",
+  "paperId": "2502.20349",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "脳情報科学",
   "jpKeywords": [
-    "大規模言語モデル(LLM)",
-    "神経エンコーディング",
-    "言語処理"
+    "学習"
   ],
-  "abstractExcerpt": "Intermediate layers of large language models (LLMs) best predict human brain responses to language, one of the most robust findings in computational neurolinguistics, yet why remains mechanistically unexplained. We address this gap by…",
+  "abstractExcerpt": "How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.23035/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
+    "https://arxiv.org/html/2502.20349/2502.20349v5/x1.png",
+    "https://arxiv.org/html/2502.20349/2502.20349v5/x2.png",
+    "https://arxiv.org/html/2502.20349/2502.20349v5/x4.png"
   ]
 }
