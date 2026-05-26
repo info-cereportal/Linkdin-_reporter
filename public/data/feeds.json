@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T06:37:19.941Z",
+  "generatedAt": "2026-05-26T14:41:22.777Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Trump is seeing doctors for his annual physical. What the public finds out is up to him",
+          "url": "https://www.statnews.com/2026/05/26/trump-annual-physicial-medical-exam-public-scrutiny/?utm_campaign=rss",
+          "publishedDate": "Tue, 26 May 2026 14:32:51 +0000",
+          "source": "statnews.com",
+          "summary": "President Trump is getting a medical exam on Tuesday, putting his health under renewed public scrutiny after he has worked to dismiss concerns over his age and stamina.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "Ebola outbreak continues to worsen, with new collateral risks for girls and women",
+          "url": "https://www.statnews.com/2026/05/26/health-news-ebola-outbreak-continues-to-worsen/?utm_campaign=rss",
+          "publishedDate": "Tue, 26 May 2026 13:13:30 +0000",
+          "source": "statnews.com",
+          "summary": "The new acting FDA head defies expectations, 1.17 billion people with mental disorders, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
           "title": "STAT+: Congress slashed Medicaid funding to providers. The Trump administration wants to cut even further",
           "url": "https://www.statnews.com/2026/05/22/medicaid-state-directed-payments-trump-proposes-more-cuts/?utm_campaign=rss",
           "publishedDate": "Fri, 22 May 2026 17:19:15 +0000",
@@ -93,22 +109,6 @@
           "source": "statnews.com",
           "summary": "RFK Jr. is urging limits on how much screen time kids get, in a new government advisory.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "How Florida hospitals won big in Medicaid funds (just in time)",
-          "url": "https://www.statnews.com/2026/05/21/health-news-how-florida-hospitals-won-medicaid-funds/?utm_campaign=rss",
-          "publishedDate": "Thu, 21 May 2026 12:24:03 +0000",
-          "source": "statnews.com",
-          "summary": "A surgeon general's report on screen time, the health impact of bullet fragments, and more Morning Rounds news",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: Pioneering trial for treating genetic disease before birth nears reality",
-          "url": "https://www.statnews.com/2026/05/20/tippi-mackenzie-in-utero-gene-therapy-nears-first-fda-trial/?utm_campaign=rss",
-          "publishedDate": "Wed, 20 May 2026 18:48:30 +0000",
-          "source": "statnews.com",
-          "summary": "A UCSF team has submitted an application to the FDA seeking approval for a small trial of in utero gene therapy for a rare lysosomal storage disorder.",
-          "authors": "Megan Molteni"
         }
       ]
     },
@@ -117,6 +117,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Trump is seeing doctors for his annual physical. What the public finds out is up to him",
+          "url": "https://www.statnews.com/2026/05/26/trump-annual-physicial-medical-exam-public-scrutiny/?utm_campaign=rss",
+          "publishedDate": "Tue, 26 May 2026 14:32:51 +0000",
+          "source": "statnews.com",
+          "summary": "President Trump is getting a medical exam on Tuesday, putting his health under renewed public scrutiny after he has worked to dismiss concerns over his age and stamina.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
+          "publishedDate": "Tue, 26 May 2026 09:39:35 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers at Texas A&M have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring the brain’s energy systems. After just two doses, memory and cognitive function improved for months, raising…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: How Kyle Diamantas defied expectations as he rose to lead the FDA",
+          "url": "https://www.statnews.com/2026/05/26/kyle-diamantas-acting-fda-commissioner-wins-trust-exceeds-expectations/?utm_campaign=rss",
+          "publishedDate": "Tue, 26 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "WASHINGTON — People in the food world didn’t know what to expect when the Trump administration appointed a little-known Florida attorney as the FDA’s top food official in 2025. They&#8230;",
+          "authors": "Lizzy Lawrence"
+        },
         {
           "title": "USC scientists discover a hidden Alzheimer’s trigger and a possible way to shut it down",
           "url": "https://www.sciencedaily.com/releases/2026/05/260525000504.htm",
@@ -139,30 +163,6 @@
           "publishedDate": "Mon, 25 May 2026 09:39:26 EDT",
           "source": "sciencedaily.com",
           "summary": "New NIH research reveals that semaglutide sparks different responses inside appetite-controlling brain cells, offering fresh insight into why GLP-1 weight-loss drugs don’t work the same for everyone. Scientists also found a possible way to…",
-          "authors": ""
-        },
-        {
-          "title": "Common heart drug taken by millions found useless — and possibly dangerous",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260524021151.htm",
-          "publishedDate": "Mon, 25 May 2026 08:36:20 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A massive international study could upend 40 years of heart attack treatment. Researchers found that beta blockers—routinely prescribed after uncomplicated heart attacks—offered no real benefit for patients whose heart function remained…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover why some DNA-doubled cells refuse to die",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260523103908.htm",
-          "publishedDate": "Mon, 25 May 2026 06:03:35 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a surprising twist in how cells behave when division goes wrong. Sometimes a cell successfully copies its DNA but fails to split into two, leaving it with double the genetic material — a mistake linked to aging,…",
-          "authors": ""
-        },
-        {
-          "title": "Beet juice lowers blood pressure in older adults in just 2 weeks",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260524021154.htm",
-          "publishedDate": "Mon, 25 May 2026 01:01:09 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Drinking nitrate-rich beetroot juice may do more than support heart health — it could actually reshape the bacteria living in the mouth in ways that help lower blood pressure in older adults. In the largest study of its kind, researchers…",
           "authors": ""
         }
       ]

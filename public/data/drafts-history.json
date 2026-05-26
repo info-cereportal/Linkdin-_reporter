@@ -1,5 +1,30 @@
 [
   {
+    "generatedAt": "2026-05-26T14:41:21.336Z",
+    "date": "2026-05-26",
+    "topic": "学習",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "Interpretation, Learning, and Empathy as One Constraint: A Residual-Adequacy Architecture with Accountable Abstention",
+    "paperLink": "https://arxiv.org/abs/2605.24999",
+    "figureUrl": "https://arxiv.org/html/2605.24999/2605.24999v1/demo_figure.png",
+    "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\n学習の最新成果を整理しました。\n\n🔬 学習\n\n> An agent must act on the situation before it, learn what it cannot yet represent, and model other agents well enough to coordinate. These faculties are usually realized by separate mechanisms, yet they share a failure mode: the situation can exceed what the agent can currently...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Interpretation, Learning, and Empathy as One Constraint: A Residual-Adequacy Architecture with Accountable Abstention\n🔗 https://arxiv.org/abs/2605.24999\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #認知科学",
+    "summaryJP": "学習 — 注目すべき3つの示唆（神経デコーディング）",
+    "paperAuthors": "Chainarong Amornbunchornvej",
+    "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+    "paperId": "2605.24999",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "学習"
+    ],
+    "abstractExcerpt": "An agent must act on the situation before it, learn what it cannot yet represent, and model other agents well enough to coordinate. These faculties are usually realized by separate mechanisms, yet they share a failure mode: the situation…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.24999/2605.24999v1/demo_figure.png",
+      "https://arxiv.org/html/2605.24999/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
+    ]
+  },
+  {
     "generatedAt": "2026-05-26T06:37:19.678Z",
     "date": "2026-05-26",
     "topic": "脳情報科学の最新研究",
@@ -1281,34 +1306,6 @@
       "https://arxiv.org/html/2502.20349/2502.20349v3/x1.png",
       "https://arxiv.org/html/2502.20349/2502.20349v3/x2.png",
       "https://arxiv.org/html/2502.20349/2502.20349v3/x4.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-19T02:13:01.699Z",
-    "date": "2026-05-19",
-    "topic": "スパイキングニューラルネットワーク(SNN)と計算論的神経科学",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Scalable Construction of Spiking Neural Networks using up to thousands of GPUs",
-    "paperLink": "https://arxiv.org/abs/2512.09502",
-    "figureUrl": "https://arxiv.org/html/2512.09502/2512.09502v2/x1.png",
-    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、スパイキングニューラルネットワーク(SNN)と計算論的神経科学の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 スパイキングニューラルネットワーク(SNN) × 計算論的神経科学 × 記憶\n\n📊 注目すべきデータ：\n→ This work presents a novel network construction method for multi-GPU clusters and upcoming exascale supercomputers using the Message Passing Interface (MPI), where each process...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Scalable Construction of Spiking Neural Networks using up to thousands of GPUs\n🔗 https://arxiv.org/abs/2512.09502\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #神経科学 #計算論的神経科学 #ComputationalNeuroscience",
-    "summaryJP": "スパイキングニューラルネットワーク(SNN)と計算論的神経科学 — 数値で示された新事実（ニューロAI・計算論）",
-    "paperAuthors": "Bruno Golosio, Gianmarco Tiddia, José Villamar, Luca Pontisso, Luca Sergi, Francesco Simula, Pooja Babu, Elena Pastorelli, Abigail Morrison, Markus Diesmann, Alessandro Lonardo, Pier Stanislao Paolucci, Johanna Senk",
-    "publishedDate": "Mon, 18 May 2026 00:00:00 -0400",
-    "paperId": "2512.09502",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "スパイキングニューラルネットワーク(SNN)",
-      "計算論的神経科学",
-      "記憶"
-    ],
-    "abstractExcerpt": "Diverse scientific and engineering research areas deal with discrete, time-stamped changes in large systems of interacting delay differential equations. Simulating such complex systems at scale on high-performance computing clusters…",
-    "figureUrls": [
-      "https://arxiv.org/html/2512.09502/2512.09502v2/x1.png",
-      "https://arxiv.org/html/2512.09502/2512.09502v2/x2.png",
-      "https://arxiv.org/html/2512.09502/2512.09502v2/x3.png"
     ]
   }
 ]
