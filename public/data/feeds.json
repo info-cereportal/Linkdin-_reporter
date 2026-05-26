@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T14:41:22.777Z",
+  "generatedAt": "2026-05-26T17:51:05.790Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -118,6 +118,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Praise for FDA’s acting commissioner",
+          "url": "https://www.statnews.com/2026/05/26/kyle-diamantas-fda-draws-praise-nih-leadership-vacuum-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Tue, 26 May 2026 16:21:12 +0000",
+          "source": "statnews.com",
+          "summary": "Kyle Diamantas doesn't have the typical CV for an FDA commissioner, but he's earning early praise.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "STAT+: $775 billion, $1.2 billion, and $38k",
+          "url": "https://www.statnews.com/2026/05/26/medicaid-cuts-loom-health-insurance-cost-climbs-no-surprises-act/?utm_campaign=rss",
+          "publishedDate": "Tue, 26 May 2026 16:11:33 +0000",
+          "source": "statnews.com",
+          "summary": "Medicaid cuts stemming from Republicans' 2025 tax law are expected to be even bigger than forecast.",
+          "authors": "Bob Herman"
+        },
+        {
           "title": "Trump is seeing doctors for his annual physical. What the public finds out is up to him",
           "url": "https://www.statnews.com/2026/05/26/trump-annual-physicial-medical-exam-public-scrutiny/?utm_campaign=rss",
           "publishedDate": "Tue, 26 May 2026 14:32:51 +0000",
@@ -147,22 +163,6 @@
           "publishedDate": "Tue, 26 May 2026 00:56:55 EDT",
           "source": "sciencedaily.com",
           "summary": "USC researchers have identified potential new drug compounds that may reduce the brain inflammation linked to Alzheimer’s disease, especially in people with the high-risk APOE4 gene. The compounds target cPLA2, an enzyme that seems to fuel…",
-          "authors": ""
-        },
-        {
-          "title": "Eating more beans and soy could slash high blood pressure risk by nearly 30%",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260523103906.htm",
-          "publishedDate": "Tue, 26 May 2026 00:09:23 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Eating more beans, lentils, chickpeas, tofu, and other soy foods could be a surprisingly powerful way to fight high blood pressure. A major analysis of studies from around the world found that people with the highest intake of legumes were…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover why Ozempic and Wegovy weight loss eventually plateaus",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260525000453.htm",
-          "publishedDate": "Mon, 25 May 2026 09:39:26 EDT",
-          "source": "sciencedaily.com",
-          "summary": "New NIH research reveals that semaglutide sparks different responses inside appetite-controlling brain cells, offering fresh insight into why GLP-1 weight-loss drugs don’t work the same for everyone. Scientists also found a possible way to…",
           "authors": ""
         }
       ]
