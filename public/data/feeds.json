@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T06:54:04.384Z",
+  "generatedAt": "2026-05-27T12:11:32.172Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Trump says latest medical exam went ‘PERFECTLY’",
+          "url": "https://www.statnews.com/2026/05/27/health-news-trump-says-latest-medical-exam-went-perfectly/?utm_campaign=rss",
+          "publishedDate": "Wed, 27 May 2026 11:52:33 +0000",
+          "source": "statnews.com",
+          "summary": "The conference where death is (theoretically) optional, new trends among undocumented patients, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "STAT+: &#8216;Are we just going to give up and die like every other generation?&#8217;",
+          "url": "https://www.statnews.com/2026/05/27/longevity-movement-shift-fringe-idea-to-big-business/?utm_campaign=rss",
+          "publishedDate": "Wed, 27 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Inside the longevity conference that brings together founders, investors, biohackers, and the generally death-averse to discuss how to forestall — or even beat — our demise.",
+          "authors": "Sarah Todd"
+        },
+        {
           "title": "Trump wraps up three-hour medical visit to Walter Reed and declares &#8216;Everything checked out PERFECTLY&#8217;",
           "url": "https://www.statnews.com/2026/05/26/trump-annual-physicial-medical-exam-public-scrutiny/?utm_campaign=rss",
           "publishedDate": "Tue, 26 May 2026 14:32:51 +0000",
@@ -93,22 +109,6 @@
           "source": "statnews.com",
           "summary": "Seed oil panic, how STIs spread, and more health news from Morning Rounds",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: Merck-Kelun lung cancer drug cut risk of tumor progression by 65%, ASCO abstract shows",
-          "url": "https://www.statnews.com/2026/05/21/merck-kelun-sac-tmt-lung-cancer-drug-trial-results/?utm_campaign=rss",
-          "publishedDate": "Thu, 21 May 2026 21:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "A type of targeted chemotherapy developed by China-based Kelun-Biotech and licensed to Merck cut the risk of tumor progression by 65% in patients with lung cancer, according to Phase 3&#8230;",
-          "authors": "Adam Feuerstein"
-        },
-        {
-          "title": "STAT+: RFK Jr.’s screen time warning",
-          "url": "https://www.statnews.com/2026/05/21/rfk-jr-s-screen-time-warning/?utm_campaign=rss",
-          "publishedDate": "Thu, 21 May 2026 16:43:27 +0000",
-          "source": "statnews.com",
-          "summary": "RFK Jr. is urging limits on how much screen time kids get, in a new government advisory.",
-          "authors": "John Wilkerson"
         }
       ]
     },
@@ -117,6 +117,22 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Opinion: Sen. Dick Durbin: Trump is letting Big Tobacco target children",
+          "url": "https://www.statnews.com/2026/05/27/flavored-vapes-e-cigarettes-fda-trump-durbin/?utm_campaign=rss",
+          "publishedDate": "Wed, 27 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "“Trump has willingly exposed an entire generation of children to Big Tobacco’s nicotine addiction,” writes Sen. Dick Durbin.",
+          "authors": "Dick Durbin"
+        },
+        {
+          "title": "Scientists say guava juice could make iron supplements work better",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260527023200.htm",
+          "publishedDate": "Wed, 27 May 2026 03:09:36 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers found that drinking guava juice may significantly improve anemia by helping the body absorb iron more efficiently. In a review of 17 studies, women and teenage girls who consumed guava juice — especially with iron supplements —…",
+          "authors": ""
+        },
         {
           "title": "Scientists are raising new questions about vitamin B12 and cancer",
           "url": "https://www.sciencedaily.com/releases/2026/05/260526022009.htm",
@@ -148,22 +164,6 @@
           "source": "statnews.com",
           "summary": "Medicaid cuts stemming from Republicans' 2025 tax law are expected to be even bigger than forecast.",
           "authors": "Bob Herman"
-        },
-        {
-          "title": "Trump wraps up three-hour medical visit to Walter Reed and declares &#8216;Everything checked out PERFECTLY&#8217;",
-          "url": "https://www.statnews.com/2026/05/26/trump-annual-physicial-medical-exam-public-scrutiny/?utm_campaign=rss",
-          "publishedDate": "Tue, 26 May 2026 14:32:51 +0000",
-          "source": "statnews.com",
-          "summary": "President Trump had another medical exam on Tuesday, putting his health under renewed public scrutiny after he has worked to dismiss concerns over his age and stamina.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "Scientists say they’ve reversed brain aging with a simple nasal spray",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
-          "publishedDate": "Tue, 26 May 2026 09:39:35 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers at Texas A&M have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring the brain’s energy systems. After just two doses, memory and cognitive function improved for months, raising…",
-          "authors": ""
         }
       ]
     },

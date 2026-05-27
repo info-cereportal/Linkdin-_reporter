@@ -1,28 +1,26 @@
 {
-  "generatedAt": "2026-05-27T06:54:04.062Z",
+  "generatedAt": "2026-05-27T12:11:31.175Z",
   "date": "2026-05-27",
-  "topic": "強化学習と学習",
+  "topic": "学習",
   "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Probabilistic Recurrent Intention Switching Model",
-  "paperLink": "https://arxiv.org/abs/2605.26998",
-  "figureUrl": "https://arxiv.org/html/2605.26998/2605.26998v1/x1.png",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n強化学習と学習の最新研究です。\n\n🔬 強化学習 × 学習 × 記憶\n\n> Inverse reinforcement learning (IRL) recovers reward functions from observed behavior, yet traditional methods assume a single stationary reward that cannot capture goal switching within an episode. Recent multi-intention IRL methods address this by segmenting trajectories, but...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Probabilistic Recurrent Intention Switching Model\n🔗 https://arxiv.org/abs/2605.26998\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #BrainComputerInterface",
-  "summaryJP": "強化学習と学習 — 次世代へ続く布石（計算論的神経科学）",
-  "paperAuthors": "Wenyuan Sheng, Hao Zhu, Joschka Boedecker",
+  "paperTitle": "Beyond Binary: Speech Representations Across the Cognitive Score Hierarchy",
+  "paperLink": "https://arxiv.org/abs/2605.27189",
+  "figureUrl": "https://arxiv.org/html/2605.27189/2605.27189v1/x1.png",
+  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n学習の最新研究です。\n\n🔬 学習\n\n📊 注目すべきデータ：\n→ Results show that although SSL representations generally outperform hand-crafted features at lower levels, this trend reverses for MCI classification.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Beyond Binary: Speech Representations Across the Cognitive Score Hierarchy\n🔗 https://arxiv.org/abs/2605.27189\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #BCI",
+  "summaryJP": "学習 — 次世代へ続く布石（神経デコーディング）",
+  "paperAuthors": "Serli Kopar, Roshan Prakash Rane, Christian Mychajliw, Lydia Federmann, Gerhard Eschweiler, Daniela Berg, Sam Gijsen, Paula Andrea Perez-Toro, Kerstin Ritter",
   "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
-  "paperId": "2605.26998",
+  "paperId": "2605.27189",
   "paperSource": "arxiv",
-  "themeArea": "計算論的神経科学",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "強化学習",
-    "学習",
-    "記憶"
+    "学習"
   ],
-  "abstractExcerpt": "Inverse reinforcement learning (IRL) recovers reward functions from observed behavior, yet traditional methods assume a single stationary reward that cannot capture goal switching within an episode. Recent multi-intention IRL methods…",
+  "abstractExcerpt": "This study examines the relationship between speech representations and the hierarchical structure of cognitive assessment in mild cognitive impairment. Utilizing 5,754 German neuropsychological assessment recordings, we evaluate six…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.26998/2605.26998v1/x1.png",
-    "https://arxiv.org/html/2605.26998/2605.26998v1/x2.png",
-    "https://arxiv.org/html/2605.26998/2605.26998v1/x5.png"
+    "https://arxiv.org/html/2605.27189/2605.27189v1/x1.png",
+    "https://arxiv.org/html/2605.27189/2605.27189v1/x2.png",
+    "https://arxiv.org/html/2605.27189/2605.27189v1/x3.png"
   ]
 }
