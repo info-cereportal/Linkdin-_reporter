@@ -1,31 +1,23 @@
 {
-  "generatedAt": "2026-05-26T22:14:49.284Z",
-  "date": "2026-05-26",
-  "topic": "言語処理と潜在空間",
-  "templateName": "three-insights",
+  "generatedAt": "2026-05-27T02:29:09.734Z",
+  "date": "2026-05-27",
+  "topic": "ニューラルネットワークモデルとクローズドループ制御",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding",
-  "paperLink": "https://arxiv.org/abs/2605.24523",
-  "figureUrl": "https://arxiv.org/html/2605.24523/2605.24523v1/x1.png",
-  "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n言語処理と潜在空間の最新成果を整理しました。\n\n🔬 言語処理 × EEG × 潜在空間 × 注意機構\n\n📊 注目すべきデータ：\n→ On the Things-EEG2 200-way zero-shot benchmark, our framework achieves 54.1% Top-1 and 83.4% Top-5 accuracy, substantially exceeding the strongest prior baseline (32.4% / 64.0%),...\n→ Analysis reveals that compact embedding geometries (CN-CLIP) outperform much larger backbones, and that decoding aligns with established neurophysiology of visual processing.\n→ This work is a critical step towards robust, semantically-grounded visual decoding from non-invasive temporal neural signals.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding\n🔗 https://arxiv.org/abs/2605.24523\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #BrainComputerInterface",
-  "summaryJP": "言語処理と潜在空間 — 注目すべき3つの示唆（神経デコーディング）",
-  "paperAuthors": "Zexuan Chen, Sichao Liu, Runhao Lu, Huichao Qi, Alexandra Woolgar, Xi Vincent Wang, Lihui Wang",
+  "paperTitle": "Automated Place Preference Paradigm for Optogenetic Stimulation of the Pedunculopontine Nucleus Reveals Motor Arrest-Linked Preference Behavior",
+  "paperLink": "https://arxiv.org/abs/2601.12054",
+  "formatted": "この研究データ、知らないままでいいですか？\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nニューラルネットワークモデルとクローズドループ制御の最新研究です。\n\n🔬 ニューラルネットワークモデル × クローズドループ制御 × 情動\n\n📊 注目すべきデータ：\n→ When motor arrest was spatially paired with a defined region of interest, rats developed a robust place preference after limited training.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Automated Place Preference Paradigm for Optogenetic Stimulation of the Pedunculopontine Nucleus Reveals Motor Arrest-Linked Preference Behavior\n🔗 https://arxiv.org/abs/2601.12054\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #DeepLearning",
+  "summaryJP": "ニューラルネットワークモデルとクローズドループ制御 — 次世代へ続く布石（BCI・ニューラルインターフェース）",
+  "paperAuthors": "Guanghui Li, Xingfei Hou, Zhenxiang Zhao",
   "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
-  "paperId": "2605.24523",
+  "paperId": "2601.12054",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "BCI・ニューラルインターフェース",
   "jpKeywords": [
-    "言語処理",
-    "EEG",
-    "潜在空間",
-    "注意機構",
-    "学習",
-    "MEG(脳磁図)"
+    "ニューラルネットワークモデル",
+    "クローズドループ制御",
+    "情動"
   ],
-  "abstractExcerpt": "Visual decoding from brain signals is a key challenge at the intersection of computer vision and neuroscience, requiring methods that bridge neural representations and computational models of vision. We introduce a tri-modal contrastive…",
-  "figureUrls": [
-    "https://arxiv.org/html/2605.24523/2605.24523v1/x1.png",
-    "https://arxiv.org/html/2605.24523/2605.24523v1/x2.png",
-    "https://arxiv.org/html/2605.24523/2605.24523v1/x3.png"
-  ]
+  "abstractExcerpt": "Understanding how the brain integrates motor suppression with motivational processes remains a fundamental question in neuroscience. The rostral Pedunculopontine nucleus, a brainstem structure involved in motor control, has been shown to…",
+  "figureUrls": []
 }

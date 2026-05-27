@@ -1,5 +1,28 @@
 [
   {
+    "generatedAt": "2026-05-27T02:29:09.734Z",
+    "date": "2026-05-27",
+    "topic": "ニューラルネットワークモデルとクローズドループ制御",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Automated Place Preference Paradigm for Optogenetic Stimulation of the Pedunculopontine Nucleus Reveals Motor Arrest-Linked Preference Behavior",
+    "paperLink": "https://arxiv.org/abs/2601.12054",
+    "formatted": "この研究データ、知らないままでいいですか？\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nニューラルネットワークモデルとクローズドループ制御の最新研究です。\n\n🔬 ニューラルネットワークモデル × クローズドループ制御 × 情動\n\n📊 注目すべきデータ：\n→ When motor arrest was spatially paired with a defined region of interest, rats developed a robust place preference after limited training.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Automated Place Preference Paradigm for Optogenetic Stimulation of the Pedunculopontine Nucleus Reveals Motor Arrest-Linked Preference Behavior\n🔗 https://arxiv.org/abs/2601.12054\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #DeepLearning",
+    "summaryJP": "ニューラルネットワークモデルとクローズドループ制御 — 次世代へ続く布石（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Guanghui Li, Xingfei Hou, Zhenxiang Zhao",
+    "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+    "paperId": "2601.12054",
+    "paperSource": "arxiv",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "ニューラルネットワークモデル",
+      "クローズドループ制御",
+      "情動"
+    ],
+    "abstractExcerpt": "Understanding how the brain integrates motor suppression with motivational processes remains a fundamental question in neuroscience. The rostral Pedunculopontine nucleus, a brainstem structure involved in motor control, has been shown to…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-05-26T22:14:49.284Z",
     "date": "2026-05-26",
     "topic": "言語処理と潜在空間",
@@ -1276,35 +1299,6 @@
       "https://arxiv.org/html/2502.20349/2502.20349v3/x1.png",
       "https://arxiv.org/html/2502.20349/2502.20349v3/x2.png",
       "https://arxiv.org/html/2502.20349/2502.20349v3/x4.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-19T17:33:24.873Z",
-    "date": "2026-05-19",
-    "topic": "注意機構とブレイン・マシン・インターフェース(BMI)",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Subject-Specific Analysis of Self-Initiated Attention Shifts from EEG with Controlled Internal and External Attention Conditions",
-    "paperLink": "https://arxiv.org/abs/2605.18251",
-    "figureUrl": "https://arxiv.org/html/2605.18251/2605.18251v1/electrode.png",
-    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、注意機構とブレイン・マシン・インターフェース(BMI)の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 注意機構 × EEG × ブレイン・マシン・インターフェース(BMI) × 学習\n\n📊 注目すべきデータ：\n→ We adopt a machine learning-based approach and conduct two complementary analyses: (1) a performance-oriented assessment of frequency-specific topographic patterns, and (2) a...\n\nなぜこの数字が重要か。\n\nBCI・ニューラルインターフェースにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Subject-Specific Analysis of Self-Initiated Attention Shifts from EEG with Controlled Internal and External Attention Conditions\n🔗 https://arxiv.org/abs/2605.18251\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #BCI",
-    "summaryJP": "注意機構とブレイン・マシン・インターフェース(BMI) — 数値で示された新事実（BCI・ニューラルインターフェース）",
-    "paperAuthors": "Yuwen Zeng, Dengzhe Hou, Zhang Zhang, Sai Sun, Yongsong Huang, Chia-huei Tseng, Satoshi Shioiri",
-    "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
-    "paperId": "2605.18251",
-    "paperSource": "arxiv",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "注意機構",
-      "EEG",
-      "ブレイン・マシン・インターフェース(BMI)",
-      "学習"
-    ],
-    "abstractExcerpt": "Self-initiated attention shifts play a critical role in voluntary behavior but are difficult to study due to the absence of explicit temporal markers. While previous studies have examined their neural correlates, it remains unclear how…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.18251/2605.18251v1/electrode.png",
-      "https://arxiv.org/html/2605.18251/2605.18251v1/roc.png",
-      "https://arxiv.org/html/2605.18251/2605.18251v1/band_topo.png"
     ]
   }
 ]
