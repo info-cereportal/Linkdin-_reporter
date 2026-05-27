@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-05-27T19:58:56.861Z",
+    "date": "2026-05-27",
+    "topic": "ニューラルマニフォールド",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Random neural networks match observed dimensionality of neural population recordings and motivate stronger experimental tests",
+    "paperLink": "https://arxiv.org/abs/2605.26551",
+    "figureUrl": "https://arxiv.org/html/2605.26551/2605.26551v1/x1.png",
+    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nニューラルマニフォールドの最新研究です。\n\n🔬 ニューラルマニフォールド\n\n> Randomly connected neural networks have long served as a theoretical tool for studying collective dynamics in neural populations, yet quantitative comparisons to experiments remain limited. Recent technological advances have made it possible to resolve population-wide...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Random neural networks match observed dimensionality of neural population recordings and motivate stronger experimental tests\n🔗 https://arxiv.org/abs/2605.26551\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #脳情報",
+    "summaryJP": "ニューラルマニフォールド — 次世代へ続く布石（コネクトミクス・回路解析）",
+    "paperAuthors": "Zehui Zhao, Michael J Pasek, Ilya M Nemenman",
+    "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+    "paperId": "2605.26551",
+    "paperSource": "arxiv",
+    "themeArea": "コネクトミクス・回路解析",
+    "jpKeywords": [
+      "ニューラルマニフォールド"
+    ],
+    "abstractExcerpt": "Randomly connected neural networks have long served as a theoretical tool for studying collective dynamics in neural populations, yet quantitative comparisons to experiments remain limited. Recent technological advances have made it…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.26551/2605.26551v1/x1.png",
+      "https://arxiv.org/html/2605.26551/2605.26551v1/x2.png",
+      "https://arxiv.org/html/2605.26551/2605.26551v1/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-27T17:50:55.395Z",
     "date": "2026-05-27",
     "topic": "脳情報科学の最新研究",
@@ -1252,33 +1278,6 @@
     "paperLink": "https://arxiv.org/abs/2601.10397",
     "figureUrl": "https://arxiv.org/html/2601.10397/2601.10397v3/x1.png",
     "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\nこの研究から得られる3つの重要な示唆。\n\nシナプス可塑性と学習の最新成果を整理しました。\n\n🔬 シナプス可塑性 × 学習\n\n> Short-term synaptic plasticity (STP) is often regarded as a presynaptic filter of spikes, independent of postsynaptic activity. Recent experiments, however, indicate an associative STP that depends on pre- and postsynaptic coactivation.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Reshaping Neural Representation via Associative, Presynaptic Short-Term Plasticity\n🔗 https://arxiv.org/abs/2601.10397\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #BrainComputerInterface",
-    "summaryJP": "シナプス可塑性と学習 — 注目すべき3つの示唆（神経デコーディング）",
-    "paperAuthors": "Genki Shimizu, Taro Toyoizumi",
-    "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
-    "paperId": "2601.10397",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "シナプス可塑性",
-      "学習"
-    ],
-    "abstractExcerpt": "Short-term synaptic plasticity (STP) is often regarded as a presynaptic filter of spikes, independent of postsynaptic activity. Recent experiments, however, indicate an associative STP that depends on pre- and postsynaptic coactivation. We…",
-    "figureUrls": [
-      "https://arxiv.org/html/2601.10397/2601.10397v3/x1.png",
-      "https://arxiv.org/html/2601.10397/2601.10397v3/x2.png",
-      "https://arxiv.org/html/2601.10397/2601.10397v3/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-20T06:39:32.315Z",
-    "date": "2026-05-20",
-    "topic": "シナプス可塑性と学習",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Reshaping Neural Representation via Associative, Presynaptic Short-Term Plasticity",
-    "paperLink": "https://arxiv.org/abs/2601.10397",
-    "figureUrl": "https://arxiv.org/html/2601.10397/2601.10397v3/x1.png",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\nシナプス可塑性と学習の最新成果を整理しました。\n\n🔬 シナプス可塑性 × 学習\n\n> Short-term synaptic plasticity (STP) is often regarded as a presynaptic filter of spikes, independent of postsynaptic activity. Recent experiments, however, indicate an associative STP that depends on pre- and postsynaptic coactivation.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Reshaping Neural Representation via Associative, Presynaptic Short-Term Plasticity\n🔗 https://arxiv.org/abs/2601.10397\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #脳情報",
     "summaryJP": "シナプス可塑性と学習 — 注目すべき3つの示唆（神経デコーディング）",
     "paperAuthors": "Genki Shimizu, Taro Toyoizumi",
     "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",

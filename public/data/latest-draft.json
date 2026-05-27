@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-27T17:50:55.395Z",
+  "generatedAt": "2026-05-27T19:58:56.861Z",
   "date": "2026-05-27",
-  "topic": "脳情報科学の最新研究",
+  "topic": "ニューラルマニフォールド",
   "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Revealing the core dimensions underlying representations in brains, behavior and AI",
-  "paperLink": "https://arxiv.org/abs/2605.26921",
-  "figureUrl": "https://arxiv.org/html/2605.26921/2605.26921v1/x1.png",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n脳情報科学の最新研究の最新研究です。\n\n🔬 脳情報科学\n\n> The study of representations is widespread across fields, including neuroscience, psychology, and artificial intelligence. While representations are often studied and compared through similarities between stimuli, current methods provide only limited access to the dimensions...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Revealing the core dimensions underlying representations in brains, behavior and AI\n🔗 https://arxiv.org/abs/2605.26921\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #神経科学",
-  "summaryJP": "脳情報科学の最新研究 — 次世代へ続く布石（神経デコーディング）",
-  "paperAuthors": "Florian P. Mahner, Ka Chun Lam, Francisco Pereira, Martin N. Hebart",
+  "paperTitle": "Random neural networks match observed dimensionality of neural population recordings and motivate stronger experimental tests",
+  "paperLink": "https://arxiv.org/abs/2605.26551",
+  "figureUrl": "https://arxiv.org/html/2605.26551/2605.26551v1/x1.png",
+  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nニューラルマニフォールドの最新研究です。\n\n🔬 ニューラルマニフォールド\n\n> Randomly connected neural networks have long served as a theoretical tool for studying collective dynamics in neural populations, yet quantitative comparisons to experiments remain limited. Recent technological advances have made it possible to resolve population-wide...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Random neural networks match observed dimensionality of neural population recordings and motivate stronger experimental tests\n🔗 https://arxiv.org/abs/2605.26551\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #脳情報",
+  "summaryJP": "ニューラルマニフォールド — 次世代へ続く布石（コネクトミクス・回路解析）",
+  "paperAuthors": "Zehui Zhao, Michael J Pasek, Ilya M Nemenman",
   "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
-  "paperId": "2605.26921",
+  "paperId": "2605.26551",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "コネクトミクス・回路解析",
   "jpKeywords": [
-    "脳情報科学"
+    "ニューラルマニフォールド"
   ],
-  "abstractExcerpt": "The study of representations is widespread across fields, including neuroscience, psychology, and artificial intelligence. While representations are often studied and compared through similarities between stimuli, current methods provide…",
+  "abstractExcerpt": "Randomly connected neural networks have long served as a theoretical tool for studying collective dynamics in neural populations, yet quantitative comparisons to experiments remain limited. Recent technological advances have made it…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.26921/2605.26921v1/x1.png",
-    "https://arxiv.org/html/2605.26921/2605.26921v1/x2.png",
-    "https://arxiv.org/html/2605.26921/2605.26921v1/x3.png"
+    "https://arxiv.org/html/2605.26551/2605.26551v1/x1.png",
+    "https://arxiv.org/html/2605.26551/2605.26551v1/x2.png",
+    "https://arxiv.org/html/2605.26551/2605.26551v1/x3.png"
   ]
 }
