@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T12:11:32.172Z",
+  "generatedAt": "2026-05-27T17:50:56.270Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -118,6 +118,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "New drug could finally stop deadly fatty liver disease",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260526233632.htm",
+          "publishedDate": "Wed, 27 May 2026 08:49:37 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists at UC San Diego have unveiled a potentially game-changing treatment for MASH, a severe fatty liver disease affecting millions worldwide. The experimental drug, ION224, blocks a liver enzyme that drives fat buildup and…",
+          "authors": ""
+        },
+        {
+          "title": "Popular anti-aging drug combo caused severe brain damage in mice",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260526022024.htm",
+          "publishedDate": "Wed, 27 May 2026 08:23:03 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A drug combo widely explored for anti-aging may actually damage the brain, according to new mouse research showing severe loss of myelin and changes linked to “chemo brain.” Surprisingly, the damaged cells resembled those seen in multiple…",
+          "authors": ""
+        },
+        {
+          "title": "New laser heat treatment could stop blindness before it starts",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260526233217.htm",
+          "publishedDate": "Wed, 27 May 2026 07:43:10 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new experimental treatment could finally offer hope for millions of people with dry age-related macular degeneration — one of the leading causes of blindness in older adults. Researchers at Aalto University discovered a way to gently…",
+          "authors": ""
+        },
+        {
           "title": "Opinion: Sen. Dick Durbin: Trump is letting Big Tobacco target children",
           "url": "https://www.statnews.com/2026/05/27/flavored-vapes-e-cigarettes-fda-trump-durbin/?utm_campaign=rss",
           "publishedDate": "Wed, 27 May 2026 08:30:00 +0000",
@@ -140,30 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "Vitamin B12 has long been seen as a health hero, helping the body make red blood cells, repair DNA, and keep nerves functioning properly. But scientists are discovering that the story may be more complicated than simply “more is better.”…",
           "authors": ""
-        },
-        {
-          "title": "Scientists create supercharged vitamin K that helps the brain heal itself",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260526233433.htm",
-          "publishedDate": "Wed, 27 May 2026 00:02:46 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists in Japan have created powerful new vitamin K-based compounds that may help the brain regenerate lost neurons — a breakthrough that could one day change how diseases like Alzheimer’s and Parkinson’s are treated. By combining…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Praise for FDA’s acting commissioner",
-          "url": "https://www.statnews.com/2026/05/26/kyle-diamantas-fda-draws-praise-nih-leadership-vacuum-dc-diagnosis/?utm_campaign=rss",
-          "publishedDate": "Tue, 26 May 2026 16:21:12 +0000",
-          "source": "statnews.com",
-          "summary": "Kyle Diamantas doesn't have the typical CV for an FDA commissioner, but he's earning early praise.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "STAT+: $775 billion, $1.2 billion, and $38k",
-          "url": "https://www.statnews.com/2026/05/26/medicaid-cuts-loom-health-insurance-cost-climbs-no-surprises-act/?utm_campaign=rss",
-          "publishedDate": "Tue, 26 May 2026 16:11:33 +0000",
-          "source": "statnews.com",
-          "summary": "Medicaid cuts stemming from Republicans' 2025 tax law are expected to be even bigger than forecast.",
-          "authors": "Bob Herman"
         }
       ]
     },

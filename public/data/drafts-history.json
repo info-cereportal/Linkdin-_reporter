@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-05-27T17:50:55.395Z",
+    "date": "2026-05-27",
+    "topic": "脳情報科学の最新研究",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Revealing the core dimensions underlying representations in brains, behavior and AI",
+    "paperLink": "https://arxiv.org/abs/2605.26921",
+    "figureUrl": "https://arxiv.org/html/2605.26921/2605.26921v1/x1.png",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n脳情報科学の最新研究の最新研究です。\n\n🔬 脳情報科学\n\n> The study of representations is widespread across fields, including neuroscience, psychology, and artificial intelligence. While representations are often studied and compared through similarities between stimuli, current methods provide only limited access to the dimensions...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Revealing the core dimensions underlying representations in brains, behavior and AI\n🔗 https://arxiv.org/abs/2605.26921\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #神経科学",
+    "summaryJP": "脳情報科学の最新研究 — 次世代へ続く布石（神経デコーディング）",
+    "paperAuthors": "Florian P. Mahner, Ka Chun Lam, Francisco Pereira, Martin N. Hebart",
+    "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+    "paperId": "2605.26921",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "脳情報科学"
+    ],
+    "abstractExcerpt": "The study of representations is widespread across fields, including neuroscience, psychology, and artificial intelligence. While representations are often studied and compared through similarities between stimuli, current methods provide…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.26921/2605.26921v1/x1.png",
+      "https://arxiv.org/html/2605.26921/2605.26921v1/x2.png",
+      "https://arxiv.org/html/2605.26921/2605.26921v1/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-27T12:11:31.175Z",
     "date": "2026-05-27",
     "topic": "学習",
@@ -1268,37 +1294,6 @@
       "https://arxiv.org/html/2601.10397/2601.10397v3/x1.png",
       "https://arxiv.org/html/2601.10397/2601.10397v3/x2.png",
       "https://arxiv.org/html/2601.10397/2601.10397v3/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-20T02:11:54.035Z",
-    "date": "2026-05-20",
-    "topic": "表現学習と神経デコーディング",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity",
-    "paperLink": "https://arxiv.org/abs/2603.03190",
-    "figureUrl": "https://arxiv.org/html/2603.03190/2603.03190v3/figures/concept.png",
-    "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n表現学習と神経デコーディングの最新成果を整理しました。\n\n🔬 表現学習 × 神経デコーディング × 神経エンコーディング × 学習\n\n📊 注目すべきデータ：\n→ Models pretrained to predict either representation outperform non-pretrained baselines, and combining them yields complementary gains that exceed strong seed ensembles formed by...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity\n🔗 https://arxiv.org/abs/2603.03190\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #脳情報",
-    "summaryJP": "表現学習と神経デコーディング — 注目すべき3つの示唆（神経デコーディング）",
-    "paperAuthors": "Shogo Noguchi, Taketo Akama, Tai Nakamura, Shun Minamikawa, Natalia Polouliakh",
-    "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
-    "paperId": "2603.03190",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "表現学習",
-      "神経デコーディング",
-      "神経エンコーディング",
-      "学習",
-      "ECoG(皮質脳波)",
-      "EEG"
-    ],
-    "abstractExcerpt": "During music listening, cortical activity encodes both acoustic and expectation-related information. Prior work has shown that ANN representations resemble cortical representations and can serve as supervisory signals for EEG recognition.…",
-    "figureUrls": [
-      "https://arxiv.org/html/2603.03190/2603.03190v3/figures/concept.png",
-      "https://arxiv.org/html/2603.03190/2603.03190v3/x1.png",
-      "https://arxiv.org/html/2603.03190/2603.03190v3/x2.png"
     ]
   }
 ]
