@@ -1,23 +1,28 @@
 {
-  "generatedAt": "2026-05-27T02:29:09.734Z",
+  "generatedAt": "2026-05-27T06:54:04.062Z",
   "date": "2026-05-27",
-  "topic": "ニューラルネットワークモデルとクローズドループ制御",
+  "topic": "強化学習と学習",
   "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Automated Place Preference Paradigm for Optogenetic Stimulation of the Pedunculopontine Nucleus Reveals Motor Arrest-Linked Preference Behavior",
-  "paperLink": "https://arxiv.org/abs/2601.12054",
-  "formatted": "この研究データ、知らないままでいいですか？\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nニューラルネットワークモデルとクローズドループ制御の最新研究です。\n\n🔬 ニューラルネットワークモデル × クローズドループ制御 × 情動\n\n📊 注目すべきデータ：\n→ When motor arrest was spatially paired with a defined region of interest, rats developed a robust place preference after limited training.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Automated Place Preference Paradigm for Optogenetic Stimulation of the Pedunculopontine Nucleus Reveals Motor Arrest-Linked Preference Behavior\n🔗 https://arxiv.org/abs/2601.12054\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #DeepLearning",
-  "summaryJP": "ニューラルネットワークモデルとクローズドループ制御 — 次世代へ続く布石（BCI・ニューラルインターフェース）",
-  "paperAuthors": "Guanghui Li, Xingfei Hou, Zhenxiang Zhao",
-  "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
-  "paperId": "2601.12054",
+  "paperTitle": "Probabilistic Recurrent Intention Switching Model",
+  "paperLink": "https://arxiv.org/abs/2605.26998",
+  "figureUrl": "https://arxiv.org/html/2605.26998/2605.26998v1/x1.png",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n強化学習と学習の最新研究です。\n\n🔬 強化学習 × 学習 × 記憶\n\n> Inverse reinforcement learning (IRL) recovers reward functions from observed behavior, yet traditional methods assume a single stationary reward that cannot capture goal switching within an episode. Recent multi-intention IRL methods address this by segmenting trajectories, but...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Probabilistic Recurrent Intention Switching Model\n🔗 https://arxiv.org/abs/2605.26998\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #BrainComputerInterface",
+  "summaryJP": "強化学習と学習 — 次世代へ続く布石（計算論的神経科学）",
+  "paperAuthors": "Wenyuan Sheng, Hao Zhu, Joschka Boedecker",
+  "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+  "paperId": "2605.26998",
   "paperSource": "arxiv",
-  "themeArea": "BCI・ニューラルインターフェース",
+  "themeArea": "計算論的神経科学",
   "jpKeywords": [
-    "ニューラルネットワークモデル",
-    "クローズドループ制御",
-    "情動"
+    "強化学習",
+    "学習",
+    "記憶"
   ],
-  "abstractExcerpt": "Understanding how the brain integrates motor suppression with motivational processes remains a fundamental question in neuroscience. The rostral Pedunculopontine nucleus, a brainstem structure involved in motor control, has been shown to…",
-  "figureUrls": []
+  "abstractExcerpt": "Inverse reinforcement learning (IRL) recovers reward functions from observed behavior, yet traditional methods assume a single stationary reward that cannot capture goal switching within an episode. Recent multi-intention IRL methods…",
+  "figureUrls": [
+    "https://arxiv.org/html/2605.26998/2605.26998v1/x1.png",
+    "https://arxiv.org/html/2605.26998/2605.26998v1/x2.png",
+    "https://arxiv.org/html/2605.26998/2605.26998v1/x5.png"
+  ]
 }

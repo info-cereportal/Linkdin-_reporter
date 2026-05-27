@@ -1,5 +1,33 @@
 [
   {
+    "generatedAt": "2026-05-27T06:54:04.062Z",
+    "date": "2026-05-27",
+    "topic": "強化学習と学習",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Probabilistic Recurrent Intention Switching Model",
+    "paperLink": "https://arxiv.org/abs/2605.26998",
+    "figureUrl": "https://arxiv.org/html/2605.26998/2605.26998v1/x1.png",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n強化学習と学習の最新研究です。\n\n🔬 強化学習 × 学習 × 記憶\n\n> Inverse reinforcement learning (IRL) recovers reward functions from observed behavior, yet traditional methods assume a single stationary reward that cannot capture goal switching within an episode. Recent multi-intention IRL methods address this by segmenting trajectories, but...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Probabilistic Recurrent Intention Switching Model\n🔗 https://arxiv.org/abs/2605.26998\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #BrainComputerInterface",
+    "summaryJP": "強化学習と学習 — 次世代へ続く布石（計算論的神経科学）",
+    "paperAuthors": "Wenyuan Sheng, Hao Zhu, Joschka Boedecker",
+    "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+    "paperId": "2605.26998",
+    "paperSource": "arxiv",
+    "themeArea": "計算論的神経科学",
+    "jpKeywords": [
+      "強化学習",
+      "学習",
+      "記憶"
+    ],
+    "abstractExcerpt": "Inverse reinforcement learning (IRL) recovers reward functions from observed behavior, yet traditional methods assume a single stationary reward that cannot capture goal switching within an episode. Recent multi-intention IRL methods…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.26998/2605.26998v1/x1.png",
+      "https://arxiv.org/html/2605.26998/2605.26998v1/x2.png",
+      "https://arxiv.org/html/2605.26998/2605.26998v1/x5.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-27T02:29:09.734Z",
     "date": "2026-05-27",
     "topic": "ニューラルネットワークモデルとクローズドループ制御",
@@ -1273,32 +1301,6 @@
       "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure1_pipeline.png",
       "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure2_architecture.png",
       "https://arxiv.org/html/2605.16739/2605.16739v1/figures/figure4_qualitative.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-19T19:42:52.496Z",
-    "date": "2026-05-19",
-    "topic": "学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior",
-    "paperLink": "https://arxiv.org/abs/2502.20349",
-    "figureUrl": "https://arxiv.org/html/2502.20349/2502.20349v3/x1.png",
-    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習\n\n> How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace experiments with increasingly naturalistic...\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior\n🔗 https://arxiv.org/abs/2502.20349\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #DeepLearning",
-    "summaryJP": "学習 — 数値で示された新事実",
-    "paperAuthors": "Wilka Carvalho, Andrew Lampinen",
-    "publishedDate": "Tue, 19 May 2026 00:00:00 -0400",
-    "paperId": "2502.20349",
-    "paperSource": "arxiv",
-    "themeArea": "脳情報科学",
-    "jpKeywords": [
-      "学習"
-    ],
-    "abstractExcerpt": "How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace…",
-    "figureUrls": [
-      "https://arxiv.org/html/2502.20349/2502.20349v3/x1.png",
-      "https://arxiv.org/html/2502.20349/2502.20349v3/x2.png",
-      "https://arxiv.org/html/2502.20349/2502.20349v3/x4.png"
     ]
   }
 ]

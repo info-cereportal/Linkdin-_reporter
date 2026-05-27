@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T02:29:10.290Z",
+  "generatedAt": "2026-05-27T06:54:04.384Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Sensing Intelligence as a Trainable Metamaterial Property",
-          "url": "https://arxiv.org/abs/2605.23967",
-          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+          "title": "Random neural networks match observed dimensionality of neural population recordings and motivate stronger experimental tests",
+          "url": "https://arxiv.org/abs/2605.26551",
+          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In biological systems, sensing is not performed by the brain alone: the body deforms, vibrates, and filters external stimuli before they are transduced into neural signals. In engineered systems, this processing burden is placed largely on…",
-          "authors": "Kyungmi Na, Yifei Li, Xinyi Yang, Bolei Deng"
+          "summary": "Randomly connected neural networks have long served as a theoretical tool for studying collective dynamics in neural populations, yet quantitative comparisons to experiments remain limited. Recent technological advances have made it…",
+          "authors": "Zehui Zhao, Michael J Pasek, Ilya M Nemenman"
         },
         {
-          "title": "Metacognition Should Be the Scientific Framework for Bounded and Effective Self-Governance in Generative AI",
-          "url": "https://arxiv.org/abs/2605.23981",
-          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+          "title": "The Sensation Modulating Network:Haltability as the architectural ground for object-directed phenomenology",
+          "url": "https://arxiv.org/abs/2605.26856",
+          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Generative AI research increasingly confronts a shared problem: systems must sustain yet govern their own generative activity when uncertainty is high, evidence is missing, or context is insufficient. This position paper argues that…",
-          "authors": "Eugene Yu Ji, Igor Grossmann, Amir-Hossein Karimi"
+          "summary": "Cognitive science remains split between cognitivism - which accounts for recursion and language but cannot ground formal symbols in meaning - and 4E approaches - which ground cognition in the body but rarely specify the body's architecture…",
+          "authors": "G. Nagarjuna, Durgaprasad Karnam"
         },
         {
-          "title": "Interpretation, Learning, and Empathy as One Constraint: A Residual-Adequacy Architecture with Accountable Abstention",
-          "url": "https://arxiv.org/abs/2605.24999",
-          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+          "title": "Revealing the core dimensions underlying representations in brains, behavior and AI",
+          "url": "https://arxiv.org/abs/2605.26921",
+          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "An agent must act on the situation before it, learn what it cannot yet represent, and model other agents well enough to coordinate. These faculties are usually realized by separate mechanisms, yet they share a failure mode: the situation…",
-          "authors": "Chainarong Amornbunchornvej"
+          "summary": "The study of representations is widespread across fields, including neuroscience, psychology, and artificial intelligence. While representations are often studied and compared through similarities between stimuli, current methods provide…",
+          "authors": "Florian P. Mahner, Ka Chun Lam, Francisco Pereira, Martin N. Hebart"
         },
         {
-          "title": "Growing a Neural Network in Breadth, Depth, and Time",
-          "url": "https://arxiv.org/abs/2605.25174",
-          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+          "title": "Signal-to-Noise Ratio and Sample Size Govern Representational Alignment in Neural Networks",
+          "url": "https://arxiv.org/abs/2605.26973",
+          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spatial and temporal resource constraints are critical for both biological and artificial intelligent systems. Here we define differentiable cost terms for breadth, depth, and time within a recurrent convolutional neural network conceived…",
-          "authors": "Eivinas Butkus, Kedar Garzón Gupta, Nikolaus Kriegeskorte"
+          "summary": "Neural networks are known to develop latent representations that are $aligned$, namely structurally similar across networks trained with different architectures, training protocols, or training datasets. We study this phenomenon in a…",
+          "authors": "Ali Hussaini Umar, Alessandro Laio"
         },
         {
-          "title": "A Quantum-Analogue Formalism for Modeling Supraliminal Information Processing",
-          "url": "https://arxiv.org/abs/2605.25214",
-          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+          "title": "Probabilistic Recurrent Intention Switching Model",
+          "url": "https://arxiv.org/abs/2605.26998",
+          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We develop a novel cloud-function formalism describing the dynamical relationship between sensory-information processing in large-scale brain networks (supraliminal processing) and the content of the mental representation of an observed…",
-          "authors": "Vasily Lubashevskiy, Ihor Lubashevsky"
+          "summary": "Inverse reinforcement learning (IRL) recovers reward functions from observed behavior, yet traditional methods assume a single stationary reward that cannot capture goal switching within an episode. Recent multi-intention IRL methods…",
+          "authors": "Wenyuan Sheng, Hao Zhu, Joschka Boedecker"
         },
         {
-          "title": "Multi-Objective Optimisation with Oscillatory Dynamics in Spontaneous and Decision Spiking Neural Networks",
-          "url": "https://arxiv.org/abs/2605.25224",
-          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+          "title": "Beyond Binary: Speech Representations Across the Cognitive Score Hierarchy",
+          "url": "https://arxiv.org/abs/2605.27189",
+          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking neural networks (SNNs) can be used for implementing cost-efficient artificial intelligence computing or mechanistic modelling of experimentally observed neural data. In the latter, fitting neural data with recurrent SNNs (RSNNs)…",
-          "authors": "Divyansh Sethi, Muhammad Faraz, KongFatt Wong-Lin"
+          "summary": "This study examines the relationship between speech representations and the hierarchical structure of cognitive assessment in mild cognitive impairment. Utilizing 5,754 German neuropsychological assessment recordings, we evaluate six…",
+          "authors": "Serli Kopar, Roshan Prakash Rane, Christian Mychajliw, Lydia Federmann, Gerhard Eschweiler, Daniela Berg, Sam Gijsen, Paula Andrea Perez-Toro, Kerstin Ritter"
         }
       ]
     },
@@ -118,6 +118,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists are raising new questions about vitamin B12 and cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260526022009.htm",
+          "publishedDate": "Wed, 27 May 2026 00:52:06 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Vitamin B12 has long been seen as a health hero, helping the body make red blood cells, repair DNA, and keep nerves functioning properly. But scientists are discovering that the story may be more complicated than simply “more is better.”…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists create supercharged vitamin K that helps the brain heal itself",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260526233433.htm",
+          "publishedDate": "Wed, 27 May 2026 00:02:46 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists in Japan have created powerful new vitamin K-based compounds that may help the brain regenerate lost neurons — a breakthrough that could one day change how diseases like Alzheimer’s and Parkinson’s are treated. By combining…",
+          "authors": ""
+        },
+        {
           "title": "STAT+: Praise for FDA’s acting commissioner",
           "url": "https://www.statnews.com/2026/05/26/kyle-diamantas-fda-draws-praise-nih-leadership-vacuum-dc-diagnosis/?utm_campaign=rss",
           "publishedDate": "Tue, 26 May 2026 16:21:12 +0000",
@@ -148,22 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "Researchers at Texas A&M have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring the brain’s energy systems. After just two doses, memory and cognitive function improved for months, raising…",
           "authors": ""
-        },
-        {
-          "title": "STAT+: How Kyle Diamantas defied expectations as he rose to lead the FDA",
-          "url": "https://www.statnews.com/2026/05/26/kyle-diamantas-acting-fda-commissioner-wins-trust-exceeds-expectations/?utm_campaign=rss",
-          "publishedDate": "Tue, 26 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "WASHINGTON — People in the food world didn’t know what to expect when the Trump administration appointed a little-known Florida attorney as the FDA’s top food official in 2025.&#160; They&#8230;",
-          "authors": "Lizzy Lawrence"
-        },
-        {
-          "title": "USC scientists discover a hidden Alzheimer’s trigger and a possible way to shut it down",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260525000504.htm",
-          "publishedDate": "Tue, 26 May 2026 00:56:55 EDT",
-          "source": "sciencedaily.com",
-          "summary": "USC researchers have identified potential new drug compounds that may reduce the brain inflammation linked to Alzheimer’s disease, especially in people with the high-risk APOE4 gene. The compounds target cPLA2, an enzyme that seems to fuel…",
-          "authors": ""
         }
       ]
     },
@@ -173,61 +173,77 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Cultivating Machine Intelligence: The OMEGA Shift from Top-Down Optimization to Autopoietic Cognitive Ecologies",
-          "url": "https://arxiv.org/abs/2605.25062",
-          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+          "title": "Evolutionary Data Theory: On the Similarities between Data Problems and Evolutionary Games",
+          "url": "https://arxiv.org/abs/2605.26685",
+          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The dominant artificial intelligence paradigm trains neural architectures via gradient descent against proxy objectives and reinforcement learning from human feedback. While remarkably capable, this top-down optimization inherently…",
-          "authors": "Ata G. Zare"
+          "summary": "Applying the concepts and formalisms from Evolutionary Game Theory to the data regime, the fundamental paradigms of Evolutionary Data Theory are introduced. Interpreting data in matrix form as evolutionary entities, input data is mapped to…",
+          "authors": "Philipp Wissgott"
         },
         {
-          "title": "Anarchy in the swarm: Testing informed and uninformed diversity-enhancing mechanisms within PSO framework",
-          "url": "https://arxiv.org/abs/2605.25093",
-          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+          "title": "Unified Neural Scaling Laws",
+          "url": "https://arxiv.org/abs/2605.26248",
+          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Particle Swarm Optimization (PSO) frequently suffers from premature convergence. This paper introduces a family of problem-informed diversity-enhancing strategies that manipulate the swarm's social and cognitive components. These include…",
-          "authors": "Piotr Urbańczyk, Aleksandra Urbańczyk"
+          "summary": "We present a functional form (that we refer to as a Unified Neural Scaling Law (UNSL)) that accurately models and extrapolates the scaling behaviors of deep neural networks as multiple dimensions all vary simultaneously (i.e. how the…",
+          "authors": "Ethan Caballero, Priyank Jaini, David Krueger, Irina Rish"
         },
         {
-          "title": "A Scalable Benchmark Test Suite for Dynamic Multi-Objective Optimization with a Changing Number of Objectives",
-          "url": "https://arxiv.org/abs/2605.25785",
-          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+          "title": "Constitutional Arms Races in the Public Goods Game: Co-Evolving LLM Constitutions Under Cooperation-Defection Pressure",
+          "url": "https://arxiv.org/abs/2605.26448",
+          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Dynamic multi-objective optimization with a changing number of objectives has recently attracted increasing attention due to its relevance to real-world problems whose evaluation criteria may evolve over time. However, existing benchmark…",
-          "authors": "Ke Shang, Zhiyun Xiao, Yuxuan Liu, Jianguo Li, Shaojiang Wang, Wei Sun"
+          "summary": "Frontier LLM agents engage in blackmail, sabotage, and document leaks under goal conflicts in agentic settings, exposing limitations of alignment methods built around single-agent or cooperative assumptions. Recent work shows LLM-guided…",
+          "authors": "Ujwal Kumar, Arth Singh, Hershraj Niranjani, Machiko Hirota, Takehiro Takayanagi, Alice Saito, Eiji Kamioka, Phan Xuan Tan"
         },
         {
-          "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
-          "url": "https://arxiv.org/abs/2605.23908",
-          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+          "title": "Why Prompt Optimization Works, and Why It Sometimes Doesn't: A Causal-Inspired Edit-Level Analysis",
+          "url": "https://arxiv.org/abs/2605.26655",
+          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We are in the midst of large-scale industrial and academic efforts to automate the processes of scientific, technological and creative production through AI-driven assistants. Historically, a fundamental property of these processes in…",
-          "authors": "Sam Earle, Kay Arulkumaran, Andrew Dai, Akarsh Kumar, Julian Togelius, Sebastian Risi"
+          "summary": "Automated prompt optimization methods (e.g., DSpy, TextGrad) can substantially improve the performance of large language model (LLM), however, their generalization ability across different tasks remains underperformed. In practice, the…",
+          "authors": "Shuzhi Gong, Hechuan Wen"
         },
         {
-          "title": "Memory Uncertainty Relation and Harmonic Memory in Random Recurrent Networks",
-          "url": "https://arxiv.org/abs/2605.24628",
-          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+          "title": "Signal-to-Noise Ratio and Sample Size Govern Representational Alignment in Neural Networks",
+          "url": "https://arxiv.org/abs/2605.26973",
+          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We present an inequality that bounds the short-term memory capability of dynamical systems from below. It can be interpreted as an uncertainty relation between a measure of short-term memory and that of the size of state fluctuations…",
-          "authors": "Taichi Haruna, Kohei Nakajima"
+          "summary": "Neural networks are known to develop latent representations that are $aligned$, namely structurally similar across networks trained with different architectures, training protocols, or training datasets. We study this phenomenon in a…",
+          "authors": "Ali Hussaini Umar, Alessandro Laio"
         },
         {
-          "title": "Convex-Neural RRT*: Fast and Reliable Learning-Guided Sampling for High-Quality Robot Path Planning",
-          "url": "https://arxiv.org/abs/2605.25006",
-          "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
+          "title": "NeuroRing: Scaling Spiking Neural Networks via Multi-FPGA Bidirectional Ring Topologies and Stream-Dataflow Architectures",
+          "url": "https://arxiv.org/abs/2604.28059",
+          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Sampling-based algorithms for robot path planning offer probabilistic completeness and strong empirical convergence properties across environments with diverse obstacle configurations. However, in practice, these methods often require many…",
-          "authors": "Hichem Cheriet, Badra Khellat Kihel, Samira Chouraqui, Bara J. Emran"
+          "summary": "Spiking neural networks (SNNs) are a promising paradigm for energy-efficient event-driven computation, but large-scale SNN execution remains challenging because sparse spike communication and synchronization can dominate runtime. Existing…",
+          "authors": "Muhammad Ihsan Al Hafiz, Artur Podobas"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 2,
+      "items": [
+        {
+          "title": "Receiver-Centric TDOA Localization Framework for DAB Signals under Synchronization Impairments",
+          "url": "https://arxiv.org/abs/2605.26545",
+          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "In Global Navigation Satellite System (GNSS)-denied environments, terrestrial signals of opportunity (SoOP) offer an alternative for positioning, but synchronization impairments such as clock offsets, drift, and multipath limit…",
+          "authors": "Mustafa Furkan Beker, Abdullah Tan, Khaled Walid Elgammal, Mehmet Kemal Ozdemir"
+        },
+        {
+          "title": "Same Signal, Different Story: Demystifying Receiver Effects in Wi-Fi Channel State Information",
+          "url": "https://arxiv.org/abs/2605.26836",
+          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Wi-Fi sensing has emerged as a versatile tool for tasks such as localization, gesture recognition, and vital-sign monitoring, enabling applications from smart environments to personalized healthcare. However, sensing accuracy often…",
+          "authors": "Fabian Portner, Francesco Gringoli, Matthias Hollick, Arash Asadi"
+        }
+      ]
     }
   }
 }
