@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-05-27T19:58:56.861Z",
+  "generatedAt": "2026-05-27T22:24:38.862Z",
   "date": "2026-05-27",
-  "topic": "ニューラルマニフォールド",
+  "topic": "強化学習と学習",
   "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Random neural networks match observed dimensionality of neural population recordings and motivate stronger experimental tests",
-  "paperLink": "https://arxiv.org/abs/2605.26551",
-  "figureUrl": "https://arxiv.org/html/2605.26551/2605.26551v1/x1.png",
-  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nニューラルマニフォールドの最新研究です。\n\n🔬 ニューラルマニフォールド\n\n> Randomly connected neural networks have long served as a theoretical tool for studying collective dynamics in neural populations, yet quantitative comparisons to experiments remain limited. Recent technological advances have made it possible to resolve population-wide...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Random neural networks match observed dimensionality of neural population recordings and motivate stronger experimental tests\n🔗 https://arxiv.org/abs/2605.26551\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #脳情報",
-  "summaryJP": "ニューラルマニフォールド — 次世代へ続く布石（コネクトミクス・回路解析）",
-  "paperAuthors": "Zehui Zhao, Michael J Pasek, Ilya M Nemenman",
+  "paperTitle": "Probabilistic Recurrent Intention Switching Model",
+  "paperLink": "https://arxiv.org/abs/2605.26998",
+  "figureUrl": "https://arxiv.org/html/2605.26998/2605.26998v1/x1.png",
+  "formatted": "これを読んで、脳に対する見方が変わりました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n強化学習と学習の最新研究です。\n\n🔬 強化学習 × 学習 × 記憶\n\n> Inverse reinforcement learning (IRL) recovers reward functions from observed behavior, yet traditional methods assume a single stationary reward that cannot capture goal switching within an episode. Recent multi-intention IRL methods address this by segmenting trajectories, but...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Probabilistic Recurrent Intention Switching Model\n🔗 https://arxiv.org/abs/2605.26998\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #計算論的神経科学",
+  "summaryJP": "強化学習と学習 — 次世代へ続く布石（計算論的神経科学）",
+  "paperAuthors": "Wenyuan Sheng, Hao Zhu, Joschka Boedecker",
   "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
-  "paperId": "2605.26551",
+  "paperId": "2605.26998",
   "paperSource": "arxiv",
-  "themeArea": "コネクトミクス・回路解析",
+  "themeArea": "計算論的神経科学",
   "jpKeywords": [
-    "ニューラルマニフォールド"
+    "強化学習",
+    "学習",
+    "記憶"
   ],
-  "abstractExcerpt": "Randomly connected neural networks have long served as a theoretical tool for studying collective dynamics in neural populations, yet quantitative comparisons to experiments remain limited. Recent technological advances have made it…",
+  "abstractExcerpt": "Inverse reinforcement learning (IRL) recovers reward functions from observed behavior, yet traditional methods assume a single stationary reward that cannot capture goal switching within an episode. Recent multi-intention IRL methods…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.26551/2605.26551v1/x1.png",
-    "https://arxiv.org/html/2605.26551/2605.26551v1/x2.png",
-    "https://arxiv.org/html/2605.26551/2605.26551v1/x3.png"
+    "https://arxiv.org/html/2605.26998/2605.26998v1/x1.png",
+    "https://arxiv.org/html/2605.26998/2605.26998v1/x2.png",
+    "https://arxiv.org/html/2605.26998/2605.26998v1/x5.png"
   ]
 }

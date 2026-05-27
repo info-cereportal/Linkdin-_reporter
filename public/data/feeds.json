@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T19:58:57.507Z",
+  "generatedAt": "2026-05-27T22:24:39.105Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Heart patch engineered from stem cells revved up weakened hearts",
+          "url": "https://www.statnews.com/2026/05/27/biovat-heart-failure-stem-cell-muscle-patch-nejm-study/?utm_campaign=rss",
+          "publishedDate": "Wed, 27 May 2026 21:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "A stem cell-based heart patch improved pumping in a small trial for advanced heart failure. \"Very good first step,\" researcher says.",
+          "authors": "Elizabeth Cooney"
+        },
+        {
           "title": "Trump says latest medical exam went ‘PERFECTLY’",
           "url": "https://www.statnews.com/2026/05/27/health-news-trump-says-latest-medical-exam-went-perfectly/?utm_campaign=rss",
           "publishedDate": "Wed, 27 May 2026 11:52:33 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "The Trump administration disclosed plans to reduce state directed payments even more, setting up a probable showdown with provider groups.",
           "authors": "Tara Bannow"
-        },
-        {
-          "title": "A CDC page on mpox caught in political crosshairs",
-          "url": "https://www.statnews.com/2026/05/22/health-news-cdc-mpox-page-caught-in-political-crosshairs/?utm_campaign=rss",
-          "publishedDate": "Fri, 22 May 2026 13:14:29 +0000",
-          "source": "statnews.com",
-          "summary": "Seed oil panic, how STIs spread, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
         }
       ]
     },
