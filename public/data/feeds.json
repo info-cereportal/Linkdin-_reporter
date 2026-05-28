@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T02:01:22.120Z",
+  "generatedAt": "2026-05-28T06:42:54.941Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Random neural networks match observed dimensionality of neural population recordings and motivate stronger experimental tests",
-          "url": "https://arxiv.org/abs/2605.26551",
-          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "title": "Exploratory Experience Shapes the Geometry of Predictive Representations",
+          "url": "https://arxiv.org/abs/2605.27929",
+          "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Randomly connected neural networks have long served as a theoretical tool for studying collective dynamics in neural populations, yet quantitative comparisons to experiments remain limited. Recent technological advances have made it…",
-          "authors": "Zehui Zhao, Michael J Pasek, Ilya M Nemenman"
+          "summary": "Active sensing links behavior and learning through an action-perception loop: actions determine the observations used to update internal predictive models of perception, which subsequently guide the next actions. Predictive-coding…",
+          "authors": "Kseniia Shilova, Abdelrahman Sharafeldin, Advay Balakrishnan, Hannah Choi"
         },
         {
-          "title": "The Sensation Modulating Network:Haltability as the architectural ground for object-directed phenomenology",
-          "url": "https://arxiv.org/abs/2605.26856",
-          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "title": "Misalignment Between Backpropagation and the Hierarchy of Brain Responses to Images",
+          "url": "https://arxiv.org/abs/2605.28693",
+          "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Cognitive science remains split between cognitivism - which accounts for recursion and language but cannot ground formal symbols in meaning - and 4E approaches - which ground cognition in the body but rarely specify the body's architecture…",
-          "authors": "G. Nagarjuna, Durgaprasad Karnam"
+          "summary": "Backpropagation is the core learning mechanism underlying deep learning. However, whether and how this algorithm is implemented in the brain remains highly debated. In particular, while forward activations of pretrained models reliably map…",
+          "authors": "Joséphine Raugel, Maximilian Seitzer, Marc Szafraniec, Huy V. Vo, Jérémy Rapin, Patrick Labatut, Piotr Bojanowski, Valentin Wyart, Jean-Rémi King"
         },
         {
-          "title": "Revealing the core dimensions underlying representations in brains, behavior and AI",
-          "url": "https://arxiv.org/abs/2605.26921",
-          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "title": "EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models",
+          "url": "https://arxiv.org/abs/2605.26910",
+          "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The study of representations is widespread across fields, including neuroscience, psychology, and artificial intelligence. While representations are often studied and compared through similarities between stimuli, current methods provide…",
-          "authors": "Florian P. Mahner, Ka Chun Lam, Francisco Pereira, Martin N. Hebart"
+          "summary": "Large EEG Foundation Models (FMs) have shown great potential for decoding EEG signals across diverse cognitive tasks. However, existing EEG-FM studies exhibit three critical limitations: opaque supervised baseline tuning, unverified…",
+          "authors": "Xianheng Wang, Yige Yang, Damien Coyle"
         },
         {
-          "title": "Signal-to-Noise Ratio and Sample Size Govern Representational Alignment in Neural Networks",
-          "url": "https://arxiv.org/abs/2605.26973",
-          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "title": "You Are in Control of Your State: Why Human Outcomes Are Controllable Through Causal State Intervention",
+          "url": "https://arxiv.org/abs/2605.27580",
+          "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neural networks are known to develop latent representations that are $aligned$, namely structurally similar across networks trained with different architectures, training protocols, or training datasets. We study this phenomenon in a…",
-          "authors": "Ali Hussaini Umar, Alessandro Laio"
+          "summary": "A central puzzle for the behavioural sciences and for human-facing artificial intelligence is the persistence of within-person variability. The same individual, presented with the same observable input, produces different outcomes on…",
+          "authors": "Suraj Biswas, Saurav Gupta, Pritam Mukherjee"
         },
         {
-          "title": "Probabilistic Recurrent Intention Switching Model",
-          "url": "https://arxiv.org/abs/2605.26998",
-          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "title": "The Illusion of Opting in AI-Mediated Consequential Decisions",
+          "url": "https://arxiv.org/abs/2605.28210",
+          "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Inverse reinforcement learning (IRL) recovers reward functions from observed behavior, yet traditional methods assume a single stationary reward that cannot capture goal switching within an episode. Recent multi-intention IRL methods…",
-          "authors": "Wenyuan Sheng, Hao Zhu, Joschka Boedecker"
+          "summary": "Drawing on Ullmann-Margalit's concept of opting (transformative, irrevocable, and shadowed by foreclosed alternatives), we show that current AI systems raise a profound ethical problem that existing AI ethics has not fully captured: the…",
+          "authors": "Eugene Yu Ji"
         },
         {
-          "title": "Beyond Binary: Speech Representations Across the Cognitive Score Hierarchy",
-          "url": "https://arxiv.org/abs/2605.27189",
-          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "title": "VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading",
+          "url": "https://arxiv.org/abs/2605.28818",
+          "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This study examines the relationship between speech representations and the hierarchical structure of cognitive assessment in mild cognitive impairment. Utilizing 5,754 German neuropsychological assessment recordings, we evaluate six…",
-          "authors": "Serli Kopar, Roshan Prakash Rane, Christian Mychajliw, Lydia Federmann, Gerhard Eschweiler, Daniela Berg, Sam Gijsen, Paula Andrea Perez-Toro, Kerstin Ritter"
+          "summary": "Large language models (LLMs) have become increasingly useful computational models of human language processing, but it remains unclear whether vision-language learning makes text representations more human-like during natural reading.…",
+          "authors": "Jinzhou Wu, Zhengwu Ma, Jixing Li, Baoping Tang, Zitong Lu"
         }
       ]
     },
@@ -118,6 +118,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "New depression treatment targets the immune system instead of the brain",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260527023204.htm",
+          "publishedDate": "Thu, 28 May 2026 00:42:54 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A surprising new approach to depression treatment is showing early promise — not by targeting brain chemicals, but by calming the immune system. In a small clinical trial, researchers found that an anti-inflammatory drug normally used for…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover hidden gut-brain circuit that triggers protein cravings",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260527023202.htm",
+          "publishedDate": "Thu, 28 May 2026 00:35:19 EDT",
+          "source": "sciencedaily.com",
+          "summary": "When the body runs low on protein, the gut sends powerful signals to the brain that reshape cravings and push animals to seek essential amino acids instead of sugar. Researchers say this newly discovered gut-brain network could transform…",
+          "authors": ""
+        },
+        {
           "title": "New drug could finally stop deadly fatty liver disease",
           "url": "https://www.sciencedaily.com/releases/2026/05/260526233632.htm",
           "publishedDate": "Wed, 27 May 2026 08:49:37 EDT",
@@ -148,22 +164,6 @@
           "source": "statnews.com",
           "summary": "“Trump has willingly exposed an entire generation of children to Big Tobacco’s nicotine addiction,” writes Sen. Dick Durbin.",
           "authors": "Dick Durbin"
-        },
-        {
-          "title": "Scientists say guava juice could make iron supplements work better",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260527023200.htm",
-          "publishedDate": "Wed, 27 May 2026 03:09:36 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers found that drinking guava juice may significantly improve anemia by helping the body absorb iron more efficiently. In a review of 17 studies, women and teenage girls who consumed guava juice — especially with iron supplements —…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists are raising new questions about vitamin B12 and cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260526022009.htm",
-          "publishedDate": "Wed, 27 May 2026 00:52:06 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Vitamin B12 has long been seen as a health hero, helping the body make red blood cells, repair DNA, and keep nerves functioning properly. But scientists are discovering that the story may be more complicated than simply “more is better.”…",
-          "authors": ""
         }
       ]
     },
@@ -173,75 +173,67 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Evolutionary Data Theory: On the Similarities between Data Problems and Evolutionary Games",
-          "url": "https://arxiv.org/abs/2605.26685",
-          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "title": "Benchmarking Fairness in Spiking Neural Networks: Data Bias, Spurious Features, and Hardware Effects",
+          "url": "https://arxiv.org/abs/2605.27407",
+          "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Applying the concepts and formalisms from Evolutionary Game Theory to the data regime, the fundamental paradigms of Evolutionary Data Theory are introduced. Interpreting data in matrix form as evolutionary entities, input data is mapped to…",
-          "authors": "Philipp Wissgott"
+          "summary": "Evaluating fairness in Spiking Neural Networks (SNNs) demands rigorous benchmarks that reflect real-world complexities, yet existing assessments remain limited by superficial dataset diversity and idealized hardware assumptions. This work…",
+          "authors": "Hudi He, Fukun Wang, Zhe Wang, Xinyi Wang, Shuhan Ye, Jiarui Liu, Qing Qing, Ziqi Xu, Xikun Zhang, Renqiang Luo"
         },
         {
-          "title": "Unified Neural Scaling Laws",
-          "url": "https://arxiv.org/abs/2605.26248",
-          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "title": "STARS: Spike Tail-Aware Relational Synthesis for ANN-to-SNN Data-Free Knowledge Distillation",
+          "url": "https://arxiv.org/abs/2605.27409",
+          "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We present a functional form (that we refer to as a Unified Neural Scaling Law (UNSL)) that accurately models and extrapolates the scaling behaviors of deep neural networks as multiple dimensions all vary simultaneously (i.e. how the…",
-          "authors": "Ethan Caballero, Priyank Jaini, David Krueger, Irina Rish"
+          "summary": "SNNs promise energy-efficient and low-latency inference, but their performance still trails that of ANNs. ANN-to-SNN knowledge distillation helps narrow this gap, yet the original training data are often unavailable in practical deployment…",
+          "authors": "Shuhan Ye, Yi Yu, Qixin Zhang, Hui Lu, Jiaming He, Qinggang Zhang, Li Shen, Xudong Jiang"
         },
         {
-          "title": "Constitutional Arms Races in the Public Goods Game: Co-Evolving LLM Constitutions Under Cooperation-Defection Pressure",
-          "url": "https://arxiv.org/abs/2605.26448",
-          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "title": "Genetic algorithm vs. gradient descent for training a neural network architecture dedicated to low data regimes in small medical datasets",
+          "url": "https://arxiv.org/abs/2605.27411",
+          "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Frontier LLM agents engage in blackmail, sabotage, and document leaks under goal conflicts in agentic settings, exposing limitations of alignment methods built around single-agent or cooperative assumptions. Recent work shows LLM-guided…",
-          "authors": "Ujwal Kumar, Arth Singh, Hershraj Niranjani, Machiko Hirota, Takehiro Takayanagi, Alice Saito, Eiji Kamioka, Phan Xuan Tan"
+          "summary": "Aim/Introduction: Distance-encoding biomorphic-informational neural network (DEBI-NN) is a recently proposed architecture in which connection weights are defined by the distances between neurons positioned in a Euclidian space. This…",
+          "authors": "Amine Boukhari, Boglarka Ecsedi, Laszlo Papp, Mathieu Hatt"
         },
         {
-          "title": "Why Prompt Optimization Works, and Why It Sometimes Doesn't: A Causal-Inspired Edit-Level Analysis",
-          "url": "https://arxiv.org/abs/2605.26655",
-          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "title": "Advancing Direct Training for Spiking Neural Networks with Circulate-Firing Neurons and Learnable Gradients",
+          "url": "https://arxiv.org/abs/2605.27412",
+          "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Automated prompt optimization methods (e.g., DSpy, TextGrad) can substantially improve the performance of large language model (LLM), however, their generalization ability across different tasks remains underperformed. In practice, the…",
-          "authors": "Shuzhi Gong, Hechuan Wen"
+          "summary": "Spiking Neural Networks (SNNs) have emerged with promising energy-efficient property, yet a substantial performance gap persists compared to Artificial Neural Networks (ANNs). This gap stems from at least two key limitations: first,…",
+          "authors": "Feifan Zhou, Xiang Wei, Yang Liu, Qiang Yu"
         },
         {
-          "title": "Signal-to-Noise Ratio and Sample Size Govern Representational Alignment in Neural Networks",
-          "url": "https://arxiv.org/abs/2605.26973",
-          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "title": "On the Structural (Dis)Agreement of Landscape Representations in Black-Box Optimization",
+          "url": "https://arxiv.org/abs/2605.28121",
+          "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neural networks are known to develop latent representations that are $aligned$, namely structurally similar across networks trained with different architectures, training protocols, or training datasets. We study this phenomenon in a…",
-          "authors": "Ali Hussaini Umar, Alessandro Laio"
+          "summary": "Landscape feature representations play a central role in automated algorithm selection and meta-learning for black-box optimization, yet little is known about how different representations agree (or disagree) in the structures they impose…",
+          "authors": "Sara Gjorgjieva, Eva Tuba, Barbara Korou\\vsić Seljak, Carola Doerr, Tome Eftimov"
         },
         {
-          "title": "NeuroRing: Scaling Spiking Neural Networks via Multi-FPGA Bidirectional Ring Topologies and Stream-Dataflow Architectures",
-          "url": "https://arxiv.org/abs/2604.28059",
-          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "title": "Performance and Explainability Requirements of Evolutionary Algorithms in Real-World Physics-Informed Optimization",
+          "url": "https://arxiv.org/abs/2605.28164",
+          "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking neural networks (SNNs) are a promising paradigm for energy-efficient event-driven computation, but large-scale SNN execution remains challenging because sparse spike communication and synchronization can dominate runtime. Existing…",
-          "authors": "Muhammad Ihsan Al Hafiz, Artur Podobas"
+          "summary": "Evolutionary computation offers a variety of tools to solve complex real-world optimization problems. However, research often focuses on smaller, simplified problems and optimization algorithms that sometimes miss expectations in…",
+          "authors": "Helena Stegherr, Michael Heider, Nils Meyer, Tobias Thummerer, Thomas Wendler, Pierre Aublin, Ennio Idrobo-Àvila, Lars Mikelsons, Sebastian Zaunseder, Jörg Hähner"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 1,
       "items": [
         {
-          "title": "Receiver-Centric TDOA Localization Framework for DAB Signals under Synchronization Impairments",
-          "url": "https://arxiv.org/abs/2605.26545",
-          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
+          "title": "GraD-IBD: Graph Representation Learning from Diagnosis Trajectories for Early Detection of Inflammatory Bowel Disease",
+          "url": "https://arxiv.org/abs/2605.27799",
+          "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In Global Navigation Satellite System (GNSS)-denied environments, terrestrial signals of opportunity (SoOP) offer an alternative for positioning, but synchronization impairments such as clock offsets, drift, and multipath limit…",
-          "authors": "Mustafa Furkan Beker, Abdullah Tan, Khaled Walid Elgammal, Mehmet Kemal Ozdemir"
-        },
-        {
-          "title": "Same Signal, Different Story: Demystifying Receiver Effects in Wi-Fi Channel State Information",
-          "url": "https://arxiv.org/abs/2605.26836",
-          "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Wi-Fi sensing has emerged as a versatile tool for tasks such as localization, gesture recognition, and vital-sign monitoring, enabling applications from smart environments to personalized healthcare. However, sensing accuracy often…",
-          "authors": "Fabian Portner, Francesco Gringoli, Matthias Hollick, Arash Asadi"
+          "summary": "International Classification of Diseases (ICD) is a globally recognized coding system that records diagnostic events during each patient encounter, providing a standardized data foundation for various clinical tasks. However, the irregular…",
+          "authors": "Leo Y. Li-Han, Ellen L. Larson, Elizabeth B. Habermann, Cornelius A. Thiels, Hojjat Salehinejad"
         }
       ]
     }
