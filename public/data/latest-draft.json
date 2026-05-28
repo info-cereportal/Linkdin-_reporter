@@ -1,29 +1,31 @@
 {
-  "generatedAt": "2026-05-28T20:07:56.452Z",
+  "generatedAt": "2026-05-28T22:26:12.696Z",
   "date": "2026-05-28",
-  "topic": "意思決定と神経デコーディング",
+  "topic": "生物学的妥当性と視覚野",
   "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models",
-  "paperLink": "https://arxiv.org/abs/2605.26910",
-  "figureUrl": "https://arxiv.org/html/2605.26910/2605.26910v1/x1.png",
-  "formatted": "これを読んで、脳に対する見方が変わりました。\n\n脳科学とAI——その境界線が消えつつある。\n\n意思決定と神経デコーディングに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG × 意思決定 × 神経デコーディング × 学習\n\n📊 注目すべきデータ：\n→ We apply EEG-FM-Audit to four state-of-the-art EEG-FMs and five representative supervised models across three public datasets.\n→ Our results reveal that properly tuned supervised baselines can match or outperform advanced FMs, despite requiring significantly fewer parameters.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models\n🔗 https://arxiv.org/abs/2605.26910\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #BrainComputerInterface",
-  "summaryJP": "意思決定と神経デコーディング — 脳科学とAIをつなぐ研究（神経デコーディング）",
-  "paperAuthors": "Xianheng Wang, Yige Yang, Damien Coyle",
+  "paperTitle": "Misalignment Between Backpropagation and the Hierarchy of Brain Responses to Images",
+  "paperLink": "https://arxiv.org/abs/2605.28693",
+  "figureUrl": "https://arxiv.org/html/2605.28693/2605.28693v1/Figs_Backprop/1.png",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n脳科学とAI——その境界線が消えつつある。\n\n生物学的妥当性と視覚野に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 生物学的妥当性 × 視覚野 × 深層学習 × 学習\n\n> Backpropagation is the core learning mechanism underlying deep learning. However, whether and how this algorithm is implemented in the brain remains highly debated.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Misalignment Between Backpropagation and the Hierarchy of Brain Responses to Images\n🔗 https://arxiv.org/abs/2605.28693\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #NeuroAI",
+  "summaryJP": "生物学的妥当性と視覚野 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+  "paperAuthors": "Joséphine Raugel, Maximilian Seitzer, Marc Szafraniec, Huy V. Vo, Jérémy Rapin, Patrick Labatut, Piotr Bojanowski, Valentin Wyart, Jean-Rémi King",
   "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
-  "paperId": "2605.26910",
+  "paperId": "2605.28693",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "EEG",
-    "意思決定",
-    "神経デコーディング",
-    "学習"
+    "生物学的妥当性",
+    "視覚野",
+    "深層学習",
+    "学習",
+    "fMRI",
+    "MEG(脳磁図)"
   ],
-  "abstractExcerpt": "Large EEG Foundation Models (FMs) have shown great potential for decoding EEG signals across diverse cognitive tasks. However, existing EEG-FM studies exhibit three critical limitations: opaque supervised baseline tuning, unverified…",
+  "abstractExcerpt": "Backpropagation is the core learning mechanism underlying deep learning. However, whether and how this algorithm is implemented in the brain remains highly debated. In particular, while forward activations of pretrained models reliably map…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.26910/2605.26910v1/x1.png",
-    "https://arxiv.org/html/2605.26910/2605.26910v1/x2.png",
-    "https://arxiv.org/html/2605.26910/2605.26910v1/x3.png"
+    "https://arxiv.org/html/2605.28693/2605.28693v1/Figs_Backprop/1.png",
+    "https://arxiv.org/html/2605.28693/2605.28693v1/Figs_Backprop/third_best_encoded_rois_500000_all_layers_300PCs_widecolors.png",
+    "https://arxiv.org/html/2605.28693/2605.28693v1/Figs_Backprop/encoding_scores_barplot_last_layer.png"
   ]
 }

@@ -1,5 +1,36 @@
 [
   {
+    "generatedAt": "2026-05-28T22:26:12.696Z",
+    "date": "2026-05-28",
+    "topic": "生物学的妥当性と視覚野",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Misalignment Between Backpropagation and the Hierarchy of Brain Responses to Images",
+    "paperLink": "https://arxiv.org/abs/2605.28693",
+    "figureUrl": "https://arxiv.org/html/2605.28693/2605.28693v1/Figs_Backprop/1.png",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n脳科学とAI——その境界線が消えつつある。\n\n生物学的妥当性と視覚野に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 生物学的妥当性 × 視覚野 × 深層学習 × 学習\n\n> Backpropagation is the core learning mechanism underlying deep learning. However, whether and how this algorithm is implemented in the brain remains highly debated.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Misalignment Between Backpropagation and the Hierarchy of Brain Responses to Images\n🔗 https://arxiv.org/abs/2605.28693\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #NeuroAI",
+    "summaryJP": "生物学的妥当性と視覚野 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+    "paperAuthors": "Joséphine Raugel, Maximilian Seitzer, Marc Szafraniec, Huy V. Vo, Jérémy Rapin, Patrick Labatut, Piotr Bojanowski, Valentin Wyart, Jean-Rémi King",
+    "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
+    "paperId": "2605.28693",
+    "paperSource": "arxiv",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "生物学的妥当性",
+      "視覚野",
+      "深層学習",
+      "学習",
+      "fMRI",
+      "MEG(脳磁図)"
+    ],
+    "abstractExcerpt": "Backpropagation is the core learning mechanism underlying deep learning. However, whether and how this algorithm is implemented in the brain remains highly debated. In particular, while forward activations of pretrained models reliably map…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.28693/2605.28693v1/Figs_Backprop/1.png",
+      "https://arxiv.org/html/2605.28693/2605.28693v1/Figs_Backprop/third_best_encoded_rois_500000_all_layers_300PCs_widecolors.png",
+      "https://arxiv.org/html/2605.28693/2605.28693v1/Figs_Backprop/encoding_scores_barplot_last_layer.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-28T20:07:56.452Z",
     "date": "2026-05-28",
     "topic": "意思決定と神経デコーディング",
@@ -1259,33 +1290,6 @@
       "https://arxiv.org/html/2604.01341/2604.01341v2/figures/vgg19_layer_layer_1_orig_rsa.png",
       "https://arxiv.org/html/2604.01341/2604.01341v2/figures/mi_per_model_data_bits_k47.png",
       "https://arxiv.org/html/2604.01341/2604.01341v2/figures/correlation_mi_all_brainscores_k47.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-21T06:42:01.463Z",
-    "date": "2026-05-21",
-    "topic": "セロトニンと神経伝達物質",
-    "templateName": "future-vision",
-    "riskScore": 0,
-    "paperTitle": "Compartmental-reaction diffusion framework for microscale dynamics of extracellular serotonin in brain tissue",
-    "paperLink": "https://arxiv.org/abs/2512.10983",
-    "figureUrl": "https://arxiv.org/html/2512.10983/2512.10983v2/x1.png",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nセロトニンと神経伝達物質の最新研究です。\n\n🔬 セロトニン × 神経伝達物質\n\n> Serotonin (5-hydroxytryptamine) is a major neurotransmitter whose release from densely distributed serotonergic varicosities shapes plasticity and network integration throughout the brain, yet its extracellular dynamics remain poorly understood due to the sub-micrometer and...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Compartmental-reaction diffusion framework for microscale dynamics of extracellular serotonin in brain tissue\n🔗 https://arxiv.org/abs/2512.10983\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #NeuralDecoding",
-    "summaryJP": "セロトニンと神経伝達物質 — 次世代へ続く布石",
-    "paperAuthors": "Merlin Pelz, Skirmantas Janusonis, Gregory Handy",
-    "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
-    "paperId": "2512.10983",
-    "paperSource": "arxiv",
-    "themeArea": "脳情報科学",
-    "jpKeywords": [
-      "セロトニン",
-      "神経伝達物質"
-    ],
-    "abstractExcerpt": "Serotonin (5-hydroxytryptamine) is a major neurotransmitter whose release from densely distributed serotonergic varicosities shapes plasticity and network integration throughout the brain, yet its extracellular dynamics remain poorly…",
-    "figureUrls": [
-      "https://arxiv.org/html/2512.10983/2512.10983v2/x1.png",
-      "https://arxiv.org/html/2512.10983/2512.10983v2/x2.png",
-      "https://arxiv.org/html/2512.10983/2512.10983v2/x3.png"
     ]
   }
 ]
