@@ -1,5 +1,34 @@
 [
   {
+    "generatedAt": "2026-05-28T20:07:56.452Z",
+    "date": "2026-05-28",
+    "topic": "意思決定と神経デコーディング",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models",
+    "paperLink": "https://arxiv.org/abs/2605.26910",
+    "figureUrl": "https://arxiv.org/html/2605.26910/2605.26910v1/x1.png",
+    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n脳科学とAI——その境界線が消えつつある。\n\n意思決定と神経デコーディングに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG × 意思決定 × 神経デコーディング × 学習\n\n📊 注目すべきデータ：\n→ We apply EEG-FM-Audit to four state-of-the-art EEG-FMs and five representative supervised models across three public datasets.\n→ Our results reveal that properly tuned supervised baselines can match or outperform advanced FMs, despite requiring significantly fewer parameters.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models\n🔗 https://arxiv.org/abs/2605.26910\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #BrainComputerInterface",
+    "summaryJP": "意思決定と神経デコーディング — 脳科学とAIをつなぐ研究（神経デコーディング）",
+    "paperAuthors": "Xianheng Wang, Yige Yang, Damien Coyle",
+    "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
+    "paperId": "2605.26910",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "EEG",
+      "意思決定",
+      "神経デコーディング",
+      "学習"
+    ],
+    "abstractExcerpt": "Large EEG Foundation Models (FMs) have shown great potential for decoding EEG signals across diverse cognitive tasks. However, existing EEG-FM studies exhibit three critical limitations: opaque supervised baseline tuning, unverified…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.26910/2605.26910v1/x1.png",
+      "https://arxiv.org/html/2605.26910/2605.26910v1/x2.png",
+      "https://arxiv.org/html/2605.26910/2605.26910v1/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-28T17:55:58.571Z",
     "date": "2026-05-28",
     "topic": "脳情報科学の最新研究",
@@ -1257,37 +1286,6 @@
       "https://arxiv.org/html/2512.10983/2512.10983v2/x1.png",
       "https://arxiv.org/html/2512.10983/2512.10983v2/x2.png",
       "https://arxiv.org/html/2512.10983/2512.10983v2/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-21T02:11:14.227Z",
-    "date": "2026-05-21",
-    "topic": "ブレイン・コンピュータ・インターフェース(BCI)とニューロプロテーゼ",
-    "templateName": "future-vision",
-    "riskScore": 0,
-    "paperTitle": "Conserved Kinematic Representations enable Zero-Shot Decoding in Handwriting BCIs",
-    "paperLink": "https://arxiv.org/abs/2605.19048",
-    "figureUrl": "https://arxiv.org/html/2605.19048/2605.19048v1/x1.png",
-    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nブレイン・コンピュータ・インターフェース(BCI)とニューロプロテーゼの最新研究です。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × ニューロプロテーゼ × 神経ダイナミクス × 運動野\n\n📊 注目すべきデータ：\n→ Our model achieves 64% hits@3 retrieval on unseen letters, suggesting that neural representations of kinematic strokes are robustly conserved across different character contexts.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Conserved Kinematic Representations enable Zero-Shot Decoding in Handwriting BCIs\n🔗 https://arxiv.org/abs/2605.19048\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #NeuroAI",
-    "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)とニューロプロテーゼ — 次世代へ続く布石（BCI・ニューラルインターフェース）",
-    "paperAuthors": "Srinivas Ravishankar, Virginia de Sa",
-    "publishedDate": "Wed, 20 May 2026 00:00:00 -0400",
-    "paperId": "2605.19048",
-    "paperSource": "arxiv",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "ブレイン・コンピュータ・インターフェース(BCI)",
-      "ニューロプロテーゼ",
-      "神経ダイナミクス",
-      "運動野",
-      "学習",
-      "言語処理"
-    ],
-    "abstractExcerpt": "While intracortical Brain-Computer Interfaces (iBCIs) that decode imagined handwriting have achieved high communication rates for Latin scripts, they rely on observing every character in the alphabet during training. This poses a challenge…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.19048/2605.19048v1/x1.png",
-      "https://arxiv.org/html/2605.19048/2605.19048v1/Figures/two_stage_pipeline_template_matching.png",
-      "https://arxiv.org/html/2605.19048/2605.19048v1/Figures/kinematics_predictor3.png"
     ]
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T17:55:58.799Z",
+  "generatedAt": "2026-05-28T20:07:56.753Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: As Ebola outbreak in Central Africa grows, the U.S. turns itself into a fortress",
+          "url": "https://www.statnews.com/2026/05/28/trump-ebola-travel-restrictions-discourages-medical-volunteers/?utm_campaign=rss",
+          "publishedDate": "Thu, 28 May 2026 19:50:48 +0000",
+          "source": "statnews.com",
+          "summary": "The U.S. is taking extraordinary steps to keep Ebola out. But its policies may create risks for Americans infected overseas and discourage volunteers from responding to the outbreak.",
+          "authors": "Helen Branswell"
+        },
+        {
           "title": "The latest developments on Ebola, hepatitis B, long Covid",
           "url": "https://www.statnews.com/2026/05/28/health-news-latest-news-on-ebola-hepatitis-b-long-covid/?utm_campaign=rss",
           "publishedDate": "Thu, 28 May 2026 13:10:08 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "Inside the longevity conference that brings together founders, investors, biohackers, and the generally death-averse to discuss how to forestall — or even beat — our demise.",
           "authors": "Sarah Todd"
-        },
-        {
-          "title": "Trump wraps up three-hour medical visit to Walter Reed and declares &#8216;Everything checked out PERFECTLY&#8217;",
-          "url": "https://www.statnews.com/2026/05/26/trump-annual-physicial-medical-exam-public-scrutiny/?utm_campaign=rss",
-          "publishedDate": "Tue, 26 May 2026 14:32:51 +0000",
-          "source": "statnews.com",
-          "summary": "President Trump had another medical exam on Tuesday, putting his health under renewed public scrutiny after he has worked to dismiss concerns over his age and stamina.",
-          "authors": "Associated Press"
         }
       ]
     },
