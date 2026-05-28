@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T12:18:54.793Z",
+  "generatedAt": "2026-05-28T17:55:58.799Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "The latest developments on Ebola, hepatitis B, long Covid",
+          "url": "https://www.statnews.com/2026/05/28/health-news-latest-news-on-ebola-hepatitis-b-long-covid/?utm_campaign=rss",
+          "publishedDate": "Thu, 28 May 2026 13:10:08 +0000",
+          "source": "statnews.com",
+          "summary": "Uganda closes its border, a Christian substitute for insurance, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
           "title": "STAT+: Experimental hepatitis B treatment was a ‘functional cure’ for nearly 1 in 5, new data show",
           "url": "https://www.statnews.com/2026/05/28/hepatitis-b-treatment-gsk-clinical-trials/?utm_campaign=rss",
           "publishedDate": "Thu, 28 May 2026 08:30:00 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "President Trump had another medical exam on Tuesday, putting his health under renewed public scrutiny after he has worked to dismiss concerns over his age and stamina.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "Ebola outbreak continues to worsen, with new collateral risks for girls and women",
-          "url": "https://www.statnews.com/2026/05/26/health-news-ebola-outbreak-continues-to-worsen/?utm_campaign=rss",
-          "publishedDate": "Tue, 26 May 2026 13:13:30 +0000",
-          "source": "statnews.com",
-          "summary": "The new acting FDA head defies expectations, 1.17 billion people with mental disorders, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
         }
       ]
     },
@@ -117,6 +117,22 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Trump’s pharma deals get tested",
+          "url": "https://www.statnews.com/2026/05/28/trump-pharma-mfn-deals-medicaid-work-requirement-rules-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Thu, 28 May 2026 16:07:30 +0000",
+          "source": "statnews.com",
+          "summary": "We still have a lot of questions about Trump's MFN deals with pharma companies.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Forget LASIK: Safer, cheaper vision correction without lasers or surgery",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260528074032.htm",
+          "publishedDate": "Thu, 28 May 2026 08:17:37 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers are developing a futuristic alternative to LASIK that reshapes the eye without lasers or incisions. Using mild electrical pulses and platinum contact lenses, they temporarily soften the cornea so it can be molded into a new…",
+          "authors": ""
+        },
         {
           "title": "STAT+: Trump’s drug-pricing deals set to be tested by new product launches",
           "url": "https://www.statnews.com/2026/05/28/trump-most-favored-nation-drug-pricing-secrets-revealed-soon/?utm_campaign=rss",
@@ -147,22 +163,6 @@
           "publishedDate": "Thu, 28 May 2026 00:42:54 EDT",
           "source": "sciencedaily.com",
           "summary": "A surprising new approach to depression treatment is showing early promise — not by targeting brain chemicals, but by calming the immune system. In a small clinical trial, researchers found that an anti-inflammatory drug normally used for…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover hidden gut-brain circuit that triggers protein cravings",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260527023202.htm",
-          "publishedDate": "Thu, 28 May 2026 00:35:19 EDT",
-          "source": "sciencedaily.com",
-          "summary": "When the body runs low on protein, the gut sends powerful signals to the brain that reshape cravings and push animals to seek essential amino acids instead of sugar. Researchers say this newly discovered gut-brain network could transform…",
-          "authors": ""
-        },
-        {
-          "title": "New drug could finally stop deadly fatty liver disease",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260526233632.htm",
-          "publishedDate": "Wed, 27 May 2026 08:49:37 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists at UC San Diego have unveiled a potentially game-changing treatment for MASH, a severe fatty liver disease affecting millions worldwide. The experimental drug, ION224, blocks a liver enzyme that drives fat buildup and…",
           "authors": ""
         }
       ]

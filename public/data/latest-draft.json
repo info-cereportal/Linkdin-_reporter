@@ -1,27 +1,26 @@
 {
-  "generatedAt": "2026-05-28T12:18:54.129Z",
+  "generatedAt": "2026-05-28T17:55:58.571Z",
   "date": "2026-05-28",
-  "topic": "潜在空間と学習",
+  "topic": "脳情報科学の最新研究",
   "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Exploratory Experience Shapes the Geometry of Predictive Representations",
-  "paperLink": "https://arxiv.org/abs/2605.27929",
-  "figureUrl": "https://arxiv.org/html/2605.27929/2605.27929v1/x1.png",
-  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n脳科学とAI——その境界線が消えつつある。\n\n潜在空間と学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 潜在空間 × 学習\n\n> Active sensing links behavior and learning through an action-perception loop: actions determine the observations used to update internal predictive models of perception, which subsequently guide the next actions. Predictive-coding frameworks provide a natural way to model this...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Exploratory Experience Shapes the Geometry of Predictive Representations\n🔗 https://arxiv.org/abs/2605.27929\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #計算論的神経科学",
-  "summaryJP": "潜在空間と学習 — 脳科学とAIをつなぐ研究（神経デコーディング）",
-  "paperAuthors": "Kseniia Shilova, Abdelrahman Sharafeldin, Advay Balakrishnan, Hannah Choi",
+  "paperTitle": "Beyond Neural Activity Prediction: Probing Latent Representations in Mouse V1 Digital Twins",
+  "paperLink": "https://arxiv.org/abs/2605.23122",
+  "figureUrl": "https://arxiv.org/html/2605.23122/2605.23122v2/x1.png",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n脳情報科学の最新研究に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 脳情報科学\n\n> Digital twins of sensory cortex serve as powerful response oracles. Although prediction accuracy is the central metric by which these models are evaluated, it provides limited insight into the latent representations that support those predictions.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Beyond Neural Activity Prediction: Probing Latent Representations in Mouse V1 Digital Twins\n🔗 https://arxiv.org/abs/2605.23122\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #ニューロテック",
+  "summaryJP": "脳情報科学の最新研究 — 脳科学とAIをつなぐ研究（神経デコーディング）",
+  "paperAuthors": "Adriano Lima, Yuchen Hou, Michael Beyeler, Marius Schneider",
   "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
-  "paperId": "2605.27929",
+  "paperId": "2605.23122",
   "paperSource": "arxiv",
   "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "潜在空間",
-    "学習"
+    "脳情報科学"
   ],
-  "abstractExcerpt": "Active sensing links behavior and learning through an action-perception loop: actions determine the observations used to update internal predictive models of perception, which subsequently guide the next actions. Predictive-coding…",
+  "abstractExcerpt": "Digital twins of sensory cortex serve as powerful response oracles. Although prediction accuracy is the central metric by which these models are evaluated, it provides limited insight into the latent representations that support those…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.27929/2605.27929v1/x1.png",
-    "https://arxiv.org/html/2605.27929/2605.27929v1/x2.png",
-    "https://arxiv.org/html/2605.27929/2605.27929v1/x3.png"
+    "https://arxiv.org/html/2605.23122/2605.23122v2/x1.png",
+    "https://arxiv.org/html/2605.23122/2605.23122v2/x2.png",
+    "https://arxiv.org/html/2605.23122/2605.23122v2/x3.png"
   ]
 }
