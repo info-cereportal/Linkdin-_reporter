@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T06:42:54.941Z",
+  "generatedAt": "2026-05-28T12:18:54.793Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Experimental hepatitis B treatment was a ‘functional cure’ for nearly 1 in 5, new data show",
+          "url": "https://www.statnews.com/2026/05/28/hepatitis-b-treatment-gsk-clinical-trials/?utm_campaign=rss",
+          "publishedDate": "Thu, 28 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "An experimental GSK drug helped 1 in 5 patients with chronic hepatitis B achieve what's known as a functional cure, vastly outpacing current treatments.",
+          "authors": "Andrew Joseph"
+        },
+        {
           "title": "STAT+: Heart patch engineered from stem cells revved up weakened hearts",
           "url": "https://www.statnews.com/2026/05/27/biovat-heart-failure-stem-cell-muscle-patch-nejm-study/?utm_campaign=rss",
           "publishedDate": "Wed, 27 May 2026 21:00:00 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "The new acting FDA head defies expectations, 1.17 billion people with mental disorders, and more health news from Morning Rounds",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: Congress slashed Medicaid funding to providers. The Trump administration wants to cut even further",
-          "url": "https://www.statnews.com/2026/05/22/medicaid-state-directed-payments-trump-proposes-more-cuts/?utm_campaign=rss",
-          "publishedDate": "Fri, 22 May 2026 17:19:15 +0000",
-          "source": "statnews.com",
-          "summary": "The Trump administration disclosed plans to reduce state directed payments even more, setting up a probable showdown with provider groups.",
-          "authors": "Tara Bannow"
         }
       ]
     },
@@ -117,6 +117,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Trump’s drug-pricing deals set to be tested by new product launches",
+          "url": "https://www.statnews.com/2026/05/28/trump-most-favored-nation-drug-pricing-secrets-revealed-soon/?utm_campaign=rss",
+          "publishedDate": "Thu, 28 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The public is about to get its first look at the prices of drugs launched since President Trump struck his most-favored-nation deals with 17 drugmakers.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Researchers block key protein that helps Parkinson’s spread through the brain",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260527023214.htm",
+          "publishedDate": "Thu, 28 May 2026 03:12:02 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A newly identified protein called GPNMB may play a major role in helping Parkinson’s disease spread through the brain. Researchers discovered that immune cells release the protein in response to damaged neurons, creating a vicious cycle…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists thought brain inflammation was driving long COVID but the scans told a different story",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260527023206.htm",
+          "publishedDate": "Thu, 28 May 2026 01:44:44 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new brain imaging study has found no evidence of widespread brain inflammation in patients suffering from prolonged symptoms after COVID-19 infection. Instead, the most severe long COVID symptoms were associated with increased brain…",
+          "authors": ""
+        },
         {
           "title": "New depression treatment targets the immune system instead of the brain",
           "url": "https://www.sciencedaily.com/releases/2026/05/260527023204.htm",
@@ -140,30 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "Scientists at UC San Diego have unveiled a potentially game-changing treatment for MASH, a severe fatty liver disease affecting millions worldwide. The experimental drug, ION224, blocks a liver enzyme that drives fat buildup and…",
           "authors": ""
-        },
-        {
-          "title": "Popular anti-aging drug combo caused severe brain damage in mice",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260526022024.htm",
-          "publishedDate": "Wed, 27 May 2026 08:23:03 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A drug combo widely explored for anti-aging may actually damage the brain, according to new mouse research showing severe loss of myelin and changes linked to “chemo brain.” Surprisingly, the damaged cells resembled those seen in multiple…",
-          "authors": ""
-        },
-        {
-          "title": "New laser heat treatment could stop blindness before it starts",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260526233217.htm",
-          "publishedDate": "Wed, 27 May 2026 07:43:10 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new experimental treatment could finally offer hope for millions of people with dry age-related macular degeneration — one of the leading causes of blindness in older adults. Researchers at Aalto University discovered a way to gently…",
-          "authors": ""
-        },
-        {
-          "title": "Opinion: Sen. Dick Durbin: Trump is letting Big Tobacco target children",
-          "url": "https://www.statnews.com/2026/05/27/flavored-vapes-e-cigarettes-fda-trump-durbin/?utm_campaign=rss",
-          "publishedDate": "Wed, 27 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "“Trump has willingly exposed an entire generation of children to Big Tobacco’s nicotine addiction,” writes Sen. Dick Durbin.",
-          "authors": "Dick Durbin"
         }
       ]
     },

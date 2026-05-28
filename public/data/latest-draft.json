@@ -1,29 +1,27 @@
 {
-  "generatedAt": "2026-05-28T06:42:54.649Z",
+  "generatedAt": "2026-05-28T12:18:54.129Z",
   "date": "2026-05-28",
-  "topic": "意思決定と神経デコーディング",
+  "topic": "潜在空間と学習",
   "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models",
-  "paperLink": "https://arxiv.org/abs/2605.26910",
-  "figureUrl": "https://arxiv.org/html/2605.26910/2605.26910v1/x1.png",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n意思決定と神経デコーディングに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG × 意思決定 × 神経デコーディング × 学習\n\n📊 注目すべきデータ：\n→ We apply EEG-FM-Audit to four state-of-the-art EEG-FMs and five representative supervised models across three public datasets.\n→ Our results reveal that properly tuned supervised baselines can match or outperform advanced FMs, despite requiring significantly fewer parameters.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models\n🔗 https://arxiv.org/abs/2605.26910\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #BCI",
-  "summaryJP": "意思決定と神経デコーディング — 脳科学とAIをつなぐ研究（神経デコーディング）",
-  "paperAuthors": "Xianheng Wang, Yige Yang, Damien Coyle",
+  "paperTitle": "Exploratory Experience Shapes the Geometry of Predictive Representations",
+  "paperLink": "https://arxiv.org/abs/2605.27929",
+  "figureUrl": "https://arxiv.org/html/2605.27929/2605.27929v1/x1.png",
+  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n脳科学とAI——その境界線が消えつつある。\n\n潜在空間と学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 潜在空間 × 学習\n\n> Active sensing links behavior and learning through an action-perception loop: actions determine the observations used to update internal predictive models of perception, which subsequently guide the next actions. Predictive-coding frameworks provide a natural way to model this...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Exploratory Experience Shapes the Geometry of Predictive Representations\n🔗 https://arxiv.org/abs/2605.27929\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #計算論的神経科学",
+  "summaryJP": "潜在空間と学習 — 脳科学とAIをつなぐ研究（神経デコーディング）",
+  "paperAuthors": "Kseniia Shilova, Abdelrahman Sharafeldin, Advay Balakrishnan, Hannah Choi",
   "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
-  "paperId": "2605.26910",
+  "paperId": "2605.27929",
   "paperSource": "arxiv",
   "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "EEG",
-    "意思決定",
-    "神経デコーディング",
+    "潜在空間",
     "学習"
   ],
-  "abstractExcerpt": "Large EEG Foundation Models (FMs) have shown great potential for decoding EEG signals across diverse cognitive tasks. However, existing EEG-FM studies exhibit three critical limitations: opaque supervised baseline tuning, unverified…",
+  "abstractExcerpt": "Active sensing links behavior and learning through an action-perception loop: actions determine the observations used to update internal predictive models of perception, which subsequently guide the next actions. Predictive-coding…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.26910/2605.26910v1/x1.png",
-    "https://arxiv.org/html/2605.26910/2605.26910v1/x2.png",
-    "https://arxiv.org/html/2605.26910/2605.26910v1/x3.png"
+    "https://arxiv.org/html/2605.27929/2605.27929v1/x1.png",
+    "https://arxiv.org/html/2605.27929/2605.27929v1/x2.png",
+    "https://arxiv.org/html/2605.27929/2605.27929v1/x3.png"
   ]
 }
