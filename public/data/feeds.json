@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T06:44:51.457Z",
+  "generatedAt": "2026-05-29T12:08:39.688Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: The woman behind the world’s biggest longevity competition",
+          "url": "https://www.statnews.com/2026/05/29/xprize-healthspan-longevity-science-jamie-justice-q-and-a/?utm_campaign=rss",
+          "publishedDate": "Fri, 29 May 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Jamie Justice of XPRIZE Healthspan on the most promising research and \"purely scammy\" treatments in the world of longevity.",
+          "authors": "Sarah Todd"
+        },
+        {
           "title": "STAT+: As Ebola outbreak in Central Africa grows, the U.S. turns itself into a fortress",
           "url": "https://www.statnews.com/2026/05/28/trump-ebola-travel-restrictions-discourages-medical-volunteers/?utm_campaign=rss",
           "publishedDate": "Thu, 28 May 2026 19:50:48 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "The conference where death is (theoretically) optional, new trends among undocumented patients, and more health news from Morning Rounds",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: &#8216;Are we just going to give up and die like every other generation?&#8217;",
-          "url": "https://www.statnews.com/2026/05/27/longevity-movement-shift-fringe-idea-to-big-business/?utm_campaign=rss",
-          "publishedDate": "Wed, 27 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Inside the longevity conference that brings together founders, investors, biohackers, and the generally death-averse to discuss how to forestall — or even beat — our demise.",
-          "authors": "Sarah Todd"
         }
       ]
     },
