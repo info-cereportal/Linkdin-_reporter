@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T17:59:58.619Z",
+  "generatedAt": "2026-05-29T20:29:05.982Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -118,6 +118,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Trump administration seeks to overhaul federal grantmaking process, alarming researchers",
+          "url": "https://www.statnews.com/2026/05/29/nih-grants-uniform-guidance-proposal-political-control/?utm_campaign=rss",
+          "publishedDate": "Fri, 29 May 2026 18:50:13 +0000",
+          "source": "statnews.com",
+          "summary": "The Trump administration has released a sweeping proposal to overhaul the bedrock regulation for all federal grants.",
+          "authors": "Anil Oza"
+        },
+        {
           "title": "Protein traffic jams may explain aging, memory loss, and Alzheimer’s",
           "url": "https://www.sciencedaily.com/releases/2026/05/260528082505.htm",
           "publishedDate": "Fri, 29 May 2026 10:17:40 EDT",
@@ -155,14 +163,6 @@
           "publishedDate": "Thu, 28 May 2026 22:55:05 EDT",
           "source": "sciencedaily.com",
           "summary": "Cambridge researchers created miniature brain-and-spinal-cord systems in the lab that can send signals and even trigger tiny muscle contractions. They discovered that human neurons gradually lose their ability to regrow after damage during…",
-          "authors": ""
-        },
-        {
-          "title": "CBD may slow Alzheimer’s by calming the brain’s immune system",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260528082507.htm",
-          "publishedDate": "Thu, 28 May 2026 21:35:52 EDT",
-          "source": "sciencedaily.com",
-          "summary": "CBD may be doing far more than just easing pain or anxiety — new research suggests it could help fight Alzheimer’s disease by calming the brain’s runaway immune response. In experiments using Alzheimer’s mice, scientists found that inhaled…",
           "authors": ""
         }
       ]
