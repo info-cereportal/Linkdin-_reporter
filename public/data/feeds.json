@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T20:29:05.982Z",
+  "generatedAt": "2026-05-29T22:23:58.099Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -63,6 +63,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: At ASCO, positive data for Bristol in multiple myeloma and Pfizer in lung cancer",
+          "url": "https://www.statnews.com/2026/05/29/asco-news-day-1-multiple-myeloma-bristol-lung-cancer-pfizer/?utm_campaign=rss",
+          "publishedDate": "Fri, 29 May 2026 21:32:26 +0000",
+          "source": "statnews.com",
+          "summary": "You’re reading the web edition of ASCO in 30 Seconds, STAT’s guide to the American Society of Clinical Oncology annual meeting. Sign up for email editions here. We’re ASCOmaxxing. Rest&#8230;",
+          "authors": "Adam Feuerstein, Matthew Herper, and Angus Chen"
+        },
+        {
           "title": "Kenya court suspends U.S. plan for Ebola quarantine facility for Americans",
           "url": "https://www.statnews.com/2026/05/29/kenya-court-suspends-plan-ebola-quarantine-facility-americans/?utm_campaign=rss",
           "publishedDate": "Fri, 29 May 2026 14:59:42 +0000",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "Uganda closes its border, a Christian substitute for insurance, and more health news from Morning Rounds",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: Experimental hepatitis B treatment was a ‘functional cure’ for nearly 1 in 5, new data show",
-          "url": "https://www.statnews.com/2026/05/28/hepatitis-b-treatment-gsk-clinical-trials/?utm_campaign=rss",
-          "publishedDate": "Thu, 28 May 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "An experimental GSK drug helped 1 in 5 patients with chronic hepatitis B achieve what's known as a functional cure, vastly outpacing current treatments.",
-          "authors": "Andrew Joseph"
         }
       ]
     },
