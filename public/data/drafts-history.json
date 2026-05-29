@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-05-29T02:08:00.818Z",
+    "date": "2026-05-29",
+    "topic": "潜在空間と学習",
+    "templateName": "provocative-question",
+    "riskScore": 0,
+    "paperTitle": "Exploratory Experience Shapes the Geometry of Predictive Representations",
+    "paperLink": "https://arxiv.org/abs/2605.27929",
+    "figureUrl": "https://arxiv.org/html/2605.27929/2605.27929v1/x1.png",
+    "formatted": "潜在空間と学習について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 潜在空間 × 学習\n\n> Active sensing links behavior and learning through an action-perception loop: actions determine the observations used to update internal predictive models of perception, which subsequently guide the next actions. Predictive-coding frameworks provide a natural way to model this...\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかし神経デコーディングの文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Exploratory Experience Shapes the Geometry of Predictive Representations\n🔗 https://arxiv.org/abs/2605.27929\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #DeepLearning",
+    "summaryJP": "潜在空間と学習 — 常識への問題提起（神経デコーディング）",
+    "paperAuthors": "Kseniia Shilova, Abdelrahman Sharafeldin, Advay Balakrishnan, Hannah Choi",
+    "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
+    "paperId": "2605.27929",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "潜在空間",
+      "学習"
+    ],
+    "abstractExcerpt": "Active sensing links behavior and learning through an action-perception loop: actions determine the observations used to update internal predictive models of perception, which subsequently guide the next actions. Predictive-coding…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.27929/2605.27929v1/x1.png",
+      "https://arxiv.org/html/2605.27929/2605.27929v1/x2.png",
+      "https://arxiv.org/html/2605.27929/2605.27929v1/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-28T22:26:12.696Z",
     "date": "2026-05-28",
     "topic": "生物学的妥当性と視覚野",
@@ -1263,33 +1290,6 @@
       "https://arxiv.org/html/2605.20496/2605.20496v1/x1.png",
       "https://arxiv.org/html/2605.20496/2605.20496v1/x2.png",
       "https://arxiv.org/html/2605.20496/2605.20496v1/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-21T12:00:49.980Z",
-    "date": "2026-05-21",
-    "topic": "畳み込みニューラルネットワーク(CNN)",
-    "templateName": "future-vision",
-    "riskScore": 0,
-    "paperTitle": "Perceptual misalignment of texture representations in convolutional neural networks",
-    "paperLink": "https://arxiv.org/abs/2604.01341",
-    "figureUrl": "https://arxiv.org/html/2604.01341/2604.01341v2/figures/vgg19_layer_layer_1_orig_rsa.png",
-    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n畳み込みニューラルネットワーク(CNN)の最新研究です。\n\n🔬 畳み込みニューラルネットワーク(CNN) × ECoG(皮質脳波)\n\n> Mathematical modeling of visual textures traces back to Julesz's intuition that texture perception in humans is based on local correlations between image features. An influential approach for texture analysis and generation generalizes this notion to linear correlations between...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Perceptual misalignment of texture representations in convolutional neural networks\n🔗 https://arxiv.org/abs/2604.01341\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #NeuroAI",
-    "summaryJP": "畳み込みニューラルネットワーク(CNN) — 次世代へ続く布石（神経デコーディング）",
-    "paperAuthors": "Ludovica de Paolis, Fabio Anselmi, Alessio Ansuini, Eugenio Piasini",
-    "publishedDate": "Thu, 21 May 2026 00:00:00 -0400",
-    "paperId": "2604.01341",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "畳み込みニューラルネットワーク(CNN)",
-      "ECoG(皮質脳波)"
-    ],
-    "abstractExcerpt": "Mathematical modeling of visual textures traces back to Julesz's intuition that texture perception in humans is based on local correlations between image features. An influential approach for texture analysis and generation generalizes…",
-    "figureUrls": [
-      "https://arxiv.org/html/2604.01341/2604.01341v2/figures/vgg19_layer_layer_1_orig_rsa.png",
-      "https://arxiv.org/html/2604.01341/2604.01341v2/figures/mi_per_model_data_bits_k47.png",
-      "https://arxiv.org/html/2604.01341/2604.01341v2/figures/correlation_mi_all_brainscores_k47.png"
     ]
   }
 ]
