@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T18:58:22.805Z",
+  "generatedAt": "2026-05-30T21:51:01.170Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -13,6 +13,14 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: BioNTech and Pfizer tout bispecifics data, and Pazdur sees silver lining at FDA",
+          "url": "https://www.statnews.com/2026/05/30/asco-news-day-2-biontech-pfizer-kelun-merck-pazdur/?utm_campaign=rss",
+          "publishedDate": "Sat, 30 May 2026 21:28:47 +0000",
+          "source": "statnews.com",
+          "summary": "ASCO, Day 2: promising news around lung cancer, new immunotherapies, and bold words from Rick Pazdur.",
+          "authors": "STAT Staff"
+        },
         {
           "title": "STAT+: China competition, ‘destruction’ at FDA give agency chance to restructure, Rick Pazdur says",
           "url": "https://www.statnews.com/2026/05/30/rick-pazdur-fda-destruction-rebuilding-asco-2026/?utm_campaign=rss",
@@ -52,14 +60,6 @@
           "source": "statnews.com",
           "summary": "A court in Kenya on Friday suspended a U.S. plan to establish a quarantine facility for Americans exposed to a rare type of Ebola virus spreading in northeastern Congo.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "Which vaccines will curb the Ebola outbreak? WHO debates",
-          "url": "https://www.statnews.com/2026/05/29/health-news-which-vaccines-will-curb-ebola-outbreak/?utm_campaign=rss",
-          "publishedDate": "Fri, 29 May 2026 12:47:04 +0000",
-          "source": "statnews.com",
-          "summary": "The growing Ebola outbreak, the unknowns of microdosing GLP-1s, and more health news from Morning Rounds",
-          "authors": "O. Rose Broderick"
         }
       ]
     },
