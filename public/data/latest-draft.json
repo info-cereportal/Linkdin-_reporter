@@ -1,28 +1,24 @@
 {
-  "generatedAt": "2026-05-30T02:02:50.247Z",
+  "generatedAt": "2026-05-30T06:14:27.268Z",
   "date": "2026-05-30",
   "topic": "深層学習と学習",
   "templateName": "paradigm-shift",
   "riskScore": 0,
-  "paperTitle": "A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments",
-  "paperLink": "https://arxiv.org/abs/2512.13517",
-  "figureUrl": "https://arxiv.org/html/2512.13517/2512.13517v2/figures/VR_app_light2.jpeg",
-  "formatted": "深層学習と学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 深層学習 × 学習 × 潜在空間\n\n> Mental rotation -- the ability to compare objects seen from different viewpoints -- is a fundamental example of mental simulation and spatial world modeling in humans. Here we propose a mechanistic model of human mental rotation, leveraging recent advances in deep, equivariant,...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments\n🔗 https://arxiv.org/abs/2512.13517\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #ニューロテック",
+  "paperTitle": "A deep learning-based model for automatic syntactic complexity assessment in L2 English writing: development and pedagogical application.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42215569/",
+  "formatted": "深層学習と学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 深層学習 × 学習 × 注意機構 × 言語処理\n\n📊 注目すべきデータ：\n→ Experimental results on learner corpora, validated through five-fold cross-validation, demonstrate that the proposed model achieves a Pearson correlation coefficient of 0.923 with...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 A deep learning-based model for automatic syntactic complexity assessment in L2 English writing: development and pedagogical application.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42215569/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #ニューロテック",
   "summaryJP": "深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
-  "paperAuthors": "Raymond Khazoum, Daniela Fernandes, Aleksandr Krylov, Qin Li, Stephane Deny",
-  "publishedDate": "Fri, 29 May 2026 00:00:00 -0400",
-  "paperId": "2512.13517",
-  "paperSource": "arxiv",
+  "paperAuthors": "Yongming Wang, Huan Zhao",
+  "publishedDate": "2026-05-29",
+  "paperId": "42215569",
+  "paperSource": "pubmed",
   "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
     "深層学習",
     "学習",
-    "潜在空間"
+    "注意機構",
+    "言語処理"
   ],
-  "abstractExcerpt": "Mental rotation -- the ability to compare objects seen from different viewpoints -- is a fundamental example of mental simulation and spatial world modeling in humans. Here we propose a mechanistic model of human mental rotation,…",
-  "figureUrls": [
-    "https://arxiv.org/html/2512.13517/2512.13517v2/figures/VR_app_light2.jpeg",
-    "https://arxiv.org/html/2512.13517/2512.13517v2/x1.png",
-    "https://arxiv.org/html/2512.13517/2512.13517v2/x3.png"
-  ]
+  "abstractExcerpt": "Syntactic complexity serves as a critical indicator of second language writing proficiency, yet traditional assessment methods face challenges in scalability and consistency. Grounded in processability theory and usage-based approaches to…",
+  "figureUrls": []
 }
