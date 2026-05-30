@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T06:14:27.557Z",
+  "generatedAt": "2026-05-30T10:43:22.844Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -13,6 +13,14 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: As Ebola outbreak grows, Trump administration veers from previous government playbook",
+          "url": "https://www.statnews.com/2026/05/30/trump-ebola-response-biden-pandemic-preparations-thrown-away/?utm_campaign=rss",
+          "publishedDate": "Sat, 30 May 2026 10:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "Trump officials are disregarding the Biden administration's detailed pandemic plans in favor of their own strategy.",
+          "authors": "Daniel Payne and Chelsea Cirruzzo"
+        },
         {
           "title": "STAT+: At ASCO, positive data for Bristol in multiple myeloma and Pfizer in lung cancer",
           "url": "https://www.statnews.com/2026/05/29/asco-news-day-1-multiple-myeloma-bristol-lung-cancer-pfizer/?utm_campaign=rss",
@@ -52,14 +60,6 @@
           "source": "statnews.com",
           "summary": "The U.S. is taking extraordinary steps to keep Ebola out. But its policies may create risks for Americans infected overseas and discourage volunteers from responding to the outbreak.",
           "authors": "Helen Branswell"
-        },
-        {
-          "title": "The latest developments on Ebola, hepatitis B, long Covid",
-          "url": "https://www.statnews.com/2026/05/28/health-news-latest-news-on-ebola-hepatitis-b-long-covid/?utm_campaign=rss",
-          "publishedDate": "Thu, 28 May 2026 13:10:08 +0000",
-          "source": "statnews.com",
-          "summary": "Uganda closes its border, a Christian substitute for insurance, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
         }
       ]
     },
@@ -68,6 +68,22 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: As Ebola outbreak grows, Trump administration veers from previous government playbook",
+          "url": "https://www.statnews.com/2026/05/30/trump-ebola-response-biden-pandemic-preparations-thrown-away/?utm_campaign=rss",
+          "publishedDate": "Sat, 30 May 2026 10:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "Trump officials are disregarding the Biden administration's detailed pandemic plans in favor of their own strategy.",
+          "authors": "Daniel Payne and Chelsea Cirruzzo"
+        },
+        {
+          "title": "Repairing DNA damage: Scientists discover a surprising new benefit of melatonin",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260530004618.htm",
+          "publishedDate": "Sat, 30 May 2026 05:11:34 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new study suggests melatonin supplements may help night shift workers boost their body&#039;s DNA repair processes, potentially offsetting some of the damage linked to working overnight. The findings are early but raise the possibility…",
+          "authors": ""
+        },
         {
           "title": "This tomato-soy juice reduced inflammation in just four weeks",
           "url": "https://www.sciencedaily.com/releases/2026/05/260529043644.htm",
@@ -98,22 +114,6 @@
           "publishedDate": "Fri, 29 May 2026 09:42:07 EDT",
           "source": "sciencedaily.com",
           "summary": "Using cannabis edibles and alcohol together may make drivers far more impaired than either substance alone, according to new research from Johns Hopkins. Even more concerning, common field sobriety tests often failed to detect the…",
-          "authors": ""
-        },
-        {
-          "title": "A silent kidney crisis is spreading far faster than experts expected",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260529030324.htm",
-          "publishedDate": "Fri, 29 May 2026 07:10:34 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A sweeping global study found that chronic kidney disease now affects nearly 800 million people and has become one of the world&#039;s leading causes of death. Often silent in its early stages, the condition is also a major contributor to…",
-          "authors": ""
-        },
-        {
-          "title": "Vitamin B12 and folate deficiencies linked to chronic fatigue",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260528082501.htm",
-          "publishedDate": "Thu, 28 May 2026 23:23:48 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Feeling constantly drained might not just be about poor sleep or working too hard. Researchers in Japan found that low levels of key vitamins — especially vitamin B12 and folate — may quietly contribute to fatigue and lack of motivation,…",
           "authors": ""
         }
       ]

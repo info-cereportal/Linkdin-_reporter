@@ -1,5 +1,27 @@
 [
   {
+    "generatedAt": "2026-05-30T10:43:22.276Z",
+    "date": "2026-05-30",
+    "topic": "深層学習と学習",
+    "templateName": "paradigm-shift",
+    "riskScore": 0,
+    "paperTitle": "VeNet: a lightweight neural network for efficient brain vessel segmentation in endovascular robotic surgery.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42215575/",
+    "formatted": "深層学習と学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 深層学習 × 学習\n\n📊 注目すべきデータ：\n→ The model demonstrates robust segmentation performance in low-data regimes, making it suitable for scenarios where extensive manual annotation is impractical.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 VeNet: a lightweight neural network for efficient brain vessel segmentation in endovascular robotic surgery.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42215575/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #DeepLearning",
+    "summaryJP": "深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
+    "paperAuthors": "Alexandra Bernadotte",
+    "publishedDate": "2026-05-29",
+    "paperId": "42215575",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "深層学習",
+      "学習"
+    ],
+    "abstractExcerpt": "Telesurgery integrates artificial intelligence (AI), robotic systems, sensing technologies, and wireless communication to enable remote and computer-assisted surgical interventions. Beyond remote operation, AI-driven assistance can improve…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-05-30T06:14:27.268Z",
     "date": "2026-05-30",
     "topic": "深層学習と学習",
@@ -1244,37 +1266,6 @@
       "https://arxiv.org/html/2505.22749/2505.22749v2/fig/schematics.png",
       "https://arxiv.org/html/2505.22749/2505.22749v2/fig/concept.png",
       "https://arxiv.org/html/2505.22749/2505.22749v2/fig/parametrization.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-22T17:01:54.076Z",
-    "date": "2026-05-22",
-    "topic": "学習と生物学的妥当性",
-    "templateName": "neuro-ai-bridge",
-    "riskScore": 0,
-    "paperTitle": "Learning sequence timing and control of replay speed in networks of spiking neurons",
-    "paperLink": "https://arxiv.org/abs/2605.22523",
-    "figureUrl": "https://arxiv.org/html/2605.22523/2605.22523v1/x1.png",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習と生物学的妥当性に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習 × 生物学的妥当性 × 言語処理 × 記憶\n\n📊 注目すべきデータ：\n→ Additionally, we show that oscillatory background inputs can serve as a clock signal and provide a robust and flexible mechanism for controlling the speed of sequence replay.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Learning sequence timing and control of replay speed in networks of spiking neurons\n🔗 https://arxiv.org/abs/2605.22523\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #計算論的神経科学",
-    "summaryJP": "学習と生物学的妥当性 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
-    "paperAuthors": "Melissa Lober, Younes Bouhadjar, Markus Diesmann, Tom Tetzlaff",
-    "publishedDate": "Fri, 22 May 2026 00:00:00 -0400",
-    "paperId": "2605.22523",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "学習",
-      "生物学的妥当性",
-      "言語処理",
-      "記憶",
-      "睡眠",
-      "EEG"
-    ],
-    "abstractExcerpt": "Processing sequential inputs is a fundamental brain function, underlying tasks such as sensory perception, language, and motor control. A challenge in sequence processing is to represent not only the order of events, but also their precise…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.22523/2605.22523v1/x1.png",
-      "https://arxiv.org/html/2605.22523/2605.22523v1/x2.png",
-      "https://arxiv.org/html/2605.22523/2605.22523v1/x3.png"
     ]
   }
 ]
