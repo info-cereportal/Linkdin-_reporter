@@ -26,6 +26,24 @@ const DATA_DIR = path.join(PUBLIC_DIR, "data");
 const OUT_DIR = path.join(PUBLIC_DIR, "article");
 const SITE_ORIGIN = process.env.SITE_ORIGIN || "https://eegbugckets.web.app";
 
+// Hand-authored editorial bodies live here, keyed by article slug.
+// This file is read-only for the build (and must NOT be overwritten by the
+// generation pipeline), so original Japanese commentary survives rebuilds.
+const EDITORIALS_PATH = path.join(DATA_DIR, "editorials.json");
+
+// AdSense: only emit an in-article ad unit when a real slot id is configured.
+// Leaving a placeholder slot id in published pages serves no ad and looks broken
+// to reviewers, so we omit the unit until ADSENSE_INARTICLE_SLOT is set.
+const ADSENSE_CLIENT = "ca-pub-3378319187302369";
+const ADSENSE_INARTICLE_SLOT = process.env.ADSENSE_INARTICLE_SLOT || "";
+
+// AdSense readiness gate: thin template-fallback pages (no hand-authored
+// editorial) read as "low value content" to reviewers, which is the most
+// likely cause of repeated AdSense rejection. By default we publish ONLY
+// articles that have an authored editorial in editorials.json. Set
+// PUBLISH_ALL=1 to restore the legacy behavior (also emit template fallbacks).
+const PUBLISH_ALL = process.env.PUBLISH_ALL === "1";
+
 // Use clean URLs (no .html extension) to match canonical form under cleanUrls: true.
 const STATIC_PAGES = [
   { path: "/", changefreq: "hourly", priority: "1.0" },
@@ -197,16 +215,102 @@ function relatedHtml(target, all) {
     </section>`;
 }
 
-function articlePageHtml(entry, allEntries) {
+/* ────────── editorial body (hand-authored, original) ────────── */
+
+// Render the authored sections. `s.html` is trusted authored markup
+// (paragraphs / lists) and is intentionally NOT escaped; headings are.
+function editorialSectionsHtml(editorial) {
+  if (!editorial || !Array.isArray(editorial.sections)) return "";
+  return editorial.sections
+    .map((s) => `        <h2>${escapeHtml(s.h || "")}</h2>\n        ${String(s.html || "").trim()}`)
+    .join("\n\n");
+}
+
+function glossaryHtml(editorial) {
+  const gl = editorial && Array.isArray(editorial.glossary) ? editorial.glossary : [];
+  if (gl.length === 0) return "";
+  const items = gl
+    .map((g) => `          <dt>${escapeHtml(g.term || "")}</dt>\n          <dd>${escapeHtml(g.def || "")}</dd>`)
+    .join("\n");
+  return `
+        <h2>用語ノート</h2>
+        <dl class="glossary">
+${items}
+        </dl>`;
+}
+
+function faqHtml(editorial) {
+  const faq = editorial && Array.isArray(editorial.faq) ? editorial.faq : [];
+  if (faq.length === 0) return "";
+  const items = faq
+    .map(
+      (f) => `        <div class="faq-item">
+          <h3 class="faq-q">${escapeHtml(f.q || "")}</h3>
+          <p class="faq-a">${escapeHtml(f.a || "")}</p>
+        </div>`
+    )
+    .join("\n");
+  return `
+      <section class="article-faq" aria-labelledby="faq-heading">
+        <h2 id="faq-heading">よくある質問</h2>
+${items}
+      </section>`;
+}
+
+function faqLdNode(editorial, url) {
+  const faq = editorial && Array.isArray(editorial.faq) ? editorial.faq : [];
+  if (faq.length === 0) return null;
+  return {
+    "@type": "FAQPage",
+    "@id": `${url}#faq`,
+    mainEntity: faq.map((f) => ({
+      "@type": "Question",
+      name: f.q || "",
+      acceptedAnswer: { "@type": "Answer", text: f.a || "" },
+    })),
+  };
+}
+
+// Plain-text length of authored body, used for wordCount in schema.
+function editorialTextLength(editorial) {
+  if (!editorial) return 0;
+  const parts = [editorial.lede || ""];
+  for (const s of editorial.sections || []) parts.push(String(s.html || "").replace(/<[^>]*>/g, " "));
+  for (const g of editorial.glossary || []) parts.push(g.term || "", g.def || "");
+  for (const f of editorial.faq || []) parts.push(f.q || "", f.a || "");
+  return parts.join(" ").replace(/\s+/g, "").length;
+}
+
+function inArticleAdHtml() {
+  if (!ADSENSE_INARTICLE_SLOT) return "";
+  return `
+        <!-- AdSense slot: ARTICLE_INCONTENT -->
+        <aside class="ad-slot ad-slot--inarticle" aria-label="広告">
+          <span class="ad-slot__label">広告 / ADVERTISEMENT</span>
+          <ins class="adsbygoogle"
+               style="display:block; text-align:center;"
+               data-ad-layout="in-article"
+               data-ad-format="fluid"
+               data-ad-client="${ADSENSE_CLIENT}"
+               data-ad-slot="${ADSENSE_INARTICLE_SLOT}"></ins>
+          <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </aside>`;
+}
+
+function articlePageHtml(entry, allEntries, editorials) {
   const slug = archiveSlug(entry);
+  const editorial = (editorials && editorials[slug]) || null;
   const url = `${SITE_ORIGIN}/article/${slug}`;
-  const title = entry.summaryJP || entry.topic || entry.paperTitle || "NeuroPulse article";
-  const dek = dekFor(entry);
+  // Editorials may override the auto-generated title/dek/theme when the
+  // upstream classifier mislabeled the paper (e.g. assigning "深層学習" to a
+  // purely clinical study). Honest titles matter more than template parity.
+  const title = (editorial && editorial.title) || entry.summaryJP || entry.topic || entry.paperTitle || "NeuroPulse article";
+  const dek = (editorial && editorial.dek) || dekFor(entry);
   const dateISO = entry.generatedAt || new Date().toISOString();
   const datePub = isoDateOnly(dateISO);
   const dateLong = formatLongDateJP(dateISO);
   const tmplLabel = templateLabelJP(entry.templateName);
-  const theme = entry.themeArea || "脳情報科学";
+  const theme = (editorial && editorial.theme) || entry.themeArea || "脳情報科学";
   const score = Math.round(Number(entry.riskScore) || 0);
   const note = commentary(entry);
   const abs = entry.abstractExcerpt || "";
@@ -217,29 +321,58 @@ function articlePageHtml(entry, allEntries) {
 
   const ldjson = {
     "@context": "https://schema.org",
-    "@type": "NewsArticle",
-    "@id": url,
-    headline: title,
-    description: dek,
-    inLanguage: "ja",
-    url,
-    datePublished: dateISO,
-    dateModified: dateISO,
-    keywords,
-    articleSection: theme,
-    publisher: {
-      "@type": "NewsMediaOrganization",
-      name: "NeuroPulse — BCI &amp; Neuroscience Daily",
-      url: SITE_ORIGIN,
-    },
-    author: {
-      "@type": "Organization",
-      name: "NeuroPulse Editorial",
-      url: `${SITE_ORIGIN}/about.html`,
-    },
-    mainEntityOfPage: { "@type": "WebPage", "@id": url },
-    isBasedOn: paperLink || undefined,
+    "@graph": [
+      {
+        "@type": "NewsMediaOrganization",
+        "@id": `${SITE_ORIGIN}/#org`,
+        name: "NeuroPulse",
+        alternateName: "NeuroPulse — BCI & Neuroscience Daily",
+        url: `${SITE_ORIGIN}/`,
+        logo: {
+          "@type": "ImageObject",
+          url: `${SITE_ORIGIN}/assets/favicon.svg`,
+          width: 64,
+          height: 64,
+        },
+        inLanguage: "ja",
+      },
+      {
+        "@type": "WebSite",
+        "@id": `${SITE_ORIGIN}/#site`,
+        url: `${SITE_ORIGIN}/`,
+        name: "NeuroPulse",
+        alternateName: "NeuroPulse — BCI & Neuroscience Daily",
+        publisher: { "@id": `${SITE_ORIGIN}/#org` },
+        inLanguage: "ja",
+      },
+      {
+        "@type": "NewsArticle",
+        "@id": url,
+        headline: title,
+        description: dek,
+        inLanguage: "ja",
+        url,
+        datePublished: dateISO,
+        dateModified: dateISO,
+        keywords,
+        articleSection: theme,
+        isPartOf: { "@id": `${SITE_ORIGIN}/#site` },
+        publisher: { "@id": `${SITE_ORIGIN}/#org` },
+        author: {
+          "@type": "Organization",
+          name: "NeuroPulse Editorial",
+          url: `${SITE_ORIGIN}/about`,
+        },
+        mainEntityOfPage: { "@type": "WebPage", "@id": url },
+        wordCount: editorial ? editorialTextLength(editorial) : undefined,
+        isAccessibleForFree: true,
+        isBasedOn: paperLink || undefined,
+      },
+    ],
   };
+
+  const faqNode = faqLdNode(editorial, url);
+  if (faqNode) ldjson["@graph"].push(faqNode);
 
   return `<!DOCTYPE html>
 <html lang="ja">
@@ -253,6 +386,9 @@ function articlePageHtml(entry, allEntries) {
     <link rel="canonical" href="${escapeHtml(url)}" />
     <meta name="color-scheme" content="dark light" />
     <meta name="google-site-verification" content="925j_JLVm5kAlnMIG4L6Pcc1Y344gm08zFSs_ERw_0I" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
+    <link rel="apple-touch-icon" href="/assets/favicon.svg" />
+    <meta name="theme-color" content="#1e1b4b" />
 
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="NeuroPulse — BCI &amp; Neuroscience Daily" />
@@ -308,7 +444,25 @@ function articlePageHtml(entry, allEntries) {
       </div>
 
       <article class="body">
-        <h2>編集部メモ</h2>
+${
+  editorial
+    ? `        <p class="article-lede">${escapeHtml(editorial.lede || dek)}</p>
+
+${editorialSectionsHtml(editorial)}
+${inArticleAdHtml()}
+${glossaryHtml(editorial)}
+
+        <h2>原典の要旨（英語原文・抜粋）</h2>
+        <blockquote>${escapeHtml(abs)}</blockquote>
+        <p class="src-attr" style="font-size: 12px; color: var(--ink-300);">
+          引用元: ${escapeHtml((entry.paperSource || "source").toUpperCase())} · ${escapeHtml(entry.paperId || "—")}
+          ／ 上記要旨は原典からの抜粋です。本文の背景説明・評価・限界の指摘は NeuroPulse 編集部による独自の解説です。
+        </p>
+
+        <h2>原題と著者</h2>
+        <p><strong>${escapeHtml(paperTitle)}</strong></p>
+        <p style="color: var(--ink-200); font-size: 14px;">${escapeHtml(authors)}</p>`
+    : `        <h2>編集部メモ</h2>
         <p>${escapeHtml(note)}</p>
 
         ${
@@ -320,23 +474,14 @@ function articlePageHtml(entry, allEntries) {
         </p>`
             : ""
         }
-
-        <!-- AdSense slot: ARTICLE_INCONTENT (アブストラクト後 / 著者前) -->
-        <aside class="ad-slot ad-slot--inarticle" aria-label="広告">
-          <span class="ad-slot__label">広告 / ADVERTISEMENT</span>
-          <ins class="adsbygoogle"
-               style="display:block; text-align:center;"
-               data-ad-layout="in-article"
-               data-ad-format="fluid"
-               data-ad-client="ca-pub-3378319187302369"
-               data-ad-slot="REPLACE_WITH_INARTICLE_SLOT_ID"></ins>
-          <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-        </aside>
-
+${inArticleAdHtml()}
         <h2>原題と著者</h2>
         <p><strong>${escapeHtml(paperTitle)}</strong></p>
-        <p style="color: var(--ink-200); font-size: 14px;">${escapeHtml(authors)}</p>
+        <p style="color: var(--ink-200); font-size: 14px;">${escapeHtml(authors)}</p>`
+}
       </article>
+
+      ${faqHtml(editorial)}
 
       ${
         paperLink
@@ -388,8 +533,6 @@ function sitemapXml(articleEntries) {
       (p) => `  <url>
     <loc>${SITE_ORIGIN}${p.path}</loc>
     <lastmod>${today}</lastmod>
-    <changefreq>${p.changefreq}</changefreq>
-    <priority>${p.priority}</priority>
   </url>`
     ),
     ...articleEntries.map((e) => {
@@ -398,8 +541,6 @@ function sitemapXml(articleEntries) {
       return `  <url>
     <loc>${SITE_ORIGIN}/article/${slug}</loc>
     <lastmod>${isoDateOnly(e.generatedAt) || today}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>`;
     }).filter(Boolean),
   ];
@@ -441,6 +582,14 @@ async function main() {
     console.warn("[build-articles] latest-draft.json not readable:", err.message);
   }
 
+  let editorials = {};
+  try {
+    const txt = await readFile(EDITORIALS_PATH, "utf8");
+    editorials = JSON.parse(txt) || {};
+  } catch (err) {
+    console.warn("[build-articles] editorials.json not readable (falling back to template bodies):", err.message);
+  }
+
   // Combine: ensure latest is in the set, dedupe by slug.
   const combined = [];
   const seen = new Set();
@@ -455,15 +604,31 @@ async function main() {
 
   if (!existsSync(OUT_DIR)) await mkdir(OUT_DIR, { recursive: true });
 
+  // Gate: publish only articles that have an editorial (hand-authored or
+  // LLM-generated). Thin template-fallback entries are excluded from the HTML
+  // output, the related-stories pool, and the sitemap; their stale files are
+  // swept below.
+  //
+  // Safety guard: the gate activates ONLY when editorials.json is non-empty, so a
+  // missing/empty editorials.json never accidentally empties the site (it falls
+  // back to publishing everything). Set PUBLISH_ALL=1 to force legacy behavior.
+  const editorialKeys = Object.keys(editorials || {});
+  const gateActive = !PUBLISH_ALL && editorialKeys.length > 0;
+  const published = gateActive
+    ? combined.filter((e) => editorials[archiveSlug(e)])
+    : combined;
+
   // Write per-article HTML
   const validSlugs = new Set();
   let written = 0;
-  for (const entry of combined) {
+  let withEditorial = 0;
+  for (const entry of published) {
     const slug = archiveSlug(entry);
     if (!slug) continue;
     validSlugs.add(`${slug}.html`);
+    if (editorials[slug]) withEditorial += 1;
     const out = path.join(OUT_DIR, `${slug}.html`);
-    await writeFile(out, articlePageHtml(entry, combined), "utf8");
+    await writeFile(out, articlePageHtml(entry, published, editorials), "utf8");
     written += 1;
   }
 
@@ -483,13 +648,17 @@ async function main() {
   }
 
   // Sitemap + robots
-  await writeFile(path.join(PUBLIC_DIR, "sitemap.xml"), sitemapXml(combined), "utf8");
+  await writeFile(path.join(PUBLIC_DIR, "sitemap.xml"), sitemapXml(published), "utf8");
   await writeFile(path.join(PUBLIC_DIR, "robots.txt"), robotsTxt(), "utf8");
 
   console.log(
-    `[build-articles] wrote ${written} article pages` +
+    `[build-articles] wrote ${written} article pages ` +
+    `(${withEditorial} with authored editorial / ${written - withEditorial} template fallback)` +
     (removed ? `, swept ${removed} stale` : "") +
-    `, sitemap (${combined.length} entries) + robots.txt → ${SITE_ORIGIN}`
+    `, sitemap (${published.length} entries) + robots.txt → ${SITE_ORIGIN}` +
+    (gateActive
+      ? ` [editorial gate on: ${combined.length - published.length} thin entries hidden]`
+      : ` [gate off: publishing all ${published.length}]`)
   );
 }
 
