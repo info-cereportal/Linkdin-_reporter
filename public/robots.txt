@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /data/
 
-Sitemap: https://eegbugckets.web.app/sitemap.xml
+Sitemap: https://eegbugckets.web.app/sitemap-main.xml

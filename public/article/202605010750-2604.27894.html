@@ -3,18 +3,21 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>ベイズ推論と学習 — 数値で示された新事実（計算論的神経科学） — NeuroPulse — BCI &amp; Neuroscience Daily</title>
-    <meta name="description" content="データが裏づけた計算論的神経科学の新知見。" />
+    <title>エージェントを『仮説』として扱う行動科学 — Agentic Behavioral Modeling の枠組み — NeuroPulse — BCI &amp; Neuroscience Daily</title>
+    <meta name="description" content="AIエージェントを認知メカニズムについての生成的仮説とみなし、人間の行動データに対する統計的説明力で評価する『Agentic Behavioral Modeling (ABM)』の提案を読み解く。" />
     <meta name="author" content="NeuroPulse Editorial" />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="https://eegbugckets.web.app/article/202605010750-2604.27894" />
     <meta name="color-scheme" content="dark light" />
     <meta name="google-site-verification" content="925j_JLVm5kAlnMIG4L6Pcc1Y344gm08zFSs_ERw_0I" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
+    <link rel="apple-touch-icon" href="/assets/favicon.svg" />
+    <meta name="theme-color" content="#1e1b4b" />
 
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="NeuroPulse — BCI &amp; Neuroscience Daily" />
-    <meta property="og:title" content="ベイズ推論と学習 — 数値で示された新事実（計算論的神経科学）" />
-    <meta property="og:description" content="データが裏づけた計算論的神経科学の新知見。" />
+    <meta property="og:title" content="エージェントを『仮説』として扱う行動科学 — Agentic Behavioral Modeling の枠組み" />
+    <meta property="og:description" content="AIエージェントを認知メカニズムについての生成的仮説とみなし、人間の行動データに対する統計的説明力で評価する『Agentic Behavioral Modeling (ABM)』の提案を読み解く。" />
     <meta property="og:url" content="https://eegbugckets.web.app/article/202605010750-2604.27894" />
     <meta property="og:locale" content="ja_JP" />
     <meta property="article:published_time" content="2026-05-01T07:50:38.246Z" />
@@ -33,7 +36,7 @@
             crossorigin="anonymous"></script>
     <meta name="google-adsense-account" content="ca-pub-3378319187302369" />
 
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","@id":"https://eegbugckets.web.app/article/202605010750-2604.27894","headline":"ベイズ推論と学習 — 数値で示された新事実（計算論的神経科学）","description":"データが裏づけた計算論的神経科学の新知見。","inLanguage":"ja","url":"https://eegbugckets.web.app/article/202605010750-2604.27894","datePublished":"2026-05-01T07:50:38.246Z","dateModified":"2026-05-01T07:50:38.246Z","keywords":"ベイズ推論, 学習","articleSection":"計算論的神経科学","publisher":{"@type":"NewsMediaOrganization","name":"NeuroPulse — BCI &amp; Neuroscience Daily","url":"https://eegbugckets.web.app"},"author":{"@type":"Organization","name":"NeuroPulse Editorial","url":"https://eegbugckets.web.app/about.html"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://eegbugckets.web.app/article/202605010750-2604.27894"},"isBasedOn":"https://arxiv.org/abs/2604.27894"}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"NewsMediaOrganization","@id":"https://eegbugckets.web.app/#org","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","url":"https://eegbugckets.web.app/","logo":{"@type":"ImageObject","url":"https://eegbugckets.web.app/assets/favicon.svg","width":64,"height":64},"inLanguage":"ja"},{"@type":"WebSite","@id":"https://eegbugckets.web.app/#site","url":"https://eegbugckets.web.app/","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","publisher":{"@id":"https://eegbugckets.web.app/#org"},"inLanguage":"ja"},{"@type":"NewsArticle","@id":"https://eegbugckets.web.app/article/202605010750-2604.27894","headline":"エージェントを『仮説』として扱う行動科学 — Agentic Behavioral Modeling の枠組み","description":"AIエージェントを認知メカニズムについての生成的仮説とみなし、人間の行動データに対する統計的説明力で評価する『Agentic Behavioral Modeling (ABM)』の提案を読み解く。","inLanguage":"ja","url":"https://eegbugckets.web.app/article/202605010750-2604.27894","datePublished":"2026-05-01T07:50:38.246Z","dateModified":"2026-05-01T07:50:38.246Z","keywords":"ベイズ推論, 学習","articleSection":"計算論的神経科学","isPartOf":{"@id":"https://eegbugckets.web.app/#site"},"publisher":{"@id":"https://eegbugckets.web.app/#org"},"author":{"@type":"Organization","name":"NeuroPulse Editorial","url":"https://eegbugckets.web.app/about"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://eegbugckets.web.app/article/202605010750-2604.27894"},"wordCount":1905,"isAccessibleForFree":true,"isBasedOn":"https://arxiv.org/abs/2604.27894"},{"@type":"FAQPage","@id":"https://eegbugckets.web.app/article/202605010750-2604.27894#faq","mainEntity":[{"@type":"Question","name":"これはAGIや汎用エージェントの研究ですか？","acceptedAnswer":{"@type":"Answer","text":"いいえ。AGIを目指す研究ではなく、人間の行動データを確率モデルとして説明するための方法論的な枠組みの提案です。"}},{"@type":"Question","name":"既存の計算論的モデリングとの違いは何ですか？","acceptedAnswer":{"@type":"Answer","text":"『エージェントを仮説として明示的に書き、尤度で統計的に評価する』ことを一つの枠組みとして整理し直した点にあります。発想自体は計算論的モデリングの伝統と地続きです。"}},{"@type":"Question","name":"どこから読み始めれば理解しやすいですか？","acceptedAnswer":{"@type":"Answer","text":"二値弁別と二腕バンディットという2つの最小例を先に追ってから、枠組みの一般的な主張に進むのが分かりやすいでしょう。"}}]}]}</script>
   </head>
   <body class="page-article">
     <a href="#main" class="skip-link">本文へスキップ</a>
@@ -53,8 +56,8 @@
         <a href="/">Home</a> · <a href="/#section-archive">Archive</a> · 計算論的神経科学
       </nav>
 
-      <h1>ベイズ推論と学習 — 数値で示された新事実（計算論的神経科学）</h1>
-      <p class="dek">データが裏づけた計算論的神経科学の新知見。</p>
+      <h1>エージェントを『仮説』として扱う行動科学 — Agentic Behavioral Modeling の枠組み</h1>
+      <p class="dek">AIエージェントを認知メカニズムについての生成的仮説とみなし、人間の行動データに対する統計的説明力で評価する『Agentic Behavioral Modeling (ABM)』の提案を読み解く。</p>
 
       <div class="meta">
         <span><strong>掲載</strong> 2026年5月1日（金） 16:50 JST</span>
@@ -65,33 +68,74 @@
       </div>
 
       <article class="body">
-        <h2>編集部メモ</h2>
-        <p>本稿では、計算論的神経科学領域における最新研究をデータドリブンの観点から整理した。
-      引用元は学術プレプリント (arXiv) を含み、査読前の研究結果を多く含む点には注意を要するが、
-      同時に「いま何が議論されているか」を最も早く把握できる情報源でもある。</p>
+        <p class="article-lede">AIエージェントを『動かして見せる』だけでなく、『人間の行動データを説明する仮説』として正面から扱えないか。本論文はその枠組みを Agentic Behavioral Modeling (ABM) と呼び、2つの最小実験課題を題材に道筋を示す。</p>
 
-        <h2>アブストラクト抜粋</h2>
+        <h2>課題意識</h2>
+        <p>理論神経科学・意思決定理論・確率推論の橋渡しが重要だという認識は共有されてきたが、AIエージェントの研究と、ヒトの<strong>行動データ解析</strong>とを噛み合わせる具体的な方法論は形式的に十分整っていない、と著者らは指摘する。シミュレーションでもなく、単なる回帰モデルでもない第三の道として、エージェントを生成的な仮説として扱う枠組みを提案している。</p>
+
+        <h2>ABMの考え方</h2>
+        <p>本研究の鍵となる発想は、<strong>人工エージェントを潜在的・生成的な仮説</strong>として扱い、その良し悪しを『観測された人間行動をどれだけ確率的に説明できるか』という統計的妥当性で評価する点にある。タスク・エージェント・行動データの三者を一つの<em>同時確率モデル</em>として記述し、そこから明示的な条件付き対数尤度を導いてモデル比較を行う。</p>
+
+        <h2>2つの最小例</h2>
+        <p>枠組みの具体性を示すため、著者らは古典的な2つの実験パラダイムを取り上げる。</p><ul><li><strong>二値知覚弁別課題</strong>（perceptual contrast-discrimination）：刺激のコントラスト差を判断する基本課題。</li><li><strong>対称な二腕バンディット学習課題</strong>：2つの選択肢からの報酬を学習しながら選ぶ課題。</li></ul><p>それぞれについて、確率モデルとして書き下し、条件付き対数尤度を導出し、モデル変種ごとに『モデル回復』『パラメータ回復』のシミュレーション検証を行ったうえで、経験データに対する評価まで進めている。</p>
+
+        <h2>何が見えたか</h2>
+        <p>エージェント中心の見方から得られた知見として、次のような点が示されたと報告されている。</p><ul><li>心理測定関数を、エージェントの内部信念と決定規則の観点から再解釈できる。</li><li>各タスクにおける最適方策を解析的に導ける。</li><li>対称な二腕バンディット課題では、古典的な<strong>Rescorla-Wagner学習</strong>と<strong>ベイズ的推論</strong>が等価になることが、形式的に示される。</li></ul><p>『学習と推論は別物だ』という直感に対し、特定の構造の下では両者が一致しうるという主張は、計算論的モデリングにとって示唆に富む。</p>
+
+        <h2>なぜ重要か</h2>
+        <p>ABMは、認知行動科学者にとって『エージェントを書く』ことを正式な方法論として位置づける試みである。生成モデルとして書き、尤度で評価するという手順は、心理学・神経科学に古くからある計算論的モデリングの伝統と、生成AIの語彙とを接続するインターフェースになりうる。</p>
+
+        <h2>限界と注意点</h2>
+        <ul><li>提示されているのは最小例での議論であり、現実の複雑な行動データへの適用範囲は今後の検証が必要である。</li><li>『Rescorla-Wagner学習とベイズ推論の等価性』は対称二腕バンディットという特定の条件下での結果であり、非対称・多腕・連続行動空間への一般化には別の前提が要る。</li><li>本稿は査読前のプレプリントを参照しており、結論や用語の細部は今後変わりうる。</li></ul>
+
+        <h2>編集部の読み</h2>
+        <p>『エージェントを書く』『行動を生成的に説明する』という方向は、計算論的精神医学やヒューマン・コンピュテーション研究との相性が良い。ABMが標準語彙として広まるかは、より複雑な実世界課題にどこまで持ち込めるかにかかっているだろう。</p>
+
+
+        <h2>用語ノート</h2>
+        <dl class="glossary">
+          <dt>生成モデル</dt>
+          <dd>観測データがどのように生まれたかを確率的に記述するモデル。尤度評価やシミュレーションが可能。</dd>
+          <dt>条件付き対数尤度</dt>
+          <dd>あるモデルの下で観測データが得られる確率の対数。モデル比較やパラメータ推定の中心的指標。</dd>
+          <dt>心理測定関数</dt>
+          <dd>刺激の物理量と被験者の応答（例：正答率）との関係を表す関数。知覚研究の基本指標。</dd>
+          <dt>二腕バンディット課題</dt>
+          <dd>報酬が確率的に返る2つの選択肢から繰り返し選ぶ学習課題。強化学習の最も基本的なテストベッド。</dd>
+          <dt>Rescorla-Wagner学習則</dt>
+          <dd>予測誤差に比例して期待値を更新する古典的な連合学習モデル。多くの強化学習モデルの起点。</dd>
+          <dt>モデル/パラメータ回復</dt>
+          <dd>シミュレーションでデータを生成し、その上で正しくモデル選択・パラメータ推定が行えるかを検証する手続き。</dd>
+        </dl>
+
+        <h2>原典の要旨（英語原文・抜粋）</h2>
         <blockquote>arXiv:2604.27894v1 Announce Type: new Abstract: Integrating theoretical neuroscience, decision theory, and probabilistic inference offers a promising route to understanding human cognition, yet concrete methodological bridges between…</blockquote>
-        <p style="font-family: var(--mono); font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--ink-300);">
+        <p class="src-attr" style="font-size: 12px; color: var(--ink-300);">
           引用元: ARXIV · 2604.27894
+          ／ 上記要旨は原典からの抜粋です。本文の背景説明・評価・限界の指摘は NeuroPulse 編集部による独自の解説です。
         </p>
-
-        <!-- AdSense slot: ARTICLE_INCONTENT (アブストラクト後 / 著者前) -->
-        <aside class="ad-slot ad-slot--inarticle" aria-label="広告">
-          <span class="ad-slot__label">広告 / ADVERTISEMENT</span>
-          <ins class="adsbygoogle"
-               style="display:block; text-align:center;"
-               data-ad-layout="in-article"
-               data-ad-format="fluid"
-               data-ad-client="ca-pub-3378319187302369"
-               data-ad-slot="REPLACE_WITH_INARTICLE_SLOT_ID"></ins>
-          <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-        </aside>
 
         <h2>原題と著者</h2>
         <p><strong>On Agentic Behavioral Modeling</strong></p>
         <p style="color: var(--ink-200); font-size: 14px;">Dirk Ostwald, Rasmus Bruckner, Franziska Us\&#39;ee, Belinda Fleischmann, Joram Soch, Sean Mulready</p>
       </article>
+
+      
+      <section class="article-faq" aria-labelledby="faq-heading">
+        <h2 id="faq-heading">よくある質問</h2>
+        <div class="faq-item">
+          <h3 class="faq-q">これはAGIや汎用エージェントの研究ですか？</h3>
+          <p class="faq-a">いいえ。AGIを目指す研究ではなく、人間の行動データを確率モデルとして説明するための方法論的な枠組みの提案です。</p>
+        </div>
+        <div class="faq-item">
+          <h3 class="faq-q">既存の計算論的モデリングとの違いは何ですか？</h3>
+          <p class="faq-a">『エージェントを仮説として明示的に書き、尤度で統計的に評価する』ことを一つの枠組みとして整理し直した点にあります。発想自体は計算論的モデリングの伝統と地続きです。</p>
+        </div>
+        <div class="faq-item">
+          <h3 class="faq-q">どこから読み始めれば理解しやすいですか？</h3>
+          <p class="faq-a">二値弁別と二腕バンディットという2つの最小例を先に追ってから、枠組みの一般的な主張に進むのが分かりやすいでしょう。</p>
+        </div>
+      </section>
 
       <div class="source-cta">
         <strong>原典 / SOURCE</strong>
@@ -118,9 +162,9 @@
       </article>
 
       <article class="related-card">
-        <span class="rk-eyebrow">ニューロAI・計算論</span>
-        <a href="/article/202605102138-42106495">深層学習と学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）</a>
-        <span class="rk-meta">2026-05-11</span>
+        <span class="rk-eyebrow">神経デコーディング</span>
+        <a href="/article/202605101005-42106496">学習と畳み込みニューラルネットワーク(CNN) — 脳科学とAIをつなぐ研究（神経デコーディング）</a>
+        <span class="rk-meta">2026-05-10</span>
       </article></div>
     </section>
 

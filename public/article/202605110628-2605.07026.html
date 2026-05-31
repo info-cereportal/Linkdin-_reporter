@@ -10,6 +10,9 @@
     <link rel="canonical" href="https://eegbugckets.web.app/article/202605110628-2605.07026" />
     <meta name="color-scheme" content="dark light" />
     <meta name="google-site-verification" content="925j_JLVm5kAlnMIG4L6Pcc1Y344gm08zFSs_ERw_0I" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
+    <link rel="apple-touch-icon" href="/assets/favicon.svg" />
+    <meta name="theme-color" content="#1e1b4b" />
 
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="NeuroPulse — BCI &amp; Neuroscience Daily" />
@@ -33,7 +36,7 @@
             crossorigin="anonymous"></script>
     <meta name="google-adsense-account" content="ca-pub-3378319187302369" />
 
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","@id":"https://eegbugckets.web.app/article/202605110628-2605.07026","headline":"学習と表現学習 — 常識への問題提起（ニューロAI・計算論）","description":"ニューロAI・計算論に投げかけられた、ひとつの問い。","inLanguage":"ja","url":"https://eegbugckets.web.app/article/202605110628-2605.07026","datePublished":"2026-05-11T06:28:12.692Z","dateModified":"2026-05-11T06:28:12.692Z","keywords":"学習, 表現学習, Transformer, fMRI, PET","articleSection":"ニューロAI・計算論","publisher":{"@type":"NewsMediaOrganization","name":"NeuroPulse — BCI &amp; Neuroscience Daily","url":"https://eegbugckets.web.app"},"author":{"@type":"Organization","name":"NeuroPulse Editorial","url":"https://eegbugckets.web.app/about.html"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://eegbugckets.web.app/article/202605110628-2605.07026"},"isBasedOn":"https://arxiv.org/abs/2605.07026"}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"NewsMediaOrganization","@id":"https://eegbugckets.web.app/#org","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","url":"https://eegbugckets.web.app/","logo":{"@type":"ImageObject","url":"https://eegbugckets.web.app/assets/favicon.svg","width":64,"height":64},"inLanguage":"ja"},{"@type":"WebSite","@id":"https://eegbugckets.web.app/#site","url":"https://eegbugckets.web.app/","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","publisher":{"@id":"https://eegbugckets.web.app/#org"},"inLanguage":"ja"},{"@type":"NewsArticle","@id":"https://eegbugckets.web.app/article/202605110628-2605.07026","headline":"学習と表現学習 — 常識への問題提起（ニューロAI・計算論）","description":"ニューロAI・計算論に投げかけられた、ひとつの問い。","inLanguage":"ja","url":"https://eegbugckets.web.app/article/202605110628-2605.07026","datePublished":"2026-05-11T06:28:12.692Z","dateModified":"2026-05-11T06:28:12.692Z","keywords":"学習, 表現学習, Transformer, fMRI, PET","articleSection":"ニューロAI・計算論","isPartOf":{"@id":"https://eegbugckets.web.app/#site"},"publisher":{"@id":"https://eegbugckets.web.app/#org"},"author":{"@type":"Organization","name":"NeuroPulse Editorial","url":"https://eegbugckets.web.app/about"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://eegbugckets.web.app/article/202605110628-2605.07026"},"wordCount":2077,"isAccessibleForFree":true,"isBasedOn":"https://arxiv.org/abs/2605.07026"},{"@type":"FAQPage","@id":"https://eegbugckets.web.app/article/202605110628-2605.07026#faq","mainEntity":[{"@type":"Question","name":"この研究は「アルツハイマーやADHDを診断できるAI」ですか？","acceptedAnswer":{"@type":"Answer","text":"いいえ。疾患を識別するタスクでの表現学習手法の性能を比較した研究であり、臨床診断ツールではありません。医療上の判断は専門医にご相談ください。"}},{"@type":"Question","name":"「アトラス依存性」の何が問題なのですか？","acceptedAnswer":{"@type":"Answer","text":"脳の区切り方を変えるとFCの値や解釈が変わり、同じ現象でも研究ごとに結論がぶれてしまう点です。本研究はその影響を抑えることを目指しています。"}},{"@type":"Question","name":"結果はどの程度信頼してよいですか？","acceptedAnswer":{"@type":"Answer","text":"参照元は査読前のプレプリントで、評価も2データセットに限られます。有望な方向性ではありますが、追試と外部検証が必要な段階です。"}}]}]}</script>
   </head>
   <body class="page-article">
     <a href="#main" class="skip-link">本文へスキップ</a>
@@ -65,32 +68,71 @@
       </div>
 
       <article class="body">
-        <h2>編集部メモ</h2>
-        <p>本稿は、ニューロAI・計算論に投げかけられた一つの「問い」を中心に構成した。
-      解の提示よりも、議論を深めるための材料提供を意図している。</p>
+        <p class="article-lede">脳の『つながり方』を測る指標は、どの脳地図（アトラス）を使うかで姿を変えてしまう。この見過ごされがちな不便さに、表現学習の側から正面から取り組んだのが本研究である。</p>
 
-        <h2>アブストラクト抜粋</h2>
+        <h2>この研究が向き合った問題</h2>
+        <p>安静時fMRI（rs-fMRI）から得られる<strong>機能的結合（functional connectivity, FC）</strong>は、離れた脳領域の活動がどれだけ協調しているかを表す指標で、アルツハイマー病やADHDといった神経・精神疾患で脳ネットワークがどう変化するかを調べる手がかりとして広く使われている。</p><p>ところがFCを計算するには、脳をいくつの領域にどう区切るか——すなわち<strong>脳アトラス（パーセレーション）</strong>——をまず決めなければならない。区切り方が変われば強調される特徴も変わり、同じ脳・同じ疾患を見ているはずなのに、得られる表現が食い違ってしまう。著者らはこの『アトラス依存性』を、FCベースの研究が抱える再現性上の弱点として位置づけている。</p>
+
+        <h2>提案手法「MADCLE」の考え方</h2>
+        <p>本研究が提案する<strong>MADCLE</strong>は、複数のアトラスから作ったFC行列をそれぞれ別の枝（ブランチ）で符号化するマルチブランチ構成をとる。鍵は、すべてを一つの共通変数に押し込めるのではなく、<strong>疾患に関係する情報</strong>と、<strong>年齢・性別などの交絡要因やアトラス固有のクセ</strong>とを分けて表現する点にある。これは機械学習でいう<em>ディスエンタングルメント（要因の切り分け）</em>の発想である。</p><ul><li>各アトラスから学んだ『疾患関連の表現』を分布レベルで揃える（distributional alignment）ことで、アトラス間で一貫した特徴を引き出す。</li><li>交絡要因に関わる成分は、共変量の類似性を手がかりに別枠で学習する。</li><li>アトラス固有の情報は、元のFCを再構成する制約と、表現同士を無相関化する制約とで切り離す。</li></ul><p>こうして『疾患に効く成分』へ、疾患と無関係な情報やアトラスのクセが混ざり込む（リークする）のを抑えることを狙っている。</p>
+
+        <h2>検証で確かめられたこと</h2>
+        <p>著者らは、アルツハイマー病研究で広く使われる<strong>ADNI</strong>と、ADHD研究向けの<strong>ADHD-200</strong>という2つの公開データセットでMADCLEを評価した。報告によれば、単一アトラスを使うベースライン、複数アトラスを扱うGNN/Transformer系モデル、そして近年のマルチアトラス一貫性手法と比べて、<strong>同等か、それ以上の性能</strong>を示したとされる。</p><p>ただしここでいう『性能』は、あくまで疾患の識別タスクにおける比較であり、臨床診断の精度を保証するものではない点には注意したい。</p>
+
+        <h2>なぜ重要か</h2>
+        <p>FCベースのバイオマーカー研究では、『使うアトラスを変えると結論が揺れる』という問題が長く指摘されてきた。本研究のアプローチは、アトラスの選び方に振り回されにくい、より頑健な表現を得るための一つの方向性を示している可能性がある。アトラス間で一貫した疾患表現が安定して取り出せるなら、研究間の比較や再現がしやすくなることが期待される。</p>
+
+        <h2>限界と注意点</h2>
+        <ul><li>本稿が参照したのは<strong>プレプリント（査読前）</strong>であり、結論は今後の査読・追試で変わりうる。</li><li>評価は2つのデータセットに限られ、他の疾患・撮像条件・集団への一般化は未検証である。</li><li>『性能が同等以上』という結果は識別タスク上の指標であって、個人の診断・治療判断に用いるものではない。</li><li>機能的結合の差は相関的な所見であり、因果関係を示すものではない。</li></ul>
+
+        <h2>編集部の読み</h2>
+        <p>神経科学とAIの境界では、『脳の測り方そのものに含まれる任意性をどう扱うか』という問いが近年存在感を増している。アトラス選択は、その任意性が最も分かりやすく表面化する場面の一つだ。本研究は、解像度や区切り方という前処理の選択を、後段の表現学習で吸収しようとする試みとして読める。今後の焦点は、外部データでの再現性と、得られた表現の臨床的な意味づけにあるだろう。</p>
+
+
+        <h2>用語ノート</h2>
+        <dl class="glossary">
+          <dt>機能的結合 (FC)</dt>
+          <dd>離れた脳領域の活動がどれだけ同期しているかを表す指標。安静時fMRIから相関などで算出する。</dd>
+          <dt>安静時fMRI (rs-fMRI)</dt>
+          <dd>特定の課題を行わず安静にしている間の脳活動をMRIで計測する手法。</dd>
+          <dt>脳アトラス／パーセレーション</dt>
+          <dd>脳をいくつの領域にどう区切るかを定めた地図。FC計算の前提になる。</dd>
+          <dt>ディスエンタングルメント</dt>
+          <dd>データに混在する複数の要因（疾患・交絡・ノイズ）を別々の表現に切り分ける機械学習の考え方。</dd>
+          <dt>ADNI</dt>
+          <dd>アルツハイマー病の進行を追う大規模な公開神経画像データセット。</dd>
+          <dt>ADHD-200</dt>
+          <dd>ADHD研究向けに公開された安静時fMRIのデータセット。</dd>
+        </dl>
+
+        <h2>原典の要旨（英語原文・抜粋）</h2>
         <blockquote>Functional connectivity (FC) derived from resting-state fMRI is widely used to characterize large-scale brain network alterations in neurological and psychiatric disorders. However, FC construction critically depends on the choice of brain…</blockquote>
-        <p style="font-family: var(--mono); font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--ink-300);">
+        <p class="src-attr" style="font-size: 12px; color: var(--ink-300);">
           引用元: ARXIV · 2605.07026
+          ／ 上記要旨は原典からの抜粋です。本文の背景説明・評価・限界の指摘は NeuroPulse 編集部による独自の解説です。
         </p>
-
-        <!-- AdSense slot: ARTICLE_INCONTENT (アブストラクト後 / 著者前) -->
-        <aside class="ad-slot ad-slot--inarticle" aria-label="広告">
-          <span class="ad-slot__label">広告 / ADVERTISEMENT</span>
-          <ins class="adsbygoogle"
-               style="display:block; text-align:center;"
-               data-ad-layout="in-article"
-               data-ad-format="fluid"
-               data-ad-client="ca-pub-3378319187302369"
-               data-ad-slot="REPLACE_WITH_INARTICLE_SLOT_ID"></ins>
-          <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-        </aside>
 
         <h2>原題と著者</h2>
         <p><strong>Learning Cross-Atlas Consistent Brain Disorder Representations via Disentangled Multi-Atlas Functional Connectivity Learning</strong></p>
         <p style="color: var(--ink-200); font-size: 14px;">Minheng Chen, Chao Cao, Jing Zhang, Tianming Liu, Dajiang Zhu</p>
       </article>
+
+      
+      <section class="article-faq" aria-labelledby="faq-heading">
+        <h2 id="faq-heading">よくある質問</h2>
+        <div class="faq-item">
+          <h3 class="faq-q">この研究は「アルツハイマーやADHDを診断できるAI」ですか？</h3>
+          <p class="faq-a">いいえ。疾患を識別するタスクでの表現学習手法の性能を比較した研究であり、臨床診断ツールではありません。医療上の判断は専門医にご相談ください。</p>
+        </div>
+        <div class="faq-item">
+          <h3 class="faq-q">「アトラス依存性」の何が問題なのですか？</h3>
+          <p class="faq-a">脳の区切り方を変えるとFCの値や解釈が変わり、同じ現象でも研究ごとに結論がぶれてしまう点です。本研究はその影響を抑えることを目指しています。</p>
+        </div>
+        <div class="faq-item">
+          <h3 class="faq-q">結果はどの程度信頼してよいですか？</h3>
+          <p class="faq-a">参照元は査読前のプレプリントで、評価も2データセットに限られます。有望な方向性ではありますが、追試と外部検証が必要な段階です。</p>
+        </div>
+      </section>
 
       <div class="source-cta">
         <strong>原典 / SOURCE</strong>
@@ -106,20 +148,20 @@
       <div class="related-grid">
       <article class="related-card">
         <span class="rk-eyebrow">ニューロAI・計算論</span>
-        <a href="/article/202605102138-42106495">深層学習と学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）</a>
+        <a href="/article/202605110205-42106476">セロトニンと深層学習 — 常識への問題提起（ニューロAI・計算論）</a>
         <span class="rk-meta">2026-05-11</span>
       </article>
 
       <article class="related-card">
-        <span class="rk-eyebrow">ニューロAI・計算論</span>
-        <a href="/article/202605100755-42104818">Transformerと注意機構 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）</a>
+        <span class="rk-eyebrow">神経デコーディング</span>
+        <a href="/article/202605101005-42106496">学習と畳み込みニューラルネットワーク(CNN) — 脳科学とAIをつなぐ研究（神経デコーディング）</a>
         <span class="rk-meta">2026-05-10</span>
       </article>
 
       <article class="related-card">
-        <span class="rk-eyebrow">ニューロAI・計算論</span>
-        <a href="/article/202605100733-42104715">深層学習と学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）</a>
-        <span class="rk-meta">2026-05-10</span>
+        <span class="rk-eyebrow">計算論的神経科学</span>
+        <a href="/article/202605010750-2604.27894">ベイズ推論と学習 — 数値で示された新事実（計算論的神経科学）</a>
+        <span class="rk-meta">2026-05-01</span>
       </article></div>
     </section>
 

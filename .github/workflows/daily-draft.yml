@@ -66,7 +66,7 @@ jobs:
                   public/data/drafts-history.json \
                   public/data/feeds.json \
                   public/article \
-                  public/sitemap.xml \
+                  public/sitemap-main.xml \
                   public/robots.txt 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit"

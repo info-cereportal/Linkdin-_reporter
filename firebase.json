@@ -22,11 +22,10 @@
         ]
       },
       {
-        "source": "/sitemap.xml",
+        "source": "/sitemap-main.xml",
         "headers": [
           { "key": "Cache-Control", "value": "public, max-age=600" },
-          { "key": "Content-Type", "value": "application/xml; charset=utf-8" },
-          { "key": "X-Robots-Tag", "value": "noindex" }
+          { "key": "Content-Type", "value": "application/xml; charset=utf-8" }
         ]
       },
       {

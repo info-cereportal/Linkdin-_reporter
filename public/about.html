@@ -11,6 +11,9 @@
     <meta name="robots" content="index,follow" />
     <link rel="canonical" href="https://eegbugckets.web.app/about" />
     <meta name="google-site-verification" content="925j_JLVm5kAlnMIG4L6Pcc1Y344gm08zFSs_ERw_0I" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
+    <link rel="apple-touch-icon" href="/assets/favicon.svg" />
+    <meta name="theme-color" content="#1e1b4b" />
     <meta name="color-scheme" content="dark light" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -24,14 +27,40 @@
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "AboutPage",
-        "url": "https://eegbugckets.web.app/about",
-        "name": "運営者情報 — NeuroPulse — BCI &amp; Neuroscience Daily",
-        "publisher": {
-          "@type": "NewsMediaOrganization",
-          "name": "NeuroPulse — BCI &amp; Neuroscience Daily",
-          "url": "https://eegbugckets.web.app/"
-        }
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://eegbugckets.web.app/#org",
+            "name": "NeuroPulse",
+            "alternateName": "NeuroPulse — BCI & Neuroscience Daily",
+            "url": "https://eegbugckets.web.app/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://eegbugckets.web.app/assets/favicon.svg",
+              "width": 64,
+              "height": 64
+            },
+            "description": "脳情報科学・ニューロAI・ライフサイエンス産業の最新動向を3時間ごとに編集してお届けする日本語のオンラインニュース誌。",
+            "inLanguage": "ja"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://eegbugckets.web.app/#site",
+            "url": "https://eegbugckets.web.app/",
+            "name": "NeuroPulse",
+            "alternateName": "NeuroPulse — BCI & Neuroscience Daily",
+            "publisher": { "@id": "https://eegbugckets.web.app/#org" },
+            "inLanguage": "ja"
+          },
+          {
+            "@type": "AboutPage",
+            "url": "https://eegbugckets.web.app/about",
+            "name": "運営者情報 — NeuroPulse — BCI & Neuroscience Daily",
+            "inLanguage": "ja",
+            "isPartOf": { "@id": "https://eegbugckets.web.app/#site" },
+            "publisher": { "@id": "https://eegbugckets.web.app/#org" }
+          }
+        ]
       }
     </script>
 

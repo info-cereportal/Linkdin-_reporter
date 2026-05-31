@@ -13,6 +13,9 @@
     <meta name="color-scheme" content="dark light" />
     <link rel="canonical" href="https://eegbugckets.web.app/" />
     <meta name="google-site-verification" content="925j_JLVm5kAlnMIG4L6Pcc1Y344gm08zFSs_ERw_0I" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
+    <link rel="apple-touch-icon" href="/assets/favicon.svg" />
+    <meta name="theme-color" content="#1e1b4b" />
 
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
@@ -41,18 +44,26 @@
           {
             "@type": "NewsMediaOrganization",
             "@id": "https://eegbugckets.web.app/#org",
-            "name": "NeuroPulse — BCI &amp; Neuroscience Daily",
+            "name": "NeuroPulse",
+            "alternateName": "NeuroPulse — BCI & Neuroscience Daily",
             "url": "https://eegbugckets.web.app/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://eegbugckets.web.app/assets/favicon.svg",
+              "width": 64,
+              "height": 64
+            },
             "description": "脳情報科学・ニューロAI・ライフサイエンス産業の最新動向を3時間ごとに編集してお届けする日本語のオンラインニュース誌。",
             "inLanguage": "ja",
-            "publishingPrinciples": "https://eegbugckets.web.app/about.html",
-            "ethicsPolicy": "https://eegbugckets.web.app/about.html#ethics"
+            "publishingPrinciples": "https://eegbugckets.web.app/about",
+            "ethicsPolicy": "https://eegbugckets.web.app/about#ethics"
           },
           {
             "@type": "WebSite",
             "@id": "https://eegbugckets.web.app/#site",
             "url": "https://eegbugckets.web.app/",
-            "name": "NeuroPulse — BCI &amp; Neuroscience Daily",
+            "name": "NeuroPulse",
+            "alternateName": "NeuroPulse — BCI & Neuroscience Daily",
             "publisher": { "@id": "https://eegbugckets.web.app/#org" },
             "inLanguage": "ja"
           }
@@ -361,22 +372,9 @@
         </div>
       </section>
 
-      <!-- ═══════════════════════════════════════════════════════════════
-           AdSense slot #1: HOMEPAGE_TOP_BANNER
-           位置: ヒーロー直後 / BCI 直前 (高 RPM ポイント)
-           AdSense コンソールで「ディスプレイ広告」を作成し、
-           data-ad-slot の値を差し替えてください。
-           ═══════════════════════════════════════════════════════════════ -->
-      <aside class="ad-slot ad-slot--banner" aria-label="広告">
-        <span class="ad-slot__label">広告 / ADVERTISEMENT</span>
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-3378319187302369"
-             data-ad-slot="REPLACE_WITH_TOP_BANNER_SLOT_ID"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-      </aside>
+      <!-- AdSense 手動広告ユニットは承認後に実スロット ID で再追加する。
+           無効なプレースホルダ ID のユニットは審査で「未完成サイト」に映るため撤去。
+           承認までは <head> の検証用ローダと Auto Ads のみで足りる。 -->
 
       <!-- ───────────────── CATEGORY GRID ───────────────── -->
       <section
@@ -400,21 +398,7 @@
         <ol class="article-grid" data-list="bci"></ol>
       </section>
 
-      <!-- ═══════════════════════════════════════════════════════════════
-           AdSense slot #2: HOMEPAGE_MID_INFEED
-           位置: BCI セクション直後 / 論文直前 (深スクロール RPM 高)
-           AdSense で「インフィード広告」を作成、data-ad-slot を差し替え。
-           ═══════════════════════════════════════════════════════════════ -->
-      <aside class="ad-slot ad-slot--inline" aria-label="広告">
-        <span class="ad-slot__label">広告 / ADVERTISEMENT</span>
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-3378319187302369"
-             data-ad-slot="REPLACE_WITH_MID_INFEED_SLOT_ID"
-             data-ad-format="fluid"
-             data-ad-layout-key="-fb+5w+4e-db+86"></ins>
-        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-      </aside>
+      <!-- AdSense MID_INFEED ユニット撤去（承認後に実スロット ID で再追加）。 -->
 
       <section
         class="category"
@@ -639,21 +623,7 @@
         </article>
       </section>
 
-      <!-- ═══════════════════════════════════════════════════════════════
-           AdSense slot #3: HOMEPAGE_BOTTOM_BANNER
-           位置: 編集ノート後 / アーカイブ前 (完読到達者向け)
-           AdSense で「ディスプレイ広告」を作成、data-ad-slot を差し替え。
-           ═══════════════════════════════════════════════════════════════ -->
-      <aside class="ad-slot ad-slot--banner" aria-label="広告">
-        <span class="ad-slot__label">広告 / ADVERTISEMENT</span>
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-3378319187302369"
-             data-ad-slot="REPLACE_WITH_BOTTOM_BANNER_SLOT_ID"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-      </aside>
+      <!-- AdSense BOTTOM_BANNER ユニット撤去（承認後に実スロット ID で再追加）。 -->
 
       <!-- ───────────────── ARCHIVE ───────────────── -->
       <section
