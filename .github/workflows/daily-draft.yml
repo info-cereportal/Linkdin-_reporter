@@ -2,8 +2,9 @@ name: LinkedIn Neuro Draft Generator
 
 on:
   schedule:
-    # 3時間おき (UTC 0,3,6,9,12,15,18,21 = JST 9,12,15,18,21,0,3,6)
-    - cron: "0 */3 * * *"
+    # 1日1回 (UTC 0 = JST 9)。AdSense審査向けに「scaled content（量産）」シグナルを
+    # 下げるため、従来の3時間おき(1日8回)から頻度を抑制。
+    - cron: "0 0 * * *"
   workflow_dispatch: # 手動実行用
 
 permissions:
@@ -18,7 +19,7 @@ concurrency:
 jobs:
   generate-draft:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 15
 
     steps:
       - uses: actions/checkout@v4
@@ -52,6 +53,16 @@ jobs:
           BIAS_BCI_PICK: ${{ vars.BIAS_BCI_PICK }}
         run: node dist/daily-run.js
 
+      - name: Generate editorials (Gemini, free tier)
+        # 各記事に厚い独自編集を生成し public/data/editorials.json に保存。
+        # GEMINI_API_KEY シークレット未設定なら no-op（編集ゲートは非活性のまま）。
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          EDITORIAL_TARGET: ${{ vars.EDITORIAL_TARGET || '30' }}
+          MAX_PER_RUN: ${{ vars.MAX_PER_RUN || '8' }}
+        run: npm run editorials:gen
+
       - name: Build static article pages, sitemap & robots
         env:
           SITE_ORIGIN: ${{ vars.SITE_ORIGIN || 'https://eegbugckets.web.app' }}
@@ -64,6 +75,7 @@ jobs:
           git add .daily-history.json \
                   public/data/latest-draft.json \
                   public/data/drafts-history.json \
+                  public/data/editorials.json \
                   public/data/feeds.json \
                   public/article \
                   public/sitemap.xml \
