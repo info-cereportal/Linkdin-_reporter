@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T04:12:14.120Z",
+  "generatedAt": "2026-05-31T23:42:10.750Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -13,6 +13,30 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: A standing ovation for RevMed, and caution for Akeso",
+          "url": "https://www.statnews.com/2026/05/31/asco-news-day-3-revmed-akeso-summit-lilly-kelonia/?utm_campaign=rss",
+          "publishedDate": "Sun, 31 May 2026 23:03:06 +0000",
+          "source": "statnews.com",
+          "summary": "ASCO Day 3: A huge advance for pancreatic cancer, a let down for Akeso and Summit, and a new approach to immunotherapy.",
+          "authors": "Adam Feuerstein, Matthew Herper, Katherine MacPhail, and Angus Chen"
+        },
+        {
+          "title": "STAT+: Practice-changing results reported for Revolution Medicines pancreatic cancer drug",
+          "url": "https://www.statnews.com/2026/05/31/pancreatic-cancer-daraxonrasib-revolution-medicines-results-asco-2026/?utm_campaign=rss",
+          "publishedDate": "Sun, 31 May 2026 12:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "Much-awaited results at ASCO show that scientists have indeed found a way to drug a \"greasy ball\" involved in pancreatic cancer.",
+          "authors": "Adam Feuerstein"
+        },
+        {
+          "title": "STAT+: For prostate cancer patients set on surgery, new hormone regimen may improve outcomes, study finds",
+          "url": "https://www.statnews.com/2026/05/31/prostate-cancer-hormone-therapy-cut-relapse-asco-2026/?utm_campaign=rss",
+          "publishedDate": "Sun, 31 May 2026 12:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "By doing hormone therapy up front in prostate cancer cases, the hope was to shrink the relapse rate after surgery. Results were encouraging.",
+          "authors": "Angus Chen"
+        },
         {
           "title": "STAT+: BioNTech and Pfizer tout bispecifics data at ASCO, and Pazdur sees silver lining at FDA",
           "url": "https://www.statnews.com/2026/05/30/asco-news-day-2-biontech-pfizer-kelun-merck-pazdur/?utm_campaign=rss",
@@ -36,30 +60,6 @@
           "source": "statnews.com",
           "summary": "CEO Mark Goldsmith says Revolution Medicines will submit pancreatic cancer drug daraxonrasib for FDA approval soon.",
           "authors": "Adam Feuerstein"
-        },
-        {
-          "title": "STAT+: As Ebola outbreak grows, Trump administration veers from previous government playbook",
-          "url": "https://www.statnews.com/2026/05/30/trump-ebola-response-biden-pandemic-preparations-thrown-away/?utm_campaign=rss",
-          "publishedDate": "Sat, 30 May 2026 10:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "Trump officials are disregarding the Biden administration's detailed pandemic plans in favor of their own strategy.",
-          "authors": "Daniel Payne and Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: At ASCO, positive data for Bristol in multiple myeloma and Pfizer in lung cancer",
-          "url": "https://www.statnews.com/2026/05/29/asco-news-day-1-multiple-myeloma-bristol-lung-cancer-pfizer/?utm_campaign=rss",
-          "publishedDate": "Fri, 29 May 2026 21:32:26 +0000",
-          "source": "statnews.com",
-          "summary": "You’re reading the web edition of ASCO in 30 Seconds, STAT’s guide to the American Society of Clinical Oncology annual meeting. Sign up for email editions here. We’re ASCOmaxxing. Rest&#8230;",
-          "authors": "Adam Feuerstein, Matthew Herper, and Angus Chen"
-        },
-        {
-          "title": "Kenya court suspends U.S. plan for Ebola quarantine facility for Americans",
-          "url": "https://www.statnews.com/2026/05/29/kenya-court-suspends-plan-ebola-quarantine-facility-americans/?utm_campaign=rss",
-          "publishedDate": "Fri, 29 May 2026 14:59:42 +0000",
-          "source": "statnews.com",
-          "summary": "A court in Kenya on Friday suspended a U.S. plan to establish a quarantine facility for Americans exposed to a rare type of Ebola virus spreading in northeastern Congo.",
-          "authors": "Associated Press"
         }
       ]
     },
@@ -68,6 +68,38 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Scientists found the hidden switch fueling alzheimer’s brain inflammation",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260530053424.htm",
+          "publishedDate": "Sun, 31 May 2026 11:30:38 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists at Scripps Research have uncovered a molecular “switch” that appears to fuel the damaging brain inflammation seen in Alzheimer’s disease. They found that a protein called STING becomes chemically altered in a way that keeps the…",
+          "authors": ""
+        },
+        {
+          "title": "Why cancer spreads more in middle age than in old age",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260530053422.htm",
+          "publishedDate": "Sun, 31 May 2026 11:25:45 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Melanoma may not become steadily more dangerous with age as scientists once assumed. In a surprising discovery, researchers found that cancer spread was lowest in young mice, surged in middle-aged mice, and then dropped again in very old…",
+          "authors": ""
+        },
+        {
+          "title": "Intermittent fasting triggers surprising changes in the brain",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260530004622.htm",
+          "publishedDate": "Sun, 31 May 2026 05:01:44 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Losing weight may involve rewiring the gut and the brain at the same time. In a study of obese adults, an intermittent fasting-style diet led to significant weight loss, healthier metabolic markers, and notable shifts in gut bacteria.…",
+          "authors": ""
+        },
+        {
+          "title": "Omega-3 fish oil shows promise against type 2 diabetes",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260530004626.htm",
+          "publishedDate": "Sun, 31 May 2026 01:15:13 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new study suggests fish oil may help reduce insulin resistance even in people who aren&#039;t obese. In diabetic rats, omega-3 supplementation improved blood sugar levels, cholesterol, and inflammation by shifting immune cells into a…",
+          "authors": ""
+        },
         {
           "title": "STAT+: China competition, ‘destruction’ at FDA give agency chance to restructure, Rick Pazdur says",
           "url": "https://www.statnews.com/2026/05/30/rick-pazdur-fda-destruction-rebuilding-asco-2026/?utm_campaign=rss",
@@ -83,38 +115,6 @@
           "source": "statnews.com",
           "summary": "Trump officials are disregarding the Biden administration's detailed pandemic plans in favor of their own strategy.",
           "authors": "Daniel Payne and Chelsea Cirruzzo"
-        },
-        {
-          "title": "Repairing DNA damage: Scientists discover a surprising new benefit of melatonin",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260530004618.htm",
-          "publishedDate": "Sat, 30 May 2026 05:11:34 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new study suggests melatonin supplements may help night shift workers boost their body&#039;s DNA repair processes, potentially offsetting some of the damage linked to working overnight. The findings are early but raise the possibility…",
-          "authors": ""
-        },
-        {
-          "title": "This tomato-soy juice reduced inflammation in just four weeks",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260529043644.htm",
-          "publishedDate": "Sat, 30 May 2026 01:53:49 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A specially formulated tomato-soy juice packed with natural plant compounds may help calm inflammation linked to obesity, according to a new clinical study. Healthy adults with obesity who drank the juice daily for four weeks saw…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Trump administration seeks to overhaul federal grantmaking process, alarming researchers",
-          "url": "https://www.statnews.com/2026/05/29/nih-grants-uniform-guidance-proposal-political-control/?utm_campaign=rss",
-          "publishedDate": "Fri, 29 May 2026 18:50:13 +0000",
-          "source": "statnews.com",
-          "summary": "The Trump administration has released a sweeping proposal to overhaul the bedrock regulation for all federal grants.",
-          "authors": "Anil Oza"
-        },
-        {
-          "title": "Protein traffic jams may explain aging, memory loss, and Alzheimer’s",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260528082505.htm",
-          "publishedDate": "Fri, 29 May 2026 10:17:40 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists at Stanford may have uncovered a hidden reason our brains decline with age. Studying the ultra-short-lived turquoise killifish, researchers discovered that the cellular machinery responsible for building proteins begins to jam…",
-          "authors": ""
         }
       ]
     },

@@ -1,26 +1,25 @@
 {
-  "generatedAt": "2026-05-31T04:12:13.320Z",
+  "generatedAt": "2026-05-31T23:42:10.244Z",
   "date": "2026-05-31",
-  "topic": "深層学習と学習",
+  "topic": "深層学習と注意機構",
   "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "A survey of deep learning techniques in detecting neurological disorders using MRI.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42216001/",
-  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、深層学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 深層学習 × 学習 × 畳み込みニューラルネットワーク(CNN) × 表現学習\n\n📊 注目すべきデータ：\n→ Finally, the paper outlines promising research directions such as multimodal learning, self-supervised representation learning, and robust cross-domain generalization to enhance...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 A survey of deep learning techniques in detecting neurological disorders using MRI.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42216001/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #DeepLearning",
-  "summaryJP": "深層学習と学習 — 数値で示された新事実（ニューロAI・計算論）",
-  "paperAuthors": "Deepak Mane, Ranjeet Bidwe, Rivan Shetty, Atharva Shinde, Gaurav Shende, Vishal Sharma",
-  "publishedDate": "2026-05-29",
-  "paperId": "42216001",
+  "paperTitle": "A lightweight deep learning model with channel attention for kidney cell classification from microscopy images.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42218235/",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n数字が語る、深層学習と注意機構の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 深層学習 × 注意機構 × 学習 × 畳み込みニューラルネットワーク(CNN)\n\n📊 注目すべきデータ：\n→ Evaluated on the TissueMNIST benchmark comprising approximately 236,000 images, CytoECA-Net achieves a classification accuracy of 75.56% and an AUC of 0.9564, with performance...\n→ Additional evaluation on the KMC-RENAL histopathology dataset shows that the model achieves 97.76% accuracy and attains the highest performance among the evaluated models.\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 A lightweight deep learning model with channel attention for kidney cell classification from microscopy images.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42218235/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #ニューロテック",
+  "summaryJP": "深層学習と注意機構 — 数値で示された新事実（ニューロAI・計算論）",
+  "paperAuthors": "Mithila Arman, Md Mahid Arfan Rahat, Mahabuba Akter Thithi, Johir Uddin Khan, Shahriar Mahmud Kabir, Md Imamul Islam",
+  "publishedDate": "2026-05-30",
+  "paperId": "42218235",
   "paperSource": "pubmed",
   "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
     "深層学習",
+    "注意機構",
     "学習",
     "畳み込みニューラルネットワーク(CNN)",
-    "表現学習",
-    "Transformer",
-    "脳画像研究"
+    "記憶"
   ],
-  "abstractExcerpt": "Magnetic resonance imaging (MRI) is widely regarded as the most reliable non-invasive imaging modality for detecting neurological disorders. However, manual interpretation of MRI scans is often time-consuming and prone to inter-observer…",
+  "abstractExcerpt": "Accurate identification of renal cell types within tissue architecture is fundamental for understanding normal kidney physiology and detecting early pathological changes. While traditional histological examination is time-intensive and…",
   "figureUrls": []
 }
