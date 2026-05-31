@@ -1,22 +1,26 @@
 {
-  "generatedAt": "2026-05-31T02:29:52.993Z",
+  "generatedAt": "2026-05-31T04:12:13.320Z",
   "date": "2026-05-31",
-  "topic": "注意機構と学習",
+  "topic": "深層学習と学習",
   "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "CholBindNet as an interpretable neural network for cholesterol-binding site classification.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42215600/",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、注意機構と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 注意機構 × 学習\n\n📊 注目すべきデータ：\n→ We show that CholBindNet substantially outperforms existing machine learning models trained on general ligand-binding datasets, including AlphaFold3, P2Rank, and DiffDock.\n→ The performance and generalizability of the model on unseen membrane proteins were further demonstrated by rapidly assessing cholesterol-binding sites in the PIEZO2 ion channel...\n→ Overall, CholBindNet provides an efficient and scalable approach for classifying and ranking cholesterol-binding sites on membrane proteins, achieving performance comparable to...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 CholBindNet as an interpretable neural network for cholesterol-binding site classification.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42215600/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #脳情報",
-  "summaryJP": "注意機構と学習 — 数値で示された新事実（神経デコーディング）",
-  "paperAuthors": "Alexis Hernandez, Aashish Bhatt, Ivan Revilla, Jacob Ede Levine, Sai Chandra Kosaraju, Yun Lyna Luo",
+  "paperTitle": "A survey of deep learning techniques in detecting neurological disorders using MRI.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42216001/",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、深層学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 深層学習 × 学習 × 畳み込みニューラルネットワーク(CNN) × 表現学習\n\n📊 注目すべきデータ：\n→ Finally, the paper outlines promising research directions such as multimodal learning, self-supervised representation learning, and robust cross-domain generalization to enhance...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 A survey of deep learning techniques in detecting neurological disorders using MRI.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42216001/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #DeepLearning",
+  "summaryJP": "深層学習と学習 — 数値で示された新事実（ニューロAI・計算論）",
+  "paperAuthors": "Deepak Mane, Ranjeet Bidwe, Rivan Shetty, Atharva Shinde, Gaurav Shende, Vishal Sharma",
   "publishedDate": "2026-05-29",
-  "paperId": "42215600",
+  "paperId": "42216001",
   "paperSource": "pubmed",
-  "themeArea": "神経デコーディング",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "注意機構",
-    "学習"
+    "深層学習",
+    "学習",
+    "畳み込みニューラルネットワーク(CNN)",
+    "表現学習",
+    "Transformer",
+    "脳画像研究"
   ],
-  "abstractExcerpt": "Cholesterol is a key modulator of membrane protein structure and function, yet predicting cholesterol-binding sites remains challenging due to its non-druglike physicochemical properties. Here, we curated more than 800 high-resolution…",
+  "abstractExcerpt": "Magnetic resonance imaging (MRI) is widely regarded as the most reliable non-invasive imaging modality for detecting neurological disorders. However, manual interpretation of MRI scans is often time-consuming and prone to inter-observer…",
   "figureUrls": []
 }
