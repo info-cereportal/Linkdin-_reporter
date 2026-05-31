@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>生物学的妥当性と視覚野 — 脳科学とAIをつなぐ研究（ニューロAI・計算論） — NeuroPulse — BCI &amp; Neuroscience Daily</title>
-    <meta name="description" content="神経科学とAIの境界を結び直す研究。" />
+    <title>脳は本当に誤差逆伝播で学ぶのか――画像への脳応答の階層から検証する試み — NeuroPulse — BCI &amp; Neuroscience Daily</title>
+    <meta name="description" content="深層学習の核心アルゴリズムと脳の視覚応答階層との「ずれ」を実証的に検討したNeuroAI研究。" />
     <meta name="author" content="NeuroPulse Editorial" />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="https://eegbugckets.web.app/article/202605282226-2605.28693" />
@@ -16,12 +16,12 @@
 
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="NeuroPulse — BCI &amp; Neuroscience Daily" />
-    <meta property="og:title" content="生物学的妥当性と視覚野 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）" />
-    <meta property="og:description" content="神経科学とAIの境界を結び直す研究。" />
+    <meta property="og:title" content="脳は本当に誤差逆伝播で学ぶのか――画像への脳応答の階層から検証する試み" />
+    <meta property="og:description" content="深層学習の核心アルゴリズムと脳の視覚応答階層との「ずれ」を実証的に検討したNeuroAI研究。" />
     <meta property="og:url" content="https://eegbugckets.web.app/article/202605282226-2605.28693" />
     <meta property="og:locale" content="ja_JP" />
     <meta property="article:published_time" content="2026-05-28T22:26:12.696Z" />
-    <meta property="article:section" content="ニューロAI・計算論" />
+    <meta property="article:section" content="NeuroAI・生物学的に妥当な学習則" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -36,7 +36,7 @@
             crossorigin="anonymous"></script>
     <meta name="google-adsense-account" content="ca-pub-3378319187302369" />
 
-    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"NewsMediaOrganization","@id":"https://eegbugckets.web.app/#org","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","url":"https://eegbugckets.web.app/","logo":{"@type":"ImageObject","url":"https://eegbugckets.web.app/assets/favicon.svg","width":64,"height":64},"inLanguage":"ja"},{"@type":"WebSite","@id":"https://eegbugckets.web.app/#site","url":"https://eegbugckets.web.app/","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","publisher":{"@id":"https://eegbugckets.web.app/#org"},"inLanguage":"ja"},{"@type":"NewsArticle","@id":"https://eegbugckets.web.app/article/202605282226-2605.28693","headline":"生物学的妥当性と視覚野 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）","description":"神経科学とAIの境界を結び直す研究。","inLanguage":"ja","url":"https://eegbugckets.web.app/article/202605282226-2605.28693","datePublished":"2026-05-28T22:26:12.696Z","dateModified":"2026-05-28T22:26:12.696Z","keywords":"生物学的妥当性, 視覚野, 深層学習, 学習, fMRI, MEG(脳磁図)","articleSection":"ニューロAI・計算論","isPartOf":{"@id":"https://eegbugckets.web.app/#site"},"publisher":{"@id":"https://eegbugckets.web.app/#org"},"author":{"@type":"Organization","name":"NeuroPulse Editorial","url":"https://eegbugckets.web.app/about"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://eegbugckets.web.app/article/202605282226-2605.28693"},"isAccessibleForFree":true,"isBasedOn":"https://arxiv.org/abs/2605.28693"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"NewsMediaOrganization","@id":"https://eegbugckets.web.app/#org","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","url":"https://eegbugckets.web.app/","logo":{"@type":"ImageObject","url":"https://eegbugckets.web.app/assets/favicon.svg","width":64,"height":64},"inLanguage":"ja"},{"@type":"WebSite","@id":"https://eegbugckets.web.app/#site","url":"https://eegbugckets.web.app/","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","publisher":{"@id":"https://eegbugckets.web.app/#org"},"inLanguage":"ja"},{"@type":"NewsArticle","@id":"https://eegbugckets.web.app/article/202605282226-2605.28693","headline":"脳は本当に誤差逆伝播で学ぶのか――画像への脳応答の階層から検証する試み","description":"深層学習の核心アルゴリズムと脳の視覚応答階層との「ずれ」を実証的に検討したNeuroAI研究。","inLanguage":"ja","url":"https://eegbugckets.web.app/article/202605282226-2605.28693","datePublished":"2026-05-28T22:26:12.696Z","dateModified":"2026-05-28T22:26:12.696Z","keywords":"生物学的妥当性, 視覚野, 深層学習, 学習, fMRI, MEG(脳磁図)","articleSection":"NeuroAI・生物学的に妥当な学習則","isPartOf":{"@id":"https://eegbugckets.web.app/#site"},"publisher":{"@id":"https://eegbugckets.web.app/#org"},"author":{"@type":"Organization","name":"NeuroPulse Editorial","url":"https://eegbugckets.web.app/about"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://eegbugckets.web.app/article/202605282226-2605.28693"},"wordCount":2700,"isAccessibleForFree":true,"isBasedOn":"https://arxiv.org/abs/2605.28693"},{"@type":"FAQPage","@id":"https://eegbugckets.web.app/article/202605282226-2605.28693#faq","mainEntity":[{"@type":"Question","name":"この研究は「脳は誤差逆伝播を使っていない」と証明したのですか?","acceptedAnswer":{"@type":"Answer","text":"いいえ。脳の画像応答階層と誤差逆伝播の信号構造との間に系統的なずれがある可能性を示したもので、脳が逆伝播を一切使わないと断定するものではありません。プレプリント段階の知見であり、さらなる検証が必要です。"}},{"@type":"Question","name":"AIモデルが脳と似ているという話とは矛盾しませんか?","acceptedAnswer":{"@type":"Answer","text":"矛盾しません。本研究は、学習済みモデルの表現が脳とよく一致することは認めたうえで、表現の一致と学習則の一致は別問題だと指摘しています。一致の「水準」を区別すべきという論点です。"}},{"@type":"Question","name":"誤差逆伝播の代わりに脳は何を使っている可能性がありますか?","acceptedAnswer":{"@type":"Answer","text":"予測符号化、フィードバックアラインメント、ターゲット伝播など、局所的な情報で学習する生物学的に妥当とされる代替則が候補として提案されています。ただしどれが実際の機構かは未解明です。"}}]}]}</script>
   </head>
   <body class="page-article">
     <a href="#main" class="skip-link">本文へスキップ</a>
@@ -53,29 +53,56 @@
 
     <main id="main" class="article-detail">
       <nav class="breadcrumb" aria-label="パンくず">
-        <a href="/">Home</a> · <a href="/#section-archive">Archive</a> · ニューロAI・計算論
+        <a href="/">Home</a> · <a href="/#section-archive">Archive</a> · NeuroAI・生物学的に妥当な学習則
       </nav>
 
-      <h1>生物学的妥当性と視覚野 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）</h1>
-      <p class="dek">神経科学とAIの境界を結び直す研究。</p>
+      <h1>脳は本当に誤差逆伝播で学ぶのか――画像への脳応答の階層から検証する試み</h1>
+      <p class="dek">深層学習の核心アルゴリズムと脳の視覚応答階層との「ずれ」を実証的に検討したNeuroAI研究。</p>
 
       <div class="meta">
-        <span><strong>掲載</strong> 2026年5月28日（木） 22:26 JST</span>
+        <span><strong>掲載</strong> 2026年5月29日（金） 07:26 JST</span>
         <span><strong>編集</strong> NeuroPulse Editorial</span>
-        <span><strong>テーマ</strong> ニューロAI・計算論</span>
+        <span><strong>テーマ</strong> NeuroAI・生物学的に妥当な学習則</span>
         <span><strong>テンプレート</strong> 神経AI接続編集</span>
         <span><strong>リスクスコア</strong> 0/100</span>
       </div>
 
       <article class="body">
-        <h2>編集部メモ</h2>
-        <p>神経科学と人工知能の交差点では、互いのメタファーが互いを駆動するサイクルが続いている。
-      本稿で取り上げる研究も、その界面で生まれた新しい仮説の一例である。</p>
+        <p class="article-lede">深層学習を支える誤差逆伝播(backpropagation)が脳でも実装されているのかは、神経科学とAIの境界で長く論争されてきた難問である。本研究は、事前学習済みモデルの順伝播活動が脳の画像応答とよく対応する一方で、学習則そのものに目を向けると、誤差逆伝播が想定する勾配の流れと脳の応答階層との間に系統的な「ずれ」があることを示唆した。AIモデルを脳のモデルとして使う際の前提を問い直す内容として注目される。</p>
 
-        <h2>アブストラクト抜粋</h2>
+        <h2>背景</h2>
+        <p>過去10年のNeuroAI研究は、画像認識のために学習させた深層ニューラルネットワークの内部活動が、ヒトやサルの視覚野の応答と驚くほどよく対応することを繰り返し報告してきた。とりわけ、ネットワークの<strong>順伝播(forward pass)</strong>で得られる各層の特徴表現は、視覚処理の前段から後段へという脳の階層構造と並行的にマッピングできることが知られている。こうした成果から、深層ネットワークは「脳の視覚系の良い計算モデル」とみなされるようになった。</p><p>しかし、ここには区別すべき二つの問いがある。第一に、学習<em>済み</em>モデルの<strong>表現</strong>が脳の表現と似ているか。第二に、そのモデルを訓練した<strong>学習則(learning rule)</strong>そのものが脳で実装されているか、である。誤差逆伝播は、出力の誤差を後ろ向きに伝えて各シナプス重みの寄与を計算する手法だが、生物学的には実現が難しいとされてきた(いわゆる重み輸送問題や、逆向きの正確な誤差信号をニューロンがどう得るかという問題)。本研究はこの第二の問いに正面から取り組んでいる。</p>
+
+        <h2>研究の要点</h2>
+        <p>著者らは、事前学習済みモデルの順伝播活動が脳応答を信頼性高く予測できる、という既存の知見をまず確認したうえで、誤差逆伝播が前提とする「誤差・勾配が層をどのように流れるか」という<strong>方向性のある階層構造</strong>に注目した。そして、画像に対するヒトの脳応答の階層(視覚処理の段階ごとの応答)と、誤差逆伝播における逆向きの信号伝播の構造とを突き合わせている。</p><p>得られた示唆は、両者の間に系統的な不整合(misalignment)が存在する、というものである。つまり、順伝播の表現レベルではAIと脳がよく一致して見えても、学習の駆動力である逆伝播の信号構造を持ち込むと、脳の応答階層がそのまま対応するわけではない可能性が示された。表現の類似性が、必ずしも学習機構の類似性を意味しないという論点を実証面から補強する内容といえる。</p>
+
+        <h2>既存研究との関係</h2>
+        <p>「脳は誤差逆伝播を行っているのか」という問いには、これまで主に理論側からのアプローチが多かった。フィードバックアラインメント、ターゲット伝播、予測符号化(predictive coding)、平衡伝播(equilibrium propagation)といった<strong>生物学的に妥当とされる代替学習則</strong>が提案され、誤差逆伝播に近い性能を局所的な計算で達成できるかが議論されてきた。</p><p>本研究の位置づけは、こうした理論的探索に対し、実際の<strong>脳記録(fMRIやMEGなどの画像応答)</strong>を物差しとして用い、誤差逆伝播の階層構造が脳の階層と合致するかを経験的に検証した点にある。著者にはJean-Rémi Kingら、言語・視覚の神経表現とAIモデルの対応を精力的に研究してきたグループが含まれており、表現一致研究の延長線上で「学習則の妥当性」へと論点を一段深めた試みと読める。</p>
+
+        <h2>限界・注意点</h2>
+        <p>本稿はプレプリント段階の報告とみられ、結論は確定したものではない点に留意が必要である。脳応答と学習則の対応を評価する際には、どの脳計測指標を用い、どの層・どの時間窓を対応づけ、どのような類似性尺度(回帰、表現類似度分析など)を採用するかによって結果が変わりうる。「ずれ」がアルゴリズムの本質的差異を反映するのか、それとも計測解像度やモデル選択に由来する見かけ上のものなのかは、慎重な切り分けが要る。</p><p>また、誤差逆伝播と脳が「一致しない」ことが直ちに「脳は逆伝播を全く使わない」を意味するわけではない。脳が機能的に等価な近似を別の機構で実現している可能性は残る。本研究は否定的証拠の提示というより、表現一致だけを根拠に学習則の妥当性を語ることへの<strong>注意喚起</strong>として受け取るのが妥当だろう。</p>
+
+        <h2>示唆・インパクト</h2>
+        <p>この研究が投げかけるのは、「AIモデルが脳の良いモデルである」と言うときの<strong>水準の取り違え</strong>への警鐘である。順伝播表現の一致は、脳が<em>同じ計算を学習している</em>ことの証明にはならない。NeuroAIが脳の理論として成熟していくには、表現だけでなく、学習則・可塑性・誤差信号の伝播経路といった<strong>機構レベル</strong>での検証が欠かせないことを、本研究は具体的な比較を通じて示唆する。</p><p>応用面では、生物学的に妥当な学習則の研究や、低消費電力で局所学習を行うニューロモルフィック計算の設計に対して、検証の方向性を与える可能性がある。今後は、より高時間分解能の計測や因果的介入と組み合わせ、脳の学習機構を直接プローブする研究へと発展していくことが期待される。</p>
+
+
+        <h2>用語ノート</h2>
+        <dl class="glossary">
+          <dt>誤差逆伝播(backpropagation)</dt>
+          <dd>出力の誤差をネットワークの出力側から入力側へ後ろ向きに伝え、各重みの寄与(勾配)を計算して更新する深層学習の標準的な学習則。</dd>
+          <dt>順伝播(forward pass)</dt>
+          <dd>入力から出力へ向けて層を順に通し、各層の特徴表現や予測を計算する処理。学習済みモデルの表現はこの過程で得られる。</dd>
+          <dt>生物学的妥当性(biological plausibility)</dt>
+          <dd>ある計算手法が、実際の神経回路の制約(局所的な情報、シナプスの仕組みなど)の下で実装可能かという観点。</dd>
+          <dt>fMRI / MEG</dt>
+          <dd>それぞれ機能的磁気共鳴画像法と脳磁図。前者は血流変化から脳活動を空間的に、後者は磁場から時間的に高い解像度で計測する非侵襲手法。</dd>
+        </dl>
+
+        <h2>原典の要旨（英語原文・抜粋）</h2>
         <blockquote>Backpropagation is the core learning mechanism underlying deep learning. However, whether and how this algorithm is implemented in the brain remains highly debated. In particular, while forward activations of pretrained models reliably map…</blockquote>
-        <p style="font-family: var(--mono); font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--ink-300);">
+        <p class="src-attr" style="font-size: 12px; color: var(--ink-300);">
           引用元: ARXIV · 2605.28693
+          ／ 上記要旨は原典からの抜粋です。本文の背景説明・評価・限界の指摘は NeuroPulse 編集部による独自の解説です。
         </p>
 
         <h2>原題と著者</h2>
@@ -84,6 +111,21 @@
       </article>
 
       
+      <section class="article-faq" aria-labelledby="faq-heading">
+        <h2 id="faq-heading">よくある質問</h2>
+        <div class="faq-item">
+          <h3 class="faq-q">この研究は「脳は誤差逆伝播を使っていない」と証明したのですか?</h3>
+          <p class="faq-a">いいえ。脳の画像応答階層と誤差逆伝播の信号構造との間に系統的なずれがある可能性を示したもので、脳が逆伝播を一切使わないと断定するものではありません。プレプリント段階の知見であり、さらなる検証が必要です。</p>
+        </div>
+        <div class="faq-item">
+          <h3 class="faq-q">AIモデルが脳と似ているという話とは矛盾しませんか?</h3>
+          <p class="faq-a">矛盾しません。本研究は、学習済みモデルの表現が脳とよく一致することは認めたうえで、表現の一致と学習則の一致は別問題だと指摘しています。一致の「水準」を区別すべきという論点です。</p>
+        </div>
+        <div class="faq-item">
+          <h3 class="faq-q">誤差逆伝播の代わりに脳は何を使っている可能性がありますか?</h3>
+          <p class="faq-a">予測符号化、フィードバックアラインメント、ターゲット伝播など、局所的な情報で学習する生物学的に妥当とされる代替則が候補として提案されています。ただしどれが実際の機構かは未解明です。</p>
+        </div>
+      </section>
 
       <div class="source-cta">
         <strong>原典 / SOURCE</strong>
@@ -106,12 +148,12 @@
       <article class="related-card">
         <span class="rk-eyebrow">ニューロAI・計算論</span>
         <a href="/article/202605302151-42215569">深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）</a>
-        <span class="rk-meta">2026-05-30</span>
+        <span class="rk-meta">2026-05-31</span>
       </article>
 
       <article class="related-card">
         <span class="rk-eyebrow">ニューロAI・計算論</span>
-        <a href="/article/202605301858-42215569">深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）</a>
+        <a href="/article/202605301043-42215575">深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）</a>
         <span class="rk-meta">2026-05-30</span>
       </article></div>
     </section>

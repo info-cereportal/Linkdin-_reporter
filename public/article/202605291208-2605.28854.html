@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>大規模言語モデル(LLM)と学習 — 常識への問題提起（神経デコーディング） — NeuroPulse — BCI &amp; Neuroscience Daily</title>
-    <meta name="description" content="神経デコーディングに投げかけられた、ひとつの問い。" />
+    <title>LLMは文脈内学習の最中に内部表現の幾何構造をどう組み替えているのか — NeuroPulse — BCI &amp; Neuroscience Daily</title>
+    <meta name="description" content="パラメータ更新なしで新タスクに適応するLLMの内部表現の幾何学的変化を解析したプレプリント。" />
     <meta name="author" content="NeuroPulse Editorial" />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="https://eegbugckets.web.app/article/202605291208-2605.28854" />
@@ -16,12 +16,12 @@
 
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="NeuroPulse — BCI &amp; Neuroscience Daily" />
-    <meta property="og:title" content="大規模言語モデル(LLM)と学習 — 常識への問題提起（神経デコーディング）" />
-    <meta property="og:description" content="神経デコーディングに投げかけられた、ひとつの問い。" />
+    <meta property="og:title" content="LLMは文脈内学習の最中に内部表現の幾何構造をどう組み替えているのか" />
+    <meta property="og:description" content="パラメータ更新なしで新タスクに適応するLLMの内部表現の幾何学的変化を解析したプレプリント。" />
     <meta property="og:url" content="https://eegbugckets.web.app/article/202605291208-2605.28854" />
     <meta property="og:locale" content="ja_JP" />
     <meta property="article:published_time" content="2026-05-29T12:08:39.407Z" />
-    <meta property="article:section" content="神経デコーディング" />
+    <meta property="article:section" content="大規模言語モデルの内部表現・機構解釈" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -36,7 +36,7 @@
             crossorigin="anonymous"></script>
     <meta name="google-adsense-account" content="ca-pub-3378319187302369" />
 
-    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"NewsMediaOrganization","@id":"https://eegbugckets.web.app/#org","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","url":"https://eegbugckets.web.app/","logo":{"@type":"ImageObject","url":"https://eegbugckets.web.app/assets/favicon.svg","width":64,"height":64},"inLanguage":"ja"},{"@type":"WebSite","@id":"https://eegbugckets.web.app/#site","url":"https://eegbugckets.web.app/","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","publisher":{"@id":"https://eegbugckets.web.app/#org"},"inLanguage":"ja"},{"@type":"NewsArticle","@id":"https://eegbugckets.web.app/article/202605291208-2605.28854","headline":"大規模言語モデル(LLM)と学習 — 常識への問題提起（神経デコーディング）","description":"神経デコーディングに投げかけられた、ひとつの問い。","inLanguage":"ja","url":"https://eegbugckets.web.app/article/202605291208-2605.28854","datePublished":"2026-05-29T12:08:39.407Z","dateModified":"2026-05-29T12:08:39.407Z","keywords":"大規模言語モデル(LLM), 学習, 言語処理, PET","articleSection":"神経デコーディング","isPartOf":{"@id":"https://eegbugckets.web.app/#site"},"publisher":{"@id":"https://eegbugckets.web.app/#org"},"author":{"@type":"Organization","name":"NeuroPulse Editorial","url":"https://eegbugckets.web.app/about"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://eegbugckets.web.app/article/202605291208-2605.28854"},"isAccessibleForFree":true,"isBasedOn":"https://arxiv.org/abs/2605.28854"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"NewsMediaOrganization","@id":"https://eegbugckets.web.app/#org","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","url":"https://eegbugckets.web.app/","logo":{"@type":"ImageObject","url":"https://eegbugckets.web.app/assets/favicon.svg","width":64,"height":64},"inLanguage":"ja"},{"@type":"WebSite","@id":"https://eegbugckets.web.app/#site","url":"https://eegbugckets.web.app/","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","publisher":{"@id":"https://eegbugckets.web.app/#org"},"inLanguage":"ja"},{"@type":"NewsArticle","@id":"https://eegbugckets.web.app/article/202605291208-2605.28854","headline":"LLMは文脈内学習の最中に内部表現の幾何構造をどう組み替えているのか","description":"パラメータ更新なしで新タスクに適応するLLMの内部表現の幾何学的変化を解析したプレプリント。","inLanguage":"ja","url":"https://eegbugckets.web.app/article/202605291208-2605.28854","datePublished":"2026-05-29T12:08:39.407Z","dateModified":"2026-05-29T12:08:39.407Z","keywords":"大規模言語モデル(LLM), 学習, 言語処理, PET","articleSection":"大規模言語モデルの内部表現・機構解釈","isPartOf":{"@id":"https://eegbugckets.web.app/#site"},"publisher":{"@id":"https://eegbugckets.web.app/#org"},"author":{"@type":"Organization","name":"NeuroPulse Editorial","url":"https://eegbugckets.web.app/about"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://eegbugckets.web.app/article/202605291208-2605.28854"},"wordCount":2638,"isAccessibleForFree":true,"isBasedOn":"https://arxiv.org/abs/2605.28854"},{"@type":"FAQPage","@id":"https://eegbugckets.web.app/article/202605291208-2605.28854#faq","mainEntity":[{"@type":"Question","name":"これは脳をスキャンしてその信号を解読する研究ですか?","acceptedAnswer":{"@type":"Answer","text":"いいえ。本研究の対象はLLMという人工的なソフトウェアの内部表現であり、ヒトや動物の脳活動を計測・解読するものではありません。自動分類で付いた「神経デコーディング」「PET」というラベルは実態と合わないため、本稿では機械学習・内部表現の研究として整理しています。"}},{"@type":"Question","name":"「表現の幾何が組み替わる」とは結局どういうことですか?","acceptedAnswer":{"@type":"Answer","text":"モデルの重み(覚えている知識)は固定したまま、与えられた文脈に応じて内部での入力の並び方・配置が変化することを指します。この再配置が、追加学習なしで新タスクに対応できる仕組みの一端だと示唆されています。"}},{"@type":"Question","name":"この結果はそのまま信頼してよいのですか?","acceptedAnswer":{"@type":"Answer","text":"本稿は査読前のプレプリントであり、解析対象モデルや指標の詳細は本文の確認が必要です。表現幾何の変化がICLの原因なのか結果なのかといった因果関係の解釈も含め、今後の検証を待つ段階の知見として受け止めるのが適切です。"}}]}]}</script>
   </head>
   <body class="page-article">
     <a href="#main" class="skip-link">本文へスキップ</a>
@@ -53,29 +53,56 @@
 
     <main id="main" class="article-detail">
       <nav class="breadcrumb" aria-label="パンくず">
-        <a href="/">Home</a> · <a href="/#section-archive">Archive</a> · 神経デコーディング
+        <a href="/">Home</a> · <a href="/#section-archive">Archive</a> · 大規模言語モデルの内部表現・機構解釈
       </nav>
 
-      <h1>大規模言語モデル(LLM)と学習 — 常識への問題提起（神経デコーディング）</h1>
-      <p class="dek">神経デコーディングに投げかけられた、ひとつの問い。</p>
+      <h1>LLMは文脈内学習の最中に内部表現の幾何構造をどう組み替えているのか</h1>
+      <p class="dek">パラメータ更新なしで新タスクに適応するLLMの内部表現の幾何学的変化を解析したプレプリント。</p>
 
       <div class="meta">
-        <span><strong>掲載</strong> 2026年5月29日（金） 12:08 JST</span>
+        <span><strong>掲載</strong> 2026年5月29日（金） 21:08 JST</span>
         <span><strong>編集</strong> NeuroPulse Editorial</span>
-        <span><strong>テーマ</strong> 神経デコーディング</span>
+        <span><strong>テーマ</strong> 大規模言語モデルの内部表現・機構解釈</span>
         <span><strong>テンプレート</strong> 問題提起編集</span>
         <span><strong>リスクスコア</strong> 0/100</span>
       </div>
 
       <article class="body">
-        <h2>編集部メモ</h2>
-        <p>本稿は、神経デコーディングに投げかけられた一つの「問い」を中心に構成した。
-      解の提示よりも、議論を深めるための材料提供を意図している。</p>
+        <p class="article-lede">大規模言語モデル(LLM)は、わずかな例示をプロンプトに含めるだけで重みを更新せずに新しいタスクへ適応できる。これは文脈内学習(in-context learning, ICL)と呼ばれる現象だが、その内部で何が起きているのかは長く謎だった。本研究は、ICLの最中にモデル内部の表現の幾何(representational geometry)がどう再編成されるのかを定量的に追跡し、適応の機構に迫ろうとするプレプリントである。</p>
 
-        <h2>アブストラクト抜粋</h2>
+        <h2>背景</h2>
+        <p>近年のLLMが示す最も驚くべき性質の一つが<strong>文脈内学習(ICL)</strong>である。通常、ニューラルネットワークが新しいタスクを覚えるには勾配降下による重み更新(学習)が必要だが、ICLではプロンプト中にいくつかの入出力例を並べるだけで、パラメータをまったく変えずにモデルが新タスクをこなす。あたかも「推論時に一時的に学習している」ように振る舞うため、その正体をめぐって活発な議論が続いてきた。</p><p>これまでの研究の多くは、人工的に設計した単純なタスク(合成データ)を使ってICLの挙動を調べてきた。しかし合成タスクでの知見が、実際の言語を扱う大規模モデルにそのまま当てはまるとは限らない。本研究はこのギャップに着目し、<em>表現の幾何</em>という視点からICLを捉え直そうとしている点に特徴がある。</p>
+
+        <h2>研究の要点</h2>
+        <p>本研究の中心的な主張は、LLMがICLを行う際に内部の<strong>表現の幾何が再編成(reorganize)される</strong>、というものである。ここでいう「表現の幾何」とは、モデルの隠れ層において各入力(トークンや例)がどのような高次元ベクトルとして配置され、互いにどのような距離・角度関係を持つか、という幾何学的構造を指す。タスクに応じてこの配置パターンが組み替わることが、パラメータ更新を伴わない適応の鍵だと位置づけている。</p><p>つまり、重みという「静的な知識」は固定されたままでも、与えられた文脈に応じて活性(activation)空間上の点の並び方がダイナミックに変化し、それが新タスクへの即応性を生み出している、という描像である。ICLを「重みの学習」ではなく「表現空間の再配置」として理解しようとする枠組みと言える。</p>
+
+        <h2>既存研究との関係</h2>
+        <p>ICLの機構については、これまでにも複数の仮説が提案されてきた。代表的なものに、Transformerが内部で勾配降下に類似した計算を暗黙的に実行しているとする「暗黙的最適化」説や、事前学習で獲得した多数の潜在タスクの中から文脈に合うものを選び出しているとする「タスク選択(ベイズ的推論)」説がある。</p><p>本研究の<strong>表現幾何の再編成</strong>という視点は、これらの説と排他的なものではなく、活性空間レベルで何が起きているかを直接観察することで議論に実証的な材料を加えるものと位置づけられる。表現類似度解析やニューラルネットワークの内部表現比較といった、神経科学や機械可解釈性(mechanistic interpretability)の研究で培われてきた手法系譜の延長線上にある研究と考えられる。</p>
+
+        <h2>限界・注意点</h2>
+        <p>本稿は査読前のプレプリントであり、結論は今後の検証を経て変わりうる点に留意が必要である。アブストラクトは抜粋のみで、解析対象としたモデルの種類・規模、タスクの範囲、幾何の定量化に用いた具体的指標などの詳細は本文の確認を要する。</p><p>また、自動分類では本論文に「神経デコーディング」や脳機能画像(PET)に関するラベルが付与されていたが、これは誤りと考えられる。<strong>本研究はあくまでLLMという人工システム内部の表現を扱う機械学習・機構解釈の研究であり、ヒトや動物の脳活動を計測・解読するものではない</strong>。「表現の幾何」という概念が神経科学と共有されているために生じた取り違えと推測され、本稿では正直なテーマに付け直している。さらに、表現幾何の変化が観察されたとしても、それが因果的にICLを駆動しているのか、適応の結果に過ぎないのかの切り分けは依然として慎重な議論を要する。</p>
+
+        <h2>示唆・インパクト</h2>
+        <p>もし本研究の知見が確かなら、ICLという捉えどころのない現象を、活性空間の幾何という観測可能・操作可能な対象に落とし込める可能性が示唆される。これはモデルの挙動を事前に予測したり、望ましくない振る舞いを診断・制御したりするうえで実用的な手がかりになりうる。</p><p>加えて、人工ニューラルネットワークの表現幾何を解析する手法は、生物の脳が文脈に応じて表現を柔軟に組み替える仕組みを考えるうえでのアナロジーとしても刺激的である。ただし両者は実装も制約も大きく異なるため、安易に同一視せず、あくまで概念的な対話の素材として扱うのが妥当だろう。</p>
+
+
+        <h2>用語ノート</h2>
+        <dl class="glossary">
+          <dt>文脈内学習(ICL)</dt>
+          <dd>プロンプト中に与えた少数の例だけを手がかりに、モデルの重みを更新せずに新しいタスクへ適応する能力。推論時にその場で学習しているように見える現象。</dd>
+          <dt>表現の幾何(representational geometry)</dt>
+          <dd>ニューラルネットの隠れ層で、入力が高次元ベクトルとしてどう配置され、互いにどんな距離・角度関係を持つかという幾何学的な構造のこと。</dd>
+          <dt>活性空間(activation space)</dt>
+          <dd>ネットワークの各層が出力する数値(活性)が張る高次元の空間。入力ごとにこの空間内の一点が対応し、その配置が情報処理の中身を反映する。</dd>
+          <dt>機構解釈(mechanistic interpretability)</dt>
+          <dd>学習済みモデルの内部構造や計算過程を解剖し、どのような仕組みで出力に至るのかを説明しようとする研究分野。</dd>
+        </dl>
+
+        <h2>原典の要旨（英語原文・抜粋）</h2>
         <blockquote>Large language models (LLMs) exhibit remarkable flexibility: they can adapt to novel tasks from in-context examples without any parameter updates, a capability known as in-context learning (ICL). Prior work on synthetic tasks has shown…</blockquote>
-        <p style="font-family: var(--mono); font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--ink-300);">
+        <p class="src-attr" style="font-size: 12px; color: var(--ink-300);">
           引用元: ARXIV · 2605.28854
+          ／ 上記要旨は原典からの抜粋です。本文の背景説明・評価・限界の指摘は NeuroPulse 編集部による独自の解説です。
         </p>
 
         <h2>原題と著者</h2>
@@ -84,6 +111,21 @@
       </article>
 
       
+      <section class="article-faq" aria-labelledby="faq-heading">
+        <h2 id="faq-heading">よくある質問</h2>
+        <div class="faq-item">
+          <h3 class="faq-q">これは脳をスキャンしてその信号を解読する研究ですか?</h3>
+          <p class="faq-a">いいえ。本研究の対象はLLMという人工的なソフトウェアの内部表現であり、ヒトや動物の脳活動を計測・解読するものではありません。自動分類で付いた「神経デコーディング」「PET」というラベルは実態と合わないため、本稿では機械学習・内部表現の研究として整理しています。</p>
+        </div>
+        <div class="faq-item">
+          <h3 class="faq-q">「表現の幾何が組み替わる」とは結局どういうことですか?</h3>
+          <p class="faq-a">モデルの重み(覚えている知識)は固定したまま、与えられた文脈に応じて内部での入力の並び方・配置が変化することを指します。この再配置が、追加学習なしで新タスクに対応できる仕組みの一端だと示唆されています。</p>
+        </div>
+        <div class="faq-item">
+          <h3 class="faq-q">この結果はそのまま信頼してよいのですか?</h3>
+          <p class="faq-a">本稿は査読前のプレプリントであり、解析対象モデルや指標の詳細は本文の確認が必要です。表現幾何の変化がICLの原因なのか結果なのかといった因果関係の解釈も含め、今後の検証を待つ段階の知見として受け止めるのが適切です。</p>
+        </div>
+      </section>
 
       <div class="source-cta">
         <strong>原典 / SOURCE</strong>
@@ -100,19 +142,19 @@
       <article class="related-card">
         <span class="rk-eyebrow">神経デコーディング</span>
         <a href="/article/202605262214-2605.24523">言語処理と潜在空間 — 注目すべき3つの示唆（神経デコーディング）</a>
-        <span class="rk-meta">2026-05-26</span>
-      </article>
-
-      <article class="related-card">
-        <span class="rk-eyebrow">神経デコーディング</span>
-        <a href="/article/202605261955-2605.24523">言語処理と潜在空間 — 注目すべき3つの示唆（神経デコーディング）</a>
-        <span class="rk-meta">2026-05-26</span>
+        <span class="rk-meta">2026-05-27</span>
       </article>
 
       <article class="related-card">
         <span class="rk-eyebrow">神経デコーディング</span>
         <a href="/article/202605252200-2605.23035">大規模言語モデル(LLM)と神経エンコーディング — 数値で示された新事実（神経デコーディング）</a>
-        <span class="rk-meta">2026-05-25</span>
+        <span class="rk-meta">2026-05-26</span>
+      </article>
+
+      <article class="related-card">
+        <span class="rk-eyebrow">神経デコーディング</span>
+        <a href="/article/202605251914-2605.23012">身体性認知とワーキングメモリ — 数値で示された新事実（神経デコーディング）</a>
+        <span class="rk-meta">2026-05-26</span>
       </article></div>
     </section>
 
