@@ -1,24 +1,22 @@
 {
-  "generatedAt": "2026-05-30T21:51:00.901Z",
-  "date": "2026-05-30",
-  "topic": "深層学習と学習",
-  "templateName": "paradigm-shift",
+  "generatedAt": "2026-05-31T02:29:52.993Z",
+  "date": "2026-05-31",
+  "topic": "注意機構と学習",
+  "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "A deep learning-based model for automatic syntactic complexity assessment in L2 English writing: development and pedagogical application.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42215569/",
-  "formatted": "深層学習と学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 深層学習 × 学習 × 注意機構 × 言語処理\n\n📊 注目すべきデータ：\n→ Experimental results on learner corpora, validated through five-fold cross-validation, demonstrate that the proposed model achieves a Pearson correlation coefficient of 0.923 with...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 A deep learning-based model for automatic syntactic complexity assessment in L2 English writing: development and pedagogical application.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42215569/\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #ニューロテック",
-  "summaryJP": "深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
-  "paperAuthors": "Yongming Wang, Huan Zhao",
+  "paperTitle": "CholBindNet as an interpretable neural network for cholesterol-binding site classification.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42215600/",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、注意機構と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 注意機構 × 学習\n\n📊 注目すべきデータ：\n→ We show that CholBindNet substantially outperforms existing machine learning models trained on general ligand-binding datasets, including AlphaFold3, P2Rank, and DiffDock.\n→ The performance and generalizability of the model on unseen membrane proteins were further demonstrated by rapidly assessing cholesterol-binding sites in the PIEZO2 ion channel...\n→ Overall, CholBindNet provides an efficient and scalable approach for classifying and ranking cholesterol-binding sites on membrane proteins, achieving performance comparable to...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 CholBindNet as an interpretable neural network for cholesterol-binding site classification.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42215600/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #脳情報",
+  "summaryJP": "注意機構と学習 — 数値で示された新事実（神経デコーディング）",
+  "paperAuthors": "Alexis Hernandez, Aashish Bhatt, Ivan Revilla, Jacob Ede Levine, Sai Chandra Kosaraju, Yun Lyna Luo",
   "publishedDate": "2026-05-29",
-  "paperId": "42215569",
+  "paperId": "42215600",
   "paperSource": "pubmed",
-  "themeArea": "ニューロAI・計算論",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "深層学習",
-    "学習",
     "注意機構",
-    "言語処理"
+    "学習"
   ],
-  "abstractExcerpt": "Syntactic complexity serves as a critical indicator of second language writing proficiency, yet traditional assessment methods face challenges in scalability and consistency. Grounded in processability theory and usage-based approaches to…",
+  "abstractExcerpt": "Cholesterol is a key modulator of membrane protein structure and function, yet predicting cholesterol-binding sites remains challenging due to its non-druglike physicochemical properties. Here, we curated more than 800 high-resolution…",
   "figureUrls": []
 }
