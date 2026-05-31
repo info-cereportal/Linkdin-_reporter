@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>意思決定と神経デコーディング — 脳科学とAIをつなぐ研究（神経デコーディング） — NeuroPulse — BCI &amp; Neuroscience Daily</title>
-    <meta name="description" content="神経科学とAIの境界を結び直す研究。" />
+    <title>EEG基盤モデルを正しく測る——評価の落とし穴を可視化する監査パイプライン — NeuroPulse — BCI &amp; Neuroscience Daily</title>
+    <meta name="description" content="EEG基盤モデルの評価に潜む不透明さやベースライン調整の課題を、再現可能に点検する分析パイプラインの提案。" />
     <meta name="author" content="NeuroPulse Editorial" />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="https://eegbugckets.web.app/article/202605282007-2605.26910" />
@@ -16,12 +16,12 @@
 
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="NeuroPulse — BCI &amp; Neuroscience Daily" />
-    <meta property="og:title" content="意思決定と神経デコーディング — 脳科学とAIをつなぐ研究（神経デコーディング）" />
-    <meta property="og:description" content="神経科学とAIの境界を結び直す研究。" />
+    <meta property="og:title" content="EEG基盤モデルを正しく測る——評価の落とし穴を可視化する監査パイプライン" />
+    <meta property="og:description" content="EEG基盤モデルの評価に潜む不透明さやベースライン調整の課題を、再現可能に点検する分析パイプラインの提案。" />
     <meta property="og:url" content="https://eegbugckets.web.app/article/202605282007-2605.26910" />
     <meta property="og:locale" content="ja_JP" />
     <meta property="article:published_time" content="2026-05-28T20:07:56.452Z" />
-    <meta property="article:section" content="神経デコーディング" />
+    <meta property="article:section" content="EEG基盤モデルの評価・監査" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -36,7 +36,7 @@
             crossorigin="anonymous"></script>
     <meta name="google-adsense-account" content="ca-pub-3378319187302369" />
 
-    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"NewsMediaOrganization","@id":"https://eegbugckets.web.app/#org","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","url":"https://eegbugckets.web.app/","logo":{"@type":"ImageObject","url":"https://eegbugckets.web.app/assets/favicon.svg","width":64,"height":64},"inLanguage":"ja"},{"@type":"WebSite","@id":"https://eegbugckets.web.app/#site","url":"https://eegbugckets.web.app/","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","publisher":{"@id":"https://eegbugckets.web.app/#org"},"inLanguage":"ja"},{"@type":"NewsArticle","@id":"https://eegbugckets.web.app/article/202605282007-2605.26910","headline":"意思決定と神経デコーディング — 脳科学とAIをつなぐ研究（神経デコーディング）","description":"神経科学とAIの境界を結び直す研究。","inLanguage":"ja","url":"https://eegbugckets.web.app/article/202605282007-2605.26910","datePublished":"2026-05-28T20:07:56.452Z","dateModified":"2026-05-28T20:07:56.452Z","keywords":"EEG, 意思決定, 神経デコーディング, 学習","articleSection":"神経デコーディング","isPartOf":{"@id":"https://eegbugckets.web.app/#site"},"publisher":{"@id":"https://eegbugckets.web.app/#org"},"author":{"@type":"Organization","name":"NeuroPulse Editorial","url":"https://eegbugckets.web.app/about"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://eegbugckets.web.app/article/202605282007-2605.26910"},"isAccessibleForFree":true,"isBasedOn":"https://arxiv.org/abs/2605.26910"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"NewsMediaOrganization","@id":"https://eegbugckets.web.app/#org","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","url":"https://eegbugckets.web.app/","logo":{"@type":"ImageObject","url":"https://eegbugckets.web.app/assets/favicon.svg","width":64,"height":64},"inLanguage":"ja"},{"@type":"WebSite","@id":"https://eegbugckets.web.app/#site","url":"https://eegbugckets.web.app/","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","publisher":{"@id":"https://eegbugckets.web.app/#org"},"inLanguage":"ja"},{"@type":"NewsArticle","@id":"https://eegbugckets.web.app/article/202605282007-2605.26910","headline":"EEG基盤モデルを正しく測る——評価の落とし穴を可視化する監査パイプライン","description":"EEG基盤モデルの評価に潜む不透明さやベースライン調整の課題を、再現可能に点検する分析パイプラインの提案。","inLanguage":"ja","url":"https://eegbugckets.web.app/article/202605282007-2605.26910","datePublished":"2026-05-28T20:07:56.452Z","dateModified":"2026-05-28T20:07:56.452Z","keywords":"EEG, 意思決定, 神経デコーディング, 学習","articleSection":"EEG基盤モデルの評価・監査","isPartOf":{"@id":"https://eegbugckets.web.app/#site"},"publisher":{"@id":"https://eegbugckets.web.app/#org"},"author":{"@type":"Organization","name":"NeuroPulse Editorial","url":"https://eegbugckets.web.app/about"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://eegbugckets.web.app/article/202605282007-2605.26910"},"wordCount":2417,"isAccessibleForFree":true,"isBasedOn":"https://arxiv.org/abs/2605.26910"},{"@type":"FAQPage","@id":"https://eegbugckets.web.app/article/202605282007-2605.26910#faq","mainEntity":[{"@type":"Question","name":"この研究は新しいEEG基盤モデルを提案したものですか?","acceptedAnswer":{"@type":"Answer","text":"いいえ。新モデルの提案ではなく、既存のEEG基盤モデルを公平・再現可能に評価するための分析・監査パイプラインを提示する研究と読めます。"}},{"@type":"Question","name":"なぜ「評価の測り方」がそれほど重要なのですか?","acceptedAnswer":{"@type":"Answer","text":"EEGは被験者やセッションで分布が大きく変わり、ベースライン調整や前提の置き方しだいで結論が左右されます。透明な評価がなければ性能主張の信頼性を確かめられないためです。"}},{"@type":"Question","name":"結果はどの程度確かなものとして受け取るべきですか?","acceptedAnswer":{"@type":"Answer","text":"本稿は査読前のプレプリントで、要旨も途中までしか参照できません。具体的な手法・結論は本文や公開コード、今後の査読・追試での確認が必要です。"}}]}]}</script>
   </head>
   <body class="page-article">
     <a href="#main" class="skip-link">本文へスキップ</a>
@@ -53,29 +53,56 @@
 
     <main id="main" class="article-detail">
       <nav class="breadcrumb" aria-label="パンくず">
-        <a href="/">Home</a> · <a href="/#section-archive">Archive</a> · 神経デコーディング
+        <a href="/">Home</a> · <a href="/#section-archive">Archive</a> · EEG基盤モデルの評価・監査
       </nav>
 
-      <h1>意思決定と神経デコーディング — 脳科学とAIをつなぐ研究（神経デコーディング）</h1>
-      <p class="dek">神経科学とAIの境界を結び直す研究。</p>
+      <h1>EEG基盤モデルを正しく測る——評価の落とし穴を可視化する監査パイプライン</h1>
+      <p class="dek">EEG基盤モデルの評価に潜む不透明さやベースライン調整の課題を、再現可能に点検する分析パイプラインの提案。</p>
 
       <div class="meta">
-        <span><strong>掲載</strong> 2026年5月28日（木） 20:07 JST</span>
+        <span><strong>掲載</strong> 2026年5月29日（金） 05:07 JST</span>
         <span><strong>編集</strong> NeuroPulse Editorial</span>
-        <span><strong>テーマ</strong> 神経デコーディング</span>
+        <span><strong>テーマ</strong> EEG基盤モデルの評価・監査</span>
         <span><strong>テンプレート</strong> 神経AI接続編集</span>
         <span><strong>リスクスコア</strong> 0/100</span>
       </div>
 
       <article class="body">
-        <h2>編集部メモ</h2>
-        <p>神経科学と人工知能の交差点では、互いのメタファーが互いを駆動するサイクルが続いている。
-      本稿で取り上げる研究も、その界面で生まれた新しい仮説の一例である。</p>
+        <p class="article-lede">脳波(EEG)を大規模に事前学習した「基盤モデル」が、ブレイン・コンピュータ・インターフェース(BCI)研究で急速に存在感を増している。しかし、その性能が本当に主張どおりなのかを検証する物差しは未成熟だ。本研究(プレプリント)は、EEG基盤モデルの評価に潜む方法論的な不透明さを洗い出し、再現可能な形で点検する分析パイプライン「EEG-FM-Audit」を提案する。モデルそのものより「測り方」を問い直す試みである。</p>
 
-        <h2>アブストラクト抜粋</h2>
+        <h2>背景:EEG基盤モデルという潮流</h2>
+        <p>EEG(脳波)は、頭皮上の電極から脳の電気活動を非侵襲かつ高い時間分解能で捉える計測手法であり、運動想起・注意・睡眠・認知状態の推定など、幅広いタスクの入力として用いられてきた。近年は自然言語処理や画像認識で成功した<strong>基盤モデル(Foundation Model)</strong>の発想がEEGにも持ち込まれ、大量の未ラベル脳波で自己教師あり事前学習を行い、少数のラベルで多様な下流タスクに適応させるアプローチが活発化している。</p><p>こうしたEEG基盤モデルは「多様な認知タスクの<em>デコーディング</em>で高い汎用性を示す」と報告されることが多い。一方で、計測条件・被験者・電極配置のばらつきが大きいEEGでは、報告された性能がどこまで一般化するのかを見極めるのは容易ではない。本研究は、まさにこの「性能の測り方」に焦点を当てる。</p>
+
+        <h2>研究の要点:何を監査するのか</h2>
+        <p>著者ら(Xianheng Wang, Yige Yang, Damien Coyle)は、既存のEEG基盤モデル研究に共通して見られる方法論上の課題を整理し、それを系統的に点検する評価・分析パイプラインを提示する。アブストラクト要旨では、既存研究の限界として三つの<em>クリティカルな</em>問題点が挙げられている。</p><ul><li><strong>不透明な教師ありベースラインのチューニング</strong>:比較対象となる従来手法(ベースライン)の調整過程が明示されず、基盤モデルの優位性が公平に評価できているか確認しづらい。</li><li><strong>検証されていない前提</strong>:評価設定に含まれる仮定が十分に裏づけられないまま結論に結びついている可能性。</li><li>(要旨は途中で途切れているが)上記に連なる<strong>第三の限界</strong>として、評価手続きの透明性・再現性に関わる課題が示唆される。</li></ul><p>これらに対し「EEG-FM-Audit」は、評価の各段階を可視化し、第三者が同じ条件で点検できるようにする<strong>分析パイプライン</strong>として設計されている点が中核的な貢献と読める。</p>
+
+        <h2>既存研究との関係:ベンチマーク批判の系譜</h2>
+        <p>「華々しい新モデル」よりも「その測り方」を問い直す動きは、機械学習全般で近年強まっている。自然言語処理や画像分野では、ベースライン調整の甘さやデータ漏洩、評価指標の選び方が結論を左右することが繰り返し指摘されてきた。本研究は、その問題意識をEEG基盤モデルという比較的新しい領域に明示的に持ち込むものと位置づけられる。</p><p>EEG/BCI領域は、被験者間・セッション間の分布シフトが大きく、データセットも小規模で異質になりがちという固有の難しさを抱える。だからこそ、性能報告の<strong>公平性と再現性</strong>を担保する監査の枠組みは、分野の成熟にとって基盤的な意味を持つ。本研究はモデル間の優劣を決める競争ではなく、その競争を成立させる<em>土台</em>を整える性格の貢献だと理解するのが妥当だろう。</p>
+
+        <h2>限界と注意点:プレプリントとしての位置づけ</h2>
+        <p>本稿はarXivで公開された<strong>プレプリント(査読前)</strong>であり、評価方法論や結論は今後の査読・追試で変わりうる点に留意したい。また現時点で参照できるのはアブストラクトの抜粋のみで、文末が途切れているため、第三の限界の具体的な内容や、パイプラインの実装範囲・対象モデルの詳細は本文・公開コードでの確認が必要である。</p><p>監査パイプライン自体も、どの程度多様なモデル・データセットに適用可能か、また監査基準そのものの妥当性をどう担保するかという「メタ評価」の問題を内包する。あくまで「評価を改善する道具」であり、特定モデルの性能を保証・否定するものではない点を区別して読むべきである。本記事は研究紹介であり、診断・治療など医療的な判断を提供するものではない。</p>
+
+        <h2>示唆とインパクト:BCI実装に向けた信頼性の前提</h2>
+        <p>EEG基盤モデルがリハビリ支援や入力インターフェースといった実応用へ近づくほど、「報告された性能が現場で再現するか」という問いの重みは増す。透明で再現可能な評価がなければ、過大な期待と失望のサイクルを招きかねない。</p><p>本研究のような監査の枠組みは、研究者には<strong>公平なベースライン設定と前提の明示</strong>を促し、応用側には性能主張を批判的に読み解く視点を与えうる。新モデルの精度競争が注目を集めがちな分野で、「どう測るか」を共通言語として整備する動きは、EEG基盤モデルの議論を一段健全にする可能性がある。</p>
+
+
+        <h2>用語ノート</h2>
+        <dl class="glossary">
+          <dt>EEG(脳波)</dt>
+          <dd>頭皮上の電極で脳の電気活動を記録する非侵襲計測。時間分解能が高く、BCIの主要な入力信号として使われる。</dd>
+          <dt>基盤モデル(Foundation Model)</dt>
+          <dd>大量データで事前学習し、少量の追加学習で多様な下流タスクに適応させる大規模モデル。本研究ではEEG向けのものを指す。</dd>
+          <dt>ベースライン</dt>
+          <dd>新手法と比較するための基準となる従来手法。その調整が不透明だと、新手法の優位性を公平に評価できなくなる。</dd>
+          <dt>再現性</dt>
+          <dd>同じ条件で実験を繰り返したとき同様の結果が得られる性質。評価の透明性とともに、性能主張の信頼性を支える前提。</dd>
+        </dl>
+
+        <h2>原典の要旨（英語原文・抜粋）</h2>
         <blockquote>Large EEG Foundation Models (FMs) have shown great potential for decoding EEG signals across diverse cognitive tasks. However, existing EEG-FM studies exhibit three critical limitations: opaque supervised baseline tuning, unverified…</blockquote>
-        <p style="font-family: var(--mono); font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--ink-300);">
+        <p class="src-attr" style="font-size: 12px; color: var(--ink-300);">
           引用元: ARXIV · 2605.26910
+          ／ 上記要旨は原典からの抜粋です。本文の背景説明・評価・限界の指摘は NeuroPulse 編集部による独自の解説です。
         </p>
 
         <h2>原題と著者</h2>
@@ -84,6 +111,21 @@
       </article>
 
       
+      <section class="article-faq" aria-labelledby="faq-heading">
+        <h2 id="faq-heading">よくある質問</h2>
+        <div class="faq-item">
+          <h3 class="faq-q">この研究は新しいEEG基盤モデルを提案したものですか?</h3>
+          <p class="faq-a">いいえ。新モデルの提案ではなく、既存のEEG基盤モデルを公平・再現可能に評価するための分析・監査パイプラインを提示する研究と読めます。</p>
+        </div>
+        <div class="faq-item">
+          <h3 class="faq-q">なぜ「評価の測り方」がそれほど重要なのですか?</h3>
+          <p class="faq-a">EEGは被験者やセッションで分布が大きく変わり、ベースライン調整や前提の置き方しだいで結論が左右されます。透明な評価がなければ性能主張の信頼性を確かめられないためです。</p>
+        </div>
+        <div class="faq-item">
+          <h3 class="faq-q">結果はどの程度確かなものとして受け取るべきですか?</h3>
+          <p class="faq-a">本稿は査読前のプレプリントで、要旨も途中までしか参照できません。具体的な手法・結論は本文や公開コード、今後の査読・追試での確認が必要です。</p>
+        </div>
+      </section>
 
       <div class="source-cta">
         <strong>原典 / SOURCE</strong>
@@ -99,20 +141,20 @@
       <div class="related-grid">
       <article class="related-card">
         <span class="rk-eyebrow">神経デコーディング</span>
-        <a href="/article/202605280642-2605.26910">意思決定と神経デコーディング — 脳科学とAIをつなぐ研究（神経デコーディング）</a>
-        <span class="rk-meta">2026-05-28</span>
-      </article>
-
-      <article class="related-card">
-        <span class="rk-eyebrow">神経デコーディング</span>
         <a href="/article/202605262214-2605.24523">言語処理と潜在空間 — 注目すべき3つの示唆（神経デコーディング）</a>
-        <span class="rk-meta">2026-05-26</span>
+        <span class="rk-meta">2026-05-27</span>
       </article>
 
       <article class="related-card">
         <span class="rk-eyebrow">神経デコーディング</span>
-        <a href="/article/202605261955-2605.24523">言語処理と潜在空間 — 注目すべき3つの示唆（神経デコーディング）</a>
-        <span class="rk-meta">2026-05-26</span>
+        <a href="/article/202605310229-42215600">注意機構と学習 — 数値で示された新事実（神経デコーディング）</a>
+        <span class="rk-meta">2026-05-31</span>
+      </article>
+
+      <article class="related-card">
+        <span class="rk-eyebrow">神経デコーディング</span>
+        <a href="/article/202605291208-2605.28854">大規模言語モデル(LLM)と学習 — 常識への問題提起（神経デコーディング）</a>
+        <span class="rk-meta">2026-05-29</span>
       </article></div>
     </section>
 

@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論） — NeuroPulse — BCI &amp; Neuroscience Daily</title>
-    <meta name="description" content="ニューロAI・計算論の前提を揺さぶる研究が登場した。" />
+    <title>脳波に紛れる「まばたき」を取り除く——眼球運動アーティファクト除去の技術 — NeuroPulse — BCI &amp; Neuroscience Daily</title>
+    <meta name="description" content="脳波(EEG)を汚す眼球運動由来のノイズを、いかに見分けて取り除くかを整理した方法論レビュー。" />
     <meta name="author" content="NeuroPulse Editorial" />
     <meta name="robots" content="index,follow,max-image-preview:large" />
     <link rel="canonical" href="https://eegbugckets.web.app/article/202605241259-42175605" />
@@ -16,12 +16,12 @@
 
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="NeuroPulse — BCI &amp; Neuroscience Daily" />
-    <meta property="og:title" content="深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）" />
-    <meta property="og:description" content="ニューロAI・計算論の前提を揺さぶる研究が登場した。" />
+    <meta property="og:title" content="脳波に紛れる「まばたき」を取り除く——眼球運動アーティファクト除去の技術" />
+    <meta property="og:description" content="脳波(EEG)を汚す眼球運動由来のノイズを、いかに見分けて取り除くかを整理した方法論レビュー。" />
     <meta property="og:url" content="https://eegbugckets.web.app/article/202605241259-42175605" />
     <meta property="og:locale" content="ja_JP" />
     <meta property="article:published_time" content="2026-05-24T12:59:20.869Z" />
-    <meta property="article:section" content="ニューロAI・計算論" />
+    <meta property="article:section" content="EEG信号処理・眼球運動アーティファクト除去" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -36,7 +36,7 @@
             crossorigin="anonymous"></script>
     <meta name="google-adsense-account" content="ca-pub-3378319187302369" />
 
-    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"NewsMediaOrganization","@id":"https://eegbugckets.web.app/#org","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","url":"https://eegbugckets.web.app/","logo":{"@type":"ImageObject","url":"https://eegbugckets.web.app/assets/favicon.svg","width":64,"height":64},"inLanguage":"ja"},{"@type":"WebSite","@id":"https://eegbugckets.web.app/#site","url":"https://eegbugckets.web.app/","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","publisher":{"@id":"https://eegbugckets.web.app/#org"},"inLanguage":"ja"},{"@type":"NewsArticle","@id":"https://eegbugckets.web.app/article/202605241259-42175605","headline":"深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）","description":"ニューロAI・計算論の前提を揺さぶる研究が登場した。","inLanguage":"ja","url":"https://eegbugckets.web.app/article/202605241259-42175605","datePublished":"2026-05-24T12:59:20.869Z","dateModified":"2026-05-24T12:59:20.869Z","keywords":"EEG, 深層学習, 学習","articleSection":"ニューロAI・計算論","isPartOf":{"@id":"https://eegbugckets.web.app/#site"},"publisher":{"@id":"https://eegbugckets.web.app/#org"},"author":{"@type":"Organization","name":"NeuroPulse Editorial","url":"https://eegbugckets.web.app/about"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://eegbugckets.web.app/article/202605241259-42175605"},"isAccessibleForFree":true,"isBasedOn":"https://pubmed.ncbi.nlm.nih.gov/42175605/"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"NewsMediaOrganization","@id":"https://eegbugckets.web.app/#org","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","url":"https://eegbugckets.web.app/","logo":{"@type":"ImageObject","url":"https://eegbugckets.web.app/assets/favicon.svg","width":64,"height":64},"inLanguage":"ja"},{"@type":"WebSite","@id":"https://eegbugckets.web.app/#site","url":"https://eegbugckets.web.app/","name":"NeuroPulse","alternateName":"NeuroPulse — BCI & Neuroscience Daily","publisher":{"@id":"https://eegbugckets.web.app/#org"},"inLanguage":"ja"},{"@type":"NewsArticle","@id":"https://eegbugckets.web.app/article/202605241259-42175605","headline":"脳波に紛れる「まばたき」を取り除く——眼球運動アーティファクト除去の技術","description":"脳波(EEG)を汚す眼球運動由来のノイズを、いかに見分けて取り除くかを整理した方法論レビュー。","inLanguage":"ja","url":"https://eegbugckets.web.app/article/202605241259-42175605","datePublished":"2026-05-24T12:59:20.869Z","dateModified":"2026-05-24T12:59:20.869Z","keywords":"EEG, 深層学習, 学習","articleSection":"EEG信号処理・眼球運動アーティファクト除去","isPartOf":{"@id":"https://eegbugckets.web.app/#site"},"publisher":{"@id":"https://eegbugckets.web.app/#org"},"author":{"@type":"Organization","name":"NeuroPulse Editorial","url":"https://eegbugckets.web.app/about"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://eegbugckets.web.app/article/202605241259-42175605"},"wordCount":2791,"isAccessibleForFree":true,"isBasedOn":"https://pubmed.ncbi.nlm.nih.gov/42175605/"},{"@type":"FAQPage","@id":"https://eegbugckets.web.app/article/202605241259-42175605#faq","mainEntity":[{"@type":"Question","name":"なぜ眼球運動はEEG解析でそれほど問題になるのですか?","acceptedAnswer":{"@type":"Answer","text":"眼球は電気双極子のようにふるまい、まばたきや視線移動が前頭部の電極に脳信号より桁違いに大きな電位を生むためです。放置すると事象関連電位や周波数解析、分類のすべてに系統的な偏りが入りえます。"}},{"@type":"Question","name":"ブラインド信号源分離(ICAなど)で完全にノイズを取り除けますか?","acceptedAnswer":{"@type":"Answer","text":"完全ではありません。源の独立性などの仮定に依存し、眼由来成分の特定にも主観が残るため、取り除きすぎ・残しすぎのトレードオフが生じます。電極数や記録時間が限られると性能も下がりやすいとされます。"}},{"@type":"Question","name":"この研究はBCIにどう関係しますか?","acceptedAnswer":{"@type":"Answer","text":"前処理の品質はその後のデコーディング性能を左右します。眼球運動に頑健なアーティファクト除去は、BCIを現実環境で安定して機能させるための基盤的な工程にあたります。"}}]}]}</script>
   </head>
   <body class="page-article">
     <a href="#main" class="skip-link">本文へスキップ</a>
@@ -53,30 +53,56 @@
 
     <main id="main" class="article-detail">
       <nav class="breadcrumb" aria-label="パンくず">
-        <a href="/">Home</a> · <a href="/#section-archive">Archive</a> · ニューロAI・計算論
+        <a href="/">Home</a> · <a href="/#section-archive">Archive</a> · EEG信号処理・眼球運動アーティファクト除去
       </nav>
 
-      <h1>深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）</h1>
-      <p class="dek">ニューロAI・計算論の前提を揺さぶる研究が登場した。</p>
+      <h1>脳波に紛れる「まばたき」を取り除く——眼球運動アーティファクト除去の技術</h1>
+      <p class="dek">脳波(EEG)を汚す眼球運動由来のノイズを、いかに見分けて取り除くかを整理した方法論レビュー。</p>
 
       <div class="meta">
-        <span><strong>掲載</strong> 2026年5月24日（日） 12:59 JST</span>
+        <span><strong>掲載</strong> 2026年5月24日（日） 21:59 JST</span>
         <span><strong>編集</strong> NeuroPulse Editorial</span>
-        <span><strong>テーマ</strong> ニューロAI・計算論</span>
+        <span><strong>テーマ</strong> EEG信号処理・眼球運動アーティファクト除去</span>
         <span><strong>テンプレート</strong> パラダイムシフト編集</span>
         <span><strong>リスクスコア</strong> 0/100</span>
       </div>
 
       <article class="body">
-        <h2>編集部メモ</h2>
-        <p>本稿は、ニューロAI・計算論の従来モデルを揺さぶる可能性のある研究を取り上げた。
-      編集部は、結果の再現性および解釈の幅について慎重な距離をとりつつ、
-      仮説としての価値を読者に共有する形でまとめている。</p>
+        <p class="article-lede">脳波(EEG)は脳の電気活動を直接かつ高い時間分解能で捉える計測手法だが、現実の記録は「ノイズ」だらけである。なかでも厄介なのが、まばたきや視線移動といった眼球運動が生む電位の混入だ。これらは脳由来の信号よりはるかに大きく、解析を歪めかねない。本論文(Christian O&#39;Reilly・Scott Huberty)は、こうした眼球運動アーティファクトをEEGからどのように分離・除去するかを論じる。地味だが、すべての脳波解析やBCIの土台を支えるテーマである。</p>
 
-        <h2>アブストラクト抜粋</h2>
+        <h2>背景:EEGは「混信」と向き合う計測である</h2>
+        <p><strong>EEG(脳波)</strong>は頭皮上の電極で脳の電気活動を非侵襲かつミリ秒単位で記録できる計測手法であり、認知科学・臨床診断・ブレイン・コンピュータ・インターフェース(BCI)の主要な入力として広く使われている。しかし頭皮上の電極が拾うのは脳由来の信号だけではない。筋活動、心電、電源ハム、そしてとりわけ<strong>眼球運動</strong>由来の電位が、しばしば本来の脳信号を覆い隠してしまう。</p><p>眼球は前方が正・後方が負に帯電した一種の電気双極子としてふるまうため、まばたきや視線の動きに伴って前頭部の電極に大きな電位変動が現れる。その振幅は関心対象である脳由来成分を桁違いに上回ることも多く、放置すれば事象関連電位の推定や周波数解析、機械学習による分類のすべてに系統的な偏りを持ち込みうる。だからこそ、眼球運動アーティファクトを<em>いかに見分け、いかに取り除くか</em>は、EEG解析における古くて新しい中心的課題であり続けている。</p>
+
+        <h2>研究の要点:アーティファクトの「除去」を整理する</h2>
+        <p>本論文は、眼球運動に由来するアーティファクトをEEG信号から<strong>分離(isolate)</strong>するという問題に正面から取り組む。アブストラクト要旨では、こうしたアーティファクトがしばしば<strong>ブラインド信号源分離(blind source separation)</strong>を用いて除去されてきたことが述べられている。これは、観測された複数チャンネルの混合信号を、統計的な独立性などの仮定にもとづいて元の「源」へと分解し直す枠組みであり、その代表が独立成分分析(ICA)である。</p><ul><li><strong>問題設定の明確化</strong>:EEGが眼球運動によって典型的に汚染されること、その除去が解析の前処理として不可欠であることを出発点に据える。</li><li><strong>信号源分離という道具立て</strong>:多チャンネル記録を独立な成分へ分解し、眼球由来とみなせる成分を特定して取り除く、という発想を中心に据えている。</li><li><strong>方法論の整理</strong>:こうしたアプローチの考え方や手続きを、実務者が見通せる形で論じる性格の論文と読める。</li></ul><p>要旨は途中で途切れているため、提案手法の新規性の詳細や評価の範囲は本文での確認が必要だが、少なくとも本稿の核は「最先端の新モデル」ではなく、<em>前処理という基盤工程の方法論</em>にあると理解するのが妥当だ。</p>
+
+        <h2>既存研究との関係:ICAから自動化・標準化へ</h2>
+        <p>眼球運動アーティファクトの除去は、EEG研究で数十年にわたり蓄積されてきた領域である。古典的には、別途記録した眼電図(EOG)を用いた回帰によって眼由来成分を差し引く手法が使われ、その後、独立成分分析(ICA)に代表されるブラインド信号源分離が標準的な道具となった。ICAは混合信号を統計的に独立な成分に分解し、眼球由来と判断される成分を除いて信号を再構成する。</p><p>近年は、どの成分が眼球由来かを人手の判断に頼らず自動で見分ける分類手法や、再現可能な前処理パイプラインの整備が進められてきた。本論文は、こうした流れの中で眼球運動アーティファクトの分離という主題を改めて取り上げ、考え方を整理・提示するものと位置づけられる。派手な性能競争というより、<strong>解析の信頼性を支える共通基盤</strong>を磨く性格の貢献として読むのが自然である。</p>
+
+        <h2>限界と注意点:前処理は万能ではない</h2>
+        <p>眼球運動アーティファクトの除去は強力だが、いくつかの本質的な注意点を伴う。第一に、ブラインド信号源分離は「源が統計的に独立である」といった<strong>仮定</strong>に依存しており、その前提が崩れる状況では分離が不完全になりうる。第二に、眼球由来とされる成分の特定には依然として主観が入りやすく、取り除きすぎれば脳由来の信号まで失い、不足すればノイズが残るというトレードオフがある。</p><p>また、電極数が少ない場合や記録時間が短い場合には信号源分離の性能が下がりやすいことも知られている。本記事が参照できるのはアブストラクトの抜粋のみであり、提案手法の具体的な手続き・評価条件・適用範囲は本文や公開実装での確認が必要である。なお本稿は計測・解析の方法論に関する研究であり、特定の疾患の診断や治療など医療的判断を提供するものではない点に留意したい。</p>
+
+        <h2>示唆とインパクト:BCIの「土台」を整える</h2>
+        <p>眼球運動アーティファクトの扱いは、一見すると地味な前処理だが、その品質はその後のすべての解析結果を左右する。脳由来成分とノイズを取り違えれば、認知研究の結論も、臨床指標の推定も、BCIの分類性能も、静かに歪んでしまう。前処理の方法論を明示的に整理・標準化することは、研究間の比較可能性と再現性を高めるうえで重要な意味を持つ。</p><p>BCIがリハビリ支援や入力インターフェースなどの実応用へ近づくほど、現実環境での豊富な眼球運動に頑健であることは欠かせない条件になる。本論文のように、アーティファクト分離の考え方を見通しよく提示する取り組みは、新しいデコーディング手法に注目が集まりがちな分野において、その性能を正当に引き出すための<strong>足場</strong>を整える役割を担いうる。</p>
+
+
+        <h2>用語ノート</h2>
+        <dl class="glossary">
+          <dt>EEG(脳波)</dt>
+          <dd>頭皮上の電極で脳の電気活動を非侵襲かつ高い時間分解能で記録する計測。BCIや臨床・認知研究の主要な入力信号。</dd>
+          <dt>眼球運動アーティファクト</dt>
+          <dd>まばたきや視線移動に伴って前頭部の電極に現れる大きな電位変動。脳由来信号を覆い隠し、解析に偏りをもたらす代表的ノイズ。</dd>
+          <dt>ブラインド信号源分離(BSS)</dt>
+          <dd>観測された混合信号を、統計的独立性などの仮定にもとづいて元の源信号に分解し直す枠組み。代表例が独立成分分析(ICA)。</dd>
+          <dt>独立成分分析(ICA)</dt>
+          <dd>多チャンネル信号を統計的に独立な成分へ分解する手法。眼球由来とみなせる成分を除いて信号を再構成することでアーティファクトを除去する。</dd>
+        </dl>
+
+        <h2>原典の要旨（英語原文・抜粋）</h2>
         <blockquote>The electroencephalogram (EEG) provides a direct measure of brain electrical activity but is typically contaminated by artifacts, most notably those arising from eye movements. Such artifacts are often removed using blind source separation…</blockquote>
-        <p style="font-family: var(--mono); font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--ink-300);">
+        <p class="src-attr" style="font-size: 12px; color: var(--ink-300);">
           引用元: PUBMED · 42175605
+          ／ 上記要旨は原典からの抜粋です。本文の背景説明・評価・限界の指摘は NeuroPulse 編集部による独自の解説です。
         </p>
 
         <h2>原題と著者</h2>
@@ -85,6 +111,21 @@
       </article>
 
       
+      <section class="article-faq" aria-labelledby="faq-heading">
+        <h2 id="faq-heading">よくある質問</h2>
+        <div class="faq-item">
+          <h3 class="faq-q">なぜ眼球運動はEEG解析でそれほど問題になるのですか?</h3>
+          <p class="faq-a">眼球は電気双極子のようにふるまい、まばたきや視線移動が前頭部の電極に脳信号より桁違いに大きな電位を生むためです。放置すると事象関連電位や周波数解析、分類のすべてに系統的な偏りが入りえます。</p>
+        </div>
+        <div class="faq-item">
+          <h3 class="faq-q">ブラインド信号源分離(ICAなど)で完全にノイズを取り除けますか?</h3>
+          <p class="faq-a">完全ではありません。源の独立性などの仮定に依存し、眼由来成分の特定にも主観が残るため、取り除きすぎ・残しすぎのトレードオフが生じます。電極数や記録時間が限られると性能も下がりやすいとされます。</p>
+        </div>
+        <div class="faq-item">
+          <h3 class="faq-q">この研究はBCIにどう関係しますか?</h3>
+          <p class="faq-a">前処理の品質はその後のデコーディング性能を左右します。眼球運動に頑健なアーティファクト除去は、BCIを現実環境で安定して機能させるための基盤的な工程にあたります。</p>
+        </div>
+      </section>
 
       <div class="source-cta">
         <strong>原典 / SOURCE</strong>
@@ -100,12 +141,6 @@
       <div class="related-grid">
       <article class="related-card">
         <span class="rk-eyebrow">ニューロAI・計算論</span>
-        <a href="/article/202605232143-42175605">深層学習と学習 — 常識への問題提起（ニューロAI・計算論）</a>
-        <span class="rk-meta">2026-05-23</span>
-      </article>
-
-      <article class="related-card">
-        <span class="rk-eyebrow">ニューロAI・計算論</span>
         <a href="/article/202605310412-42216001">深層学習と学習 — 数値で示された新事実（ニューロAI・計算論）</a>
         <span class="rk-meta">2026-05-31</span>
       </article>
@@ -113,6 +148,12 @@
       <article class="related-card">
         <span class="rk-eyebrow">ニューロAI・計算論</span>
         <a href="/article/202605302151-42215569">深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）</a>
+        <span class="rk-meta">2026-05-31</span>
+      </article>
+
+      <article class="related-card">
+        <span class="rk-eyebrow">ニューロAI・計算論</span>
+        <a href="/article/202605301043-42215575">深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）</a>
         <span class="rk-meta">2026-05-30</span>
       </article></div>
     </section>
