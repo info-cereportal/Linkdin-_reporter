@@ -2,9 +2,12 @@ name: LinkedIn Neuro Draft Generator
 
 on:
   schedule:
-    # 1日1回 (UTC 0 = JST 9)。AdSense審査向けに「scaled content（量産）」シグナルを
-    # 下げるため、従来の3時間おき(1日8回)から頻度を抑制。
-    - cron: "0 0 * * *"
+    # 1日1回。AdSense向けに頻度を抑制しつつ、GitHub のスケジュール混雑を避ける。
+    # 「毎時0分」「00:00 UTC」などの混雑時刻は遅延/スキップされやすいため、
+    # オフピークの半端な時刻にする: 22:41 UTC = 07:41 JST。
+    # 注: GitHub のスケジュールはベストエフォート（高負荷時に遅延/スキップあり）。
+    #     確実な定刻起動が必要なら、外部スケジューラ→workflow_dispatch を併用する。
+    - cron: "41 22 * * *"
   workflow_dispatch: # 手動実行用
 
 permissions:
