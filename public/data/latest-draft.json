@@ -1,25 +1,30 @@
 {
-  "generatedAt": "2026-05-31T23:42:10.244Z",
-  "date": "2026-05-31",
-  "topic": "深層学習と注意機構",
-  "templateName": "data-driven",
+  "generatedAt": "2026-06-01T23:54:27.023Z",
+  "date": "2026-06-01",
+  "topic": "生物学的妥当性と視覚野",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "A lightweight deep learning model with channel attention for kidney cell classification from microscopy images.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42218235/",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n数字が語る、深層学習と注意機構の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 深層学習 × 注意機構 × 学習 × 畳み込みニューラルネットワーク(CNN)\n\n📊 注目すべきデータ：\n→ Evaluated on the TissueMNIST benchmark comprising approximately 236,000 images, CytoECA-Net achieves a classification accuracy of 75.56% and an AUC of 0.9564, with performance...\n→ Additional evaluation on the KMC-RENAL histopathology dataset shows that the model achieves 97.76% accuracy and attains the highest performance among the evaluated models.\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 A lightweight deep learning model with channel attention for kidney cell classification from microscopy images.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42218235/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #ニューロテック",
-  "summaryJP": "深層学習と注意機構 — 数値で示された新事実（ニューロAI・計算論）",
-  "paperAuthors": "Mithila Arman, Md Mahid Arfan Rahat, Mahabuba Akter Thithi, Johir Uddin Khan, Shahriar Mahmud Kabir, Md Imamul Islam",
-  "publishedDate": "2026-05-30",
-  "paperId": "42218235",
-  "paperSource": "pubmed",
+  "paperTitle": "Supervised Training Rapidly Degrades Early Visual Cortex Alignment Across Biologically Plausible Learning Rules",
+  "paperLink": "https://arxiv.org/abs/2605.30556",
+  "figureUrl": "https://arxiv.org/html/2605.30556/2605.30556v1/x1.png",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\nこの研究から得られる3つの重要な示唆。\n\n生物学的妥当性と視覚野の最新成果を整理しました。\n\n🔬 生物学的妥当性 × 視覚野 × 学習 × 予測符号化\n\n📊 注目すべきデータ：\n→ We find that (1) a single epoch of training reduces V1 alignment by 25-90%, depending on the learning rule; (2) backpropagation reduces V1 alignment most severely (delta r =...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Supervised Training Rapidly Degrades Early Visual Cortex Alignment Across Biologically Plausible Learning Rules\n🔗 https://arxiv.org/abs/2605.30556\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #BCI",
+  "summaryJP": "生物学的妥当性と視覚野 — 注目すべき3つの示唆（ニューロAI・計算論）",
+  "paperAuthors": "Nils Leutenegger",
+  "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
+  "paperId": "2605.30556",
+  "paperSource": "arxiv",
   "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "深層学習",
-    "注意機構",
+    "生物学的妥当性",
+    "視覚野",
     "学習",
-    "畳み込みニューラルネットワーク(CNN)",
-    "記憶"
+    "予測符号化",
+    "fMRI"
   ],
-  "abstractExcerpt": "Accurate identification of renal cell types within tissue architecture is fundamental for understanding normal kidney physiology and detecting early pathological changes. While traditional histological examination is time-intensive and…",
-  "figureUrls": []
+  "abstractExcerpt": "Random, untrained neural networks consistently match or exceed trained networks in representational similarity to early visual cortex. This puzzling finding challenges the assumption that learning improves brain alignment. We investigate…",
+  "figureUrls": [
+    "https://arxiv.org/html/2605.30556/2605.30556v1/x1.png",
+    "https://arxiv.org/html/2605.30556/2605.30556v1/x2.png",
+    "https://arxiv.org/html/2605.30556/2605.30556v1/x3.png"
+  ]
 }

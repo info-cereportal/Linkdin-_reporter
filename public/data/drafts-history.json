@@ -1,5 +1,35 @@
 [
   {
+    "generatedAt": "2026-06-01T23:54:27.023Z",
+    "date": "2026-06-01",
+    "topic": "生物学的妥当性と視覚野",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "Supervised Training Rapidly Degrades Early Visual Cortex Alignment Across Biologically Plausible Learning Rules",
+    "paperLink": "https://arxiv.org/abs/2605.30556",
+    "figureUrl": "https://arxiv.org/html/2605.30556/2605.30556v1/x1.png",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\nこの研究から得られる3つの重要な示唆。\n\n生物学的妥当性と視覚野の最新成果を整理しました。\n\n🔬 生物学的妥当性 × 視覚野 × 学習 × 予測符号化\n\n📊 注目すべきデータ：\n→ We find that (1) a single epoch of training reduces V1 alignment by 25-90%, depending on the learning rule; (2) backpropagation reduces V1 alignment most severely (delta r =...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Supervised Training Rapidly Degrades Early Visual Cortex Alignment Across Biologically Plausible Learning Rules\n🔗 https://arxiv.org/abs/2605.30556\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #BCI",
+    "summaryJP": "生物学的妥当性と視覚野 — 注目すべき3つの示唆（ニューロAI・計算論）",
+    "paperAuthors": "Nils Leutenegger",
+    "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
+    "paperId": "2605.30556",
+    "paperSource": "arxiv",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "生物学的妥当性",
+      "視覚野",
+      "学習",
+      "予測符号化",
+      "fMRI"
+    ],
+    "abstractExcerpt": "Random, untrained neural networks consistently match or exceed trained networks in representational similarity to early visual cortex. This puzzling finding challenges the assumption that learning improves brain alignment. We investigate…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.30556/2605.30556v1/x1.png",
+      "https://arxiv.org/html/2605.30556/2605.30556v1/x2.png",
+      "https://arxiv.org/html/2605.30556/2605.30556v1/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-05-31T23:42:10.244Z",
     "date": "2026-05-31",
     "topic": "深層学習と注意機構",
@@ -1233,30 +1263,6 @@
       "学習"
     ],
     "abstractExcerpt": "This article presents the design, development, and validation of a plugin that integrates deep learning models into the open-source 3D Slicer framework for the visualization and analysis of biomedical images. The system implements a…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-23T15:54:20.034Z",
-    "date": "2026-05-23",
-    "topic": "学習と畳み込みニューラルネットワーク(CNN)",
-    "templateName": "provocative-question",
-    "riskScore": 0,
-    "paperTitle": "Architecture-Specific Impact of Preprocessing on Machine Learning Models for ECG Classification.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42174902/",
-    "formatted": "学習と畳み込みニューラルネットワーク(CNN)について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 学習 × 畳み込みニューラルネットワーク(CNN) × 深層学習 × Transformer\n\n> Automated analysis of electrocardiograms relies increasingly on deep learning models. In these models, preprocessing steps may often be applied under the assumption that they inherently improve performance.\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかしニューロAI・計算論の文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Architecture-Specific Impact of Preprocessing on Machine Learning Models for ECG Classification.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42174902/\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #NeuralDecoding",
-    "summaryJP": "学習と畳み込みニューラルネットワーク(CNN) — 常識への問題提起（ニューロAI・計算論）",
-    "paperAuthors": "Lucas Bickmann, Lucas Plagwitz, Antonius B&#xfc;scher, Julian Varghese",
-    "publishedDate": "2026-05-23",
-    "paperId": "42174902",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "学習",
-      "畳み込みニューラルネットワーク(CNN)",
-      "深層学習",
-      "Transformer"
-    ],
-    "abstractExcerpt": "Automated analysis of electrocardiograms relies increasingly on deep learning models. In these models, preprocessing steps may often be applied under the assumption that they inherently improve performance. This study investigates the…",
     "figureUrls": []
   }
 ]
