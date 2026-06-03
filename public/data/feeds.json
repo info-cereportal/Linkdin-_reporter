@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T23:54:27.535Z",
+  "generatedAt": "2026-06-03T00:15:32.657Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "High-Fidelity 3D Simulator for Synthetic fNIRS Data Generation",
-          "url": "https://arxiv.org/abs/2605.30552",
-          "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
+          "title": "Consciousness, AI, and the Limits of Scientific Explanation",
+          "url": "https://arxiv.org/abs/2606.00226",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Functional near-infrared spectroscopy (fNIRS) provides a noninvasive window into brain activity by measuring task-related changes in oxygenated and deoxygenated hemoglobin in the cortex. A key advantage of fNIRS is its promise of use with…",
-          "authors": "Condell Eastmond, Niels Bracher, Xavier Intes, Stefan T. Radev"
+          "summary": "Science is constitutively third-personal: its findings are in principle reproducible by any observer, independent of perspective, and answerable to measurement. This is the source of its power and also its limit when it comes to phenomena…",
+          "authors": "Bradley C. Love"
         },
         {
-          "title": "Extended predictive coding framework as variational free-energy minimisation under exponential-family assumption",
-          "url": "https://arxiv.org/abs/2605.30882",
-          "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
+          "title": "On the synaptic matrix eigenvalues of sparsely connected neural networks",
+          "url": "https://arxiv.org/abs/2606.00326",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The sensory cortices of the brain perform perceptual inference efficiently through their complex networks of neurons. One of the theoretical accounts of this process is the free-energy principle (FEP), which postulates that the brain…",
-          "authors": "Asaki Kataoka, Kenji Doya"
+          "summary": "The spectral behaviour of the synaptic matrix, representing the neuronal connection strengths, is an important tool to analyze the stability and transient dynamics of a typical brain as well as its learning process and memory capacity. The…",
+          "authors": "Mohd. Gayas Ansari, Pragya Shukla"
         },
         {
-          "title": "The Metastable Mind: Neural Underpinnings of Naturalistic Cognition Through the Synthesis of Event Segmentation and Metastable Neural States",
-          "url": "https://arxiv.org/abs/2605.31473",
-          "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
+          "title": "Sequential chaotic oscillations in excitatory-inhibitory threshold-linear networks",
+          "url": "https://arxiv.org/abs/2606.00373",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "A multitude of findings and theories from cognitive, behavioural and computational neuroscience show that neural activity unfolds in a variety of meaningful temporal units. Behavioural research on event segmentation (ES) has shown that…",
-          "authors": "Dora Gozukara, Nasir Ahmad, Djamari Oetringer, Linda Geerligs"
+          "summary": "Metastable states, a phenomenon observed in brain dynamics and many other systems, have been proposed as a key feature of healthy brain function, reflecting a balance between integration and segregation. However, it remains unclear how to…",
+          "authors": "Jie Zang, Carina Curto"
         },
         {
-          "title": "Reinterpreting Safety Thresholds as Neuron Spiking Thresholds",
-          "url": "https://arxiv.org/abs/2605.30368",
-          "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
+          "title": "Cortex and subcortex play distinct roles over learning when cortical memory is limited",
+          "url": "https://arxiv.org/abs/2606.00667",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Surrogate Safety Measures (SSMs) are extensively utilised in the evaluation of traffic risk in automated driving contexts. However, the majority of SSM-based evaluations employ fixed thresholds that fail to capture the human response to…",
-          "authors": "Enrico Del Re, Mohamed Sabry, Cristina Olaverri-Monreal"
+          "summary": "It has been proposed that the brain integrates flexible, computationally expensive cortical processing with simpler, lower-cost subcortical mechanisms to achieve resource-efficient performance greater than that of either system alone.…",
+          "authors": "Matthew Farrell, Taro Toyoizumi"
         },
         {
-          "title": "Evolutionary Algorithm for Reservoir Learning and Yielding",
-          "url": "https://arxiv.org/abs/2605.30372",
-          "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
+          "title": "A 1000-hour EEG-EMG-audio dataset of Japanese speech production",
+          "url": "https://arxiv.org/abs/2606.01264",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Reservoir computing, a type of recurrent neural network, is a promising approach for temporal learning as it separates dynamic processing from the trained readout layer. However, classical Echo State Networks (ESNs) often require…",
-          "authors": "Julien Testu (UB, Mnemosyne), Pierrick Legrand (ENSC, Bordeaux INP), Xavier Hinaut (Mnemosyne)"
+          "summary": "We present a multimodal dataset of 1020 hours of simultaneously recorded scalp electroencephalography (EEG), facial electromyography (EMG), and speech audio from three healthy native Japanese speakers during open-vocabulary overt speech.…",
+          "authors": "Motoshige Sato, Ilya Horiguchi, Masakazu Inoue, Kenichi Tomeoka, Eri Hatakeyama, Yuya Kita, Atsushi Yamamoto, Ippei Fujisawa, Shuntaro Sasai"
         },
         {
-          "title": "Private Noise and Public Error in Collective Information Acquisition",
-          "url": "https://arxiv.org/abs/2605.30522",
-          "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
+          "title": "Feature leakage and the identifiability of direct-dependency entropy models of neural activity",
+          "url": "https://arxiv.org/abs/2606.01661",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Collective information acquisition requires groups to combine personal evidence with social information while remaining coupled to the external state. Communication noise can affect this process, but the role of noise remains unclear. In…",
-          "authors": "Mohammad Salahshour, Sumanth Bhargava, Kajal Kumari, Niccolo Pescetelli, Yasser Roudi, Bahador Bahrami, Iain D. Couzin"
+          "summary": "Biological neurons receive thousands of synaptic inputs on branching, electrically excitable dendrites, yet population activity is often modeled with direct input-output rules in which each input contributes independently to a scalar…",
+          "authors": "Houman Safaai, Bernardo L. Sabatini"
         }
       ]
     },
@@ -62,6 +62,14 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "How one state’s medical meal program lowered health care costs",
+          "url": "https://www.statnews.com/2026/06/02/health-news-testing-one-state-medical-meal-progra/?utm_campaign=rss",
+          "publishedDate": "Tue, 02 Jun 2026 12:19:11 +0000",
+          "source": "statnews.com",
+          "summary": "Medicaid work requirements, fast-tracked funding for experimental Ebola vaccines, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
         {
           "title": "STAT+: Trump administration releases rules for new Medicaid work requirements",
           "url": "https://www.statnews.com/2026/06/01/trump-medicaid-work-requirement-rules-verification-eligibility/?utm_campaign=rss",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "The FDA has missed a self-imposed deadline to ban the use of electrical shock devices in people with intellectual disabilities.",
           "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "CDC says containing the spread of Ebola is top priority",
-          "url": "https://www.statnews.com/2026/06/01/health-news-cdc-says-containing-ebola-spread-is-top-priority/?utm_campaign=rss",
-          "publishedDate": "Mon, 01 Jun 2026 12:57:15 +0000",
-          "source": "statnews.com",
-          "summary": "The Trump administration disregards infectious disease playbook, CEPI offers vaccine funding, and other health news from Morning Rounds",
-          "authors": "Allison DeAngelis"
         }
       ]
     },
@@ -117,6 +117,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "A single protein may be holding back CAR T cancer therapy",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260602021641.htm",
+          "publishedDate": "Tue, 02 Jun 2026 10:54:02 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A newly identified protein may be one of the biggest obstacles holding CAR T-cell therapy back. Researchers found that NFIL3 causes these engineered immune cells to become exhausted and lose their cancer-fighting power over time. When…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover gut bacteria that may help protect against autism and ADHD",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260602021645.htm",
+          "publishedDate": "Tue, 02 Jun 2026 10:18:47 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A major study suggests that some of the groundwork for brain development may be shaped before birth through a surprising partnership between a baby’s genes and gut microbes. Researchers found that epigenetic changes present at birth can…",
+          "authors": ""
+        },
+        {
+          "title": "One fat helped pancreatic cancer grow while another cut disease in half",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260601025349.htm",
+          "publishedDate": "Tue, 02 Jun 2026 01:55:31 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A surprising new study suggests that when it comes to pancreatic cancer, the kind of fat you eat may matter more than how much. Researchers found that oleic acid—the main fat in olive oil and several other common foods—sped up tumor growth…",
+          "authors": ""
+        },
         {
           "title": "STAT+: Trump administration releases rules for new Medicaid work requirements",
           "url": "https://www.statnews.com/2026/06/01/trump-medicaid-work-requirement-rules-verification-eligibility/?utm_campaign=rss",
@@ -140,30 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "A Salk Institute study found that a simple dietary amino acid, methionine, dramatically improved survival in mice facing severe infections and inflammatory conditions. Rather than directly targeting the immune system, methionine boosted…",
           "authors": ""
-        },
-        {
-          "title": "This drug delayed rheumatoid arthritis for years after treatment ended",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260530053426.htm",
-          "publishedDate": "Mon, 01 Jun 2026 09:25:47 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A promising new study suggests rheumatoid arthritis may not be as inevitable as once thought for people at high risk. Researchers found that just one year of treatment with the immune-targeting drug abatacept delayed the onset of…",
-          "authors": ""
-        },
-        {
-          "title": "The forgotten organ that could predict how long you live",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm",
-          "publishedDate": "Mon, 01 Jun 2026 06:17:04 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A long-overlooked organ may hold surprising clues to healthy aging and cancer survival. Researchers at Mass General Brigham used AI to analyze CT scans from tens of thousands of adults and found that people with healthier thymuses—a small…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: No Surprises Act arbitration rule could worsen flood of provider disputes",
-          "url": "https://www.statnews.com/2026/06/01/no-surprises-act-new-arbitration-rules-providers-gaming-system/?utm_campaign=rss",
-          "publishedDate": "Mon, 01 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The arbitration process has protected patients but generated financial windfalls for some clinicians.",
-          "authors": "Tara Bannow"
         }
       ]
     },
@@ -173,61 +173,93 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Kernel Foundry: A Diagnosis-driven Evolutionary Kernel Optimizer with Multi-Experts",
-          "url": "https://arxiv.org/abs/2605.30359",
-          "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
+          "title": "Rare Events, Real Signals: Functional Ensembles as Units of Computation in Deep Spiking Networks",
+          "url": "https://arxiv.org/abs/2606.00073",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Generating high-performance GPU kernels remains challenging due to the need for both correctness and hardware-aware optimization. While large language models (LLMs) show promise in code generation, they often fail to produce kernels that…",
-          "authors": "Zixuan Huang, Da Chen, Kecheng Huang, Lihao Yin, Xing Li, Huiling Zhen, Mingxuan Yuan, Zili Shao"
+          "summary": "We investigate how internal representations emerge across hierarchical processing systems by introducing a neuroscience-inspired framework for analyzing deep spiking neural networks (SNN) through the lens of functional connectivity.…",
+          "authors": "Aditi Aravind, Konstantinos Ladakis, Mario Alexios Savaglio, Stelios M. Smirnakis, Maria Papadopouli"
         },
         {
-          "title": "Gradient-Free Training of Spiking Neural Networks via Low-Rank Evolution Strategies",
-          "url": "https://arxiv.org/abs/2605.30361",
-          "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
+          "title": "Evolving to the Aesthetics of a Vision-Language Model",
+          "url": "https://arxiv.org/abs/2606.00112",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking Neural Networks (SNNs) offer compelling energy efficiency on neuromorphic hardware, yet their training remains challenging because the discrete spike threshold is non-differentiable. Surrogate-gradient methods sidestep this by…",
-          "authors": "Dhruv Patankar, Sachit Ramesha Gowda"
+          "summary": "Evolutionary systems have demonstrated remarkable results in creative domains, with recent applications in generative typography, design, and music. However, an open problem remains in designing fitness functions that effectively capture…",
+          "authors": "Stephen James Krol, Jon McCormack"
         },
         {
-          "title": "XOResNet: Exclusive-OR Meta-Residuals Facilitate Deep Spiking Neural Networks Learning",
-          "url": "https://arxiv.org/abs/2605.30362",
-          "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
+          "title": "Dynamics and Representation Structure of Local Approximations to Gradient-Based Learning in Linear Recurrent Neural Networks",
+          "url": "https://arxiv.org/abs/2606.00243",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking neural networks (SNNs) hold promise for demonstrating superior learning and representation capabilities in deep models. Given the tremendous success of ResNet in deep learning, it would naturally follow to train deep SNNs with…",
-          "authors": "Jianfang Wu, Junsong Wang"
+          "summary": "Biological and neuromorphic recurrent neural networks (RNNs) are subject to spatial and temporal locality constraints on the information that can plausibly be used during learning. A common strategy to satisfy these constraints is to…",
+          "authors": "Ezekiel Williams, Alexandre Payeur, Guillaume Lajoie"
         },
         {
-          "title": "Reinterpreting Safety Thresholds as Neuron Spiking Thresholds",
-          "url": "https://arxiv.org/abs/2605.30368",
-          "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
+          "title": "Meta-Black-Box Optimization with Ensemble Surrogate Modeling for Robustness-Accuracy Trade-off within SAEA",
+          "url": "https://arxiv.org/abs/2606.00862",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Surrogate Safety Measures (SSMs) are extensively utilised in the evaluation of traffic risk in automated driving contexts. However, the majority of SSM-based evaluations employ fixed thresholds that fail to capture the human response to…",
-          "authors": "Enrico Del Re, Mohamed Sabry, Cristina Olaverri-Monreal"
+          "summary": "Surrogate-assisted evolutionary algorithms (SAEAs) have been widely used for expensive black-box optimization problems. However, their reliance on rigid and manually designed components limits their flexibility and generalization across…",
+          "authors": "Xiao Jin, Yongxiong Wang, Haobo Liu, Yudong Du, Yukun Du"
         },
         {
-          "title": "Updating the standard neuron model in artificial neural networks",
-          "url": "https://arxiv.org/abs/2605.30370",
-          "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
+          "title": "Spiking and Event-driven Neuromorphic Mamba Models for Efficient Speech Recognition",
+          "url": "https://arxiv.org/abs/2606.01135",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "From their inception in the 1950s, artificial neural networks (ANNs) started using the so-called point neuron model then prevalent in neuroscience, hoping that this analogy would allow for a better emulation of brain function. Over the…",
-          "authors": "Raul Mohedano, Thomas Batard, Erik Velasco-Salido, Ramsses De Los Santos Mendoza, Jorge H. Martínez, Stacey Levine, Marcelo Bertalmío"
+          "summary": "Deep learning has greatly advanced automatic speech recognition (ASR), enabling widespread deployment on edge devices such as smartphones and smart home systems. However, the computational and energy demands of deep neural networks pose…",
+          "authors": "Tauseef Ahmed, Tao Sun, Jeronimo Castrillon, Kanishkan Vadivel, Guangzhi Tang"
         },
         {
-          "title": "From Mean-Field Limits to Semiclassical Concentration: Global Convergence of the Canonical Evolutionary Strategy",
-          "url": "https://arxiv.org/abs/2605.30371",
-          "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
+          "title": "Simultaneous Model-Based Evolution of Constants and Expression Structure in GP-GOMEA for Symbolic Regression",
+          "url": "https://arxiv.org/abs/2606.02236",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We address the issue of global convergence in stochastic continuous optimization. For that purpose, we formulate the Canonical Evolutionary Strategy (CES) as a controlled mathematical framework to analyze global convergence in evolutionary…",
-          "authors": "Matías Neto, Nicolás Garay, Luis Martí, Nayat Sanchez-Pi"
+          "summary": "Genetic programming (GP) approaches are among the state-of-the-art for symbolic regression, the task of constructing symbolic expressions that fit well with data. To find highly accurate symbolic expressions, both the expression structure…",
+          "authors": "Johannes Koch, Tanja Alderliesten, Peter A. N. Bosman"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 4,
+      "items": [
+        {
+          "title": "CLSP-REQA: A Real-Time Quality-Aware Closed-Loop Seizure Prediction Framework with Mamba-BiLSTM and Confidence-Gated Intervention",
+          "url": "https://arxiv.org/abs/2606.00074",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Reliable seizure prediction is a prerequisite for closed-loop neurostimulation therapy, yet existing methods rarely account for the variability in EEG signal quality encountered in real-world deployment, and the overwhelming majority adopt…",
+          "authors": "Mufeng Chen, Qi Wu, Bingchao Huang, Xiwen Lai, Zekai Chen, Xinge Ouyang, Quansheng Ren"
+        },
+        {
+          "title": "A Methodological Framework for Explicit Control of the Speed-Accuracy Trade-off in Brain-Computer Interfaces",
+          "url": "https://arxiv.org/abs/2606.00106",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Brain-computer interfaces (BCIs) are limited by low signal-to-noise ratio in modalities such as electroencephalography, which requires multiple trials to reliably decode user intentions. This induces a speed-accuracy trade-off, whereby…",
+          "authors": "Javier Jiménez, Francisco B Rodríguez"
+        },
+        {
+          "title": "Rethinking NB-IoT Downlink Synchronization for LEO-NTN: A Novel Overhead Reduction Method and Measurement-Based Evaluation",
+          "url": "https://arxiv.org/abs/2606.00701",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Narrowband Internet of Things (NB-IoT) over non-terrestrial networks (NTN) is a key enabler for massive Internet of Things (IoT) in 6G, but in low Earth orbit (LEO) scenarios, large and time-varying Doppler shifts generate carrier…",
+          "authors": "Ömer Lütfü Karakelle, Erhan Karakoca, Bengü Bilgiç Keskin, \\.Ibrahim Hökelek, Ali Görçin, Halim Yanikomeroglu"
+        },
+        {
+          "title": "Electromagnetic Digital Twin-Enabled Closed-Loop Beam Management in ISAC Systems",
+          "url": "https://arxiv.org/abs/2606.00977",
+          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Digital twin (DT) is envisioned as a key enabler of sixth-generation (6G) communication systems, evolving from offline descriptive replicas for monitoring and analysis to inthe-loop agents within digital twin networks (DTNs) that couple…",
+          "authors": "Yubin Luo, Takumi Takahashi, Li Yu, Zhaohui Yang, Jianhua Zhang, Hideki Ochiai"
+        }
+      ]
     }
   }
 }

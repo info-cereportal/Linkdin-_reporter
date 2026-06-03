@@ -1,30 +1,28 @@
 {
-  "generatedAt": "2026-06-01T23:54:27.023Z",
-  "date": "2026-06-01",
-  "topic": "生物学的妥当性と視覚野",
-  "templateName": "three-insights",
+  "generatedAt": "2026-06-03T00:15:32.247Z",
+  "date": "2026-06-03",
+  "topic": "シナプス可塑性と学習",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Supervised Training Rapidly Degrades Early Visual Cortex Alignment Across Biologically Plausible Learning Rules",
-  "paperLink": "https://arxiv.org/abs/2605.30556",
-  "figureUrl": "https://arxiv.org/html/2605.30556/2605.30556v1/x1.png",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\nこの研究から得られる3つの重要な示唆。\n\n生物学的妥当性と視覚野の最新成果を整理しました。\n\n🔬 生物学的妥当性 × 視覚野 × 学習 × 予測符号化\n\n📊 注目すべきデータ：\n→ We find that (1) a single epoch of training reduces V1 alignment by 25-90%, depending on the learning rule; (2) backpropagation reduces V1 alignment most severely (delta r =...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Supervised Training Rapidly Degrades Early Visual Cortex Alignment Across Biologically Plausible Learning Rules\n🔗 https://arxiv.org/abs/2605.30556\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #BCI",
-  "summaryJP": "生物学的妥当性と視覚野 — 注目すべき3つの示唆（ニューロAI・計算論）",
-  "paperAuthors": "Nils Leutenegger",
-  "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
-  "paperId": "2605.30556",
+  "paperTitle": "On the synaptic matrix eigenvalues of sparsely connected neural networks",
+  "paperLink": "https://arxiv.org/abs/2606.00326",
+  "figureUrl": "https://arxiv.org/html/2606.00326/2606.00326v1/1BEsptrmr.png",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\nシナプス可塑性と学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 シナプス可塑性 × 学習 × 記憶\n\n> The spectral behaviour of the synaptic matrix, representing the neuronal connection strengths, is an important tool to analyze the stability and transient dynamics of a typical brain as well as its learning process and memory capacity. The complexity of the brain due to large...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nコネクトミクス・回路解析の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 On the synaptic matrix eigenvalues of sparsely connected neural networks\n🔗 https://arxiv.org/abs/2606.00326\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #脳情報",
+  "summaryJP": "シナプス可塑性と学習 — 脳科学とAIをつなぐ研究（コネクトミクス・回路解析）",
+  "paperAuthors": "Mohd. Gayas Ansari, Pragya Shukla",
+  "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+  "paperId": "2606.00326",
   "paperSource": "arxiv",
-  "themeArea": "ニューロAI・計算論",
+  "themeArea": "コネクトミクス・回路解析",
   "jpKeywords": [
-    "生物学的妥当性",
-    "視覚野",
+    "シナプス可塑性",
     "学習",
-    "予測符号化",
-    "fMRI"
+    "記憶"
   ],
-  "abstractExcerpt": "Random, untrained neural networks consistently match or exceed trained networks in representational similarity to early visual cortex. This puzzling finding challenges the assumption that learning improves brain alignment. We investigate…",
+  "abstractExcerpt": "The spectral behaviour of the synaptic matrix, representing the neuronal connection strengths, is an important tool to analyze the stability and transient dynamics of a typical brain as well as its learning process and memory capacity. The…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.30556/2605.30556v1/x1.png",
-    "https://arxiv.org/html/2605.30556/2605.30556v1/x2.png",
-    "https://arxiv.org/html/2605.30556/2605.30556v1/x3.png"
+    "https://arxiv.org/html/2606.00326/2606.00326v1/1BEsptrmr.png",
+    "https://arxiv.org/html/2606.00326/2606.00326v1/1PEsptrmr.png",
+    "https://arxiv.org/html/2606.00326/2606.00326v1/1EEsptrmr.png"
   ]
 }
