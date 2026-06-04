@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T00:15:32.657Z",
+  "generatedAt": "2026-06-04T00:16:56.552Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Consciousness, AI, and the Limits of Scientific Explanation",
-          "url": "https://arxiv.org/abs/2606.00226",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "title": "The vulnerable male brain: Men's spatial abilities are condition-dependent, sexually selected traits",
+          "url": "https://arxiv.org/abs/2606.02591",
+          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Science is constitutively third-personal: its findings are in principle reproducible by any observer, independent of perspective, and answerable to measurement. This is the source of its power and also its limit when it comes to phenomena…",
-          "authors": "Bradley C. Love"
+          "summary": "Traits that are exaggerated in one sex relative to the other sex might be more vulnerable to stressor exposure because the development and expression of these traits are costly. Sex differences in such traits should therefore be smaller in…",
+          "authors": "David C. Geary, David Giofrè, Marcia Collaer, Richard A. Lippa, Lewis G. Halsey"
         },
         {
-          "title": "On the synaptic matrix eigenvalues of sparsely connected neural networks",
-          "url": "https://arxiv.org/abs/2606.00326",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "title": "BEAST3D: Animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting",
+          "url": "https://arxiv.org/abs/2606.02937",
+          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The spectral behaviour of the synaptic matrix, representing the neuronal connection strengths, is an important tool to analyze the stability and transient dynamics of a typical brain as well as its learning process and memory capacity. The…",
-          "authors": "Mohd. Gayas Ansari, Pragya Shukla"
+          "summary": "Multi-view video recordings are increasingly used to capture the 3D movements of animals in experimental settings, yet extracting rich 3D representations from these recordings remains challenging. Supervised pose estimation requires…",
+          "authors": "Yanchen Wang, Lenny Aharon, Wangshu Zhu, Kyle Daruwalla, Linghua Zhang, Jiaru Zou, Selmaan Chettih, Helen Hou, Liam Paninski, Matthew R Whiteway"
         },
         {
-          "title": "Sequential chaotic oscillations in excitatory-inhibitory threshold-linear networks",
-          "url": "https://arxiv.org/abs/2606.00373",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "title": "Short-Term Synaptic Plasticity Stabilizes Goal-Conditioned Dynamics in a PFC-Inspired Reservoir Model for Multistep Goal-Directed Action Planning",
+          "url": "https://arxiv.org/abs/2606.03481",
+          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Metastable states, a phenomenon observed in brain dynamics and many other systems, have been proposed as a key feature of healthy brain function, reflecting a balance between integration and segregation. However, it remains unclear how to…",
-          "authors": "Jie Zang, Carina Curto"
+          "summary": "The prefrontal cortex (PFC) maintains goal information for action planning, but how recurrent circuits preserve it in an action-usable form over behavioral timescales remains unclear. Here we ask whether short-term synaptic plasticity…",
+          "authors": "Jin Nakamura, Yuichi Katori"
         },
         {
-          "title": "Cortex and subcortex play distinct roles over learning when cortical memory is limited",
-          "url": "https://arxiv.org/abs/2606.00667",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "title": "Who Is in Mind Matters: Attachment Representations in Early Childhood Synchronize Child-Adult Interacting Brains",
+          "url": "https://arxiv.org/abs/2606.03700",
+          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "It has been proposed that the brain integrates flexible, computationally expensive cortical processing with simpler, lower-cost subcortical mechanisms to achieve resource-efficient performance greater than that of either system alone.…",
-          "authors": "Matthew Farrell, Taro Toyoizumi"
+          "summary": "Human attachment is distinguished by enduring internalized representations that shapes neurodevelopment and social-emotional functioning. However, as unobservable inner processes mixed with social cues and partner-specific factors, the…",
+          "authors": "Ruxin Su, Jiayang Xu, Saishuang Wu, Haiwa Wang, Yamin Li, Zihan Yang, Yuqi Liu, Jieqiong Liu, Shanbao Tong, Yunting Zhang, Xiaoli Guo, Fan Jiang"
         },
         {
-          "title": "A 1000-hour EEG-EMG-audio dataset of Japanese speech production",
-          "url": "https://arxiv.org/abs/2606.01264",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "title": "Learning to See via Epiretinal Implant Stimulation in silico with Model-Based Deep Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2606.03118",
+          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We present a multimodal dataset of 1020 hours of simultaneously recorded scalp electroencephalography (EEG), facial electromyography (EMG), and speech audio from three healthy native Japanese speakers during open-vocabulary overt speech.…",
-          "authors": "Motoshige Sato, Ilya Horiguchi, Masakazu Inoue, Kenichi Tomeoka, Eri Hatakeyama, Yuya Kita, Atsushi Yamamoto, Ippei Fujisawa, Shuntaro Sasai"
+          "summary": "Objective: Diseases such as age-related macular degeneration and retinitis pigmentosa cause the degradation of the photoreceptor layer. One approach to restore vision is to electrically stimulate the surviving retinal ganglion cells with a…",
+          "authors": "Jacob Lavoie, Marwan Besrour, William Lemaire, Jean Rouat, Réjean Fontaine, Eric Plourde"
         },
         {
-          "title": "Feature leakage and the identifiability of direct-dependency entropy models of neural activity",
-          "url": "https://arxiv.org/abs/2606.01661",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "title": "A formal definition and meta-model for a machine theory of mind",
+          "url": "https://arxiv.org/abs/2606.03471",
+          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Biological neurons receive thousands of synaptic inputs on branching, electrically excitable dendrites, yet population activity is often modeled with direct input-output rules in which each input contributes independently to a scalar…",
-          "authors": "Houman Safaai, Bernardo L. Sabatini"
+          "summary": "This paper proposes, for the first time, a rigorous formal definition of the concept of Machine Theory of Mind, based on principles supported by evidence from cognitive psychology, neuroscience and artificial intelligence, and uses the…",
+          "authors": "Fabio Cuzzolin"
         }
       ]
     },
@@ -62,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Is the military fueling eating disorders?",
+          "url": "https://www.statnews.com/2026/06/03/health-news-is-the-military-fueling-eating-disorders/?utm_campaign=rss",
+          "publishedDate": "Wed, 03 Jun 2026 11:58:31 +0000",
+          "source": "statnews.com",
+          "summary": "A brief hantavirus update, some good news about death, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "Top ultra-processed food researchers call for sweeping policy change: ‘The system is rigged’",
+          "url": "https://www.statnews.com/2026/06/03/ultra-processed-food-experts-want-sweeping-policy-changes/?utm_campaign=rss",
+          "publishedDate": "Wed, 03 Jun 2026 09:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "A survey finds that ultra-processed foods are a cross-partisan concern. And yet policy has been slow to follow.",
+          "authors": "Sarah Todd"
+        },
+        {
+          "title": "STAT+: NIH cuts weakened network primed to respond to outbreaks like Ebola",
+          "url": "https://www.statnews.com/2026/06/03/nih-cuts-infectious-disease-research-funding-hampers-ebola-preparedness/?utm_campaign=rss",
+          "publishedDate": "Wed, 03 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "While NIH-funded centers weren’t on the front lines of virus responses like the CDC or USAID, some researchers involved in the network said the cuts have damaged relationships with experts&#8230;",
+          "authors": "Anil Oza"
+        },
+        {
+          "title": "STAT+: Trump’s Medicaid work requirements have an unwelcome surprise for some states and patients",
+          "url": "https://www.statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/?utm_campaign=rss",
+          "publishedDate": "Wed, 03 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Advocates were already dreading Medicaid's work requirements. New rules are worse than they feared.",
+          "authors": "Tara Bannow, Chelsea Cirruzzo, and Daniel Payne"
+        },
         {
           "title": "How one state’s medical meal program lowered health care costs",
           "url": "https://www.statnews.com/2026/06/02/health-news-testing-one-state-medical-meal-progra/?utm_campaign=rss",
@@ -77,38 +109,6 @@
           "source": "statnews.com",
           "summary": "States are racing to implement the new requirements by the start of next year.",
           "authors": "John Wilkerson and Tara Bannow"
-        },
-        {
-          "title": "STAT+: Global coalition to fast-track three vaccines targeting Ebola outbreak with $62 million in funding",
-          "url": "https://www.statnews.com/2026/06/01/ebola-bundibugyo-vaccine-studies-cepi-62-million-funding/?utm_campaign=rss",
-          "publishedDate": "Mon, 01 Jun 2026 21:35:53 +0000",
-          "source": "statnews.com",
-          "summary": "With no licensed vaccines available to protect against the Ebola virus currently spreading in the Congo, efforts are underway to fast-track development of at least three vaccines.",
-          "authors": "Helen Branswell"
-        },
-        {
-          "title": "STAT+: At ASCO, talk of barriers to cancer care, new treatments, and other big takeaways",
-          "url": "https://www.statnews.com/2026/06/01/asco-news-day-4-merkel-cell-carcinoma-glp1s-grail/?utm_campaign=rss",
-          "publishedDate": "Mon, 01 Jun 2026 20:56:38 +0000",
-          "source": "statnews.com",
-          "summary": "Here is some of what you may have missed from the world's largest cancer research meeting.",
-          "authors": "Adam Feuerstein, Matthew Herper, Angus Chen, and Katherine MacPhail"
-        },
-        {
-          "title": "STAT+: At the world’s largest cancer research meeting, data briefly took a backseat to grief",
-          "url": "https://www.statnews.com/2026/06/01/cancer-oncologists-grief-asco-2026/?utm_campaign=rss",
-          "publishedDate": "Mon, 01 Jun 2026 20:25:58 +0000",
-          "source": "statnews.com",
-          "summary": "At the world's largest cancer research meeting, new data were plentiful. But this year, there was also a focus on grief.",
-          "authors": "Katherine MacPhail"
-        },
-        {
-          "title": "As FDA misses deadline on electric shock ban, disability advocates speak out",
-          "url": "https://www.statnews.com/2026/06/01/fda-misses-deadline-electric-shock-ban-disability-advocates-speak-out/?utm_campaign=rss",
-          "publishedDate": "Mon, 01 Jun 2026 15:30:14 +0000",
-          "source": "statnews.com",
-          "summary": "The FDA has missed a self-imposed deadline to ban the use of electrical shock devices in people with intellectual disabilities.",
-          "authors": "O. Rose Broderick"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "A single protein may be holding back CAR T cancer therapy",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260602021641.htm",
-          "publishedDate": "Tue, 02 Jun 2026 10:54:02 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A newly identified protein may be one of the biggest obstacles holding CAR T-cell therapy back. Researchers found that NFIL3 causes these engineered immune cells to become exhausted and lose their cancer-fighting power over time. When…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover gut bacteria that may help protect against autism and ADHD",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260602021645.htm",
-          "publishedDate": "Tue, 02 Jun 2026 10:18:47 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A major study suggests that some of the groundwork for brain development may be shaped before birth through a surprising partnership between a baby’s genes and gut microbes. Researchers found that epigenetic changes present at birth can…",
-          "authors": ""
-        },
-        {
-          "title": "One fat helped pancreatic cancer grow while another cut disease in half",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260601025349.htm",
-          "publishedDate": "Tue, 02 Jun 2026 01:55:31 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A surprising new study suggests that when it comes to pancreatic cancer, the kind of fat you eat may matter more than how much. Researchers found that oleic acid—the main fat in olive oil and several other common foods—sped up tumor growth…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Trump administration releases rules for new Medicaid work requirements",
-          "url": "https://www.statnews.com/2026/06/01/trump-medicaid-work-requirement-rules-verification-eligibility/?utm_campaign=rss",
-          "publishedDate": "Mon, 01 Jun 2026 22:24:47 +0000",
+          "title": "STAT+: HaloMD faces lawsuit alleging No Surprises Act middleman used ‘sham letter,’ misleading data",
+          "url": "https://www.statnews.com/2026/06/03/highmark-health-sues-halomd-no-surprises-act-arbitration-disputes/?utm_campaign=rss",
+          "publishedDate": "Wed, 03 Jun 2026 20:45:00 +0000",
           "source": "statnews.com",
-          "summary": "States are racing to implement the new requirements by the start of next year.",
-          "authors": "John Wilkerson and Tara Bannow"
+          "summary": "Highmark Health is the fourth insurer to sue HaloMD, seeking to overturn arbitration wins.",
+          "authors": "Tara Bannow"
         },
         {
-          "title": "STAT+: Medicare’s mum on GLP-1s, and Massachusetts sues United",
-          "url": "https://www.statnews.com/2026/06/01/medicare-bridge-obesity-drug-coverage-no-surprises-act-idr-rules-health-care-inc/?utm_campaign=rss",
-          "publishedDate": "Mon, 01 Jun 2026 15:14:34 +0000",
-          "source": "statnews.com",
-          "summary": "We've been asking Medicare for weeks about the cost of giving seniors $50 obesity drugs.",
-          "authors": "Bob Herman"
-        },
-        {
-          "title": "This common amino acid helped mice survive deadly inflammation",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260530053429.htm",
-          "publishedDate": "Mon, 01 Jun 2026 09:44:52 EDT",
+          "title": "Popular GLP-1 weight-loss drugs linked to lower risks of addiction and overdose",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260603023919.htm",
+          "publishedDate": "Wed, 03 Jun 2026 10:04:58 EDT",
           "source": "sciencedaily.com",
-          "summary": "A Salk Institute study found that a simple dietary amino acid, methionine, dramatically improved survival in mice facing severe infections and inflammatory conditions. Rather than directly targeting the immune system, methionine boosted…",
+          "summary": "A massive study of more than 600,000 U.S. veterans suggests that popular GLP-1 drugs such as semaglutide may do far more than help with diabetes and weight loss—they could also fight addiction itself. Researchers found that people taking…",
           "authors": ""
+        },
+        {
+          "title": "This new diabetes pill burns fat without the downsides of Ozempic",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260603015541.htm",
+          "publishedDate": "Wed, 03 Jun 2026 09:27:40 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have developed an experimental diabetes and obesity pill that works in a completely different way from drugs like Ozempic. Rather than reducing hunger, it activates metabolism in skeletal muscle, helping lower blood sugar and…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists reverse anxiety by fixing a tiny brain circuit",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
+          "publishedDate": "Wed, 03 Jun 2026 08:16:56 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: NIH cuts weakened network primed to respond to outbreaks like Ebola",
+          "url": "https://www.statnews.com/2026/06/03/nih-cuts-infectious-disease-research-funding-hampers-ebola-preparedness/?utm_campaign=rss",
+          "publishedDate": "Wed, 03 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "While NIH-funded centers weren’t on the front lines of virus responses like the CDC or USAID, some researchers involved in the network said the cuts have damaged relationships with experts&#8230;",
+          "authors": "Anil Oza"
+        },
+        {
+          "title": "STAT+: Trump’s Medicaid work requirements have an unwelcome surprise for some states and patients",
+          "url": "https://www.statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/?utm_campaign=rss",
+          "publishedDate": "Wed, 03 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Advocates were already dreading Medicaid's work requirements. New rules are worse than they feared.",
+          "authors": "Tara Bannow, Chelsea Cirruzzo, and Daniel Payne"
         }
       ]
     },
@@ -173,91 +173,75 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Rare Events, Real Signals: Functional Ensembles as Units of Computation in Deep Spiking Networks",
-          "url": "https://arxiv.org/abs/2606.00073",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "title": "Oscillatory State-Space Models as Inductive Biases for Physics-Informed Neural PDE Solvers",
+          "url": "https://arxiv.org/abs/2606.02623",
+          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We investigate how internal representations emerge across hierarchical processing systems by introducing a neuroscience-inspired framework for analyzing deep spiking neural networks (SNN) through the lens of functional connectivity.…",
-          "authors": "Aditi Aravind, Konstantinos Ladakis, Mario Alexios Savaglio, Stelios M. Smirnakis, Maria Papadopouli"
+          "summary": "Solving time-dependent partial differential equations (PDEs) is an important problem in computational science and engineering. Physics-informed neural networks (PINNs) learn PDE solutions from governing equations. However, accurately…",
+          "authors": "Abhishek Chandra, Taniya Kapoor"
         },
         {
-          "title": "Evolving to the Aesthetics of a Vision-Language Model",
-          "url": "https://arxiv.org/abs/2606.00112",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "title": "Spike-Aware C++ INT8 Inference for Sparse Spiking Language Models on Commodity CPUs",
+          "url": "https://arxiv.org/abs/2606.03026",
+          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Evolutionary systems have demonstrated remarkable results in creative domains, with recent applications in generative typography, design, and music. However, an open problem remains in designing fitness functions that effectively capture…",
-          "authors": "Stephen James Krol, Jon McCormack"
+          "summary": "Spiking language models expose activation sparsity that dense Transformer runtimes do not directly exploit. This paper studies that property from a systems perspective. Building on the SymbolicLight V1 spike-gated language model family, we…",
+          "authors": "Ting Liu"
         },
         {
-          "title": "Dynamics and Representation Structure of Local Approximations to Gradient-Based Learning in Linear Recurrent Neural Networks",
-          "url": "https://arxiv.org/abs/2606.00243",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "title": "PSViT: A Methodology for Structurally Pruning Spiking Vision Transformers",
+          "url": "https://arxiv.org/abs/2606.03257",
+          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Biological and neuromorphic recurrent neural networks (RNNs) are subject to spatial and temporal locality constraints on the information that can plausibly be used during learning. A common strategy to satisfy these constraints is to…",
-          "authors": "Ezekiel Williams, Alexandre Payeur, Guillaume Lajoie"
+          "summary": "Spiking Vision Transformer (SViT) models are promising low-power ViT models for solving vision-based tasks with state-of-the-art performance. However, their large sizes limit their deployments for resource-constrained embedded platforms,…",
+          "authors": "Rachmad Vidya Wicaksana Putra, Achyuta Muthuvelan, Alberto Marchisio, Muhammad Shafique"
         },
         {
-          "title": "Meta-Black-Box Optimization with Ensemble Surrogate Modeling for Robustness-Accuracy Trade-off within SAEA",
-          "url": "https://arxiv.org/abs/2606.00862",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "title": "PrimeSVT: An Automated Memory-aware Pruning Framework with Prioritized Compression Policy for Spiking Vision Transformers",
+          "url": "https://arxiv.org/abs/2606.03428",
+          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Surrogate-assisted evolutionary algorithms (SAEAs) have been widely used for expensive black-box optimization problems. However, their reliance on rigid and manually designed components limits their flexibility and generalization across…",
-          "authors": "Xiao Jin, Yongxiong Wang, Haobo Liu, Yudong Du, Yukun Du"
+          "summary": "The large sizes of Spiking Vision Transformers (SViTs) still hinder their embedded implementation, highlighting the need for model compression. State-of-the-art works compress SViT models through unstructured pruning, which needs…",
+          "authors": "Rachmad Vidya Wicaksana Putra, Achyuta Muthuvelan, Alberto Marchisio, Muhammad Shafique"
         },
         {
-          "title": "Spiking and Event-driven Neuromorphic Mamba Models for Efficient Speech Recognition",
-          "url": "https://arxiv.org/abs/2606.01135",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "title": "Signed Spiking Neuron Enabled by an Orthogonal-Easy-Axis Magnetic Tunnel Junction",
+          "url": "https://arxiv.org/abs/2606.03796",
+          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Deep learning has greatly advanced automatic speech recognition (ASR), enabling widespread deployment on edge devices such as smartphones and smart home systems. However, the computational and energy demands of deep neural networks pose…",
-          "authors": "Tauseef Ahmed, Tao Sun, Jeronimo Castrillon, Kanishkan Vadivel, Guangzhi Tang"
+          "summary": "Signed spiking neurons carry richer information than standard spiking neurons. This work proposes a compact magnetic tunnel junction (MTJ)-based neuron for signed leaky integrate-and-fire (LIF) operation. With orthogonal easy axes in the…",
+          "authors": "Huannan Zheng, Jingli Liu, Kezhou Yang"
         },
         {
-          "title": "Simultaneous Model-Based Evolution of Constants and Expression Structure in GP-GOMEA for Symbolic Regression",
-          "url": "https://arxiv.org/abs/2606.02236",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "title": "Quadratic integrate-and-fire neurons exhibit less fragmented loss landscapes and outperform leaky integrate-and-fire neurons in spike-based gradient descent",
+          "url": "https://arxiv.org/abs/2606.03935",
+          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Genetic programming (GP) approaches are among the state-of-the-art for symbolic regression, the task of constructing symbolic expressions that fit well with data. To find highly accurate symbolic expressions, both the expression structure…",
-          "authors": "Johannes Koch, Tanja Alderliesten, Peter A. N. Bosman"
+          "summary": "The ability to train spiking neural networks is essential for modeling biological neural networks as well as for neuromorphic computing. However, for the extensively used leaky integrate-and-fire (LIF) neurons, arbitrarily small parameter…",
+          "authors": "Carlo Wenig, Raoul-Martin Memmesheimer, Christian Klos"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 4,
+      "itemCount": 2,
       "items": [
         {
-          "title": "CLSP-REQA: A Real-Time Quality-Aware Closed-Loop Seizure Prediction Framework with Mamba-BiLSTM and Confidence-Gated Intervention",
-          "url": "https://arxiv.org/abs/2606.00074",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "title": "ERP-XTTN: Interpretable Prototype-Guided Cross-Attention for Cross-Subject ERP Classification",
+          "url": "https://arxiv.org/abs/2606.02939",
+          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Reliable seizure prediction is a prerequisite for closed-loop neurostimulation therapy, yet existing methods rarely account for the variability in EEG signal quality encountered in real-world deployment, and the overwhelming majority adopt…",
-          "authors": "Mufeng Chen, Qi Wu, Bingchao Huang, Xiwen Lai, Zekai Chen, Xinge Ouyang, Quansheng Ren"
+          "summary": "Interpretable brain-computer interface classifiers that generalize across subjects without calibration remain an open challenge. We test whether prototype-based cross-attention can provide competitive, interpretable event-related potential…",
+          "authors": "Charlotte Genevier Wyman, Leanne Hirshfield"
         },
         {
-          "title": "A Methodological Framework for Explicit Control of the Speed-Accuracy Trade-off in Brain-Computer Interfaces",
-          "url": "https://arxiv.org/abs/2606.00106",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
+          "title": "Stable Hybrid Cross-Attention Fusion for Audio-Visual Event Recognition",
+          "url": "https://arxiv.org/abs/2606.03747",
+          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brain-computer interfaces (BCIs) are limited by low signal-to-noise ratio in modalities such as electroencephalography, which requires multiple trials to reliably decode user intentions. This induces a speed-accuracy trade-off, whereby…",
-          "authors": "Javier Jiménez, Francisco B Rodríguez"
-        },
-        {
-          "title": "Rethinking NB-IoT Downlink Synchronization for LEO-NTN: A Novel Overhead Reduction Method and Measurement-Based Evaluation",
-          "url": "https://arxiv.org/abs/2606.00701",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Narrowband Internet of Things (NB-IoT) over non-terrestrial networks (NTN) is a key enabler for massive Internet of Things (IoT) in 6G, but in low Earth orbit (LEO) scenarios, large and time-varying Doppler shifts generate carrier…",
-          "authors": "Ömer Lütfü Karakelle, Erhan Karakoca, Bengü Bilgiç Keskin, \\.Ibrahim Hökelek, Ali Görçin, Halim Yanikomeroglu"
-        },
-        {
-          "title": "Electromagnetic Digital Twin-Enabled Closed-Loop Beam Management in ISAC Systems",
-          "url": "https://arxiv.org/abs/2606.00977",
-          "publishedDate": "Tue, 02 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Digital twin (DT) is envisioned as a key enabler of sixth-generation (6G) communication systems, evolving from offline descriptive replicas for monitoring and analysis to inthe-loop agents within digital twin networks (DTNs) that couple…",
-          "authors": "Yubin Luo, Takumi Takahashi, Li Yu, Zhaohui Yang, Jianhua Zhang, Hideki Ochiai"
+          "summary": "Audio-Visual Event Recognition (AVER) is essential for intelligent urban monitoring systems, where robust multimodal understanding of complex environments is required. This paper proposes a stable hybrid cross-attention fusion framework…",
+          "authors": "Parinaz Binandeh Dehaghani, Danilo Pena, A. Pedro Aguiar"
         }
       ]
     }
