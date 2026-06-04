@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T00:16:56.552Z",
+  "generatedAt": "2026-06-04T23:49:00.566Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "The vulnerable male brain: Men's spatial abilities are condition-dependent, sexually selected traits",
-          "url": "https://arxiv.org/abs/2606.02591",
-          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
+          "title": "The Variance Brain Foundation Models Forgot: Third-Order Statistics Predict Cognition Where Billion-Parameter Models Fail",
+          "url": "https://arxiv.org/abs/2606.04010",
+          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Traits that are exaggerated in one sex relative to the other sex might be more vulnerable to stressor exposure because the development and expression of these traits are costly. Sex differences in such traits should therefore be smaller in…",
-          "authors": "David C. Geary, David Giofrè, Marcia Collaer, Richard A. Lippa, Lewis G. Halsey"
+          "summary": "Brain foundation models (BFMs) are self-supervised Transformers pretrained on fMRI data. We posit that these models should capture each subject's cognitive performance from their fMRI signal. Yet across three state-of-the-art BFMs and…",
+          "authors": "Giovanni Marraffini, Gabriel Mahuas, Trinidad Borrell, Victoria Shevchenko, Demian Wassermann"
         },
         {
-          "title": "BEAST3D: Animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting",
-          "url": "https://arxiv.org/abs/2606.02937",
-          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
+          "title": "Towards an Ideometrics-Based Understanding of Consciousness, Time, Space and Dreams",
+          "url": "https://arxiv.org/abs/2606.04011",
+          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Multi-view video recordings are increasingly used to capture the 3D movements of animals in experimental settings, yet extracting rich 3D representations from these recordings remains challenging. Supervised pose estimation requires…",
-          "authors": "Yanchen Wang, Lenny Aharon, Wangshu Zhu, Kyle Daruwalla, Linghua Zhang, Jiaru Zou, Selmaan Chettih, Helen Hou, Liam Paninski, Matthew R Whiteway"
+          "summary": "From an ideometrics-based perspective, consciousness may reduce the informational entropy of many randomly possible future outcomes through ideometric processes. Consciousness enables a system to internally simulate alternative futures and…",
+          "authors": "Igor Rudan"
         },
         {
-          "title": "Short-Term Synaptic Plasticity Stabilizes Goal-Conditioned Dynamics in a PFC-Inspired Reservoir Model for Multistep Goal-Directed Action Planning",
-          "url": "https://arxiv.org/abs/2606.03481",
-          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
+          "title": "SC-TauPath: A Structural Connectivity Attribution Framework for Mapping Tau Propagation Pathways in Alzheimer's Disease",
+          "url": "https://arxiv.org/abs/2606.04066",
+          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The prefrontal cortex (PFC) maintains goal information for action planning, but how recurrent circuits preserve it in an action-usable form over behavioral timescales remains unclear. Here we ask whether short-term synaptic plasticity…",
-          "authors": "Jin Nakamura, Yuichi Katori"
+          "summary": "Understanding how structural connections are associated with tau propagation in Alzheimer's disease (AD) remains a central open question, yet existing computational models either rely heavily on biophysical assumptions or lack…",
+          "authors": "Jing Zhang, Norman Scheel, Minheng Chen, Tong Chen, Yanjun Lyu, David C. Zhu, Rong Zhang, Dajiang Zhu"
         },
         {
-          "title": "Who Is in Mind Matters: Attachment Representations in Early Childhood Synchronize Child-Adult Interacting Brains",
-          "url": "https://arxiv.org/abs/2606.03700",
-          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
+          "title": "Discrete signaling mediates chaotic regularization in recurrent neural networks",
+          "url": "https://arxiv.org/abs/2606.04426",
+          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Human attachment is distinguished by enduring internalized representations that shapes neurodevelopment and social-emotional functioning. However, as unobservable inner processes mixed with social cues and partner-specific factors, the…",
-          "authors": "Ruxin Su, Jiayang Xu, Saishuang Wu, Haiwa Wang, Yamin Li, Zihan Yang, Yuqi Liu, Jieqiong Liu, Shanbao Tong, Yunting Zhang, Xiaoli Guo, Fan Jiang"
+          "summary": "Cortical circuits operate in a regime of intrinsic chaos, where even tiny changes in input can lead to divergent neural responses. Yet, remarkably, population codes in the brain vary smoothly with sensory stimuli, forming coherent…",
+          "authors": "Jan Bauer, Christian Keup, Jonathan Kadmon, Moritz Helias"
         },
         {
-          "title": "Learning to See via Epiretinal Implant Stimulation in silico with Model-Based Deep Reinforcement Learning",
-          "url": "https://arxiv.org/abs/2606.03118",
-          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
+          "title": "Neural Langevin Machine: a local asymmetric learning rule can be creative",
+          "url": "https://arxiv.org/abs/2506.23546",
+          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Objective: Diseases such as age-related macular degeneration and retinitis pigmentosa cause the degradation of the photoreceptor layer. One approach to restore vision is to electrically stimulate the surviving retinal ganglion cells with a…",
-          "authors": "Jacob Lavoie, Marwan Besrour, William Lemaire, Jean Rouat, Réjean Fontaine, Eric Plourde"
+          "summary": "Fixed points of recurrent neural networks can be leveraged to store and generate information. These fixed points can be captured by the Boltzmann-Gibbs measure, which leads to neural Langevin dynamics that can be used to find them for…",
+          "authors": "Zhendong Yu, Weizhong Huang, Haiping Huang"
         },
         {
-          "title": "A formal definition and meta-model for a machine theory of mind",
-          "url": "https://arxiv.org/abs/2606.03471",
-          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
+          "title": "Competition, stability, and functionality in excitatory-inhibitory neural circuits",
+          "url": "https://arxiv.org/abs/2512.05252",
+          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper proposes, for the first time, a rigorous formal definition of the concept of Machine Theory of Mind, based on principles supported by evidence from cognitive psychology, neuroscience and artificial intelligence, and uses the…",
-          "authors": "Fabio Cuzzolin"
+          "summary": "Energy-based models have become a central paradigm for understanding computation and stability in both theoretical neuroscience and machine learning. However, the energetic framework typically relies on symmetry in synaptic or weight…",
+          "authors": "Simone Betteti, William Retnaraj, Alexander Davydov, Jorge Cortés, Francesco Bullo"
         }
       ]
     },
@@ -62,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "HHS confirms Americans with high-risk Ebola exposures will have access to experimental therapy",
+          "url": "https://www.statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/?utm_campaign=rss",
+          "publishedDate": "Thu, 04 Jun 2026 23:40:43 +0000",
+          "source": "statnews.com",
+          "summary": "Americans who have high-risk exposures to Ebola in the current outbreak in Central Africa will have access to an experimental antibody treatment.",
+          "authors": "Helen Branswell"
+        },
+        {
+          "title": "Scientists uncover a new hiding spot for HIV",
+          "url": "https://www.statnews.com/2026/06/04/health-news-scientists-uncover-new-hiding-spot-for-hiv/?utm_campaign=rss",
+          "publishedDate": "Thu, 04 Jun 2026 12:32:36 +0000",
+          "source": "statnews.com",
+          "summary": "An Ebola update, Trump to strip job protections of NIH officials, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "Male puberty is understudied — but when it starts may predict long-term health risks",
+          "url": "https://www.statnews.com/2026/06/04/male-puberty-timing-long-term-health-risk-prediction/?utm_campaign=rss",
+          "publishedDate": "Thu, 04 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Due to a significant gender gap, far less is known about the health risks of early or late puberty onset among boys than girls.",
+          "authors": "Ashleigh N. DeLuca"
+        },
+        {
+          "title": "What happens at a longevity festival?",
+          "url": "https://www.statnews.com/2026/06/04/longevity-science-vitalist-bay-festival-status-report-alex-hogan/?utm_campaign=rss",
+          "publishedDate": "Thu, 04 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "What happens at a longevity festival? On this week's STATus Report, Alex Hogan gets a dispatch from STAT's Sarah Todd.",
+          "authors": "Alex Hogan"
+        },
         {
           "title": "Is the military fueling eating disorders?",
           "url": "https://www.statnews.com/2026/06/03/health-news-is-the-military-fueling-eating-disorders/?utm_campaign=rss",
@@ -77,38 +109,6 @@
           "source": "statnews.com",
           "summary": "A survey finds that ultra-processed foods are a cross-partisan concern. And yet policy has been slow to follow.",
           "authors": "Sarah Todd"
-        },
-        {
-          "title": "STAT+: NIH cuts weakened network primed to respond to outbreaks like Ebola",
-          "url": "https://www.statnews.com/2026/06/03/nih-cuts-infectious-disease-research-funding-hampers-ebola-preparedness/?utm_campaign=rss",
-          "publishedDate": "Wed, 03 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "While NIH-funded centers weren’t on the front lines of virus responses like the CDC or USAID, some researchers involved in the network said the cuts have damaged relationships with experts&#8230;",
-          "authors": "Anil Oza"
-        },
-        {
-          "title": "STAT+: Trump’s Medicaid work requirements have an unwelcome surprise for some states and patients",
-          "url": "https://www.statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/?utm_campaign=rss",
-          "publishedDate": "Wed, 03 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Advocates were already dreading Medicaid's work requirements. New rules are worse than they feared.",
-          "authors": "Tara Bannow, Chelsea Cirruzzo, and Daniel Payne"
-        },
-        {
-          "title": "How one state’s medical meal program lowered health care costs",
-          "url": "https://www.statnews.com/2026/06/02/health-news-testing-one-state-medical-meal-progra/?utm_campaign=rss",
-          "publishedDate": "Tue, 02 Jun 2026 12:19:11 +0000",
-          "source": "statnews.com",
-          "summary": "Medicaid work requirements, fast-tracked funding for experimental Ebola vaccines, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: Trump administration releases rules for new Medicaid work requirements",
-          "url": "https://www.statnews.com/2026/06/01/trump-medicaid-work-requirement-rules-verification-eligibility/?utm_campaign=rss",
-          "publishedDate": "Mon, 01 Jun 2026 22:24:47 +0000",
-          "source": "statnews.com",
-          "summary": "States are racing to implement the new requirements by the start of next year.",
-          "authors": "John Wilkerson and Tara Bannow"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: HaloMD faces lawsuit alleging No Surprises Act middleman used ‘sham letter,’ misleading data",
-          "url": "https://www.statnews.com/2026/06/03/highmark-health-sues-halomd-no-surprises-act-arbitration-disputes/?utm_campaign=rss",
-          "publishedDate": "Wed, 03 Jun 2026 20:45:00 +0000",
+          "title": "STAT+: Drug companies, patient groups urge FDA to pause commissioner’s voucher program",
+          "url": "https://www.statnews.com/2026/06/04/fda-commissioners-voucher-program-town-hall-pharma-patients-urge-pause/?utm_campaign=rss",
+          "publishedDate": "Thu, 04 Jun 2026 20:53:33 +0000",
           "source": "statnews.com",
-          "summary": "Highmark Health is the fourth insurer to sue HaloMD, seeking to overturn arbitration wins.",
-          "authors": "Tara Bannow"
+          "summary": "The White House has used the program to reward companies that help its political goals.",
+          "authors": "Lizzy Lawrence"
         },
         {
-          "title": "Popular GLP-1 weight-loss drugs linked to lower risks of addiction and overdose",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260603023919.htm",
-          "publishedDate": "Wed, 03 Jun 2026 10:04:58 EDT",
+          "title": "STAT+: RFK Jr.’s second year: Vacancies, not vaccines",
+          "url": "https://www.statnews.com/2026/06/04/kennedy-hhs-challenges-wins-politics-nih-schedule-f-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Thu, 04 Jun 2026 15:42:48 +0000",
+          "source": "statnews.com",
+          "summary": "Assessing the health secretary's biggest challenges, and a look at new rules that inject politics into the NIH.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "A study of 8,300 older adults revealed a surprising salt habit",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260604044304.htm",
+          "publishedDate": "Thu, 04 Jun 2026 10:05:04 EDT",
           "source": "sciencedaily.com",
-          "summary": "A massive study of more than 600,000 U.S. veterans suggests that popular GLP-1 drugs such as semaglutide may do far more than help with diabetes and weight loss—they could also fight addiction itself. Researchers found that people taking…",
+          "summary": "A large study of older adults in Brazil found that adding extra salt at the table is still a common habit, especially among men. While too much salt is linked to serious health problems and faster cognitive decline, researchers discovered…",
           "authors": ""
         },
         {
-          "title": "This new diabetes pill burns fat without the downsides of Ozempic",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260603015541.htm",
-          "publishedDate": "Wed, 03 Jun 2026 09:27:40 EDT",
+          "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
+          "publishedDate": "Thu, 04 Jun 2026 09:18:44 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have developed an experimental diabetes and obesity pill that works in a completely different way from drugs like Ozempic. Rather than reducing hunger, it activates metabolism in skeletal muscle, helping lower blood sugar and…",
+          "summary": "For decades, pancreatic cancer has been one of the most lethal cancers, with few effective treatment options. A new drug, daraxonrasib, targets the KRAS mutation that fuels most pancreatic tumors—something many scientists once thought…",
           "authors": ""
         },
         {
-          "title": "Scientists reverse anxiety by fixing a tiny brain circuit",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
-          "publishedDate": "Wed, 03 Jun 2026 08:16:56 EDT",
+          "title": "Scientists discover the master clock that controls biological growth and development",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260604044236.htm",
+          "publishedDate": "Thu, 04 Jun 2026 05:36:05 EDT",
           "source": "sciencedaily.com",
-          "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target…",
+          "summary": "A newly discovered genetic clock acts as the master timekeeper for development, orchestrating crucial bursts of gene activity throughout a worm’s growth. When the clock is disrupted, development stops, offering fresh clues about how…",
           "authors": ""
         },
         {
-          "title": "STAT+: NIH cuts weakened network primed to respond to outbreaks like Ebola",
-          "url": "https://www.statnews.com/2026/06/03/nih-cuts-infectious-disease-research-funding-hampers-ebola-preparedness/?utm_campaign=rss",
-          "publishedDate": "Wed, 03 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "While NIH-funded centers weren’t on the front lines of virus responses like the CDC or USAID, some researchers involved in the network said the cuts have damaged relationships with experts&#8230;",
-          "authors": "Anil Oza"
-        },
-        {
-          "title": "STAT+: Trump’s Medicaid work requirements have an unwelcome surprise for some states and patients",
-          "url": "https://www.statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/?utm_campaign=rss",
-          "publishedDate": "Wed, 03 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Advocates were already dreading Medicaid's work requirements. New rules are worse than they feared.",
-          "authors": "Tara Bannow, Chelsea Cirruzzo, and Daniel Payne"
+          "title": "Cancer’s favorite escape trick may actually make it easier to kill",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260603023911.htm",
+          "publishedDate": "Thu, 04 Jun 2026 01:30:22 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a surprising new way the immune system fights cancer, overturning a core belief that has guided immunology for decades. The research found that when cancer cells shut down a key immune-recognition molecule called…",
+          "authors": ""
         }
       ]
     },
@@ -173,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Oscillatory State-Space Models as Inductive Biases for Physics-Informed Neural PDE Solvers",
-          "url": "https://arxiv.org/abs/2606.02623",
-          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
+          "title": "Beyond Static Priors: Dynamic Neural Guidance for Large-Scale Ant Colony Optimization",
+          "url": "https://arxiv.org/abs/2606.04039",
+          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Solving time-dependent partial differential equations (PDEs) is an important problem in computational science and engineering. Physics-informed neural networks (PINNs) learn PDE solutions from governing equations. However, accurately…",
-          "authors": "Abhishek Chandra, Taniya Kapoor"
+          "summary": "Neural-guided Ant Colony Optimization (ACO) suffers from a fundamental training-inference misalignment: policies are typically trained to generate static priors (e.g., heatmaps), yet deployed to guide iterative, long-horizon search…",
+          "authors": "Dat Thanh Tran, Van Khu Vu, Yining Ma"
         },
         {
-          "title": "Spike-Aware C++ INT8 Inference for Sparse Spiking Language Models on Commodity CPUs",
-          "url": "https://arxiv.org/abs/2606.03026",
-          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
+          "title": "U-Net-Accelerated Quality-Diversity Optimization for Climate-Adaptive Urban Layouts",
+          "url": "https://arxiv.org/abs/2606.04658",
+          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking language models expose activation sparsity that dense Transformer runtimes do not directly exploit. This paper studies that property from a systems perspective. Building on the SymbolicLight V1 spike-gated language model family, we…",
-          "authors": "Ting Liu"
+          "summary": "Optimizing urban layouts for climate adaptation requires balancing building density with cold-air ventilation. Because physics-based climate simulations are computationally expensive, planners typically evaluate fewer than ten manual…",
+          "authors": "Alexander Hagg, Tania Guerrero, Dirk Reith"
         },
         {
-          "title": "PSViT: A Methodology for Structurally Pruning Spiking Vision Transformers",
-          "url": "https://arxiv.org/abs/2606.03257",
-          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
+          "title": "Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm Optimization",
+          "url": "https://arxiv.org/abs/2606.05150",
+          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking Vision Transformer (SViT) models are promising low-power ViT models for solving vision-based tasks with state-of-the-art performance. However, their large sizes limit their deployments for resource-constrained embedded platforms,…",
-          "authors": "Rachmad Vidya Wicaksana Putra, Achyuta Muthuvelan, Alberto Marchisio, Muhammad Shafique"
+          "summary": "The radial basis function neural network (RBFN) trained with a gradient descending algorithm provides an effective fully connected structure in both shallow and deep networks. The error correction (ErrCor), a state-of-the-art…",
+          "authors": "Ammar Hoori, Yuichi Motai"
         },
         {
-          "title": "PrimeSVT: An Automated Memory-aware Pruning Framework with Prioritized Compression Policy for Spiking Vision Transformers",
-          "url": "https://arxiv.org/abs/2606.03428",
-          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
+          "title": "ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion",
+          "url": "https://arxiv.org/abs/2606.04468",
+          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The large sizes of Spiking Vision Transformers (SViTs) still hinder their embedded implementation, highlighting the need for model compression. State-of-the-art works compress SViT models through unstructured pruning, which needs…",
-          "authors": "Rachmad Vidya Wicaksana Putra, Achyuta Muthuvelan, Alberto Marchisio, Muhammad Shafique"
+          "summary": "Offline multi-objective optimization (Offline MOO) aims to discover novel Pareto-optimal designs based on static datasets without expensive environment interactions. While recent generative methods have achieved notable success, they…",
+          "authors": "Ruiqing Sun, Sen Yang, Dawei Feng, Bo Ding, Yijie Wang, Huaimin Wang"
         },
         {
-          "title": "Signed Spiking Neuron Enabled by an Orthogonal-Easy-Axis Magnetic Tunnel Junction",
-          "url": "https://arxiv.org/abs/2606.03796",
-          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
+          "title": "Dynamic Multi-Pair Trading Strategy in Cryptocurrency Markets with Deep Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2606.04574",
+          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Signed spiking neurons carry richer information than standard spiking neurons. This work proposes a compact magnetic tunnel junction (MTJ)-based neuron for signed leaky integrate-and-fire (LIF) operation. With orthogonal easy axes in the…",
-          "authors": "Huannan Zheng, Jingli Liu, Kezhou Yang"
+          "summary": "This study aims to determine whether the application of Deep Reinforcement Learning (DRL) as a specialized execution overlay can enhance pair trading in highly volatile cryptocurrency markets. Although classical implementations of the…",
+          "authors": "Damian Lebiedź, Robert Ślepaczuk"
         },
         {
-          "title": "Quadratic integrate-and-fire neurons exhibit less fragmented loss landscapes and outperform leaky integrate-and-fire neurons in spike-based gradient descent",
-          "url": "https://arxiv.org/abs/2606.03935",
-          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
+          "title": "AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions",
+          "url": "https://arxiv.org/abs/2312.08472",
+          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The ability to train spiking neural networks is essential for modeling biological neural networks as well as for neuromorphic computing. However, for the extensively used leaky integrate-and-fire (LIF) neurons, arbitrarily small parameter…",
-          "authors": "Carlo Wenig, Raoul-Martin Memmesheimer, Christian Klos"
+          "summary": "Transcendental functions, such as the exponential, are central to scientific computing, yet they cannot be natively calculated by digital hardware. Instead, computers must approximate these functions by combining basic operations, such as…",
+          "authors": "Esteban Real, Mirko Rossini, Connal de Souza, Manav Garg, Moritz Firsching, Quoc V. Le, Yao Chen, Akhil Verghese, Ekin Dogus Cubuk, David H. Park"
         }
       ]
     },
@@ -228,20 +228,20 @@
       "itemCount": 2,
       "items": [
         {
-          "title": "ERP-XTTN: Interpretable Prototype-Guided Cross-Attention for Cross-Subject ERP Classification",
-          "url": "https://arxiv.org/abs/2606.02939",
-          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
+          "title": "TGSD: Topology-Guided State-Space Diffusion for EEG Spatial Super-Resolution",
+          "url": "https://arxiv.org/abs/2606.03998",
+          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Interpretable brain-computer interface classifiers that generalize across subjects without calibration remain an open challenge. We test whether prototype-based cross-attention can provide competitive, interpretable event-related potential…",
-          "authors": "Charlotte Genevier Wyman, Leanne Hirshfield"
+          "summary": "Low-density EEG is more suitable for wearable and IoT-based brain sensing, but sparse electrode sampling often lacks sufficient spatial information to characterize cross-regional neural activity. EEG spatial super-resolution aims to…",
+          "authors": "Zijian Kang, Weiming Zeng, Yueyang Li, Shengyu Gong, Hongjie Yan, Wai Ting Siok, Nizhuan Wang"
         },
         {
-          "title": "Stable Hybrid Cross-Attention Fusion for Audio-Visual Event Recognition",
-          "url": "https://arxiv.org/abs/2606.03747",
-          "publishedDate": "Wed, 03 Jun 2026 00:00:00 -0400",
+          "title": "Gravity-Aware Hierarchical Routing for Lightweight SensorLLM on Human Activity Recognition",
+          "url": "https://arxiv.org/abs/2606.04019",
+          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Audio-Visual Event Recognition (AVER) is essential for intelligent urban monitoring systems, where robust multimodal understanding of complex environments is required. This paper proposes a stable hybrid cross-attention fusion framework…",
-          "authors": "Parinaz Binandeh Dehaghani, Danilo Pena, A. Pedro Aguiar"
+          "summary": "Recent studies on sensor-language alignment have shown that two-stage frameworks can improve the semantic modeling ability of wearable-sensor human activity recognition (HAR), where SensorLLM-style methods first perform motion-to-language…",
+          "authors": "Hao Li, Mingrui Zheng, Yasuyuki Tahara, Yuichi Sei"
         }
       ]
     }
