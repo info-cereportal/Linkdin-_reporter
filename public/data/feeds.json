@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T23:49:00.566Z",
+  "generatedAt": "2026-06-05T23:48:53.712Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "The Variance Brain Foundation Models Forgot: Third-Order Statistics Predict Cognition Where Billion-Parameter Models Fail",
-          "url": "https://arxiv.org/abs/2606.04010",
-          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
+          "title": "Bio-plausible Neuromorphic Disturbance Observer Based on Emulation Theory: Extended Version",
+          "url": "https://arxiv.org/abs/2606.05189",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brain foundation models (BFMs) are self-supervised Transformers pretrained on fMRI data. We posit that these models should capture each subject's cognitive performance from their fMRI signal. Yet across three state-of-the-art BFMs and…",
-          "authors": "Giovanni Marraffini, Gabriel Mahuas, Trinidad Borrell, Victoria Shevchenko, Demian Wassermann"
+          "summary": "Biological neural systems achieve remarkable robustness and adaptability in uncertain environments through sparse, event-driven spike-based information processing and adaptive regulation. Inspired by this paradigm, this paper develops a…",
+          "authors": "Hongfu Xu, Xiaoyu Guo, Shengbo Wang, Shuo Gao"
         },
         {
-          "title": "Towards an Ideometrics-Based Understanding of Consciousness, Time, Space and Dreams",
-          "url": "https://arxiv.org/abs/2606.04011",
-          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
+          "title": "Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature",
+          "url": "https://arxiv.org/abs/2606.05206",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "From an ideometrics-based perspective, consciousness may reduce the informational entropy of many randomly possible future outcomes through ideometric processes. Consciousness enables a system to internally simulate alternative futures and…",
-          "authors": "Igor Rudan"
+          "summary": "Fragmentation is common in interdisciplinary fields with diverse methods and theoretical commitments. Predictive coding neuroscience is a clear example: its literature spans computational theory, electrophysiology, imaging, behavior, and…",
+          "authors": "Hamed Nejat, Alexander Maier, Jesse Spencer-Smith, André M. Bastos"
         },
         {
-          "title": "SC-TauPath: A Structural Connectivity Attribution Framework for Mapping Tau Propagation Pathways in Alzheimer's Disease",
-          "url": "https://arxiv.org/abs/2606.04066",
-          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
+          "title": "Cross-scale spatially-aware generative modeling of transcriptomic programs underlying neurodegenerative brain organization",
+          "url": "https://arxiv.org/abs/2606.05870",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Understanding how structural connections are associated with tau propagation in Alzheimer's disease (AD) remains a central open question, yet existing computational models either rely heavily on biophysical assumptions or lack…",
-          "authors": "Jing Zhang, Norman Scheel, Minheng Chen, Tong Chen, Yanjun Lyu, David C. Zhu, Rong Zhang, Dajiang Zhu"
+          "summary": "Neurodegenerative disorders such as Alzheimer's disease exhibit highly organized patterns of regional brain vulnerability, yet the biological mechanisms underlying this spatial selectivity remain incompletely understood. Existing…",
+          "authors": "Krishnakumar Vaithianathan (for the Alzheimer's Disease Neuroimaging Initiative)"
         },
         {
-          "title": "Discrete signaling mediates chaotic regularization in recurrent neural networks",
-          "url": "https://arxiv.org/abs/2606.04426",
-          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
+          "title": "Early psychosis shows deviations in scaling behaviour within a critical regime",
+          "url": "https://arxiv.org/abs/2606.06290",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Cortical circuits operate in a regime of intrinsic chaos, where even tiny changes in input can lead to divergent neural responses. Yet, remarkably, population codes in the brain vary smoothly with sensory stimuli, forming coherent…",
-          "authors": "Jan Bauer, Christian Keup, Jonathan Kadmon, Moritz Helias"
+          "summary": "Accumulating evidence suggests that large-scale brain activity exhibits scale-invariant dynamics consistent with operation in a near-critical regime. Such dynamics have been associated with long-range correlations, efficient information…",
+          "authors": "Irem Topal, Paola Moreno Ancalmo, Guillermo Montana Valverde, Philipp Homan, Wolfram Hinzen"
         },
         {
-          "title": "Neural Langevin Machine: a local asymmetric learning rule can be creative",
-          "url": "https://arxiv.org/abs/2506.23546",
-          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
+          "title": "Intrinsic Computational Functionalism: From Observer-Relative Maps to Observer-Independent Structures",
+          "url": "https://arxiv.org/abs/2606.06424",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Fixed points of recurrent neural networks can be leveraged to store and generate information. These fixed points can be captured by the Boltzmann-Gibbs measure, which leads to neural Langevin dynamics that can be used to find them for…",
-          "authors": "Zhendong Yu, Weizhong Huang, Haiping Huang"
+          "summary": "Anti-computational arguments show that externally imposed computational interpretations cannot ground consciousness, but they do not establish that all computational organisations are observer-relative. We develop intrinsic computational…",
+          "authors": "Shuqin Ma (School of Philosophy, Fudan University, Shanghai, China, Sussex Centre for Consciousness Science, University of Sussex, United Kingdom), Ryota Kanai (Araya Inc., Tokyo, Japan)"
         },
         {
-          "title": "Competition, stability, and functionality in excitatory-inhibitory neural circuits",
-          "url": "https://arxiv.org/abs/2512.05252",
-          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
+          "title": "Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation",
+          "url": "https://arxiv.org/abs/2606.06345",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Energy-based models have become a central paradigm for understanding computation and stability in both theoretical neuroscience and machine learning. However, the energetic framework typically relies on symmetry in synaptic or weight…",
-          "authors": "Simone Betteti, William Retnaraj, Alexander Davydov, Jorge Cortés, Francesco Bullo"
+          "summary": "Brain decoding is limited by the availability of labeled neural data, and remains challenging in low-data regimes. To address this issue, we investigate whether and when brain decoding can be boosted by augmenting small fMRI datasets with…",
+          "authors": "Yohann Benchetrit, Marlène Careil, Simon Dahan, Hubert Banville, Stéphane d'Ascoli, Jean-Rémi King"
         }
       ]
     },
@@ -62,6 +62,30 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "CDC: Ebola outbreak in Central Africa could reach 20,000 cases without strong countermeasures",
+          "url": "https://www.statnews.com/2026/06/05/cdc-ebola-modeling-study/?utm_campaign=rss",
+          "publishedDate": "Fri, 05 Jun 2026 22:24:52 +0000",
+          "source": "statnews.com",
+          "summary": "The Ebola outbreak in Central Africa could grow to 20,000 cases or more, depending on how quickly infected people are isolated to slow the spread, according to a new U.S. analysis.",
+          "authors": "Mike Stobbe — Associated Press"
+        },
+        {
+          "title": "STAT+: Newer GLP-1s, pushback on research cuts, and a protest",
+          "url": "https://www.statnews.com/2026/06/05/newer-glp-1s-pushback-on-research-cuts-and-a-protest-ada-in-30/?utm_campaign=rss",
+          "publishedDate": "Fri, 05 Jun 2026 21:22:33 +0000",
+          "source": "statnews.com",
+          "summary": "You're reading the web edition of STAT's ADA in 30 Seconds, from the American Diabetes Association's annual conference in New Orleans.",
+          "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "Texas AG investigating energy drinks",
+          "url": "https://www.statnews.com/2026/06/05/health-news-texas-ag-investigating-energy-drinks/?utm_campaign=rss",
+          "publishedDate": "Fri, 05 Jun 2026 13:17:35 +0000",
+          "source": "statnews.com",
+          "summary": "The limitations of private health insurance, the quiet collapse of America's research ethics watchdog and other Morning Rounds news",
+          "authors": "O. Rose Broderick"
+        },
         {
           "title": "HHS confirms Americans with high-risk Ebola exposures will have access to experimental therapy",
           "url": "https://www.statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/?utm_campaign=rss",
@@ -85,30 +109,6 @@
           "source": "statnews.com",
           "summary": "Due to a significant gender gap, far less is known about the health risks of early or late puberty onset among boys than girls.",
           "authors": "Ashleigh N. DeLuca"
-        },
-        {
-          "title": "What happens at a longevity festival?",
-          "url": "https://www.statnews.com/2026/06/04/longevity-science-vitalist-bay-festival-status-report-alex-hogan/?utm_campaign=rss",
-          "publishedDate": "Thu, 04 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "What happens at a longevity festival? On this week's STATus Report, Alex Hogan gets a dispatch from STAT's Sarah Todd.",
-          "authors": "Alex Hogan"
-        },
-        {
-          "title": "Is the military fueling eating disorders?",
-          "url": "https://www.statnews.com/2026/06/03/health-news-is-the-military-fueling-eating-disorders/?utm_campaign=rss",
-          "publishedDate": "Wed, 03 Jun 2026 11:58:31 +0000",
-          "source": "statnews.com",
-          "summary": "A brief hantavirus update, some good news about death, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "Top ultra-processed food researchers call for sweeping policy change: ‘The system is rigged’",
-          "url": "https://www.statnews.com/2026/06/03/ultra-processed-food-experts-want-sweeping-policy-changes/?utm_campaign=rss",
-          "publishedDate": "Wed, 03 Jun 2026 09:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "A survey finds that ultra-processed foods are a cross-partisan concern. And yet policy has been slow to follow.",
-          "authors": "Sarah Todd"
         }
       ]
     },
@@ -117,6 +117,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: What stripping civil service protections for thousands of federal workers will mean for HHS",
+          "url": "https://www.statnews.com/2026/06/05/schedule-f-changes-impacts-nih-cdc-fda/?utm_campaign=rss",
+          "publishedDate": "Fri, 05 Jun 2026 19:58:55 +0000",
+          "source": "statnews.com",
+          "summary": "Thousands of HHS staff who shape policy have had their employment status changed to a designation that makes it easier for them to be fired.",
+          "authors": "Anil Oza, Chelsea Cirruzzo, and Lizzy Lawrence"
+        },
+        {
+          "title": "Senior NIH official pushes MAHA strategy to skeptical ADA audience",
+          "url": "https://www.statnews.com/2026/06/05/ada-conference-new-orleans-richard-woychik-synergy-nih-maha/?utm_campaign=rss",
+          "publishedDate": "Fri, 05 Jun 2026 19:53:21 +0000",
+          "source": "statnews.com",
+          "summary": "An NIH advisor told researchers gathered at the American Diabetes Association conference that MAHA goals match the agency's priorities.",
+          "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "Tiny HHS office tasked with protecting research participants’ safety is running on fumes",
+          "url": "https://www.statnews.com/2026/06/05/hhs-cuts-office-human-research-protections-running-on-fumes/?utm_campaign=rss",
+          "publishedDate": "Fri, 05 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "OHRP has experienced an unprecedented exodus of ethics expertise, raising concerns about its ability to effectively protect volunteers.",
+          "authors": "Megan Molteni"
+        },
         {
           "title": "STAT+: Drug companies, patient groups urge FDA to pause commissioner’s voucher program",
           "url": "https://www.statnews.com/2026/06/04/fda-commissioners-voucher-program-town-hall-pharma-patients-urge-pause/?utm_campaign=rss",
@@ -140,30 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "A large study of older adults in Brazil found that adding extra salt at the table is still a common habit, especially among men. While too much salt is linked to serious health problems and faster cognitive decline, researchers discovered…",
           "authors": ""
-        },
-        {
-          "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
-          "publishedDate": "Thu, 04 Jun 2026 09:18:44 EDT",
-          "source": "sciencedaily.com",
-          "summary": "For decades, pancreatic cancer has been one of the most lethal cancers, with few effective treatment options. A new drug, daraxonrasib, targets the KRAS mutation that fuels most pancreatic tumors—something many scientists once thought…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover the master clock that controls biological growth and development",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260604044236.htm",
-          "publishedDate": "Thu, 04 Jun 2026 05:36:05 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A newly discovered genetic clock acts as the master timekeeper for development, orchestrating crucial bursts of gene activity throughout a worm’s growth. When the clock is disrupted, development stops, offering fresh clues about how…",
-          "authors": ""
-        },
-        {
-          "title": "Cancer’s favorite escape trick may actually make it easier to kill",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260603023911.htm",
-          "publishedDate": "Thu, 04 Jun 2026 01:30:22 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a surprising new way the immune system fights cancer, overturning a core belief that has guided immunology for decades. The research found that when cancer cells shut down a key immune-recognition molecule called…",
-          "authors": ""
         }
       ]
     },
@@ -173,75 +173,83 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Beyond Static Priors: Dynamic Neural Guidance for Large-Scale Ant Colony Optimization",
-          "url": "https://arxiv.org/abs/2606.04039",
-          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
+          "title": "Quantifying Uncertainty In Wide Two-Layer Neural Networks: On The Law Of The Limiting Fluctuation Process",
+          "url": "https://arxiv.org/abs/2606.05982",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neural-guided Ant Colony Optimization (ACO) suffers from a fundamental training-inference misalignment: policies are typically trained to generate static priors (e.g., heatmaps), yet deployed to guide iterative, long-horizon search…",
-          "authors": "Dat Thanh Tran, Van Khu Vu, Yining Ma"
+          "summary": "Uncertainty quantification in neural networks prediction is a main issue for usual applications. Our approach seeks at reducing computation costs by directly evaluating uncertainty using PDE's information on the asymptotic variance, rather…",
+          "authors": "Arnaud Descours (LSAF), Arnaud Guillin (LMBP), Geoffrey Lacour (MaIAGE), Manon Michel (LMBP), Boris Nectoux (LMBP), Paul Stos (UCA, LMBP)"
         },
         {
-          "title": "U-Net-Accelerated Quality-Diversity Optimization for Climate-Adaptive Urban Layouts",
-          "url": "https://arxiv.org/abs/2606.04658",
-          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
+          "title": "Hub-Aware Hybrid Search: Accelerating the Locally Aligned Ant Technique",
+          "url": "https://arxiv.org/abs/2606.06198",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Optimizing urban layouts for climate adaptation requires balancing building density with cold-air ventilation. Because physics-based climate simulations are computationally expensive, planners typically evaluate fewer than ten manual…",
-          "authors": "Alexander Hagg, Tania Guerrero, Dirk Reith"
+          "summary": "Finding manifold structures in noisy and high-dimensional point clouds is a challenging but important problem. In astronomical observation survey and simulation data the detection of filaments, streams (1D), walls (2D) and clusters (3D)…",
+          "authors": "Simone Vilardi, Reynier Peletier, Felipe Contreras, Kerstin Bunte"
         },
         {
-          "title": "Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm Optimization",
-          "url": "https://arxiv.org/abs/2606.05150",
-          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
+          "title": "Bio-plausible Neuromorphic Disturbance Observer Based on Emulation Theory: Extended Version",
+          "url": "https://arxiv.org/abs/2606.05189",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The radial basis function neural network (RBFN) trained with a gradient descending algorithm provides an effective fully connected structure in both shallow and deep networks. The error correction (ErrCor), a state-of-the-art…",
-          "authors": "Ammar Hoori, Yuichi Motai"
+          "summary": "Biological neural systems achieve remarkable robustness and adaptability in uncertain environments through sparse, event-driven spike-based information processing and adaptive regulation. Inspired by this paradigm, this paper develops a…",
+          "authors": "Hongfu Xu, Xiaoyu Guo, Shengbo Wang, Shuo Gao"
         },
         {
-          "title": "ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion",
-          "url": "https://arxiv.org/abs/2606.04468",
-          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
+          "title": "Mutation Without Variation: Convergence Dynamics in LLM-Driven Program Evolution",
+          "url": "https://arxiv.org/abs/2606.05408",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Offline multi-objective optimization (Offline MOO) aims to discover novel Pareto-optimal designs based on static datasets without expensive environment interactions. While recent generative methods have achieved notable success, they…",
-          "authors": "Ruiqing Sun, Sen Yang, Dawei Feng, Bo Ding, Yijie Wang, Huaimin Wang"
+          "summary": "When an LLM repeatedly mutates a program, does it explore new forms or circle back to the same ones? We study this question by analyzing LLM-driven mutation chains in the absence of selection pressure within a domain-specific language,…",
+          "authors": "Can Gurkan, Forrest Stonedahl, Uri Wilensky"
         },
         {
-          "title": "Dynamic Multi-Pair Trading Strategy in Cryptocurrency Markets with Deep Reinforcement Learning",
-          "url": "https://arxiv.org/abs/2606.04574",
-          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
+          "title": "From Prediction to Self: Developmental Conditions for Agency in Minimal Neural Systems",
+          "url": "https://arxiv.org/abs/2606.05605",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This study aims to determine whether the application of Deep Reinforcement Learning (DRL) as a specialized execution overlay can enhance pair trading in highly volatile cryptocurrency markets. Although classical implementations of the…",
-          "authors": "Damian Lebiedź, Robert Ślepaczuk"
+          "summary": "How does a system that merely predicts the world come to distinguish its own causal influence from everything else? We trace this transition in a minimal 192-dimensional GRU through 40 controlled experiments arranged as a developmental…",
+          "authors": "Evan Ye"
         },
         {
-          "title": "AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions",
-          "url": "https://arxiv.org/abs/2312.08472",
-          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
+          "title": "Sample-efficient Low-level Motion Planning for Robotic Manipulation Tasks via Zero-shot Transfer Learning",
+          "url": "https://arxiv.org/abs/2606.06041",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Transcendental functions, such as the exponential, are central to scientific computing, yet they cannot be natively calculated by digital hardware. Instead, computers must approximate these functions by combining basic operations, such as…",
-          "authors": "Esteban Real, Mirko Rossini, Connal de Souza, Manav Garg, Moritz Firsching, Quoc V. Le, Yao Chen, Akhil Verghese, Ekin Dogus Cubuk, David H. Park"
+          "summary": "As robotic systems become more sophisticated, the growing complexity of their motion planning models and the longer training times pose substantial challenges. Evolutionary algorithms such as the Sample-efficient Cross-Entropy Method…",
+          "authors": "Yuanzhi He, Victor Romero-Cano, José J. Patiño, Juan David Hernández, William Sawtell, Gualtiero Colombo"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 3,
       "items": [
         {
-          "title": "TGSD: Topology-Guided State-Space Diffusion for EEG Spatial Super-Resolution",
+          "title": "Subarray based Wideband Beamforming and Variational Sparse CSI Estimation for Low-Resolution MU THz MIMO Systems",
+          "url": "https://arxiv.org/abs/2606.06110",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "This work conceives a unified channel estimation and beamforming framework, formulated within the principles of variational Bayesian inference. Recognizing the limitations imposed by hardware constraints, frequency-dependent propagation…",
+          "authors": "Abhisha Garg, Suraj Srivastava, Akash Kumar, Aditya K. Jagannatham"
+        },
+        {
+          "title": "Clinical Utility and Feasibility of Smartphone-based EEG in Kenya: A Multicenter Observational Study",
+          "url": "https://arxiv.org/abs/2605.08157",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Purpose: Access to electroencephalography (EEG) remains limited across low- and middle-income countries (LMICs) due to cost, infrastructure requirements, and a shortage of trained staff. This study evaluated the feasibility and clinical…",
+          "authors": "Nomin Enkhtsetseg, William Lehn-Schiøler, Anton Mosquera Storgaard, Magnus Guldberg Pedersen, Dylan Rice, George Wambugu, Nshimiyimana Jules Fidele, Melita Cacic Hribljan, Anca Alina Arbune, Sidsel Armand Larsen, Sandor Beniczky, Farrah J. Mateen"
+        },
+        {
+          "title": "TGSD: Topology-Guided State-Space Diffusion Framework for EEG Spatial Super-Resolution",
           "url": "https://arxiv.org/abs/2606.03998",
-          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
+          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
           "summary": "Low-density EEG is more suitable for wearable and IoT-based brain sensing, but sparse electrode sampling often lacks sufficient spatial information to characterize cross-regional neural activity. EEG spatial super-resolution aims to…",
           "authors": "Zijian Kang, Weiming Zeng, Yueyang Li, Shengyu Gong, Hongjie Yan, Wai Ting Siok, Nizhuan Wang"
-        },
-        {
-          "title": "Gravity-Aware Hierarchical Routing for Lightweight SensorLLM on Human Activity Recognition",
-          "url": "https://arxiv.org/abs/2606.04019",
-          "publishedDate": "Thu, 04 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Recent studies on sensor-language alignment have shown that two-stage frameworks can improve the semantic modeling ability of wearable-sensor human activity recognition (HAR), where SensorLLM-style methods first perform motion-to-language…",
-          "authors": "Hao Li, Mingrui Zheng, Yasuyuki Tahara, Yuichi Sei"
         }
       ]
     }
