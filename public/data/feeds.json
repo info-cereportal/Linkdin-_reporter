@@ -1,61 +1,12 @@
 {
-  "generatedAt": "2026-06-05T23:48:53.712Z",
+  "generatedAt": "2026-06-06T23:39:58.648Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Bio-plausible Neuromorphic Disturbance Observer Based on Emulation Theory: Extended Version",
-          "url": "https://arxiv.org/abs/2606.05189",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Biological neural systems achieve remarkable robustness and adaptability in uncertain environments through sparse, event-driven spike-based information processing and adaptive regulation. Inspired by this paradigm, this paper develops a…",
-          "authors": "Hongfu Xu, Xiaoyu Guo, Shengbo Wang, Shuo Gao"
-        },
-        {
-          "title": "Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature",
-          "url": "https://arxiv.org/abs/2606.05206",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Fragmentation is common in interdisciplinary fields with diverse methods and theoretical commitments. Predictive coding neuroscience is a clear example: its literature spans computational theory, electrophysiology, imaging, behavior, and…",
-          "authors": "Hamed Nejat, Alexander Maier, Jesse Spencer-Smith, André M. Bastos"
-        },
-        {
-          "title": "Cross-scale spatially-aware generative modeling of transcriptomic programs underlying neurodegenerative brain organization",
-          "url": "https://arxiv.org/abs/2606.05870",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Neurodegenerative disorders such as Alzheimer's disease exhibit highly organized patterns of regional brain vulnerability, yet the biological mechanisms underlying this spatial selectivity remain incompletely understood. Existing…",
-          "authors": "Krishnakumar Vaithianathan (for the Alzheimer's Disease Neuroimaging Initiative)"
-        },
-        {
-          "title": "Early psychosis shows deviations in scaling behaviour within a critical regime",
-          "url": "https://arxiv.org/abs/2606.06290",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Accumulating evidence suggests that large-scale brain activity exhibits scale-invariant dynamics consistent with operation in a near-critical regime. Such dynamics have been associated with long-range correlations, efficient information…",
-          "authors": "Irem Topal, Paola Moreno Ancalmo, Guillermo Montana Valverde, Philipp Homan, Wolfram Hinzen"
-        },
-        {
-          "title": "Intrinsic Computational Functionalism: From Observer-Relative Maps to Observer-Independent Structures",
-          "url": "https://arxiv.org/abs/2606.06424",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Anti-computational arguments show that externally imposed computational interpretations cannot ground consciousness, but they do not establish that all computational organisations are observer-relative. We develop intrinsic computational…",
-          "authors": "Shuqin Ma (School of Philosophy, Fudan University, Shanghai, China, Sussex Centre for Consciousness Science, University of Sussex, United Kingdom), Ryota Kanai (Araya Inc., Tokyo, Japan)"
-        },
-        {
-          "title": "Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation",
-          "url": "https://arxiv.org/abs/2606.06345",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Brain decoding is limited by the availability of labeled neural data, and remains challenging in low-data regimes. To address this issue, we investigate whether and when brain decoding can be boosted by augmenting small fMRI datasets with…",
-          "authors": "Yohann Benchetrit, Marlène Careil, Simon Dahan, Hubert Banville, Stéphane d'Ascoli, Jean-Rémi King"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -118,6 +69,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Ozempic and similar weight-loss drugs linked to 30% lower breast cancer risk",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260605023400.htm",
+          "publishedDate": "Sat, 06 Jun 2026 09:28:24 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A large study found that women taking GLP-1 drugs, the medication class behind Ozempic, Wegovy, Mounjaro, and Zepbound, were about 30% less likely to develop breast cancer. Researchers say the findings are promising but not yet proof, and…",
+          "authors": ""
+        },
+        {
+          "title": "The supplements older adults actually need and the ones they don&#039;t",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260605023408.htm",
+          "publishedDate": "Sat, 06 Jun 2026 08:40:28 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Supplements are often marketed as shortcuts to better health, but for many older adults, the real issue is whether they have a specific deficiency. Vitamins like B12 and D can play an important role when levels are low, while protein may…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists sound the alarm as dangerous amoebas spread globally",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260606015137.htm",
+          "publishedDate": "Sat, 06 Jun 2026 07:35:28 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists warn that free-living amoebae may be an underappreciated public health threat, capable of causing deadly infections and shielding other dangerous microbes from water treatment. Climate change and aging infrastructure could help…",
+          "authors": ""
+        },
+        {
           "title": "STAT+: What stripping civil service protections for thousands of federal workers will mean for HHS",
           "url": "https://www.statnews.com/2026/06/05/schedule-f-changes-impacts-nih-cdc-fda/?utm_campaign=rss",
           "publishedDate": "Fri, 05 Jun 2026 19:58:55 +0000",
@@ -134,35 +109,11 @@
           "authors": "Elizabeth Cooney"
         },
         {
-          "title": "Tiny HHS office tasked with protecting research participants’ safety is running on fumes",
-          "url": "https://www.statnews.com/2026/06/05/hhs-cuts-office-human-research-protections-running-on-fumes/?utm_campaign=rss",
-          "publishedDate": "Fri, 05 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "OHRP has experienced an unprecedented exodus of ethics expertise, raising concerns about its ability to effectively protect volunteers.",
-          "authors": "Megan Molteni"
-        },
-        {
-          "title": "STAT+: Drug companies, patient groups urge FDA to pause commissioner’s voucher program",
-          "url": "https://www.statnews.com/2026/06/04/fda-commissioners-voucher-program-town-hall-pharma-patients-urge-pause/?utm_campaign=rss",
-          "publishedDate": "Thu, 04 Jun 2026 20:53:33 +0000",
-          "source": "statnews.com",
-          "summary": "The White House has used the program to reward companies that help its political goals.",
-          "authors": "Lizzy Lawrence"
-        },
-        {
-          "title": "STAT+: RFK Jr.’s second year: Vacancies, not vaccines",
-          "url": "https://www.statnews.com/2026/06/04/kennedy-hhs-challenges-wins-politics-nih-schedule-f-dc-diagnosis/?utm_campaign=rss",
-          "publishedDate": "Thu, 04 Jun 2026 15:42:48 +0000",
-          "source": "statnews.com",
-          "summary": "Assessing the health secretary's biggest challenges, and a look at new rules that inject politics into the NIH.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "A study of 8,300 older adults revealed a surprising salt habit",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260604044304.htm",
-          "publishedDate": "Thu, 04 Jun 2026 10:05:04 EDT",
+          "title": "AI-designed universal coronavirus vaccine passes first human trial",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm",
+          "publishedDate": "Fri, 05 Jun 2026 11:42:19 EDT",
           "source": "sciencedaily.com",
-          "summary": "A large study of older adults in Brazil found that adding extra salt at the table is still a common habit, especially among men. While too much salt is linked to serious health problems and faster cognitive decline, researchers discovered…",
+          "summary": "Scientists have successfully tested an AI-designed universal coronavirus vaccine in humans for the first time, finding it to be safe and well tolerated. The vaccine generated immune responses against multiple coronaviruses, including…",
           "authors": ""
         }
       ]
@@ -170,86 +121,61 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Quantifying Uncertainty In Wide Two-Layer Neural Networks: On The Law Of The Limiting Fluctuation Process",
-          "url": "https://arxiv.org/abs/2606.05982",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Uncertainty quantification in neural networks prediction is a main issue for usual applications. Our approach seeks at reducing computation costs by directly evaluating uncertainty using PDE's information on the asymptotic variance, rather…",
-          "authors": "Arnaud Descours (LSAF), Arnaud Guillin (LMBP), Geoffrey Lacour (MaIAGE), Manon Michel (LMBP), Boris Nectoux (LMBP), Paul Stos (UCA, LMBP)"
-        },
-        {
-          "title": "Hub-Aware Hybrid Search: Accelerating the Locally Aligned Ant Technique",
-          "url": "https://arxiv.org/abs/2606.06198",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Finding manifold structures in noisy and high-dimensional point clouds is a challenging but important problem. In astronomical observation survey and simulation data the detection of filaments, streams (1D), walls (2D) and clusters (3D)…",
-          "authors": "Simone Vilardi, Reynier Peletier, Felipe Contreras, Kerstin Bunte"
-        },
-        {
-          "title": "Bio-plausible Neuromorphic Disturbance Observer Based on Emulation Theory: Extended Version",
-          "url": "https://arxiv.org/abs/2606.05189",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Biological neural systems achieve remarkable robustness and adaptability in uncertain environments through sparse, event-driven spike-based information processing and adaptive regulation. Inspired by this paradigm, this paper develops a…",
-          "authors": "Hongfu Xu, Xiaoyu Guo, Shengbo Wang, Shuo Gao"
-        },
-        {
-          "title": "Mutation Without Variation: Convergence Dynamics in LLM-Driven Program Evolution",
-          "url": "https://arxiv.org/abs/2606.05408",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "When an LLM repeatedly mutates a program, does it explore new forms or circle back to the same ones? We study this question by analyzing LLM-driven mutation chains in the absence of selection pressure within a domain-specific language,…",
-          "authors": "Can Gurkan, Forrest Stonedahl, Uri Wilensky"
-        },
-        {
-          "title": "From Prediction to Self: Developmental Conditions for Agency in Minimal Neural Systems",
-          "url": "https://arxiv.org/abs/2606.05605",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "How does a system that merely predicts the world come to distinguish its own causal influence from everything else? We trace this transition in a minimal 192-dimensional GRU through 40 controlled experiments arranged as a developmental…",
-          "authors": "Evan Ye"
-        },
-        {
-          "title": "Sample-efficient Low-level Motion Planning for Robotic Manipulation Tasks via Zero-shot Transfer Learning",
-          "url": "https://arxiv.org/abs/2606.06041",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "As robotic systems become more sophisticated, the growing complexity of their motion planning models and the longer training times pose substantial challenges. Evolutionary algorithms such as the Sample-efficient Cross-Entropy Method…",
-          "authors": "Yuanzhi He, Victor Romero-Cano, José J. Patiño, Juan David Hernández, William Sawtell, Gualtiero Colombo"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 3,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Subarray based Wideband Beamforming and Variational Sparse CSI Estimation for Low-Resolution MU THz MIMO Systems",
-          "url": "https://arxiv.org/abs/2606.06110",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This work conceives a unified channel estimation and beamforming framework, formulated within the principles of variational Bayesian inference. Recognizing the limitations imposed by hardware constraints, frequency-dependent propagation…",
-          "authors": "Abhisha Garg, Suraj Srivastava, Akash Kumar, Aditya K. Jagannatham"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
         },
         {
-          "title": "Clinical Utility and Feasibility of Smartphone-based EEG in Kenya: A Multicenter Observational Study",
-          "url": "https://arxiv.org/abs/2605.08157",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Purpose: Access to electroencephalography (EEG) remains limited across low- and middle-income countries (LMICs) due to cost, infrastructure requirements, and a shortage of trained staff. This study evaluated the feasibility and clinical…",
-          "authors": "Nomin Enkhtsetseg, William Lehn-Schiøler, Anton Mosquera Storgaard, Magnus Guldberg Pedersen, Dylan Rice, George Wambugu, Nshimiyimana Jules Fidele, Melita Cacic Hribljan, Anca Alina Arbune, Sidsel Armand Larsen, Sandor Beniczky, Farrah J. Mateen"
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
         },
         {
-          "title": "TGSD: Topology-Guided State-Space Diffusion Framework for EEG Spatial Super-Resolution",
-          "url": "https://arxiv.org/abs/2606.03998",
-          "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Low-density EEG is more suitable for wearable and IoT-based brain sensing, but sparse electrode sampling often lacks sufficient spatial information to characterize cross-regional neural activity. EEG spatial super-resolution aims to…",
-          "authors": "Zijian Kang, Weiming Zeng, Yueyang Li, Shengyu Gong, Hongjie Yan, Wai Ting Siok, Nizhuan Wang"
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }
