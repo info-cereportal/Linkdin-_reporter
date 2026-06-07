@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-06-07T23:41:44.935Z",
+    "date": "2026-06-07",
+    "topic": "深層学習と学習",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "Efficient FPGA accelerator for low-power high-speed BCI motor imagery classification using novel deep learning.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42250530/",
+    "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n深層学習と学習の最新成果を整理しました。\n\n🔬 深層学習 × 学習 × ブレイン・コンピュータ・インターフェース(BCI) × 注意機構\n\n📊 注目すべきデータ：\n→ To address these challenges, a novel DL model, Few-Shot Learning (FSL)-Dual Attention-based SqueezeNet, is designed and tested.\n→ It achieves accuracies of 0.9704, 0.8702, and 0.9568, respectively, outperforming well-known DL models such as EfficientNet (0.9426 in intra-session).\n→ The proposed network achieves an accuracy of over 98% across all datasets, proving its effectiveness for MI classification using EEG signals.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nBCI・ニューラルインターフェースの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Efficient FPGA accelerator for low-power high-speed BCI motor imagery classification using novel deep learning.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42250530/\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #計算論的神経科学",
+    "summaryJP": "深層学習と学習 — 注目すべき3つの示唆（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Saravanakumar C, Srinivasan C, Immaculate Joy S",
+    "publishedDate": "2026-06-06",
+    "paperId": "42250530",
+    "paperSource": "pubmed",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "深層学習",
+      "学習",
+      "ブレイン・コンピュータ・インターフェース(BCI)",
+      "注意機構",
+      "EEG",
+      "PET"
+    ],
+    "abstractExcerpt": "A brain-computer interface (BCI) is an advanced technology that enables direct communication between the human brain and external systems, eliminating the need for intermediaries. Electroencephalography (EEG) is a commonly used signal for…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-06-06T23:39:58.148Z",
     "date": "2026-06-06",
     "topic": "深層学習と学習",
@@ -1244,29 +1270,6 @@
       "学習"
     ],
     "abstractExcerpt": "Deep learning-based image reconstruction (DLR) is a widely adopted technology in clinical settings, and recently, the development of vendor-neutral DLR software has been actively pursued. It is valuable to assess the applicability of this…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-24T12:59:20.869Z",
-    "date": "2026-05-24",
-    "topic": "深層学習と学習",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "Isolating Eye-Movement Artifacts from EEG Signals.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42175605/",
-    "formatted": "深層学習と学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 EEG × 深層学習 × 学習\n\n> The electroencephalogram (EEG) provides a direct measure of brain electrical activity but is typically contaminated by artifacts, most notably those arising from eye movements. Such artifacts are often removed using blind source separation techniques such as independent...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Isolating Eye-Movement Artifacts from EEG Signals.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42175605/\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #BrainComputerInterface",
-    "summaryJP": "深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
-    "paperAuthors": "Christian O'Reilly, Scott Huberty",
-    "publishedDate": "2026-05-23",
-    "paperId": "42175605",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "EEG",
-      "深層学習",
-      "学習"
-    ],
-    "abstractExcerpt": "The electroencephalogram (EEG) provides a direct measure of brain electrical activity but is typically contaminated by artifacts, most notably those arising from eye movements. Such artifacts are often removed using blind source separation…",
     "figureUrls": []
   }
 ]

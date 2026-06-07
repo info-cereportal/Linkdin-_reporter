@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T23:39:58.648Z",
+  "generatedAt": "2026-06-07T23:41:45.275Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,6 +69,14 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Ancient Chinese medicine could transform hair loss treatment",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260606015144.htm",
+          "publishedDate": "Sun, 07 Jun 2026 04:19:08 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A traditional Chinese medicinal root used for over a thousand years is attracting new scientific attention for its potential to combat hair loss. Studies suggest Polygonum multiflorum can block harmful hormones, activate hair-growth…",
+          "authors": ""
+        },
+        {
           "title": "Ozempic and similar weight-loss drugs linked to 30% lower breast cancer risk",
           "url": "https://www.sciencedaily.com/releases/2026/06/260605023400.htm",
           "publishedDate": "Sat, 06 Jun 2026 09:28:24 EDT",
@@ -107,14 +115,6 @@
           "source": "statnews.com",
           "summary": "An NIH advisor told researchers gathered at the American Diabetes Association conference that MAHA goals match the agency's priorities.",
           "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "AI-designed universal coronavirus vaccine passes first human trial",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm",
-          "publishedDate": "Fri, 05 Jun 2026 11:42:19 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have successfully tested an AI-designed universal coronavirus vaccine in humans for the first time, finding it to be safe and well tolerated. The vaccine generated immune responses against multiple coronaviruses, including…",
-          "authors": ""
         }
       ]
     },

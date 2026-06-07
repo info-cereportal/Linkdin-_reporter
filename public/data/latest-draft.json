@@ -1,22 +1,26 @@
 {
-  "generatedAt": "2026-06-06T23:39:58.148Z",
-  "date": "2026-06-06",
+  "generatedAt": "2026-06-07T23:41:44.935Z",
+  "date": "2026-06-07",
   "topic": "深層学習と学習",
-  "templateName": "data-driven",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Deep Learning Inverse Design of Phase-Change Reconfigurable Terahertz Metadevices for Multidimensional Secure Communication.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42249641/",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、深層学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 深層学習 × 学習\n\n> The exponential rise in data exchange and cyber threats in next-generation 6G networks demands communication systems that are inherently secure at the physical layer. Terahertz (THz) waves combine huge bandwidth with strong directionality, offering a fertile platform for...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Deep Learning Inverse Design of Phase-Change Reconfigurable Terahertz Metadevices for Multidimensional Secure Communication.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42249641/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #DeepLearning",
-  "summaryJP": "深層学習と学習 — 数値で示された新事実（ニューロAI・計算論）",
-  "paperAuthors": "Yisheng Dong, Xieyu Chen, Aarthy Nagarajan, Yi Yang, Zhihao Wang, Rui Yu",
+  "paperTitle": "Efficient FPGA accelerator for low-power high-speed BCI motor imagery classification using novel deep learning.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42250530/",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n深層学習と学習の最新成果を整理しました。\n\n🔬 深層学習 × 学習 × ブレイン・コンピュータ・インターフェース(BCI) × 注意機構\n\n📊 注目すべきデータ：\n→ To address these challenges, a novel DL model, Few-Shot Learning (FSL)-Dual Attention-based SqueezeNet, is designed and tested.\n→ It achieves accuracies of 0.9704, 0.8702, and 0.9568, respectively, outperforming well-known DL models such as EfficientNet (0.9426 in intra-session).\n→ The proposed network achieves an accuracy of over 98% across all datasets, proving its effectiveness for MI classification using EEG signals.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nBCI・ニューラルインターフェースの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Efficient FPGA accelerator for low-power high-speed BCI motor imagery classification using novel deep learning.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42250530/\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #計算論的神経科学",
+  "summaryJP": "深層学習と学習 — 注目すべき3つの示唆（BCI・ニューラルインターフェース）",
+  "paperAuthors": "Saravanakumar C, Srinivasan C, Immaculate Joy S",
   "publishedDate": "2026-06-06",
-  "paperId": "42249641",
+  "paperId": "42250530",
   "paperSource": "pubmed",
-  "themeArea": "ニューロAI・計算論",
+  "themeArea": "BCI・ニューラルインターフェース",
   "jpKeywords": [
     "深層学習",
-    "学習"
+    "学習",
+    "ブレイン・コンピュータ・インターフェース(BCI)",
+    "注意機構",
+    "EEG",
+    "PET"
   ],
-  "abstractExcerpt": "The exponential rise in data exchange and cyber threats in next-generation 6G networks demands communication systems that are inherently secure at the physical layer. Terahertz (THz) waves combine huge bandwidth with strong directionality,…",
+  "abstractExcerpt": "A brain-computer interface (BCI) is an advanced technology that enables direct communication between the human brain and external systems, eliminating the need for intermediaries. Electroencephalography (EEG) is a commonly used signal for…",
   "figureUrls": []
 }
