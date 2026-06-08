@@ -1,18 +1,75 @@
 {
-  "generatedAt": "2026-06-07T23:41:45.275Z",
+  "generatedAt": "2026-06-08T23:49:57.035Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 4,
+      "items": [
+        {
+          "title": "Fixed point compositionality via low-rank gluing rules in inhibition-dominated threshold-linear networks",
+          "url": "https://arxiv.org/abs/2606.07336",
+          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Brains routinely generate highly flexible and complex behaviors on a relatively stable structure and limited resources. A key mechanism underlying this ability is compositionality, which allows the brain to efficiently decompose complex…",
+          "authors": "Juliana Londono Alvarez"
+        },
+        {
+          "title": "The Identity Trap in EEG Foundation Models: A Diagnostic Audit",
+          "url": "https://arxiv.org/abs/2606.06647",
+          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Objective. EEG foundation models (FMs) report strong accuracy on clinical resting-state EEG. However, high accuracy under subject-disjoint cross-validation remains ambiguous: it can reflect a genuine clinical biomarker, or subject-identity…",
+          "authors": "Jun-You Lin, Ying Choon Wu, Tzyy-Ping Jung"
+        },
+        {
+          "title": "Deep Learning Pose Estimation for Multi-Label Recognition of Combined Hyperkinetic Movement Disorders",
+          "url": "https://arxiv.org/abs/2602.00163",
+          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Hyperkinetic movement disorders (HMDs) such as dystonia, tremor, chorea, myoclonus, and tics are disabling motor manifestations across childhood and adulthood. Their fluctuating, intermittent, and frequently co-occurring expressions hinder…",
+          "authors": "Laura Cif, Diane Demailly, Gabriella A. Horvàth, Juan Dario Ortigoza Escobar, Nathalie Dorison, Mayté Castro Jiménez, Cécile A. Hubsch, Thomas Wirth, Gun-Marie Hariz, Sophie Huby, Morgan Dornadic, Zohra Souei, Muhammad Mushhood Ur Rehman, Simone Hemm, Mehdi Boulayme, Eduardo M. Moraud, Jocelyne Bloch, Xavier Vasques"
+        },
+        {
+          "title": "Popularity Feedback Constrains Innovation in Cultural Markets",
+          "url": "https://arxiv.org/abs/2602.09997",
+          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Real-world creative processes ranging from art to science rely on social feedback-loops between selection and creation. Yet, the effects of popularity feedback on collective creativity remain poorly understood. We investigate how…",
+          "authors": "Lucas Gautheron, Raja Marjieh, Dalton C. Conley, Seth Frey, Hannah Rubin, Mike D. Schneider, Ofer Tchernichovski, Nori Jacoby"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Health workers at the epicenter of Congo&#8217;s Ebola outbreak labor with little pay or rest",
+          "url": "https://www.statnews.com/2026/06/08/ebola-outbreak-congo-health-workers-little-pay-rest/?utm_campaign=rss",
+          "publishedDate": "Mon, 08 Jun 2026 20:17:11 +0000",
+          "source": "statnews.com",
+          "summary": "Health workers at the epicenter of Congo's Ebola outbreak are laboring with little pay or rest.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "Major readouts from the annual diabetes conference",
+          "url": "https://www.statnews.com/2026/06/08/health-news-readouts-from-annual-diabetes-conference/?utm_campaign=rss",
+          "publishedDate": "Mon, 08 Jun 2026 12:22:16 +0000",
+          "source": "statnews.com",
+          "summary": "Why \"Schedule F\" matters, the Ebola outbreak response, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "When it’s time to save a limb, novel clinic meets unhoused people where they are",
+          "url": "https://www.statnews.com/2026/06/08/vascular-care-homeless-amputation-prevention-effort-mass-general/?utm_campaign=rss",
+          "publishedDate": "Mon, 08 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Unmet vascular needs can lead to limb loss among unhoused patients. An unusual Massachusetts General Hospital program meets patients where they are.",
+          "authors": "Elizabeth Cooney"
+        },
         {
           "title": "CDC: Ebola outbreak in Central Africa could reach 20,000 cases without strong countermeasures",
           "url": "https://www.statnews.com/2026/06/05/cdc-ebola-modeling-study/?utm_campaign=rss",
@@ -36,30 +93,6 @@
           "source": "statnews.com",
           "summary": "The limitations of private health insurance, the quiet collapse of America's research ethics watchdog and other Morning Rounds news",
           "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "HHS confirms Americans with high-risk Ebola exposures will have access to experimental therapy",
-          "url": "https://www.statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/?utm_campaign=rss",
-          "publishedDate": "Thu, 04 Jun 2026 23:40:43 +0000",
-          "source": "statnews.com",
-          "summary": "Americans who have high-risk exposures to Ebola in the current outbreak in Central Africa will have access to an experimental antibody treatment.",
-          "authors": "Helen Branswell"
-        },
-        {
-          "title": "Scientists uncover a new hiding spot for HIV",
-          "url": "https://www.statnews.com/2026/06/04/health-news-scientists-uncover-new-hiding-spot-for-hiv/?utm_campaign=rss",
-          "publishedDate": "Thu, 04 Jun 2026 12:32:36 +0000",
-          "source": "statnews.com",
-          "summary": "An Ebola update, Trump to strip job protections of NIH officials, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "Male puberty is understudied — but when it starts may predict long-term health risks",
-          "url": "https://www.statnews.com/2026/06/04/male-puberty-timing-long-term-health-risk-prediction/?utm_campaign=rss",
-          "publishedDate": "Thu, 04 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Due to a significant gender gap, far less is known about the health risks of early or late puberty onset among boys than girls.",
-          "authors": "Ashleigh N. DeLuca"
         }
       ]
     },
@@ -68,6 +101,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: UnitedHealthcare’s lactation billing feud, and fake strokes",
+          "url": "https://www.statnews.com/2026/06/08/unitedhealth-lactation-counseling-policy-medicare-advantage-audits-stroke/?utm_campaign=rss",
+          "publishedDate": "Mon, 08 Jun 2026 14:53:05 +0000",
+          "source": "statnews.com",
+          "summary": "The biggest U.S. health insurer is changing how it pays for lactation counseling, and it could cut payment for many providers.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "Dementia risk linked to nitrate in drinking water, study finds",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260606075852.htm",
+          "publishedDate": "Mon, 08 Jun 2026 01:07:34 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A major long-term study of more than 54,000 adults found that where nitrate comes from may matter far more than how much you consume. People who got more nitrate from vegetables—roughly the amount in a cup of baby spinach a day—had a lower…",
+          "authors": ""
+        },
+        {
+          "title": "Doctors thought this kidney drug helped some patients. It may help millions more.",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260606075513.htm",
+          "publishedDate": "Mon, 08 Jun 2026 00:20:03 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A trio of major studies found that finerenone may protect the kidneys and heart in far more people than previously thought. The drug significantly slowed kidney disease progression and reduced the risks of kidney failure, heart failure,…",
+          "authors": ""
+        },
         {
           "title": "Ancient Chinese medicine could transform hair loss treatment",
           "url": "https://www.sciencedaily.com/releases/2026/06/260606015144.htm",
@@ -91,93 +148,70 @@
           "source": "sciencedaily.com",
           "summary": "Supplements are often marketed as shortcuts to better health, but for many older adults, the real issue is whether they have a specific deficiency. Vitamins like B12 and D can play an important role when levels are low, while protein may…",
           "authors": ""
-        },
-        {
-          "title": "Scientists sound the alarm as dangerous amoebas spread globally",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260606015137.htm",
-          "publishedDate": "Sat, 06 Jun 2026 07:35:28 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists warn that free-living amoebae may be an underappreciated public health threat, capable of causing deadly infections and shielding other dangerous microbes from water treatment. Climate change and aging infrastructure could help…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: What stripping civil service protections for thousands of federal workers will mean for HHS",
-          "url": "https://www.statnews.com/2026/06/05/schedule-f-changes-impacts-nih-cdc-fda/?utm_campaign=rss",
-          "publishedDate": "Fri, 05 Jun 2026 19:58:55 +0000",
-          "source": "statnews.com",
-          "summary": "Thousands of HHS staff who shape policy have had their employment status changed to a designation that makes it easier for them to be fired.",
-          "authors": "Anil Oza, Chelsea Cirruzzo, and Lizzy Lawrence"
-        },
-        {
-          "title": "Senior NIH official pushes MAHA strategy to skeptical ADA audience",
-          "url": "https://www.statnews.com/2026/06/05/ada-conference-new-orleans-richard-woychik-synergy-nih-maha/?utm_campaign=rss",
-          "publishedDate": "Fri, 05 Jun 2026 19:53:21 +0000",
-          "source": "statnews.com",
-          "summary": "An NIH advisor told researchers gathered at the American Diabetes Association conference that MAHA goals match the agency's priorities.",
-          "authors": "Elizabeth Cooney"
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Depth over Fidelity in Fixed-Budget Noisy Evolution Strategies",
+          "url": "https://arxiv.org/abs/2606.06555",
+          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Noisy evolution strategies under fixed evaluation budgets face a depth-fidelity trade-off: spending evaluations to denoise intra-generation rankings reduces the number of distribution updates the optimizer can execute. We argue for depth…",
+          "authors": "Sichen Wang, Zhipeng Lu"
+        },
+        {
+          "title": "A Data-Free Symbolic Regression Approach for Solving Equations",
+          "url": "https://arxiv.org/abs/2606.07152",
+          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Many equations arising in science currently cannot be solved by available analytical techniques and are therefore solved numerically, without yielding explicit symbolic expressions. Existing symbolic regression approaches can recover…",
+          "authors": "Sergei Garmaev, Vinay Sharma, Olga Fink"
+        },
+        {
+          "title": "Combinatorial Landscape Analysis for Dominating Set and Vertex Coloring",
+          "url": "https://arxiv.org/abs/2606.07361",
+          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We analyze the two combinatorial problems of Dominating Set and Vertex Coloring regarding what kind of local optima are present for various instances. For a variety of graph classes each, we determine whether the induced landscapes are…",
+          "authors": "Johanna Gasse, Antonia Heinen, Felix Knöfel, Timo Kötzing, Maxim Stanko"
+        },
+        {
+          "title": "Synthetic Benchmarks Overstate Forward-Forward Scaling: Real-Data Limits of Layer-Local Training",
+          "url": "https://arxiv.org/abs/2606.06539",
+          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Forward-Forward (FF) learning [Hinton, 2022] replaces backpropagation with strictly layer-local goodness updates. Recent FF-CNN work has narrowed the gap to BP on 32x32 benchmarks, raising the question of whether layer-local training is…",
+          "authors": "Yucheng Chen"
+        },
+        {
+          "title": "LLM-Guided Evolution for Medical Decision Pipelines",
+          "url": "https://arxiv.org/abs/2606.07342",
+          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Adapting large language models (LLMs) to clinical workflows often requires costly fine-tuning or manual prompt and pipeline engineering. We study LLM-guided MAP-Elites evolution as an inference-time alternative for discovering medical…",
+          "authors": "Ivan Sviridov, Artem Oskin, Ivan Panin, Iaroslav Bespalov, Dmitry Dylov, Ivan Oseledets, Aleksandr Nesterov"
+        },
+        {
+          "title": "Sparsely gated tiny linear experts",
+          "url": "https://arxiv.org/abs/2606.07414",
+          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Sparsity allows scaling model parameters without proportionally increasing computational cost. While mixture of experts (MoE) models are made increasingly sparse, individual experts typically remain large and dense. Here, we demonstrate…",
+          "authors": "Simon Schug"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
-        },
-        {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
-        }
-      ]
+      "itemCount": 0,
+      "error": "no BCI-keyword match in fetched feed",
+      "items": []
     }
   }
 }

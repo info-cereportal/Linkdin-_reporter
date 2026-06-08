@@ -1,5 +1,33 @@
 [
   {
+    "generatedAt": "2026-06-08T23:49:56.756Z",
+    "date": "2026-06-08",
+    "topic": "深層学習と学習",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Deep Learning Pose Estimation for Multi-Label Recognition of Combined Hyperkinetic Movement Disorders",
+    "paperLink": "https://arxiv.org/abs/2602.00163",
+    "figureUrl": "https://arxiv.org/html/2602.00163/2602.00163v2/Figure_1.png",
+    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n深層学習と学習の最新研究です。\n\n🔬 深層学習 × 学習 × ECoG(皮質脳波)\n\n> Hyperkinetic movement disorders (HMDs) such as dystonia, tremor, chorea, myoclonus, and tics are disabling motor manifestations across childhood and adulthood. Their fluctuating, intermittent, and frequently co-occurring expressions hinder clinical recognition and longitudinal...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Deep Learning Pose Estimation for Multi-Label Recognition of Combined Hyperkinetic Movement Disorders\n🔗 https://arxiv.org/abs/2602.00163\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #神経科学",
+    "summaryJP": "深層学習と学習 — 次世代へ続く布石（ニューロAI・計算論）",
+    "paperAuthors": "Laura Cif, Diane Demailly, Gabriella A. Horvàth, Juan Dario Ortigoza Escobar, Nathalie Dorison, Mayté Castro Jiménez, Cécile A. Hubsch, Thomas Wirth, Gun-Marie Hariz, Sophie Huby, Morgan Dornadic, Zohra Souei, Muhammad Mushhood Ur Rehman, Simone Hemm, Mehdi Boulayme, Eduardo M. Moraud, Jocelyne Bloch, Xavier Vasques",
+    "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "paperId": "2602.00163",
+    "paperSource": "arxiv",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "深層学習",
+      "学習",
+      "ECoG(皮質脳波)"
+    ],
+    "abstractExcerpt": "Hyperkinetic movement disorders (HMDs) such as dystonia, tremor, chorea, myoclonus, and tics are disabling motor manifestations across childhood and adulthood. Their fluctuating, intermittent, and frequently co-occurring expressions hinder…",
+    "figureUrls": [
+      "https://arxiv.org/html/2602.00163/2602.00163v2/Figure_1.png",
+      "https://arxiv.org/html/2602.00163/2602.00163v2/Figure_2.png",
+      "https://arxiv.org/html/2602.00163/2602.00163v2/Figure_3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-06-07T23:41:44.935Z",
     "date": "2026-06-07",
     "topic": "深層学習と学習",
@@ -1248,28 +1276,6 @@
       "学習"
     ],
     "abstractExcerpt": "Rice is a significant food that plays a vital part in delivering nutrition to the world's population. Hence, approaches for assessing rice yield have received considerable study. The amount of rice seedlings (density) is a main agronomic…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-24T15:54:49.027Z",
-    "date": "2026-05-24",
-    "topic": "深層学習と学習",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "Denoising Preclinical MRI with Vendor-neutral Deep Learning-based Image Reconstruction.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42176781/",
-    "formatted": "深層学習と学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 深層学習 × 学習\n\n> Deep learning-based image reconstruction (DLR) is a widely adopted technology in clinical settings, and recently, the development of vendor-neutral DLR software has been actively pursued. It is valuable to assess the applicability of this technology to MR images in animal...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Denoising Preclinical MRI with Vendor-neutral Deep Learning-based Image Reconstruction.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42176781/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #計算論的神経科学",
-    "summaryJP": "深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
-    "paperAuthors": "Tatsuya Oki, Shota Ishida, Sayaka Misaki, Takayasu Iwai, Geunu Jeong, Yoshiyuki Watanabe",
-    "publishedDate": "2026-05-23",
-    "paperId": "42176781",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "深層学習",
-      "学習"
-    ],
-    "abstractExcerpt": "Deep learning-based image reconstruction (DLR) is a widely adopted technology in clinical settings, and recently, the development of vendor-neutral DLR software has been actively pursued. It is valuable to assess the applicability of this…",
     "figureUrls": []
   }
 ]
