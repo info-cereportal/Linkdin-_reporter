@@ -1,28 +1,26 @@
 {
-  "generatedAt": "2026-06-08T23:49:56.756Z",
-  "date": "2026-06-08",
-  "topic": "深層学習と学習",
-  "templateName": "future-vision",
+  "generatedAt": "2026-06-09T23:56:07.560Z",
+  "date": "2026-06-09",
+  "topic": "頭頂皮質と脳情報デコーディング",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Deep Learning Pose Estimation for Multi-Label Recognition of Combined Hyperkinetic Movement Disorders",
-  "paperLink": "https://arxiv.org/abs/2602.00163",
-  "figureUrl": "https://arxiv.org/html/2602.00163/2602.00163v2/Figure_1.png",
-  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n深層学習と学習の最新研究です。\n\n🔬 深層学習 × 学習 × ECoG(皮質脳波)\n\n> Hyperkinetic movement disorders (HMDs) such as dystonia, tremor, chorea, myoclonus, and tics are disabling motor manifestations across childhood and adulthood. Their fluctuating, intermittent, and frequently co-occurring expressions hinder clinical recognition and longitudinal...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Deep Learning Pose Estimation for Multi-Label Recognition of Combined Hyperkinetic Movement Disorders\n🔗 https://arxiv.org/abs/2602.00163\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #神経科学",
-  "summaryJP": "深層学習と学習 — 次世代へ続く布石（ニューロAI・計算論）",
-  "paperAuthors": "Laura Cif, Diane Demailly, Gabriella A. Horvàth, Juan Dario Ortigoza Escobar, Nathalie Dorison, Mayté Castro Jiménez, Cécile A. Hubsch, Thomas Wirth, Gun-Marie Hariz, Sophie Huby, Morgan Dornadic, Zohra Souei, Muhammad Mushhood Ur Rehman, Simone Hemm, Mehdi Boulayme, Eduardo M. Moraud, Jocelyne Bloch, Xavier Vasques",
-  "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
-  "paperId": "2602.00163",
+  "paperTitle": "Brain2Text Decoding Model Reveals the Neural Mechanisms of Visual Semantic Processing",
+  "paperLink": "https://arxiv.org/abs/2503.22697",
+  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n脳科学とAI——その境界線が消えつつある。\n\n頭頂皮質と脳情報デコーディングに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 頭頂皮質 × 脳情報デコーディング × 脳型 × 視覚野\n\n📊 注目すべきデータ：\n→ Here, we present a novel framework that directly decodes fMRI signals into textual descriptions of viewed natural images.\n→ Our novel deep learning model, trained without visual information, achieves state-of-the-art semantic decoding performance, generating meaningful captions that capture the core...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Brain2Text Decoding Model Reveals the Neural Mechanisms of Visual Semantic Processing\n🔗 https://arxiv.org/abs/2503.22697\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #BCI",
+  "summaryJP": "頭頂皮質と脳情報デコーディング — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+  "paperAuthors": "Feihan Feng, Jingxin Nie",
+  "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
+  "paperId": "2503.22697",
   "paperSource": "arxiv",
   "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
+    "頭頂皮質",
+    "脳情報デコーディング",
+    "脳型",
+    "視覚野",
     "深層学習",
-    "学習",
-    "ECoG(皮質脳波)"
+    "学習"
   ],
-  "abstractExcerpt": "Hyperkinetic movement disorders (HMDs) such as dystonia, tremor, chorea, myoclonus, and tics are disabling motor manifestations across childhood and adulthood. Their fluctuating, intermittent, and frequently co-occurring expressions hinder…",
-  "figureUrls": [
-    "https://arxiv.org/html/2602.00163/2602.00163v2/Figure_1.png",
-    "https://arxiv.org/html/2602.00163/2602.00163v2/Figure_2.png",
-    "https://arxiv.org/html/2602.00163/2602.00163v2/Figure_3.png"
-  ]
+  "abstractExcerpt": "Decoding sensory experiences from neural activity to reconstruct human-perceived visual stimuli and semantic content remains a challenge in neuroscience and artificial intelligence. Despite notable progress in current brain decoding…",
+  "figureUrls": []
 }

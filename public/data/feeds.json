@@ -1,43 +1,59 @@
 {
-  "generatedAt": "2026-06-08T23:49:57.035Z",
+  "generatedAt": "2026-06-09T23:56:07.782Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 4,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Fixed point compositionality via low-rank gluing rules in inhibition-dominated threshold-linear networks",
-          "url": "https://arxiv.org/abs/2606.07336",
-          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "title": "This is how the Neocortex Learns",
+          "url": "https://arxiv.org/abs/2606.08720",
+          "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brains routinely generate highly flexible and complex behaviors on a relatively stable structure and limited resources. A key mechanism underlying this ability is compositionality, which allows the brain to efficiently decompose complex…",
-          "authors": "Juliana Londono Alvarez"
+          "summary": "A sufficient account of how the neocortex learns must meet three criteria: 1. Computationally, it must approximate a powerful, general-purpose learning algorithm known to scale to human-level intelligence; 2. Algorithmically, it must be…",
+          "authors": "Randall C. O'Reilly"
         },
         {
-          "title": "The Identity Trap in EEG Foundation Models: A Diagnostic Audit",
-          "url": "https://arxiv.org/abs/2606.06647",
-          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "title": "Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model",
+          "url": "https://arxiv.org/abs/2606.09770",
+          "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Objective. EEG foundation models (FMs) report strong accuracy on clinical resting-state EEG. However, high accuracy under subject-disjoint cross-validation remains ambiguous: it can reflect a genuine clinical biomarker, or subject-identity…",
-          "authors": "Jun-You Lin, Ying Choon Wu, Tzyy-Ping Jung"
+          "summary": "Nearby neurons in cortex share similar response profiles, producing systematic spatial organization across sensory and cognitive systems. Recent topographic models reproduce aspects of this structure but remain unimodal and spatially…",
+          "authors": "Badr AlKhamissi, Johannes Mehrer, Lara Marinov, Ahmed Abdelaal, Abdulkadir Gokce, Martin Schrimpf"
         },
         {
-          "title": "Deep Learning Pose Estimation for Multi-Label Recognition of Combined Hyperkinetic Movement Disorders",
-          "url": "https://arxiv.org/abs/2602.00163",
-          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "title": "Simultaneous hyperkinetic movement disorders phenotyping: a cross-cohort pediatric transfer study using routine videos, markerless pose estimation and a tabular foundation model",
+          "url": "https://arxiv.org/abs/2606.07674",
+          "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Hyperkinetic movement disorders (HMDs) such as dystonia, tremor, chorea, myoclonus, and tics are disabling motor manifestations across childhood and adulthood. Their fluctuating, intermittent, and frequently co-occurring expressions hinder…",
-          "authors": "Laura Cif, Diane Demailly, Gabriella A. Horvàth, Juan Dario Ortigoza Escobar, Nathalie Dorison, Mayté Castro Jiménez, Cécile A. Hubsch, Thomas Wirth, Gun-Marie Hariz, Sophie Huby, Morgan Dornadic, Zohra Souei, Muhammad Mushhood Ur Rehman, Simone Hemm, Mehdi Boulayme, Eduardo M. Moraud, Jocelyne Bloch, Xavier Vasques"
+          "summary": "Objective: To develop and externally test a video-based framework for simultaneous detection of hyperkinetic MDs phenomenologies: dystonia, tremor, myoclonus, chorea, athetosis, ballismus, stereotypies, and tics using routine clinical…",
+          "authors": "Laura Cif, Diane Demailly, Zohra Souei, Muhammad Mushhood Ur Rehman, Juan Dario Ortigoza Escobar, Mayté Castro Jiménez, Cécile A. Hubsch, Sophie Huby, Morgan Dornadic, Gun-Marie Hariz, Eduardo M. Moraud, Jocelyne Bloch, Gabriella A. Horvath, Xavier Vasques"
         },
         {
-          "title": "Popularity Feedback Constrains Innovation in Cultural Markets",
-          "url": "https://arxiv.org/abs/2602.09997",
-          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "title": "Reconstructing and forecasting disease trajectories of patients with Alzheimer's disease using routine data in resource-constrained settings",
+          "url": "https://arxiv.org/abs/2606.07798",
+          "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Real-world creative processes ranging from art to science rely on social feedback-loops between selection and creation. Yet, the effects of popularity feedback on collective creativity remain poorly understood. We investigate how…",
-          "authors": "Lucas Gautheron, Raja Marjieh, Dalton C. Conley, Seth Frey, Hannah Rubin, Mike D. Schneider, Ofer Tchernichovski, Nori Jacoby"
+          "summary": "Alzheimer's disease is a progressive neurodegenerative disorder, and its progression varies substantially across patients. Existing work aims to forecast patients' future cognitive state, with minimal focus on reconstructing the state from…",
+          "authors": "Ratnadeep Das, Atri Chatterjee, Sitikantha Roy"
+        },
+        {
+          "title": "Vector Space of Cycles",
+          "url": "https://arxiv.org/abs/2606.08202",
+          "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Most statistical and machine learning methods for directed interactions focus on pairwise effects among variables. Even existing cyclic models represent feedback primarily through node-level dependencies, making large-scale recurrent…",
+          "authors": "Moo K. Chung, Anass B. El-Yaagoubi, Hernando Ombao"
+        },
+        {
+          "title": "Predictable Mean-Field Chaos in Random Recurrent Networks",
+          "url": "https://arxiv.org/abs/2606.08805",
+          "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Dynamical mean-field theory recasts deterministic chaos in random recurrent networks as an effective stochastic process. We show that for analytic nonlinearities with sufficiently fast Fourier decay, this stochasticity is only apparent:…",
+          "authors": "Alkesh Yadav, Vladimir Shaidurov, Jonathan Kadmon"
         }
       ]
     },
@@ -47,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Health workers at the epicenter of Congo&#8217;s Ebola outbreak labor with little pay or rest",
-          "url": "https://www.statnews.com/2026/06/08/ebola-outbreak-congo-health-workers-little-pay-rest/?utm_campaign=rss",
-          "publishedDate": "Mon, 08 Jun 2026 20:17:11 +0000",
+          "title": "STAT+: Trump’s health care affordability czar takes aim at hospitals",
+          "url": "https://www.statnews.com/2026/06/09/trumps-affordability-czar-backs-medicaid-cuts-alcohol-study-published-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Tue, 09 Jun 2026 19:56:13 +0000",
           "source": "statnews.com",
-          "summary": "Health workers at the epicenter of Congo's Ebola outbreak are laboring with little pay or rest.",
+          "summary": "Plus a buried alcohol study gets published, and a Biosecure update.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Diabetes Association in uproar after members expelled from annual meeting over protest of NIH cuts",
+          "url": "https://www.statnews.com/2026/06/09/american-diabetes-association-uproar-over-expulsion-of-members/?utm_campaign=rss",
+          "publishedDate": "Tue, 09 Jun 2026 19:12:46 +0000",
+          "source": "statnews.com",
+          "summary": "The condemnations keep coming after five diabetes experts were escorted out of an ADA meeting for handing out copies of an editorial criticizing federal research cuts.",
+          "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "FDA OKs first new sunscreen ingredient in more than 25 years",
+          "url": "https://www.statnews.com/2026/06/09/new-sunscreen-ingredient-bemotrizinol-fda/?utm_campaign=rss",
+          "publishedDate": "Tue, 09 Jun 2026 18:43:15 +0000",
+          "source": "statnews.com",
+          "summary": "Federal health regulators on Tuesday signed off on the first new sunscreen ingredient for the U.S. market in more than 25 years.",
           "authors": "Associated Press"
         },
         {
-          "title": "Major readouts from the annual diabetes conference",
-          "url": "https://www.statnews.com/2026/06/08/health-news-readouts-from-annual-diabetes-conference/?utm_campaign=rss",
-          "publishedDate": "Mon, 08 Jun 2026 12:22:16 +0000",
+          "title": "STAT+: What’s changed since the last major Ebola outbreak",
+          "url": "https://www.statnews.com/2026/06/09/health-news-whats-changed-since-the-last-ebola-outbreak/?utm_campaign=rss",
+          "publishedDate": "Tue, 09 Jun 2026 12:23:29 +0000",
           "source": "statnews.com",
-          "summary": "Why \"Schedule F\" matters, the Ebola outbreak response, and more health news from Morning Rounds",
+          "summary": "A suppressed federal alcohol report, an \"inevitable development\" for wearables data, and more health news from Morning Rounds",
           "authors": "Theresa Gaffney"
         },
         {
-          "title": "When it’s time to save a limb, novel clinic meets unhoused people where they are",
-          "url": "https://www.statnews.com/2026/06/08/vascular-care-homeless-amputation-prevention-effort-mass-general/?utm_campaign=rss",
-          "publishedDate": "Mon, 08 Jun 2026 08:30:00 +0000",
+          "title": "Opinion: Why STAT is sticking with ‘health care’ as two words",
+          "url": "https://www.statnews.com/2026/06/09/health-care-vs-healthcare-ap-style-stat/?utm_campaign=rss",
+          "publishedDate": "Tue, 09 Jun 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "Unmet vascular needs can lead to limb loss among unhoused patients. An unusual Massachusetts General Hospital program meets patients where they are.",
-          "authors": "Elizabeth Cooney"
+          "summary": "Is it “health care” or “healthcare”? STAT readers had strong feelings.",
+          "authors": "Sarah Mupo"
         },
         {
-          "title": "CDC: Ebola outbreak in Central Africa could reach 20,000 cases without strong countermeasures",
-          "url": "https://www.statnews.com/2026/06/05/cdc-ebola-modeling-study/?utm_campaign=rss",
-          "publishedDate": "Fri, 05 Jun 2026 22:24:52 +0000",
+          "title": "Alcohol study discarded by Trump officials is published in scientific journal",
+          "url": "https://www.statnews.com/2026/06/09/suppressed-alcohol-health-study-released-one-drink-or-less-daily/?utm_campaign=rss",
+          "publishedDate": "Tue, 09 Jun 2026 05:00:00 +0000",
           "source": "statnews.com",
-          "summary": "The Ebola outbreak in Central Africa could grow to 20,000 cases or more, depending on how quickly infected people are isolated to slow the spread, according to a new U.S. analysis.",
-          "authors": "Mike Stobbe — Associated Press"
-        },
-        {
-          "title": "STAT+: Newer GLP-1s, pushback on research cuts, and a protest",
-          "url": "https://www.statnews.com/2026/06/05/newer-glp-1s-pushback-on-research-cuts-and-a-protest-ada-in-30/?utm_campaign=rss",
-          "publishedDate": "Fri, 05 Jun 2026 21:22:33 +0000",
-          "source": "statnews.com",
-          "summary": "You're reading the web edition of STAT's ADA in 30 Seconds, from the American Diabetes Association's annual conference in New Orleans.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "Texas AG investigating energy drinks",
-          "url": "https://www.statnews.com/2026/06/05/health-news-texas-ag-investigating-energy-drinks/?utm_campaign=rss",
-          "publishedDate": "Fri, 05 Jun 2026 13:17:35 +0000",
-          "source": "statnews.com",
-          "summary": "The limitations of private health insurance, the quiet collapse of America's research ethics watchdog and other Morning Rounds news",
-          "authors": "O. Rose Broderick"
+          "summary": "A government-commissioned study had been meant to inform new dietary guidelines, and found risks associated with even light drinking.",
+          "authors": "Isabella Cueto"
         }
       ]
     },
@@ -102,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: UnitedHealthcare’s lactation billing feud, and fake strokes",
-          "url": "https://www.statnews.com/2026/06/08/unitedhealth-lactation-counseling-policy-medicare-advantage-audits-stroke/?utm_campaign=rss",
-          "publishedDate": "Mon, 08 Jun 2026 14:53:05 +0000",
+          "title": "STAT+: Trump’s health care affordability czar takes aim at hospitals",
+          "url": "https://www.statnews.com/2026/06/09/trumps-affordability-czar-backs-medicaid-cuts-alcohol-study-published-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Tue, 09 Jun 2026 19:56:13 +0000",
           "source": "statnews.com",
-          "summary": "The biggest U.S. health insurer is changing how it pays for lactation counseling, and it could cut payment for many providers.",
-          "authors": "Bob Herman"
+          "summary": "Plus a buried alcohol study gets published, and a Biosecure update.",
+          "authors": "John Wilkerson"
         },
         {
-          "title": "Dementia risk linked to nitrate in drinking water, study finds",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260606075852.htm",
-          "publishedDate": "Mon, 08 Jun 2026 01:07:34 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A major long-term study of more than 54,000 adults found that where nitrate comes from may matter far more than how much you consume. People who got more nitrate from vegetables—roughly the amount in a cup of baby spinach a day—had a lower…",
-          "authors": ""
+          "title": "Trump administration warns more than 500 hospitals to provide more price information or face fines",
+          "url": "https://www.statnews.com/2026/06/09/trump-administration-warns-hospitals-price-information-fines/?utm_campaign=rss",
+          "publishedDate": "Tue, 09 Jun 2026 15:35:43 +0000",
+          "source": "statnews.com",
+          "summary": "The Trump administration has warned more than 500 hospitals that they are failing to provide the public with basic pricing information.",
+          "authors": "Associated Press"
         },
         {
-          "title": "Doctors thought this kidney drug helped some patients. It may help millions more.",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260606075513.htm",
-          "publishedDate": "Mon, 08 Jun 2026 00:20:03 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A trio of major studies found that finerenone may protect the kidneys and heart in far more people than previously thought. The drug significantly slowed kidney disease progression and reduced the risks of kidney failure, heart failure,…",
-          "authors": ""
+          "title": "STAT+: NIAID appoints new acting director after weekslong questions over leadership",
+          "url": "https://www.statnews.com/2026/06/09/niaid-acting-director-john-powers-replaces-taubenberger/?utm_campaign=rss",
+          "publishedDate": "Tue, 09 Jun 2026 14:50:45 +0000",
+          "source": "statnews.com",
+          "summary": "The NIH has appointed researcher John Powers III to lead its infectious disease institute on an acting basis, after weeks of being in leadership limbo.",
+          "authors": "Anil Oza and Helen Branswell"
         },
         {
-          "title": "Ancient Chinese medicine could transform hair loss treatment",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260606015144.htm",
-          "publishedDate": "Sun, 07 Jun 2026 04:19:08 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A traditional Chinese medicinal root used for over a thousand years is attracting new scientific attention for its potential to combat hair loss. Studies suggest Polygonum multiflorum can block harmful hormones, activate hair-growth…",
-          "authors": ""
+          "title": "STAT+: NIH staffers published a letter of dissent a year ago. They feel it’s been ignored",
+          "url": "https://www.statnews.com/2026/06/09/nih-bethesda-declaration-1-year-later-dissenters-say-problems-persist/?utm_campaign=rss",
+          "publishedDate": "Tue, 09 Jun 2026 13:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "In a report published on the first anniversary of the Bethesda Declaration, 71 staffers write that they feel NIH leadership “largely ignored\" their concerns.",
+          "authors": "Anil Oza"
         },
         {
-          "title": "Ozempic and similar weight-loss drugs linked to 30% lower breast cancer risk",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260605023400.htm",
-          "publishedDate": "Sat, 06 Jun 2026 09:28:24 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A large study found that women taking GLP-1 drugs, the medication class behind Ozempic, Wegovy, Mounjaro, and Zepbound, were about 30% less likely to develop breast cancer. Researchers say the findings are promising but not yet proof, and…",
-          "authors": ""
+          "title": "STAT+: Trump’s health care affordability czar touts Medicaid cuts to hospital leaders",
+          "url": "https://www.statnews.com/2026/06/09/affordability-czar-casey-mulligan-hfma-speech-medicaid-cuts/?utm_campaign=rss",
+          "publishedDate": "Tue, 09 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Hospital execs say they're working to mitigate the impacts of the looming cuts.",
+          "authors": "Tara Bannow"
         },
         {
-          "title": "The supplements older adults actually need and the ones they don&#039;t",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260605023408.htm",
-          "publishedDate": "Sat, 06 Jun 2026 08:40:28 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Supplements are often marketed as shortcuts to better health, but for many older adults, the real issue is whether they have a specific deficiency. Vitamins like B12 and D can play an important role when levels are low, while protein may…",
-          "authors": ""
+          "title": "A leader of the 2014 U.S. Ebola response compares then to now",
+          "url": "https://www.statnews.com/2026/06/09/ebola-outbreak-response-difference-between-2014-today-susan-reichle/?utm_campaign=rss",
+          "publishedDate": "Tue, 09 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "As the world deals with an outbreak of Ebola that has no known cure, Susan Reichle, who last year co-founded Aid Transition Alliance to support former USAID professionals, discusses the&#8230;",
+          "authors": "Annalisa Merelli"
         }
       ]
     },
@@ -157,61 +173,77 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Depth over Fidelity in Fixed-Budget Noisy Evolution Strategies",
-          "url": "https://arxiv.org/abs/2606.06555",
-          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "title": "Information-Geometric Optimization on Spheres",
+          "url": "https://arxiv.org/abs/2606.07588",
+          "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Noisy evolution strategies under fixed evaluation budgets face a depth-fidelity trade-off: spending evaluations to denoise intra-generation rankings reduces the number of distribution updates the optimizer can execute. We argue for depth…",
-          "authors": "Sichen Wang, Zhipeng Lu"
+          "summary": "We consider the black-box optimization problem on a sphere. Two information-geometric optimization flows (IGO flows) are designed with rigorous calculation of natural search gradients based on hyperbolic (information) geometry of Poincar\\'…",
+          "authors": "Vladimir Ja\\' cimović"
         },
         {
-          "title": "A Data-Free Symbolic Regression Approach for Solving Equations",
-          "url": "https://arxiv.org/abs/2606.07152",
-          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "title": "QDS-SNN: Energy-efficient Quantum Deeply-Supervised Spiking Neural Network Algorithm for Traffic Sign Recognition",
+          "url": "https://arxiv.org/abs/2606.07657",
+          "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Many equations arising in science currently cannot be solved by available analytical techniques and are therefore solved numerically, without yielding explicit symbolic expressions. Existing symbolic regression approaches can recover…",
-          "authors": "Sergei Garmaev, Vinay Sharma, Olga Fink"
+          "summary": "Traffic sign recognition is crucial for intelligent transportation and autonomous driving, as it can improve driving efficiency and ensure road safety. However, traditional recognition methods are based on large datasets and intensive…",
+          "authors": "Zhiguo Qu, Keqi Li, Le Sun, Wenjie Liu, Yimin Yu, Saif Al-Kuwari, Ahmed Farouk"
         },
         {
-          "title": "Combinatorial Landscape Analysis for Dominating Set and Vertex Coloring",
-          "url": "https://arxiv.org/abs/2606.07361",
-          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "title": "Seq103: A Unified Neuroevolution Framework for Compact Sequence Architecture Discovery",
+          "url": "https://arxiv.org/abs/2606.07664",
+          "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We analyze the two combinatorial problems of Dominating Set and Vertex Coloring regarding what kind of local optima are present for various instances. For a variety of graph classes each, we determine whether the induced landscapes are…",
-          "authors": "Johanna Gasse, Antonia Heinen, Felix Knöfel, Timo Kötzing, Maxim Stanko"
+          "summary": "Neuroevolution is a representative neural architecture search paradigm that evolves both network topology and weights through evolutionary algorithms. In this paper, we propose Seq103, a unified NEAT-style neuroevolution framework for…",
+          "authors": "Wenxiao Li, Yongjian Liu, Qing Xie"
         },
         {
-          "title": "Synthetic Benchmarks Overstate Forward-Forward Scaling: Real-Data Limits of Layer-Local Training",
-          "url": "https://arxiv.org/abs/2606.06539",
-          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "title": "Gray-Box Optimization and the Vertex Coloring Problem",
+          "url": "https://arxiv.org/abs/2606.08128",
+          "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Forward-Forward (FF) learning [Hinton, 2022] replaces backpropagation with strictly layer-local goodness updates. Recent FF-CNN work has narrowed the gap to BP on 32x32 benchmarks, raising the question of whether layer-local training is…",
-          "authors": "Yucheng Chen"
+          "summary": "Gray-box optimization is an approach for making some problem-specific information available to the algorithm while still relying on fitness information as the main guide to an optimum. This approach was shown to be beneficial in various…",
+          "authors": "Johanna Gasse, Antonia Heinen, Hendrik Higl, Timo Kötzing"
         },
         {
-          "title": "LLM-Guided Evolution for Medical Decision Pipelines",
-          "url": "https://arxiv.org/abs/2606.07342",
-          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "title": "OpenOpt: An Open-Source SRAM Optimizer Based on Equivalent Circuit Model",
+          "url": "https://arxiv.org/abs/2606.09129",
+          "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Adapting large language models (LLMs) to clinical workflows often requires costly fine-tuning or manual prompt and pipeline engineering. We study LLM-guided MAP-Elites evolution as an inference-time alternative for discovering medical…",
-          "authors": "Ivan Sviridov, Artem Oskin, Ivan Panin, Iaroslav Bespalov, Dmitry Dylov, Ivan Oseledets, Aleksandr Nesterov"
+          "summary": "This paper proposes a co-optimization framework that jointly optimizes SRAM architecture and transistor sizing using equivalent circuit models. The framework simplifies inactive SRAM cells into equivalent RC loads and static power models,…",
+          "authors": "Yikai Wang, Yiheng Wu, Can Wang, Bohao Liu, Junhao Ma, Zhuohua Liu, Qinxin Mei, Shan Shen"
         },
         {
-          "title": "Sparsely gated tiny linear experts",
-          "url": "https://arxiv.org/abs/2606.07414",
-          "publishedDate": "Mon, 08 Jun 2026 00:00:00 -0400",
+          "title": "Quantitative Performance Analysis of Stopping Criteria for CMA-ES",
+          "url": "https://arxiv.org/abs/2606.09220",
+          "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Sparsity allows scaling model parameters without proportionally increasing computational cost. While mixture of experts (MoE) models are made increasingly sparse, individual experts typically remain large and dense. Here, we demonstrate…",
-          "authors": "Simon Schug"
+          "summary": "Covariance matrix adaptation evolution strategy (CMA-ES) is a state-of-the-art black-box optimization algorithm. In general, CMA-ES uses a portfolio of multiple stopping criteria to automatically determine when to stop the search. This…",
+          "authors": "Ryoji Tanabe"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 2,
+      "items": [
+        {
+          "title": "CG-MambaNet: A spatiotemporal framework for cross-patient epileptic seizure prediction using CNN-GCN-Mamba-BiLSTM with event-level clinical evaluation",
+          "url": "https://arxiv.org/abs/2606.08226",
+          "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Epileptic seizure prediction from scalp EEG is critical for closed-loop neurostimulation therapy. Existing deep-learning methods share two architectural limitations: they model EEG channels independently, neglecting inter-channel spatial…",
+          "authors": "Mufeng Chen, Qi Wu, Bingchao Huang, Xiwen Lai, Zekai Chen, Xinge Ouyang, Tingyao Zhang, Xufang Yang, Quansheng Ren"
+        },
+        {
+          "title": "Mixture-of-Experts Transformer for Automatic Modulation Recognition",
+          "url": "https://arxiv.org/abs/2606.09085",
+          "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Automatic Modulation Recognition (AMR) is a key enabling technology for cognitive radio and intelligent spectrum management in next-generation wireless systems. However, current deep learning-based AMR methods predominantly rely on static…",
+          "authors": "Jiale Wang, Wupeng Xie, Yaxin Mu, Xin Liu, Zhilong Zhao, Jingwei Zhang"
+        }
+      ]
     }
   }
 }
