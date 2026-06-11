@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-06-11T00:03:11.053Z",
+    "date": "2026-06-11",
+    "topic": "脳情報科学の最新研究",
+    "templateName": "paradigm-shift",
+    "riskScore": 0,
+    "paperTitle": "Multifractal Signatures of Ageing and Dementia Development: A Multifractal Space-Filling Curve Analysis",
+    "paperLink": "https://arxiv.org/abs/2606.10222",
+    "figureUrl": "https://arxiv.org/html/2606.10222/2606.10222v1/fig1_flowchart.png",
+    "formatted": "脳情報科学の最新研究に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 脳情報科学\n\n📊 注目すべきデータ：\n→ In this study, we propose a novel and efficient methodology, termed Multifractal Space-filling Curve Analysis (MFSCA), for quantifying the correlation structure of...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\n神経デコーディングの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Multifractal Signatures of Ageing and Dementia Development: A Multifractal Space-Filling Curve Analysis\n🔗 https://arxiv.org/abs/2606.10222\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #BrainComputerInterface",
+    "summaryJP": "脳情報科学の最新研究 — 通説を揺さぶる新たな知見（神経デコーディング）",
+    "paperAuthors": "Marta Lotka, Jacek Grela, Zbigniew Drogosz, Jeremi K. Ochab, Paweł Oświ\\kecimka",
+    "publishedDate": "Wed, 10 Jun 2026 00:00:00 -0400",
+    "paperId": "2606.10222",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "脳情報科学"
+    ],
+    "abstractExcerpt": "Multifractality is an effective formalism for quantifying the nonlinear, scale-free properties of complex data. In this study, we propose a novel and efficient methodology, termed Multifractal Space-filling Curve Analysis (MFSCA), for…",
+    "figureUrls": [
+      "https://arxiv.org/html/2606.10222/2606.10222v1/fig1_flowchart.png",
+      "https://arxiv.org/html/2606.10222/2606.10222v1/fig2_hilbert-example.png",
+      "https://arxiv.org/html/2606.10222/2606.10222v1/fig3_Kaskada_deterministic.png"
+    ]
+  },
+  {
     "generatedAt": "2026-06-09T23:56:07.560Z",
     "date": "2026-06-09",
     "topic": "頭頂皮質と脳情報デコーディング",
@@ -1247,28 +1273,6 @@
     "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42176664/",
     "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、深層学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 深層学習 × 学習\n\n📊 注目すべきデータ：\n→ Extensive experiments and comparisons with state-of-the-art baselines clearly show the advantage of HBD in enhancing the accuracy and interpretablity for bearing fault diagnosis.\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Heterogeneous neural blind deconvolution: A signal processing-empowered foundation feature extractor for bearing fault diagnosis.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42176664/\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #神経科学",
     "summaryJP": "深層学習と学習 — 数値で示された新事実（ニューロAI・計算論）",
-    "paperAuthors": "Jing-Xiao Liao, Chao He, Jipu Li, Xiao-Cong Zhong, Jinwei Sun, Yiu-Ming Cheung",
-    "publishedDate": "2026-05-23",
-    "paperId": "42176664",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "深層学習",
-      "学習"
-    ],
-    "abstractExcerpt": "Deep learning has exhibited a promising performance in a series of task-specific bearing fault diagnosis problems. However, the current literature lacks a versatile model that could serve as a general-purpose feature extractor for a wide…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-24T21:44:44.382Z",
-    "date": "2026-05-24",
-    "topic": "深層学習と学習",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "Heterogeneous neural blind deconvolution: A signal processing-empowered foundation feature extractor for bearing fault diagnosis.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42176664/",
-    "formatted": "深層学習と学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 深層学習 × 学習\n\n📊 注目すべきデータ：\n→ Extensive experiments and comparisons with state-of-the-art baselines clearly show the advantage of HBD in enhancing the accuracy and interpretablity for bearing fault diagnosis.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Heterogeneous neural blind deconvolution: A signal processing-empowered foundation feature extractor for bearing fault diagnosis.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42176664/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #DeepLearning",
-    "summaryJP": "深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
     "paperAuthors": "Jing-Xiao Liao, Chao He, Jipu Li, Xiao-Cong Zhong, Jinwei Sun, Yiu-Ming Cheung",
     "publishedDate": "2026-05-23",
     "paperId": "42176664",
