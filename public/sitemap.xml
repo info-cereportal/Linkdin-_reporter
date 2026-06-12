@@ -2,23 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://eegbugckets.web.app/</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-12</lastmod>
   </url>
   <url>
     <loc>https://eegbugckets.web.app/about</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-12</lastmod>
   </url>
   <url>
     <loc>https://eegbugckets.web.app/privacy</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-12</lastmod>
   </url>
   <url>
     <loc>https://eegbugckets.web.app/terms</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-12</lastmod>
   </url>
   <url>
     <loc>https://eegbugckets.web.app/contact</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-12</lastmod>
+  </url>
+  <url>
+    <loc>https://eegbugckets.web.app/article/202606120008-2606.11833</loc>
+    <lastmod>2026-06-12</lastmod>
   </url>
   <url>
     <loc>https://eegbugckets.web.app/article/202606110003-2606.10222</loc>
@@ -214,10 +218,6 @@
   </url>
   <url>
     <loc>https://eegbugckets.web.app/article/202605250702-2605.23111</loc>
-    <lastmod>2026-05-25</lastmod>
-  </url>
-  <url>
-    <loc>https://eegbugckets.web.app/article/202605250229-42176664</loc>
     <lastmod>2026-05-25</lastmod>
   </url>
 </urlset>

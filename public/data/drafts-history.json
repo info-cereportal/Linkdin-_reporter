@@ -1,5 +1,33 @@
 [
   {
+    "generatedAt": "2026-06-12T00:08:39.219Z",
+    "date": "2026-06-12",
+    "topic": "Transformerと言語処理",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics",
+    "paperLink": "https://arxiv.org/abs/2606.11833",
+    "figureUrl": "https://arxiv.org/html/2606.11833/2606.11833v1/x1.png",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n数字が語る、Transformerと言語処理の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 Transformer × 言語処理 × fMRI\n\n📊 注目すべきデータ：\n→ Such zero-shot generation could enable counterfactual neuroscience by supporting in-silico design and evaluation of novel cognitive experiments before empirical validation.\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics\n🔗 https://arxiv.org/abs/2606.11833\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #NeuroAI",
+    "summaryJP": "Transformerと言語処理 — 数値で示された新事実（ニューロAI・計算論）",
+    "paperAuthors": "Sam Gijsen, Michał Łukomski, Marc-André Schulz, Kerstin Ritter",
+    "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
+    "paperId": "2606.11833",
+    "paperSource": "arxiv",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "Transformer",
+      "言語処理",
+      "fMRI"
+    ],
+    "abstractExcerpt": "Flow matching and diffusion models enable conditional generation across domains ranging from images to proteins, with recent extensions to out-of-distribution contexts. Yet generative models of neural time series have largely remained…",
+    "figureUrls": [
+      "https://arxiv.org/html/2606.11833/2606.11833v1/x1.png",
+      "https://arxiv.org/html/2606.11833/2606.11833v1/x2.png",
+      "https://arxiv.org/html/2606.11833/2606.11833v1/figures/model_overview_4box.png"
+    ]
+  },
+  {
     "generatedAt": "2026-06-11T00:03:11.053Z",
     "date": "2026-06-11",
     "topic": "脳情報科学の最新研究",
@@ -1261,28 +1289,6 @@
       "ECoG(皮質脳波)"
     ],
     "abstractExcerpt": "The human brain represents objects in a way that is both invariant across instances and flexible enough to support different contexts and tasks. Yet it remains unknown how object representations are dynamically remapped as the same object…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-25T02:29:14.129Z",
-    "date": "2026-05-25",
-    "topic": "深層学習と学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Heterogeneous neural blind deconvolution: A signal processing-empowered foundation feature extractor for bearing fault diagnosis.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42176664/",
-    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、深層学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 深層学習 × 学習\n\n📊 注目すべきデータ：\n→ Extensive experiments and comparisons with state-of-the-art baselines clearly show the advantage of HBD in enhancing the accuracy and interpretablity for bearing fault diagnosis.\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Heterogeneous neural blind deconvolution: A signal processing-empowered foundation feature extractor for bearing fault diagnosis.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42176664/\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #神経科学",
-    "summaryJP": "深層学習と学習 — 数値で示された新事実（ニューロAI・計算論）",
-    "paperAuthors": "Jing-Xiao Liao, Chao He, Jipu Li, Xiao-Cong Zhong, Jinwei Sun, Yiu-Ming Cheung",
-    "publishedDate": "2026-05-23",
-    "paperId": "42176664",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "深層学習",
-      "学習"
-    ],
-    "abstractExcerpt": "Deep learning has exhibited a promising performance in a series of task-specific bearing fault diagnosis problems. However, the current literature lacks a versatile model that could serve as a general-purpose feature extractor for a wide…",
     "figureUrls": []
   }
 ]
