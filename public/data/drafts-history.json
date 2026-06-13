@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-06-13T23:43:58.518Z",
+    "date": "2026-06-13",
+    "topic": "学習と強化学習",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "A multi-task learning framework for diagnosing partial discharge types and assessing severity.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42286070/",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\n学習と強化学習の最新成果を整理しました。\n\n🔬 学習 × 強化学習 × 意思決定 × 深層学習\n\n📊 注目すべきデータ：\n→ Early detection, accurate localization, identification of discharge types, and assessment of discharge severity play a significant role in improving system reliability and...\n→ This paper proposes a novel framework, termed PD-IntelliFusionNet, for simultaneous PD type diagnosis and severity assessment.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 A multi-task learning framework for diagnosing partial discharge types and assessing severity.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42286070/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #ニューロテック",
+    "summaryJP": "学習と強化学習 — 注目すべき3つの示唆（ニューロAI・計算論）",
+    "paperAuthors": "Jin Zhang",
+    "publishedDate": "2026-06-12",
+    "paperId": "42286070",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "学習",
+      "強化学習",
+      "意思決定",
+      "深層学習",
+      "Transformer",
+      "注意機構"
+    ],
+    "abstractExcerpt": "Partial Discharge (PD) is one of the most critical factors contributing to the degradation of insulation systems in power transformers. Early detection, accurate localization, identification of discharge types, and assessment of discharge…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-06-13T00:04:56.363Z",
     "date": "2026-06-13",
     "topic": "学習",
@@ -1249,32 +1275,6 @@
     "paperLink": "https://arxiv.org/abs/2502.20349",
     "figureUrl": "https://arxiv.org/html/2502.20349/2502.20349v5/x1.png",
     "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習\n\n> How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace experiments with increasingly naturalistic...\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior\n🔗 https://arxiv.org/abs/2502.20349\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #神経科学",
-    "summaryJP": "学習 — 数値で示された新事実",
-    "paperAuthors": "Wilka Carvalho, Andrew Lampinen",
-    "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
-    "paperId": "2502.20349",
-    "paperSource": "arxiv",
-    "themeArea": "脳情報科学",
-    "jpKeywords": [
-      "学習"
-    ],
-    "abstractExcerpt": "How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace…",
-    "figureUrls": [
-      "https://arxiv.org/html/2502.20349/2502.20349v5/x1.png",
-      "https://arxiv.org/html/2502.20349/2502.20349v5/x2.png",
-      "https://arxiv.org/html/2502.20349/2502.20349v5/x4.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-25T12:18:32.895Z",
-    "date": "2026-05-25",
-    "topic": "学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior",
-    "paperLink": "https://arxiv.org/abs/2502.20349",
-    "figureUrl": "https://arxiv.org/html/2502.20349/2502.20349v5/x1.png",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n数字が語る、学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習\n\n> How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace experiments with increasingly naturalistic...\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior\n🔗 https://arxiv.org/abs/2502.20349\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #神経科学",
     "summaryJP": "学習 — 数値で示された新事実",
     "paperAuthors": "Wilka Carvalho, Andrew Lampinen",
     "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",

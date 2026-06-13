@@ -1,67 +1,26 @@
 {
-  "generatedAt": "2026-06-13T00:04:56.583Z",
+  "generatedAt": "2026-06-13T23:43:58.816Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "A quantum-like benchmark for context-sensitive associative memory with adaptive plasticity",
-          "url": "https://arxiv.org/abs/2606.12449",
-          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Learning and memory require a balance between plasticity and stability: synaptic connections must encode new information without collapsing, saturating, or erasing previously useful structure. Associative-memory models can appear to learn…",
-          "authors": "Yashine H. Goolam Hossen, Lea Gassab, Travis J. A. Craddock"
-        },
-        {
-          "title": "Multifractal human signals at the edge of life reveal a heart-brain anti-correlation",
-          "url": "https://arxiv.org/abs/2606.12600",
-          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This study investigates the terminal breakdown of human neurophysiological function through the lens of non-linear dynamics by analyzing the multifractal spectrum. Using Multifractal Detrended Fluctuation Analysis (MF-DFA), we quantify the…",
-          "authors": "Yago Emanoel Ramos, Maria Eloá do Ó, Henrique Ferraz de Arruda, Mauro Copelli, G. Camelo-Neto, Pedro V. Carelli"
-        },
-        {
-          "title": "Phase model analysis of the effect of M-current on neural synchrony in hippocampal networks",
-          "url": "https://arxiv.org/abs/2606.12684",
-          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Neural assemblies, transiently coordinated groups of neurons, observed in the hippocampus are thought to underlie the formation of episodic memories. Acetylcholine (ACh), a neuromodulator, that is received by the hippocampus, plays a…",
-          "authors": "Megha Manoj, Sue Ann Campbell"
-        },
-        {
-          "title": "Deep Sleep Classification via EEG Signal Criticality: A Passive BCI Approach for Sleep-Improvement Neurofeedback",
-          "url": "https://arxiv.org/abs/2606.13017",
-          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Automated sleep staging is a fundamental application of passive Brain-Computer Interfaces (pBCI), decoding spontaneous neural states to enable closed-loop interventions independent of user intent. This study evaluates criticality features…",
-          "authors": "Stanisław Nar\\kebski, Tomasz Komendziński, Tomasz M. Rutkowski"
-        },
-        {
-          "title": "Including the Cost of Irreducible Uncertainty in the Policy Compression Framework",
-          "url": "https://arxiv.org/abs/2606.13132",
-          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "AI decision-support systems can benefit from anticipating biases in human decision-making. Many such biases may arise from human cognitive limitations. The policy compression framework models decision-making as a trade-off between reward…",
-          "authors": "Álvaro Garrido-Pérez, Pieter Simoens, Amrapali Pednekar, Yara Khaluf"
-        },
-        {
-          "title": "Extracting Governing Equations from Latent Dynamics via Multi-View Contrastive Learning",
-          "url": "https://arxiv.org/abs/2606.13260",
-          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Identifying latent dynamical systems from noisy, high-dimensional measurements is a central problem at the intersection of representation learning, system identification, and scientific discovery. We present DYSCO, a multi-view temporal…",
-          "authors": "Paolo Muratore, Mackenzie Weygandt Mathis"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "WHO director-general is profoundly concerned after visit to Ebola outbreak area",
+          "url": "https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/?utm_campaign=rss",
+          "publishedDate": "Sat, 13 Jun 2026 13:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "The director-general of the World Health Organization is profoundly worried about the Ebola outbreak in the DRC, he told STAT in an interview.",
+          "authors": "Helen Branswell"
+        },
         {
           "title": "Chile offers new data on food warning label efficacy",
           "url": "https://www.statnews.com/2026/06/12/health-news-chile-offers-new-data-on-food-warning-label-efficacy/?utm_campaign=rss",
@@ -101,14 +60,6 @@
           "source": "statnews.com",
           "summary": "A new study found that the leading environmental factor influencing brain structure and function is the socioeconomic status of a child's family.",
           "authors": "Megan Molteni"
-        },
-        {
-          "title": "STAT+: A suspicious denial pattern in Medicare Advantage",
-          "url": "https://www.statnews.com/2026/06/11/medicare-advantage-prior-authorization-denials-trustees-report-prescription-drug-costs/?utm_campaign=rss",
-          "publishedDate": "Thu, 11 Jun 2026 14:55:52 +0000",
-          "source": "statnews.com",
-          "summary": "Major Medicare Advantage plans almost always reversed their denials on appeal, raising big questions about barriers to care.",
-          "authors": "John Wilkerson"
         }
       ]
     },
@@ -118,116 +69,115 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Your brain can keep improving into your 90s, study finds",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
+          "publishedDate": "Sat, 13 Jun 2026 10:47:04 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: FDA approves Sanofi diabetes drug for children with stage 3 diabetes",
+          "url": "https://www.statnews.com/2026/06/13/teplizumab-tzield-sanofi-fda-approval-children-stage-3-diabetes/?utm_campaign=rss",
+          "publishedDate": "Sat, 13 Jun 2026 13:22:44 +0000",
+          "source": "statnews.com",
+          "summary": "The FDA has approved a drug that was previously caught in a dispute between career staff and the political appointee head of the CDER.",
+          "authors": "Lizzy Lawrence"
+        },
+        {
+          "title": "Why grandparents matter more than ever for children&#039;s mental health",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260613034206.htm",
+          "publishedDate": "Sat, 13 Jun 2026 05:11:52 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A child psychologist says grandparents are more important than ever as youth mental health challenges continue to rise. He argues that children need supportive relationships, meaningful conversations, and a sense of purpose—not just…",
+          "authors": ""
+        },
+        {
+          "title": "A hidden gene finally explains this rare neurological disorder",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612032046.htm",
+          "publishedDate": "Sat, 13 Jun 2026 03:32:20 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a surprising new genetic cause of a rare movement disorder after analyzing nearly 3,000 patients with conditions affecting coordination and muscle control. The team identified mutations in a gene called CD99L2,…",
+          "authors": ""
+        },
+        {
+          "title": "New fentanyl vaccine blocks deadly overdoses before they start",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612032029.htm",
+          "publishedDate": "Sat, 13 Jun 2026 01:35:08 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new experimental vaccine developed by Scripps Research could offer a powerful new way to prevent fentanyl overdoses by stopping the drug before it reaches the brain. Rather than targeting only fentanyl itself, the vaccine trains the…",
+          "authors": ""
+        },
+        {
           "title": "STAT+: Trump administration revisits policy to close Medicare drug price negotiation loophole",
           "url": "https://www.statnews.com/2026/06/12/medicare-drug-price-negotiation-loophole-proposed-rule/?utm_campaign=rss",
           "publishedDate": "Fri, 12 Jun 2026 21:45:12 +0000",
           "source": "statnews.com",
           "summary": "Trump administration revisits policy to plug Medicare drug price negotiation loophole.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "These tiny holes could change how the world cleans water",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm",
-          "publishedDate": "Fri, 12 Jun 2026 09:13:19 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new nature-inspired membrane uses perfectly uniform one-nanometer pores to filter molecules with remarkable precision. The technology could transform industries such as pharmaceuticals and textiles by reducing energy consumption,…",
-          "authors": ""
-        },
-        {
-          "title": "Can fasting fight gum disease? Scientists find surprising link",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260612032032.htm",
-          "publishedDate": "Fri, 12 Jun 2026 09:05:28 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A low-calorie fasting-style diet significantly reduced inflammation linked to gum disease in a small clinical study. The findings suggest that what people eat may influence gum health almost as much as what they do with a toothbrush.",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover a surprising cancer link to Alzheimer’s disease",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260612032044.htm",
-          "publishedDate": "Fri, 12 Jun 2026 08:47:31 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers discovered that mutations linked to blood cancers may help trigger Alzheimer’s disease by creating overly inflammatory immune cells in the brain. The unexpected finding could lead to new blood-based screening methods and…",
-          "authors": ""
-        },
-        {
-          "title": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
-          "publishedDate": "Fri, 12 Jun 2026 08:35:15 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new treatment that blocks an aging-related protein restored lost cartilage in old mice and helped prevent arthritis after knee injuries. Human cartilage samples showed similar signs of regeneration, raising hopes for a future drug that…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: At hospital finance conference, a call to end the friction that’s keeping costs high",
-          "url": "https://www.statnews.com/2026/06/12/hfma-conference-healthcare-affordability-revenue-cycle-vendors/?utm_campaign=rss",
-          "publishedDate": "Fri, 12 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Hospital execs agree that affordability is a major issue. What to do about it is less clear.",
-          "authors": "Tara Bannow"
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Mixed-Categorical Black-Box Optimization via Information-Geometric Bilevel Decomposition",
-          "url": "https://arxiv.org/abs/2606.12885",
-          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Mixed categorical-continuous optimization arises in many practical domains, yet remains challenging. In the black-box setting, evolution strategy-based approaches have shown promise in extending the efficiency and robustness of the CMA-ES…",
-          "authors": "Marc Ong, Shinichi Shirakawa, Youhei Akimoto"
-        },
-        {
-          "title": "Multi-Objective Coevolution of Prompts and Templates for Circuit Approximation",
-          "url": "https://arxiv.org/abs/2606.13089",
-          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Approximate multipliers deliberately relax computational accuracy to achieve gains in power efficiency, latency, and silicon area, which makes them well-suited for error-resilient applications such as neural networks. In this work, we…",
-          "authors": "Martin Tomasovic, Lukas Sekanina"
-        },
-        {
-          "title": "Runtime Analysis of the $(\\mu + 1)$-ES in a Homogenous Progress Model",
-          "url": "https://arxiv.org/abs/2606.13323",
-          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We introduce a new simple model to study the fitness progress of Evolution Strategies (ES) in generic problems. In this model, we bypass the underlying fitness landscape and assume that the mutation of any individual produces an offspring…",
-          "authors": "Johannes Lengler, Raghu Raman Ravi"
-        },
-        {
-          "title": "Improved Runtime Bound for the $(\\mu + 1)$ EA on BinVal",
-          "url": "https://arxiv.org/abs/2606.13344",
-          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We study the $(\\mu+1)$ EA on the Binary Value function BinVal. We show that it needs at most $O(\\mu \\log \\mu \\cdot n \\log n)$ function evaluations to find the optimum when $\\mu = o(n/\\log n)$. This substantially improves upon the recent…",
-          "authors": "Joris Belder, Johannes Lengler, Raghu Raman Ravi"
-        },
-        {
-          "title": "The $(1 + 1)$-EA in Dynamic Environments",
-          "url": "https://arxiv.org/abs/2606.13360",
-          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We study the $(1 + 1)$-EA in dynamic linear environments, where in every generation selection is performed with respect to a freshly sampled linear function with positive weights. We consider the Dynamic Binary Value problem, where each…",
-          "authors": "Georg Hasebe, Johannes Lengler, Raghu Raman Ravi"
-        },
-        {
-          "title": "Adaptive-Frequency Resonate-and-Fire Neurons for Spectral Estimation of Streaming Radar Signals",
-          "url": "https://arxiv.org/abs/2606.13516",
-          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Frequency Modulated Continuous Wave (FMCW) radar systems traditionally rely on Fourier-based methods, such as the Fast Fourier Transform (FFT), to estimate target range and velocity. While computationally efficient, these approaches…",
-          "authors": "Stefano Chiavazza, Sen Yuan, Marc Geilen, Francesco Fioranelli, Federico Corradi"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
+        },
+        {
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
+        }
+      ]
     }
   }
 }
