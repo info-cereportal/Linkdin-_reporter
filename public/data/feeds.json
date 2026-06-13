@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T00:08:39.693Z",
+  "generatedAt": "2026-06-13T00:04:56.583Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Spatially Masked Regression Reveals Local and Distributed Predictability in Electrophysiological Recordings",
-          "url": "https://arxiv.org/abs/2606.11415",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
+          "title": "A quantum-like benchmark for context-sensitive associative memory with adaptive plasticity",
+          "url": "https://arxiv.org/abs/2606.12449",
+          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neural recordings are often interpreted as local measurements, yet the signal at any one sensor can also reflect structured activity distributed across the broader network. This raises a basic question: to what extent does an electrode's…",
-          "authors": "Maryam Ostadsharif Memar, Nima Dehghani"
+          "summary": "Learning and memory require a balance between plasticity and stability: synaptic connections must encode new information without collapsing, saturating, or erasing previously useful structure. Associative-memory models can appear to learn…",
+          "authors": "Yashine H. Goolam Hossen, Lea Gassab, Travis J. A. Craddock"
         },
         {
-          "title": "End-to-End Machine Learning for Depressive State Classification via EEG and fNIRS",
-          "url": "https://arxiv.org/abs/2606.11555",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
+          "title": "Multifractal human signals at the edge of life reveal a heart-brain anti-correlation",
+          "url": "https://arxiv.org/abs/2606.12600",
+          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The escalating demand for mental healthcare, driven by rising societal stress, highlights the limitations of traditional psychiatric diagnostics. Conventional methods - relying primarily on clinical interviews and patient self-reports -…",
-          "authors": "Riki Sakurai, Simon Kojima, Mihoko Otake-Matsuura, Shin'ichiro Kanoh, Tomasz M. Rutkowski"
+          "summary": "This study investigates the terminal breakdown of human neurophysiological function through the lens of non-linear dynamics by analyzing the multifractal spectrum. Using Multifractal Detrended Fluctuation Analysis (MF-DFA), we quantify the…",
+          "authors": "Yago Emanoel Ramos, Maria Eloá do Ó, Henrique Ferraz de Arruda, Mauro Copelli, G. Camelo-Neto, Pedro V. Carelli"
         },
         {
-          "title": "Large language models selectively converge with human-shared neural semantic representations",
-          "url": "https://arxiv.org/abs/2606.11598",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
+          "title": "Phase model analysis of the effect of M-current on neural synchrony in hippocampal networks",
+          "url": "https://arxiv.org/abs/2606.12684",
+          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Interpersonal communication requires building shared semantics that enable listeners to understand speakers' meanings from their unfolding language, but the dimensional structure of this shared neural representation remains unclear. LLMs…",
-          "authors": "Chen Hong, Ximing Shao, Gangyi Feng"
+          "summary": "Neural assemblies, transiently coordinated groups of neurons, observed in the hippocampus are thought to underlie the formation of episodic memories. Acetylcholine (ACh), a neuromodulator, that is received by the hippocampus, plays a…",
+          "authors": "Megha Manoj, Sue Ann Campbell"
         },
         {
-          "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
-          "url": "https://arxiv.org/abs/2606.11245",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
+          "title": "Deep Sleep Classification via EEG Signal Criticality: A Passive BCI Approach for Sleep-Improvement Neurofeedback",
+          "url": "https://arxiv.org/abs/2606.13017",
+          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Large Language Models (LLMs) have demonstrated remarkable capabilities across various tasks, raising expectations for Artificial General Intelligence (AGI). This position paper argues that integrating explicit memory is the cornerstone for…",
-          "authors": "Sangjun Park"
+          "summary": "Automated sleep staging is a fundamental application of passive Brain-Computer Interfaces (pBCI), decoding spontaneous neural states to enable closed-loop interventions independent of user intent. This study evaluates criticality features…",
+          "authors": "Stanisław Nar\\kebski, Tomasz Komendziński, Tomasz M. Rutkowski"
         },
         {
-          "title": "FlexiBrain: Resolution-Agnostic Voxel-Level Encoding for Native fMRI",
-          "url": "https://arxiv.org/abs/2606.11500",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
+          "title": "Including the Cost of Irreducible Uncertainty in the Policy Compression Framework",
+          "url": "https://arxiv.org/abs/2606.13132",
+          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The success of large-scale deep learning models in neuroscience is fundamentally constrained by severe data heterogeneity. Native fMRI data aggregated from diverse sources exhibit substantial variation in both spatial and temporal…",
-          "authors": "Mo Wang, Wenhao Ye, Junfeng Xia, Minghao Xu, Hongkai Wen, Quanying Liu"
+          "summary": "AI decision-support systems can benefit from anticipating biases in human decision-making. Many such biases may arise from human cognitive limitations. The policy compression framework models decision-making as a trade-off between reward…",
+          "authors": "Álvaro Garrido-Pérez, Pieter Simoens, Amrapali Pednekar, Yara Khaluf"
         },
         {
-          "title": "Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics",
-          "url": "https://arxiv.org/abs/2606.11833",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
+          "title": "Extracting Governing Equations from Latent Dynamics via Multi-View Contrastive Learning",
+          "url": "https://arxiv.org/abs/2606.13260",
+          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Flow matching and diffusion models enable conditional generation across domains ranging from images to proteins, with recent extensions to out-of-distribution contexts. Yet generative models of neural time series have largely remained…",
-          "authors": "Sam Gijsen, Michał Łukomski, Marc-André Schulz, Kerstin Ritter"
+          "summary": "Identifying latent dynamical systems from noisy, high-dimensional measurements is a central problem at the intersection of representation learning, system identification, and scientific discovery. We present DYSCO, a multi-view temporal…",
+          "authors": "Paolo Muratore, Mackenzie Weygandt Mathis"
         }
       ]
     },
@@ -62,6 +62,22 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Chile offers new data on food warning label efficacy",
+          "url": "https://www.statnews.com/2026/06/12/health-news-chile-offers-new-data-on-food-warning-label-efficacy/?utm_campaign=rss",
+          "publishedDate": "Fri, 12 Jun 2026 11:51:16 +0000",
+          "source": "statnews.com",
+          "summary": "Kennedy's \"publicly\" \"available\" \"calendar,\" drinking during pregnancy, and more health news from Morning Rounds",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "STAT+: Updated: Tracking RFK Jr.’s promises to remake health in America",
+          "url": "https://www.statnews.com/2026/06/11/rfk-jr-maha-promise-tracker-fact-check/?utm_campaign=rss",
+          "publishedDate": "Fri, 12 Jun 2026 00:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "STAT is tracking goals and promises of Robert F. Kennedy Jr. and his Make America Healthy Again movement — successes, incompletes, and fails.",
+          "authors": "Isabella Cueto and J. Emory Parker"
+        },
         {
           "title": "Drinking during pregnancy rose after 2020, new CDC data suggest",
           "url": "https://www.statnews.com/2026/06/11/cdc-report-alcohol-pregnancy-growing-problem/?utm_campaign=rss",
@@ -93,22 +109,6 @@
           "source": "statnews.com",
           "summary": "Major Medicare Advantage plans almost always reversed their denials on appeal, raising big questions about barriers to care.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "HHS responds coolly to paper on alcohol risk",
-          "url": "https://www.statnews.com/2026/06/11/health-news-hhs-responds-to-paper-on-alcohol-risk/?utm_campaign=rss",
-          "publishedDate": "Thu, 11 Jun 2026 11:55:52 +0000",
-          "source": "statnews.com",
-          "summary": "Soda and liver cancer, scientists conflicted on a new NIH proposal, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "Diabetes association leader apologizes for expulsion of members, pledges to rebuild trust",
-          "url": "https://www.statnews.com/2026/06/10/ada-annual-convention-ceo-apology-protester-removal/?utm_campaign=rss",
-          "publishedDate": "Wed, 10 Jun 2026 19:42:34 +0000",
-          "source": "statnews.com",
-          "summary": "The American Diabetes Association CEO apologizes to five members kicked out of annual convention for distributing protest literature, launches review of what went awry.",
-          "authors": "Elizabeth Cooney"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "RFK Jr. claims his calendar is publicly available. We&#8217;ve been trying to get it for a year",
-          "url": "https://www.statnews.com/2026/06/11/rfk-jr-cites-publicly-available-calendar-never-released-foia-requests/?utm_campaign=rss",
-          "publishedDate": "Thu, 11 Jun 2026 19:53:52 +0000",
+          "title": "STAT+: Trump administration revisits policy to close Medicare drug price negotiation loophole",
+          "url": "https://www.statnews.com/2026/06/12/medicare-drug-price-negotiation-loophole-proposed-rule/?utm_campaign=rss",
+          "publishedDate": "Fri, 12 Jun 2026 21:45:12 +0000",
           "source": "statnews.com",
-          "summary": "None of STAT's requests for Kennedy's schedule have been completed, and some haven't even been acknowledged.",
-          "authors": "Chelsea Cirruzzo and Daniel Payne"
-        },
-        {
-          "title": "STAT+: A suspicious denial pattern in Medicare Advantage",
-          "url": "https://www.statnews.com/2026/06/11/medicare-advantage-prior-authorization-denials-trustees-report-prescription-drug-costs/?utm_campaign=rss",
-          "publishedDate": "Thu, 11 Jun 2026 14:55:52 +0000",
-          "source": "statnews.com",
-          "summary": "Major Medicare Advantage plans almost always reversed their denials on appeal, raising big questions about barriers to care.",
+          "summary": "Trump administration revisits policy to plug Medicare drug price negotiation loophole.",
           "authors": "John Wilkerson"
         },
         {
-          "title": "The deadly tapeworm spreading across America has reached the Pacific Northwest",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260611024610.htm",
-          "publishedDate": "Thu, 11 Jun 2026 09:31:42 EDT",
+          "title": "These tiny holes could change how the world cleans water",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm",
+          "publishedDate": "Fri, 12 Jun 2026 09:13:19 EDT",
           "source": "sciencedaily.com",
-          "summary": "A potentially dangerous tapeworm linked to severe, cancer-like disease has now been found in the Pacific Northwest, marking its first detection in wild animals along the U.S. West Coast. Researchers discovered the parasite, Echinococcus…",
+          "summary": "A new nature-inspired membrane uses perfectly uniform one-nanometer pores to filter molecules with remarkable precision. The technology could transform industries such as pharmaceuticals and textiles by reducing energy consumption,…",
           "authors": ""
         },
         {
-          "title": "STAT+: Scientists see promise in NIH proposal to cap number of grants they receive",
-          "url": "https://www.statnews.com/2026/06/11/nih-grant-cap-proposal-science-policy-experts-react/?utm_campaign=rss",
-          "publishedDate": "Thu, 11 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Without easy access to leaders within a field or top-of-the-line lab equipment, principal investigators outside top universities often struggle to compete for grants from the NIH.",
-          "authors": "Anil Oza"
-        },
-        {
-          "title": "Scientists discover a hidden cause of aging cells that can be reversed",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm",
-          "publishedDate": "Thu, 11 Jun 2026 02:25:29 EDT",
+          "title": "Can fasting fight gum disease? Scientists find surprising link",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612032032.htm",
+          "publishedDate": "Fri, 12 Jun 2026 09:05:28 EDT",
           "source": "sciencedaily.com",
-          "summary": "Researchers discovered that declining levels of phosphatidylcholine may be a major cause of age-related mitochondrial dysfunction and loss of cellular energy. Remarkably, boosting this nutrient restored more youthful mitochondrial…",
+          "summary": "A low-calorie fasting-style diet significantly reduced inflammation linked to gum disease in a small clinical study. The findings suggest that what people eat may influence gum health almost as much as what they do with a toothbrush.",
           "authors": ""
         },
         {
-          "title": "STAT+: Private Medicare plans erect barriers to rehab care in pursuit of profit, federal investigators find",
-          "url": "https://www.statnews.com/2026/06/11/medicare-advantage-oig-report-rehab-care-deny-appeal-reverse/?utm_campaign=rss",
-          "publishedDate": "Thu, 11 Jun 2026 04:01:00 +0000",
+          "title": "Scientists discover a surprising cancer link to Alzheimer’s disease",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612032044.htm",
+          "publishedDate": "Fri, 12 Jun 2026 08:47:31 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers discovered that mutations linked to blood cancers may help trigger Alzheimer’s disease by creating overly inflammatory immune cells in the brain. The unexpected finding could lead to new blood-based screening methods and…",
+          "authors": ""
+        },
+        {
+          "title": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
+          "publishedDate": "Fri, 12 Jun 2026 08:35:15 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new treatment that blocks an aging-related protein restored lost cartilage in old mice and helped prevent arthritis after knee injuries. Human cartilage samples showed similar signs of regeneration, raising hopes for a future drug that…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: At hospital finance conference, a call to end the friction that’s keeping costs high",
+          "url": "https://www.statnews.com/2026/06/12/hfma-conference-healthcare-affordability-revenue-cycle-vendors/?utm_campaign=rss",
+          "publishedDate": "Fri, 12 Jun 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "Federal investigation finds Medicare Advantage insurers block rehab care for older adults, only to reverse denials on appeal.",
-          "authors": "Casey Ross and Bob Herman"
+          "summary": "Hospital execs agree that affordability is a major issue. What to do about it is less clear.",
+          "authors": "Tara Bannow"
         }
       ]
     },
@@ -173,85 +173,61 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "A2SG:Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks",
-          "url": "https://arxiv.org/abs/2606.11236",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
+          "title": "Mixed-Categorical Black-Box Optimization via Information-Geometric Bilevel Decomposition",
+          "url": "https://arxiv.org/abs/2606.12885",
+          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Training deep spiking neural networks (SNNs) remains challenging due to sharp loss landscapes and temporal inconsistency caused by surrogate gradients. To address these challenges, we propose a unified framework: adaptive and asymmetric…",
-          "authors": "Yechan Kang, Yongjin Kweon, Mingyeong Seo, Sohee Park, Yeonguk Jeon, Jongkil Park, Hyun Jae Jang, Jaewook Kim, YeonJoo Jeong, Suyoun Lee, Seongsik Park"
+          "summary": "Mixed categorical-continuous optimization arises in many practical domains, yet remains challenging. In the black-box setting, evolution strategy-based approaches have shown promise in extending the efficiency and robustness of the CMA-ES…",
+          "authors": "Marc Ong, Shinichi Shirakawa, Youhei Akimoto"
         },
         {
-          "title": "Mathematical perspective on genetic algorithms with optimization guided operators",
-          "url": "https://arxiv.org/abs/2606.12279",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
+          "title": "Multi-Objective Coevolution of Prompts and Templates for Circuit Approximation",
+          "url": "https://arxiv.org/abs/2606.13089",
+          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent work in ML applies genetic algorithms at inference time to iteratively improve solutions to optimization problems. The basic mutation and recombination operators involved are qualitatively different from those studied classically.…",
-          "authors": "Anna Brandenberger, Ilan Doron-Arad, Elchanan Mossel"
+          "summary": "Approximate multipliers deliberately relax computational accuracy to achieve gains in power efficiency, latency, and silicon area, which makes them well-suited for error-resilient applications such as neural networks. In this work, we…",
+          "authors": "Martin Tomasovic, Lukas Sekanina"
         },
         {
-          "title": "SpikeDecoder: Realizing the GPT Architecture with Spiking Neural Networks",
-          "url": "https://arxiv.org/abs/2606.12287",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
+          "title": "Runtime Analysis of the $(\\mu + 1)$-ES in a Homogenous Progress Model",
+          "url": "https://arxiv.org/abs/2606.13323",
+          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The Transformer architecture is widely regarded as the most powerful tool for natural language processing, but due to a high number of complex operations, it inherently faces the issue of high energy consumption. To address this issue, we…",
-          "authors": "Claas Beger, Florian Walter, Alois Knoll"
+          "summary": "We introduce a new simple model to study the fitness progress of Evolution Strategies (ES) in generic problems. In this model, we bypass the underlying fitness landscape and assume that the mutation of any individual produces an offspring…",
+          "authors": "Johannes Lengler, Raghu Raman Ravi"
         },
         {
-          "title": "SPEA2$^+$: Improved Density Estimation in SPEA2 with Provable Runtime Guarantees",
-          "url": "https://arxiv.org/abs/2606.12382",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
+          "title": "Improved Runtime Bound for the $(\\mu + 1)$ EA on BinVal",
+          "url": "https://arxiv.org/abs/2606.13344",
+          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The Strength Pareto Evolutionary Algorithm 2 (SPEA2) is a popular and prominent evolutionary algorithm for solving multi-objective optimisation problems. Despite its popularity, theoretical analyses of SPEA2 have only appeared recently.…",
-          "authors": "Duc-Cuong Dang, Andre Opris, Dirk Sudholt"
+          "summary": "We study the $(\\mu+1)$ EA on the Binary Value function BinVal. We show that it needs at most $O(\\mu \\log \\mu \\cdot n \\log n)$ function evaluations to find the optimum when $\\mu = o(n/\\log n)$. This substantially improves upon the recent…",
+          "authors": "Joris Belder, Johannes Lengler, Raghu Raman Ravi"
         },
         {
-          "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
-          "url": "https://arxiv.org/abs/2606.11245",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
+          "title": "The $(1 + 1)$-EA in Dynamic Environments",
+          "url": "https://arxiv.org/abs/2606.13360",
+          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Large Language Models (LLMs) have demonstrated remarkable capabilities across various tasks, raising expectations for Artificial General Intelligence (AGI). This position paper argues that integrating explicit memory is the cornerstone for…",
-          "authors": "Sangjun Park"
+          "summary": "We study the $(1 + 1)$-EA in dynamic linear environments, where in every generation selection is performed with respect to a freshly sampled linear function with positive weights. We consider the Dynamic Binary Value problem, where each…",
+          "authors": "Georg Hasebe, Johannes Lengler, Raghu Raman Ravi"
         },
         {
-          "title": "My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents",
-          "url": "https://arxiv.org/abs/2606.11256",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
+          "title": "Adaptive-Frequency Resonate-and-Fire Neurons for Spectral Estimation of Streaming Radar Signals",
+          "url": "https://arxiv.org/abs/2606.13516",
+          "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Designing molecules with target properties is most useful when candidate structures are accompanied by feasible synthetic routes. We introduce My Chemical Harness, a route-native evolutionary framework for goal-directed molecular design in…",
-          "authors": "César Ojeda, Darius A. Faroughy, Maryam Karimi, Payam Zarrintaj, Mir Mehdi Seyedebrahimi, Martín Carballo-Pacheco"
+          "summary": "Frequency Modulated Continuous Wave (FMCW) radar systems traditionally rely on Fourier-based methods, such as the Fast Fourier Transform (FFT), to estimate target range and velocity. While computationally efficient, these approaches…",
+          "authors": "Stefano Chiavazza, Sen Yuan, Marc Geilen, Francesco Fioranelli, Federico Corradi"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 3,
-      "items": [
-        {
-          "title": "Characterization of Speech Imagery in Scalp EEG and Comparison with Motor Imagery",
-          "url": "https://arxiv.org/abs/2606.12223",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "SSpeech imagery is attractive as a brain-computer interface paradigm for communication because it is endogenous and intrinsically linguistic. Yet despite growing interest, its dominant scalp-EEG spatiotemporal characteristics remain poorly…",
-          "authors": "Bob Van Dyck, Liuyin Yang, Qiang Sun, Ang Li, Marc M. Van Hulle"
-        },
-        {
-          "title": "Low-Density EEG for Seizure Detection: Evaluating CNN-RNN Architectures on a Behind-the-Ear Montage Setup",
-          "url": "https://arxiv.org/abs/2606.11970",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Epilepsy affects over 50 million individuals globally, underscoring the need for automated seizure detection systems that can alleviate clinicians workload and enhance the accuracy of patient seizure diaries. In wearable EEG applications,…",
-          "authors": "Annika Stiehl, Patrick Wingert, Nicolas Weeger, Nicole Ille, Christian Uhl, Stefan Geißelsöder"
-        },
-        {
-          "title": "Cross-Domain Multi-Person Human Activity Recognition via Near-Field Wi-Fi Sensing",
-          "url": "https://arxiv.org/abs/2510.17816",
-          "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Wi-Fi-based human activity recognition (HAR) provides substantial convenience and has emerged as a thriving research field, yet the coarse spatial resolution inherent to Wi-Fi significantly hinders its ability to distinguish multiple…",
-          "authors": "Xin Li, Jingzhi Hu, Yinghui He, Hongbo Wang, Jin Gan, Jun Luo"
-        }
-      ]
+      "itemCount": 0,
+      "error": "no BCI-keyword match in fetched feed",
+      "items": []
     }
   }
 }

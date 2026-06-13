@@ -1,5 +1,27 @@
 [
   {
+    "generatedAt": "2026-06-13T00:04:56.363Z",
+    "date": "2026-06-13",
+    "topic": "学習",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "Fusion Learning from Dynamic Functional Connectivity: Combining the Amplitude and Phase of fMRI Signals to Identify Brain Disorders",
+    "paperLink": "https://arxiv.org/abs/2603.24603",
+    "formatted": "脳の秘密が、また一つ解き明かされました。\n\nこの研究から得られる3つの重要な示唆。\n\n学習の最新成果を整理しました。\n\n🔬 学習 × fMRI\n\n📊 注目すべきデータ：\n→ The results indicate that MSFL significantly outperforms existing comparative models.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n臨床・精神医学応用の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Fusion Learning from Dynamic Functional Connectivity: Combining the Amplitude and Phase of fMRI Signals to Identify Brain Disorders\n🔗 https://arxiv.org/abs/2603.24603\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #DeepLearning",
+    "summaryJP": "学習 — 注目すべき3つの示唆（臨床・精神医学応用）",
+    "paperAuthors": "Jinlong Hu, Jiatong Huang, Zijian Cai",
+    "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
+    "paperId": "2603.24603",
+    "paperSource": "arxiv",
+    "themeArea": "臨床・精神医学応用",
+    "jpKeywords": [
+      "学習",
+      "fMRI"
+    ],
+    "abstractExcerpt": "Dynamic functional connectivity (dFC) derived from resting-state functional magnetic resonance imaging (fMRI) has been extensively utilized in brain science research. The sliding window correlation (SWC) method is a widely used approach…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-06-12T00:08:39.219Z",
     "date": "2026-06-12",
     "topic": "Transformerと言語処理",
@@ -1268,27 +1290,5 @@
       "https://arxiv.org/html/2502.20349/2502.20349v5/x2.png",
       "https://arxiv.org/html/2502.20349/2502.20349v5/x4.png"
     ]
-  },
-  {
-    "generatedAt": "2026-05-25T07:02:09.298Z",
-    "date": "2026-05-25",
-    "topic": "fMRIとECoG(皮質脳波)",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Contextual Role Modulates Object Representational Geometry in the Human Brain",
-    "paperLink": "https://arxiv.org/abs/2605.23111",
-    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、fMRIとECoG(皮質脳波)の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 fMRI × ECoG(皮質脳波)\n\n> The human brain represents objects in a way that is both invariant across instances and flexible enough to support different contexts and tasks. Yet it remains unknown how object representations are dynamically remapped as the same object shifts across contextual roles.\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Contextual Role Modulates Object Representational Geometry in the Human Brain\n🔗 https://arxiv.org/abs/2605.23111\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #認知科学",
-    "summaryJP": "fMRIとECoG(皮質脳波) — 数値で示された新事実（神経デコーディング）",
-    "paperAuthors": "Julien Dirani, Shankar Chawla, Leila Wehbe, Bradford Z. Mahon",
-    "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
-    "paperId": "2605.23111",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "fMRI",
-      "ECoG(皮質脳波)"
-    ],
-    "abstractExcerpt": "The human brain represents objects in a way that is both invariant across instances and flexible enough to support different contexts and tasks. Yet it remains unknown how object representations are dynamically remapped as the same object…",
-    "figureUrls": []
   }
 ]

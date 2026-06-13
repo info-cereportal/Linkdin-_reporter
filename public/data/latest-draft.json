@@ -1,28 +1,22 @@
 {
-  "generatedAt": "2026-06-12T00:08:39.219Z",
-  "date": "2026-06-12",
-  "topic": "Transformerと言語処理",
-  "templateName": "data-driven",
+  "generatedAt": "2026-06-13T00:04:56.363Z",
+  "date": "2026-06-13",
+  "topic": "学習",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics",
-  "paperLink": "https://arxiv.org/abs/2606.11833",
-  "figureUrl": "https://arxiv.org/html/2606.11833/2606.11833v1/x1.png",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n数字が語る、Transformerと言語処理の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 Transformer × 言語処理 × fMRI\n\n📊 注目すべきデータ：\n→ Such zero-shot generation could enable counterfactual neuroscience by supporting in-silico design and evaluation of novel cognitive experiments before empirical validation.\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics\n🔗 https://arxiv.org/abs/2606.11833\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #NeuroAI",
-  "summaryJP": "Transformerと言語処理 — 数値で示された新事実（ニューロAI・計算論）",
-  "paperAuthors": "Sam Gijsen, Michał Łukomski, Marc-André Schulz, Kerstin Ritter",
-  "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
-  "paperId": "2606.11833",
+  "paperTitle": "Fusion Learning from Dynamic Functional Connectivity: Combining the Amplitude and Phase of fMRI Signals to Identify Brain Disorders",
+  "paperLink": "https://arxiv.org/abs/2603.24603",
+  "formatted": "脳の秘密が、また一つ解き明かされました。\n\nこの研究から得られる3つの重要な示唆。\n\n学習の最新成果を整理しました。\n\n🔬 学習 × fMRI\n\n📊 注目すべきデータ：\n→ The results indicate that MSFL significantly outperforms existing comparative models.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n臨床・精神医学応用の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Fusion Learning from Dynamic Functional Connectivity: Combining the Amplitude and Phase of fMRI Signals to Identify Brain Disorders\n🔗 https://arxiv.org/abs/2603.24603\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #DeepLearning",
+  "summaryJP": "学習 — 注目すべき3つの示唆（臨床・精神医学応用）",
+  "paperAuthors": "Jinlong Hu, Jiatong Huang, Zijian Cai",
+  "publishedDate": "Fri, 12 Jun 2026 00:00:00 -0400",
+  "paperId": "2603.24603",
   "paperSource": "arxiv",
-  "themeArea": "ニューロAI・計算論",
+  "themeArea": "臨床・精神医学応用",
   "jpKeywords": [
-    "Transformer",
-    "言語処理",
+    "学習",
     "fMRI"
   ],
-  "abstractExcerpt": "Flow matching and diffusion models enable conditional generation across domains ranging from images to proteins, with recent extensions to out-of-distribution contexts. Yet generative models of neural time series have largely remained…",
-  "figureUrls": [
-    "https://arxiv.org/html/2606.11833/2606.11833v1/x1.png",
-    "https://arxiv.org/html/2606.11833/2606.11833v1/x2.png",
-    "https://arxiv.org/html/2606.11833/2606.11833v1/figures/model_overview_4box.png"
-  ]
+  "abstractExcerpt": "Dynamic functional connectivity (dFC) derived from resting-state functional magnetic resonance imaging (fMRI) has been extensively utilized in brain science research. The sliding window correlation (SWC) method is a widely used approach…",
+  "figureUrls": []
 }
