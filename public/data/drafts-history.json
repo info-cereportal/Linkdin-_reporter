@@ -1,5 +1,28 @@
 [
   {
+    "generatedAt": "2026-06-14T23:48:21.612Z",
+    "date": "2026-06-14",
+    "topic": "深層学習と学習",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Hybrid deep learning model for brain age prediction using time-distributed convolutional and bidirectional LSTM networks.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42286062/",
+    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n深層学習と学習の最新研究です。\n\n🔬 深層学習 × 学習 × 注意機構\n\n📊 注目すべきデータ：\n→ Brain age prediction has gained significant attention due to its strong correlation with neurological and cognitive disorders.\n→ In this study, we propose a novel deep learning model that incorporates time-distributed, convolutional and bidirectional LSTM layers for brain age estimation.\n→ Experimental results demonstrate that our model achieves an MAE of 3.1573 years, outperforming previous methods and improving brain age prediction accuracy.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Hybrid deep learning model for brain age prediction using time-distributed convolutional and bidirectional LSTM networks.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42286062/\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #BCI",
+    "summaryJP": "深層学習と学習 — 次世代へ続く布石（ニューロAI・計算論）",
+    "paperAuthors": "Eslam Mahmoud, Nada M Elshennawy, Amr Elkholy",
+    "publishedDate": "2026-06-12",
+    "paperId": "42286062",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "深層学習",
+      "学習",
+      "注意機構"
+    ],
+    "abstractExcerpt": "Brain age prediction has gained significant attention due to its strong correlation with neurological and cognitive disorders. The discrepancy between an individual's chronological age and their predicted brain age-known as the Brain Age…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-06-13T23:43:58.518Z",
     "date": "2026-06-13",
     "topic": "学習と強化学習",
@@ -1264,31 +1287,5 @@
     ],
     "abstractExcerpt": "This article proposes a formal rapprochement between cognitive load theory and embodied cognition by reconceptualizing psychological representations as dynamic multiscale attractors within a temporal-hierarchical prediction architecture.…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-25T16:58:40.946Z",
-    "date": "2026-05-25",
-    "topic": "学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior",
-    "paperLink": "https://arxiv.org/abs/2502.20349",
-    "figureUrl": "https://arxiv.org/html/2502.20349/2502.20349v5/x1.png",
-    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習\n\n> How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace experiments with increasingly naturalistic...\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior\n🔗 https://arxiv.org/abs/2502.20349\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #神経科学",
-    "summaryJP": "学習 — 数値で示された新事実",
-    "paperAuthors": "Wilka Carvalho, Andrew Lampinen",
-    "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
-    "paperId": "2502.20349",
-    "paperSource": "arxiv",
-    "themeArea": "脳情報科学",
-    "jpKeywords": [
-      "学習"
-    ],
-    "abstractExcerpt": "How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace…",
-    "figureUrls": [
-      "https://arxiv.org/html/2502.20349/2502.20349v5/x1.png",
-      "https://arxiv.org/html/2502.20349/2502.20349v5/x2.png",
-      "https://arxiv.org/html/2502.20349/2502.20349v5/x4.png"
-    ]
   }
 ]

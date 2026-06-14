@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T23:43:58.816Z",
+  "generatedAt": "2026-06-14T23:48:22.245Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,6 +69,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists found a surprising problem with sugar-free diets",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260614011843.htm",
+          "publishedDate": "Sun, 14 Jun 2026 02:37:07 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A surprising new study suggests that completely eliminating sugar may backfire. Mice on a sucrose-free low-fat diet showed worse blood sugar control, increased inflammation, disrupted gut bacteria, and signs of fatty liver compared with…",
+          "authors": ""
+        },
+        {
+          "title": "People taking GLP-1 weight loss drugs like Ozempic started moving less",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260614011841.htm",
+          "publishedDate": "Sun, 14 Jun 2026 02:28:54 EDT",
+          "source": "sciencedaily.com",
+          "summary": "People taking popular weight-loss drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound may be losing pounds, but they could also be moving less. Researchers analyzing Fitbit data found that daily step counts and exercise levels dropped…",
+          "authors": ""
+        },
+        {
+          "title": "Why middle age is becoming a breaking point in the U.S.",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm",
+          "publishedDate": "Sat, 13 Jun 2026 22:24:12 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain, weaker social supports, and chronic…",
+          "authors": ""
+        },
+        {
           "title": "Your brain can keep improving into your 90s, study finds",
           "url": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
           "publishedDate": "Sat, 13 Jun 2026 10:47:04 EDT",
@@ -91,30 +115,6 @@
           "source": "sciencedaily.com",
           "summary": "A child psychologist says grandparents are more important than ever as youth mental health challenges continue to rise. He argues that children need supportive relationships, meaningful conversations, and a sense of purpose—not just…",
           "authors": ""
-        },
-        {
-          "title": "A hidden gene finally explains this rare neurological disorder",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260612032046.htm",
-          "publishedDate": "Sat, 13 Jun 2026 03:32:20 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a surprising new genetic cause of a rare movement disorder after analyzing nearly 3,000 patients with conditions affecting coordination and muscle control. The team identified mutations in a gene called CD99L2,…",
-          "authors": ""
-        },
-        {
-          "title": "New fentanyl vaccine blocks deadly overdoses before they start",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260612032029.htm",
-          "publishedDate": "Sat, 13 Jun 2026 01:35:08 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new experimental vaccine developed by Scripps Research could offer a powerful new way to prevent fentanyl overdoses by stopping the drug before it reaches the brain. Rather than targeting only fentanyl itself, the vaccine trains the…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Trump administration revisits policy to close Medicare drug price negotiation loophole",
-          "url": "https://www.statnews.com/2026/06/12/medicare-drug-price-negotiation-loophole-proposed-rule/?utm_campaign=rss",
-          "publishedDate": "Fri, 12 Jun 2026 21:45:12 +0000",
-          "source": "statnews.com",
-          "summary": "Trump administration revisits policy to plug Medicare drug price negotiation loophole.",
-          "authors": "John Wilkerson"
         }
       ]
     },
