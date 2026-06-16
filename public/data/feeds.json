@@ -1,12 +1,61 @@
 {
-  "generatedAt": "2026-06-14T23:48:22.245Z",
+  "generatedAt": "2026-06-16T00:15:40.788Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Decoding Semantic Categories from Picture-Naming EEG",
+          "url": "https://arxiv.org/abs/2606.14614",
+          "publishedDate": "Mon, 15 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Picture naming requires the transformation of visual object information into a spoken lexical response through perceptual, semantic, lexical, and articulatory processes. This study asked whether semantic-category information is recoverable…",
+          "authors": "Wei Hu, Binbin Xu"
+        },
+        {
+          "title": "Prospective Coding and Path Integration Emerge as Equilibrium Solutions of Self-Organizing Neural Networks with Firing-Rate Adaptation",
+          "url": "https://arxiv.org/abs/2606.14649",
+          "publishedDate": "Mon, 15 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Continuous Attractor Neural Networks (CANNs) traditionally rely on pre-wired recurrent connectivity to model spatial representations, path integration, and anticipatory dynamics. However, the biological mechanisms through which this…",
+          "authors": "Facundo Emina, Emilio Kropff"
+        },
+        {
+          "title": "Implications of hierarchical Markov models of behavior: on irreversibility, predictability, and dimensionality",
+          "url": "https://arxiv.org/abs/2606.14692",
+          "publishedDate": "Mon, 15 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The maturation of quantitative tools for studying the high-level structure of animal behavior, and especially tools which represent spontaneous behavior as a sequence of stereotyped and neurally well-defined 'syllables', demands that the…",
+          "authors": "John J. Vastola, Kanaka Rajan"
+        },
+        {
+          "title": "Neural Variability Enhances Artificial Network Robustness",
+          "url": "https://arxiv.org/abs/2606.13801",
+          "publishedDate": "Mon, 15 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Neural responses in cortex exhibit substantial trial-to-trial variability in response to repeated stimuli, while peripheral sensory neurons respond far more consistently, leading many to wonder whether stochasticity may carry meaning.…",
+          "authors": "Robin Preble, Praveen Venkatesh, Stefan Mihalas, Kameron Decker Harris"
+        },
+        {
+          "title": "Metabolic cost of information processing in Poisson variational autoencoders",
+          "url": "https://arxiv.org/abs/2602.13421",
+          "publishedDate": "Mon, 15 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Computation in biological systems is fundamentally energy-constrained, yet standard theories of computation treat energy as freely available. Here, we argue that variational free energy minimization under a Poisson assumption offers a…",
+          "authors": "Hadi Vafaii, Jacob L. Yates"
+        },
+        {
+          "title": "QualiaNet: An Experience-Before-Inference Network",
+          "url": "https://arxiv.org/abs/2604.14193",
+          "publishedDate": "Mon, 15 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Human 3D vision involves two distinct stages: an Experience Module, where stereo depth is extracted relative to fixation, and an Inference Module, where this experience is interpreted to estimate 3D scene properties. Paradoxically,…",
+          "authors": "Paul Linton"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -14,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Trump’s obesity drug plan creates a temporary Medicare program that may be hard to end",
+          "url": "https://www.statnews.com/2026/06/15/medicare-weight-loss-drugs-glp1-bridge-program-may-be-hard-to-end/?utm_campaign=rss",
+          "publishedDate": "Mon, 15 Jun 2026 15:25:14 +0000",
+          "source": "statnews.com",
+          "summary": "After July 1, Medicare will offer GLP-1 weight-loss drugs for $50. It's supposed to be temporary, but chances are it won't be.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Covid vaccination cut risk of adverse heart events, large study finds",
+          "url": "https://www.statnews.com/2026/06/15/covid-vaccination-cardiovascular-protection-jama-study/?utm_campaign=rss",
+          "publishedDate": "Mon, 15 Jun 2026 15:01:52 +0000",
+          "source": "statnews.com",
+          "summary": "Covid vaccination was also tied to a nearly 24% reduction in all-cause cardiac events in a large study, surprising researchers.",
+          "authors": "Lauren Chan"
+        },
+        {
+          "title": "STAT+: Where ‘democracy met science,’ 50 years ago",
+          "url": "https://www.statnews.com/2026/06/15/health-news-cambridge-recombinant-dna-anniversary/?utm_campaign=rss",
+          "publishedDate": "Mon, 15 Jun 2026 11:56:24 +0000",
+          "source": "statnews.com",
+          "summary": "State Medicaid crackdowns strain home care, WHO leader on Ebola outbreak, and more health news",
+          "authors": "Theresa Gaffney and Gideon Gil"
+        },
+        {
+          "title": "STAT+: One California politician’s unexpected crusade against ultra-processed food",
+          "url": "https://www.statnews.com/2026/06/15/jesse-gabriel-ultra-processed-food-california-laws-national-impact/?utm_campaign=rss",
+          "publishedDate": "Mon, 15 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Jesse Gabriel \"has passed more food policy in three years than most legislators enact in their entire careers,\" says one supporter.",
+          "authors": "Sarah Todd"
+        },
+        {
+          "title": "STAT+: Amid confusion over Pfizer&#8217;s emergency penicillin program, newborn is diagnosed with preventable syphilis",
+          "url": "https://www.statnews.com/2026/06/15/pfizer-bicillin-shortage-preventable-congenital-syphilis-surging/?utm_campaign=rss",
+          "publishedDate": "Mon, 15 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Congenital syphilis should be preventable. An Arizona case shows how drug shortages and procedural hurdles are fueling a growing public health crisis.",
+          "authors": "Eric Boodman"
+        },
+        {
           "title": "WHO director-general is profoundly concerned after visit to Ebola outbreak area",
           "url": "https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/?utm_campaign=rss",
           "publishedDate": "Sat, 13 Jun 2026 13:00:00 +0000",
           "source": "statnews.com",
           "summary": "The director-general of the World Health Organization is profoundly worried about the Ebola outbreak in the DRC, he told STAT in an interview.",
           "authors": "Helen Branswell"
-        },
-        {
-          "title": "Chile offers new data on food warning label efficacy",
-          "url": "https://www.statnews.com/2026/06/12/health-news-chile-offers-new-data-on-food-warning-label-efficacy/?utm_campaign=rss",
-          "publishedDate": "Fri, 12 Jun 2026 11:51:16 +0000",
-          "source": "statnews.com",
-          "summary": "Kennedy's \"publicly\" \"available\" \"calendar,\" drinking during pregnancy, and more health news from Morning Rounds",
-          "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "STAT+: Updated: Tracking RFK Jr.’s promises to remake health in America",
-          "url": "https://www.statnews.com/2026/06/11/rfk-jr-maha-promise-tracker-fact-check/?utm_campaign=rss",
-          "publishedDate": "Fri, 12 Jun 2026 00:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "STAT is tracking goals and promises of Robert F. Kennedy Jr. and his Make America Healthy Again movement — successes, incompletes, and fails.",
-          "authors": "Isabella Cueto and J. Emory Parker"
-        },
-        {
-          "title": "Drinking during pregnancy rose after 2020, new CDC data suggest",
-          "url": "https://www.statnews.com/2026/06/11/cdc-report-alcohol-pregnancy-growing-problem/?utm_campaign=rss",
-          "publishedDate": "Thu, 11 Jun 2026 19:38:50 +0000",
-          "source": "statnews.com",
-          "summary": "A new CDC report underscores that drinking during pregnancy, while generally thought of as a thing of the past, is still a matter of concern.",
-          "authors": "Isabella Cueto"
-        },
-        {
-          "title": "Nonprofit buys experimental cancer drug to maintain patient access",
-          "url": "https://www.statnews.com/2026/06/11/blood-cancer-united-buys-luvelta-compassionate-use/?utm_campaign=rss",
-          "publishedDate": "Thu, 11 Jun 2026 18:33:52 +0000",
-          "source": "statnews.com",
-          "summary": "In a rare move, nonprofit organization Blood Cancer United is buying the remaining supplies of a discontinued investigational cancer drug.",
-          "authors": "Lauren Chan"
-        },
-        {
-          "title": "Study highlights influence of socioeconomic status on children’s brain development",
-          "url": "https://www.statnews.com/2026/06/11/socioeconomic-status-impact-brain-development/?utm_campaign=rss",
-          "publishedDate": "Thu, 11 Jun 2026 18:17:01 +0000",
-          "source": "statnews.com",
-          "summary": "A new study found that the leading environmental factor influencing brain structure and function is the socioeconomic status of a child's family.",
-          "authors": "Megan Molteni"
         }
       ]
     },
@@ -69,113 +118,122 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Scientists found a surprising problem with sugar-free diets",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260614011843.htm",
-          "publishedDate": "Sun, 14 Jun 2026 02:37:07 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A surprising new study suggests that completely eliminating sugar may backfire. Mice on a sucrose-free low-fat diet showed worse blood sugar control, increased inflammation, disrupted gut bacteria, and signs of fatty liver compared with…",
-          "authors": ""
-        },
-        {
-          "title": "People taking GLP-1 weight loss drugs like Ozempic started moving less",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260614011841.htm",
-          "publishedDate": "Sun, 14 Jun 2026 02:28:54 EDT",
-          "source": "sciencedaily.com",
-          "summary": "People taking popular weight-loss drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound may be losing pounds, but they could also be moving less. Researchers analyzing Fitbit data found that daily step counts and exercise levels dropped…",
-          "authors": ""
-        },
-        {
-          "title": "Why middle age is becoming a breaking point in the U.S.",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm",
-          "publishedDate": "Sat, 13 Jun 2026 22:24:12 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain, weaker social supports, and chronic…",
-          "authors": ""
-        },
-        {
-          "title": "Your brain can keep improving into your 90s, study finds",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260613034222.htm",
-          "publishedDate": "Sat, 13 Jun 2026 10:47:04 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A three-year study of nearly 4,000 adults ranging from age 19 to 94 found that brain health can improve at any age, challenging the common belief that mental sharpness must decline as we get older. Participants spent just a few minutes a…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: FDA approves Sanofi diabetes drug for children with stage 3 diabetes",
-          "url": "https://www.statnews.com/2026/06/13/teplizumab-tzield-sanofi-fda-approval-children-stage-3-diabetes/?utm_campaign=rss",
-          "publishedDate": "Sat, 13 Jun 2026 13:22:44 +0000",
+          "title": "STAT+: Trump’s obesity drug plan creates a temporary Medicare program that may be hard to end",
+          "url": "https://www.statnews.com/2026/06/15/medicare-weight-loss-drugs-glp1-bridge-program-may-be-hard-to-end/?utm_campaign=rss",
+          "publishedDate": "Mon, 15 Jun 2026 15:25:14 +0000",
           "source": "statnews.com",
-          "summary": "The FDA has approved a drug that was previously caught in a dispute between career staff and the political appointee head of the CDER.",
-          "authors": "Lizzy Lawrence"
+          "summary": "After July 1, Medicare will offer GLP-1 weight-loss drugs for $50. It's supposed to be temporary, but chances are it won't be.",
+          "authors": "John Wilkerson"
         },
         {
-          "title": "Why grandparents matter more than ever for children&#039;s mental health",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260613034206.htm",
-          "publishedDate": "Sat, 13 Jun 2026 05:11:52 EDT",
+          "title": "Millions take calcium and vitamin D for stronger bones. A major review finds little benefit",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260614011852.htm",
+          "publishedDate": "Mon, 15 Jun 2026 08:44:53 EDT",
           "source": "sciencedaily.com",
-          "summary": "A child psychologist says grandparents are more important than ever as youth mental health challenges continue to rise. He argues that children need supportive relationships, meaningful conversations, and a sense of purpose—not just…",
+          "summary": "For years, calcium and vitamin D supplements have been promoted as a simple way for older adults to protect their bones and prevent falls. But a massive review of nearly 154,000 people found that calcium, vitamin D, or a combination of…",
           "authors": ""
+        },
+        {
+          "title": "This popular brain supplement was linked to shorter lifespans in men",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260615025119.htm",
+          "publishedDate": "Mon, 15 Jun 2026 08:27:30 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A large-scale study suggests that men with higher levels of the amino acid tyrosine may have shorter lifespans, potentially losing close to a year of life expectancy. The finding is especially intriguing because tyrosine is commonly…",
+          "authors": ""
+        },
+        {
+          "title": "New GLP-1 diabetes pill delivers major weight loss and blood sugar control",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260614011850.htm",
+          "publishedDate": "Mon, 15 Jun 2026 05:45:59 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new oral GLP-1 medication helped people with type 2 diabetes dramatically improve blood sugar control and lose weight in a major clinical trial. The results suggest that highly effective diabetes treatments may soon become available in a…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists turned red lettuce green and something surprising happened",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260614011854.htm",
+          "publishedDate": "Mon, 15 Jun 2026 04:57:07 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers used genome editing to block the production of red pigments in lettuce, causing other beneficial plant compounds to build up instead. The lettuce continued to grow normally, pointing toward a new way to create crops with…",
+          "authors": ""
+        },
+        {
+          "title": "As states follow Trump&#8217;s Medicaid fraud playbook, people with disabilities struggle to find care",
+          "url": "https://www.statnews.com/2026/06/15/medicaid-caregivers-state-pay-people-with-disabilities/?utm_campaign=rss",
+          "publishedDate": "Mon, 15 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Medicaid cuts and fraud crackdown trickle down to states, threatening people with disabilities.",
+          "authors": "O. Rose Broderick"
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Co-Evolved Spiking Neural Network Ensembles via Marginal Contribution Fitness",
+          "url": "https://arxiv.org/abs/2606.13985",
+          "publishedDate": "Mon, 15 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Evolutionary optimization of spiking neural networks (SNNs) becomes increasingly difficult as task complexity grows because they must search a combined topology--parameter space that grows super-exponentially with network size. We address…",
+          "authors": "Catherine Rodriquez, James Ghawaly Jr"
+        },
+        {
+          "title": "A Programmer's Guide to Cascaded Adaptive Combiners: Online Learning by Biologically Accurate Models of Multilayer Neuron Networks",
+          "url": "https://arxiv.org/abs/2606.14146",
+          "publishedDate": "Mon, 15 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Learning in biological multilayer neuronal networks offers insights that extend beyond the classical weighted-sum neuron model commonly used in artificial neural networks. This article presents an accessible guide to a mechanistic neuronal…",
+          "authors": "Martin Nilsson, Denis Kleyko"
+        },
+        {
+          "title": "MeEvo: Metacognitive Evolution Combined with Natural Evolution for Automatic Heuristic Design",
+          "url": "https://arxiv.org/abs/2606.14202",
+          "publishedDate": "Mon, 15 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Large Language Models (LLMs) have advanced Automatic Heuristic Design (AHD) by enabling heuristic generation through reasoning and code synthesis. Existing LLM-based AHD architectures mainly follow two paradigms: Natural Evolution, which…",
+          "authors": "Zishang Qiu, Xinan Chen, Rong Qu, Ruibin Bai"
+        },
+        {
+          "title": "SpikF-GO: Spiking Fourier Graph Operators for Multivariate Time Series Forecasting",
+          "url": "https://arxiv.org/abs/2606.13901",
+          "publishedDate": "Mon, 15 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Spiking Neural Networks (SNNs) have emerged as an energy-efficient alternative to conventional neural networks, demonstrating strong performance in computer vision and robotics. More recently, SNNs have been applied to time series…",
+          "authors": "Jafar Bakhshaliyev, Niels Landwehr"
+        },
+        {
+          "title": "Operator Calculus for Population-Based Optimization: A Mean-Field Convergence Theory",
+          "url": "https://arxiv.org/abs/2606.14289",
+          "publishedDate": "Mon, 15 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Population-based and distributional optimization methods, from evolution strategies and consensus-based optimization to covariance-matrix adaptation and stochastic gradient methods viewed as distributional dynamics, are widely used for…",
+          "authors": "Pekka Malo, Lauri Viitasaari, Patrik Nummi, Antti Suominen, Ankur Sinha, Olli Tahvonen"
+        },
+        {
+          "title": "On the Influence of the Feature Computation Budget on Per-Instance Algorithm Selection for Black-Box Optimization",
+          "url": "https://arxiv.org/abs/2605.04954",
+          "publishedDate": "Mon, 15 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Per-instance algorithm selection (PIAS) takes advantage of complementarity between a set of algorithms by deciding which algorithm to run on a given instance. This decision is based on features of the instances, which, in the context of…",
+          "authors": "Koen van der Blom, Diederick Vermetten"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 1,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
-        },
-        {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "Efficient Temporal Modeling for Mobile Sleep Staging via Lightweight Random Attention",
+          "url": "https://arxiv.org/abs/2606.13694",
+          "publishedDate": "Mon, 15 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Mobile sleep staging serves as a foundational infrastructure for in-home sleep monitoring and closed-loop modulation. But existing sequential models such as RNNs and Transformers are computationally expensive for mobile deployment. In this…",
+          "authors": "Guisong Liu, Pengfei Wei, Jainsong Zhang, Martin Dresler"
         }
       ]
     }
