@@ -1,29 +1,27 @@
 {
-  "generatedAt": "2026-06-17T00:02:29.704Z",
-  "date": "2026-06-17",
-  "topic": "人工ニューラルネットワークと大規模言語モデル(LLM)",
-  "templateName": "paradigm-shift",
+  "generatedAt": "2026-06-18T00:02:01.521Z",
+  "date": "2026-06-18",
+  "topic": "強化学習と学習",
+  "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "OmniMouse: Scaling properties of multi-modal, multi-task Brain Models on 150B Neural Tokens",
-  "paperLink": "https://arxiv.org/abs/2604.18827",
-  "figureUrl": "https://arxiv.org/html/2604.18827/2604.18827v2/figures/fig1_v4.png",
-  "formatted": "人工ニューラルネットワークと大規模言語モデル(LLM)に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 人工ニューラルネットワーク × 大規模言語モデル(LLM) × 視覚野 × 言語処理\n\n📊 注目すべきデータ：\n→ OmniMouse achieves state-of-the-art performance, outperforming specialized baselines across nearly all evaluation regimes.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 OmniMouse: Scaling properties of multi-modal, multi-task Brain Models on 150B Neural Tokens\n🔗 https://arxiv.org/abs/2604.18827\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #BCI",
-  "summaryJP": "人工ニューラルネットワークと大規模言語モデル(LLM) — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
-  "paperAuthors": "Konstantin F. Willeke, Polina Turishcheva, Alex Gilbert, Goirik Chakrabarty, Hasan A. Bedel, Paul G. Fahey, Yongrong Qiu, Marissa A. Weis, Michaela Vystr\\vcilová, Taliah Muhammad, Lydia Ntanavara, Rachel E. Froebe, Kayla Ponder, Zheng Huan Tan, Emin Orhan, Erick Cobos, Sophia Sanborn, Katrin Franke, Fabian H. Sinz, Alexander S. Ecker, Andreas S. Tolias",
-  "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
-  "paperId": "2604.18827",
+  "paperTitle": "Embodiment Shapes Rolling Behavior in a Multimodal Infant Model",
+  "paperLink": "https://arxiv.org/abs/2606.17456",
+  "figureUrl": "https://arxiv.org/html/2606.17456/2606.17456v1/x1.png",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、強化学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 強化学習 × 学習\n\n> Rolling over is one of the earliest milestones in infant motor development, reflecting the emergence of coordinated, whole-body sensorimotor control. Here, we conduct a computational study of infant rolling using MIMo, a virtual infant embodiment equipped with proprioception and...\n\nなぜこの数字が重要か。\n\n計算論的神経科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Embodiment Shapes Rolling Behavior in a Multimodal Infant Model\n🔗 https://arxiv.org/abs/2606.17456\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #神経科学",
+  "summaryJP": "強化学習と学習 — 数値で示された新事実（計算論的神経科学）",
+  "paperAuthors": "Leon Philipp, Francisco M. López, Jochen Triesch",
+  "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
+  "paperId": "2606.17456",
   "paperSource": "arxiv",
-  "themeArea": "ニューロAI・計算論",
+  "themeArea": "計算論的神経科学",
   "jpKeywords": [
-    "人工ニューラルネットワーク",
-    "大規模言語モデル(LLM)",
-    "視覚野",
-    "言語処理"
+    "強化学習",
+    "学習"
   ],
-  "abstractExcerpt": "Scaling data and artificial neural networks has transformed AI, driving breakthroughs in language and vision. Whether similar principles apply to modeling brain activity remains unclear. Here we leveraged a dataset of 3.1 million neurons…",
+  "abstractExcerpt": "Rolling over is one of the earliest milestones in infant motor development, reflecting the emergence of coordinated, whole-body sensorimotor control. Here, we conduct a computational study of infant rolling using MIMo, a virtual infant…",
   "figureUrls": [
-    "https://arxiv.org/html/2604.18827/2604.18827v2/figures/fig1_v4.png",
-    "https://arxiv.org/html/2604.18827/2604.18827v2/figures/Fig_Data_updated_neurons.png",
-    "https://arxiv.org/html/2604.18827/2604.18827v2/figures/model_schematic_v5.png"
+    "https://arxiv.org/html/2606.17456/2606.17456v1/x1.png",
+    "https://arxiv.org/html/2606.17456/2606.17456v1/x5.png",
+    "https://arxiv.org/html/2606.17456/2606.17456v1/x9.png"
   ]
 }

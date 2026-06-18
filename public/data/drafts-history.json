@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-06-18T00:02:01.521Z",
+    "date": "2026-06-18",
+    "topic": "強化学習と学習",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Embodiment Shapes Rolling Behavior in a Multimodal Infant Model",
+    "paperLink": "https://arxiv.org/abs/2606.17456",
+    "figureUrl": "https://arxiv.org/html/2606.17456/2606.17456v1/x1.png",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、強化学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 強化学習 × 学習\n\n> Rolling over is one of the earliest milestones in infant motor development, reflecting the emergence of coordinated, whole-body sensorimotor control. Here, we conduct a computational study of infant rolling using MIMo, a virtual infant embodiment equipped with proprioception and...\n\nなぜこの数字が重要か。\n\n計算論的神経科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Embodiment Shapes Rolling Behavior in a Multimodal Infant Model\n🔗 https://arxiv.org/abs/2606.17456\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #神経科学",
+    "summaryJP": "強化学習と学習 — 数値で示された新事実（計算論的神経科学）",
+    "paperAuthors": "Leon Philipp, Francisco M. López, Jochen Triesch",
+    "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
+    "paperId": "2606.17456",
+    "paperSource": "arxiv",
+    "themeArea": "計算論的神経科学",
+    "jpKeywords": [
+      "強化学習",
+      "学習"
+    ],
+    "abstractExcerpt": "Rolling over is one of the earliest milestones in infant motor development, reflecting the emergence of coordinated, whole-body sensorimotor control. Here, we conduct a computational study of infant rolling using MIMo, a virtual infant…",
+    "figureUrls": [
+      "https://arxiv.org/html/2606.17456/2606.17456v1/x1.png",
+      "https://arxiv.org/html/2606.17456/2606.17456v1/x5.png",
+      "https://arxiv.org/html/2606.17456/2606.17456v1/x9.png"
+    ]
+  },
+  {
     "generatedAt": "2026-06-17T00:02:29.704Z",
     "date": "2026-06-17",
     "topic": "人工ニューラルネットワークと大規模言語モデル(LLM)",
@@ -1266,31 +1293,5 @@
     ],
     "abstractExcerpt": "Achieving advanced machine intelligence remains a central challenge in AI research, often approached through scaling neural architectures and generative models. However, biological systems offer a broader repertoire of strategies for…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-26T02:09:00.629Z",
-    "date": "2026-05-26",
-    "topic": "学習",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior",
-    "paperLink": "https://arxiv.org/abs/2502.20349",
-    "figureUrl": "https://arxiv.org/html/2502.20349/2502.20349v5/x1.png",
-    "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n学習の最新成果を整理しました。\n\n🔬 学習\n\n> How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace experiments with increasingly naturalistic...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n脳情報科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior\n🔗 https://arxiv.org/abs/2502.20349\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #認知科学",
-    "summaryJP": "学習 — 注目すべき3つの示唆",
-    "paperAuthors": "Wilka Carvalho, Andrew Lampinen",
-    "publishedDate": "Mon, 25 May 2026 00:00:00 -0400",
-    "paperId": "2502.20349",
-    "paperSource": "arxiv",
-    "themeArea": "脳情報科学",
-    "jpKeywords": [
-      "学習"
-    ],
-    "abstractExcerpt": "How can cognitive science build generalizable theories that span the full scope of natural situations and behaviors? We argue that progress in Artificial Intelligence (AI) offers timely opportunities for cognitive science to embrace…",
-    "figureUrls": [
-      "https://arxiv.org/html/2502.20349/2502.20349v5/x1.png",
-      "https://arxiv.org/html/2502.20349/2502.20349v5/x2.png",
-      "https://arxiv.org/html/2502.20349/2502.20349v5/x4.png"
-    ]
   }
 ]

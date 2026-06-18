@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T00:02:30.082Z",
+  "generatedAt": "2026-06-18T00:02:02.173Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Do Large Language Models Have Emotions?",
-          "url": "https://arxiv.org/abs/2606.14742",
-          "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
+          "title": "Ten Years of the Stochastic Resonance Model of Tinnitus: From Phantom Perception to Adaptive Sensory Optimization",
+          "url": "https://arxiv.org/abs/2606.17736",
+          "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Do LLMs have emotions? A recent paper from Anthropic reports finding internal representations of emotion concepts in Claude Sonnet 4.5, concluding that the LLM has 'functional emotions.' We evaluate this claim against what is known about…",
-          "authors": "Amit Goldenberg, James J. Gross"
+          "summary": "Subjective tinnitus - the perception of sound in the absence of an external acoustic stimulus - remains one of the most debated phenomena in auditory neuroscience. In 2016, the stochastic resonance (SR) model was introduced as an…",
+          "authors": "Patrick Krauss, Achim Schilling"
         },
         {
-          "title": "OpTI-Mouse: Optimization for Targeted Temporal Interference Stimulation in the Mouse Brain",
-          "url": "https://arxiv.org/abs/2606.15192",
-          "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
+          "title": "Separating wiring-specific from statistical control of dynamics in a complete connectome",
+          "url": "https://arxiv.org/abs/2606.17745",
+          "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Temporal Interference (TI) stimulation enables deep brain targeting, yet precise optimization tools for mouse models remain limited. We developed a computational optimization tool integrating mouse head modeling with the optimization…",
-          "authors": "Jingsheng Tang, Zhengkang Zhou, Yingyue Xin, Zihan Ning, Pengfei Wei, Mo Wang, Quanying Liu"
+          "summary": "Electron-microscopy reconstruction now yields complete synaptic wiring diagrams, or connectomes, of entire small brains, including the larval Drosophila, the first insect brain reconstructed in full. How far a wiring diagram alone fixes a…",
+          "authors": "Stavros Therianos"
         },
         {
-          "title": "Intrinsic Computational Functionalism and Simulated Consciousness",
-          "url": "https://arxiv.org/abs/2606.15348",
-          "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
+          "title": "Embodiment Shapes Rolling Behavior in a Multimodal Infant Model",
+          "url": "https://arxiv.org/abs/2606.17456",
+          "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "A common objection to artificial or simulated consciousness is that a simulated brain is no more conscious than simulated water is wet. We address this from the perspective of Intrinsic Computational Functionalism (ICF): if consciousness…",
-          "authors": "Ryota Kanai, Shuqin Ma"
+          "summary": "Rolling over is one of the earliest milestones in infant motor development, reflecting the emergence of coordinated, whole-body sensorimotor control. Here, we conduct a computational study of infant rolling using MIMo, a virtual infant…",
+          "authors": "Leon Philipp, Francisco M. López, Jochen Triesch"
         },
         {
-          "title": "Task-guided cross-subject latent alignment: a multi-encoder-decoder VAE",
-          "url": "https://arxiv.org/abs/2606.15989",
-          "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
+          "title": "BrainWorld: A Structural-Prior-Conditioned Generative Model for Whole-Brain 4D fMRI Dynamics",
+          "url": "https://arxiv.org/abs/2606.17742",
+          "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Aligning neural activity across subjects offers the promise of discovering shared computational principles and generalizable decoders. However, traditional alignment methods require shared stimuli across subjects, a constraint that limits…",
-          "authors": "Angeliki Papathanasiou, Jascha Achterberg, Thomas E. Nichols, Rui Ponte Costa"
+          "summary": "Whole-brain 4D fMRI generation is valuable for modeling functional brain dynamics, yet existing fMRI foundation models mainly target representation learning and downstream prediction rather than conditional predictive generation. We…",
+          "authors": "Junfeng Xia, Wenhao Ye, Junxiang Zhang, Xuanye Pan, Mo Wang, Quanying Liu"
         },
         {
-          "title": "EEGDash: An open-source platform for machine learning on public neurophysiological data",
-          "url": "https://arxiv.org/abs/2606.16041",
-          "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
+          "title": "Hierarchical Bayesian inference for community detection and connectivity of functional brain networks",
+          "url": "https://arxiv.org/abs/2301.07386",
+          "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Public neurophysiological datasets are increasingly accessible but remain hard to reuse: turning one into a trained model still takes thousands of lines of code for download, loading, format repair, windowing, and evaluation, and a dataset…",
-          "authors": "Bruno Aristimunha, Aviv Dotan, Pierre Guetschel, Aman Jaiswal, Gal Ashkenazi, Dung Truong, Kuntal Kokate, Amitrava Majumdar, Oren Shriki, Arnaud Delorme"
+          "summary": "Most functional magnetic resonance imaging studies rely on estimates of hierarchically organized functional brain networks whose segregation and integration reflect the cognitive and behavioral changes in humans. However, most existing…",
+          "authors": "Lingbin Bian, Nizhuan Wang, Leonardo Novelli, Jonathan Keith, Adeel Razi"
         },
         {
-          "title": "Learning Hybrid Biophysical Neuron Models with Neural ODEs",
-          "url": "https://arxiv.org/abs/2606.16693",
-          "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
+          "title": "Spectral Topological Data Analysis of Brain Signals",
+          "url": "https://arxiv.org/abs/2401.05343",
+          "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Biophysical neuron models link measurements of neural activity to underlying cellular mechanisms. Yet, a central challenge is that the kinetics of many ion channels are poorly characterized, and practical simplifications -- omitting…",
-          "authors": "Jonas Beck, Michael Deistler, Dóra Viktória Molnár, Jakob H. Macke, Philipp Berens"
+          "summary": "Topological analyses of brain functional connectivity usually reduce each pair of channels to a single scalar dependence, typically the Pearson correlation, and so cannot resolve the frequency-specific synchronisation that organises…",
+          "authors": "Anass El-Yaagoubi, Shuhao Jiao, Moo K. Chung, Hernando Ombao"
         }
       ]
     },
@@ -62,6 +62,30 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "RFK Jr. presents $700 million in mental health funding, but experts say grants aren’t new",
+          "url": "https://www.statnews.com/2026/06/17/rfk-new-mental-health-funding-or-new-use-existing-grants/?utm_campaign=rss",
+          "publishedDate": "Wed, 17 Jun 2026 21:36:50 +0000",
+          "source": "statnews.com",
+          "summary": "RFK Jr. presents funding intended to address mental illness and addiction, particularly among homeless people.",
+          "authors": "Lev Facher"
+        },
+        {
+          "title": "FTC, four state AGs sue transgender health group over care standards",
+          "url": "https://www.statnews.com/2026/06/17/ftc-gender-affirming-lawsuit-targets-wpath/?utm_campaign=rss",
+          "publishedDate": "Wed, 17 Jun 2026 18:23:28 +0000",
+          "source": "statnews.com",
+          "summary": "The FTC and four state attorneys general have sued the main professional organization for gender-affirming care clinicians.",
+          "authors": "Theresa Gaffney and Bob Herman"
+        },
+        {
+          "title": "Trump administration will bring special ed to HHS",
+          "url": "https://www.statnews.com/2026/06/17/health-news-trump-administration-brings-special-ed-to-hhs/?utm_campaign=rss",
+          "publishedDate": "Wed, 17 Jun 2026 11:53:26 +0000",
+          "source": "statnews.com",
+          "summary": "Infant mortality rate dips, OTC naloxone options rise, and other health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
         {
           "title": "The U.S. infant mortality rate fell to an all-time low, though it still trails other similar nations",
           "url": "https://www.statnews.com/2026/06/16/us-infant-mortality-rate-all-time-low/?utm_campaign=rss",
@@ -85,30 +109,6 @@
           "source": "statnews.com",
           "summary": "After July 1, Medicare will offer GLP-1 weight-loss drugs for $50. It's supposed to be temporary, but chances are it won't be.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "Covid vaccination cut risk of adverse heart events, large study finds",
-          "url": "https://www.statnews.com/2026/06/15/covid-vaccination-cardiovascular-protection-jama-study/?utm_campaign=rss",
-          "publishedDate": "Mon, 15 Jun 2026 15:01:52 +0000",
-          "source": "statnews.com",
-          "summary": "Covid vaccination was also tied to a nearly 24% reduction in all-cause cardiac events in a large study, surprising researchers.",
-          "authors": "Lauren Chan"
-        },
-        {
-          "title": "STAT+: Where ‘democracy met science,’ 50 years ago",
-          "url": "https://www.statnews.com/2026/06/15/health-news-cambridge-recombinant-dna-anniversary/?utm_campaign=rss",
-          "publishedDate": "Mon, 15 Jun 2026 11:56:24 +0000",
-          "source": "statnews.com",
-          "summary": "State Medicaid crackdowns strain home care, WHO leader on Ebola outbreak, and more health news",
-          "authors": "Theresa Gaffney and Gideon Gil"
-        },
-        {
-          "title": "STAT+: One California politician’s unexpected crusade against ultra-processed food",
-          "url": "https://www.statnews.com/2026/06/15/jesse-gabriel-ultra-processed-food-california-laws-national-impact/?utm_campaign=rss",
-          "publishedDate": "Mon, 15 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Jesse Gabriel \"has passed more food policy in three years than most legislators enact in their entire careers,\" says one supporter.",
-          "authors": "Sarah Todd"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "New study explores potential cross-species spread of chronic wasting disease",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260615033841.htm",
-          "publishedDate": "Tue, 16 Jun 2026 10:06:24 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new study found that chronic wasting disease can sometimes spread silently, with infectious prions present even in animals that show no symptoms. While there is no confirmed human risk, researchers say the disease’s ability to evolve and…",
-          "authors": ""
-        },
-        {
-          "title": "Most people who stop GLP-1 drugs like Ozempic eventually return",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260615033838.htm",
-          "publishedDate": "Tue, 16 Jun 2026 09:10:09 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Many people prescribed GLP-1 drugs for type 2 diabetes (such as Victoza, Ozempic, or tirzepatide) stop taking them, but a surprising number later return to treatment. Researchers found that newer medications appear to keep patients on…",
-          "authors": ""
-        },
-        {
-          "title": "Semaglutide (Ozempic) linked to fewer bone fractures despite greater weight loss",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260615033837.htm",
-          "publishedDate": "Tue, 16 Jun 2026 08:07:39 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A large real-world study suggests semaglutide (Ozempic, Wegovy, Rybelsus) may offer an unexpected bonus for people with type 2 diabetes: stronger protection against bone fractures while delivering greater weight loss. Researchers analyzing…",
-          "authors": ""
-        },
-        {
-          "title": "Opinion: Congress must reauthorize the Pandemic and All-Hazards Preparedness Act",
-          "url": "https://www.statnews.com/2026/06/16/aspr-pandemic-all-hazard-preparedness-act-reauthorization/?utm_campaign=rss",
-          "publishedDate": "Tue, 16 Jun 2026 08:30:00 +0000",
+          "title": "RFK Jr. presents $700 million in mental health funding, but experts say grants aren’t new",
+          "url": "https://www.statnews.com/2026/06/17/rfk-new-mental-health-funding-or-new-use-existing-grants/?utm_campaign=rss",
+          "publishedDate": "Wed, 17 Jun 2026 21:36:50 +0000",
           "source": "statnews.com",
-          "summary": "America’s next health emergency won’t wait for Washington, write W. Craig Vanderwagen and Jennifer B. Alton.",
-          "authors": "W. Craig Vanderwagen and Jennifer B. Alton"
+          "summary": "RFK Jr. presents funding intended to address mental illness and addiction, particularly among homeless people.",
+          "authors": "Lev Facher"
         },
         {
-          "title": "Your brain was never designed for this much bad news",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-          "publishedDate": "Tue, 16 Jun 2026 03:32:55 EDT",
+          "title": "Humans may have hidden regenerative powers",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
+          "publishedDate": "Wed, 17 Jun 2026 10:25:31 EDT",
           "source": "sciencedaily.com",
-          "summary": "Humans evolved to pay close attention to danger, but today that instinct is being overwhelmed by an endless supply of bad news from around the world. Researchers say the answer isn’t to stop following current events—it’s to build healthier…",
+          "summary": "Scientists have taken a surprising step toward unlocking regeneration in mammals, showing that the ability to rebuild complex body parts may not be lost after all—it may simply be switched off. Using a two-stage treatment, researchers…",
           "authors": ""
         },
         {
-          "title": "Copper drug clears toxic Alzheimer’s proteins and restores memory",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260615033835.htm",
-          "publishedDate": "Tue, 16 Jun 2026 02:48:18 EDT",
+          "title": "Ozempic and Wegovy linked to surprising drop in violent behavior",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260617032152.htm",
+          "publishedDate": "Wed, 17 Jun 2026 08:38:50 EDT",
           "source": "sciencedaily.com",
-          "summary": "A copper-based compound restored the brain’s ability to clear toxic Alzheimer’s proteins, dramatically reducing amyloid buildup and improving memory in laboratory experiments. The findings point to a potentially fast-tracked new treatment…",
+          "summary": "A Rutgers study suggests GLP-1 drugs such as Ozempic and Wegovy may weaken the link between impulsive tendencies and violent behavior. The surprising finding hints that these medications could affect how people act on impulses, though…",
+          "authors": ""
+        },
+        {
+          "title": "Common plastic chemical linked to lifelong anxiety in new study",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260616102221.htm",
+          "publishedDate": "Wed, 17 Jun 2026 07:35:01 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Exposure to a common plastic chemical before and shortly after birth may have lasting effects on behavior. Researchers found that male rats exposed early in life to DEHP—a plasticizer used in products ranging from medical devices to…",
+          "authors": ""
+        },
+        {
+          "title": "A daily probiotic may help relieve depression and anxiety",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260617032149.htm",
+          "publishedDate": "Wed, 17 Jun 2026 05:00:24 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A small clinical trial suggests that probiotics may offer a surprising mental health boost for older adults with depression. Seniors who took a daily probiotic alongside their regular antidepressant treatment experienced slightly greater…",
+          "authors": ""
+        },
+        {
+          "title": "New procedure delivers lasting knee arthritis pain relief without surgery",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260616102217.htm",
+          "publishedDate": "Wed, 17 Jun 2026 00:46:51 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A minimally invasive treatment that blocks inflammation-driving blood vessels in the knee provided significant pain relief and improved function for osteoarthritis patients, with benefits lasting at least a year. The procedure was safe,…",
           "authors": ""
         }
       ]
@@ -173,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Test-Time Adaptation of Spiking Neural Networks for Intracortical Neural Decoding using Membrane Potential Alignment",
-          "url": "https://arxiv.org/abs/2606.14866",
-          "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
+          "title": "ZIVARI-TLBO: A Zero-Cost Inter-Group Evaluated-Elite Relay Mechanism for Teaching-Learning-Based Optimization",
+          "url": "https://arxiv.org/abs/2606.17087",
+          "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Intracortical brain-computer interfaces suffer from day-to-day neural signal shifts that degrade pretrained decoders. Existing unsupervised adaptation methods rely on deep recurrent or adversarial architectures that are too computationally…",
-          "authors": "Guangzhi Tang"
+          "summary": "ZIVARI-TLBO is a grouped Teaching-Learning-Based Optimization (TLBO) method that augments an existing population-state controller with a fixed inter-group evaluated-elite relay. At each scheduled event, every group offers its already…",
+          "authors": "Pezhman Zivari"
         },
         {
-          "title": "Harnessing cortical geometry, wiring, and function as inductive biases for recurrent neural networks",
-          "url": "https://arxiv.org/abs/2606.14975",
-          "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
+          "title": "Directing Open-Ended Evolution in Artificial Life via Multi-Scale Path Divergence",
+          "url": "https://arxiv.org/abs/2606.17091",
+          "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "How the wiring and functional organization of cortex shape recurrent computation remains a central question in both neuroscience and machine learning. Here, we leverage data released through the Machine Intelligence from Cortical Networks…",
-          "authors": "Mo Shakiba, Rana Rokni, Mohammad Mohammadi, Nima Dehghani"
+          "summary": "Open-ended evolution (OEE) in artificial life is typically driven by uninterpretable, black-box neural-network complexity metrics, leaving life-like systems disconnected from physical theories of complexity. We introduce MSPD (Multi-Scale…",
+          "authors": "Mikhail Akhtyrchenko, Mikhail I. Katsnelson, Andrey Ustyuzhanin"
         },
         {
-          "title": "Large Language Model-Driven Cooperative Operator Ensemble Evolution for Permutation Flow Shop Scheduling",
-          "url": "https://arxiv.org/abs/2606.15334",
-          "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
+          "title": "Evolutionary Algorithms and Multi-Objective Minimum Spanning Trees with Limited Distinct Weight Values",
+          "url": "https://arxiv.org/abs/2606.17731",
+          "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The permutation flow shop scheduling problem (PFSP) is a classical NP-hard combinatorial optimization problem in intelligent manufacturing. In practice, PFSP is commonly addressed using metaheuristic algorithms, among which the iterated…",
-          "authors": "Rui Xu, Yufan Liao, Haoze Lv, Shengcai Liu, Yi Mei, Ke Tang"
+          "summary": "Evolutionary algorithms have been used for a wide range of multi-objective combinatorial optimization problems. Despite practical success, theoretical results on the runtime of evolutionary algorithms for multi-objective combinatorial…",
+          "authors": "Narges Tavassoli Kejani, Andrew M. Sutton, Frank Neumann"
         },
         {
-          "title": "AQ4SViT: An Automated Quantization Framework with Search Gating Policy for Compressing Spiking Vision Transformers",
-          "url": "https://arxiv.org/abs/2606.15523",
-          "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
+          "title": "An Optimization Framework for Automated Assessment of Biological Plausibility of Spiking Neurons",
+          "url": "https://arxiv.org/abs/2606.17853",
+          "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking Vision Transformers (SViTs) have emerged as alternative low-power ViT models, but their large sizes hinder their deployments on resource-constrained embedded AI systems. To address this, state-of-the-art works proposed quantization…",
-          "authors": "Rachmad Vidya Wicaksana Putra, Saad Iftikhar, Muhammad Shafique"
+          "summary": "Biological plausibility is a key concept in neuromorphic computing and spiking neural networks, yet it remains inconsistently defined and difficult to quantify. In this work, we present an open-source framework for the automated assessment…",
+          "authors": "Sven Nitzsche, Alexandru Ionita, Andreas Faust, Bogdan Ionescu, Juergen Becker"
         },
         {
-          "title": "MSC-CMA-ES: Structure-Aware Restarts for CMA-ES via Cyclic Nearest-Better Basin Discovery",
-          "url": "https://arxiv.org/abs/2606.15830",
-          "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
+          "title": "From Compression to Deployment: Real-Time and Energy-Efficient FastGRNN on Ultra-Constrained Microcontrollers",
+          "url": "https://arxiv.org/abs/2606.17249",
+          "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "CMA-ES is, per run, a local optimizer; multimodal search relies on restart strategies such as IPOP and BIPOP, which draw every restart uniformly and reuse no information from previous evaluations. Multi-Start Clustering CMA-ES (MSC-CMA-ES)…",
-          "authors": "Dimitar Nedanovski, Svetoslav Nenov, Dimitar Pilev"
+          "summary": "The dominant trajectory of modern machine learning has been to scale up: larger models, larger accelerators, larger memory budgets. Yet a multi-year global semiconductor supply constraint and the growing energy and carbon cost of…",
+          "authors": "Emre Can Kizilates"
         },
         {
-          "title": "Runtime Analysis of Cartesian Genetic Programming in Evolving Boolean Functions",
-          "url": "https://arxiv.org/abs/2606.15923",
-          "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
+          "title": "Energy-efficient codon optimization on thermodynamic hardware",
+          "url": "https://arxiv.org/abs/2606.17327",
+          "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Cartesian Genetic Programming (CGP) is among the practical and popular forms of Genetic Programming as it uses a graph-based representation of programs. This paper presents a first runtime analysis of CGP in evolving Boolean functions…",
-          "authors": "Duc-Cuong Dang, Roman Kalkreuth, Andre Opris"
+          "summary": "The growing energy demand for computation is becoming increasingly unsustainable. Thermodynamic computing, which harnesses physical thermal fluctuations as a computational resource rather than suppressing them, offers orders-of-magnitude…",
+          "authors": "Andraz Jelincic, Ross C. Walker"
         }
       ]
     },
@@ -228,12 +228,12 @@
       "itemCount": 1,
       "items": [
         {
-          "title": "PALM: Single-Station Super-Resolved Small-Scale Radio-Map Localization by Path-Atom Matching",
-          "url": "https://arxiv.org/abs/2606.16157",
-          "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
+          "title": "Joint Synchronization and Radar Parameter Estimation for Distributed OFDM-ISAC Systems",
+          "url": "https://arxiv.org/abs/2606.17699",
+          "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Localizing from a single base station is a longstanding goal, since it removes the synchronized anchors that geometric methods require. A radio map (RM) answers a position query from this one-station survey, yet classical RMs store coarse…",
-          "authors": "Xiucheng Wang, Nan Cheng"
+          "summary": "We propose a novel approach to the synchronization paradigm in distributed ISAC (DISAC) systems in doubly-dispersive (DD) channel environments via a joint synchronization and radar parameter estimation framework. The proposed method…",
+          "authors": "Niclas Führling, Hyeon Seok Rou, Kuranage Roche Rayan Ranasinghe, Giuseppe Thadeu Freitas de Abreu, Nuria González-Prelcic"
         }
       ]
     }
