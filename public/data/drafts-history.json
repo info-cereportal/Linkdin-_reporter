@@ -1,5 +1,35 @@
 [
   {
+    "generatedAt": "2026-06-19T00:13:24.293Z",
+    "date": "2026-06-19",
+    "topic": "大規模言語モデル(LLM)と意思決定",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "ScholaWrite: A Dataset of End-to-End Scholarly Writing Process",
+    "paperLink": "https://arxiv.org/abs/2502.02904",
+    "figureUrl": "https://arxiv.org/html/2502.02904/2502.02904v5/x1.png",
+    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\nこの研究から得られる3つの重要な示唆。\n\n大規模言語モデル(LLM)と意思決定の最新成果を整理しました。\n\n🔬 大規模言語モデル(LLM) × 意思決定 × ワーキングメモリ × 言語処理\n\n📊 注目すべきデータ：\n→ We contribute three key advances: (1) a Chrome extension that unobtrusively records keystrokes on Overleaf, enabling the collection of realistic, in-situ writing data; (2) a novel...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n認知・意思決定の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 ScholaWrite: A Dataset of End-to-End Scholarly Writing Process\n🔗 https://arxiv.org/abs/2502.02904\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #DeepLearning",
+    "summaryJP": "大規模言語モデル(LLM)と意思決定 — 注目すべき3つの示唆（認知・意思決定）",
+    "paperAuthors": "Khanh Chi Le, Linghe Wang, Minhwa Lee, Ross Volkov, Luan Tuyen Chau, Dongyeop Kang",
+    "publishedDate": "Thu, 18 Jun 2026 00:00:00 -0400",
+    "paperId": "2502.02904",
+    "paperSource": "arxiv",
+    "themeArea": "認知・意思決定",
+    "jpKeywords": [
+      "大規模言語モデル(LLM)",
+      "意思決定",
+      "ワーキングメモリ",
+      "言語処理",
+      "記憶"
+    ],
+    "abstractExcerpt": "Writing is a cognitively demanding activity that requires constant decision-making, heavy reliance on working memory, and frequent shifts between tasks of different goals. To build writing assistants that truly align with writers'…",
+    "figureUrls": [
+      "https://arxiv.org/html/2502.02904/2502.02904v5/x1.png",
+      "https://arxiv.org/html/2502.02904/2502.02904v5/x2.png",
+      "https://arxiv.org/html/2502.02904/2502.02904v5/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-06-18T00:02:01.521Z",
     "date": "2026-06-18",
     "topic": "強化学習と学習",
@@ -1272,26 +1302,5 @@
       "https://arxiv.org/html/2605.24999/2605.24999v1/demo_figure.png",
       "https://arxiv.org/html/2605.24999/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
     ]
-  },
-  {
-    "generatedAt": "2026-05-26T06:37:19.678Z",
-    "date": "2026-05-26",
-    "topic": "脳情報科学の最新研究",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Bootstrapping Life-Inspired Machine Intelligence: The Biological Route from Chemistry to Cognition and Creativity",
-    "paperLink": "https://arxiv.org/abs/2602.08079",
-    "formatted": "研究者もエンジニアも、この論文は必読です。\n\nこの研究から得られる3つの重要な示唆。\n\n脳情報科学の最新研究の最新成果を整理しました。\n\n🔬 脳情報科学\n\n> Achieving advanced machine intelligence remains a central challenge in AI research, often approached through scaling neural architectures and generative models. However, biological systems offer a broader repertoire of strategies for adaptive, goal-directed behavior - strategies...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n脳情報科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Bootstrapping Life-Inspired Machine Intelligence: The Biological Route from Chemistry to Cognition and Creativity\n🔗 https://arxiv.org/abs/2602.08079\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #NeuroAI",
-    "summaryJP": "脳情報科学の最新研究 — 注目すべき3つの示唆",
-    "paperAuthors": "Giovanni Pezzulo, Michael Levin",
-    "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
-    "paperId": "2602.08079",
-    "paperSource": "arxiv",
-    "themeArea": "脳情報科学",
-    "jpKeywords": [
-      "脳情報科学"
-    ],
-    "abstractExcerpt": "Achieving advanced machine intelligence remains a central challenge in AI research, often approached through scaling neural architectures and generative models. However, biological systems offer a broader repertoire of strategies for…",
-    "figureUrls": []
   }
 ]

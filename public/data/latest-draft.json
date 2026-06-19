@@ -1,27 +1,30 @@
 {
-  "generatedAt": "2026-06-18T00:02:01.521Z",
-  "date": "2026-06-18",
-  "topic": "強化学習と学習",
-  "templateName": "data-driven",
+  "generatedAt": "2026-06-19T00:13:24.293Z",
+  "date": "2026-06-19",
+  "topic": "大規模言語モデル(LLM)と意思決定",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Embodiment Shapes Rolling Behavior in a Multimodal Infant Model",
-  "paperLink": "https://arxiv.org/abs/2606.17456",
-  "figureUrl": "https://arxiv.org/html/2606.17456/2606.17456v1/x1.png",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、強化学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 強化学習 × 学習\n\n> Rolling over is one of the earliest milestones in infant motor development, reflecting the emergence of coordinated, whole-body sensorimotor control. Here, we conduct a computational study of infant rolling using MIMo, a virtual infant embodiment equipped with proprioception and...\n\nなぜこの数字が重要か。\n\n計算論的神経科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Embodiment Shapes Rolling Behavior in a Multimodal Infant Model\n🔗 https://arxiv.org/abs/2606.17456\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #神経科学",
-  "summaryJP": "強化学習と学習 — 数値で示された新事実（計算論的神経科学）",
-  "paperAuthors": "Leon Philipp, Francisco M. López, Jochen Triesch",
-  "publishedDate": "Wed, 17 Jun 2026 00:00:00 -0400",
-  "paperId": "2606.17456",
+  "paperTitle": "ScholaWrite: A Dataset of End-to-End Scholarly Writing Process",
+  "paperLink": "https://arxiv.org/abs/2502.02904",
+  "figureUrl": "https://arxiv.org/html/2502.02904/2502.02904v5/x1.png",
+  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\nこの研究から得られる3つの重要な示唆。\n\n大規模言語モデル(LLM)と意思決定の最新成果を整理しました。\n\n🔬 大規模言語モデル(LLM) × 意思決定 × ワーキングメモリ × 言語処理\n\n📊 注目すべきデータ：\n→ We contribute three key advances: (1) a Chrome extension that unobtrusively records keystrokes on Overleaf, enabling the collection of realistic, in-situ writing data; (2) a novel...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n認知・意思決定の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 ScholaWrite: A Dataset of End-to-End Scholarly Writing Process\n🔗 https://arxiv.org/abs/2502.02904\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #DeepLearning",
+  "summaryJP": "大規模言語モデル(LLM)と意思決定 — 注目すべき3つの示唆（認知・意思決定）",
+  "paperAuthors": "Khanh Chi Le, Linghe Wang, Minhwa Lee, Ross Volkov, Luan Tuyen Chau, Dongyeop Kang",
+  "publishedDate": "Thu, 18 Jun 2026 00:00:00 -0400",
+  "paperId": "2502.02904",
   "paperSource": "arxiv",
-  "themeArea": "計算論的神経科学",
+  "themeArea": "認知・意思決定",
   "jpKeywords": [
-    "強化学習",
-    "学習"
+    "大規模言語モデル(LLM)",
+    "意思決定",
+    "ワーキングメモリ",
+    "言語処理",
+    "記憶"
   ],
-  "abstractExcerpt": "Rolling over is one of the earliest milestones in infant motor development, reflecting the emergence of coordinated, whole-body sensorimotor control. Here, we conduct a computational study of infant rolling using MIMo, a virtual infant…",
+  "abstractExcerpt": "Writing is a cognitively demanding activity that requires constant decision-making, heavy reliance on working memory, and frequent shifts between tasks of different goals. To build writing assistants that truly align with writers'…",
   "figureUrls": [
-    "https://arxiv.org/html/2606.17456/2606.17456v1/x1.png",
-    "https://arxiv.org/html/2606.17456/2606.17456v1/x5.png",
-    "https://arxiv.org/html/2606.17456/2606.17456v1/x9.png"
+    "https://arxiv.org/html/2502.02904/2502.02904v5/x1.png",
+    "https://arxiv.org/html/2502.02904/2502.02904v5/x2.png",
+    "https://arxiv.org/html/2502.02904/2502.02904v5/x3.png"
   ]
 }
