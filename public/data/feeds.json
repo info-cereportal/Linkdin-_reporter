@@ -1,53 +1,12 @@
 {
-  "generatedAt": "2026-06-19T23:44:34.944Z",
+  "generatedAt": "2026-06-20T23:47:51.083Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 5,
-      "items": [
-        {
-          "title": "Robust probabilistic measurement of structural-functional module consistency in infant brain development",
-          "url": "https://arxiv.org/abs/2606.19739",
-          "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Brain network is commonly divided into modules for analyzing their functionally segregated roles for group-level analysis in neuroimaging studies. Here, we introduce stochastic modules within brain networks for a robust probabilistic…",
-          "authors": "Lingbin Bian, Feihong Liu, Qian Wang, Han Zhang, Dinggang Shen, the UNC/UMN Baby Connectome Project Consortium"
-        },
-        {
-          "title": "Quadratic Forms for Measuring Geometric Trees in 3-dimensional Space",
-          "url": "https://arxiv.org/abs/2606.20096",
-          "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Tree-like structures appear in many areas of science, and their shapes can help understand the underlying processes they drive or that give rise to them. By thinking of these structures as geometric graphs in $\\mathbbR^3$, we gain access…",
-          "authors": "Yossi Bokor Bleile, Emanuele Cortinovis, Herbert Edelsbrunner, Shota Uka"
-        },
-        {
-          "title": "Synchronization modes in bipartite oscillator networks",
-          "url": "https://arxiv.org/abs/2606.20345",
-          "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Collective oscillations in neuronal systems often arise from interactions between excitatory and inhibitory populations rather than from recurrent coupling within a single ensemble. Motivated by the coexistence of strongly and partially…",
-          "authors": "Pau Pomés, Bastian Pietras, Ernest Montbrió"
-        },
-        {
-          "title": "A Deep Generative Model for Resting-State EEG Synthesis and Transferable Representation Learning",
-          "url": "https://arxiv.org/abs/2503.02636",
-          "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Resting-state EEG provides a non-invasive view of spontaneous brain activity, but extracting meaningful patterns is often limited by scarce high-quality data and reliance on manually engineered features. Generative adversarial networks…",
-          "authors": "Yeganeh Farahzadi, Morteza Ansarinia, Zoltan Kekecs"
-        },
-        {
-          "title": "Overlooked weak structural connections support human cognition under nonlinear connectome scaling",
-          "url": "https://arxiv.org/abs/2505.24125",
-          "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Human cognition depends on large scale communication constrained by white matter architecture. Although weak connections are abundant in mammalian connectomes, they have long been treated as noise and downweighted because of tractography…",
-          "authors": "Rong Wang, Zhao Chang, Xuechun Liu, Daniel Kristanto, Étienne Gérard Guy Gartner, Xinyang Liu, Mianxin Liu, Ying Wu, Ming Lui, Changsong Zhou"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -110,6 +69,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists found a cannabis compound that relieves pain without the high",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260619033343.htm",
+          "publishedDate": "Sat, 20 Jun 2026 11:33:51 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Compounds responsible for the aroma of cannabis and many other plants may offer a surprising new way to relieve chronic pain. Researchers found that several cannabis-derived terpenes significantly reduced pain in mouse models of…",
+          "authors": ""
+        },
+        {
+          "title": "This DNA repair gene went rogue and exposed a cancer weakness",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260619101349.htm",
+          "publishedDate": "Sat, 20 Jun 2026 08:27:35 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have discovered that a gene normally considered a DNA-protecting \"good guy\" can become dangerous when cells make too much of it. The gene, EXO1, acts like molecular scissors that help repair DNA, but when overproduced it starts…",
+          "authors": ""
+        },
+        {
+          "title": "Ozempic changed obesity treatment, but experts say the real revolution is next",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260619020504.htm",
+          "publishedDate": "Sat, 20 Jun 2026 07:28:46 EDT",
+          "source": "sciencedaily.com",
+          "summary": "The obesity treatment landscape is changing fast, with GLP-1 drugs opening the door to more effective care than ever before. Experts now envision a future where medications, minimally invasive procedures, surgery, and precision medicine…",
+          "authors": ""
+        },
+        {
           "title": "Think you&#039;re eating healthy? You may be missing this heart-protecting nutrient",
           "url": "https://www.sciencedaily.com/releases/2026/06/260619020512.htm",
           "publishedDate": "Fri, 19 Jun 2026 09:56:05 EDT",
@@ -132,116 +115,67 @@
           "source": "statnews.com",
           "summary": "Disability researchers across the country worry about their jobs, and the future of their institutions, as a delay in issuing federal grants drags on.",
           "authors": "Lauren Chan and O. Rose Broderick"
-        },
-        {
-          "title": "This giant tropical fruit could help reverse gum disease damage",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260618041508.htm",
-          "publishedDate": "Fri, 19 Jun 2026 01:59:41 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new biomaterial made from jackfruit latex, pomegranate peel, and simvastatin could transform the treatment of severe gum disease. Early tests suggest it not only combats infection and inflammation but may also help rebuild lost bone and…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists May Have Found What Really Triggers Alzheimer’s Disease",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260617032209.htm",
-          "publishedDate": "Thu, 18 Jun 2026 22:49:38 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists may have uncovered a hidden trigger behind Alzheimer’s disease. Instead of plaques being the root cause, amyloid beta appears to interfere with tau, a protein that helps keep neurons functioning properly. This disruption could…",
-          "authors": ""
-        },
-        {
-          "title": "Ancient DNA reveals plague was already killing humans 5,500 years ago",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260618041450.htm",
-          "publishedDate": "Thu, 18 Jun 2026 08:16:46 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Plague was already a deadly killer 5,500 years ago, long before cities, farming, or the rat-infested conditions usually linked to historic outbreaks. By analyzing ancient DNA from hunter-gatherer cemeteries in Siberia, researchers…",
-          "authors": ""
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Weight Adaptation for Improving Parallel Performance of Adaptive Stochastic Natural Gradient",
-          "url": "https://arxiv.org/abs/2606.19861",
-          "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Probabilistic model-based evolutionary algorithms are promising for black-box optimization. Specifically, the adaptive stochastic natural gradient (ASNG) adaptively updates its learning rate, a typical hyperparameter in probabilistic…",
-          "authors": "Yutaro Yamada, Kento Uchida, Shinichi Shirakawa"
-        },
-        {
-          "title": "Hybrid ANN-SNN Pipeline with Local Plasticity",
-          "url": "https://arxiv.org/abs/2606.20151",
-          "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This work proposes a hybrid ANN-SNN pipeline that effectively leverages the rich embeddings of pretrained artificial neural networks (ANNs) to enable high-performance spiking neural networks (SNNs). The architecture couples a pretrained…",
-          "authors": "Denis Larionov, Khairutin Shtanchaev, Mikhail Kiselev, Mikhail Korovin, Ivan Tugoy"
-        },
-        {
-          "title": "Beyond Accuracy: Measuring Logical Compliance of Predictive Models",
-          "url": "https://arxiv.org/abs/2606.20208",
-          "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Machine learning models are predominantly evaluated through predictive performance metrics such as ranking quality, prediction error, or classification accuracy. While these metrics effectively quantify how closely predictions match the…",
-          "authors": "Guillaume Olivier Delplanque (LIG), Pierre Genevès (LIG), Nabil Layaïda (LIG,TYREX), Zephirin Faure"
-        },
-        {
-          "title": "Evolutionary Two-Stage Hyperparameter Optimization Strategies for Physics-Informed Neural Networks",
-          "url": "https://arxiv.org/abs/2606.20442",
-          "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Physics-Informed Neural Networks (PINNs) solve Partial Differential Equations (PDEs) by embedding physical laws into neural network training. However, their performance suffers from unstable convergence, training plateaus, and strong…",
-          "authors": "Fedor Buzaev (HSE University), Dmitry Efremenko (HSE University), Egor Bugaev (HSE University), Andrei Ermakov (HSE University, AXXX), Denis Derkach (HSE University), Daria Pugacheva (HSE University, AXXX), Fedor Ratnikov (HSE University)"
-        },
-        {
-          "title": "Simulation of Language Evolution under Regulated Social Media Platforms: A Synergistic Approach of Large Language Models and Genetic Algorithms",
-          "url": "https://arxiv.org/abs/2502.19193",
-          "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Social media platforms frequently impose restrictive policies to moderate user content, prompting the emergence of creative evasion language strategies. This paper presents a multi-agent framework based on Large Language Models (LLMs) to…",
-          "authors": "Jinyu Cai, Yusei Ishimizu, Mingyue Zhang, Munan Li, Jialong Li, Kenji Tei"
-        },
-        {
-          "title": "Robust probabilistic measurement of structural-functional module consistency in infant brain development",
-          "url": "https://arxiv.org/abs/2606.19739",
-          "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Brain network is commonly divided into modules for analyzing their functionally segregated roles for group-level analysis in neuroimaging studies. Here, we introduce stochastic modules within brain networks for a robust probabilistic…",
-          "authors": "Lingbin Bian, Feihong Liu, Qian Wang, Han Zhang, Dinggang Shen, the UNC/UMN Baby Connectome Project Consortium"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 3,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Evaluation of EEG Foundation Models for Event-Based Burst-Suppression Detection in ICU",
-          "url": "https://arxiv.org/abs/2606.20074",
-          "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Burst suppression (BS) is a clinically relevant electroencephalographic (EEG) pattern used to monitor sedation depth and brain activity in critically ill patients, particularly during induced coma in Intensive Care Units (ICUs). Automatic…",
-          "authors": "Elisa Vasta, Thorir Mar Ingolfsson, Andrea Cossettini, Luca Benini, Tilman Beck, Emanuela Keller, Una Pale"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
         },
         {
-          "title": "Systematic Study of Dysarthric Speech Recognition: Spectral Features and Acoustic Models",
-          "url": "https://arxiv.org/abs/2606.19793",
-          "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The challenge associated with recognizing dysarthric speech primarily arises from pronounced acoustic variability attributed to impaired articulatory precision. Past research has demonstrated improved recognition through the use of hybrid…",
-          "authors": "Paban Sapkota, Hemant Kumar Kathania, Mikko Kurimo, Sudarsana Reddy Kadiri, Shrikanth Narayanan"
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
         },
         {
-          "title": "Improving End-to-End Speech Recognition for Dysarthric Speech through In-Domain Data Augmentation",
-          "url": "https://arxiv.org/abs/2606.19797",
-          "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Dysarthric speech recognition is crucial for facilitating effective communication among individuals with dysarthria. However, accurately recognizing dysarthric speech poses significant challenges due to varying severity levels and limited…",
-          "authors": "Paban Sapkota, Hemant Kumar Kathania, Sudarsana Reddy Kadiri, Shrikanth Narayanan"
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }
