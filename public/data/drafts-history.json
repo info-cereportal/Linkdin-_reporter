@@ -1,5 +1,30 @@
 [
   {
+    "generatedAt": "2026-06-21T23:54:35.184Z",
+    "date": "2026-06-21",
+    "topic": "学習と畳み込みニューラルネットワーク(CNN)",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "A quantum multi-sensor data fusion self-supervised learning framework for IIoT anomaly detection.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42321314/",
+    "formatted": "この研究データ、知らないままでいいですか？\n\n脳科学とAI——その境界線が消えつつある。\n\n学習と畳み込みニューラルネットワーク(CNN)に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習 × 畳み込みニューラルネットワーク(CNN) × 表現学習 × 意思決定\n\n📊 注目すべきデータ：\n→ Experimental results show that the proposed SQ-CNN achieves an 18.62% improvement in AUROC and AUPRC over baseline methods.\n→ A 19.72% reduction in unit energy consumption is also achieved.\n→ In addition, the single-window inference latency is reduced by 13.38%.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 A quantum multi-sensor data fusion self-supervised learning framework for IIoT anomaly detection.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42321314/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #BCI",
+    "summaryJP": "学習と畳み込みニューラルネットワーク(CNN) — 脳科学とAIをつなぐ研究（神経デコーディング）",
+    "paperAuthors": "Yikai Guo, Pengcheng Zhao, Xinchao Wang, Xingjia Wei, Xin Li, Enhui Zhang",
+    "publishedDate": "2026-06-19",
+    "paperId": "42321314",
+    "paperSource": "pubmed",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "学習",
+      "畳み込みニューラルネットワーク(CNN)",
+      "表現学習",
+      "意思決定",
+      "ECoG(皮質脳波)"
+    ],
+    "abstractExcerpt": "Scarce labels, limited edge-node resources, and degraded data quality are common in industrial Internet of Things (IIoT) multivariate time-series anomaly detection. Under these constraints, existing deep anomaly detection models often…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-06-20T23:47:50.607Z",
     "date": "2026-06-20",
     "topic": "注意機構と深層学習",
@@ -1254,37 +1279,6 @@
     "paperLink": "https://arxiv.org/abs/2605.24523",
     "figureUrl": "https://arxiv.org/html/2605.24523/2605.24523v1/x1.png",
     "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n言語処理と潜在空間の最新成果を整理しました。\n\n🔬 言語処理 × EEG × 潜在空間 × 注意機構\n\n📊 注目すべきデータ：\n→ On the Things-EEG2 200-way zero-shot benchmark, our framework achieves 54.1% Top-1 and 83.4% Top-5 accuracy, substantially exceeding the strongest prior baseline (32.4% / 64.0%),...\n→ Analysis reveals that compact embedding geometries (CN-CLIP) outperform much larger backbones, and that decoding aligns with established neurophysiology of visual processing.\n→ This work is a critical step towards robust, semantically-grounded visual decoding from non-invasive temporal neural signals.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding\n🔗 https://arxiv.org/abs/2605.24523\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #BrainComputerInterface",
-    "summaryJP": "言語処理と潜在空間 — 注目すべき3つの示唆（神経デコーディング）",
-    "paperAuthors": "Zexuan Chen, Sichao Liu, Runhao Lu, Huichao Qi, Alexandra Woolgar, Xi Vincent Wang, Lihui Wang",
-    "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",
-    "paperId": "2605.24523",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "言語処理",
-      "EEG",
-      "潜在空間",
-      "注意機構",
-      "学習",
-      "MEG(脳磁図)"
-    ],
-    "abstractExcerpt": "Visual decoding from brain signals is a key challenge at the intersection of computer vision and neuroscience, requiring methods that bridge neural representations and computational models of vision. We introduce a tri-modal contrastive…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.24523/2605.24523v1/x1.png",
-      "https://arxiv.org/html/2605.24523/2605.24523v1/x2.png",
-      "https://arxiv.org/html/2605.24523/2605.24523v1/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-26T19:55:11.867Z",
-    "date": "2026-05-26",
-    "topic": "言語処理と潜在空間",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding",
-    "paperLink": "https://arxiv.org/abs/2605.24523",
-    "figureUrl": "https://arxiv.org/html/2605.24523/2605.24523v1/x1.png",
-    "formatted": "これを読んで、脳に対する見方が変わりました。\n\nこの研究から得られる3つの重要な示唆。\n\n言語処理と潜在空間の最新成果を整理しました。\n\n🔬 言語処理 × EEG × 潜在空間 × 注意機構\n\n📊 注目すべきデータ：\n→ On the Things-EEG2 200-way zero-shot benchmark, our framework achieves 54.1% Top-1 and 83.4% Top-5 accuracy, substantially exceeding the strongest prior baseline (32.4% / 64.0%),...\n→ Analysis reveals that compact embedding geometries (CN-CLIP) outperform much larger backbones, and that decoding aligns with established neurophysiology of visual processing.\n→ This work is a critical step towards robust, semantically-grounded visual decoding from non-invasive temporal neural signals.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding\n🔗 https://arxiv.org/abs/2605.24523\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #BrainComputerInterface",
     "summaryJP": "言語処理と潜在空間 — 注目すべき3つの示唆（神経デコーディング）",
     "paperAuthors": "Zexuan Chen, Sichao Liu, Runhao Lu, Huichao Qi, Alexandra Woolgar, Xi Vincent Wang, Lihui Wang",
     "publishedDate": "Tue, 26 May 2026 00:00:00 -0400",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T23:47:51.083Z",
+  "generatedAt": "2026-06-21T23:54:35.908Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,52 +69,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Long-lived families reveal a rare genetic clue to healthy aging",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260621060301.htm",
+          "publishedDate": "Sun, 21 Jun 2026 10:57:42 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A study of long-lived families has identified rare genetic variants that may help people stay healthier for much longer as they age. One standout mutation appears to temper inflammation, potentially delaying disease and extending years of…",
+          "authors": ""
+        },
+        {
+          "title": "Tubulin prevents toxic brain protein clumps linked to Alzheimer’s and Parkinson’s",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260620100432.htm",
+          "publishedDate": "Sun, 21 Jun 2026 09:08:10 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists at Baylor College of Medicine may have uncovered a promising new way to combat Alzheimer’s and Parkinson’s disease. Instead of trying to stop Tau and alpha-synuclein proteins from gathering into tiny droplets inside brain cells,…",
+          "authors": ""
+        },
+        {
+          "title": "Yale study finds nearly half of older adults improved with age",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260620100428.htm",
+          "publishedDate": "Sun, 21 Jun 2026 06:02:10 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A long-term Yale study is challenging one of the biggest myths about aging. Nearly half of adults over 65 improved physically, mentally, or both over time, despite the common belief that aging means constant decline. Researchers found that…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover neurons must break their DNA to build the brain",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260620100422.htm",
+          "publishedDate": "Sun, 21 Jun 2026 02:30:35 EDT",
+          "source": "sciencedaily.com",
+          "summary": "As newborn neurons make their way through the developing brain, they must squeeze through incredibly tight spaces to reach their final destinations. Researchers discovered that this physical journey routinely causes some of the most severe…",
+          "authors": ""
+        },
+        {
+          "title": "Major review finds vaping likely causes lung and oral cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260619020520.htm",
+          "publishedDate": "Sun, 21 Jun 2026 01:26:23 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers have concluded that nicotine vapes are likely to cause lung and oral cancers, based on evidence ranging from human biomarkers to animal and laboratory studies. The findings challenge the idea that vaping is a harmless…",
+          "authors": ""
+        },
+        {
           "title": "Scientists found a cannabis compound that relieves pain without the high",
           "url": "https://www.sciencedaily.com/releases/2026/06/260619033343.htm",
           "publishedDate": "Sat, 20 Jun 2026 11:33:51 EDT",
           "source": "sciencedaily.com",
           "summary": "Compounds responsible for the aroma of cannabis and many other plants may offer a surprising new way to relieve chronic pain. Researchers found that several cannabis-derived terpenes significantly reduced pain in mouse models of…",
           "authors": ""
-        },
-        {
-          "title": "This DNA repair gene went rogue and exposed a cancer weakness",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260619101349.htm",
-          "publishedDate": "Sat, 20 Jun 2026 08:27:35 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that a gene normally considered a DNA-protecting \"good guy\" can become dangerous when cells make too much of it. The gene, EXO1, acts like molecular scissors that help repair DNA, but when overproduced it starts…",
-          "authors": ""
-        },
-        {
-          "title": "Ozempic changed obesity treatment, but experts say the real revolution is next",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260619020504.htm",
-          "publishedDate": "Sat, 20 Jun 2026 07:28:46 EDT",
-          "source": "sciencedaily.com",
-          "summary": "The obesity treatment landscape is changing fast, with GLP-1 drugs opening the door to more effective care than ever before. Experts now envision a future where medications, minimally invasive procedures, surgery, and precision medicine…",
-          "authors": ""
-        },
-        {
-          "title": "Think you&#039;re eating healthy? You may be missing this heart-protecting nutrient",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260619020512.htm",
-          "publishedDate": "Fri, 19 Jun 2026 09:56:05 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Eating five servings of fruits and vegetables may not be enough if you&#039;re missing foods rich in flavanols, a group of compounds linked to better heart health. Researchers found that choices like blackberries, plums, apples, broad…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists reprogram brain immune cells to fight Alzheimer’s",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260619020506.htm",
-          "publishedDate": "Fri, 19 Jun 2026 07:47:55 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A newly identified molecule called OLE helped restore the brain’s immune cells to a more protective state in Alzheimer’s models. The treatment reduced toxic plaque buildup and improved memory, raising hopes for a new therapeutic approach.",
-          "authors": ""
-        },
-        {
-          "title": "Federal grant delays could jeopardize essential disability services, research",
-          "url": "https://www.statnews.com/2026/06/19/federal-grant-delays-jeopardize-essential-disability-services-research/?utm_campaign=rss",
-          "publishedDate": "Fri, 19 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Disability researchers across the country worry about their jobs, and the future of their institutions, as a delay in issuing federal grants drags on.",
-          "authors": "Lauren Chan and O. Rose Broderick"
         }
       ]
     },
