@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T23:54:35.908Z",
+  "generatedAt": "2026-06-22T23:52:57.438Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -13,6 +13,22 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say",
+          "url": "https://www.statnews.com/2026/06/22/ebola-congo-1000-cases-254-deaths-civil-war-impedes-search-patient-zero/?utm_campaign=rss",
+          "publishedDate": "Mon, 22 Jun 2026 14:27:52 +0000",
+          "source": "statnews.com",
+          "summary": "Confirmed cases in the Ebola outbreak in eastern Congo have reached 1,003, including 254 deaths, officials said, as tracing those who had been in contact with patients remains a major challenge.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "STAT+: Despite transplant referrals, most kidney patients don’t make the waitlist",
+          "url": "https://www.statnews.com/2026/06/22/health-news-most-kidney-failure-patients-never-get-transplant/?utm_campaign=rss",
+          "publishedDate": "Mon, 22 Jun 2026 13:03:51 +0000",
+          "source": "statnews.com",
+          "summary": "An NIH grant proposal poses new threats, more cases of a livestock disease in Europe, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney, Helen Branswell, and Elizabeth Cooney"
+        },
         {
           "title": "Tennessee pharmacies sell potent ivermectin, led by anti-vaccine doctor who’s taken ‘bucketloads’",
           "url": "https://www.statnews.com/2026/06/19/tennessee-ivermectin-market-how-to-create-booming-sales-unproven-drug/?utm_campaign=rss",
@@ -44,22 +60,6 @@
           "source": "statnews.com",
           "summary": "A new poll shows only about half of U.S. adults could afford their health care and had access to quality care last year.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "Six of the biggest health news stories today",
-          "url": "https://www.statnews.com/2026/06/18/health-news-high-end-infant-formula-synthetic-opioids-ftc/?utm_campaign=rss",
-          "publishedDate": "Thu, 18 Jun 2026 11:59:47 +0000",
-          "source": "statnews.com",
-          "summary": "High-end infant formula scrutiny, the spread of synthetic opioids, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "Super-potent synthetic opioids called nitazenes are spreading across the U.S.",
-          "url": "https://www.statnews.com/2026/06/18/nitazenes-deadly-synthetic-opioids-rapid-spread-united-states/?utm_campaign=rss",
-          "publishedDate": "Thu, 18 Jun 2026 09:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "Overdose deaths confirmed to involve nitazenes have risen sharply in the U.S., from 27 in 2020 to 409 in 2024, according to the CDC",
-          "authors": "Jonathan Moens — Bellingcat"
         }
       ]
     },
@@ -69,51 +69,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Long-lived families reveal a rare genetic clue to healthy aging",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260621060301.htm",
-          "publishedDate": "Sun, 21 Jun 2026 10:57:42 EDT",
+          "title": "Trump administration targets disability integration mandate in DOJ memo",
+          "url": "https://www.statnews.com/2026/06/22/doj-memo-targets-disability-integration-olmstead-mandate/?utm_campaign=rss",
+          "publishedDate": "Mon, 22 Jun 2026 22:20:37 +0000",
+          "source": "statnews.com",
+          "summary": "A new memo from the Department of Justice seeks to upend landmark disability laws and court rulings.",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "STAT+: FDA to launch pilot program to speed up early-stage clinical trials",
+          "url": "https://www.statnews.com/2026/06/22/fda-speed-up-early-stage-single-study-clinical-trials/?utm_campaign=rss",
+          "publishedDate": "Mon, 22 Jun 2026 15:48:44 +0000",
+          "source": "statnews.com",
+          "summary": "Federal health officials aim to speed up drug development and better compete with China.",
+          "authors": "Chelsea Cirruzzo and Lizzy Lawrence"
+        },
+        {
+          "title": "A common vitamin could help fight one of the deadliest brain cancers",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622014313.htm",
+          "publishedDate": "Mon, 22 Jun 2026 08:23:53 EDT",
           "source": "sciencedaily.com",
-          "summary": "A study of long-lived families has identified rare genetic variants that may help people stay healthier for much longer as they age. One standout mutation appears to temper inflammation, potentially delaying disease and extending years of…",
+          "summary": "A clinical trial is exploring whether high doses of vitamin B3 could give patients with glioblastoma a better chance against the aggressive brain cancer. Scientists found that niacin may help revive immune cells that tumors shut down,…",
           "authors": ""
         },
         {
-          "title": "Tubulin prevents toxic brain protein clumps linked to Alzheimer’s and Parkinson’s",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260620100432.htm",
-          "publishedDate": "Sun, 21 Jun 2026 09:08:10 EDT",
+          "title": "Butterfly that barely ages could help unlock longevity secrets",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm",
+          "publishedDate": "Mon, 22 Jun 2026 06:30:08 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists at Baylor College of Medicine may have uncovered a promising new way to combat Alzheimer’s and Parkinson’s disease. Instead of trying to stop Tau and alpha-synuclein proteins from gathering into tiny droplets inside brain cells,…",
+          "summary": "Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physical decline as they age. Their unusual…",
           "authors": ""
         },
         {
-          "title": "Yale study finds nearly half of older adults improved with age",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260620100428.htm",
-          "publishedDate": "Sun, 21 Jun 2026 06:02:10 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A long-term Yale study is challenging one of the biggest myths about aging. Nearly half of adults over 65 improved physically, mentally, or both over time, despite the common belief that aging means constant decline. Researchers found that…",
-          "authors": ""
+          "title": "Health equity researchers fear unseen level of scrutiny under White House proposal",
+          "url": "https://www.statnews.com/2026/06/22/health-disparity-research-new-dei-rule-threat-nih-grants/?utm_campaign=rss",
+          "publishedDate": "Mon, 22 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Health disparities researchers say a new White House proposal could disqualify much of their work from federal funding — perhaps the most serious threat yet to the future of their&#8230;",
+          "authors": "Anil Oza"
         },
         {
-          "title": "Scientists discover neurons must break their DNA to build the brain",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260620100422.htm",
-          "publishedDate": "Sun, 21 Jun 2026 02:30:35 EDT",
+          "title": "Ebola and hantavirus can start like the flu but turn deadly fast",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622014257.htm",
+          "publishedDate": "Mon, 22 Jun 2026 02:30:53 EDT",
           "source": "sciencedaily.com",
-          "summary": "As newborn neurons make their way through the developing brain, they must squeeze through incredibly tight spaces to reach their final destinations. Researchers discovered that this physical journey routinely causes some of the most severe…",
-          "authors": ""
-        },
-        {
-          "title": "Major review finds vaping likely causes lung and oral cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260619020520.htm",
-          "publishedDate": "Sun, 21 Jun 2026 01:26:23 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers have concluded that nicotine vapes are likely to cause lung and oral cancers, based on evidence ranging from human biomarkers to animal and laboratory studies. The findings challenge the idea that vaping is a harmless…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists found a cannabis compound that relieves pain without the high",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260619033343.htm",
-          "publishedDate": "Sat, 20 Jun 2026 11:33:51 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Compounds responsible for the aroma of cannabis and many other plants may offer a surprising new way to relieve chronic pain. Researchers found that several cannabis-derived terpenes significantly reduced pain in mouse models of…",
+          "summary": "Two dangerous viruses are back in the spotlight, reminding health officials how quickly infectious diseases can become serious threats. Hantavirus, often linked to rodents, can cause severe heart and lung complications and has no specific…",
           "authors": ""
         }
       ]
