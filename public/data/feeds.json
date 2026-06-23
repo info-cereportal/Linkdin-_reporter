@@ -1,18 +1,83 @@
 {
-  "generatedAt": "2026-06-22T23:52:57.438Z",
+  "generatedAt": "2026-06-23T23:38:16.853Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Relational Gaze Transitions During Encoding Predict Episodic Recall of Naturalistic Scenes",
+          "url": "https://arxiv.org/abs/2606.20844",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Remembering a visual scene requires organizing distinct details into a cohesive event. This study investigates whether relation-guided gaze transitions provide a behavioural marker of this cognitive organization during episodic encoding…",
+          "authors": "Hugo Rydel, Alex Kafkas"
+        },
+        {
+          "title": "Adaptive conduction delays and phase locking in spiking Haken Lighthouse networks",
+          "url": "https://arxiv.org/abs/2606.21508",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We develop a theory of phase-locked activity in delayed spiking networks using the Haken Lighthouse model as an analytically tractable event-based description of neural dynamics. For networks with fixed delays, we derive self-consistency…",
+          "authors": "Stephen Coombes, Rüdiger Thul, Stefan Ruschel, Rachel Nicks"
+        },
+        {
+          "title": "Delay coordinates synchronization and induces abrupt transition in excitable networks",
+          "url": "https://arxiv.org/abs/2606.21703",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Neuronal communication is inherently time-delayed, due to the finite speed of signal propagation. Although often considered challenging or disruptive, such time delays can also endow neural circuits with useful capabilities. Here, we show…",
+          "authors": "Bruno R. R. Boaretto, Kalel L. Rossi, Lyle E. Muller, Elbert E. Macau, Roberto C. Budzinski"
+        },
+        {
+          "title": "Mostly-monocular responses and other visual functions in a multiscale network model of Macaque V1",
+          "url": "https://arxiv.org/abs/2606.21785",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Visual signals from the two eyes merge gradually as they pass through the primary visual cortex (V1). Here we use a computational model of Macaque V1 to study the first stage of this integration \\ktextalong the magnocellular pathway, in…",
+          "authors": "Zhuo-Cheng Xiao, Kevin K. Lin, Lai-Sang Young"
+        },
+        {
+          "title": "Dynamic Computerized Tumbling-E Testing for Temporal Reliability of Human Sequential Perceptual Decisions",
+          "url": "https://arxiv.org/abs/2606.21818",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "OBJECTIVES: Visual acuity and tumbling-E tasks are often treated as static threshold measures, yet sequential perceptual decisions unfold over time. A computerized tumbling-E task preserves response latency, timeouts, and stimulus-size…",
+          "authors": "Avneek Sandhu, Bin Hu"
+        },
+        {
+          "title": "SPIDER -- Stitched Power-spectra for Inferring Directed information flow from incomplete and asynchronous Experimental Recordings",
+          "url": "https://arxiv.org/abs/2606.22695",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Mapping the directed flow of information between brain regions -- their effective connectivity -- is central to understanding brain function, yet large-scale recordings sample only a fraction of the brain at a time: sessions, animals, and…",
+          "authors": "Yisi S. Zhang, Daniel Y. Takahashi"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Judge rules government can&#8217;t stop SNAP dollars from buying candy and sugary drinks",
+          "url": "https://www.statnews.com/2026/06/23/snap-dollars-buying-candy-sugary-drinks-judge-ruling/?utm_campaign=rss",
+          "publishedDate": "Tue, 23 Jun 2026 17:50:09 +0000",
+          "source": "statnews.com",
+          "summary": "The federal government can't block benefits from the nation's largest food aid program from being used to buy candy, soda, and other sugary drinks, a judge ruled.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "HHS has sent drug for Ebola clinical trial",
+          "url": "https://www.statnews.com/2026/06/23/health-news-hhs-sent-drug-for-ebola-clinical-trial/?utm_campaign=rss",
+          "publishedDate": "Tue, 23 Jun 2026 12:45:45 +0000",
+          "source": "statnews.com",
+          "summary": "FDA's early-stage clinical trial program, a mysterious single patient gets retatrutide access, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney and Helen Branswell"
+        },
         {
           "title": "Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say",
           "url": "https://www.statnews.com/2026/06/22/ebola-congo-1000-cases-254-deaths-civil-war-impedes-search-patient-zero/?utm_campaign=rss",
@@ -44,22 +109,6 @@
           "source": "statnews.com",
           "summary": "Ebola cases have increased almost 40% in a week in the current outbreak in Congo and Uganda as the death toll passes 200.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "STAT+: Shingles vaccine may lower dementia risk, new study finds",
-          "url": "https://www.statnews.com/2026/06/18/shingles-vaccine-may-lower-dementia-risk-new-study/?utm_campaign=rss",
-          "publishedDate": "Thu, 18 Jun 2026 14:29:30 +0000",
-          "source": "statnews.com",
-          "summary": "Nursing home residents who received at least one dose of shingles vaccine were 24 percent less likely to develop dementia, a new study found.",
-          "authors": "Allyson Chiu — Boston Globe"
-        },
-        {
-          "title": "How many Americans can afford high-quality health care? A new poll finds the number has fallen",
-          "url": "https://www.statnews.com/2026/06/18/how-many-americans-can-afford-their-healthcare/?utm_campaign=rss",
-          "publishedDate": "Thu, 18 Jun 2026 13:08:26 +0000",
-          "source": "statnews.com",
-          "summary": "A new poll shows only about half of U.S. adults could afford their health care and had access to quality care last year.",
-          "authors": "Associated Press"
         }
       ]
     },
@@ -69,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Trump administration targets disability integration mandate in DOJ memo",
-          "url": "https://www.statnews.com/2026/06/22/doj-memo-targets-disability-integration-olmstead-mandate/?utm_campaign=rss",
-          "publishedDate": "Mon, 22 Jun 2026 22:20:37 +0000",
+          "title": "Justice Department announces hundreds of charges in multibillion-dollar health care fraud crackdown",
+          "url": "https://www.statnews.com/2026/06/23/texas-doctor-charged-fraud-case-cms-health-care-crackdown/?utm_campaign=rss",
+          "publishedDate": "Tue, 23 Jun 2026 15:28:31 +0000",
           "source": "statnews.com",
-          "summary": "A new memo from the Department of Justice seeks to upend landmark disability laws and court rulings.",
-          "authors": "O. Rose Broderick"
+          "summary": "The Justice Department has charged a Texas doctor in an $89 million health care fraud scheme, accusing him of billing insurers for medically unnecessary cardiovascular screening tests.",
+          "authors": "Associated Press"
         },
         {
-          "title": "STAT+: FDA to launch pilot program to speed up early-stage clinical trials",
-          "url": "https://www.statnews.com/2026/06/22/fda-speed-up-early-stage-single-study-clinical-trials/?utm_campaign=rss",
-          "publishedDate": "Mon, 22 Jun 2026 15:48:44 +0000",
-          "source": "statnews.com",
-          "summary": "Federal health officials aim to speed up drug development and better compete with China.",
-          "authors": "Chelsea Cirruzzo and Lizzy Lawrence"
-        },
-        {
-          "title": "A common vitamin could help fight one of the deadliest brain cancers",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260622014313.htm",
-          "publishedDate": "Mon, 22 Jun 2026 08:23:53 EDT",
+          "title": "The tea in your kombucha changes more than just the taste",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260621060313.htm",
+          "publishedDate": "Tue, 23 Jun 2026 11:06:00 EDT",
           "source": "sciencedaily.com",
-          "summary": "A clinical trial is exploring whether high doses of vitamin B3 could give patients with glioblastoma a better chance against the aggressive brain cancer. Scientists found that niacin may help revive immune cells that tumors shut down,…",
+          "summary": "Scientists discovered that kombucha’s flavor, chemistry, and antioxidant activity vary dramatically depending on the tea used to make it. Green and oolong tea kombuchas emerged as the most biologically active, while fermentation…",
           "authors": ""
         },
         {
-          "title": "Butterfly that barely ages could help unlock longevity secrets",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm",
-          "publishedDate": "Mon, 22 Jun 2026 06:30:08 EDT",
+          "title": "Scientists finally solved how H5N1 bird flu hid in dairy cows",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260620100315.htm",
+          "publishedDate": "Tue, 23 Jun 2026 10:31:51 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physical decline as they age. Their unusual…",
+          "summary": "Researchers uncovered why H5N1 bird flu attacks cows’ udders instead of their lungs: the virus’s preferred receptors are concentrated in mammary tissue. The breakthrough could help scientists predict future bird flu jumps and spot unusual…",
           "authors": ""
         },
         {
-          "title": "Health equity researchers fear unseen level of scrutiny under White House proposal",
-          "url": "https://www.statnews.com/2026/06/22/health-disparity-research-new-dei-rule-threat-nih-grants/?utm_campaign=rss",
-          "publishedDate": "Mon, 22 Jun 2026 08:30:00 +0000",
+          "title": "STAT+: Exclusive: Mystery man gets experimental GLP-1",
+          "url": "https://www.statnews.com/2026/06/23/eli-lilly-mystery-patient-congress-chinese-biotech-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Tue, 23 Jun 2026 14:22:18 +0000",
           "source": "statnews.com",
-          "summary": "Health disparities researchers say a new White House proposal could disqualify much of their work from federal funding — perhaps the most serious threat yet to the future of their&#8230;",
-          "authors": "Anil Oza"
+          "summary": "Giving an individual special access to an experimental obesity drug is highly unusual.",
+          "authors": "John Wilkerson"
         },
         {
-          "title": "Ebola and hantavirus can start like the flu but turn deadly fast",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260622014257.htm",
-          "publishedDate": "Mon, 22 Jun 2026 02:30:53 EDT",
+          "title": "New brain study reveals speech learning works differently than we thought",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260619020514.htm",
+          "publishedDate": "Tue, 23 Jun 2026 08:06:13 EDT",
           "source": "sciencedaily.com",
-          "summary": "Two dangerous viruses are back in the spotlight, reminding health officials how quickly infectious diseases can become serious threats. Hantavirus, often linked to rodents, can cause severe heart and lung complications and has no specific…",
+          "summary": "A new study suggests that learning and remembering speech relies more on how the brain processes sounds and sensations than on the areas that control mouth and face movements. The discovery could reshape speech therapy and help improve…",
+          "authors": ""
+        },
+        {
+          "title": "One of the world’s most popular weedkillers may be fueling deadly superbugs",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260620100434.htm",
+          "publishedDate": "Tue, 23 Jun 2026 07:31:51 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers found that highly drug-resistant bacteria from hospitals are also resistant to glyphosate, a commonly used weedkiller. The discovery suggests that agricultural herbicides may be helping antibiotic-resistant microbes survive and…",
           "authors": ""
         }
       ]
@@ -121,61 +170,86 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Robust Auto-associative Memory via Convolutional Restricted Hopfield Networks",
+          "url": "https://arxiv.org/abs/2606.20666",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Associative memory models play a fundamental role in pattern retrieval, but their performance often degrades under adversarial perturbations and severe input corruptions. Existing approaches, including Modern Hopfield Networks (MHNs), and…",
+          "authors": "Ci Lin, Tet Yeap, Iluju Kiringa"
+        },
+        {
+          "title": "Genetic Algorithm Based Coordination and Optimization Model for Generation Grid Load Storage in Active Distribution Networks",
+          "url": "https://arxiv.org/abs/2606.20672",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Create an optimization framework that combines fuzzy logic and genetic algorithms for risk assessment and coordination of generation, grid connection, load, and energy storage facilities in active distribution networks. In order to capture…",
+          "authors": "Jinlu Zhang, Fujian Chi, Tianhan Ling, Yulong He, Kejia Zhang, Hongxing Lv, Sheng Wang"
+        },
+        {
+          "title": "A Formal Tool for Verification of Probabilistic Spiking Neural Networks Based on Quotient Abstractions",
+          "url": "https://arxiv.org/abs/2606.20674",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Spiking Neural Networks (SNNs) model biological neural dynamics more faithfully than classical artificial networks, but their stochastic, event-driven computation -- rooted in ion-channel noise and unreliable synaptic vesicle release --…",
+          "authors": "Nikan Zandian Jazi, Elisabetta De Maria, Christopher Leturc"
+        },
+        {
+          "title": "VQ4SNN: Vector Quantization for Memory-Efficient FPGA Spiking Neural Networks",
+          "url": "https://arxiv.org/abs/2606.20675",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Spiking Neural Networks (SNNs) offer an energy-efficient paradigm for edge AI, making them attractive for hardware acceleration. However, deploying dense SNNs on FPGAs is constrained by limited on-chip memory for synaptic weight storage.…",
+          "authors": "Dimitrios Sekertzis, Giorgos Dimitrakopoulos"
+        },
+        {
+          "title": "Provably Sub-Linear Two-Timescale NeuroEvolution with Online Plasticity",
+          "url": "https://arxiv.org/abs/2606.20817",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "NeuroEvolution of Augmenting Topologies (NEAT) is a widely used neuroevolution algorithm for learning neural network architectures and weights for control tasks. However, standard offline optimisation searches for connection strengths…",
+          "authors": "Shishen Lin, Yixin Chen"
+        },
+        {
+          "title": "On the Use of Survival Selection Methods for Evolutionary Diversity Optimisation",
+          "url": "https://arxiv.org/abs/2606.21161",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Generating a diverse set of high quality solutions for an optimisation problem has been studied extensively in recent years by the evolutionary computation community. A paradigm that has received increasing attention is evolutionary…",
+          "authors": "Adel Nikfarjam, Jakob Bossek, Aneta Neumann, Frank Neumann"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 3,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
+          "title": "Asynchronous Multi-Channel USF: Modified CRT for Modulo Unfolding",
+          "url": "https://arxiv.org/abs/2606.21012",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The Unlimited Sampling Framework (USF) overcomes the traditional trade-off between dynamic range and digital resolution, achieving performance unattainable with standard ADCs. Its multi-channel extension (MC-USF) enables reconstruction…",
+          "authors": "Ruiming Guo, Ayush Bhandari"
         },
         {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
+          "title": "Differential LEO Navigation under Asynchronous Satellite Clocks: Architecture and Performance Bounds",
+          "url": "https://arxiv.org/abs/2606.21621",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Low Earth Orbit (LEO) communication satellites have emerged as a promising source of signals of opportunity for resilient positioning, navigation, and timing (PNT) in GNSS-challenged environments. Unlike GNSS constellations, however,…",
+          "authors": "Qamar Bader, Sharief Saleh, Henk Wymeersch, Gonzalo Seco-Granados, Aboelmagd Noureldin"
         },
         {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "Generative versus Discriminative Approaches for Class-Incremental Learning of EMG Signals: Effectiveness of Scale Mixture Modeling",
+          "url": "https://arxiv.org/abs/2606.21310",
+          "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "In electromyogram (EMG)-based motion recognition, it is impractical to predefine all motions that may be required during deployment, necessitating class-incremental learning that sequentially adds new motion classes. The primary challenges…",
+          "authors": "Seitaro Yoneda, Suguru Kanoga, Akira Furui"
         }
       ]
     }
