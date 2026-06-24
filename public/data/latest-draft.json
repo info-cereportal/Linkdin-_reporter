@@ -1,21 +1,27 @@
 {
-  "generatedAt": "2026-06-23T23:38:16.350Z",
-  "date": "2026-06-23",
-  "topic": "情動",
-  "templateName": "paradigm-shift",
+  "generatedAt": "2026-06-24T23:46:10.732Z",
+  "date": "2026-06-24",
+  "topic": "ブレイン・コンピュータ・インターフェース(BCI)",
+  "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "Future of Brain Health: From Developmental Insights to Clinical Translation",
-  "paperLink": "https://arxiv.org/abs/2509.21332",
-  "formatted": "情動に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 情動\n\n> This review highlights brain health as a dynamic process shaped by both genetic and environmental influences throughout development. Critical periods provide unique windows of heightened neural plasticity, during which genetic-environmental interactions and parental influences...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\n臨床・精神医学応用の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Future of Brain Health: From Developmental Insights to Clinical Translation\n🔗 https://arxiv.org/abs/2509.21332\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #BrainComputerInterface",
-  "summaryJP": "情動 — 通説を揺さぶる新たな知見（臨床・精神医学応用）",
-  "paperAuthors": "Mariela Chertoff, Martin G Frasch, Eduardo T Cánepa, Gerlinde A. S. Metz, Marta Cristina Antonelli, Sheehan D. Fisher, Bea R. H. Van den Bergh",
-  "publishedDate": "Tue, 23 Jun 2026 00:00:00 -0400",
-  "paperId": "2509.21332",
+  "paperTitle": "Average Rankings Mask Per-Subject Optimality: A Friedman-Nemenyi Benchmark of EEG Motor-Imagery BCI Decoders",
+  "paperLink": "https://arxiv.org/abs/2606.24394",
+  "figureUrl": "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure1.png",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、ブレイン・コンピュータ・インターフェース(BCI)の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 EEG × ブレイン・コンピュータ・インターフェース(BCI)\n\n📊 注目すべきデータ：\n→ Covariance tangent-space projection (cov-tgsp) and Common Spatial Patterns (CSP) are the strongest families, but their ordering is dataset-dependent and, on the largest and most...\n→ At the individual level the single best pipeline is optimal for only 35% of PhysionetMI participants, and nonlinear descriptors are best for roughly one third; matching pipeline...\n\nなぜこの数字が重要か。\n\nBCI・ニューラルインターフェースにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Average Rankings Mask Per-Subject Optimality: A Friedman-Nemenyi Benchmark of EEG Motor-Imagery BCI Decoders\n🔗 https://arxiv.org/abs/2606.24394\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #DeepLearning",
+  "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI) — 数値で示された新事実（BCI・ニューラルインターフェース）",
+  "paperAuthors": "Xavier Vasques, Paul Barbaste, Olivier Oullier",
+  "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+  "paperId": "2606.24394",
   "paperSource": "arxiv",
-  "themeArea": "臨床・精神医学応用",
+  "themeArea": "BCI・ニューラルインターフェース",
   "jpKeywords": [
-    "情動"
+    "EEG",
+    "ブレイン・コンピュータ・インターフェース(BCI)"
   ],
-  "abstractExcerpt": "This review highlights brain health as a dynamic process shaped by both genetic and environmental influences throughout development. Critical periods provide unique windows of heightened neural plasticity, during which…",
-  "figureUrls": []
+  "abstractExcerpt": "Electroencephalography (EEG) is the dominant non-invasive modality for brain-computer interfaces (BCIs), yet reliable decoding of motor imagery is hampered by inter- and intra-individual variability. A recurring claim is that one decoding…",
+  "figureUrls": [
+    "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure1.png",
+    "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure2.png",
+    "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure3.png"
+  ]
 }

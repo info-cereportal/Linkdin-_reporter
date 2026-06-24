@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-06-24T23:46:10.732Z",
+    "date": "2026-06-24",
+    "topic": "ブレイン・コンピュータ・インターフェース(BCI)",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Average Rankings Mask Per-Subject Optimality: A Friedman-Nemenyi Benchmark of EEG Motor-Imagery BCI Decoders",
+    "paperLink": "https://arxiv.org/abs/2606.24394",
+    "figureUrl": "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure1.png",
+    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、ブレイン・コンピュータ・インターフェース(BCI)の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 EEG × ブレイン・コンピュータ・インターフェース(BCI)\n\n📊 注目すべきデータ：\n→ Covariance tangent-space projection (cov-tgsp) and Common Spatial Patterns (CSP) are the strongest families, but their ordering is dataset-dependent and, on the largest and most...\n→ At the individual level the single best pipeline is optimal for only 35% of PhysionetMI participants, and nonlinear descriptors are best for roughly one third; matching pipeline...\n\nなぜこの数字が重要か。\n\nBCI・ニューラルインターフェースにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Average Rankings Mask Per-Subject Optimality: A Friedman-Nemenyi Benchmark of EEG Motor-Imagery BCI Decoders\n🔗 https://arxiv.org/abs/2606.24394\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #DeepLearning",
+    "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI) — 数値で示された新事実（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Xavier Vasques, Paul Barbaste, Olivier Oullier",
+    "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+    "paperId": "2606.24394",
+    "paperSource": "arxiv",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "EEG",
+      "ブレイン・コンピュータ・インターフェース(BCI)"
+    ],
+    "abstractExcerpt": "Electroencephalography (EEG) is the dominant non-invasive modality for brain-computer interfaces (BCIs), yet reliable decoding of motor imagery is hampered by inter- and intra-individual variability. A recurring claim is that one decoding…",
+    "figureUrls": [
+      "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure1.png",
+      "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure2.png",
+      "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-06-23T23:38:16.350Z",
     "date": "2026-06-23",
     "topic": "情動",
@@ -1260,34 +1287,6 @@
       "https://arxiv.org/html/2605.27189/2605.27189v1/x1.png",
       "https://arxiv.org/html/2605.27189/2605.27189v1/x2.png",
       "https://arxiv.org/html/2605.27189/2605.27189v1/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-27T06:54:04.062Z",
-    "date": "2026-05-27",
-    "topic": "強化学習と学習",
-    "templateName": "future-vision",
-    "riskScore": 0,
-    "paperTitle": "Probabilistic Recurrent Intention Switching Model",
-    "paperLink": "https://arxiv.org/abs/2605.26998",
-    "figureUrl": "https://arxiv.org/html/2605.26998/2605.26998v1/x1.png",
-    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n強化学習と学習の最新研究です。\n\n🔬 強化学習 × 学習 × 記憶\n\n> Inverse reinforcement learning (IRL) recovers reward functions from observed behavior, yet traditional methods assume a single stationary reward that cannot capture goal switching within an episode. Recent multi-intention IRL methods address this by segmenting trajectories, but...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Probabilistic Recurrent Intention Switching Model\n🔗 https://arxiv.org/abs/2605.26998\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #BrainComputerInterface",
-    "summaryJP": "強化学習と学習 — 次世代へ続く布石（計算論的神経科学）",
-    "paperAuthors": "Wenyuan Sheng, Hao Zhu, Joschka Boedecker",
-    "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
-    "paperId": "2605.26998",
-    "paperSource": "arxiv",
-    "themeArea": "計算論的神経科学",
-    "jpKeywords": [
-      "強化学習",
-      "学習",
-      "記憶"
-    ],
-    "abstractExcerpt": "Inverse reinforcement learning (IRL) recovers reward functions from observed behavior, yet traditional methods assume a single stationary reward that cannot capture goal switching within an episode. Recent multi-intention IRL methods…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.26998/2605.26998v1/x1.png",
-      "https://arxiv.org/html/2605.26998/2605.26998v1/x2.png",
-      "https://arxiv.org/html/2605.26998/2605.26998v1/x5.png"
     ]
   }
 ]
