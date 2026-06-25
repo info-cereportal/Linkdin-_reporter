@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-06-24T23:46:10.732Z",
-  "date": "2026-06-24",
-  "topic": "ブレイン・コンピュータ・インターフェース(BCI)",
-  "templateName": "data-driven",
+  "generatedAt": "2026-06-25T23:55:48.669Z",
+  "date": "2026-06-25",
+  "topic": "計算論的神経科学と神経ダイナミクス",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Average Rankings Mask Per-Subject Optimality: A Friedman-Nemenyi Benchmark of EEG Motor-Imagery BCI Decoders",
-  "paperLink": "https://arxiv.org/abs/2606.24394",
-  "figureUrl": "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure1.png",
-  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、ブレイン・コンピュータ・インターフェース(BCI)の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 EEG × ブレイン・コンピュータ・インターフェース(BCI)\n\n📊 注目すべきデータ：\n→ Covariance tangent-space projection (cov-tgsp) and Common Spatial Patterns (CSP) are the strongest families, but their ordering is dataset-dependent and, on the largest and most...\n→ At the individual level the single best pipeline is optimal for only 35% of PhysionetMI participants, and nonlinear descriptors are best for roughly one third; matching pipeline...\n\nなぜこの数字が重要か。\n\nBCI・ニューラルインターフェースにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Average Rankings Mask Per-Subject Optimality: A Friedman-Nemenyi Benchmark of EEG Motor-Imagery BCI Decoders\n🔗 https://arxiv.org/abs/2606.24394\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #DeepLearning",
-  "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI) — 数値で示された新事実（BCI・ニューラルインターフェース）",
-  "paperAuthors": "Xavier Vasques, Paul Barbaste, Olivier Oullier",
-  "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
-  "paperId": "2606.24394",
+  "paperTitle": "Control of neural field equations with step-function inputs",
+  "paperLink": "https://arxiv.org/abs/2510.22022",
+  "figureUrl": "https://arxiv.org/html/2510.22022/2510.22022v2/figs/tunnel-fovea.png",
+  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\nこの研究から得られる3つの重要な示唆。\n\n計算論的神経科学と神経ダイナミクスの最新成果を整理しました。\n\n🔬 計算論的神経科学 × 神経ダイナミクス\n\n📊 注目すべきデータ：\n→ Extensive numerical results in one and two spatial dimensions confirm the effectiveness of the proposed syntheses and demonstrate their superior performance compared to inputs...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n計算論的神経科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Control of neural field equations with step-function inputs\n🔗 https://arxiv.org/abs/2510.22022\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #神経科学 #計算論的神経科学 #ComputationalNeuroscience",
+  "summaryJP": "計算論的神経科学と神経ダイナミクス — 注目すべき3つの示唆（計算論的神経科学）",
+  "paperAuthors": "Cyprien Tamekue, ShiNung Ching",
+  "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
+  "paperId": "2510.22022",
   "paperSource": "arxiv",
-  "themeArea": "BCI・ニューラルインターフェース",
+  "themeArea": "計算論的神経科学",
   "jpKeywords": [
-    "EEG",
-    "ブレイン・コンピュータ・インターフェース(BCI)"
+    "計算論的神経科学",
+    "神経ダイナミクス"
   ],
-  "abstractExcerpt": "Electroencephalography (EEG) is the dominant non-invasive modality for brain-computer interfaces (BCIs), yet reliable decoding of motor imagery is hampered by inter- and intra-individual variability. A recurring claim is that one decoding…",
+  "abstractExcerpt": "Wilson-Cowan and Amari-type models capture nonlinear neural population dynamics, providing a fundamental framework for modeling how sensory and other exogenous inputs shape activity in neural tissue. We study the controllability properties…",
   "figureUrls": [
-    "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure1.png",
-    "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure2.png",
-    "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure3.png"
+    "https://arxiv.org/html/2510.22022/2510.22022v2/figs/tunnel-fovea.png",
+    "https://arxiv.org/html/2510.22022/2510.22022v2/figs/tunnel-fovea-stimulus.png",
+    "https://arxiv.org/html/2510.22022/2510.22022v2/figs/diff_final-target_states.png"
   ]
 }

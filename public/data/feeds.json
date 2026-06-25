@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T23:46:11.271Z",
+  "generatedAt": "2026-06-25T23:55:48.862Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Identifying structural design principles shaping the computational abilities of recurrent neural networks",
-          "url": "https://arxiv.org/abs/2606.23874",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+          "title": "Topology-Dependent Emergence of Polychronous Neuronal Groups: A Recurrence-Plot Characterization",
+          "url": "https://arxiv.org/abs/2606.25874",
+          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Understanding how the architecture of neural networks shapes the computations they carry is a central challenge in neuroscience and machine learning. While specific circuit architectures have been linked to particular network computations…",
-          "authors": "Tom Talpir, Elad Schneidman"
+          "summary": "Polychronous Neuronal Groups (PNGs) reproducible, time-locked spatiotemporal firing cascades stabilised by Spike-Timing-Dependent Plasticity (STDP) and heterogeneous axonal delays provide a combinatorially rich substrate for neural…",
+          "authors": "Lucas A. T. X. Carneiro, Armand D. Jiofack, Fernando F. Ferreira"
         },
         {
-          "title": "The Morality Game: An online multiplayer platform to standardize, expedite, and expand research on cooperation",
-          "url": "https://arxiv.org/abs/2606.24037",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+          "title": "Weight geometry governs functional memory in complex systems",
+          "url": "https://arxiv.org/abs/2606.25826",
+          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper presents the Morality Game, a platform designed to standardize and accelerate research on cooperation and morality through game theory-based experiments. The Morality Game functions as a video game for science, a hub for…",
-          "authors": "Gregory N. Stanley, Alan Yang, Liam Tsimhoni, Roujia Wang, Ekdatha Arramreddy, Rohan Desai, Shulin Pan, Michael Ahn, Vijairam G. Moorthy, William Mathias, Mai Xu, James Kessler, Yahan Xing, Yang Li, Duoming Bian"
+          "summary": "Complex systems, from gene regulatory networks to neural circuits and transportation infrastructures, exhibit rich functional behaviour that topology alone does not capture. Here we show that functional memory exhibits a universal…",
+          "authors": "Elkaïoum M. Moutuou, Habib Benali"
         },
         {
-          "title": "Graph-based analysis of inflammatory profiles in New Onset Refractory Status Epilepticus (NORSE)",
-          "url": "https://arxiv.org/abs/2606.24351",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+          "title": "Collective dynamics in spiking neural networks: A systematic review",
+          "url": "https://arxiv.org/abs/2410.23876",
+          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Background and Objectives: Cryptogenic new-onset refractory status epilepticus (cNORSE) represents one of the most severe forms of status epilepticus, occurring in patients without prior neurological disease, and remaining of unknown…",
-          "authors": "Linon Denis, Martin Guillemaud, Vincent Navarro, Aurélie Hanin, Mario Chavez"
+          "summary": "This study aims to identify typical collective phenomena that emerge in excitatory and inhibitory (E-I) spiking neural networks as reported in recent computational studies. The research methodology used is Preferred Reporting Items for…",
+          "authors": "Afifurrahman, Mohd Hafiz Mohd"
         },
         {
-          "title": "EEG Interpretation Across Chant Listening: A Single-Subject Pilot Investigation Using Spectral and Functional Connectivity Analysis",
-          "url": "https://arxiv.org/abs/2606.24406",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+          "title": "The illusory simplicity of the feedforward pass: evidence for the dynamical nature of stimulus encoding along the primate ventral stream",
+          "url": "https://arxiv.org/abs/2604.12825",
+          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This technical report presents an EEG-based investigation of neural activity across five auditory conditions: Resting State (RS), Shiv Tandav Stotra (STS), Mahasudarshan Mantra (MM), Aum Chant, and Tanpura Listening. EEG recordings…",
-          "authors": "Prerna Singh, Aishwarya Ghosh, Neelam Sinha, Deepti Navaratna"
+          "summary": "In studying primate vision, a large body of work focuses on the first feedforward sweep. During this initial time window, information is thought to pass through ventral stream regions in a stage-like fashion in an effort to extract…",
+          "authors": "Daniel Anthes, Sushrut Thorat, Anna Mitola, Paolo Papale, Peter König, Tim C Kietzmann"
         },
         {
-          "title": "A pilot study examining transcranial photobiomodulation therapy intervention in college students with insomnia",
-          "url": "https://arxiv.org/abs/2606.24668",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+          "title": "SC-TauPath: A Structural Connectivity Attribution Framework for Mapping Tau Propagation Pathways in Alzheimer's Disease",
+          "url": "https://arxiv.org/abs/2606.04066",
+          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "College students commonly report insufficient sleep and poor sleep quality, with ~30% meeting insomnia criteria, posing significant threats to their physical growth, cognitive development, and overall well-being, as well as imposing a…",
-          "authors": "Jiangshan He, Lianghua Zhang, Dan Liang, Xiaoyu Wang, Tianyi Luo, Haoda Wang, Ziqi Ren, Mingzhe Jiang, Lei Zheng, Qiyuan Cheng, Hui Xie, Xueli Chen"
+          "summary": "Understanding how structural connections are associated with tau propagation in Alzheimer's disease (AD) remains a central open question, yet existing computational models either rely heavily on biophysical assumptions or lack…",
+          "authors": "Jing Zhang, Norman Scheel, Minheng Chen, Tong Chen, Yanjun Lyu, David C. Zhu, Rong Zhang, Dajiang Zhu"
         },
         {
-          "title": "Average Rankings Mask Per-Subject Optimality: A Friedman-Nemenyi Benchmark of EEG Motor-Imagery BCI Decoders",
-          "url": "https://arxiv.org/abs/2606.24394",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+          "title": "Prospective Coding and Path Integration Emerge as Equilibrium Solutions of Self-Organizing Neural Networks with Firing-Rate Adaptation",
+          "url": "https://arxiv.org/abs/2606.14649",
+          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Electroencephalography (EEG) is the dominant non-invasive modality for brain-computer interfaces (BCIs), yet reliable decoding of motor imagery is hampered by inter- and intra-individual variability. A recurring claim is that one decoding…",
-          "authors": "Xavier Vasques, Paul Barbaste, Olivier Oullier"
+          "summary": "Continuous Attractor Neural Networks (CANNs) traditionally rely on pre-wired recurrent connectivity to model spatial representations, path integration, and anticipatory dynamics. However, the biological mechanisms through which this…",
+          "authors": "Facundo Emina, Emilio Kropff"
         }
       ]
     },
@@ -63,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: U.S. health spending rose sharply in 2025, thanks to GLP-1 use and more care",
-          "url": "https://www.statnews.com/2026/06/24/health-care-spending-up-7-point-3-percent-6-trillion-dollars-2026/?utm_campaign=rss",
-          "publishedDate": "Wed, 24 Jun 2026 20:00:00 +0000",
+          "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
+          "url": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss",
+          "publishedDate": "Thu, 25 Jun 2026 20:15:40 +0000",
           "source": "statnews.com",
-          "summary": "People are getting more care and using lots of GLP-1 drugs, fueling a sharp increase in health care spending.",
-          "authors": "Bob Herman"
+          "summary": "A new charter for the panel that advises the CDC on vaccine use substantially refocuses the responsibilities of the committee, downplaying its role in recommending the use of new vaccines.",
+          "authors": "Helen Branswell and Anil Oza"
         },
         {
-          "title": "Judge temporarily blocks subpoenas in criminal probe of transgender care at New York hospitals",
-          "url": "https://www.statnews.com/2026/06/24/judge-blocks-subpoena-probe-transgender-care-new-york-hospitals/?utm_campaign=rss",
-          "publishedDate": "Wed, 24 Jun 2026 17:34:35 +0000",
+          "title": "Supreme Court ruling blocks thousands of lawsuits against maker of Roundup weedkiller",
+          "url": "https://www.statnews.com/2026/06/25/supreme-court-blocks-thousands-lawsuits-roundup-weedkiller-cancer/?utm_campaign=rss",
+          "publishedDate": "Thu, 25 Jun 2026 17:15:58 +0000",
           "source": "statnews.com",
-          "summary": "A judge temporarily blocked federal prosecutors in Texas from getting access to the medical records of transgender patients treated at New York hospitals on Wednesday.",
+          "summary": "The Supreme Court sided with the maker of Roundup weedkiller in a ruling expected to block thousands of lawsuits alleging it failed to warn people the product could cause cancer.",
           "authors": "Associated Press"
         },
         {
-          "title": "Clinical trial set to test two drugs for fast-growing Ebola outbreak",
-          "url": "https://www.statnews.com/2026/06/24/ebola-treatment-trials-gilead-remdesivir-mappbio-mbp-134/?utm_campaign=rss",
-          "publishedDate": "Wed, 24 Jun 2026 16:32:20 +0000",
+          "title": "STAT+: Proposed CDC science office could tighten political control at agency",
+          "url": "https://www.statnews.com/2026/06/25/cdc-new-science-office-tighter-political-control/?utm_campaign=rss",
+          "publishedDate": "Thu, 25 Jun 2026 16:10:32 +0000",
           "source": "statnews.com",
-          "summary": "A clinical trial testing two drugs against the Bundibugyo ebolavirus, which is driving a fast-moving outbreak in Central Africa, is set to begin next week, WHO officials said.",
-          "authors": "Helen Branswell"
+          "summary": "Under President Trump, political leaders are exerting more control across federal health agencies.",
+          "authors": "Chelsea Cirruzzo"
         },
         {
-          "title": "FDA finally analyzed its own youth tobacco data",
-          "url": "https://www.statnews.com/2026/06/24/health-news-fda-finally-analyzed-its-own-youth-tobacco-data/?utm_campaign=rss",
-          "publishedDate": "Wed, 24 Jun 2026 11:53:25 +0000",
+          "title": "Another roadblock for DOJ campaign against trans health",
+          "url": "https://www.statnews.com/2026/06/25/health-news-another-roadblock-for-doj-campaign-against-trans-health/?utm_campaign=rss",
+          "publishedDate": "Thu, 25 Jun 2026 11:48:40 +0000",
           "source": "statnews.com",
-          "summary": "Government can't restrict SNAP dollars on candy, diminishing returns for IVF add-ons, and other health news",
+          "summary": "New bill proposes expanding methadone access, $5.7 trillion on U.S. health care, and more health news from Morning Rounds",
           "authors": "Theresa Gaffney"
         },
         {
-          "title": "Judge rules government can&#8217;t stop SNAP dollars from buying candy and sugary drinks",
-          "url": "https://www.statnews.com/2026/06/23/snap-dollars-buying-candy-sugary-drinks-judge-ruling/?utm_campaign=rss",
-          "publishedDate": "Tue, 23 Jun 2026 17:50:09 +0000",
+          "title": "Bipartisan bill seeks to allow direct prescribing of methadone for opioid addiction",
+          "url": "https://www.statnews.com/2026/06/25/bipartisan-bill-methadone-prescription-pharmacy-pickup/?utm_campaign=rss",
+          "publishedDate": "Thu, 25 Jun 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "The federal government can't block benefits from the nation's largest food aid program from being used to buy candy, soda, and other sugary drinks, a judge ruled.",
-          "authors": "Associated Press"
+          "summary": "Methadone for opioid addiction has been available only at specialty clinics. A bipartisan bill would greatly expand access.",
+          "authors": "Lev Facher"
         },
         {
-          "title": "HHS has sent drug for Ebola clinical trial",
-          "url": "https://www.statnews.com/2026/06/23/health-news-hhs-sent-drug-for-ebola-clinical-trial/?utm_campaign=rss",
-          "publishedDate": "Tue, 23 Jun 2026 12:45:45 +0000",
+          "title": "STAT+: Facing a brutal run, battered vaccine makers still see cause for hope",
+          "url": "https://www.statnews.com/2026/06/25/vaccine-industry-dark-period-causes-for-hope/?utm_campaign=rss",
+          "publishedDate": "Thu, 25 Jun 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "FDA's early-stage clinical trial program, a mysterious single patient gets retatrutide access, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney and Helen Branswell"
+          "summary": "It's an unusual time to be in the vaccine business. But in the view of those gathered at the BIO conference this week, it’s not altogether a bleak one.",
+          "authors": "Daniel Payne"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: U.S. health spending rose sharply in 2025, thanks to GLP-1 use and more care",
-          "url": "https://www.statnews.com/2026/06/24/health-care-spending-up-7-point-3-percent-6-trillion-dollars-2026/?utm_campaign=rss",
-          "publishedDate": "Wed, 24 Jun 2026 20:00:00 +0000",
+          "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
+          "url": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss",
+          "publishedDate": "Thu, 25 Jun 2026 20:15:40 +0000",
           "source": "statnews.com",
-          "summary": "People are getting more care and using lots of GLP-1 drugs, fueling a sharp increase in health care spending.",
-          "authors": "Bob Herman"
+          "summary": "A new charter for the panel that advises the CDC on vaccine use substantially refocuses the responsibilities of the committee, downplaying its role in recommending the use of new vaccines.",
+          "authors": "Helen Branswell and Anil Oza"
         },
         {
-          "title": "Scientists discover ancient brain cells that help block distractions",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
-          "publishedDate": "Wed, 24 Jun 2026 09:30:09 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When researchers temporarily switched off these…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover hidden “footprints of death” that may help viruses spread",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623014028.htm",
-          "publishedDate": "Wed, 24 Jun 2026 09:01:58 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a surprising new twist in what happens when cells die. As dying cells break apart, they leave behind tiny “footprints of death” packed with newly discovered particles that help guide the immune system to clean up…",
-          "authors": ""
-        },
-        {
-          "title": "Study challenges a common belief about vitamin D and sunlight",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623083104.htm",
-          "publishedDate": "Wed, 24 Jun 2026 00:45:50 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A study of nearly 300 people across northern Britain found that vitamin D levels often stay low all year in groups most at risk. Surprisingly, summer sunshine did not significantly boost vitamin D levels among older adults or people from…",
-          "authors": ""
-        },
-        {
-          "title": "One tiny mutation may explain how bat viruses become human threats",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260622091434.htm",
-          "publishedDate": "Tue, 23 Jun 2026 21:21:16 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists found that one tiny genetic change can completely alter how a coronavirus behaves in different species. Comparing SARS-CoV-2 with a closely related bat-only virus, they showed that a single amino-acid difference affects whether…",
-          "authors": ""
-        },
-        {
-          "title": "Justice Department announces hundreds of charges in multibillion-dollar health care fraud crackdown",
-          "url": "https://www.statnews.com/2026/06/23/texas-doctor-charged-fraud-case-cms-health-care-crackdown/?utm_campaign=rss",
-          "publishedDate": "Tue, 23 Jun 2026 15:28:31 +0000",
+          "title": "STAT+: At BIO 2026, industry wrestled with Washington politics, and making AI work better",
+          "url": "https://www.statnews.com/2026/06/25/bio-2026-biotech-conference-san-diego-key-takeaways/?utm_campaign=rss",
+          "publishedDate": "Thu, 25 Jun 2026 19:19:26 +0000",
           "source": "statnews.com",
-          "summary": "The Justice Department has charged a Texas doctor in an $89 million health care fraud scheme, accusing him of billing insurers for medically unnecessary cardiovascular screening tests.",
-          "authors": "Associated Press"
+          "summary": "Biotech executives reveal concerns over Chinese biotech, the profitability of AI, and the durability of Trump's drug price moves.",
+          "authors": "Brittany Trang and Daniel Payne"
+        },
+        {
+          "title": "STAT+: Cassidy proposes bill to rein in 340B drug discount program",
+          "url": "https://www.statnews.com/2026/06/25/cassidy-bill-rein-in-340b-drug-discount-program/?utm_campaign=rss",
+          "publishedDate": "Thu, 25 Jun 2026 17:32:39 +0000",
+          "source": "statnews.com",
+          "summary": "Placing new limits on the 340B drug discount program would be a fresh challenge for hospitals as they confront funding cuts.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "STAT+: Proposed CDC science office could tighten political control at agency",
+          "url": "https://www.statnews.com/2026/06/25/cdc-new-science-office-tighter-political-control/?utm_campaign=rss",
+          "publishedDate": "Thu, 25 Jun 2026 16:10:32 +0000",
+          "source": "statnews.com",
+          "summary": "Under President Trump, political leaders are exerting more control across federal health agencies.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "STAT+: Democrats press White House on who got special access to Eli Lilly’s new obesity drug",
+          "url": "https://www.statnews.com/2026/06/25/senate-hassan-questions-rfk-jr-eli-lilly-retatrutide-trial-trump/?utm_campaign=rss",
+          "publishedDate": "Thu, 25 Jun 2026 15:03:57 +0000",
+          "source": "statnews.com",
+          "summary": "The unusual access to an experimental drug has captured the attention of the American public as well.",
+          "authors": "Lizzy Lawrence"
+        },
+        {
+          "title": "This common vitamin deficiency can mimic normal aging",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
+          "publishedDate": "Thu, 25 Jun 2026 10:57:39 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are…",
+          "authors": ""
         }
       ]
     },
@@ -173,91 +173,67 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Distributed Quality-Diversity Search for Toxicity in Large Language Models",
-          "url": "https://arxiv.org/abs/2606.24166",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+          "title": "EvoFlock: evolved inverse design of multi-agent motion",
+          "url": "https://arxiv.org/abs/2606.25280",
+          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Large Language Models remain vulnerable to adversarial prompts that elicit harmful responses, and scaling red-teaming to cover a broad range of failure modes is constrained by the cost of text generation and evaluation. We present…",
-          "authors": "Onkar Shelar, Travis Desell"
+          "summary": "This paper describes an automatic method for adjusting or tuning models of multi-agent motion. Simulating the motion of bird flocks, human crowds, vehicle traffic, and other multi-agent systems is a widely used technique. These simulations…",
+          "authors": "Craig Reynolds"
         },
         {
-          "title": "Spatial Partial Functionalization of Neural Networks based on Noise Fields",
-          "url": "https://arxiv.org/abs/2606.24588",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+          "title": "Recursive QLSTM with Dynamic Variational Quantum Circuit Adaptation",
+          "url": "https://arxiv.org/abs/2606.24932",
+          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Noise in neural computation is typically regarded as a disturbance, but its spatial distribution may also actively regulate which parts of a network participate in computation. This paper investigates the spatial partial functionalization…",
-          "authors": "Shuhei Ikemoto, Fabio DallaLibera"
+          "summary": "Recent advances in quantum computing and machine learning have motivated the development of quantum models for sequential data processing. In this paper, we propose a Recursive Quantum Long Short-Term Memory model, or Recursive QLSTM,…",
+          "authors": "Samuel Yen-Chi Chen, Yifeng Peng, Jiun-Cheng Jiang, Chun-Hua Lin, Kuo-Chung Peng, Junghoon Justin Park, Huan-Hsin Tseng, Hsin-Yi Lin, Kuan-Cheng Chen, Chen-Yu Liu, Shinjae Yoo"
         },
         {
-          "title": "I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks",
-          "url": "https://arxiv.org/abs/2511.08065",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+          "title": "Self-Modulating Quantum Fast-Weight Programmers for Efficient Adaptive Sequential Learning",
+          "url": "https://arxiv.org/abs/2606.24933",
+          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking neural networks (SNNs) promise highly energy-efficient computing, but their adoption is hindered by a critical scarcity of event-stream data. This work introduces I2E, an algorithmic framework that resolves this bottleneck by…",
-          "authors": "Ruichen Ma, Liwei Meng, Guanchao Qiao, Ning Ning, Yang Liu, Shaogang Hu"
+          "summary": "Recent advances in quantum machine learning have motivated efficient models for sequential data processing. In this paper, we propose Self-Modulating Quantum Fast Weight Programmers, or Self-Modulating QFWP, which extends Quantum Fast…",
+          "authors": "Samuel Yen-Chi Chen, Yifeng Peng, Kuo-Chung Peng, Jiun-Cheng Jiang, Chun-Hua Lin, Junghoon Justin Park, Huan-Hsin Tseng, Hsin-Yi Lin, Kuan-Cheng Chen, Chen-Yu Liu, Shinjae Yoo"
         },
         {
-          "title": "Identifying structural design principles shaping the computational abilities of recurrent neural networks",
-          "url": "https://arxiv.org/abs/2606.23874",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+          "title": "What Does a Pathological Speech Assessment Model Know about Acoustic Features? A Case Study on Oral and Oropharyngeal Cancer Patients",
+          "url": "https://arxiv.org/abs/2606.24949",
+          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Understanding how the architecture of neural networks shapes the computations they carry is a central challenge in neuroscience and machine learning. While specific circuit architectures have been linked to particular network computations…",
-          "authors": "Tom Talpir, Elad Schneidman"
+          "summary": "This work investigates the interpretability of a Wav2Vec 2.0based speech intelligibility assessment model for oral and oropharyngeal cancer patients through canonical correlation analysis. By measuring the correlation between the model…",
+          "authors": "Tuan Nguyen (LIA, AU), Corinne Fredouille (AU, LIA), Alain Ghio (LPL), Muriel Lalain (LPL), Virginie Woisard (UT2J, UT3, LNPL)"
         },
         {
           "title": "Neural Particle Automata: Learning Self-Organizing Particle Dynamics",
           "url": "https://arxiv.org/abs/2601.16096",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
           "summary": "We introduce Neural Particle Automata (NPA), a Lagrangian generalization of Neural Cellular Automata (NCA) from static lattices to dynamic particle systems. Unlike classical Eulerian NCA where cells are pinned to pixels or voxels, NPA…",
           "authors": "Hyunsoo Kim, Ehsan Pajouheshgar, Sabine Süsstrunk, Wenzel Jakob, Jinah Park"
         },
         {
-          "title": "Point-Voxel Absorbing Graph Representation Learning for Event Stream based Recognition",
-          "url": "https://arxiv.org/abs/2306.05239",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+          "title": "Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency",
+          "url": "https://arxiv.org/abs/2604.07904",
+          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Sampled point and voxel methods are usually employed to downsample the dense events into sparse ones. After that, one popular way is to leverage a graph model which treats the sparse points/voxels as nodes and adopts graph neural networks…",
-          "authors": "Yuxiang Zhang, Chengguo Yuan, Xiao Wang, Bo Jiang, Jin Tang"
+          "summary": "Spatiotemporal neural dynamics and oscillatory synchronization are widely implicated in biological information processing and have been hypothesized to support flexible coordination such as feature binding. By contrast, most deep learning…",
+          "authors": "Mingqing Xiao, Yansen Wang, Dongqi Han, Caihua Shan, Dongsheng Li"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 4,
+      "itemCount": 1,
       "items": [
         {
-          "title": "Zero-Shot Neural Priors for Generalizable Cross-Subject and Cross-Task EEG Decoding",
-          "url": "https://arxiv.org/abs/2606.23706",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
+          "title": "One Terahertz Full-Field Digital Back-Propagation over 3000 km",
+          "url": "https://arxiv.org/abs/2606.25571",
+          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The development of generalizable electroencephalography (EEG) decoding models is essential for robust brain-computer interfaces (BCI) and objective neural biomarkers in mental health. Conventional approaches have been hindered by poor…",
-          "authors": "Baimam Boukar Jean Jacques, Brandone Fonya, Nchofon Tagha Ghogomu, Pauline Nyaboe, Kipngeno Koech"
-        },
-        {
-          "title": "Coordinate-Queryable Neural Field Reconstruction for EEG Spatial Super-Resolution with Unseen-Electrode Generation",
-          "url": "https://arxiv.org/abs/2606.23707",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "EEG spatial super-resolution (EEGSR) in real deployments is challenged by random channel missingness, unstable electrode quality, and changing visible-channel patterns caused by bad contacts or device variability. Most existing EEGSR…",
-          "authors": "Hongjun Liu, Leyu Zhou, Zijianghao Yang, Chao Yao"
-        },
-        {
-          "title": "Unifying Adaptive Fourier and Möbius-Based Models for Efficient and Interpretable Biomedical Signal Decomposition",
-          "url": "https://arxiv.org/abs/2606.23713",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Oscillatory biomedical signals such as electrocardiograms (ECG) and electroencephalograms (EEG) call for decompositions that are both computationally efficient and interpretable. This paper establishes a formal connection between two…",
-          "authors": "Christian Canedo, Rocío Carratalá-Sáez, Cristina Rueda"
-        },
-        {
-          "title": "EEG Interpretation Across Chant Listening: A Single-Subject Pilot Investigation Using Spectral and Functional Connectivity Analysis",
-          "url": "https://arxiv.org/abs/2606.24406",
-          "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This technical report presents an EEG-based investigation of neural activity across five auditory conditions: Resting State (RS), Shiv Tandav Stotra (STS), Mahasudarshan Mantra (MM), Aum Chant, and Tanpura Listening. EEG recordings…",
-          "authors": "Prerna Singh, Aishwarya Ghosh, Neelam Sinha, Deepti Navaratna"
+          "summary": "We implement full-field digital back-propagation with a 1-THz receiver using 20 synchronous frequency-adjacent coherent receivers with digital stitching and a frequency-comb local oscillator. Relative to electronic dispersion compensation,…",
+          "authors": "Eric Sillekens, Ruben S. Luis, Giammarco Di Sciullo, Robert Emmerich, Carlo Centofanti, Daniele Orsuti, Robson A. Colares, Mindaugas Jarmolovi\\vcius, Ronit Sohanpal, Darli A. A. Melo, Luca Palmieri, Colja Schubert, Ronald Freund, Cristian Antonelli, Robert I. Killey, Polina Bayvel, Hideaki Furukawa"
         }
       ]
     }
