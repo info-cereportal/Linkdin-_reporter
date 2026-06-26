@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T23:55:48.862Z",
+  "generatedAt": "2026-06-26T23:45:26.165Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Topology-Dependent Emergence of Polychronous Neuronal Groups: A Recurrence-Plot Characterization",
-          "url": "https://arxiv.org/abs/2606.25874",
-          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
+          "title": "Closing the Loop to Discover Psychological Theories with an Automated Cognitive Scientist",
+          "url": "https://arxiv.org/abs/2606.26448",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Polychronous Neuronal Groups (PNGs) reproducible, time-locked spatiotemporal firing cascades stabilised by Spike-Timing-Dependent Plasticity (STDP) and heterogeneous axonal delays provide a combinatorially rich substrate for neural…",
-          "authors": "Lucas A. T. X. Carneiro, Armand D. Jiofack, Fernando F. Ferreira"
+          "summary": "Across the sciences, autonomous systems are increasingly being used in closed-loop discovery, proposing new theories and designing and running experiments to test them. This approach is yet to be applied in the field of cognitive science,…",
+          "authors": "Akshay K. Jagadish, Younes Strittmatter, Nori Jacoby, George Kachergis, Eric Schulz, Nathaniel Daw, Suyog H. Chandramouli, Thomas L. Griffiths"
         },
         {
-          "title": "Weight geometry governs functional memory in complex systems",
-          "url": "https://arxiv.org/abs/2606.25826",
-          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
+          "title": "Surviving by Serving: Functional Relevance Drives Self-Organization in Complex Adaptive Systems",
+          "url": "https://arxiv.org/abs/2606.26733",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Complex systems, from gene regulatory networks to neural circuits and transportation infrastructures, exhibit rich functional behaviour that topology alone does not capture. Here we show that functional memory exhibits a universal…",
-          "authors": "Elkaïoum M. Moutuou, Habib Benali"
+          "summary": "Complex adaptive systems often develop organized structures without centralized control. Yet the local mechanisms by which functional organization emerges and persists remain incompletely understood. Here we propose Surviving by Serving…",
+          "authors": "Claus Metzner, Ali Ghebleh, Achim Schilling, Andreas Maier, Thomas Kinfe, Patrick Krauss"
         },
         {
-          "title": "Collective dynamics in spiking neural networks: A systematic review",
-          "url": "https://arxiv.org/abs/2410.23876",
-          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
+          "title": "Beyond Single-Source Cognitive Taskonomy:Multi-Source Task Relations through fMRI Transfer Learning",
+          "url": "https://arxiv.org/abs/2606.26279",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This study aims to identify typical collective phenomena that emerge in excitatory and inhibitory (E-I) spiking neural networks as reported in recent computational studies. The research methodology used is Preferred Reporting Items for…",
-          "authors": "Afifurrahman, Mohd Hafiz Mohd"
+          "summary": "Cognitive tasks are organized by shared and specialized neural processes. Masked fMRI reconstruction provides a common self-supervised objective for quantifying transfer relations among task states, but existing reconstruction-based…",
+          "authors": "Junfeng Xia, Wendu Li, Mengjiao Zhang, Jie Guo"
         },
         {
-          "title": "The illusory simplicity of the feedforward pass: evidence for the dynamical nature of stimulus encoding along the primate ventral stream",
-          "url": "https://arxiv.org/abs/2604.12825",
-          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
+          "title": "Power-Law Scaling in the Classification Performance of Small-Scale Spiking Neural Networks",
+          "url": "https://arxiv.org/abs/2601.14961",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In studying primate vision, a large body of work focuses on the first feedforward sweep. During this initial time window, information is thought to pass through ventral stream regions in a stage-like fashion in an effort to extract…",
-          "authors": "Daniel Anthes, Sushrut Thorat, Anna Mitola, Paolo Papale, Peter König, Tim C Kietzmann"
+          "summary": "This paper investigates the classification capability of small-scale spiking neural networks based on the Leaky Integrate-and-Fire (LIF) neuron model. We analyze the relationship between classification accuracy and three factors: the…",
+          "authors": "Zhengdi Zhang, Cong Han, Wenjun Xia"
         },
         {
-          "title": "SC-TauPath: A Structural Connectivity Attribution Framework for Mapping Tau Propagation Pathways in Alzheimer's Disease",
-          "url": "https://arxiv.org/abs/2606.04066",
-          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
+          "title": "The Where and How of Touch: A Review of Tactile Localization Research",
+          "url": "https://arxiv.org/abs/2601.23023",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Understanding how structural connections are associated with tau propagation in Alzheimer's disease (AD) remains a central open question, yet existing computational models either rely heavily on biophysical assumptions or lack…",
-          "authors": "Jing Zhang, Norman Scheel, Minheng Chen, Tong Chen, Yanjun Lyu, David C. Zhu, Rong Zhang, Dajiang Zhu"
+          "summary": "Tactile localization is the seemingly simple ability to 'tell' where a touch has occurred. However, how this ability is assessed, and what conclusions are drawn from experiments, depends on the theoretical ideas that inspire the research.…",
+          "authors": "Xaver Fuchs, Jason A. M. Khoury, Sergiu Tcaci Popescu, Tobias Heed, Matej Hoffmann"
         },
         {
-          "title": "Prospective Coding and Path Integration Emerge as Equilibrium Solutions of Self-Organizing Neural Networks with Firing-Rate Adaptation",
-          "url": "https://arxiv.org/abs/2606.14649",
-          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
+          "title": "Linguistics and Human Brain: A Perspective of Computational Neuroscience",
+          "url": "https://arxiv.org/abs/2602.08275",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Continuous Attractor Neural Networks (CANNs) traditionally rely on pre-wired recurrent connectivity to model spatial representations, path integration, and anticipatory dynamics. However, the biological mechanisms through which this…",
-          "authors": "Facundo Emina, Emilio Kropff"
+          "summary": "Elucidating the language-brain relationship requires bridging the methodological gap between the abstract theoretical frameworks of linguistics and the empirical neural data of neuroscience. Serving as an interdisciplinary cornerstone,…",
+          "authors": "Fudong Zhang, Bo Chai, Yujie Wu, Wai Ting Siok, Nizhuan Wang"
         }
       ]
     },
@@ -62,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "988&#8217;s LGBTQ+ hotline to relaunch this year. But the group that helped start it might be excluded",
+          "url": "https://www.statnews.com/2026/06/26/988-lgbtq-hotline-relaunch-trevor-project/?utm_campaign=rss",
+          "publishedDate": "Fri, 26 Jun 2026 13:55:27 +0000",
+          "source": "statnews.com",
+          "summary": "The Trump administration is moving to restart the specialized LGBTQ+ option for youth who contact the 988 crisis line, but the group that helped pioneer the idea is being shut&#8230;",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "Supreme Court rules in weedkiller cancer case",
+          "url": "https://www.statnews.com/2026/06/26/health-news-supreme-court-rules-in-weedkiller-roundup-cancer-case/?utm_campaign=rss",
+          "publishedDate": "Fri, 26 Jun 2026 11:41:10 +0000",
+          "source": "statnews.com",
+          "summary": "Dems want to unmask Eli Lilly's obesity drug user, a new genome-editing tool raises ethics questions, and more health news",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "What is pulmonary hypertension and why would a new GLP-1 help?",
+          "url": "https://www.statnews.com/2026/06/26/what-is-pulmonary-hypertension-and-would-glp-1-help/?utm_campaign=rss",
+          "publishedDate": "Fri, 26 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A report about unusual access to an experimental obesity drug has raised interest in the condition pulmonary hypertension.",
+          "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "Jails are the frontline in fielding dangerous new type of drug withdrawal",
+          "url": "https://www.statnews.com/2026/06/26/medetomidine-opioid-withdrawal-crisis-jails/?utm_campaign=rss",
+          "publishedDate": "Fri, 26 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Medetomidine-laced opioids cause severe, life-threatening withdrawal in jails. Here's why many facilities remain ill-equipped to treat a growing crisis.",
+          "authors": "Hannah Harris Green"
+        },
         {
           "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
           "url": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss",
@@ -77,38 +109,6 @@
           "source": "statnews.com",
           "summary": "The Supreme Court sided with the maker of Roundup weedkiller in a ruling expected to block thousands of lawsuits alleging it failed to warn people the product could cause cancer.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "STAT+: Proposed CDC science office could tighten political control at agency",
-          "url": "https://www.statnews.com/2026/06/25/cdc-new-science-office-tighter-political-control/?utm_campaign=rss",
-          "publishedDate": "Thu, 25 Jun 2026 16:10:32 +0000",
-          "source": "statnews.com",
-          "summary": "Under President Trump, political leaders are exerting more control across federal health agencies.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Another roadblock for DOJ campaign against trans health",
-          "url": "https://www.statnews.com/2026/06/25/health-news-another-roadblock-for-doj-campaign-against-trans-health/?utm_campaign=rss",
-          "publishedDate": "Thu, 25 Jun 2026 11:48:40 +0000",
-          "source": "statnews.com",
-          "summary": "New bill proposes expanding methadone access, $5.7 trillion on U.S. health care, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "Bipartisan bill seeks to allow direct prescribing of methadone for opioid addiction",
-          "url": "https://www.statnews.com/2026/06/25/bipartisan-bill-methadone-prescription-pharmacy-pickup/?utm_campaign=rss",
-          "publishedDate": "Thu, 25 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Methadone for opioid addiction has been available only at specialty clinics. A bipartisan bill would greatly expand access.",
-          "authors": "Lev Facher"
-        },
-        {
-          "title": "STAT+: Facing a brutal run, battered vaccine makers still see cause for hope",
-          "url": "https://www.statnews.com/2026/06/25/vaccine-industry-dark-period-causes-for-hope/?utm_campaign=rss",
-          "publishedDate": "Thu, 25 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "It's an unusual time to be in the vaccine business. But in the view of those gathered at the BIO conference this week, it’s not altogether a bleak one.",
-          "authors": "Daniel Payne"
         }
       ]
     },
@@ -117,6 +117,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Butter and margarine look similar but their chemistry changes everything",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260618041504.htm",
+          "publishedDate": "Fri, 26 Jun 2026 14:43:10 EDT",
+          "source": "sciencedaily.com",
+          "summary": "The battle between butter and margarine comes down to chemistry. Butter’s naturally occurring fats create rich flavors, golden browning, and flaky baked goods, while margarine’s modified plant oils offer consistency and a longer shelf…",
+          "authors": ""
+        },
+        {
+          "title": "Researchers discover why fructose doesn&#039;t satisfy hunger like glucose",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623083106.htm",
+          "publishedDate": "Fri, 26 Jun 2026 10:28:07 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new study found that fructose and glucose may look the same on a nutrition label, but the brain treats them very differently. In mice, glucose strongly reduced activity in hunger-promoting brain cells, while fructose had a much weaker…",
+          "authors": ""
+        },
+        {
+          "title": "What is pulmonary hypertension and why would a new GLP-1 help?",
+          "url": "https://www.statnews.com/2026/06/26/what-is-pulmonary-hypertension-and-would-glp-1-help/?utm_campaign=rss",
+          "publishedDate": "Fri, 26 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A report about unusual access to an experimental obesity drug has raised interest in the condition pulmonary hypertension.",
+          "authors": "Elizabeth Cooney"
+        },
         {
           "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
           "url": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss",
@@ -140,30 +164,6 @@
           "source": "statnews.com",
           "summary": "Placing new limits on the 340B drug discount program would be a fresh challenge for hospitals as they confront funding cuts.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "STAT+: Proposed CDC science office could tighten political control at agency",
-          "url": "https://www.statnews.com/2026/06/25/cdc-new-science-office-tighter-political-control/?utm_campaign=rss",
-          "publishedDate": "Thu, 25 Jun 2026 16:10:32 +0000",
-          "source": "statnews.com",
-          "summary": "Under President Trump, political leaders are exerting more control across federal health agencies.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: Democrats press White House on who got special access to Eli Lilly’s new obesity drug",
-          "url": "https://www.statnews.com/2026/06/25/senate-hassan-questions-rfk-jr-eli-lilly-retatrutide-trial-trump/?utm_campaign=rss",
-          "publishedDate": "Thu, 25 Jun 2026 15:03:57 +0000",
-          "source": "statnews.com",
-          "summary": "The unusual access to an experimental drug has captured the attention of the American public as well.",
-          "authors": "Lizzy Lawrence"
-        },
-        {
-          "title": "This common vitamin deficiency can mimic normal aging",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
-          "publishedDate": "Thu, 25 Jun 2026 10:57:39 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are…",
-          "authors": ""
         }
       ]
     },
@@ -173,67 +173,83 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "EvoFlock: evolved inverse design of multi-agent motion",
-          "url": "https://arxiv.org/abs/2606.25280",
-          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
+          "title": "Random Walk on Bézier Curves for Global Optimization",
+          "url": "https://arxiv.org/abs/2606.26714",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper describes an automatic method for adjusting or tuning models of multi-agent motion. Simulating the motion of bird flocks, human crowds, vehicle traffic, and other multi-agent systems is a widely used technique. These simulations…",
-          "authors": "Craig Reynolds"
+          "summary": "Balancing exploration and exploitation remains a central challenge in metaheuristic optimization. To address this issue, this paper proposes Bézier Walk Evolution (BWE), a geometry-driven optimization framework that reformulates…",
+          "authors": "Jinpeng Wang, Xingguo Xu, Yujing Sun, Jiguang Yu, Kaichen Ouyang, Yuansheng Gao"
         },
         {
-          "title": "Recursive QLSTM with Dynamic Variational Quantum Circuit Adaptation",
-          "url": "https://arxiv.org/abs/2606.24932",
-          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
+          "title": "The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators",
+          "url": "https://arxiv.org/abs/2606.26294",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent advances in quantum computing and machine learning have motivated the development of quantum models for sequential data processing. In this paper, we propose a Recursive Quantum Long Short-Term Memory model, or Recursive QLSTM,…",
-          "authors": "Samuel Yen-Chi Chen, Yifeng Peng, Jiun-Cheng Jiang, Chun-Hua Lin, Kuo-Chung Peng, Junghoon Justin Park, Huan-Hsin Tseng, Hsin-Yi Lin, Kuan-Cheng Chen, Chen-Yu Liu, Shinjae Yoo"
+          "summary": "Self-improving agents are state-of-the-art (SOTA) on agentic coding benchmarks and have recently been extended to general domains. However, their search methods generally assume a stationary evaluation criterion: a fixed verifier,…",
+          "authors": "Alex Iacob, Andrej Jovanović, William F. Shen, Daniel Burkhardt, Meghdad Kurmanji, Nurbek Tastan, Lorenzo Sani, Niccolò Alberto Elia Venanzi, Ambroise Odonnat, Zeyu Cao, Bill Marino, Xinchi Qiu, Nicholas D. Lane"
         },
         {
-          "title": "Self-Modulating Quantum Fast-Weight Programmers for Efficient Adaptive Sequential Learning",
-          "url": "https://arxiv.org/abs/2606.24933",
-          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
+          "title": "Three-Objective Integral R2 Subset Selection: NP-Hardness and Submodular Approximation",
+          "url": "https://arxiv.org/abs/2606.26591",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent advances in quantum machine learning have motivated efficient models for sequential data processing. In this paper, we propose Self-Modulating Quantum Fast Weight Programmers, or Self-Modulating QFWP, which extends Quantum Fast…",
-          "authors": "Samuel Yen-Chi Chen, Yifeng Peng, Kuo-Chung Peng, Jiun-Cheng Jiang, Chun-Hua Lin, Junghoon Justin Park, Huan-Hsin Tseng, Hsin-Yi Lin, Kuan-Cheng Chen, Chen-Yu Liu, Shinjae Yoo"
+          "summary": "Selecting a fixed number of representative points from a finite Pareto-front approximation is a fundamental post-processing task in multiobjective optimization. This paper studies this problem for the integral R2 indicator in three…",
+          "authors": "Michael T. M. Emmerich"
         },
         {
-          "title": "What Does a Pathological Speech Assessment Model Know about Acoustic Features? A Case Study on Oral and Oropharyngeal Cancer Patients",
-          "url": "https://arxiv.org/abs/2606.24949",
-          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
+          "title": "Surviving by Serving: Functional Relevance Drives Self-Organization in Complex Adaptive Systems",
+          "url": "https://arxiv.org/abs/2606.26733",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This work investigates the interpretability of a Wav2Vec 2.0based speech intelligibility assessment model for oral and oropharyngeal cancer patients through canonical correlation analysis. By measuring the correlation between the model…",
-          "authors": "Tuan Nguyen (LIA, AU), Corinne Fredouille (AU, LIA), Alain Ghio (LPL), Muriel Lalain (LPL), Virginie Woisard (UT2J, UT3, LNPL)"
+          "summary": "Complex adaptive systems often develop organized structures without centralized control. Yet the local mechanisms by which functional organization emerges and persists remain incompletely understood. Here we propose Surviving by Serving…",
+          "authors": "Claus Metzner, Ali Ghebleh, Achim Schilling, Andreas Maier, Thomas Kinfe, Patrick Krauss"
         },
         {
-          "title": "Neural Particle Automata: Learning Self-Organizing Particle Dynamics",
-          "url": "https://arxiv.org/abs/2601.16096",
-          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
+          "title": "CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention",
+          "url": "https://arxiv.org/abs/2606.27229",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We introduce Neural Particle Automata (NPA), a Lagrangian generalization of Neural Cellular Automata (NCA) from static lattices to dynamic particle systems. Unlike classical Eulerian NCA where cells are pinned to pixels or voxels, NPA…",
-          "authors": "Hyunsoo Kim, Ehsan Pajouheshgar, Sabine Süsstrunk, Wenzel Jakob, Jinah Park"
+          "summary": "Recurrent models must forget in order to remember, yet the state of the art decides what to erase without consulting what is stored -- the gate sees only the arriving token, not the memory it is about to modify. This memory-blind gating is…",
+          "authors": "Sayak Dutta"
         },
         {
-          "title": "Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency",
-          "url": "https://arxiv.org/abs/2604.07904",
-          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
+          "title": "NervePool: A Simplicial Pooling Layer",
+          "url": "https://arxiv.org/abs/2305.06315",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spatiotemporal neural dynamics and oscillatory synchronization are widely implicated in biological information processing and have been hypothesized to support flexible coordination such as feature binding. By contrast, most deep learning…",
-          "authors": "Mingqing Xiao, Yansen Wang, Dongqi Han, Caihua Shan, Dongsheng Li"
+          "summary": "For deep learning problems on graph-structured data, pooling layers are important for down sampling, reducing computational cost, and to minimize overfitting. We define a pooling layer, nervePool, for data structured as simplicial…",
+          "authors": "Sarah McGuire Scullen, Ernst Röell, Elizabeth Munch, Bastian Rieck, Matthew Hirn"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 1,
+      "itemCount": 3,
       "items": [
         {
-          "title": "One Terahertz Full-Field Digital Back-Propagation over 3000 km",
-          "url": "https://arxiv.org/abs/2606.25571",
-          "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
+          "title": "A Low-PAPR, Synchronization-Robust Non-Coherent Grassmannian Modulation for Optical Communications",
+          "url": "https://arxiv.org/abs/2606.26464",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We implement full-field digital back-propagation with a 1-THz receiver using 20 synchronous frequency-adjacent coherent receivers with digital stitching and a frequency-comb local oscillator. Relative to electronic dispersion compensation,…",
-          "authors": "Eric Sillekens, Ruben S. Luis, Giammarco Di Sciullo, Robert Emmerich, Carlo Centofanti, Daniele Orsuti, Robson A. Colares, Mindaugas Jarmolovi\\vcius, Ronit Sohanpal, Darli A. A. Melo, Luca Palmieri, Colja Schubert, Ronald Freund, Cristian Antonelli, Robert I. Killey, Polina Bayvel, Hideaki Furukawa"
+          "summary": "Non-coherent Grassmannian (unitary space-time) signaling detects on the received subspace, which is invariant to a branch-side (polarization or mode-coupling) rotation and to a phase that is constant over the coherence block. It therefore…",
+          "authors": "Eylon E. Krause"
+        },
+        {
+          "title": "Optimal Calibration of the Endpoint-corrected Hilbert Transform",
+          "url": "https://arxiv.org/abs/2601.13962",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Accurate, low-latency estimates of the instantaneous phase of oscillations are essential for closed-loop sensing and actuation, including (but not limited to) phase-locked neurostimulation and other real-time applications. The…",
+          "authors": "Eike Osmers, Dorothea Kolossa"
+        },
+        {
+          "title": "State-Specific Respiratory Signatures for Affective and Stress Recognition: Interpretable Respiratory Markers, Autocorrelation Lags, and Compact CNN Models",
+          "url": "https://arxiv.org/abs/2606.26723",
+          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Respiratory activity is a direct and interpretable physiological channel for wearable stress and affective-state recognition, yet many studies emphasize classification accuracy without identifying which respiratory properties separate…",
+          "authors": "Andrei Velichko, Mehmet Tahir Huyut"
         }
       ]
     }
