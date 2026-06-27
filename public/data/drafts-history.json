@@ -1,5 +1,28 @@
 [
   {
+    "generatedAt": "2026-06-27T23:38:07.141Z",
+    "date": "2026-06-27",
+    "topic": "深層学習と学習",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Deep learning classification of significant prostate cancer on MRI: a systematic review and meta-analysis.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42364040/",
+    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n脳科学とAI——その境界線が消えつつある。\n\n深層学習と学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 深層学習 × 学習 × 意思決定\n\n📊 注目すべきデータ：\n→ In this paper, we systematically review the current literature on DL classification of clinically significant prostate cancer detected on magnetic resonance imaging and perform a...\n→ A literature search was performed on PubMed, Embase, and ClinicalTrials.gov to identify studies describing end-to-end DL classification models that distinguish clinically...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Deep learning classification of significant prostate cancer on MRI: a systematic review and meta-analysis.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42364040/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #NeuralDecoding",
+    "summaryJP": "深層学習と学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+    "paperAuthors": "Christopher Chung, Julia Michalak, Yossef Rubinov, Kara Watts, Devaraju Kanmaniraja, Andrewe Baca",
+    "publishedDate": "2026-06-27",
+    "paperId": "42364040",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "深層学習",
+      "学習",
+      "意思決定"
+    ],
+    "abstractExcerpt": "Deep learning (DL) image analysis of prostate MRI can be integrated into the prostate cancer diagnostic pathway to improve biopsy decision making, reduce radiologist interpretation time, and decrease inter-reader variability. In this…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-06-26T23:45:25.673Z",
     "date": "2026-06-26",
     "topic": "意思決定とクローズドループ制御",
@@ -1260,32 +1283,6 @@
       "https://arxiv.org/html/2605.26998/2605.26998v1/x1.png",
       "https://arxiv.org/html/2605.26998/2605.26998v1/x2.png",
       "https://arxiv.org/html/2605.26998/2605.26998v1/x5.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-27T19:58:56.861Z",
-    "date": "2026-05-27",
-    "topic": "ニューラルマニフォールド",
-    "templateName": "future-vision",
-    "riskScore": 0,
-    "paperTitle": "Random neural networks match observed dimensionality of neural population recordings and motivate stronger experimental tests",
-    "paperLink": "https://arxiv.org/abs/2605.26551",
-    "figureUrl": "https://arxiv.org/html/2605.26551/2605.26551v1/x1.png",
-    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nニューラルマニフォールドの最新研究です。\n\n🔬 ニューラルマニフォールド\n\n> Randomly connected neural networks have long served as a theoretical tool for studying collective dynamics in neural populations, yet quantitative comparisons to experiments remain limited. Recent technological advances have made it possible to resolve population-wide...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Random neural networks match observed dimensionality of neural population recordings and motivate stronger experimental tests\n🔗 https://arxiv.org/abs/2605.26551\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #脳情報",
-    "summaryJP": "ニューラルマニフォールド — 次世代へ続く布石（コネクトミクス・回路解析）",
-    "paperAuthors": "Zehui Zhao, Michael J Pasek, Ilya M Nemenman",
-    "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
-    "paperId": "2605.26551",
-    "paperSource": "arxiv",
-    "themeArea": "コネクトミクス・回路解析",
-    "jpKeywords": [
-      "ニューラルマニフォールド"
-    ],
-    "abstractExcerpt": "Randomly connected neural networks have long served as a theoretical tool for studying collective dynamics in neural populations, yet quantitative comparisons to experiments remain limited. Recent technological advances have made it…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.26551/2605.26551v1/x1.png",
-      "https://arxiv.org/html/2605.26551/2605.26551v1/x2.png",
-      "https://arxiv.org/html/2605.26551/2605.26551v1/x3.png"
     ]
   }
 ]

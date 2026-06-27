@@ -1,61 +1,12 @@
 {
-  "generatedAt": "2026-06-26T23:45:26.165Z",
+  "generatedAt": "2026-06-27T23:38:08.052Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Closing the Loop to Discover Psychological Theories with an Automated Cognitive Scientist",
-          "url": "https://arxiv.org/abs/2606.26448",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Across the sciences, autonomous systems are increasingly being used in closed-loop discovery, proposing new theories and designing and running experiments to test them. This approach is yet to be applied in the field of cognitive science,…",
-          "authors": "Akshay K. Jagadish, Younes Strittmatter, Nori Jacoby, George Kachergis, Eric Schulz, Nathaniel Daw, Suyog H. Chandramouli, Thomas L. Griffiths"
-        },
-        {
-          "title": "Surviving by Serving: Functional Relevance Drives Self-Organization in Complex Adaptive Systems",
-          "url": "https://arxiv.org/abs/2606.26733",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Complex adaptive systems often develop organized structures without centralized control. Yet the local mechanisms by which functional organization emerges and persists remain incompletely understood. Here we propose Surviving by Serving…",
-          "authors": "Claus Metzner, Ali Ghebleh, Achim Schilling, Andreas Maier, Thomas Kinfe, Patrick Krauss"
-        },
-        {
-          "title": "Beyond Single-Source Cognitive Taskonomy:Multi-Source Task Relations through fMRI Transfer Learning",
-          "url": "https://arxiv.org/abs/2606.26279",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Cognitive tasks are organized by shared and specialized neural processes. Masked fMRI reconstruction provides a common self-supervised objective for quantifying transfer relations among task states, but existing reconstruction-based…",
-          "authors": "Junfeng Xia, Wendu Li, Mengjiao Zhang, Jie Guo"
-        },
-        {
-          "title": "Power-Law Scaling in the Classification Performance of Small-Scale Spiking Neural Networks",
-          "url": "https://arxiv.org/abs/2601.14961",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This paper investigates the classification capability of small-scale spiking neural networks based on the Leaky Integrate-and-Fire (LIF) neuron model. We analyze the relationship between classification accuracy and three factors: the…",
-          "authors": "Zhengdi Zhang, Cong Han, Wenjun Xia"
-        },
-        {
-          "title": "The Where and How of Touch: A Review of Tactile Localization Research",
-          "url": "https://arxiv.org/abs/2601.23023",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Tactile localization is the seemingly simple ability to 'tell' where a touch has occurred. However, how this ability is assessed, and what conclusions are drawn from experiments, depends on the theoretical ideas that inspire the research.…",
-          "authors": "Xaver Fuchs, Jason A. M. Khoury, Sergiu Tcaci Popescu, Tobias Heed, Matej Hoffmann"
-        },
-        {
-          "title": "Linguistics and Human Brain: A Perspective of Computational Neuroscience",
-          "url": "https://arxiv.org/abs/2602.08275",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Elucidating the language-brain relationship requires bridging the methodological gap between the abstract theoretical frameworks of linguistics and the empirical neural data of neuroscience. Serving as an interdisciplinary cornerstone,…",
-          "authors": "Fudong Zhang, Bo Chai, Yujie Wu, Wai Ting Siok, Nizhuan Wang"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -79,20 +30,20 @@
           "authors": "O. Rose Broderick"
         },
         {
-          "title": "What is pulmonary hypertension and why would a new GLP-1 help?",
-          "url": "https://www.statnews.com/2026/06/26/what-is-pulmonary-hypertension-and-would-glp-1-help/?utm_campaign=rss",
-          "publishedDate": "Fri, 26 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "A report about unusual access to an experimental obesity drug has raised interest in the condition pulmonary hypertension.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
           "title": "Jails are the frontline in fielding dangerous new type of drug withdrawal",
           "url": "https://www.statnews.com/2026/06/26/medetomidine-opioid-withdrawal-crisis-jails/?utm_campaign=rss",
           "publishedDate": "Fri, 26 Jun 2026 08:30:00 +0000",
           "source": "statnews.com",
           "summary": "Medetomidine-laced opioids cause severe, life-threatening withdrawal in jails. Here's why many facilities remain ill-equipped to treat a growing crisis.",
           "authors": "Hannah Harris Green"
+        },
+        {
+          "title": "What is pulmonary hypertension and why would a new GLP-1 help?",
+          "url": "https://www.statnews.com/2026/06/26/what-is-pulmonary-hypertension-and-would-glp-1-help/?utm_campaign=rss",
+          "publishedDate": "Fri, 26 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A report about unusual access to an experimental obesity drug has raised interest in the condition pulmonary hypertension.",
+          "authors": "Elizabeth Cooney"
         },
         {
           "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
@@ -117,6 +68,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Scientists discover what triggers belly fat as we age",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260624115133.htm",
+          "publishedDate": "Sat, 27 Jun 2026 14:54:36 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Aging may trigger the appearance of specialized stem cells that supercharge the body&#039;s ability to create new belly fat. The discovery reveals a potential biological driver of middle-age weight gain and a promising target for future…",
+          "authors": ""
+        },
         {
           "title": "Butter and margarine look similar but their chemistry changes everything",
           "url": "https://www.sciencedaily.com/releases/2026/06/260618041504.htm",
@@ -156,100 +115,67 @@
           "source": "statnews.com",
           "summary": "Biotech executives reveal concerns over Chinese biotech, the profitability of AI, and the durability of Trump's drug price moves.",
           "authors": "Brittany Trang and Daniel Payne"
-        },
-        {
-          "title": "STAT+: Cassidy proposes bill to rein in 340B drug discount program",
-          "url": "https://www.statnews.com/2026/06/25/cassidy-bill-rein-in-340b-drug-discount-program/?utm_campaign=rss",
-          "publishedDate": "Thu, 25 Jun 2026 17:32:39 +0000",
-          "source": "statnews.com",
-          "summary": "Placing new limits on the 340B drug discount program would be a fresh challenge for hospitals as they confront funding cuts.",
-          "authors": "John Wilkerson"
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Random Walk on Bézier Curves for Global Optimization",
-          "url": "https://arxiv.org/abs/2606.26714",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Balancing exploration and exploitation remains a central challenge in metaheuristic optimization. To address this issue, this paper proposes Bézier Walk Evolution (BWE), a geometry-driven optimization framework that reformulates…",
-          "authors": "Jinpeng Wang, Xingguo Xu, Yujing Sun, Jiguang Yu, Kaichen Ouyang, Yuansheng Gao"
-        },
-        {
-          "title": "The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators",
-          "url": "https://arxiv.org/abs/2606.26294",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Self-improving agents are state-of-the-art (SOTA) on agentic coding benchmarks and have recently been extended to general domains. However, their search methods generally assume a stationary evaluation criterion: a fixed verifier,…",
-          "authors": "Alex Iacob, Andrej Jovanović, William F. Shen, Daniel Burkhardt, Meghdad Kurmanji, Nurbek Tastan, Lorenzo Sani, Niccolò Alberto Elia Venanzi, Ambroise Odonnat, Zeyu Cao, Bill Marino, Xinchi Qiu, Nicholas D. Lane"
-        },
-        {
-          "title": "Three-Objective Integral R2 Subset Selection: NP-Hardness and Submodular Approximation",
-          "url": "https://arxiv.org/abs/2606.26591",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Selecting a fixed number of representative points from a finite Pareto-front approximation is a fundamental post-processing task in multiobjective optimization. This paper studies this problem for the integral R2 indicator in three…",
-          "authors": "Michael T. M. Emmerich"
-        },
-        {
-          "title": "Surviving by Serving: Functional Relevance Drives Self-Organization in Complex Adaptive Systems",
-          "url": "https://arxiv.org/abs/2606.26733",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Complex adaptive systems often develop organized structures without centralized control. Yet the local mechanisms by which functional organization emerges and persists remain incompletely understood. Here we propose Surviving by Serving…",
-          "authors": "Claus Metzner, Ali Ghebleh, Achim Schilling, Andreas Maier, Thomas Kinfe, Patrick Krauss"
-        },
-        {
-          "title": "CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention",
-          "url": "https://arxiv.org/abs/2606.27229",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Recurrent models must forget in order to remember, yet the state of the art decides what to erase without consulting what is stored -- the gate sees only the arriving token, not the memory it is about to modify. This memory-blind gating is…",
-          "authors": "Sayak Dutta"
-        },
-        {
-          "title": "NervePool: A Simplicial Pooling Layer",
-          "url": "https://arxiv.org/abs/2305.06315",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "For deep learning problems on graph-structured data, pooling layers are important for down sampling, reducing computational cost, and to minimize overfitting. We define a pooling layer, nervePool, for data structured as simplicial…",
-          "authors": "Sarah McGuire Scullen, Ernst Röell, Elizabeth Munch, Bastian Rieck, Matthew Hirn"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 3,
+      "itemCount": 6,
       "items": [
         {
-          "title": "A Low-PAPR, Synchronization-Robust Non-Coherent Grassmannian Modulation for Optical Communications",
-          "url": "https://arxiv.org/abs/2606.26464",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Non-coherent Grassmannian (unitary space-time) signaling detects on the received subspace, which is invariant to a branch-side (polarization or mode-coupling) rotation and to a phase that is constant over the coherence block. It therefore…",
-          "authors": "Eylon E. Krause"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
         },
         {
-          "title": "Optimal Calibration of the Endpoint-corrected Hilbert Transform",
-          "url": "https://arxiv.org/abs/2601.13962",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Accurate, low-latency estimates of the instantaneous phase of oscillations are essential for closed-loop sensing and actuation, including (but not limited to) phase-locked neurostimulation and other real-time applications. The…",
-          "authors": "Eike Osmers, Dorothea Kolossa"
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
         },
         {
-          "title": "State-Specific Respiratory Signatures for Affective and Stress Recognition: Interpretable Respiratory Markers, Autocorrelation Lags, and Compact CNN Models",
-          "url": "https://arxiv.org/abs/2606.26723",
-          "publishedDate": "Fri, 26 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Respiratory activity is a direct and interpretable physiological channel for wearable stress and affective-state recognition, yet many studies emphasize classification accuracy without identifying which respiratory properties separate…",
-          "authors": "Andrei Velichko, Mehmet Tahir Huyut"
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }
