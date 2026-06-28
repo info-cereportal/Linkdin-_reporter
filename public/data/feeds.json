@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T23:38:08.052Z",
+  "generatedAt": "2026-06-28T23:43:27.533Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -30,20 +30,20 @@
           "authors": "O. Rose Broderick"
         },
         {
-          "title": "Jails are the frontline in fielding dangerous new type of drug withdrawal",
-          "url": "https://www.statnews.com/2026/06/26/medetomidine-opioid-withdrawal-crisis-jails/?utm_campaign=rss",
-          "publishedDate": "Fri, 26 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Medetomidine-laced opioids cause severe, life-threatening withdrawal in jails. Here's why many facilities remain ill-equipped to treat a growing crisis.",
-          "authors": "Hannah Harris Green"
-        },
-        {
           "title": "What is pulmonary hypertension and why would a new GLP-1 help?",
           "url": "https://www.statnews.com/2026/06/26/what-is-pulmonary-hypertension-and-would-glp-1-help/?utm_campaign=rss",
           "publishedDate": "Fri, 26 Jun 2026 08:30:00 +0000",
           "source": "statnews.com",
           "summary": "A report about unusual access to an experimental obesity drug has raised interest in the condition pulmonary hypertension.",
           "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "Jails are the frontline in fielding dangerous new type of drug withdrawal",
+          "url": "https://www.statnews.com/2026/06/26/medetomidine-opioid-withdrawal-crisis-jails/?utm_campaign=rss",
+          "publishedDate": "Fri, 26 Jun 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Medetomidine-laced opioids cause severe, life-threatening withdrawal in jails. Here's why many facilities remain ill-equipped to treat a growing crisis.",
+          "authors": "Hannah Harris Green"
         },
         {
           "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
@@ -69,6 +69,38 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Only one workout helped older adults lose fat without losing muscle",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622014305.htm",
+          "publishedDate": "Sun, 28 Jun 2026 14:35:07 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A six-month study of more than 120 adults in their 70s found that high-intensity interval training (HIIT) may offer a key advantage over other forms of exercise: it helped reduce body fat while preserving valuable muscle mass. While…",
+          "authors": ""
+        },
+        {
+          "title": "Common pesticide linked to more than double the risk of Parkinson’s disease",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260621111113.htm",
+          "publishedDate": "Sun, 28 Jun 2026 13:35:47 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists at UCLA have linked long-term exposure to the pesticide chlorpyrifos with a sharply increased risk of Parkinson’s disease. People exposed to the chemical near their homes were more than twice as likely to develop the condition.…",
+          "authors": ""
+        },
+        {
+          "title": "Massive study links teen marijuana use to double the risk of serious mental illness",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622091515.htm",
+          "publishedDate": "Sat, 27 Jun 2026 23:54:50 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Teens who use cannabis may face a substantially greater risk of developing serious mental health conditions, including psychotic and bipolar disorders, according to a study of more than 463,000 adolescents. Researchers found cannabis use…",
+          "authors": ""
+        },
+        {
+          "title": "New vitamin B12 therapy shows promise against deadly brain cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622091518.htm",
+          "publishedDate": "Sat, 27 Jun 2026 18:38:01 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers have identified a vitamin B12–based compound that can cross the blood-brain barrier and home in on glioblastoma tumors. In animal studies, the compound accumulated preferentially in tumor tissue and delivered sustained nitric…",
+          "authors": ""
+        },
+        {
           "title": "Scientists discover what triggers belly fat as we age",
           "url": "https://www.sciencedaily.com/releases/2026/06/260624115133.htm",
           "publishedDate": "Sat, 27 Jun 2026 14:54:36 EDT",
@@ -83,38 +115,6 @@
           "source": "sciencedaily.com",
           "summary": "The battle between butter and margarine comes down to chemistry. Butter’s naturally occurring fats create rich flavors, golden browning, and flaky baked goods, while margarine’s modified plant oils offer consistency and a longer shelf…",
           "authors": ""
-        },
-        {
-          "title": "Researchers discover why fructose doesn&#039;t satisfy hunger like glucose",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623083106.htm",
-          "publishedDate": "Fri, 26 Jun 2026 10:28:07 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new study found that fructose and glucose may look the same on a nutrition label, but the brain treats them very differently. In mice, glucose strongly reduced activity in hunger-promoting brain cells, while fructose had a much weaker…",
-          "authors": ""
-        },
-        {
-          "title": "What is pulmonary hypertension and why would a new GLP-1 help?",
-          "url": "https://www.statnews.com/2026/06/26/what-is-pulmonary-hypertension-and-would-glp-1-help/?utm_campaign=rss",
-          "publishedDate": "Fri, 26 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "A report about unusual access to an experimental obesity drug has raised interest in the condition pulmonary hypertension.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
-          "url": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss",
-          "publishedDate": "Thu, 25 Jun 2026 20:15:40 +0000",
-          "source": "statnews.com",
-          "summary": "A new charter for the panel that advises the CDC on vaccine use substantially refocuses the responsibilities of the committee, downplaying its role in recommending the use of new vaccines.",
-          "authors": "Helen Branswell and Anil Oza"
-        },
-        {
-          "title": "STAT+: At BIO 2026, industry wrestled with Washington politics, and making AI work better",
-          "url": "https://www.statnews.com/2026/06/25/bio-2026-biotech-conference-san-diego-key-takeaways/?utm_campaign=rss",
-          "publishedDate": "Thu, 25 Jun 2026 19:19:26 +0000",
-          "source": "statnews.com",
-          "summary": "Biotech executives reveal concerns over Chinese biotech, the profitability of AI, and the durability of Trump's drug price moves.",
-          "authors": "Brittany Trang and Daniel Payne"
         }
       ]
     },
