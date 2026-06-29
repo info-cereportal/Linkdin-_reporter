@@ -1,18 +1,75 @@
 {
-  "generatedAt": "2026-06-28T23:43:27.533Z",
+  "generatedAt": "2026-06-29T23:38:44.967Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 5,
+      "items": [
+        {
+          "title": "Modelling chronic stress as an excitatory-inhibitory perturbation in recurrent working-memory networks",
+          "url": "https://arxiv.org/abs/2606.27529",
+          "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Stress is an adaptive response coordinated by neural and physiological systems. While acute stress can enhance survival, chronic stress drives structural brain changes, cognitive dysfunction, and increased psychiatric risk. At the cellular…",
+          "authors": "Mauricio A Diaz, Manuela A. Beyer, Janina Hesse"
+        },
+        {
+          "title": "CANNs: A Toolkit for Research on Continuous Attractor Neural Networks",
+          "url": "https://arxiv.org/abs/2606.27783",
+          "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Continuous attractor neural networks (CANNs) are the canonical computational framework for how the brain encodes continuous variables such as spatial position, head direction, and movement direction, and explain the activity of hippocampal…",
+          "authors": "Sichao He, Aiersi Tuerhong, Shangjun She, Tianhao Chu, Yuling Wu, Junfeng Zuo, Si Wu"
+        },
+        {
+          "title": "Heterogeneous synaptic motifs bridge microscale structure and macroscale nonlinear dynamics",
+          "url": "https://arxiv.org/abs/2606.27946",
+          "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Recent breakthroughs in synaptic-resolution network connectomics have revealed that brain circuits feature fine-scale structural connectivity, such as pairs of correlated synaptic couplings known as second-order motifs. Large-scale…",
+          "authors": "Meiyi Zhang (Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China), Jinjian Yu (School of Physics, Peking University, China), Louis Tao (Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China, School of Life Sciences, Peking University, China), Yuxiu Shao (Laboratoire Jean Alexandre Dieudonne, Universite Cote dAzur, France, Neuromod Institute, Universite Cote dAzur, France)"
+        },
+        {
+          "title": "More than a feeling: Expressive style influences cortical speech tracking in subjective cognitive decline",
+          "url": "https://arxiv.org/abs/2509.21277",
+          "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Subjective cognitive decline (SCD) doubles dementia risk. This study investigates how self-perceived cognitive worsening shapes neural dynamics during naturalistic speech perception. EEG was collected from 60 cognitively normal older…",
+          "authors": "Matthew King-Hang Ma, Yun Feng, Cloris Pui-Hang Li, Manson Cheuk-Man Fong"
+        },
+        {
+          "title": "Exploiting network topology in brain-scale simulations of spiking neural networks",
+          "url": "https://arxiv.org/abs/2602.23274",
+          "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Simulation code for conventional supercomputers serves as a reference for neuromorphic computing systems. The present bottleneck of distributed large-scale spiking neuronal network simulations is the communication between compute nodes.…",
+          "authors": "Melissa Lober, Markus Diesmann, Susanne Kunkel"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Longevity, wellness physicians named to panel advising FDA on peptides",
+          "url": "https://www.statnews.com/2026/06/29/new-fda-peptide-advisers-compounding-committee-conflicts/?utm_campaign=rss",
+          "publishedDate": "Mon, 29 Jun 2026 16:51:35 +0000",
+          "source": "statnews.com",
+          "summary": "The panel will soon consider whether to relax restrictions on certain peptides.",
+          "authors": "Lizzy Lawrence and Sarah Todd"
+        },
+        {
+          "title": "What’s next for 988 LGBTQ+ services?",
+          "url": "https://www.statnews.com/2026/06/29/health-news-whats-next-for-988-lgbtq-services/?utm_campaign=rss",
+          "publishedDate": "Mon, 29 Jun 2026 12:04:42 +0000",
+          "source": "statnews.com",
+          "summary": "Private ERs, pulmonary hypertension, and other health news from Morning Rounds",
+          "authors": "Theresa Gaffney and Helen Branswell"
+        },
         {
           "title": "988&#8217;s LGBTQ+ hotline to relaunch this year. But the group that helped start it might be excluded",
           "url": "https://www.statnews.com/2026/06/26/988-lgbtq-hotline-relaunch-trevor-project/?utm_campaign=rss",
@@ -44,22 +101,6 @@
           "source": "statnews.com",
           "summary": "Medetomidine-laced opioids cause severe, life-threatening withdrawal in jails. Here's why many facilities remain ill-equipped to treat a growing crisis.",
           "authors": "Hannah Harris Green"
-        },
-        {
-          "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
-          "url": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss",
-          "publishedDate": "Thu, 25 Jun 2026 20:15:40 +0000",
-          "source": "statnews.com",
-          "summary": "A new charter for the panel that advises the CDC on vaccine use substantially refocuses the responsibilities of the committee, downplaying its role in recommending the use of new vaccines.",
-          "authors": "Helen Branswell and Anil Oza"
-        },
-        {
-          "title": "Supreme Court ruling blocks thousands of lawsuits against maker of Roundup weedkiller",
-          "url": "https://www.statnews.com/2026/06/25/supreme-court-blocks-thousands-lawsuits-roundup-weedkiller-cancer/?utm_campaign=rss",
-          "publishedDate": "Thu, 25 Jun 2026 17:15:58 +0000",
-          "source": "statnews.com",
-          "summary": "The Supreme Court sided with the maker of Roundup weedkiller in a ruling expected to block thousands of lawsuits alleging it failed to warn people the product could cause cancer.",
-          "authors": "Associated Press"
         }
       ]
     },
@@ -69,113 +110,130 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Only one workout helped older adults lose fat without losing muscle",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260622014305.htm",
-          "publishedDate": "Sun, 28 Jun 2026 14:35:07 EDT",
+          "title": "STAT+: FDA’s top gene therapy regulator is leaving his role",
+          "url": "https://www.statnews.com/2026/06/29/vijay-kumar-exits-fda-office-of-therapeutic-products/?utm_campaign=rss",
+          "publishedDate": "Mon, 29 Jun 2026 21:46:06 +0000",
+          "source": "statnews.com",
+          "summary": "The departure of Vijay Kumar follows a broader leadership shakeup at the FDA.",
+          "authors": "Lizzy Lawrence"
+        },
+        {
+          "title": "USC scientists just unlocked an endless supply of cancer-fighting immune cells",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260620100317.htm",
+          "publishedDate": "Mon, 29 Jun 2026 16:58:56 EDT",
           "source": "sciencedaily.com",
-          "summary": "A six-month study of more than 120 adults in their 70s found that high-intensity interval training (HIIT) may offer a key advantage over other forms of exercise: it helped reduce body fat while preserving valuable muscle mass. While…",
+          "summary": "A new stem-cell-inspired technique allows scientists to grow vast numbers of immune-cell progenitors that can be engineered to hunt cancer and strengthen immune responses. In animal studies, the cells fought tumors, restored immune…",
           "authors": ""
         },
         {
-          "title": "Common pesticide linked to more than double the risk of Parkinson’s disease",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260621111113.htm",
-          "publishedDate": "Sun, 28 Jun 2026 13:35:47 EDT",
+          "title": "STAT+: 26 states sue to block Medicaid work requirements",
+          "url": "https://www.statnews.com/2026/06/29/state-lawsuit-block-medicaid-work-requirements/?utm_campaign=rss",
+          "publishedDate": "Mon, 29 Jun 2026 20:11:47 +0000",
+          "source": "statnews.com",
+          "summary": "States argue the rules will make it too hard for people to get the Medicaid coverage they're entitled too.",
+          "authors": "Jason Laughlin — Boston Globe"
+        },
+        {
+          "title": "Scientists discover an unexpected way to make pancreatic cancer cells self-destruct",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622091512.htm",
+          "publishedDate": "Mon, 29 Jun 2026 14:08:33 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists at UCLA have linked long-term exposure to the pesticide chlorpyrifos with a sharply increased risk of Parkinson’s disease. People exposed to the chemical near their homes were more than twice as likely to develop the condition.…",
+          "summary": "Researchers tested experimental PCAI compounds against pancreatic cancer cells and found they had powerful anticancer effects. One leading compound blocked more than 90% of cancer cell migration, suggesting it could help prevent the spread…",
           "authors": ""
         },
         {
-          "title": "Massive study links teen marijuana use to double the risk of serious mental illness",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260622091515.htm",
-          "publishedDate": "Sat, 27 Jun 2026 23:54:50 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Teens who use cannabis may face a substantially greater risk of developing serious mental health conditions, including psychotic and bipolar disorders, according to a study of more than 463,000 adolescents. Researchers found cannabis use…",
-          "authors": ""
+          "title": "5 takeaways from STAT’s investigation into micro hospital operator Nutex Health",
+          "url": "https://www.statnews.com/2026/06/29/nutex-health-investigation-takeaways-stat-news-no-surprises-act/?utm_campaign=rss",
+          "publishedDate": "Mon, 29 Jun 2026 17:28:16 +0000",
+          "source": "statnews.com",
+          "summary": "Read the takeaways from STAT's investigation into Nutex, which used the No Surprises Act to fuel a stunning financial turnaround.",
+          "authors": "Tara Bannow"
         },
         {
-          "title": "New vitamin B12 therapy shows promise against deadly brain cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260622091518.htm",
-          "publishedDate": "Sat, 27 Jun 2026 18:38:01 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers have identified a vitamin B12–based compound that can cross the blood-brain barrier and home in on glioblastoma tumors. In animal studies, the compound accumulated preferentially in tumor tissue and delivered sustained nitric…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover what triggers belly fat as we age",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260624115133.htm",
-          "publishedDate": "Sat, 27 Jun 2026 14:54:36 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Aging may trigger the appearance of specialized stem cells that supercharge the body&#039;s ability to create new belly fat. The discovery reveals a potential biological driver of middle-age weight gain and a promising target for future…",
-          "authors": ""
-        },
-        {
-          "title": "Butter and margarine look similar but their chemistry changes everything",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260618041504.htm",
-          "publishedDate": "Fri, 26 Jun 2026 14:43:10 EDT",
-          "source": "sciencedaily.com",
-          "summary": "The battle between butter and margarine comes down to chemistry. Butter’s naturally occurring fats create rich flavors, golden browning, and flaky baked goods, while margarine’s modified plant oils offer consistency and a longer shelf…",
-          "authors": ""
+          "title": "STAT+: Longevity, wellness physicians named to panel advising FDA on peptides",
+          "url": "https://www.statnews.com/2026/06/29/new-fda-peptide-advisers-compounding-committee-conflicts/?utm_campaign=rss",
+          "publishedDate": "Mon, 29 Jun 2026 16:51:35 +0000",
+          "source": "statnews.com",
+          "summary": "The panel will soon consider whether to relax restrictions on certain peptides.",
+          "authors": "Lizzy Lawrence and Sarah Todd"
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Multi-Objective Molecular Generation with Frequency-Controlled Evolutionary Dynamics",
+          "url": "https://arxiv.org/abs/2606.27467",
+          "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Molecule generation methods that leverage generative models have been successfully applied to drug discovery. However, they often require extensive pre-training, suffer statistical biases in the training data, and might suffer from limited…",
+          "authors": "Elia Colleoni, Paolo Guida, Didier Barradas-Bautista, William Lafayette Roberts"
+        },
+        {
+          "title": "DE-2LS: Differential Evolution with Late-Stage local-search for Unconstrained Single-Objective Numerical Optimization",
+          "url": "https://arxiv.org/abs/2606.27762",
+          "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Unconstrained single-objective numerical optimization requires a careful balance among global exploration, late-stage exploitation, and function-evaluation efficiency. This paper presents DE-2LS, a late-stage, local-search-enhanced…",
+          "authors": "Dikshit Chauhan"
+        },
+        {
+          "title": "DE-2LS: Differential Evolution with Lightweight Late Local Search for Constrained Numerical Optimization",
+          "url": "https://arxiv.org/abs/2606.27764",
+          "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Constrained single-objective numerical optimization requires a careful balance among feasibility, objective convergence, and computational efficiency under a fixed function-evaluation budget. This paper proposes DE-2LS, a late-stage,…",
+          "authors": "Dikshit Chauhan, Anupam Trivedi"
+        },
+        {
+          "title": "MMAO: A Metabolic Multi-Agent Optimizer with Endogenous Resource Allocation for Continuous and Discrete Optimization",
+          "url": "https://arxiv.org/abs/2606.28109",
+          "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Traditional meta-heuristics often rely on fixed population sizes, manually chosen search scales, and externally attached parameter-control modules. This paper presents the \\textitMetabolic Multi-Agent Optimizer (MMAO), a cross-domain…",
+          "authors": "Jinliang Xu, Liping Ma"
+        },
+        {
+          "title": "CANNs: A Toolkit for Research on Continuous Attractor Neural Networks",
+          "url": "https://arxiv.org/abs/2606.27783",
+          "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Continuous attractor neural networks (CANNs) are the canonical computational framework for how the brain encodes continuous variables such as spatial position, head direction, and movement direction, and explain the activity of hippocampal…",
+          "authors": "Sichao He, Aiersi Tuerhong, Shangjun She, Tianhao Chu, Yuling Wu, Junfeng Zuo, Si Wu"
+        },
+        {
+          "title": "Co-Optimization of Analog Kolmogorov-Arnold Networks for Low-Power Function Approximation in Flexible Electronics",
+          "url": "https://arxiv.org/abs/2606.27892",
+          "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Wearable devices and Internet of Things (IoT) sensors require on-sensor processing of biosignals and environmental data, including computationally demanding operations such as nonlinear activation functions for neural network inference,…",
+          "authors": "Paula Carolina Lozano Duarte, Georgios Zervakis, Mehdi Tahoori, Sani Nassif"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 2,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
+          "title": "An Enhanced Source-Free Unsupervised Domain Adaptation Framework for Cross-Dataset EEG Emotion Recognition via Predictive Coding and Test-Time Training",
+          "url": "https://arxiv.org/abs/2606.28202",
+          "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "EEG-based emotion recognition is widely used in affective computing but suffers from poor generalization due to domain shifts caused by inter-subject variability, dataset differences, and recording conditions, especially in cross-dataset…",
+          "authors": "Md Niaz Imtiaz, Naimul Khan"
         },
         {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "An Embedded Real-Time License Plate Recognition System for Complex Traffic Scenes",
+          "url": "https://arxiv.org/abs/2606.27772",
+          "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Vehicle license plate recognition is an integral component of intelligent transportation systems. In this work, we present an embedded real-time license plate recognition system customized for developing countries. We address the challenge…",
+          "authors": "Anuki Pasqual, Dulan Lokugeegana, Manimohan Thiriloganathan, Nuthya Rathnayake, Kithsiri Samarasinghe, Udaya S. K. P. Miriya Thanthrige"
         }
       ]
     }

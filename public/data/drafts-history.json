@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-06-29T23:38:44.487Z",
+    "date": "2026-06-29",
+    "topic": "記憶とワーキングメモリ",
+    "templateName": "paradigm-shift",
+    "riskScore": 0,
+    "paperTitle": "Modelling chronic stress as an excitatory-inhibitory perturbation in recurrent working-memory networks",
+    "paperLink": "https://arxiv.org/abs/2606.27529",
+    "figureUrl": "https://arxiv.org/html/2606.27529/2606.27529v1/x4.png",
+    "formatted": "記憶とワーキングメモリに関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 記憶 × ワーキングメモリ\n\n> Stress is an adaptive response coordinated by neural and physiological systems. While acute stress can enhance survival, chronic stress drives structural brain changes, cognitive dysfunction, and increased psychiatric risk.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\n認知・意思決定の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Modelling chronic stress as an excitatory-inhibitory perturbation in recurrent working-memory networks\n🔗 https://arxiv.org/abs/2606.27529\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #BrainComputerInterface",
+    "summaryJP": "記憶とワーキングメモリ — 通説を揺さぶる新たな知見（認知・意思決定）",
+    "paperAuthors": "Mauricio A Diaz, Manuela A. Beyer, Janina Hesse",
+    "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
+    "paperId": "2606.27529",
+    "paperSource": "arxiv",
+    "themeArea": "認知・意思決定",
+    "jpKeywords": [
+      "記憶",
+      "ワーキングメモリ"
+    ],
+    "abstractExcerpt": "Stress is an adaptive response coordinated by neural and physiological systems. While acute stress can enhance survival, chronic stress drives structural brain changes, cognitive dysfunction, and increased psychiatric risk. At the cellular…",
+    "figureUrls": [
+      "https://arxiv.org/html/2606.27529/2606.27529v1/x4.png",
+      "https://arxiv.org/html/2606.27529/2606.27529v1/x5.png",
+      "https://arxiv.org/html/2606.27529/2606.27529v1/x6.png"
+    ]
+  },
+  {
     "generatedAt": "2026-06-28T23:43:26.797Z",
     "date": "2026-06-28",
     "topic": "学習",
@@ -1250,32 +1277,6 @@
       "https://arxiv.org/html/2605.26910/2605.26910v1/x1.png",
       "https://arxiv.org/html/2605.26910/2605.26910v1/x2.png",
       "https://arxiv.org/html/2605.26910/2605.26910v1/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-28T02:01:21.393Z",
-    "date": "2026-05-28",
-    "topic": "学習",
-    "templateName": "neuro-ai-bridge",
-    "riskScore": 0,
-    "paperTitle": "Beyond Binary: Speech Representations Across the Cognitive Score Hierarchy",
-    "paperLink": "https://arxiv.org/abs/2605.27189",
-    "figureUrl": "https://arxiv.org/html/2605.27189/2605.27189v1/x1.png",
-    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習\n\n📊 注目すべきデータ：\n→ Results show that although SSL representations generally outperform hand-crafted features at lower levels, this trend reverses for MCI classification.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Beyond Binary: Speech Representations Across the Cognitive Score Hierarchy\n🔗 https://arxiv.org/abs/2605.27189\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #NeuroAI",
-    "summaryJP": "学習 — 脳科学とAIをつなぐ研究（神経デコーディング）",
-    "paperAuthors": "Serli Kopar, Roshan Prakash Rane, Christian Mychajliw, Lydia Federmann, Gerhard Eschweiler, Daniela Berg, Sam Gijsen, Paula Andrea Perez-Toro, Kerstin Ritter",
-    "publishedDate": "Wed, 27 May 2026 00:00:00 -0400",
-    "paperId": "2605.27189",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "学習"
-    ],
-    "abstractExcerpt": "This study examines the relationship between speech representations and the hierarchical structure of cognitive assessment in mild cognitive impairment. Utilizing 5,754 German neuropsychological assessment recordings, we evaluate six…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.27189/2605.27189v1/x1.png",
-      "https://arxiv.org/html/2605.27189/2605.27189v1/x2.png",
-      "https://arxiv.org/html/2605.27189/2605.27189v1/x3.png"
     ]
   }
 ]
