@@ -1,27 +1,28 @@
 {
-  "generatedAt": "2026-06-29T23:38:44.487Z",
-  "date": "2026-06-29",
-  "topic": "記憶とワーキングメモリ",
-  "templateName": "paradigm-shift",
+  "generatedAt": "2026-06-30T23:47:02.470Z",
+  "date": "2026-06-30",
+  "topic": "情動と記憶",
+  "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "Modelling chronic stress as an excitatory-inhibitory perturbation in recurrent working-memory networks",
-  "paperLink": "https://arxiv.org/abs/2606.27529",
-  "figureUrl": "https://arxiv.org/html/2606.27529/2606.27529v1/x4.png",
-  "formatted": "記憶とワーキングメモリに関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 記憶 × ワーキングメモリ\n\n> Stress is an adaptive response coordinated by neural and physiological systems. While acute stress can enhance survival, chronic stress drives structural brain changes, cognitive dysfunction, and increased psychiatric risk.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\n認知・意思決定の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Modelling chronic stress as an excitatory-inhibitory perturbation in recurrent working-memory networks\n🔗 https://arxiv.org/abs/2606.27529\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #BrainComputerInterface",
-  "summaryJP": "記憶とワーキングメモリ — 通説を揺さぶる新たな知見（認知・意思決定）",
-  "paperAuthors": "Mauricio A Diaz, Manuela A. Beyer, Janina Hesse",
-  "publishedDate": "Mon, 29 Jun 2026 00:00:00 -0400",
-  "paperId": "2606.27529",
+  "paperTitle": "Modelling Emotional Memory in Children with Tensor Networks",
+  "paperLink": "https://arxiv.org/abs/2606.28470",
+  "figureUrl": "https://arxiv.org/html/2606.28470/2606.28470v1/figures/children_temporal_order_stimuli_figure.png",
+  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、情動と記憶の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 情動 × 記憶 × ECoG(皮質脳波)\n\n📊 注目すべきデータ：\n→ Further, the task protocol we introduce presents a novel, real-world tool for exploring emotional temporal memory in children for analysis using classical and quantum-like models...\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Modelling Emotional Memory in Children with Tensor Networks\n🔗 https://arxiv.org/abs/2606.28470\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #NeuroAI",
+  "summaryJP": "情動と記憶 — 数値で示された新事実",
+  "paperAuthors": "Henry Groves, Lucia F. Jackson, Barbara-Anne Robertson, Jonte R. Hance",
+  "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
+  "paperId": "2606.28470",
   "paperSource": "arxiv",
-  "themeArea": "認知・意思決定",
+  "themeArea": "脳情報科学",
   "jpKeywords": [
+    "情動",
     "記憶",
-    "ワーキングメモリ"
+    "ECoG(皮質脳波)"
   ],
-  "abstractExcerpt": "Stress is an adaptive response coordinated by neural and physiological systems. While acute stress can enhance survival, chronic stress drives structural brain changes, cognitive dysfunction, and increased psychiatric risk. At the cellular…",
+  "abstractExcerpt": "We demonstrate how emotional valence influences the order-dependent structure of children's recognition memory: correct recall of a sequence of emotionally-valenced toys depended not just on the valence of a given toy itself, but also on…",
   "figureUrls": [
-    "https://arxiv.org/html/2606.27529/2606.27529v1/x4.png",
-    "https://arxiv.org/html/2606.27529/2606.27529v1/x5.png",
-    "https://arxiv.org/html/2606.27529/2606.27529v1/x6.png"
+    "https://arxiv.org/html/2606.28470/2606.28470v1/figures/children_temporal_order_stimuli_figure.png",
+    "https://arxiv.org/html/2606.28470/2606.28470v1/x1.png",
+    "https://arxiv.org/html/2606.28470/2606.28470v1/x2.png"
   ]
 }

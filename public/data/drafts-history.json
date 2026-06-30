@@ -1,5 +1,33 @@
 [
   {
+    "generatedAt": "2026-06-30T23:47:02.470Z",
+    "date": "2026-06-30",
+    "topic": "情動と記憶",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Modelling Emotional Memory in Children with Tensor Networks",
+    "paperLink": "https://arxiv.org/abs/2606.28470",
+    "figureUrl": "https://arxiv.org/html/2606.28470/2606.28470v1/figures/children_temporal_order_stimuli_figure.png",
+    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、情動と記憶の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 情動 × 記憶 × ECoG(皮質脳波)\n\n📊 注目すべきデータ：\n→ Further, the task protocol we introduce presents a novel, real-world tool for exploring emotional temporal memory in children for analysis using classical and quantum-like models...\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Modelling Emotional Memory in Children with Tensor Networks\n🔗 https://arxiv.org/abs/2606.28470\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #NeuroAI",
+    "summaryJP": "情動と記憶 — 数値で示された新事実",
+    "paperAuthors": "Henry Groves, Lucia F. Jackson, Barbara-Anne Robertson, Jonte R. Hance",
+    "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
+    "paperId": "2606.28470",
+    "paperSource": "arxiv",
+    "themeArea": "脳情報科学",
+    "jpKeywords": [
+      "情動",
+      "記憶",
+      "ECoG(皮質脳波)"
+    ],
+    "abstractExcerpt": "We demonstrate how emotional valence influences the order-dependent structure of children's recognition memory: correct recall of a sequence of emotionally-valenced toys depended not just on the valence of a given toy itself, but also on…",
+    "figureUrls": [
+      "https://arxiv.org/html/2606.28470/2606.28470v1/figures/children_temporal_order_stimuli_figure.png",
+      "https://arxiv.org/html/2606.28470/2606.28470v1/x1.png",
+      "https://arxiv.org/html/2606.28470/2606.28470v1/x2.png"
+    ]
+  },
+  {
     "generatedAt": "2026-06-29T23:38:44.487Z",
     "date": "2026-06-29",
     "topic": "記憶とワーキングメモリ",
@@ -1248,35 +1276,6 @@
       "https://arxiv.org/html/2605.27929/2605.27929v1/x1.png",
       "https://arxiv.org/html/2605.27929/2605.27929v1/x2.png",
       "https://arxiv.org/html/2605.27929/2605.27929v1/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-28T06:42:54.649Z",
-    "date": "2026-05-28",
-    "topic": "意思決定と神経デコーディング",
-    "templateName": "neuro-ai-bridge",
-    "riskScore": 0,
-    "paperTitle": "EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models",
-    "paperLink": "https://arxiv.org/abs/2605.26910",
-    "figureUrl": "https://arxiv.org/html/2605.26910/2605.26910v1/x1.png",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n意思決定と神経デコーディングに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG × 意思決定 × 神経デコーディング × 学習\n\n📊 注目すべきデータ：\n→ We apply EEG-FM-Audit to four state-of-the-art EEG-FMs and five representative supervised models across three public datasets.\n→ Our results reveal that properly tuned supervised baselines can match or outperform advanced FMs, despite requiring significantly fewer parameters.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models\n🔗 https://arxiv.org/abs/2605.26910\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #BCI",
-    "summaryJP": "意思決定と神経デコーディング — 脳科学とAIをつなぐ研究（神経デコーディング）",
-    "paperAuthors": "Xianheng Wang, Yige Yang, Damien Coyle",
-    "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
-    "paperId": "2605.26910",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "EEG",
-      "意思決定",
-      "神経デコーディング",
-      "学習"
-    ],
-    "abstractExcerpt": "Large EEG Foundation Models (FMs) have shown great potential for decoding EEG signals across diverse cognitive tasks. However, existing EEG-FM studies exhibit three critical limitations: opaque supervised baseline tuning, unverified…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.26910/2605.26910v1/x1.png",
-      "https://arxiv.org/html/2605.26910/2605.26910v1/x2.png",
-      "https://arxiv.org/html/2605.26910/2605.26910v1/x3.png"
     ]
   }
 ]
