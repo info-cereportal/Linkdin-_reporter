@@ -1,59 +1,19 @@
 {
-  "generatedAt": "2026-06-30T23:47:03.075Z",
+  "generatedAt": "2026-07-01T23:52:41.419Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
+      "itemCount": 1,
       "items": [
         {
-          "title": "Geometric Stability of Neural Population Codes: Regional Variation, Behavioral Relevance, and Circuit Dependence",
-          "url": "https://arxiv.org/abs/2606.29655",
-          "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
+          "title": "Stationary covariance spectra of discrete-time non-normal random recurrent dynamics",
+          "url": "https://arxiv.org/abs/2606.31944",
+          "publishedDate": "Wed, 01 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Current models of representational reliability in neural populations focus on temporal stability: whether population centroids are preserved across sessions and days. This framing leaves a fundamental question unanswered: how reliably does…",
-          "authors": "Prashant C. Raju"
-        },
-        {
-          "title": "Clear Mind: Meditation and the Brain's Signal-to-Noise Ratio",
-          "url": "https://arxiv.org/abs/2606.29698",
-          "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Meditation is quintessentially associated with a clear mind. This paper proposes that diverse findings in the science of meditation can be mapped onto a single, empirically tractable construct: functional signal-to-noise ratio in the…",
-          "authors": "Ruben Laukkonen"
-        },
-        {
-          "title": "Cohort-amortized personalization: navigating the privacy-utility frontier for virtual brain twins",
-          "url": "https://arxiv.org/abs/2606.30329",
-          "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Personalized generative brain models require individual neuroimaging data that privacy constraints and re-identification risk make difficult to share, while per-subject fitting procedures cost hours of compute -- limiting clinical…",
-          "authors": "Amirhossein Esmaeili, Marmaduke Woodman, Nina Baldy, Abolfazl Ziaeemehr, Julia Makhalova, Huifang Wang, Daniele Marinazzo, Svenja Caspers, Fabrice Bartolomei, Meysam Hashemi, Viktor Jirsa"
-        },
-        {
-          "title": "Mean-field theory of rich oscillatory dynamics in low-rank recurrent networks with activity-dependent adaptation",
-          "url": "https://arxiv.org/abs/2606.30366",
-          "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We develop a dynamical mean-field theory for random recurrent networks with low-rank structure and firing-rate-driven adaptation. When the random connectivity is strong enough to generate chaos, increasing adaptation strength drives the…",
-          "authors": "Bowen W. Zheng, Earl K. Miller, Ila R. Fiete"
-        },
-        {
-          "title": "Meta-learning as a principle for human-like visual representations",
-          "url": "https://arxiv.org/abs/2606.28399",
-          "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The structure of human visual representations underpins our capacity for adaptive behaviour. While pretrained neural networks model human visual representations with unprecedented success, a large discrepancy remains. We propose one…",
-          "authors": "Can Demircan, Marcel Binz, Alireza Modirshanechi, Eric Schulz"
-        },
-        {
-          "title": "Modelling Emotional Memory in Children with Tensor Networks",
-          "url": "https://arxiv.org/abs/2606.28470",
-          "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We demonstrate how emotional valence influences the order-dependent structure of children's recognition memory: correct recall of a sequence of emotionally-valenced toys depended not just on the valence of a given toy itself, but also on…",
-          "authors": "Henry Groves, Lucia F. Jackson, Barbara-Anne Robertson, Jonte R. Hance"
+          "summary": "Principal component analysis is widely used to characterize structure in the dynamics of recurrent neural networks. For stationary noise-driven dynamics, the distribution of variance among the principal components is determined by the…",
+          "authors": "Jacob A. Zavatone-Veth"
         }
       ]
     },
@@ -62,6 +22,30 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Statins and blood pressure drugs changing health risks of obesity, study suggests",
+          "url": "https://www.statnews.com/2026/07/01/lancet-obesity-blood-pressure-cholesterol-study/?utm_campaign=rss",
+          "publishedDate": "Wed, 01 Jul 2026 22:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "New research shows obesity patients over 40 are managing blood pressure and cholesterol as well as healthy-weight peers, but younger adults remain at risk.",
+          "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "FDA says Zyn can market its pouches as safer than cigarettes",
+          "url": "https://www.statnews.com/2026/07/01/health-news-fda-says-zyn-can-market-pouches-as-safer-than-cigarettes/?utm_campaign=rss",
+          "publishedDate": "Wed, 01 Jul 2026 11:50:18 +0000",
+          "source": "statnews.com",
+          "summary": "The influence of the alcohol industry on policy, AI Claude for scientists, and more health news from Morning Rounds",
+          "authors": "Sarah Todd"
+        },
+        {
+          "title": "STAT+: Booze schmooze: The alcohol industry, frazzled by headwinds, wields its power behind the scenes",
+          "url": "https://www.statnews.com/2026/07/01/alcohol-lobby-immense-power-explored-deadliest-drug-part-7/?utm_campaign=rss",
+          "publishedDate": "Wed, 01 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Demand for alcohol is declining. The industry is fighting harder and more creatively than ever against limits — and winning.",
+          "authors": "Isabella Cueto and Lev Facher"
+        },
         {
           "title": "Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region",
           "url": "https://www.statnews.com/2026/06/30/marburg-virus-cases-ugandan-ebola-outbreak-zone/?utm_campaign=rss",
@@ -85,30 +69,6 @@
           "source": "statnews.com",
           "summary": "A STAT investigation has found that the Trump administration has downplayed alcohol’s risks and actively derailed efforts to understand and prevent drinking-related harms.",
           "authors": "Isabella Cueto and Lev Facher"
-        },
-        {
-          "title": "STAT+: Longevity, wellness physicians named to panel advising FDA on peptides",
-          "url": "https://www.statnews.com/2026/06/29/new-fda-peptide-advisers-compounding-committee-conflicts/?utm_campaign=rss",
-          "publishedDate": "Mon, 29 Jun 2026 16:51:35 +0000",
-          "source": "statnews.com",
-          "summary": "The panel will soon consider whether to relax restrictions on certain peptides.",
-          "authors": "Lizzy Lawrence and Sarah Todd"
-        },
-        {
-          "title": "What’s next for 988 LGBTQ+ services?",
-          "url": "https://www.statnews.com/2026/06/29/health-news-whats-next-for-988-lgbtq-services/?utm_campaign=rss",
-          "publishedDate": "Mon, 29 Jun 2026 12:04:42 +0000",
-          "source": "statnews.com",
-          "summary": "Private ERs, pulmonary hypertension, and other health news from Morning Rounds",
-          "authors": "Theresa Gaffney and Helen Branswell"
-        },
-        {
-          "title": "988&#8217;s LGBTQ+ hotline to relaunch this year. But the group that helped start it might be excluded",
-          "url": "https://www.statnews.com/2026/06/26/988-lgbtq-hotline-relaunch-trevor-project/?utm_campaign=rss",
-          "publishedDate": "Fri, 26 Jun 2026 13:55:27 +0000",
-          "source": "statnews.com",
-          "summary": "The Trump administration is moving to restart the specialized LGBTQ+ option for youth who contact the 988 crisis line, but the group that helped pioneer the idea is being shut&#8230;",
-          "authors": "Associated Press"
         }
       ]
     },
@@ -118,51 +78,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Republican Tom Kean Jr. reveals depression diagnosis after his four-month absence from Congress",
-          "url": "https://www.statnews.com/2026/06/30/republican-tom-kean-jr-reveals-depression-after-absence-from-congress/?utm_campaign=rss",
-          "publishedDate": "Tue, 30 Jun 2026 19:40:01 +0000",
-          "source": "statnews.com",
-          "summary": "Depression, the New Jersey congressman said, “is physical, it is emotional, and until you experience it yourself, it is difficult to fully understand how powerful this illness can be.”",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "STAT+: The loophole in Trump’s obesity drug deal with Eli Lilly and Novo Nordisk",
-          "url": "https://www.statnews.com/2026/06/30/medicare-medicaid-glp1-costs-explained-balance-out-bridge-in/?utm_campaign=rss",
-          "publishedDate": "Tue, 30 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The Trump administration's grand bargain with drugmakers isn't working out as planned.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "Opinion: Short-sighted new student loan caps elevate chiropractic care over critical health care professions",
-          "url": "https://www.statnews.com/2026/06/30/graduate-student-loan-caps-health-care-nursing-chiropractors/?utm_campaign=rss",
-          "publishedDate": "Tue, 30 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "“This administrative logic is hopelessly out of touch with the empirical reality of American health care,” writes David S. Shapiro.",
-          "authors": "David S. Shapiro"
-        },
-        {
-          "title": "STAT+: Even with MAHA, Trump administration has gone soft on alcohol",
-          "url": "https://www.statnews.com/2026/06/30/maha-trump-ignores-alcohol-risk-deadliest-drug-part-6/?utm_campaign=rss",
-          "publishedDate": "Tue, 30 Jun 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "A STAT investigation has found that the Trump administration has downplayed alcohol’s risks and actively derailed efforts to understand and prevent drinking-related harms.",
-          "authors": "Isabella Cueto and Lev Facher"
-        },
-        {
-          "title": "Scientists may have finally found how Alzheimer&#039;s spreads through the brain",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
-          "publishedDate": "Tue, 30 Jun 2026 03:21:06 EDT",
+          "title": "Nearly half of kidney transplant patients never even get started",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623014006.htm",
+          "publishedDate": "Wed, 01 Jul 2026 16:10:45 EDT",
           "source": "sciencedaily.com",
-          "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers…",
+          "summary": "A massive national study found that nearly half of Americans with kidney failure who are referred for a transplant never even begin the evaluation process, and only 19% make it onto the transplant waitlist. Researchers discovered that…",
           "authors": ""
         },
         {
-          "title": "Scientists say creatine may help fight depression",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
-          "publishedDate": "Tue, 30 Jun 2026 02:28:57 EDT",
+          "title": "A surprising brain discovery is forcing scientists to rethink movement disorders",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623014004.htm",
+          "publishedDate": "Wed, 01 Jul 2026 15:10:06 EDT",
           "source": "sciencedaily.com",
-          "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain&#039;s energy supply. A new review examined five randomized clinical trials…",
+          "summary": "A surprising discovery is overturning a long-held assumption about how the brain’s movement center works. Researchers found that two key cerebellar cell types—thought to be tightly linked—often don’t behave in predictable ways, even though…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: Booze schmooze: The alcohol industry, frazzled by headwinds, wields its power behind the scenes",
+          "url": "https://www.statnews.com/2026/07/01/alcohol-lobby-immense-power-explored-deadliest-drug-part-7/?utm_campaign=rss",
+          "publishedDate": "Wed, 01 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Demand for alcohol is declining. The industry is fighting harder and more creatively than ever against limits — and winning.",
+          "authors": "Isabella Cueto and Lev Facher"
+        },
+        {
+          "title": "Modern neuroscience is rediscovering an idea Freud had 130 years ago",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625014811.htm",
+          "publishedDate": "Wed, 01 Jul 2026 03:24:56 EDT",
+          "source": "sciencedaily.com",
+          "summary": "What if Sigmund Freud was onto something that modern neuroscience is only now beginning to explain? A new paper argues that today&#039;s leading theory of the brain—as a prediction machine constantly anticipating the world—closely mirrors…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover a surprising link between vitamin C and brain health",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
+          "publishedDate": "Wed, 01 Jul 2026 01:22:38 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Could something as simple as vitamin C help support a healthier aging brain? In a study of more than 2,000 older adults in Japan, researchers found that people with lower vitamin C levels in their blood also tended to have less gray matter…",
+          "authors": ""
+        },
+        {
+          "title": "Melanoma&#039;s secret to cheating death has finally been revealed",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625014833.htm",
+          "publishedDate": "Tue, 30 Jun 2026 22:45:39 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have solved a long-standing mystery by discovering the missing genetic ingredient that helps melanoma cells become effectively immortal. The breakthrough could open the door to new treatments aimed at disrupting one of…",
           "authors": ""
         }
       ]
@@ -173,67 +133,91 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Constraint-aware Optimization in Auto-Tuning",
-          "url": "https://arxiv.org/abs/2606.28372",
-          "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
+          "title": "Emergent Culture in Minimal LLM Systems",
+          "url": "https://arxiv.org/abs/2606.30668",
+          "publishedDate": "Wed, 01 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Automatic performance tuning, or auto-tuning, is a key technique in high-performance computing, enabling applications to adapt to complex and evolving hardware architectures. A central challenge is the need to optimize over large discrete,…",
-          "authors": "Floris-Jan Willemsen, Stijn Heldens, Rob V. van Nieuwpoort, Ben van Werkhoven"
+          "summary": "What happens when LLM agents operate with no context outside a turn, minimal prompting, and simple tools? Inspired by swarm engineering, we give collectives of three agents the ability to send messages and manipulate a shared actively…",
+          "authors": "Simon Jones, Sabine Hauert"
         },
         {
-          "title": "Model Merging to Evolution: Parameter Space Exploration for Expert Models",
-          "url": "https://arxiv.org/abs/2606.28373",
-          "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
+          "title": "Local Pheromone Network: Sparse Local Learning with Multi-Scale Synaptic Trails, Consolidation, and Replay",
+          "url": "https://arxiv.org/abs/2606.30669",
+          "publishedDate": "Wed, 01 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Model merging integrates the capabilities of multiple expert models to create strong models for multiple tasks without additional training, thereby reducing computational resource requirements. However, existing methods operate within the…",
-          "authors": "Chao Wang, Yuchen Guo, Zheng Tan, Guanchun Wang, Yanbiao Ma, Qiqi Duan, Peng Wu"
+          "summary": "Backpropagation-trained dense neural networks are powerful function approximators, but they couple learning across many parameters and can overwrite previous associations when tasks conflict. This paper describes Local Pheromone Network, a…",
+          "authors": "Xingcheng Fu, Xianjun Chen, Zhihao Li"
         },
         {
-          "title": "Distilling a Modular Reservoir Through a Genomic Bottleneck",
-          "url": "https://arxiv.org/abs/2606.28380",
-          "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
+          "title": "Criticality-Constrained Iterative Pruning for Energy-Efficient Spiking Neural Networks via Combined Importance Scoring",
+          "url": "https://arxiv.org/abs/2606.30676",
+          "publishedDate": "Wed, 01 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The intricate structures of biological neural networks largely emerge during development, guided by a comparatively compressed blueprint encoded in the genome. The connectivity that emerges from this decoding process is rich in structure,…",
-          "authors": "Mani Hamidi, Sina Khajehabdollahi, Charley M. Wu, Emmanouil Giannakakis"
+          "summary": "Deploying spiking neural networks (SNNs) on neuromorphic hardware demands aggressive synaptic pruning while preserving temporal computation integrity. Existing strategies either neglect neuronal criticality or rely on convex relaxations of…",
+          "authors": "Muhammad Hamza"
         },
         {
-          "title": "Evolutional Math: Cross-Validated Island-Model Genetic Programming for Interpretable Symbolic Regression on Small, Wide Datasets",
-          "url": "https://arxiv.org/abs/2606.28381",
-          "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
+          "title": "A Large-Scale Empirical Evaluation of MMAO Under Fair-Budget Continuous and Discrete Benchmarks",
+          "url": "https://arxiv.org/abs/2606.31584",
+          "publishedDate": "Wed, 01 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Symbolic regression via genetic programming routinely fails on small, wide datasets - a regime common in clinical-trial monitoring, biostatistics, and engineering pilot studies - by converging on bloated, overfit expressions that exploit…",
-          "authors": "Artem Andrianov (Cyntegrity Germany GmbH, Hofheim am Taunus, Germany)"
+          "summary": "This paper evaluates the Metabolic Multi-Agent Optimizer (MMAO) under a stricter empirical protocol rather than reintroducing the framework itself. The study asks whether MMAO's closed-loop resource-allocation principle remains credible…",
+          "authors": "Jinliang Xu, Liping Ma"
         },
         {
-          "title": "Neuromorphic Energy-Aware Learning for Adaptive Deep Brain Stimulation",
-          "url": "https://arxiv.org/abs/2606.28600",
-          "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
+          "title": "Distributed Hierarchical Temporal Memory with Shared Associative Memory for Cross-Entity Preemptive Warning",
+          "url": "https://arxiv.org/abs/2606.31789",
+          "publishedDate": "Wed, 01 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neuromorphic and edge computing research has focused on reducing the inference cost of neural network controllers, yet in physical closed-loop systems the actuator can rival or exceed an efficient controller in energy. An efficient…",
-          "authors": "Binh Nguyen, Colleen Josephson, Mircea Teodorescu, Gert Cauwenberghs, Jason Eshraghian"
+          "summary": "Anomaly detection in multivariate time series remains a critical challenge in large-scale distributed systems, where related entities may exhibit transferable precursor behavior prior to anomaly onset. Existing methods typically operate…",
+          "authors": "Pavia Bera, Jennifer Adorno, Sanjukta Bhanja"
         },
         {
-          "title": "Analysis of Parameter Settings for the Bat Algorithm Using Variance Evolution",
-          "url": "https://arxiv.org/abs/2606.28644",
-          "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
+          "title": "Evaluation of Population Initialization Methods for Genetic Programming-based Symbolic Regression",
+          "url": "https://arxiv.org/abs/2606.31990",
+          "publishedDate": "Wed, 01 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Parameter settings in evolutionary algorithms and metaheuristics are important because such parameter values can influence the performance of algorithms under evaluation. For a given algorithm, there are many different numerical…",
-          "authors": "Xin-She Yang, Mehmet Karamanoglu"
+          "summary": "We analyze the effect of optimizing the initial population of genetic programming (GP) for symbolic regression (SR) on the accuracy and complexity of solutions. We compare three well-established random initialization methods as well as…",
+          "authors": "Lukas Kammerer, Gabriel Kronberger, Deaglan J. Bartlett, Harry Desmond, Pedro G. Ferreira, Stephan Winkler"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 1,
+      "itemCount": 4,
       "items": [
         {
-          "title": "Multi-Sensor Integrated Sensing and Communication for Critical Infrastructure Protection",
-          "url": "https://arxiv.org/abs/2606.29926",
-          "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
+          "title": "PGUDA: Pressure-Guided Unsupervised Domain Adaptation with Cross-Modal Knowledge Distillation for sEMG-Based Gesture Recognition",
+          "url": "https://arxiv.org/abs/2606.31349",
+          "publishedDate": "Wed, 01 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Integrated Sensing and Communications (ISAC) will become a service in future mobile communication networks. It enables the detection and recognition of passive objects and environments using radar-like sensing. One promising first…",
-          "authors": "Reiner Thomä, Gerd Sommerkorn, Christian Schneider, Thomas Dallmann"
+          "summary": "Surface electromyography (sEMG)-based gesture recognition has emerged as a promising technology for natural human-computer interaction. However, its practical deployment remains challenging due to severe performance degradation caused by…",
+          "authors": "Yurui Liu, Xiao-Cong Zhong, Qisong Wang, Xuefu Wang, Dan Liu, Jinwei Sun"
+        },
+        {
+          "title": "Resource-Efficient WiFi CSI Sensing via Exploiting the Age of Samples",
+          "url": "https://arxiv.org/abs/2606.31690",
+          "publishedDate": "Wed, 01 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "WiFi channel state information (CSI) sensing must coexist with data communications, which constrains the acquisition rate of fresh CSI measurements. To model this, we formulate CSI-based human activity and identity recognition under a…",
+          "authors": "Abolfazl Zakeri, Nhan Thanh Nguyen, Markku Juntti"
+        },
+        {
+          "title": "Dualformer: Efficient Feature Extractor for Complex-valued Blind Communication Signal Analysis",
+          "url": "https://arxiv.org/abs/2606.31352",
+          "publishedDate": "Wed, 01 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Designing effective feature extractors is critical for blind signal analysis tasks such as automatic modulation recognition (AMR), signal scheme recognition (SSR), and \\colorblack signal structure parsing (SSP). In this work, we propose…",
+          "authors": "Yurui Zhao, Xiang Wang, Jingreng Lei, Wanlong Zhang, Yik-Chung Wu, Zhitao Huang"
+        },
+        {
+          "title": "MORIC: CSI Delay-Doppler Decomposition for Robust Wi-Fi-based Human Activity Recognition",
+          "url": "https://arxiv.org/abs/2506.12997",
+          "publishedDate": "Wed, 01 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The newly established IEEE 802.11bf Task Group aims to amend the WLAN standard to support advanced sensing applications such as human activity recognition (HAR). Although studies have demonstrated the potential of sub-7 GHz Wi-Fi Channel…",
+          "authors": "Navid Hasanzadeh, Shahrokh Valaee"
         }
       ]
     }
