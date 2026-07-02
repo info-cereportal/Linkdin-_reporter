@@ -1,26 +1,24 @@
 {
-  "generatedAt": "2026-07-01T23:52:41.189Z",
-  "date": "2026-07-01",
-  "topic": "リカレントニューラルネットワーク(RNN)",
-  "templateName": "three-insights",
+  "generatedAt": "2026-07-02T23:42:42.637Z",
+  "date": "2026-07-02",
+  "topic": "脳情報科学の最新研究",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Stationary covariance spectra of discrete-time non-normal random recurrent dynamics",
-  "paperLink": "https://arxiv.org/abs/2606.31944",
-  "figureUrl": "https://arxiv.org/html/2606.31944/2606.31944v1/x1.png",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\nリカレントニューラルネットワーク(RNN)の最新成果を整理しました。\n\n🔬 リカレントニューラルネットワーク(RNN)\n\n> Principal component analysis is widely used to characterize structure in the dynamics of recurrent neural networks. For stationary noise-driven dynamics, the distribution of variance among the principal components is determined by the spectrum of the stationary covariance matrix.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n脳情報科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Stationary covariance spectra of discrete-time non-normal random recurrent dynamics\n🔗 https://arxiv.org/abs/2606.31944\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #脳情報",
-  "summaryJP": "リカレントニューラルネットワーク(RNN) — 注目すべき3つの示唆",
-  "paperAuthors": "Jacob A. Zavatone-Veth",
-  "publishedDate": "Wed, 01 Jul 2026 00:00:00 -0400",
-  "paperId": "2606.31944",
+  "paperTitle": "Neuronal electricality founded in murburn-thermodynamic principles: 1. Background and basic theoretical formulation",
+  "paperLink": "https://arxiv.org/abs/2604.24772",
+  "figureUrl": "https://arxiv.org/html/2604.24772/2604.24772v2/figures/fig1.jpeg",
+  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n脳情報科学の最新研究の最新研究です。\n\n🔬 脳情報科学\n\n📊 注目すべきデータ：\n→ The Murburn concept offers novel physico-chemical models for various metabolic, bioenergetic and electrophysiological phenomena.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Neuronal electricality founded in murburn-thermodynamic principles: 1. Background and basic theoretical formulation\n🔗 https://arxiv.org/abs/2604.24772\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #NeuralDecoding",
+  "summaryJP": "脳情報科学の最新研究 — 次世代へ続く布石",
+  "paperAuthors": "Kelath Murali Manoj, Nagamani Sukumar, Taufia Hussain, Mahendra Kavdia, Abhijith Anandakrishnan",
+  "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
+  "paperId": "2604.24772",
   "paperSource": "arxiv",
   "themeArea": "脳情報科学",
   "jpKeywords": [
-    "リカレントニューラルネットワーク(RNN)"
+    "脳情報科学"
   ],
-  "abstractExcerpt": "Principal component analysis is widely used to characterize structure in the dynamics of recurrent neural networks. For stationary noise-driven dynamics, the distribution of variance among the principal components is determined by the…",
+  "abstractExcerpt": "Trans-membrane ion-gradients and fluxes are central to conventional electrical activity in aerobic cells/organelles. The Murburn concept offers novel physico-chemical models for various metabolic, bioenergetic and electrophysiological…",
   "figureUrls": [
-    "https://arxiv.org/html/2606.31944/2606.31944v1/x1.png",
-    "https://arxiv.org/html/2606.31944/2606.31944v1/x2.png",
-    "https://arxiv.org/html/2606.31944/2606.31944v1/x3.png"
+    "https://arxiv.org/html/2604.24772/2604.24772v2/figures/fig1.jpeg"
   ]
 }
