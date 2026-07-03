@@ -1,5 +1,29 @@
 [
   {
+    "generatedAt": "2026-07-03T23:39:17.606Z",
+    "date": "2026-07-03",
+    "topic": "fMRI",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "A global predicted-fMRI drive signal from TRIBE does not predict YouTube replay heatmaps",
+    "paperLink": "https://arxiv.org/abs/2607.01400",
+    "figureUrl": "https://arxiv.org/html/2607.01400/2607.01400v1/x1.png",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n脳科学とAI——その境界線が消えつつある。\n\nfMRIに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 fMRI\n\n📊 注目すべきデータ：\n→ The pooled position-controlled partial correlation is +0.058 (95% CI [-0.04, 0.15]; one-sample t(47)=1.21, p=0.23), indistinguishable from zero and not significantly above simple...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 A global predicted-fMRI drive signal from TRIBE does not predict YouTube replay heatmaps\n🔗 https://arxiv.org/abs/2607.01400\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #ニューロテック",
+    "summaryJP": "fMRI — 脳科学とAIをつなぐ研究（神経デコーディング）",
+    "paperAuthors": "Barada Sahu, Shivesh Pandey",
+    "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
+    "paperId": "2607.01400",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "fMRI"
+    ],
+    "abstractExcerpt": "Deep multimodal brain-encoding models now predict fMRI responses to naturalistic video with high accuracy. Whether their predicted neural signals also forecast behavioral engagement is unknown. We run TRIBE, the winning model of the 2025…",
+    "figureUrls": [
+      "https://arxiv.org/html/2607.01400/2607.01400v1/x1.png"
+    ]
+  },
+  {
     "generatedAt": "2026-07-02T23:42:42.637Z",
     "date": "2026-07-02",
     "topic": "脳情報科学の最新研究",
@@ -1244,35 +1268,6 @@
       "https://arxiv.org/html/2605.28693/2605.28693v1/Figs_Backprop/1.png",
       "https://arxiv.org/html/2605.28693/2605.28693v1/Figs_Backprop/third_best_encoded_rois_500000_all_layers_300PCs_widecolors.png",
       "https://arxiv.org/html/2605.28693/2605.28693v1/Figs_Backprop/encoding_scores_barplot_last_layer.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-28T20:07:56.452Z",
-    "date": "2026-05-28",
-    "topic": "意思決定と神経デコーディング",
-    "templateName": "neuro-ai-bridge",
-    "riskScore": 0,
-    "paperTitle": "EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models",
-    "paperLink": "https://arxiv.org/abs/2605.26910",
-    "figureUrl": "https://arxiv.org/html/2605.26910/2605.26910v1/x1.png",
-    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n脳科学とAI——その境界線が消えつつある。\n\n意思決定と神経デコーディングに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG × 意思決定 × 神経デコーディング × 学習\n\n📊 注目すべきデータ：\n→ We apply EEG-FM-Audit to four state-of-the-art EEG-FMs and five representative supervised models across three public datasets.\n→ Our results reveal that properly tuned supervised baselines can match or outperform advanced FMs, despite requiring significantly fewer parameters.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 EEG-FM-Audit: A Systematic Evaluation and Analysis Pipeline for EEG Foundation Models\n🔗 https://arxiv.org/abs/2605.26910\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #BrainComputerInterface",
-    "summaryJP": "意思決定と神経デコーディング — 脳科学とAIをつなぐ研究（神経デコーディング）",
-    "paperAuthors": "Xianheng Wang, Yige Yang, Damien Coyle",
-    "publishedDate": "Thu, 28 May 2026 00:00:00 -0400",
-    "paperId": "2605.26910",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "EEG",
-      "意思決定",
-      "神経デコーディング",
-      "学習"
-    ],
-    "abstractExcerpt": "Large EEG Foundation Models (FMs) have shown great potential for decoding EEG signals across diverse cognitive tasks. However, existing EEG-FM studies exhibit three critical limitations: opaque supervised baseline tuning, unverified…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.26910/2605.26910v1/x1.png",
-      "https://arxiv.org/html/2605.26910/2605.26910v1/x2.png",
-      "https://arxiv.org/html/2605.26910/2605.26910v1/x3.png"
     ]
   }
 ]

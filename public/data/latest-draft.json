@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-02T23:42:42.637Z",
-  "date": "2026-07-02",
-  "topic": "脳情報科学の最新研究",
-  "templateName": "future-vision",
+  "generatedAt": "2026-07-03T23:39:17.606Z",
+  "date": "2026-07-03",
+  "topic": "fMRI",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Neuronal electricality founded in murburn-thermodynamic principles: 1. Background and basic theoretical formulation",
-  "paperLink": "https://arxiv.org/abs/2604.24772",
-  "figureUrl": "https://arxiv.org/html/2604.24772/2604.24772v2/figures/fig1.jpeg",
-  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n脳情報科学の最新研究の最新研究です。\n\n🔬 脳情報科学\n\n📊 注目すべきデータ：\n→ The Murburn concept offers novel physico-chemical models for various metabolic, bioenergetic and electrophysiological phenomena.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Neuronal electricality founded in murburn-thermodynamic principles: 1. Background and basic theoretical formulation\n🔗 https://arxiv.org/abs/2604.24772\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #NeuralDecoding",
-  "summaryJP": "脳情報科学の最新研究 — 次世代へ続く布石",
-  "paperAuthors": "Kelath Murali Manoj, Nagamani Sukumar, Taufia Hussain, Mahendra Kavdia, Abhijith Anandakrishnan",
-  "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
-  "paperId": "2604.24772",
+  "paperTitle": "A global predicted-fMRI drive signal from TRIBE does not predict YouTube replay heatmaps",
+  "paperLink": "https://arxiv.org/abs/2607.01400",
+  "figureUrl": "https://arxiv.org/html/2607.01400/2607.01400v1/x1.png",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n脳科学とAI——その境界線が消えつつある。\n\nfMRIに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 fMRI\n\n📊 注目すべきデータ：\n→ The pooled position-controlled partial correlation is +0.058 (95% CI [-0.04, 0.15]; one-sample t(47)=1.21, p=0.23), indistinguishable from zero and not significantly above simple...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 A global predicted-fMRI drive signal from TRIBE does not predict YouTube replay heatmaps\n🔗 https://arxiv.org/abs/2607.01400\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #ニューロテック",
+  "summaryJP": "fMRI — 脳科学とAIをつなぐ研究（神経デコーディング）",
+  "paperAuthors": "Barada Sahu, Shivesh Pandey",
+  "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "paperId": "2607.01400",
   "paperSource": "arxiv",
-  "themeArea": "脳情報科学",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "脳情報科学"
+    "fMRI"
   ],
-  "abstractExcerpt": "Trans-membrane ion-gradients and fluxes are central to conventional electrical activity in aerobic cells/organelles. The Murburn concept offers novel physico-chemical models for various metabolic, bioenergetic and electrophysiological…",
+  "abstractExcerpt": "Deep multimodal brain-encoding models now predict fMRI responses to naturalistic video with high accuracy. Whether their predicted neural signals also forecast behavioral engagement is unknown. We run TRIBE, the winning model of the 2025…",
   "figureUrls": [
-    "https://arxiv.org/html/2604.24772/2604.24772v2/figures/fig1.jpeg"
+    "https://arxiv.org/html/2607.01400/2607.01400v1/x1.png"
   ]
 }

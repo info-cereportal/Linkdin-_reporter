@@ -1,51 +1,59 @@
 {
-  "generatedAt": "2026-07-02T23:42:43.038Z",
+  "generatedAt": "2026-07-03T23:39:18.260Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 5,
+      "itemCount": 6,
       "items": [
         {
-          "title": "NeuroCogMap Reveals Cognitive Organization of Large Language Models",
-          "url": "https://arxiv.org/abs/2607.00397",
-          "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
+          "title": "A global predicted-fMRI drive signal from TRIBE does not predict YouTube replay heatmaps",
+          "url": "https://arxiv.org/abs/2607.01400",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Understanding how complex cognitive functions are organized within artificial systems is central to interpreting large language models (LLMs) and relating them to biological cognition. Yet although LLMs exhibit broad cognitive-like…",
-          "authors": "Zhongxiang Sun, Haolang Lu, Qiang Ma, Qi Li, Qipeng Wang, Liang Pang, Chenyu Liu, Qiankun Li, Hao Sun, Kun Wang, Yi Zeng, Jun Xu, Guoqi Li, Ji-Rong Wen"
+          "summary": "Deep multimodal brain-encoding models now predict fMRI responses to naturalistic video with high accuracy. Whether their predicted neural signals also forecast behavioral engagement is unknown. We run TRIBE, the winning model of the 2025…",
+          "authors": "Barada Sahu, Shivesh Pandey"
         },
         {
-          "title": "DRIADA: A Python Toolkit for Cross-Scale Analysis of Single-Neuron Selectivity and Population Dynamics",
-          "url": "https://arxiv.org/abs/2607.00851",
-          "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
+          "title": "Analysis of Evolving Cortical Neuronal Networks Using Visual Informatics",
+          "url": "https://arxiv.org/abs/2502.20862",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brain activity spans single-neuron, population, and network levels, and core questions in neural coding require moving between them. Yet current tools target a single paradigm and incompatible data formats, leaving cross-level questions…",
-          "authors": "Nikita Pospelov, Viktor Plusnin, Olga Rogozhnikova, Anna Ivanova, Vladimir Sotskov, Margarita Orobets, Ksenia Toropova, Olga Ivashkina, Vladik Avetisov, Konstantin Anokhin"
+          "summary": "Understanding how neuronal population activity changes during development and after stimulation is essential for studying neuronal network dynamics. This work examines how visual informatics can summarize high-dimensional spiking activity…",
+          "authors": "Ho Fai Po, Akke Mats Houben, Anna-Christina Haeb, Yordan P. Raykov, Daniel Tornero, Jordi Soriano, David Saad"
         },
         {
-          "title": "Reward function compression facilitates goal-dependent reinforcement learning",
-          "url": "https://arxiv.org/abs/2509.06810",
-          "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
+          "title": "Gravity-Awareness: Deep Learning Models and LLM Simulation of Human Awareness in Altered Gravity",
+          "url": "https://arxiv.org/abs/2511.05536",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Humans can uniquely assign value to novel, abstract outcomes to support reinforcement learning. However, this flexibility is cognitively costly and reduces learning efficiency. We propose that goal-dependent learning initially relies on…",
-          "authors": "Gaia Molinaro, Anne G. E. Collins"
+          "summary": "Earth s gravity fundamentally shapes human behaviour. The brain encodes this force as an internal model of gravity, enabling the prediction and interpretation of gravitational effects during perception and action. Understanding how this…",
+          "authors": "Bakytzhan Alibekov, Alina Gutoreva, Elisa Raffaella-Ferre"
         },
         {
-          "title": "Neuronal electricality founded in murburn-thermodynamic principles: 1. Background and basic theoretical formulation",
-          "url": "https://arxiv.org/abs/2604.24772",
-          "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
+          "title": "Spatiotemporal bursting in simulated cultures of cortical neurons",
+          "url": "https://arxiv.org/abs/2602.22364",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Trans-membrane ion-gradients and fluxes are central to conventional electrical activity in aerobic cells/organelles. The Murburn concept offers novel physico-chemical models for various metabolic, bioenergetic and electrophysiological…",
-          "authors": "Kelath Murali Manoj, Nagamani Sukumar, Taufia Hussain, Mahendra Kavdia, Abhijith Anandakrishnan"
+          "summary": "Cultures of neurons grown on multi-electrode arrays have become a common experimental preparation for investigating developing neural networks. Experiment and simulation have shown that these developing networks eventually exhibit bursting…",
+          "authors": "Michael Stiber, Natalie Gonzales, Jewel YunHsuan Lee"
         },
         {
-          "title": "Neuronal electricality founded in murburn-thermodynamic principles: 2. Comparisons, evidenced explanations, and predictions",
-          "url": "https://arxiv.org/abs/2605.00014",
-          "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
+          "title": "A frozen rate operator from the complete larval connectome: degree and weight govern the gross response, exact wiring governs input routing and mushroom-body modes",
+          "url": "https://arxiv.org/abs/2606.17745",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The analyses presented herein demonstrate that neuronal electrical activity can be consistently interpreted as a manifestation of murburn redox-mediated electronic dynamics rather than as a process fundamentally driven by transmembrane…",
-          "authors": "Kelath Murali Manoj, Nagamani Sukumar"
+          "summary": "Connectome-constrained models now reproduce neural activity in several systems, yet each inherits a circuit's degree and weight statistics along with its exact wiring, leaving open which dynamical properties the wiring fixes beyond those…",
+          "authors": "Stavros Therianos"
+        },
+        {
+          "title": "Meta-Representational Predictive Coding: Neuroscience-Informed Self-Supervised Learning",
+          "url": "https://arxiv.org/abs/2503.21796",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Self-supervised learning has become an increasingly important paradigm in the domain of machine intelligence. Furthermore, evidence for self-supervised adaptation, such as contrastive formulations, has emerged in recent computational…",
+          "authors": "Alexander Ororbia, Karl Friston, Rajesh P. N. Rao"
         }
       ]
     },
@@ -110,6 +118,38 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Old muscle stem cells can act young again but there’s a catch",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622014315.htm",
+          "publishedDate": "Fri, 03 Jul 2026 05:00:04 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists at UCLA discovered a surprising reason aging muscles heal more slowly. In older muscle stem cells, a protein called NDRG1 builds up and acts like a brake, slowing the cells’ ability to jump into repair mode after injury. But…",
+          "authors": ""
+        },
+        {
+          "title": "The real cause of a common stroke may have been missed for decades",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622091521.htm",
+          "publishedDate": "Fri, 03 Jul 2026 04:42:07 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have discovered that a common type of stroke may have a very different cause than doctors once thought. Instead of fatty plaque clogging arteries, the strongest link was found with enlarged and damaged blood vessels deep within…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover a protein switch that burns fat and blocks new fat cells",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260624115324.htm",
+          "publishedDate": "Thu, 02 Jul 2026 20:22:49 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A protein called “Mitch” may hold the key to a new generation of obesity treatments. Researchers found that disabling it in human cells boosts fat burning, increases energy use, and makes it harder for new fat cells to develop. The…",
+          "authors": ""
+        },
+        {
+          "title": "This spray-on powder can stop life-threatening bleeding in 1 second",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625014835.htm",
+          "publishedDate": "Thu, 02 Jul 2026 16:01:27 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new spray-on powder developed by KAIST can stop life-threatening bleeding in about one second by instantly forming a strong gel over a wound. It works on deep and irregular injuries where conventional hemostatic products often struggle…",
+          "authors": ""
+        },
+        {
           "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
           "url": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss",
           "publishedDate": "Thu, 02 Jul 2026 19:52:19 +0000",
@@ -124,38 +164,6 @@
           "source": "statnews.com",
           "summary": "The health insurer says CMS didn't calculate its star ratings appropriately.",
           "authors": "Bob Herman"
-        },
-        {
-          "title": "STAT+: What does DeGette’s loss mean for pharma?",
-          "url": "https://www.statnews.com/2026/07/02/degette-loses-to-kiros-pharma-presidential-fitness-test-dc-diagnosis/?utm_campaign=rss",
-          "publishedDate": "Thu, 02 Jul 2026 16:09:48 +0000",
-          "source": "statnews.com",
-          "summary": "Colorado Democratic Rep. Diana DeGette, who lost her primary, was knowledgeable about biopharma, if not always a friend to the industry.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "The new presidential fitness test is a positive step, not the solution, experts say",
-          "url": "https://www.statnews.com/2026/07/02/presidential-fitness-test-will-it-boost-physical-activity-youth/?utm_campaign=rss",
-          "publishedDate": "Thu, 02 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Physical activity needs to be fun to keep kids engaged. And the test risks embarrassing them, instead.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Nearly half of kidney transplant patients never even get started",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623014006.htm",
-          "publishedDate": "Wed, 01 Jul 2026 16:10:45 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A massive national study found that nearly half of Americans with kidney failure who are referred for a transplant never even begin the evaluation process, and only 19% make it onto the transplant waitlist. Researchers discovered that…",
-          "authors": ""
-        },
-        {
-          "title": "A surprising brain discovery is forcing scientists to rethink movement disorders",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623014004.htm",
-          "publishedDate": "Wed, 01 Jul 2026 15:10:06 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A surprising discovery is overturning a long-held assumption about how the brain’s movement center works. Researchers found that two key cerebellar cell types—thought to be tightly linked—often don’t behave in predictable ways, even though…",
-          "authors": ""
         }
       ]
     },
@@ -165,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Self-Organized Learning in Oscillatory Neural Networks with Memristive Signed Couplings",
-          "url": "https://arxiv.org/abs/2607.00286",
-          "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
+          "title": "BFF: Simple explanations for complex phenomena",
+          "url": "https://arxiv.org/abs/2607.01483",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Oscillatory neural networks (ONNs) have emerged as a promising neuromorphic architecture, leveraging coupled dynamical systems to perform computation and represent information through phase relationships. Their interactions can be designed…",
-          "authors": "Riley Acker, Aman Desai, Garrett Kenyon, Frank Barrows"
+          "summary": "The ''Computational Life'' paper (Agüera y Arcas et al., 2024) argues that paired interactions in a computational soup are an effective way to find self-replicators. In this work, aided by recent developments in self-replicator detection,…",
+          "authors": "Charlotte Knierim, Luca Versari, Robert Obryk, Blaise Agüera y Arcas, Rif A. Saurous"
         },
         {
-          "title": "From Consistency to Collaborative Discovery: MFEA-CoD for Multitask Novelty Search",
-          "url": "https://arxiv.org/abs/2607.00761",
-          "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
+          "title": "MMAO-Cls: Metabolic Multi-Agent Optimization for Joint Feature Selection and Classifier Tuning",
+          "url": "https://arxiv.org/abs/2607.01539",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Evolutionary multitasking (EMT) has shown strong capability in solving multiple optimization problems simultaneously by exploiting latent inter-task consistency, such as similarities in promising solutions or search directions. However,…",
-          "authors": "Jiao Liu, Yanchi Li, Hua Yu, Abhishek Gupta, Yew-Soon Ong"
-        },
-        {
-          "title": "MMAO-Dyn: A Metabolic Multi-Agent Optimizer for Dynamic Optimization",
-          "url": "https://arxiv.org/abs/2607.00846",
-          "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This paper studies whether the Metabolic Multi-Agent Optimizer (MMAO) can be credibly derived into a dynamic-optimization method without replacing its core metabolic control loop by external adaptation modules. The proposed MMAO-Dyn maps…",
+          "summary": "This paper studies whether the Metabolic Multi-Agent Optimizer (MMAO) can act as a credible outer-loop optimizer for classification model selection. We propose MMAO-Cls, a mixed-space realization in which each agent jointly encodes a…",
           "authors": "Jinliang Xu, Liping Ma"
         },
         {
-          "title": "EVOTS: Evolutionary Transformer Search for Time Series Forecasting",
-          "url": "https://arxiv.org/abs/2607.00154",
-          "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
+          "title": "Mechanism and Stability Analysis of Metabolic Closed-Loop Metaheuristics",
+          "url": "https://arxiv.org/abs/2607.01551",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Evolutionary neural architecture design for multivariate time-series forecasting remains underexplored, with most approaches relying on fixed Transformer architectures despite substantial variation across tasks and forecasting settings.…",
-          "authors": "AbdElRahman ElSaid, Damir Pulatov"
+          "summary": "This paper studies the Metabolic Multi-Agent Optimizer (MMAO) at the framework level rather than at the implementation or benchmark level. The central question is whether the metabolic resource loop of private energy, communal budget, role…",
+          "authors": "Jinliang Xu, Liping Ma"
         },
         {
-          "title": "Novelty-Based Generation of Continuous Landscapes with Diverse Local Optima Networks",
-          "url": "https://arxiv.org/abs/2604.21468",
-          "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
+          "title": "Evolutionary Wave Function Collapse",
+          "url": "https://arxiv.org/abs/2607.02082",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Local Optima Networks (LONs) represent the global structure of search spaces as graphs, but their construction requires iterative execution of a search algorithm to find local optima and approximate transitions between Basins of Attraction…",
-          "authors": "Kippei Mizuta, Shoichiro Tanaka, Shuhei Tanaka, Toshiharu Hatanaka"
+          "summary": "Wave Function Collapse (WFC) is a widely used procedural content generation method that learns local adjacency constraints from example inputs to generate larger outputs. In this paper, we explore combining WFC with evolutionary search by…",
+          "authors": "Dipika Rajesh, Ahmed Khalifa, Julian Togelius"
         },
         {
-          "title": "Geometric and dynamical analysis of attractor boundaries and storage limits in kernel Hopfield networks",
-          "url": "https://arxiv.org/abs/2605.00366",
-          "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
+          "title": "Electronic Bursting Neuron: design, equations and hardware implementation",
+          "url": "https://arxiv.org/abs/2607.02122",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "High-capacity associative memories based on Kernel Logistic Regression (KLR) exhibit strong storage capabilities, but the dynamical and geometric mechanisms underlying their stability remain poorly understood. This paper investigates the…",
-          "authors": "Akira Tamamori"
+          "summary": "Electronic neurons are a keystone for construction of the spiking neural networks which have numerous applications in neuroprosthetics, artificial memory, intensive calculations etc. A number of concepts of electronic neurons has been…",
+          "authors": "Lev V. Takaishvili, Vladimir I. Ponomarenko, Maksim V. Kornilov, Ilya V. Sysoev"
+        },
+        {
+          "title": "Dendritic In-Context Learning in a Single-Layer Spiking Neural Network",
+          "url": "https://arxiv.org/abs/2607.02283",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "In-context learning (ICL) operates via implicit gradient descent embedded in the forward pass of modern AI architectures -- Transformers, Mamba, state-space models, and MLPs. Capturing this capability in biologically plausible Spiking…",
+          "authors": "Juwei Shen, Yujie Wu, Changwen Chen"
         }
       ]
     },
@@ -220,28 +228,28 @@
       "itemCount": 3,
       "items": [
         {
-          "title": "Which Metric Reflects the Spelling Rate Accuracy in Event-Related Potential-Based Brain-Computer Interfaces?",
-          "url": "https://arxiv.org/abs/2607.00794",
-          "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
+          "title": "A mixed-signal analogue front-end for brain-implantable neural interfaces using a digital fixed-point IIR filter and bulk offset cancellation",
+          "url": "https://arxiv.org/abs/2511.12540",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "For predictive models, the often-reported performance metrics are the loss and accuracy. In synchronous Brain- Computer Interface (BCI) systems, these metrics are informative for most BCI paradigms; however, for Event-Related Potential…",
-          "authors": "Okba Bekhelifi, Naoual El Djouher Mebtouche"
+          "summary": "Advances in miniaturised implantable neural electronics have paved the way for therapeutic brain-computer interfaces with clinical potential for movement disorders, epilepsy, and broader neurological applications. This paper presents a…",
+          "authors": "Dimitris Antoniadis, Timothy G. Constandinou"
         },
         {
-          "title": "Opportunistic Positioning with LEO Satellites based on SSB from NR NTN",
-          "url": "https://arxiv.org/abs/2607.00967",
-          "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
+          "title": "Antenna System for Simultaneous Wireless Power and Information Transfer to Brain Implants",
+          "url": "https://arxiv.org/abs/2607.02036",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Forthcoming Low Earth Orbit (LEO) satellite networks such as Starlink's Mobile Satellite Service (MSS) will incorporate the New Radio (NR) Non-Terrestrial Network (NTN) standard. The Synchronization Signal Block (SSB) specified as part of…",
-          "authors": "Rainer Bachl, Muhammad Nabeel, Tingting Lei"
+          "summary": "Brain-Computer Interfaces (BCIs) have revolutionized neuroscience applications, from motor rehabilitation to neuroergonomics. Traditional implantable BCIs with invasive microelectrode arrays pose challenges, notably the need for wired…",
+          "authors": "Ali Khaleghi, Aminolah Hassanvand, Ilangko Balasingham"
         },
         {
-          "title": "Measurement-Based Characterization and Statistical Modeling of 6G Urban Low-Altitude A2G Channels across FR1 and FR3",
-          "url": "https://arxiv.org/abs/2607.00541",
-          "publishedDate": "Thu, 02 Jul 2026 00:00:00 -0400",
+          "title": "CSI Simulation: Why Additive Noise Fails and How to Fix It",
+          "url": "https://arxiv.org/abs/2607.01882",
+          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Unmanned aerial vehicle (UAV) communications have been recognized as a key component of future sixth-generation (6G) space-air-ground-sea integrated networks. Accurate characterization and modeling of air-to-ground (A2G) channels are…",
-          "authors": "Bin Ao, Jianhua Zhang, Pan Tang, Peijie Liu, Boyang He, Hao Zheng"
+          "summary": "Channel State Information (CSI) has become a widely used wireless channel sensing modality for applications such as indoor localization, activity recognition, and respiration monitoring. Because collecting labeled data under every target…",
+          "authors": "Aymen Bouferroum (FUN), Ildi Alla (uni.lu), Vincent Lenders (uni.lu), Valeria Loscri (FUN)"
         }
       ]
     }
