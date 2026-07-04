@@ -1,61 +1,12 @@
 {
-  "generatedAt": "2026-07-03T23:39:18.260Z",
+  "generatedAt": "2026-07-04T23:39:31.008Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "A global predicted-fMRI drive signal from TRIBE does not predict YouTube replay heatmaps",
-          "url": "https://arxiv.org/abs/2607.01400",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Deep multimodal brain-encoding models now predict fMRI responses to naturalistic video with high accuracy. Whether their predicted neural signals also forecast behavioral engagement is unknown. We run TRIBE, the winning model of the 2025…",
-          "authors": "Barada Sahu, Shivesh Pandey"
-        },
-        {
-          "title": "Analysis of Evolving Cortical Neuronal Networks Using Visual Informatics",
-          "url": "https://arxiv.org/abs/2502.20862",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Understanding how neuronal population activity changes during development and after stimulation is essential for studying neuronal network dynamics. This work examines how visual informatics can summarize high-dimensional spiking activity…",
-          "authors": "Ho Fai Po, Akke Mats Houben, Anna-Christina Haeb, Yordan P. Raykov, Daniel Tornero, Jordi Soriano, David Saad"
-        },
-        {
-          "title": "Gravity-Awareness: Deep Learning Models and LLM Simulation of Human Awareness in Altered Gravity",
-          "url": "https://arxiv.org/abs/2511.05536",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Earth s gravity fundamentally shapes human behaviour. The brain encodes this force as an internal model of gravity, enabling the prediction and interpretation of gravitational effects during perception and action. Understanding how this…",
-          "authors": "Bakytzhan Alibekov, Alina Gutoreva, Elisa Raffaella-Ferre"
-        },
-        {
-          "title": "Spatiotemporal bursting in simulated cultures of cortical neurons",
-          "url": "https://arxiv.org/abs/2602.22364",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Cultures of neurons grown on multi-electrode arrays have become a common experimental preparation for investigating developing neural networks. Experiment and simulation have shown that these developing networks eventually exhibit bursting…",
-          "authors": "Michael Stiber, Natalie Gonzales, Jewel YunHsuan Lee"
-        },
-        {
-          "title": "A frozen rate operator from the complete larval connectome: degree and weight govern the gross response, exact wiring governs input routing and mushroom-body modes",
-          "url": "https://arxiv.org/abs/2606.17745",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Connectome-constrained models now reproduce neural activity in several systems, yet each inherits a circuit's degree and weight statistics along with its exact wiring, leaving open which dynamical properties the wiring fixes beyond those…",
-          "authors": "Stavros Therianos"
-        },
-        {
-          "title": "Meta-Representational Predictive Coding: Neuroscience-Informed Self-Supervised Learning",
-          "url": "https://arxiv.org/abs/2503.21796",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Self-supervised learning has become an increasingly important paradigm in the domain of machine intelligence. Furthermore, evidence for self-supervised adaptation, such as contrastive formulations, has emerged in recent computational…",
-          "authors": "Alexander Ororbia, Karl Friston, Rajesh P. N. Rao"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -170,86 +121,61 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "BFF: Simple explanations for complex phenomena",
-          "url": "https://arxiv.org/abs/2607.01483",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The ''Computational Life'' paper (Agüera y Arcas et al., 2024) argues that paired interactions in a computational soup are an effective way to find self-replicators. In this work, aided by recent developments in self-replicator detection,…",
-          "authors": "Charlotte Knierim, Luca Versari, Robert Obryk, Blaise Agüera y Arcas, Rif A. Saurous"
-        },
-        {
-          "title": "MMAO-Cls: Metabolic Multi-Agent Optimization for Joint Feature Selection and Classifier Tuning",
-          "url": "https://arxiv.org/abs/2607.01539",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This paper studies whether the Metabolic Multi-Agent Optimizer (MMAO) can act as a credible outer-loop optimizer for classification model selection. We propose MMAO-Cls, a mixed-space realization in which each agent jointly encodes a…",
-          "authors": "Jinliang Xu, Liping Ma"
-        },
-        {
-          "title": "Mechanism and Stability Analysis of Metabolic Closed-Loop Metaheuristics",
-          "url": "https://arxiv.org/abs/2607.01551",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This paper studies the Metabolic Multi-Agent Optimizer (MMAO) at the framework level rather than at the implementation or benchmark level. The central question is whether the metabolic resource loop of private energy, communal budget, role…",
-          "authors": "Jinliang Xu, Liping Ma"
-        },
-        {
-          "title": "Evolutionary Wave Function Collapse",
-          "url": "https://arxiv.org/abs/2607.02082",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Wave Function Collapse (WFC) is a widely used procedural content generation method that learns local adjacency constraints from example inputs to generate larger outputs. In this paper, we explore combining WFC with evolutionary search by…",
-          "authors": "Dipika Rajesh, Ahmed Khalifa, Julian Togelius"
-        },
-        {
-          "title": "Electronic Bursting Neuron: design, equations and hardware implementation",
-          "url": "https://arxiv.org/abs/2607.02122",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Electronic neurons are a keystone for construction of the spiking neural networks which have numerous applications in neuroprosthetics, artificial memory, intensive calculations etc. A number of concepts of electronic neurons has been…",
-          "authors": "Lev V. Takaishvili, Vladimir I. Ponomarenko, Maksim V. Kornilov, Ilya V. Sysoev"
-        },
-        {
-          "title": "Dendritic In-Context Learning in a Single-Layer Spiking Neural Network",
-          "url": "https://arxiv.org/abs/2607.02283",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "In-context learning (ICL) operates via implicit gradient descent embedded in the forward pass of modern AI architectures -- Transformers, Mamba, state-space models, and MLPs. Capturing this capability in biologically plausible Spiking…",
-          "authors": "Juwei Shen, Yujie Wu, Changwen Chen"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 3,
+      "itemCount": 6,
       "items": [
         {
-          "title": "A mixed-signal analogue front-end for brain-implantable neural interfaces using a digital fixed-point IIR filter and bulk offset cancellation",
-          "url": "https://arxiv.org/abs/2511.12540",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Advances in miniaturised implantable neural electronics have paved the way for therapeutic brain-computer interfaces with clinical potential for movement disorders, epilepsy, and broader neurological applications. This paper presents a…",
-          "authors": "Dimitris Antoniadis, Timothy G. Constandinou"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
         },
         {
-          "title": "Antenna System for Simultaneous Wireless Power and Information Transfer to Brain Implants",
-          "url": "https://arxiv.org/abs/2607.02036",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Brain-Computer Interfaces (BCIs) have revolutionized neuroscience applications, from motor rehabilitation to neuroergonomics. Traditional implantable BCIs with invasive microelectrode arrays pose challenges, notably the need for wired…",
-          "authors": "Ali Khaleghi, Aminolah Hassanvand, Ilangko Balasingham"
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
         },
         {
-          "title": "CSI Simulation: Why Additive Noise Fails and How to Fix It",
-          "url": "https://arxiv.org/abs/2607.01882",
-          "publishedDate": "Fri, 03 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Channel State Information (CSI) has become a widely used wireless channel sensing modality for applications such as indoor localization, activity recognition, and respiration monitoring. Because collecting labeled data under every target…",
-          "authors": "Aymen Bouferroum (FUN), Ildi Alla (uni.lu), Vincent Lenders (uni.lu), Valeria Loscri (FUN)"
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }
