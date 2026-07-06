@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T23:40:31.851Z",
+  "generatedAt": "2026-07-06T23:42:11.419Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -13,6 +13,22 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Obamacare rolls shrank dramatically in many states over the past year, new federal data shows",
+          "url": "https://www.statnews.com/2026/07/06/obamacare-rolls-shrank-dramatically-affordable-care-act-states/?utm_campaign=rss",
+          "publishedDate": "Mon, 06 Jul 2026 19:58:23 +0000",
+          "source": "statnews.com",
+          "summary": "States across the country saw steep drops in the number of people covered by the Affordable Care Act over the past year, according to new federal data.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "The race for an Ebola therapy begins",
+          "url": "https://www.statnews.com/2026/07/06/health-news-race-for-an-ebola-therapy-begins/?utm_campaign=rss",
+          "publishedDate": "Mon, 06 Jul 2026 12:08:48 +0000",
+          "source": "statnews.com",
+          "summary": "Male marathoners \"hit the wall,\" mental health in 2026, and more Morning Rounds news",
+          "authors": "O. Rose Broderick, Annalisa Merelli, and Helen Branswell"
+        },
         {
           "title": "STAT+: More frequent, more intense, and longer heat waves pose health risks for Americans",
           "url": "https://www.statnews.com/2026/07/02/health-news-frequent-intense-heat-waves-pose-health-risks-for-americans/?utm_campaign=rss",
@@ -44,22 +60,6 @@
           "source": "statnews.com",
           "summary": "The influence of the alcohol industry on policy, AI Claude for scientists, and more health news from Morning Rounds",
           "authors": "Sarah Todd"
-        },
-        {
-          "title": "STAT+: Booze schmooze: The alcohol industry, frazzled by headwinds, wields its power behind the scenes",
-          "url": "https://www.statnews.com/2026/07/01/alcohol-lobby-immense-power-explored-deadliest-drug-part-7/?utm_campaign=rss",
-          "publishedDate": "Wed, 01 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Demand for alcohol is declining. The industry is fighting harder and more creatively than ever against limits — and winning.",
-          "authors": "Isabella Cueto and Lev Facher"
-        },
-        {
-          "title": "Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region",
-          "url": "https://www.statnews.com/2026/06/30/marburg-virus-cases-ugandan-ebola-outbreak-zone/?utm_campaign=rss",
-          "publishedDate": "Tue, 30 Jun 2026 15:58:19 +0000",
-          "source": "statnews.com",
-          "summary": "Sources confirm to STAT that Marburg cases have been detected in western Uganda, adding another viral hemorrhagic fever outbreak in central Africa.",
-          "authors": "Helen Branswell"
         }
       ]
     },
@@ -69,52 +69,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Scientists may have finally found how Alzheimer&#039;s kills brain cells",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260626124701.htm",
-          "publishedDate": "Sun, 05 Jul 2026 18:58:01 EDT",
+          "title": "Scientists discover why exercise reverses muscle aging",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623014026.htm",
+          "publishedDate": "Mon, 06 Jul 2026 12:51:32 EDT",
           "source": "sciencedaily.com",
-          "summary": "Researchers have identified a previously overlooked mechanism of brain cell death that appears to play a major role in Alzheimer&#039;s disease and frontotemporal dementia. The finding could lead to new treatments aimed at slowing neuron…",
+          "summary": "Researchers have uncovered a molecular “switch” that helps explain why exercise keeps ageing muscles healthy. By reducing levels of a gene called DEAF1, physical activity allows older muscles to clear out damage, repair themselves, and…",
           "authors": ""
         },
         {
-          "title": "Quantum mechanics once baffled scientists. Now it&#039;s changing the world",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
-          "publishedDate": "Sun, 05 Jul 2026 14:13:44 EDT",
+          "title": "Scientists solve a 30-year rye pollen mystery that could transform cancer research",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625014838.htm",
+          "publishedDate": "Mon, 06 Jul 2026 12:40:01 EDT",
           "source": "sciencedaily.com",
-          "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity’s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy,…",
+          "summary": "Scientists have finally solved a nearly 30-year-old mystery surrounding two unusual molecules found in rye pollen that once showed an intriguing ability to help animals fight tumors. By determining their exact 3D structures, researchers…",
           "authors": ""
         },
         {
-          "title": "Scientists discover the deep sleep circuit that builds muscle, burns fat, and boosts the brain",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260626030433.htm",
-          "publishedDate": "Sun, 05 Jul 2026 03:39:08 EDT",
+          "title": "Scientists want to quarantine alien life on the Moon before it reaches Earth",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623083144.htm",
+          "publishedDate": "Mon, 06 Jul 2026 10:39:56 EDT",
           "source": "sciencedaily.com",
-          "summary": "Researchers have identified the brain circuitry that links deep sleep with the release of growth hormone, revealing how the two regulate each other. The newly discovered feedback loop helps explain why poor sleep can interfere with growth,…",
+          "summary": "Scientists are calling for a lunar quarantine facility where samples from Mars, the Moon, and beyond would be examined before being brought to Earth. They warn that even a tiny alien microorganism could have unpredictable effects on…",
           "authors": ""
         },
         {
-          "title": "The secret to healthy aging may be hidden in your blood",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260625060212.htm",
-          "publishedDate": "Sat, 04 Jul 2026 20:45:09 EDT",
+          "title": "Millions may be getting the wrong cholesterol test",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626125714.htm",
+          "publishedDate": "Mon, 06 Jul 2026 05:03:38 EDT",
           "source": "sciencedaily.com",
-          "summary": "Some people live past 100 with remarkable health, and researchers may have uncovered one reason why. A new study found that centenarians have a unique chemical \"fingerprint\" in their blood that sets them apart from normal aging, including…",
+          "summary": "A new study suggests that apoB, a blood test that measures harmful cholesterol particles, is better than standard LDL cholesterol testing for deciding who needs more intensive treatment. Researchers found it could prevent more heart…",
           "authors": ""
         },
         {
-          "title": "A hidden weakness in deadly cancers could lead to powerful new treatments",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260626030430.htm",
-          "publishedDate": "Sat, 04 Jul 2026 15:26:54 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A UCLA study has identified a hidden Achilles&#039; heel in aggressive small cell cancers that have resisted new treatments for decades. Scientists found that tumors lacking the RB gene become critically dependent on the protein E2F3 for…",
-          "authors": ""
+          "title": "Opinion: The smart way to regulate the peptide boom",
+          "url": "https://www.statnews.com/2026/07/06/peptides-regulation-fda-middle-ground-ban/?utm_campaign=rss",
+          "publishedDate": "Mon, 06 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "“The FDA should pursue a structured, clinician-guided framework” on popular peptides, writes former surgeon general Jerome Adams.",
+          "authors": "Jerome Adams"
         },
         {
-          "title": "Johns Hopkins scientists develop nose spray DNA vaccine for tuberculosis",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260619101400.htm",
-          "publishedDate": "Sat, 04 Jul 2026 04:54:49 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new intranasal DNA vaccine may give the immune system an extra weapon against tuberculosis by targeting bacteria that can hide from antibiotics. In animal studies, it helped clear infections faster, reduced lung inflammation, and…",
-          "authors": ""
+          "title": "STAT+: GOP lawmakers push Trump’s FDA to make sure clinical trials are diverse",
+          "url": "https://www.statnews.com/2026/07/06/republican-lawmakers-attempt-clinical-trial-diversity-protection/?utm_campaign=rss",
+          "publishedDate": "Mon, 06 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Supporters say clinical trial diversity is about making sure drugs and devices work, not about DEI.",
+          "authors": "John Wilkerson"
         }
       ]
     },
