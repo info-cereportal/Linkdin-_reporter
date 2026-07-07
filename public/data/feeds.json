@@ -1,18 +1,91 @@
 {
-  "generatedAt": "2026-07-06T23:42:11.419Z",
+  "generatedAt": "2026-07-07T23:33:17.443Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Modeling the Impact of Visual Brand Language on Attention, Object Recognition, and Memory Retrieval",
+          "url": "https://arxiv.org/abs/2607.02929",
+          "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Visual brand language is the set of visual properties that convey brand identity for a product. What is the impact of visual brand language on a person's ability to recognize and understand the functional identity of an object? Using an…",
+          "authors": "Rachel F. Heaton, John E. Hummel"
+        },
+        {
+          "title": "Shunting Inhibition and Dendritic Branching Shape Local Credit Assignment",
+          "url": "https://arxiv.org/abs/2607.03556",
+          "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Biological neurons assign credit across branching dendrites, where synaptic drive, dendritic conductance, local voltage, and somatic teaching signals interact to shape synaptic plasticity. We study conductance-based dendritic networks with…",
+          "authors": "Houman Safaai, Maceo Richards, Bernardo L. Sabatini"
+        },
+        {
+          "title": "Microsecond-precision sound localization emerges from slow equilibrium dynamics",
+          "url": "https://arxiv.org/abs/2607.03890",
+          "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Precise sound localization relies on microsecond sensitivity to interaural time differences (ITDs), yet binaural perception exhibits sluggish tracking of dynamic acoustic cues. How these properties coexist remains unresolved. Here, ITD is…",
+          "authors": "Toshio Irino"
+        },
+        {
+          "title": "Learning Biophysical Models of Large-Scale Multineuronal Data to Enable Precise Neurostimulation",
+          "url": "https://arxiv.org/abs/2607.04063",
+          "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Multi-compartment Hodgkin-Huxley (HH) models provide a principled framework for predicting neural dynamics and responses to electrical stimulation. However, fitting HH biophysical parameters typically requires intracellular recordings,…",
+          "authors": "Amrith Lotlikar, Ian Christopher Tanoh, Praful Vasireddy, Andrew Lanpouthakoun, Ramandeep Vilkhu, Michael Sommeling, A. J. Phillips, Alexander Sher, Alan Litke, Scott W. Linderman, E. J. Chichilnisky, Subhasish Mitra"
+        },
+        {
+          "title": "Beyond DSA: Conjugacy-based Comparison of Dynamical Systems",
+          "url": "https://arxiv.org/abs/2607.04493",
+          "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Comparing whether two dynamical systems implement the same computation despite differences in coordinates or measurements is a central problem in neuroscience and machine learning. Dynamical Similarity Analysis [DSA; Ostrow et al., 2023]…",
+          "authors": "Prakhar Godara, Pang Shiang Tay, Marcelo G. Mattar"
+        },
+        {
+          "title": "Interpretable machine learning predicts Parkinson's disease severity using motion-corrected QSM MRI and multiband multiecho fMRI features",
+          "url": "https://arxiv.org/abs/2607.02553",
+          "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Introduction: Objective neuroimaging biomarkers may improve Parkinson's disease motor assessment by capturing brain variation not directly observable from clinical examination. We used interpretable machine learning to predict current…",
+          "authors": "Aixa X. Andrade"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Ebola outbreak exposes a fractured outbreak response system",
+          "url": "https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/?utm_campaign=rss",
+          "publishedDate": "Tue, 07 Jul 2026 12:06:47 +0000",
+          "source": "statnews.com",
+          "summary": "The costly threat to employer-based health care, Gen Z doctors, and more health news",
+          "authors": "Allison DeAngelisand Helen Branswell"
+        },
+        {
+          "title": "STAT+: For a Georgia entrepreneur, health coverage has never been affordable",
+          "url": "https://www.statnews.com/2026/07/07/aca-health-insurance-small-business-out-of-pocket-series-part-2/?utm_campaign=rss",
+          "publishedDate": "Tue, 07 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Amy Bielawski is one of the 30 million people who run their own businesses. She's gone most of her life without health insurance.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "5 takeaways from STAT’s series on the soaring cost of health insurance",
+          "url": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/?utm_campaign=rss",
+          "publishedDate": "Tue, 07 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Read the 5 key takeaways from STAT's series \"Out of Pocket, Out of Reach,\" an examination of workplace health insurance.",
+          "authors": "Bob Herman"
+        },
         {
           "title": "Obamacare rolls shrank dramatically in many states over the past year, new federal data shows",
           "url": "https://www.statnews.com/2026/07/06/obamacare-rolls-shrank-dramatically-affordable-care-act-states/?utm_campaign=rss",
@@ -27,7 +100,7 @@
           "publishedDate": "Mon, 06 Jul 2026 12:08:48 +0000",
           "source": "statnews.com",
           "summary": "Male marathoners \"hit the wall,\" mental health in 2026, and more Morning Rounds news",
-          "authors": "O. Rose Broderick, Annalisa Merelli, and Helen Branswell"
+          "authors": "O. Rose Broderick, Annalisa Merelli,and Helen Branswell"
         },
         {
           "title": "STAT+: More frequent, more intense, and longer heat waves pose health risks for Americans",
@@ -35,31 +108,7 @@
           "publishedDate": "Thu, 02 Jul 2026 11:24:59 +0000",
           "source": "statnews.com",
           "summary": "The presidential fitness test is back, surprising new data on the health risks of obesity, and more Morning Rounds news",
-          "authors": "Theresa Gaffney and Chelsea Cirruzzo"
-        },
-        {
-          "title": "The new presidential fitness test is a positive step, not the solution, experts say",
-          "url": "https://www.statnews.com/2026/07/02/presidential-fitness-test-will-it-boost-physical-activity-youth/?utm_campaign=rss",
-          "publishedDate": "Thu, 02 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Physical activity needs to be fun to keep kids engaged. And the test risks embarrassing them, instead.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Statins and blood pressure drugs changing health risks of obesity, study suggests",
-          "url": "https://www.statnews.com/2026/07/01/lancet-obesity-blood-pressure-cholesterol-study/?utm_campaign=rss",
-          "publishedDate": "Wed, 01 Jul 2026 22:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "New research shows obesity patients over 40 are managing blood pressure and cholesterol as well as healthy-weight peers, but younger adults remain at risk.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "FDA says Zyn can market its pouches as safer than cigarettes",
-          "url": "https://www.statnews.com/2026/07/01/health-news-fda-says-zyn-can-market-pouches-as-safer-than-cigarettes/?utm_campaign=rss",
-          "publishedDate": "Wed, 01 Jul 2026 11:50:18 +0000",
-          "source": "statnews.com",
-          "summary": "The influence of the alcohol industry on policy, AI Claude for scientists, and more health news from Morning Rounds",
-          "authors": "Sarah Todd"
+          "authors": "Theresa Gaffneyand Chelsea Cirruzzo"
         }
       ]
     },
@@ -69,113 +118,130 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Scientists discover why exercise reverses muscle aging",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623014026.htm",
-          "publishedDate": "Mon, 06 Jul 2026 12:51:32 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers have uncovered a molecular “switch” that helps explain why exercise keeps ageing muscles healthy. By reducing levels of a gene called DEAF1, physical activity allows older muscles to clear out damage, repair themselves, and…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists solve a 30-year rye pollen mystery that could transform cancer research",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260625014838.htm",
-          "publishedDate": "Mon, 06 Jul 2026 12:40:01 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have finally solved a nearly 30-year-old mystery surrounding two unusual molecules found in rye pollen that once showed an intriguing ability to help animals fight tumors. By determining their exact 3D structures, researchers…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists want to quarantine alien life on the Moon before it reaches Earth",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623083144.htm",
-          "publishedDate": "Mon, 06 Jul 2026 10:39:56 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists are calling for a lunar quarantine facility where samples from Mars, the Moon, and beyond would be examined before being brought to Earth. They warn that even a tiny alien microorganism could have unpredictable effects on…",
-          "authors": ""
-        },
-        {
-          "title": "Millions may be getting the wrong cholesterol test",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260626125714.htm",
-          "publishedDate": "Mon, 06 Jul 2026 05:03:38 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new study suggests that apoB, a blood test that measures harmful cholesterol particles, is better than standard LDL cholesterol testing for deciding who needs more intensive treatment. Researchers found it could prevent more heart…",
-          "authors": ""
-        },
-        {
-          "title": "Opinion: The smart way to regulate the peptide boom",
-          "url": "https://www.statnews.com/2026/07/06/peptides-regulation-fda-middle-ground-ban/?utm_campaign=rss",
-          "publishedDate": "Mon, 06 Jul 2026 08:30:00 +0000",
+          "title": "STAT+: The crumbling employer-based health insurance system",
+          "url": "https://www.statnews.com/2026/07/07/health-policy-news-today-dc-diagnosis-newsletter-john-wilkerson/?utm_campaign=rss",
+          "publishedDate": "Tue, 07 Jul 2026 15:40:29 +0000",
           "source": "statnews.com",
-          "summary": "“The FDA should pursue a structured, clinician-guided framework” on popular peptides, writes former surgeon general Jerome Adams.",
-          "authors": "Jerome Adams"
-        },
-        {
-          "title": "STAT+: GOP lawmakers push Trump’s FDA to make sure clinical trials are diverse",
-          "url": "https://www.statnews.com/2026/07/06/republican-lawmakers-attempt-clinical-trial-diversity-protection/?utm_campaign=rss",
-          "publishedDate": "Mon, 06 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Supporters say clinical trial diversity is about making sure drugs and devices work, not about DEI.",
+          "summary": "Today's D.C. Diagnosis newsletter covers maintaining diversity in drug trials and troubling trends in employer-based health insurance.",
           "authors": "John Wilkerson"
+        },
+        {
+          "title": "STAT+: America’s employer health insurance is decaying",
+          "url": "https://www.statnews.com/2026/07/07/insurance-affordability-crisis-health-care-inc-newsletter/?utm_campaign=rss",
+          "publishedDate": "Tue, 07 Jul 2026 14:58:06 +0000",
+          "source": "statnews.com",
+          "summary": "STAT's Bob Herman examines the under-the-radar crisis brewing in employer-based health insurance.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "5 takeaways from STAT’s series on the soaring cost of health insurance",
+          "url": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/?utm_campaign=rss",
+          "publishedDate": "Tue, 07 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Read the 5 key takeaways from STAT's series \"Out of Pocket, Out of Reach,\" an examination of workplace health insurance.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "STAT+: For a Georgia entrepreneur, health coverage has never been affordable",
+          "url": "https://www.statnews.com/2026/07/07/aca-health-insurance-small-business-out-of-pocket-series-part-2/?utm_campaign=rss",
+          "publishedDate": "Tue, 07 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Amy Bielawski is one of the 30 million people who run their own businesses. She's gone most of her life without health insurance.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "STAT+: America’s small businesses are giving up on health insurance",
+          "url": "https://www.statnews.com/2026/07/07/small-business-health-insurance-costs-out-of-pocket-series-part-1/?utm_campaign=rss",
+          "publishedDate": "Tue, 07 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "America's employer-based health insurance system is crumbling. STAT investigates why, in our new series, “Out of Pocket, Out of Reach.”",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "STAT+: This whistleblower took on a health insurance giant and a political machine. She’s not stopping there",
+          "url": "https://www.statnews.com/2026/07/07/employer-based-insurance-whistleblower-out-of-pocket-series-part-3/?utm_campaign=rss",
+          "publishedDate": "Tue, 07 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "America’s employers must stop acting helpless in the face of health care industry profiteering, Chris Deacon says.",
+          "authors": "Bob Herman"
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Adaptive Enhanced Quantum-inspired Simulated Bifurcation Algorithm for Population State Perception",
+          "url": "https://arxiv.org/abs/2607.02540",
+          "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Existing quantum-inspired simulated bifurcation algorithms rely on dynamic scheduling methods but lack the ability to adapt effectively to different problem instances. Additionally, during the evolutionary stage, balancing exploration and…",
+          "authors": "Dongmei Liu, Jian Li, Xiubo Chen, JinTao Wang"
+        },
+        {
+          "title": "A Spiking Sequence Generator for Polar Trajectories on Neuromorphic Hardware",
+          "url": "https://arxiv.org/abs/2607.02753",
+          "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Neuromorphic controllers for size, weight, and power-constrained systems require neural architectures that are both energy-efficient and interpretable at the level of system dynamics. However, existing approaches either rely on end-to-end…",
+          "authors": "William R. P. Nourse, Roger D. Quinn"
+        },
+        {
+          "title": "Microcosmos: Reimagining Artificial Life for the GPU Era",
+          "url": "https://arxiv.org/abs/2607.02954",
+          "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Most artificial life simulators either operate on abstract substrates disconnected from physical reality, or simulate physically grounded worlds that do not scale to the population sizes required for open-ended evolution. We present…",
+          "authors": "Mark Tensen, Ciaran Regan, Bert Wang-Chak Chan, Mizuki Oka, Kenneth O. Stanley, Grisha Szep"
+        },
+        {
+          "title": "A Large-Scale Sparse Multiobjective Optimization Algorithm Based on Optimal Performance Scores",
+          "url": "https://arxiv.org/abs/2607.04765",
+          "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Large-scale sparse multiobjective optimization problems (LSSMOPs) involve a large number of decision variables and Pareto optimal solutions with only a few nonzero variables. However, as the number of decision variables grows, it becomes…",
+          "authors": "Jia-Lin Mai, Min-Rong Chen, Guo-Qiang Zeng, Xiang Liu, Jian Weng"
+        },
+        {
+          "title": "LLM for the development of FCM",
+          "url": "https://arxiv.org/abs/2607.04983",
+          "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "This article is about the development of a fuzzy cognitive map using a local large language model. In the light of recent advances it is evident that large language models, and even local large language models are capable of extracting…",
+          "authors": "Alexis Kafantaris"
+        },
+        {
+          "title": "Towards transferable lightweight neuromorphic computing through a model-free temporal-switch framework",
+          "url": "https://arxiv.org/abs/2607.02608",
+          "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Lightweight neuromorphic computing offers a promising route to efficient AI, with particular benefits for resource-constrained edge deployments. However, its scalable deployment that can reliably transfer the expected performance has long…",
+          "authors": "Zefeng Zhang, Chao Li, Siyao Chen, Pei Chen, Bo-Wei Qin, Xumeng Zhang, Wei Lin, Qi Liu"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 2,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
+          "title": "Severity Classification of Rotor Inter-Turn Short Circuits Using Eddy-Current Vibration Signals",
+          "url": "https://arxiv.org/abs/2607.03051",
+          "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Rotor inter-turn short-circuit (ITSC) faults in synchronous generators introduce electromagnetic asymmetries that can lead to torque ripple, unbalanced magnetic pull, and progressive mechanical degradation. While most existing studies…",
+          "authors": "Ondrej Rozhon, Serge Pacome Bosson, Stepan Janous, Jakub Sevcik, Zdenek Peroutka"
         },
         {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "CRODA-ST: Single-Target Cross-Receiver Open-Set Radio Fingerprint Recognition",
+          "url": "https://arxiv.org/abs/2607.02567",
+          "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Radio frequency fingerprint identification (RFFI) provides a physical-layer credential for Internet of Things devices, but open-set decisions become fragile when a threshold calibrated on a source receiver is transferred to a target…",
+          "authors": "Fengchong Yao, Jianbing Li, Qing Liu, Kefeng Song, Haitao Li, Song Wang, Feixiang Wang"
         }
       ]
     }

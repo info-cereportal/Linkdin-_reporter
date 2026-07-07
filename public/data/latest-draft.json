@@ -1,22 +1,25 @@
 {
-  "generatedAt": "2026-07-06T23:42:10.820Z",
-  "date": "2026-07-06",
-  "topic": "深層学習と学習",
-  "templateName": "data-driven",
+  "generatedAt": "2026-07-07T23:33:16.673Z",
+  "date": "2026-07-07",
+  "topic": "fMRI",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Super-resolution deep learning reconstruction for brain fluid-attenuated inversion recovery: image quality and white matter hyperintensity volume analysis.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42406027/",
-  "formatted": "研究者もエンジニアも、この論文は必読です。\n\n数字が語る、深層学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 深層学習 × 学習\n\n> To evaluate whether super-resolution deep learning reconstruction (SR-DLR) improves two-dimensional (2D) brain fluid-attenuated inversion recovery (FLAIR) image quality while preserving automated white matter hyperintensity (WMH) volumetry, compared with Gaussian-filtered...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Super-resolution deep learning reconstruction for brain fluid-attenuated inversion recovery: image quality and white matter hyperintensity volume analysis.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42406027/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #脳情報",
-  "summaryJP": "深層学習と学習 — 数値で示された新事実（ニューロAI・計算論）",
-  "paperAuthors": "Jae-Kyun Ryu, Hei-Jung Jang, Chuluunbaatar Otgonbaatar, Junhyung Kim, Seongkyu Jeon, Hackjoon Shim",
-  "publishedDate": "2026-07-06",
-  "paperId": "42406027",
-  "paperSource": "pubmed",
-  "themeArea": "ニューロAI・計算論",
+  "paperTitle": "A global predicted-fMRI drive signal from TRIBE does not predict YouTube replay heatmaps",
+  "paperLink": "https://arxiv.org/abs/2607.01400",
+  "figureUrl": "https://arxiv.org/html/2607.01400/2607.01400v2/x1.png",
+  "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\nfMRIの最新成果を整理しました。\n\n🔬 fMRI\n\n📊 注目すべきデータ：\n→ Correlated against each video's \"most replayed\" heatmap, a proxy for re-watch, it shows no evidence of prediction: the pooled position-controlled partial correlation is +0.058...\n→ mismatched p=0.004-0.06) and none in audio, text, or the predicted cortex.\n→ The inter-subject-correlation readout, the closest prior positive result, is unavailable from the subject-averaged released model, so we fit our own per-subject encoders on the...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 A global predicted-fMRI drive signal from TRIBE does not predict YouTube replay heatmaps\n🔗 https://arxiv.org/abs/2607.01400\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #BrainComputerInterface",
+  "summaryJP": "fMRI — 注目すべき3つの示唆（神経デコーディング）",
+  "paperAuthors": "Barada Sahu, Shivesh Pandey",
+  "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
+  "paperId": "2607.01400",
+  "paperSource": "arxiv",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "深層学習",
-    "学習"
+    "fMRI"
   ],
-  "abstractExcerpt": "To evaluate whether super-resolution deep learning reconstruction (SR-DLR) improves two-dimensional (2D) brain fluid-attenuated inversion recovery (FLAIR) image quality while preserving automated white matter hyperintensity (WMH)…",
-  "figureUrls": []
+  "abstractExcerpt": "Deep multimodal brain-encoding models now predict fMRI responses to naturalistic video with high accuracy; whether their predicted neural signals also forecast behavioral engagement is unknown. We run TRIBE, the winning model of the 2025…",
+  "figureUrls": [
+    "https://arxiv.org/html/2607.01400/2607.01400v2/x1.png",
+    "https://arxiv.org/html/2607.01400/2607.01400v2/x2.png"
+  ]
 }
