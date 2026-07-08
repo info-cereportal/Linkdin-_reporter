@@ -1,25 +1,27 @@
 {
-  "generatedAt": "2026-07-07T23:33:16.673Z",
-  "date": "2026-07-07",
-  "topic": "fMRI",
-  "templateName": "three-insights",
+  "generatedAt": "2026-07-08T23:41:35.403Z",
+  "date": "2026-07-08",
+  "topic": "脳画像研究とPET",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "A global predicted-fMRI drive signal from TRIBE does not predict YouTube replay heatmaps",
-  "paperLink": "https://arxiv.org/abs/2607.01400",
-  "figureUrl": "https://arxiv.org/html/2607.01400/2607.01400v2/x1.png",
-  "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\nfMRIの最新成果を整理しました。\n\n🔬 fMRI\n\n📊 注目すべきデータ：\n→ Correlated against each video's \"most replayed\" heatmap, a proxy for re-watch, it shows no evidence of prediction: the pooled position-controlled partial correlation is +0.058...\n→ mismatched p=0.004-0.06) and none in audio, text, or the predicted cortex.\n→ The inter-subject-correlation readout, the closest prior positive result, is unavailable from the subject-averaged released model, so we fit our own per-subject encoders on the...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 A global predicted-fMRI drive signal from TRIBE does not predict YouTube replay heatmaps\n🔗 https://arxiv.org/abs/2607.01400\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #BrainComputerInterface",
-  "summaryJP": "fMRI — 注目すべき3つの示唆（神経デコーディング）",
-  "paperAuthors": "Barada Sahu, Shivesh Pandey",
-  "publishedDate": "Tue, 07 Jul 2026 00:00:00 -0400",
-  "paperId": "2607.01400",
+  "paperTitle": "Quantifying Entrainment Evidence: A Comparison of Frequentist and Bayesian Approaches for Information Processing Pathway Maps",
+  "paperLink": "https://arxiv.org/abs/2607.06284",
+  "figureUrl": "https://arxiv.org/html/2607.06284/2607.06284v1/figures/idealised-loudness-IPPM.png",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n脳画像研究とPETの最新研究です。\n\n🔬 脳画像研究 × PET\n\n📊 注目すべきデータ：\n→ Here, we present a direct comparison between the established frequentist approach and a novel Bayesian framework for mapping cortical entrainment.\n→ We discuss the implications of this shift for systems neuroscience, specifically regarding the handling of collinear models and the robust accumulation of evidence.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Quantifying Entrainment Evidence: A Comparison of Frequentist and Bayesian Approaches for Information Processing Pathway Maps\n🔗 https://arxiv.org/abs/2607.06284\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #ニューロテック",
+  "summaryJP": "脳画像研究とPET — 次世代へ続く布石（計算論的神経科学）",
+  "paperAuthors": "Kaibo Zhang, Ji Wu, Chao Zhang, Andrew Thwaites",
+  "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
+  "paperId": "2607.06284",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "計算論的神経科学",
   "jpKeywords": [
-    "fMRI"
+    "脳画像研究",
+    "PET"
   ],
-  "abstractExcerpt": "Deep multimodal brain-encoding models now predict fMRI responses to naturalistic video with high accuracy; whether their predicted neural signals also forecast behavioral engagement is unknown. We run TRIBE, the winning model of the 2025…",
+  "abstractExcerpt": "Information Processing Pathway Maps (IPPMs) offer a scalable framework for formalizing the complex sequence of mathematical transformations applied to sensory stimuli. These maps chart the latency and cortical expression of computational…",
   "figureUrls": [
-    "https://arxiv.org/html/2607.01400/2607.01400v2/x1.png",
-    "https://arxiv.org/html/2607.01400/2607.01400v2/x2.png"
+    "https://arxiv.org/html/2607.06284/2607.06284v1/figures/idealised-loudness-IPPM.png",
+    "https://arxiv.org/html/2607.06284/2607.06284v1/figures/frequentist-expression-plot.png",
+    "https://arxiv.org/html/2607.06284/2607.06284v1/figures/bayesian-expression-plot.png"
   ]
 }

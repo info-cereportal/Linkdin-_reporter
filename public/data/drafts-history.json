@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-07-08T23:41:35.403Z",
+    "date": "2026-07-08",
+    "topic": "脳画像研究とPET",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Quantifying Entrainment Evidence: A Comparison of Frequentist and Bayesian Approaches for Information Processing Pathway Maps",
+    "paperLink": "https://arxiv.org/abs/2607.06284",
+    "figureUrl": "https://arxiv.org/html/2607.06284/2607.06284v1/figures/idealised-loudness-IPPM.png",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n脳画像研究とPETの最新研究です。\n\n🔬 脳画像研究 × PET\n\n📊 注目すべきデータ：\n→ Here, we present a direct comparison between the established frequentist approach and a novel Bayesian framework for mapping cortical entrainment.\n→ We discuss the implications of this shift for systems neuroscience, specifically regarding the handling of collinear models and the robust accumulation of evidence.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Quantifying Entrainment Evidence: A Comparison of Frequentist and Bayesian Approaches for Information Processing Pathway Maps\n🔗 https://arxiv.org/abs/2607.06284\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #ニューロテック",
+    "summaryJP": "脳画像研究とPET — 次世代へ続く布石（計算論的神経科学）",
+    "paperAuthors": "Kaibo Zhang, Ji Wu, Chao Zhang, Andrew Thwaites",
+    "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
+    "paperId": "2607.06284",
+    "paperSource": "arxiv",
+    "themeArea": "計算論的神経科学",
+    "jpKeywords": [
+      "脳画像研究",
+      "PET"
+    ],
+    "abstractExcerpt": "Information Processing Pathway Maps (IPPMs) offer a scalable framework for formalizing the complex sequence of mathematical transformations applied to sensory stimuli. These maps chart the latency and cortical expression of computational…",
+    "figureUrls": [
+      "https://arxiv.org/html/2607.06284/2607.06284v1/figures/idealised-loudness-IPPM.png",
+      "https://arxiv.org/html/2607.06284/2607.06284v1/figures/frequentist-expression-plot.png",
+      "https://arxiv.org/html/2607.06284/2607.06284v1/figures/bayesian-expression-plot.png"
+    ]
+  },
+  {
     "generatedAt": "2026-07-07T23:33:16.673Z",
     "date": "2026-07-07",
     "topic": "fMRI",
@@ -1210,32 +1237,6 @@
     "paperLink": "https://arxiv.org/abs/2605.29355",
     "figureUrl": "https://arxiv.org/html/2605.29355/2605.29355v1/x1.png",
     "formatted": "脳情報科学の最新研究について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 脳情報科学\n\n📊 注目すべきデータ：\n→ Our results provide a novel proof-of-concept approach for decoding natural whole-body movements in primates using large-scale intracranial neural activity.\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかし神経デコーディングの文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Neural-Behavioral Representation of Natural Whole-body Movement in Monkeys\n🔗 https://arxiv.org/abs/2605.29355\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #ニューロテック",
-    "summaryJP": "脳情報科学の最新研究 — 常識への問題提起（神経デコーディング）",
-    "paperAuthors": "Jieshi He, Puzhe Li, Yanan Sui, Mu-ming Poo",
-    "publishedDate": "Fri, 29 May 2026 00:00:00 -0400",
-    "paperId": "2605.29355",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "脳情報科学"
-    ],
-    "abstractExcerpt": "Understanding how cortical activity represents natural whole-body behaviors in primates remains challenging. Limited by the diversity of movements and inaccessibility of large-scale neural representation of whole-body kinematics, previous…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.29355/2605.29355v1/x1.png",
-      "https://arxiv.org/html/2605.29355/2605.29355v1/x2.png",
-      "https://arxiv.org/html/2605.29355/2605.29355v1/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-05-29T17:59:57.499Z",
-    "date": "2026-05-29",
-    "topic": "脳情報科学の最新研究",
-    "templateName": "provocative-question",
-    "riskScore": 0,
-    "paperTitle": "Neural-Behavioral Representation of Natural Whole-body Movement in Monkeys",
-    "paperLink": "https://arxiv.org/abs/2605.29355",
-    "figureUrl": "https://arxiv.org/html/2605.29355/2605.29355v1/x1.png",
-    "formatted": "脳情報科学の最新研究について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 脳情報科学\n\n📊 注目すべきデータ：\n→ Our results provide a novel proof-of-concept approach for decoding natural whole-body movements in primates using large-scale intracranial neural activity.\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかし神経デコーディングの文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Neural-Behavioral Representation of Natural Whole-body Movement in Monkeys\n🔗 https://arxiv.org/abs/2605.29355\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #ニューロテック",
     "summaryJP": "脳情報科学の最新研究 — 常識への問題提起（神経デコーディング）",
     "paperAuthors": "Jieshi He, Puzhe Li, Yanan Sui, Mu-ming Poo",
     "publishedDate": "Fri, 29 May 2026 00:00:00 -0400",
