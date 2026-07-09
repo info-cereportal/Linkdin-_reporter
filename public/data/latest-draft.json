@@ -1,27 +1,24 @@
 {
-  "generatedAt": "2026-07-08T23:41:35.403Z",
-  "date": "2026-07-08",
-  "topic": "脳画像研究とPET",
-  "templateName": "future-vision",
+  "generatedAt": "2026-07-09T23:48:45.917Z",
+  "date": "2026-07-09",
+  "topic": "生物学的妥当性",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Quantifying Entrainment Evidence: A Comparison of Frequentist and Bayesian Approaches for Information Processing Pathway Maps",
-  "paperLink": "https://arxiv.org/abs/2607.06284",
-  "figureUrl": "https://arxiv.org/html/2607.06284/2607.06284v1/figures/idealised-loudness-IPPM.png",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n脳画像研究とPETの最新研究です。\n\n🔬 脳画像研究 × PET\n\n📊 注目すべきデータ：\n→ Here, we present a direct comparison between the established frequentist approach and a novel Bayesian framework for mapping cortical entrainment.\n→ We discuss the implications of this shift for systems neuroscience, specifically regarding the handling of collinear models and the robust accumulation of evidence.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Quantifying Entrainment Evidence: A Comparison of Frequentist and Bayesian Approaches for Information Processing Pathway Maps\n🔗 https://arxiv.org/abs/2607.06284\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #ニューロテック",
-  "summaryJP": "脳画像研究とPET — 次世代へ続く布石（計算論的神経科学）",
-  "paperAuthors": "Kaibo Zhang, Ji Wu, Chao Zhang, Andrew Thwaites",
-  "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
-  "paperId": "2607.06284",
+  "paperTitle": "Single-Entity Spiking Neuron Models: Survey",
+  "paperLink": "https://arxiv.org/abs/2607.07429",
+  "figureUrl": "https://arxiv.org/html/2607.07429/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n生物学的妥当性に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 生物学的妥当性\n\n> In this work, we reviewed different approaches in mathematical modeling of biologically plausible neural systems. Models are characterized and classified based on their common features and special use cases.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Single-Entity Spiking Neuron Models: Survey\n🔗 https://arxiv.org/abs/2607.07429\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #BrainComputerInterface",
+  "summaryJP": "生物学的妥当性 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+  "paperAuthors": "Leon Parepko, Danila Shulepin, Albert Nasybullin",
+  "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
+  "paperId": "2607.07429",
   "paperSource": "arxiv",
-  "themeArea": "計算論的神経科学",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "脳画像研究",
-    "PET"
+    "生物学的妥当性"
   ],
-  "abstractExcerpt": "Information Processing Pathway Maps (IPPMs) offer a scalable framework for formalizing the complex sequence of mathematical transformations applied to sensory stimuli. These maps chart the latency and cortical expression of computational…",
+  "abstractExcerpt": "In this work, we reviewed different approaches in mathematical modeling of biologically plausible neural systems. Models are characterized and classified based on their common features and special use cases. In addition to spiking models,…",
   "figureUrls": [
-    "https://arxiv.org/html/2607.06284/2607.06284v1/figures/idealised-loudness-IPPM.png",
-    "https://arxiv.org/html/2607.06284/2607.06284v1/figures/frequentist-expression-plot.png",
-    "https://arxiv.org/html/2607.06284/2607.06284v1/figures/bayesian-expression-plot.png"
+    "https://arxiv.org/html/2607.07429/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
   ]
 }

@@ -1,51 +1,35 @@
 {
-  "generatedAt": "2026-07-08T23:41:35.971Z",
+  "generatedAt": "2026-07-09T23:48:46.647Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 5,
+      "itemCount": 3,
       "items": [
         {
-          "title": "Governable Individuals: An Identity Layer for Embodied Agents That Keep Learning",
-          "url": "https://arxiv.org/abs/2607.05463",
-          "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
+          "title": "Reward Valuation in Vision Language Models: Causal Mechanisms Underlying Anhedonia",
+          "url": "https://arxiv.org/abs/2607.06626",
+          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Embodied artificial intelligence is moving from deployable models to persistent agents that learn in the field, acquire skills and migrate across bodies. Governing such a system means governing an individual, not a model, and existing…",
-          "authors": "Xue Qin, Simin Luan, Cong Yang, Zhijun Li"
+          "summary": "Recent Vision-Language Models capture increasingly complex aspects of human cognition. Here we ask whether this alignment extends to reward valuation, which we assess in a mechanistic framework built on clinical tests that were developed…",
+          "authors": "Melika Honarmand, Samin Mahdipour Aghabagher, Martin Schrimpf"
         },
         {
-          "title": "On the Increased and Decreased Connectivity of the Demented Human Brain",
-          "url": "https://arxiv.org/abs/2607.05654",
-          "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
+          "title": "STST-JEPA: Shallow-Target Spatio-Temporal Joint Embedding Prediction Architecture For EEG Self-Supervised Learning",
+          "url": "https://arxiv.org/abs/2607.06629",
+          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "With the enormous advances in cerebral imaging techniques, a large amount of data is available for studying the aging and demented brain. In this contribution, we apply the OASIS-3 dataset for identifying small areas of the human gray…",
-          "authors": "Daniel Hegedus, Marton Barnabas Mora, Balint Varga, Vince Grolmusz"
+          "summary": "Brain age -- the age inferred from a physiological recording -- is an emerging biomarker whose deviation from chronological age tracks neurological and psychiatric burden, and EEG is an attractive substrate for it because it is cheap,…",
+          "authors": "Roy Segal, Yoni Svechinsky, Tomer Fekete"
         },
         {
-          "title": "Using hierarchical statistical learning models to model individual statistical learning",
-          "url": "https://arxiv.org/abs/2607.05822",
-          "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
+          "title": "Single-Entity Spiking Neuron Models: Survey",
+          "url": "https://arxiv.org/abs/2607.07429",
+          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Statistical learning is essential for individuals to discover structure in the sensory environment, especially during communication via speech or music. Individual differences in statistical learning abilities have been proposed to account…",
-          "authors": "Hanna Ringer, Tatsuya Daikoku"
-        },
-        {
-          "title": "Quantifying Entrainment Evidence: A Comparison of Frequentist and Bayesian Approaches for Information Processing Pathway Maps",
-          "url": "https://arxiv.org/abs/2607.06284",
-          "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Information Processing Pathway Maps (IPPMs) offer a scalable framework for formalizing the complex sequence of mathematical transformations applied to sensory stimuli. These maps chart the latency and cortical expression of computational…",
-          "authors": "Kaibo Zhang, Ji Wu, Chao Zhang, Andrew Thwaites"
-        },
-        {
-          "title": "From Organization to Viability: A Multi-Level Analysis of Gait Dynamics Under Occlusal Constraint",
-          "url": "https://arxiv.org/abs/2605.13893",
-          "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Clinical interpretation often assumes that observable performance sufficiently reflects the organization of an adaptive system. However, similar observable performance may arise from distinct latent organizations. This study extends a…",
-          "authors": "Jacques Raynal, Pierre Slangen, Elsa Raynal, Jacques Margerit"
+          "summary": "In this work, we reviewed different approaches in mathematical modeling of biologically plausible neural systems. Models are characterized and classified based on their common features and special use cases. In addition to spiking models,…",
+          "authors": "Leon Parepko, Danila Shulepin, Albert Nasybullin"
         }
       ]
     },
@@ -55,52 +39,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
+          "url": "https://www.statnews.com/2026/07/09/cyclospora-outbreak-faq-diarrhea-causing-parasite/?utm_campaign=rss",
+          "publishedDate": "Thu, 09 Jul 2026 15:01:27 +0000",
+          "source": "statnews.com",
+          "summary": "An outbreak of diarrhea-causing parasite has grown to more than 1,000 cases, making it one of the nation’s largest such outbreaks in years.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "STAT+: FDA finalists under review",
+          "url": "https://www.statnews.com/2026/07/09/fda-commissioner-finalists-under-review-obamacare-premiums-surge-again/?utm_campaign=rss",
+          "publishedDate": "Thu, 09 Jul 2026 14:50:49 +0000",
+          "source": "statnews.com",
+          "summary": "Three top contenders to run the FDA are under review by the White House",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Who’s going to run the FDA?",
+          "url": "https://www.statnews.com/2026/07/09/health-news-whos-going-to-run-the-fda/?utm_campaign=rss",
+          "publishedDate": "Thu, 09 Jul 2026 11:24:36 +0000",
+          "source": "statnews.com",
+          "summary": "RFK Jr.'s list of Covid vaccine injuries, a father's quest to cure his daughter, and more health news from Morning Rounds",
+          "authors": "Damian Garde"
+        },
+        {
+          "title": "STAT+: The quest to save Grace — and clear the way for rare disease patients everywhere",
+          "url": "https://www.statnews.com/2026/07/09/matt-wilsey-grace-science-rare-disease-drug-development-ngly1/?utm_campaign=rss",
+          "publishedDate": "Thu, 09 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "How a father’s quest may shape the future of rare disease gene therapy.",
+          "authors": "Jason Mast and Matthew Herper"
+        },
+        {
+          "title": "What happens on ‘MAHA Monday’?",
+          "url": "https://www.statnews.com/2026/07/09/maha-mondays-great-american-state-fair-status-report-alex-hogan/?utm_campaign=rss",
+          "publishedDate": "Thu, 09 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "STAT's Alex Hogan and Chelsea Cirruzzo stopped by \"MAHA Monday\" at the Great American State Fair. Watch their report in this week's STATus Report.",
+          "authors": "Alex Hogan"
+        },
+        {
           "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
           "url": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss",
           "publishedDate": "Wed, 08 Jul 2026 20:41:01 +0000",
           "source": "statnews.com",
           "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely.",
           "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Bryan Johnson’s chronic disease is notoriously difficult to diagnose",
-          "url": "https://www.statnews.com/2026/07/08/bryan-johnson-autoimmune-gastritis-diagnosis-explained/?utm_campaign=rss",
-          "publishedDate": "Wed, 08 Jul 2026 16:13:21 +0000",
-          "source": "statnews.com",
-          "summary": "Why longevity entrepreneur Bryan Johnson’s chronic disease is notoriously difficult to diagnose.",
-          "authors": "Sarah Todd"
-        },
-        {
-          "title": "Affordable Care Act insurers want more premium increases as enrollment sags",
-          "url": "https://www.statnews.com/2026/07/08/affordable-care-act-insurers-premium-increases-enrollment-dips/?utm_campaign=rss",
-          "publishedDate": "Wed, 08 Jul 2026 15:31:21 +0000",
-          "source": "statnews.com",
-          "summary": "For the second year in a row, many Affordable Care Act insurers are proposing double-digit premium increases, driven by rising medical costs as well as federal policy changes.",
-          "authors": "Rachel Spears — KFF Health News"
-        },
-        {
-          "title": "Transplants extended survival for patients whose stage 4 lung cancer hadn’t spread, study says",
-          "url": "https://www.statnews.com/2026/07/08/lung-transplant-advanced-cancer-study-results-ethics-jama/?utm_campaign=rss",
-          "publishedDate": "Wed, 08 Jul 2026 15:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "Lung cancer patients hadn't been seen as candidates for organ transplant. Now a study finds patients did well.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "Another big premium hike on the horizon",
-          "url": "https://www.statnews.com/2026/07/08/health-news-more-big-premium-hikes-on-the-horizon/?utm_campaign=rss",
-          "publishedDate": "Wed, 08 Jul 2026 11:43:19 +0000",
-          "source": "statnews.com",
-          "summary": "FDA's crackdown on online ketamine retailers, unprecedented health care premium hikes, and more health news from Morning Rounds",
-          "authors": "Isabella Cueto and Lizzy Lawrence"
-        },
-        {
-          "title": "Are glucose monitors a good thing for 2-year-olds? Experts look at risks, benefits",
-          "url": "https://www.statnews.com/2026/07/08/dexcom-stelo-cgm-risk-benefit-otc-glucose-monitoring-children/?utm_campaign=rss",
-          "publishedDate": "Wed, 08 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The newly approved over-the-counter CGM offers a new approach to tackling childhood obesity but also raises a host of questions.",
-          "authors": "Lauren Chan"
         }
       ]
     },
@@ -110,52 +94,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
-          "url": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss",
-          "publishedDate": "Wed, 08 Jul 2026 20:41:01 +0000",
+          "title": "STAT+: FDA finalists under review",
+          "url": "https://www.statnews.com/2026/07/09/fda-commissioner-finalists-under-review-obamacare-premiums-surge-again/?utm_campaign=rss",
+          "publishedDate": "Thu, 09 Jul 2026 14:50:49 +0000",
           "source": "statnews.com",
-          "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely.",
-          "authors": "Chelsea Cirruzzo"
+          "summary": "Three top contenders to run the FDA are under review by the White House",
+          "authors": "John Wilkerson"
         },
         {
-          "title": "STAT+: White House reviewing top contenders to lead FDA",
-          "url": "https://www.statnews.com/2026/07/08/new-fda-commissioner-finalists-under-white-house-review/?utm_campaign=rss",
-          "publishedDate": "Wed, 08 Jul 2026 18:51:54 +0000",
-          "source": "statnews.com",
-          "summary": "The White House is reviewing finalists for FDA commissioner, suggesting the highly anticipated decision may come soon.",
-          "authors": "Daniel Payne"
-        },
-        {
-          "title": "STAT+: In private meeting, Trump officials push to onshore generic drugmaking",
-          "url": "https://www.statnews.com/2026/07/08/trump-officials-want-to-make-generic-medicines-in-the-us/?utm_campaign=rss",
-          "publishedDate": "Wed, 08 Jul 2026 16:44:30 +0000",
-          "source": "statnews.com",
-          "summary": "Marco Rubio, RFK Jr., and Chris Klomp are urging industry leaders to make more medicines in the U.S.",
-          "authors": "Daniel Payne"
-        },
-        {
-          "title": "Creatine doesn&#039;t just build muscle. It may also help fight cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260701015237.htm",
-          "publishedDate": "Wed, 08 Jul 2026 05:32:21 EDT",
+          "title": "A vitamin A discovery is changing what scientists know about vision",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
+          "publishedDate": "Thu, 09 Jul 2026 01:15:15 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that creatine may strengthen one of the immune system&#039;s most important cancer-fighting pathways by energizing dendritic cells that activate killer T cells. The promising results could eventually help make…",
+          "summary": "A surprising discovery is reshaping scientists&#039; understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina&#039;s center, the study found they transform into red…",
           "authors": ""
         },
         {
-          "title": "Can&#039;t stick to a diet? Intermittent fasting may be easier than counting calories for weight loss",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260701015247.htm",
-          "publishedDate": "Wed, 08 Jul 2026 04:46:47 EDT",
+          "title": "The Ozempic and Wegovy mistake sending thousands to poison control",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260708022204.htm",
+          "publishedDate": "Thu, 09 Jul 2026 00:02:10 EDT",
           "source": "sciencedaily.com",
-          "summary": "Intermittent fasting helped people lose as much weight as calorie restriction, but without the same feeling of constantly controlling their food intake. Researchers say that difference could make fasting a more sustainable option for…",
+          "summary": "Poison control calls involving semaglutide (Ozempic and Wegovy) soared after the drug was approved for weight management, with researchers linking the increase to accidental dosing mistakes rather than intentional misuse. Simple education…",
           "authors": ""
         },
         {
-          "title": "STAT+: Trump administration pursues more durable changes to science policy after setbacks in court",
-          "url": "https://www.statnews.com/2026/07/08/trump-research-funding-scientists-see-omb-overreach-control/?utm_campaign=rss",
-          "publishedDate": "Wed, 08 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The White House has proposed sweeping changes to the bedrock regulation undergirding all federal contracts, empowering the executive branch to direct research, terminate grants, and external scientific reviews.",
-          "authors": "Anil Oza"
+          "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
+          "publishedDate": "Wed, 08 Jul 2026 22:48:06 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually…",
+          "authors": ""
+        },
+        {
+          "title": "Tiny silica particles wiped out aggressive prostate cancer in mice",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260708022158.htm",
+          "publishedDate": "Wed, 08 Jul 2026 22:18:49 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Tiny silica nanoparticles engineered to seek out prostate cancer caused tumor cells to self-destruct and supercharged the immune system in preclinical mouse studies. Combined with immunotherapy, the treatment produced complete remissions…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists finally crack nature&#039;s secret for building better cancer drugs",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260701205001.htm",
+          "publishedDate": "Wed, 08 Jul 2026 17:28:31 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers have cracked the code behind bacteria&#039;s ability to naturally manufacture multiple versions of powerful anti-cancer drugs. The discovery could make it much easier to engineer new cancer treatments inspired by nature,…",
+          "authors": ""
         }
       ]
     },
@@ -165,83 +149,67 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Neuromorphic Silicon Neuron Controller for Adaptive Deep Brain Stimulation in Parkinson's Disease",
-          "url": "https://arxiv.org/abs/2607.05453",
-          "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
+          "title": "An Introduction and Tutorial of the Beagle Framework",
+          "url": "https://arxiv.org/abs/2607.06731",
+          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Parkinson's disease (PD) affects millions worldwide and causes severe motor symptoms. Adaptive deep brain stimulation (aDBS) delivers physiologically informed stimulation that can track fluctuations in PD motor symptoms, enabling more…",
-          "authors": "Md Abu Bakr Siddique, Jakub Orłowski, Yan Zhang, Hongyu An"
+          "summary": "The Beagle framework is a GPU-based genetic programming framework that enables highly efficient genetic programming search using large population sizes by leveraging NVIDIA GPUs. This technical guide provides an introduction to the Beagle…",
+          "authors": "Ilya Basin, Nathan Haut, Wolfgang Banzhaf"
         },
         {
-          "title": "Scalable Perturbation Learning for Online Self-Supervised Echo State Networks",
-          "url": "https://arxiv.org/abs/2607.06079",
-          "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
+          "title": "Dynamic neural manifolds for flexible closed-loop control on neuromorphic hardware",
+          "url": "https://arxiv.org/abs/2607.07373",
+          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Intelligent systems should not only solve tasks but also adapt under real-world constraints. Autonomous adaptation via self-supervised learning, sequential adaptation via online learning, and memory-efficient implementation via…",
-          "authors": "Taiki Yamada, Kantaro Fujiwara"
+          "summary": "In biological circuits, sequential neural activity evolves along dynamic, low-dimensional manifolds to enable flexible behavior. Spiking network models link aspects of this sequential activity to features of manifold geometry through…",
+          "authors": "Oskar von Seeler, Christian Tetzlaff, Andrew Lehr"
         },
         {
-          "title": "A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks",
-          "url": "https://arxiv.org/abs/2607.06456",
-          "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
+          "title": "Single-Entity Spiking Neuron Models: Survey",
+          "url": "https://arxiv.org/abs/2607.07429",
+          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Energy-efficient neuromorphic computing at the edge requires simulation tools that can capture the non-ideal behavior of mixed-signal spiking neural network (SNN) hardware while supporting system-level design exploration. This work…",
-          "authors": "Sayma Nowshin Chowdhury, Vineeta Nair, Taseen Forhad, Aishwarya Natarajan, Corey Hart, Sahil Shah"
+          "summary": "In this work, we reviewed different approaches in mathematical modeling of biologically plausible neural systems. Models are characterized and classified based on their common features and special use cases. In addition to spiking models,…",
+          "authors": "Leon Parepko, Danila Shulepin, Albert Nasybullin"
         },
         {
-          "title": "ADSEQ: A delay-aware autograd-compatible framework for spike-event delivery in SNNs",
-          "url": "https://arxiv.org/abs/2512.05906",
-          "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
+          "title": "Social-spatial dependencies for learning visual navigation",
+          "url": "https://arxiv.org/abs/2607.07460",
+          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking neural networks (SNNs), central to computational neuroscience and neuromorphic machine learning (ML), require efficient simulation and gradient-based training. While AI accelerators offer promising speedups, gradient-based SNNs…",
-          "authors": "Lennart P. L. Landsmeer, Amirreza Movahedin, Said Hamdioui, Christos Strydis"
+          "summary": "Navigation for social organisms rarely is a fully independent activity. Group structure and dynamics, as well as embodied interactions, critically influence useful behavior. Individual neural network controlled agents are trained to…",
+          "authors": "Patrick Govoni, Pawel Romanczuk"
         },
         {
-          "title": "Variable Search Stepsize for Randomized Local Search in Multi-Objective Combinatorial Optimization",
-          "url": "https://arxiv.org/abs/2602.05675",
-          "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
+          "title": "Intrinsic-Noise Consolidation: A Doob-Barrier-Conditioned Diffusion Turns Analog Device Noise into a Continual-Learning Resource",
+          "url": "https://arxiv.org/abs/2607.06924",
+          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Over the past two decades, research in evolutionary multi-objective optimization has predominantly focused on continuous domains, with comparatively limited attention given to multi-objective combinatorial optimization problems (MOCOPs).…",
-          "authors": "Xuepeng Ren, Maocai Wang, Guangming Dai, Zimin Liang, Qianrong Liu, Shengxiang Yang, Miqing Li"
+          "summary": "On analog neuromorphic hardware, intrinsic device noise is normally an accuracy tax. We ask whether it can instead consolidate memories. We cast per-synapse consolidation as a Doob h-transform: condition each weight's stochastic dynamics…",
+          "authors": "Gunner Levi Howe"
         },
         {
-          "title": "Finding Low Star Discrepancy 3D Kronecker Point Sets Using Algorithm Configuration Techniques",
-          "url": "https://arxiv.org/abs/2604.00786",
-          "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
+          "title": "MEGO: Learning Mixture-of-Experts for General-Purpose Binary Optimization",
+          "url": "https://arxiv.org/abs/2405.18884",
+          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The L infinity star discrepancy is a measure for how uniformly a point set is distributed in a given space. Point sets of low star discrepancy are used as designs of experiments, as initial designs for Bayesian optimization algorithms, for…",
-          "authors": "Imène Ait Abderrahim, Carola Doerr, Martin Durand"
+          "summary": "Discrete optimization is ubiquitous in science and engineering. The vast array of existing discrete optimization problems, coupled with the continuous emergence of new ones, necessitates off-the-shelf optimizers capable of generating…",
+          "authors": "Shengcai Liu, Zhiyuan Wang, Yew-Soon Ong, Xin Yao, Ke Tang"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 3,
+      "itemCount": 1,
       "items": [
         {
-          "title": "DBNN: Neural Spike Classification Using a Deep Binarized Neural Network",
-          "url": "https://arxiv.org/abs/2607.05590",
-          "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
+          "title": "When Certificates Fail: A Unified Safety Framework for Embedded Neural Interface Models",
+          "url": "https://arxiv.org/abs/2607.06630",
+          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Implantable brain-computer interfaces require on-node spike sorting to reduce telemetry bandwidth and power while maintaining reliable neural decoding. This paper presents a hardware-oriented deep binarized neural network (DBNN)…",
-          "authors": "Binyi Ren, Luca M. Meyer, Majid Zamani"
-        },
-        {
-          "title": "Agentic AI for IPoDWDM Network Lifecycle Automation: An MCP-Enabled Architecture",
-          "url": "https://arxiv.org/abs/2607.05958",
-          "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We present a distributed, vendor-agnostic multi-MCP architecture for SDN-based automation and autonomous control of multi-vendor, multi-layer IPoDWDM networks. The framework enables E2E service lifecycle automation, closed-loop cross-layer…",
-          "authors": "Chunmin Xia, Jakub Harbaczewski, Nikhil Dsilva, Julie Raulin, Dominic Schneider, Achim Autenrieth"
-        },
-        {
-          "title": "Spatiotemporal Synchronization of Distributed Arrays using Particle-Based Loopy Belief Propagation",
-          "url": "https://arxiv.org/abs/2504.00744",
-          "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Sensing and imaging with distributed radio infrastructures (e.g., distributed MIMO, wireless sensor networks, multistatic radar) rely on knowledge of the positions, orientations, and clock parameters of distributed apertures. We extend a…",
-          "authors": "Benjamin J. B. Deutschmann, Peter Vouras"
+          "summary": "Formal robustness certificates for embedded neural-interface models can pass while task accuracy collapses: at perturbation budget e=0.25, EEGNet classification accuracy drops by 25.7% under projected-gradient attack while the…",
+          "authors": "Jasmeet Singh Bindra"
         }
       ]
     }
