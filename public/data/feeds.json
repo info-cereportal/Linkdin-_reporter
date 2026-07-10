@@ -1,35 +1,59 @@
 {
-  "generatedAt": "2026-07-09T23:48:46.647Z",
+  "generatedAt": "2026-07-10T23:34:43.564Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 3,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Reward Valuation in Vision Language Models: Causal Mechanisms Underlying Anhedonia",
-          "url": "https://arxiv.org/abs/2607.06626",
-          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
+          "title": "A Non-Hermitian Potential Well Formalism for Conscious--Preconscious--Subliminal Processing",
+          "url": "https://arxiv.org/abs/2607.08302",
+          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent Vision-Language Models capture increasingly complex aspects of human cognition. Here we ask whether this alignment extends to reward valuation, which we assess in a mechanistic framework built on clinical tests that were developed…",
-          "authors": "Melika Honarmand, Samin Mahdipour Aghabagher, Martin Schrimpf"
+          "summary": "We propose a phenomenological model of the Global Neuronal Workspace (GNW) in which early sensory processing generates an effective complex-valued landscape governing the dynamics of high-level stimulus representations. This landscape…",
+          "authors": "Vasily Lubashevskiy, Ihor Lubashevsky"
         },
         {
-          "title": "STST-JEPA: Shallow-Target Spatio-Temporal Joint Embedding Prediction Architecture For EEG Self-Supervised Learning",
-          "url": "https://arxiv.org/abs/2607.06629",
-          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
+          "title": "Contravariance Theory: Strong Alignment for Minimal Solutions to Hard Tasks",
+          "url": "https://arxiv.org/abs/2607.08561",
+          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brain age -- the age inferred from a physiological recording -- is an emerging biomarker whose deviation from chronological age tracks neurological and psychiatric burden, and EEG is an attractive substrate for it because it is cheap,…",
-          "authors": "Roy Segal, Yoni Svechinsky, Tomer Fekete"
+          "summary": "A series of results from the NeuroAI over the past fifteen years have raised core questions both about how to compare Deep Neural Network (DNN) models to the brain, and about how much convergent evolution to expect between artificial…",
+          "authors": "Dan Yamins, Aran Nayebi"
         },
         {
-          "title": "Single-Entity Spiking Neuron Models: Survey",
-          "url": "https://arxiv.org/abs/2607.07429",
-          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
+          "title": "Topological decoding of grid cell activity via path lifting to covering spaces",
+          "url": "https://arxiv.org/abs/2510.16216",
+          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In this work, we reviewed different approaches in mathematical modeling of biologically plausible neural systems. Models are characterized and classified based on their common features and special use cases. In addition to spiking models,…",
-          "authors": "Leon Parepko, Danila Shulepin, Albert Nasybullin"
+          "summary": "High-dimensional neural activity often reside in a low-dimensional subspace, referred to as neural manifolds. Grid cells in the medial entorhinal cortex provide a periodic spatial code that are organized near a toroidal manifold,…",
+          "authors": "Yuxing Jared Yao, Iris H. R. Yoon"
+        },
+        {
+          "title": "Extended predictive coding framework as variational free-energy minimisation under exponential-family assumption",
+          "url": "https://arxiv.org/abs/2605.30882",
+          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The sensory cortices of the brain perform perceptual inference efficiently through their complex networks of neurons. One of the theoretical accounts of this process is the free-energy principle (FEP), which postulates that the brain…",
+          "authors": "Asaki Kataoka, Kenji Doya"
+        },
+        {
+          "title": "Human-like Object Grouping in Self-supervised Vision Transformers",
+          "url": "https://arxiv.org/abs/2603.13994",
+          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Vision foundation models trained with self-supervised objectives achieve strong performance across diverse tasks and exhibit emergent object segmentation properties. However, their alignment with human object perception remains poorly…",
+          "authors": "Hossein Adeli, Seoyoung Ahn, Andrew Luo, Mengmi Zhang, Nikolaus Kriegeskorte, Gregory Zelinsky"
+        },
+        {
+          "title": "Synchronization modes in bipartite oscillator networks",
+          "url": "https://arxiv.org/abs/2606.20345",
+          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Collective oscillations in neuronal systems often arise from interactions between excitatory and inhibitory populations rather than from recurrent coupling within a single ensemble. Motivated by the coexistence of strongly and partially…",
+          "authors": "Pau Pomés, Bastian Pietras, Ernest Montbrió"
         }
       ]
     },
@@ -38,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Nominee for key federal health role has a history of questioning vaccines",
+          "url": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss",
+          "publishedDate": "Fri, 10 Jul 2026 19:27:36 +0000",
+          "source": "statnews.com",
+          "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "FDA quietly pushes back deadline on electric shock ban",
+          "url": "https://www.statnews.com/2026/07/10/health-news-fda-quietly-pushes-back-deadline-on-electric-shock-ban/?utm_campaign=rss",
+          "publishedDate": "Fri, 10 Jul 2026 11:51:52 +0000",
+          "source": "statnews.com",
+          "summary": "Massachusetts' biggest nursing strike ever, tackling the male loneliness epidemic, and other health news for Morning Rounds",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "New York boys club has a time-tested recipe to protect members’ mental health",
+          "url": "https://www.statnews.com/2026/07/10/bcny-approach-boys-mental-health-connection-belonging-mentors/?utm_campaign=rss",
+          "publishedDate": "Fri, 10 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "At a time when attention is deservedly being turned to the mental health crisis in boys, the Boys' Club of New York is a shelter from the storm for many&#8230;",
+          "authors": "Annalisa Merelli"
+        },
+        {
+          "title": "STAT+: How a Boston doctor built a following as a ‘loud and unafraid’ voice in the Trump era",
+          "url": "https://www.statnews.com/2026/07/10/jeremy-faust-inside-medicine-trump-era/?utm_campaign=rss",
+          "publishedDate": "Fri, 10 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Jeremy Faust saves lives in the ER and breaks stories with his Inside Medicine newsletter. He’s also testing the bounds of news reporting.",
+          "authors": "Anna Kuchment — Boston Globe"
+        },
         {
           "title": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
           "url": "https://www.statnews.com/2026/07/09/cyclospora-outbreak-faq-diarrhea-causing-parasite/?utm_campaign=rss",
@@ -53,38 +109,6 @@
           "source": "statnews.com",
           "summary": "Three top contenders to run the FDA are under review by the White House",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "Who’s going to run the FDA?",
-          "url": "https://www.statnews.com/2026/07/09/health-news-whos-going-to-run-the-fda/?utm_campaign=rss",
-          "publishedDate": "Thu, 09 Jul 2026 11:24:36 +0000",
-          "source": "statnews.com",
-          "summary": "RFK Jr.'s list of Covid vaccine injuries, a father's quest to cure his daughter, and more health news from Morning Rounds",
-          "authors": "Damian Garde"
-        },
-        {
-          "title": "STAT+: The quest to save Grace — and clear the way for rare disease patients everywhere",
-          "url": "https://www.statnews.com/2026/07/09/matt-wilsey-grace-science-rare-disease-drug-development-ngly1/?utm_campaign=rss",
-          "publishedDate": "Thu, 09 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "How a father’s quest may shape the future of rare disease gene therapy.",
-          "authors": "Jason Mast and Matthew Herper"
-        },
-        {
-          "title": "What happens on ‘MAHA Monday’?",
-          "url": "https://www.statnews.com/2026/07/09/maha-mondays-great-american-state-fair-status-report-alex-hogan/?utm_campaign=rss",
-          "publishedDate": "Thu, 09 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "STAT's Alex Hogan and Chelsea Cirruzzo stopped by \"MAHA Monday\" at the Great American State Fair. Watch their report in this week's STATus Report.",
-          "authors": "Alex Hogan"
-        },
-        {
-          "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
-          "url": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss",
-          "publishedDate": "Wed, 08 Jul 2026 20:41:01 +0000",
-          "source": "statnews.com",
-          "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely.",
-          "authors": "Chelsea Cirruzzo"
         }
       ]
     },
@@ -94,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: FDA finalists under review",
-          "url": "https://www.statnews.com/2026/07/09/fda-commissioner-finalists-under-review-obamacare-premiums-surge-again/?utm_campaign=rss",
-          "publishedDate": "Thu, 09 Jul 2026 14:50:49 +0000",
+          "title": "Nominee for key federal health role has a history of questioning vaccines",
+          "url": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss",
+          "publishedDate": "Fri, 10 Jul 2026 19:27:36 +0000",
           "source": "statnews.com",
-          "summary": "Three top contenders to run the FDA are under review by the White House",
-          "authors": "John Wilkerson"
+          "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
+          "authors": "Chelsea Cirruzzo"
         },
         {
-          "title": "A vitamin A discovery is changing what scientists know about vision",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
-          "publishedDate": "Thu, 09 Jul 2026 01:15:15 EDT",
+          "title": "STAT+: How a Boston doctor built a following as a ‘loud and unafraid’ voice in the Trump era",
+          "url": "https://www.statnews.com/2026/07/10/jeremy-faust-inside-medicine-trump-era/?utm_campaign=rss",
+          "publishedDate": "Fri, 10 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Jeremy Faust saves lives in the ER and breaks stories with his Inside Medicine newsletter. He’s also testing the bounds of news reporting.",
+          "authors": "Anna Kuchment — Boston Globe"
+        },
+        {
+          "title": "New MRI breakthrough reveals the brain and eye like never before",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626125712.htm",
+          "publishedDate": "Fri, 10 Jul 2026 01:18:49 EDT",
           "source": "sciencedaily.com",
-          "summary": "A surprising discovery is reshaping scientists&#039; understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina&#039;s center, the study found they transform into red…",
+          "summary": "Scientists have redesigned a key piece of MRI hardware using metamaterials, allowing existing scanners to produce clearer images of difficult-to-see parts of the body in less time. The breakthrough could improve diagnoses, make scans more…",
           "authors": ""
         },
         {
-          "title": "The Ozempic and Wegovy mistake sending thousands to poison control",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260708022204.htm",
-          "publishedDate": "Thu, 09 Jul 2026 00:02:10 EDT",
+          "title": "This frog bacterium wiped out cancer tumors in mice with a single dose",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260709160655.htm",
+          "publishedDate": "Fri, 10 Jul 2026 00:13:15 EDT",
           "source": "sciencedaily.com",
-          "summary": "Poison control calls involving semaglutide (Ozempic and Wegovy) soared after the drug was approved for weight management, with researchers linking the increase to accidental dosing mistakes rather than intentional misuse. Simple education…",
+          "summary": "A naturally occurring bacterium from amphibian intestines completely eliminated colorectal tumors in mice with a single treatment by both attacking cancer cells and activating the immune system. The findings point to a promising new type…",
           "authors": ""
         },
         {
-          "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
-          "publishedDate": "Wed, 08 Jul 2026 22:48:06 EDT",
+          "title": "Scientists found a longevity diet that helped mice eat more and lose fat",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260708022206.htm",
+          "publishedDate": "Thu, 09 Jul 2026 22:54:41 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually…",
+          "summary": "Scientists found that a modified Mediterranean-style diet with low protein and just enough methionine helped mice live healthier lives while reducing body fat and frailty. Human data also linked lower animal protein intake to lower rates…",
           "authors": ""
         },
         {
-          "title": "Tiny silica particles wiped out aggressive prostate cancer in mice",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260708022158.htm",
-          "publishedDate": "Wed, 08 Jul 2026 22:18:49 EDT",
+          "title": "Scientists just debunked a dangerous baby rattlesnake myth",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260707054123.htm",
+          "publishedDate": "Thu, 09 Jul 2026 21:59:50 EDT",
           "source": "sciencedaily.com",
-          "summary": "Tiny silica nanoparticles engineered to seek out prostate cancer caused tumor cells to self-destruct and supercharged the immune system in preclinical mouse studies. Combined with immunotherapy, the treatment produced complete remissions…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists finally crack nature&#039;s secret for building better cancer drugs",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260701205001.htm",
-          "publishedDate": "Wed, 08 Jul 2026 17:28:31 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers have cracked the code behind bacteria&#039;s ability to naturally manufacture multiple versions of powerful anti-cancer drugs. The discovery could make it much easier to engineer new cancer treatments inspired by nature,…",
+          "summary": "A new study debunks the long-standing claim that baby rattlesnakes are more dangerous than adults. Researchers found that young rattlesnakes can control their venom just like adults, while adult snakes usually inject much more venom and…",
           "authors": ""
         }
       ]
@@ -149,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "An Introduction and Tutorial of the Beagle Framework",
-          "url": "https://arxiv.org/abs/2607.06731",
-          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
+          "title": "Sampling on Random Subspaces under Limited Data in the Context of Exploratory Landscape Analysis",
+          "url": "https://arxiv.org/abs/2607.07854",
+          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The Beagle framework is a GPU-based genetic programming framework that enables highly efficient genetic programming search using large population sizes by leveraging NVIDIA GPUs. This technical guide provides an introduction to the Beagle…",
-          "authors": "Ilya Basin, Nathan Haut, Wolfgang Banzhaf"
+          "summary": "Classical space-filling designs often fail to provide reliable statistical results for Exploratory Landscape Analysis (ELA) when only limited evaluation budgets are available, as commonly occurs in high-dimensional problems or other…",
+          "authors": "Iván Olarte Rodríguez, Anja Jankovic, Thomas Bäck, Elena Raponi"
         },
         {
-          "title": "Dynamic neural manifolds for flexible closed-loop control on neuromorphic hardware",
-          "url": "https://arxiv.org/abs/2607.07373",
-          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
+          "title": "($\\theta_l, \\theta_u$)-Parametric Multi-Task Optimization: Joint Search in Solution and Infinite Task Spaces",
+          "url": "https://arxiv.org/abs/2503.08394",
+          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In biological circuits, sequential neural activity evolves along dynamic, low-dimensional manifolds to enable flexible behavior. Spiking network models link aspects of this sequential activity to features of manifold geometry through…",
-          "authors": "Oskar von Seeler, Christian Tetzlaff, Andrew Lehr"
+          "summary": "Multi-task optimization is typically characterized by a fixed and finite set of tasks. The present paper relaxes this condition by considering a non-fixed and potentially infinite set of optimization tasks defined in a parameterized,…",
+          "authors": "Tingyang Wei, Jiao Liu, Abhishek Gupta, Puay Siew Tan, Yew-Soon Ong"
         },
         {
-          "title": "Single-Entity Spiking Neuron Models: Survey",
-          "url": "https://arxiv.org/abs/2607.07429",
-          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
+          "title": "Mass Conservation as an Inductive Bias for Self-Organized Criticality in NCA Reservoirs",
+          "url": "https://arxiv.org/abs/2606.23115",
+          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In this work, we reviewed different approaches in mathematical modeling of biologically plausible neural systems. Models are characterized and classified based on their common features and special use cases. In addition to spiking models,…",
-          "authors": "Leon Parepko, Danila Shulepin, Albert Nasybullin"
+          "summary": "Self-organized criticality (SOC), a dynamical regime associated with maximal information processing, offers a promising foundation for reservoir computing. Recent work has shown that neural cellular automata (NCA) can be evolved toward…",
+          "authors": "Tong Zhang, Etienne Guichard, Sidney Pontes-Filho, Stefano Nichele"
         },
         {
-          "title": "Social-spatial dependencies for learning visual navigation",
-          "url": "https://arxiv.org/abs/2607.07460",
-          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
+          "title": "LLM for the development of FCM",
+          "url": "https://arxiv.org/abs/2607.04983",
+          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Navigation for social organisms rarely is a fully independent activity. Group structure and dynamics, as well as embodied interactions, critically influence useful behavior. Individual neural network controlled agents are trained to…",
-          "authors": "Patrick Govoni, Pawel Romanczuk"
+          "summary": "This article is about the development of a fuzzy cognitive map using a local large language model. In the light of recent advances it is evident that large language models, and even local large language models are capable of extracting…",
+          "authors": "Alexis Kafantaris"
         },
         {
-          "title": "Intrinsic-Noise Consolidation: A Doob-Barrier-Conditioned Diffusion Turns Analog Device Noise into a Continual-Learning Resource",
-          "url": "https://arxiv.org/abs/2607.06924",
-          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
+          "title": "Does Dimensionality Reduction via Random Projections Preserve Landscape Features?",
+          "url": "https://arxiv.org/abs/2604.13230",
+          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "On analog neuromorphic hardware, intrinsic device noise is normally an accuracy tax. We ask whether it can instead consolidate memories. We cast per-synapse consolidation as a Doob h-transform: condition each weight's stochastic dynamics…",
-          "authors": "Gunner Levi Howe"
+          "summary": "Exploratory Landscape Analysis (ELA) provides numerical features for characterizing black-box optimization problems. In high-dimensional settings, however, ELA suffers from sparsity effects, high estimator variance, and the prohibitive…",
+          "authors": "Iván Olarte Rodríguez, Anja Jankovic, Thomas Bäck, Elena Raponi"
         },
         {
-          "title": "MEGO: Learning Mixture-of-Experts for General-Purpose Binary Optimization",
-          "url": "https://arxiv.org/abs/2405.18884",
-          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
+          "title": "A Non-Hermitian Potential Well Formalism for Conscious--Preconscious--Subliminal Processing",
+          "url": "https://arxiv.org/abs/2607.08302",
+          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Discrete optimization is ubiquitous in science and engineering. The vast array of existing discrete optimization problems, coupled with the continuous emergence of new ones, necessitates off-the-shelf optimizers capable of generating…",
-          "authors": "Shengcai Liu, Zhiyuan Wang, Yew-Soon Ong, Xin Yao, Ke Tang"
+          "summary": "We propose a phenomenological model of the Global Neuronal Workspace (GNW) in which early sensory processing generates an effective complex-valued landscape governing the dynamics of high-level stimulus representations. This landscape…",
+          "authors": "Vasily Lubashevskiy, Ihor Lubashevsky"
         }
       ]
     },
@@ -204,12 +228,12 @@
       "itemCount": 1,
       "items": [
         {
-          "title": "When Certificates Fail: A Unified Safety Framework for Embedded Neural Interface Models",
-          "url": "https://arxiv.org/abs/2607.06630",
-          "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
+          "title": "Generalization Theory for Through-the-Wall Radar Human Activity Recognition",
+          "url": "https://arxiv.org/abs/2607.08144",
+          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Formal robustness certificates for embedded neural-interface models can pass while task accuracy collapses: at perturbation budget e=0.25, EEGNet classification accuracy drops by 25.7% under projected-gradient attack while the…",
-          "authors": "Jasmeet Singh Bindra"
+          "summary": "Through-the-wall radar (TWR) human activity recognition (HAR) is important for non-line-of-sight indoor sensing, security monitoring, and emergency rescue. However, structured distribution shifts caused by person variation,…",
+          "authors": "Weicheng Gao"
         }
       ]
     }
