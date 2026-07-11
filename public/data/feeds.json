@@ -1,61 +1,12 @@
 {
-  "generatedAt": "2026-07-10T23:34:43.564Z",
+  "generatedAt": "2026-07-11T23:34:21.526Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "A Non-Hermitian Potential Well Formalism for Conscious--Preconscious--Subliminal Processing",
-          "url": "https://arxiv.org/abs/2607.08302",
-          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We propose a phenomenological model of the Global Neuronal Workspace (GNW) in which early sensory processing generates an effective complex-valued landscape governing the dynamics of high-level stimulus representations. This landscape…",
-          "authors": "Vasily Lubashevskiy, Ihor Lubashevsky"
-        },
-        {
-          "title": "Contravariance Theory: Strong Alignment for Minimal Solutions to Hard Tasks",
-          "url": "https://arxiv.org/abs/2607.08561",
-          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "A series of results from the NeuroAI over the past fifteen years have raised core questions both about how to compare Deep Neural Network (DNN) models to the brain, and about how much convergent evolution to expect between artificial…",
-          "authors": "Dan Yamins, Aran Nayebi"
-        },
-        {
-          "title": "Topological decoding of grid cell activity via path lifting to covering spaces",
-          "url": "https://arxiv.org/abs/2510.16216",
-          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "High-dimensional neural activity often reside in a low-dimensional subspace, referred to as neural manifolds. Grid cells in the medial entorhinal cortex provide a periodic spatial code that are organized near a toroidal manifold,…",
-          "authors": "Yuxing Jared Yao, Iris H. R. Yoon"
-        },
-        {
-          "title": "Extended predictive coding framework as variational free-energy minimisation under exponential-family assumption",
-          "url": "https://arxiv.org/abs/2605.30882",
-          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The sensory cortices of the brain perform perceptual inference efficiently through their complex networks of neurons. One of the theoretical accounts of this process is the free-energy principle (FEP), which postulates that the brain…",
-          "authors": "Asaki Kataoka, Kenji Doya"
-        },
-        {
-          "title": "Human-like Object Grouping in Self-supervised Vision Transformers",
-          "url": "https://arxiv.org/abs/2603.13994",
-          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Vision foundation models trained with self-supervised objectives achieve strong performance across diverse tasks and exhibit emergent object segmentation properties. However, their alignment with human object perception remains poorly…",
-          "authors": "Hossein Adeli, Seoyoung Ahn, Andrew Luo, Mengmi Zhang, Nikolaus Kriegeskorte, Gregory Zelinsky"
-        },
-        {
-          "title": "Synchronization modes in bipartite oscillator networks",
-          "url": "https://arxiv.org/abs/2606.20345",
-          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Collective oscillations in neuronal systems often arise from interactions between excitatory and inhibitory populations rather than from recurrent coupling within a single ensemble. Motivated by the coexistence of strongly and partially…",
-          "authors": "Pau Pomés, Bastian Pietras, Ernest Montbrió"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -118,122 +69,113 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Experimental drug reverses severe fatty liver disease by repairing the gut",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260711010116.htm",
+          "publishedDate": "Sat, 11 Jul 2026 09:22:55 EDT",
+          "source": "sciencedaily.com",
+          "summary": "An experimental drug called DT-109 reversed severe fatty liver disease in animal studies by repairing the gut and preventing harmful toxins from damaging the liver. The discovery could open the door to a new class of treatments for MASH…",
+          "authors": ""
+        },
+        {
+          "title": "Second pregnancy changes the brain in surprising new ways",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260711010125.htm",
+          "publishedDate": "Sat, 11 Jul 2026 07:37:04 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers found that every pregnancy rewires the brain in its own way, with a second pregnancy bringing a different pattern of changes than the first. The discoveries could lead to better ways to recognize and treat maternal mental…",
+          "authors": ""
+        },
+        {
+          "title": "Why the human body has so many design flaws",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260709160641.htm",
+          "publishedDate": "Fri, 10 Jul 2026 22:35:02 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Many of the body&#039;s biggest flaws are the result of evolution building on old designs instead of starting over. Our spine, eyes, teeth, pelvis, and even certain nerves all reveal compromises that worked well enough for survival but…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover the one nutrient beneficial parasites can&#039;t live without",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260707054114.htm",
+          "publishedDate": "Fri, 10 Jul 2026 19:59:04 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new study found that dietary fiber can determine whether beneficial intestinal worms help reduce inflammation or become essentially inactive. With plenty of fiber, the worms remained healthy and supported an anti-inflammatory response,…",
+          "authors": ""
+        },
+        {
+          "title": "Heavy marijuana smoking may increase cancer risk, researchers warn",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260708022217.htm",
+          "publishedDate": "Fri, 10 Jul 2026 18:16:14 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Heavy marijuana smoking may raise the risk of lung cancer and several head and neck cancers, according to growing research, but many important questions remain unanswered. Scientists are still trying to determine how much marijuana use is…",
+          "authors": ""
+        },
+        {
           "title": "Nominee for key federal health role has a history of questioning vaccines",
           "url": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss",
           "publishedDate": "Fri, 10 Jul 2026 19:27:36 +0000",
           "source": "statnews.com",
           "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
           "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: How a Boston doctor built a following as a ‘loud and unafraid’ voice in the Trump era",
-          "url": "https://www.statnews.com/2026/07/10/jeremy-faust-inside-medicine-trump-era/?utm_campaign=rss",
-          "publishedDate": "Fri, 10 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Jeremy Faust saves lives in the ER and breaks stories with his Inside Medicine newsletter. He’s also testing the bounds of news reporting.",
-          "authors": "Anna Kuchment — Boston Globe"
-        },
-        {
-          "title": "New MRI breakthrough reveals the brain and eye like never before",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260626125712.htm",
-          "publishedDate": "Fri, 10 Jul 2026 01:18:49 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have redesigned a key piece of MRI hardware using metamaterials, allowing existing scanners to produce clearer images of difficult-to-see parts of the body in less time. The breakthrough could improve diagnoses, make scans more…",
-          "authors": ""
-        },
-        {
-          "title": "This frog bacterium wiped out cancer tumors in mice with a single dose",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260709160655.htm",
-          "publishedDate": "Fri, 10 Jul 2026 00:13:15 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A naturally occurring bacterium from amphibian intestines completely eliminated colorectal tumors in mice with a single treatment by both attacking cancer cells and activating the immune system. The findings point to a promising new type…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists found a longevity diet that helped mice eat more and lose fat",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260708022206.htm",
-          "publishedDate": "Thu, 09 Jul 2026 22:54:41 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists found that a modified Mediterranean-style diet with low protein and just enough methionine helped mice live healthier lives while reducing body fat and frailty. Human data also linked lower animal protein intake to lower rates…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists just debunked a dangerous baby rattlesnake myth",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260707054123.htm",
-          "publishedDate": "Thu, 09 Jul 2026 21:59:50 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new study debunks the long-standing claim that baby rattlesnakes are more dangerous than adults. Researchers found that young rattlesnakes can control their venom just like adults, while adult snakes usually inject much more venom and…",
-          "authors": ""
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Sampling on Random Subspaces under Limited Data in the Context of Exploratory Landscape Analysis",
-          "url": "https://arxiv.org/abs/2607.07854",
-          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Classical space-filling designs often fail to provide reliable statistical results for Exploratory Landscape Analysis (ELA) when only limited evaluation budgets are available, as commonly occurs in high-dimensional problems or other…",
-          "authors": "Iván Olarte Rodríguez, Anja Jankovic, Thomas Bäck, Elena Raponi"
-        },
-        {
-          "title": "($\\theta_l, \\theta_u$)-Parametric Multi-Task Optimization: Joint Search in Solution and Infinite Task Spaces",
-          "url": "https://arxiv.org/abs/2503.08394",
-          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Multi-task optimization is typically characterized by a fixed and finite set of tasks. The present paper relaxes this condition by considering a non-fixed and potentially infinite set of optimization tasks defined in a parameterized,…",
-          "authors": "Tingyang Wei, Jiao Liu, Abhishek Gupta, Puay Siew Tan, Yew-Soon Ong"
-        },
-        {
-          "title": "Mass Conservation as an Inductive Bias for Self-Organized Criticality in NCA Reservoirs",
-          "url": "https://arxiv.org/abs/2606.23115",
-          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Self-organized criticality (SOC), a dynamical regime associated with maximal information processing, offers a promising foundation for reservoir computing. Recent work has shown that neural cellular automata (NCA) can be evolved toward…",
-          "authors": "Tong Zhang, Etienne Guichard, Sidney Pontes-Filho, Stefano Nichele"
-        },
-        {
-          "title": "LLM for the development of FCM",
-          "url": "https://arxiv.org/abs/2607.04983",
-          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This article is about the development of a fuzzy cognitive map using a local large language model. In the light of recent advances it is evident that large language models, and even local large language models are capable of extracting…",
-          "authors": "Alexis Kafantaris"
-        },
-        {
-          "title": "Does Dimensionality Reduction via Random Projections Preserve Landscape Features?",
-          "url": "https://arxiv.org/abs/2604.13230",
-          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Exploratory Landscape Analysis (ELA) provides numerical features for characterizing black-box optimization problems. In high-dimensional settings, however, ELA suffers from sparsity effects, high estimator variance, and the prohibitive…",
-          "authors": "Iván Olarte Rodríguez, Anja Jankovic, Thomas Bäck, Elena Raponi"
-        },
-        {
-          "title": "A Non-Hermitian Potential Well Formalism for Conscious--Preconscious--Subliminal Processing",
-          "url": "https://arxiv.org/abs/2607.08302",
-          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We propose a phenomenological model of the Global Neuronal Workspace (GNW) in which early sensory processing generates an effective complex-valued landscape governing the dynamics of high-level stimulus representations. This landscape…",
-          "authors": "Vasily Lubashevskiy, Ihor Lubashevsky"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 1,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Generalization Theory for Through-the-Wall Radar Human Activity Recognition",
-          "url": "https://arxiv.org/abs/2607.08144",
-          "publishedDate": "Fri, 10 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Through-the-wall radar (TWR) human activity recognition (HAR) is important for non-line-of-sight indoor sensing, security monitoring, and emergency rescue. However, structured distribution shifts caused by person variation,…",
-          "authors": "Weicheng Gao"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
+        },
+        {
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }
