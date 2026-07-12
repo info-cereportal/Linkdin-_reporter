@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T23:34:21.526Z",
+  "generatedAt": "2026-07-12T23:33:14.135Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -13,6 +13,14 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Tau in the spotlight at Alzheimer’s conference",
+          "url": "https://www.statnews.com/2026/07/12/aaic-in-30-alzheimers-treaatments-focus-on-tau-blood-brain-barrier/?utm_campaign=rss",
+          "publishedDate": "Sun, 12 Jul 2026 20:01:45 +0000",
+          "source": "statnews.com",
+          "summary": "From STAT's AAIC in 30 newsletter: Researchers focus on tau, and progress on crossing the blood-brain barrier.",
+          "authors": "Andrew Joseph"
+        },
         {
           "title": "Nominee for key federal health role has a history of questioning vaccines",
           "url": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss",
@@ -30,14 +38,6 @@
           "authors": "O. Rose Broderick"
         },
         {
-          "title": "New York boys club has a time-tested recipe to protect members’ mental health",
-          "url": "https://www.statnews.com/2026/07/10/bcny-approach-boys-mental-health-connection-belonging-mentors/?utm_campaign=rss",
-          "publishedDate": "Fri, 10 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "At a time when attention is deservedly being turned to the mental health crisis in boys, the Boys' Club of New York is a shelter from the storm for many&#8230;",
-          "authors": "Annalisa Merelli"
-        },
-        {
           "title": "STAT+: How a Boston doctor built a following as a ‘loud and unafraid’ voice in the Trump era",
           "url": "https://www.statnews.com/2026/07/10/jeremy-faust-inside-medicine-trump-era/?utm_campaign=rss",
           "publishedDate": "Fri, 10 Jul 2026 08:30:00 +0000",
@@ -46,20 +46,20 @@
           "authors": "Anna Kuchment — Boston Globe"
         },
         {
+          "title": "New York boys club has a time-tested recipe to protect members’ mental health",
+          "url": "https://www.statnews.com/2026/07/10/bcny-approach-boys-mental-health-connection-belonging-mentors/?utm_campaign=rss",
+          "publishedDate": "Fri, 10 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "At a time when attention is deservedly being turned to the mental health crisis in boys, the Boys' Club of New York is a shelter from the storm for many&#8230;",
+          "authors": "Annalisa Merelli"
+        },
+        {
           "title": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
           "url": "https://www.statnews.com/2026/07/09/cyclospora-outbreak-faq-diarrhea-causing-parasite/?utm_campaign=rss",
           "publishedDate": "Thu, 09 Jul 2026 15:01:27 +0000",
           "source": "statnews.com",
           "summary": "An outbreak of diarrhea-causing parasite has grown to more than 1,000 cases, making it one of the nation’s largest such outbreaks in years.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "STAT+: FDA finalists under review",
-          "url": "https://www.statnews.com/2026/07/09/fda-commissioner-finalists-under-review-obamacare-premiums-surge-again/?utm_campaign=rss",
-          "publishedDate": "Thu, 09 Jul 2026 14:50:49 +0000",
-          "source": "statnews.com",
-          "summary": "Three top contenders to run the FDA are under review by the White House",
-          "authors": "John Wilkerson"
         }
       ]
     },
@@ -69,52 +69,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Alzheimer&#039;s tau protein has a surprising secret role in memory",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260710003535.htm",
+          "publishedDate": "Sun, 12 Jul 2026 08:53:12 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers found that tau is essential for turning new experiences into lasting memories by helping organize the brain&#039;s memory-storing cells. The mouse study also revealed how abnormal tau may contribute to Alzheimer&#039;s by…",
+          "authors": ""
+        },
+        {
+          "title": "This ultrasound treatment may help stop arthritis before it starts",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260710003521.htm",
+          "publishedDate": "Sun, 12 Jul 2026 06:07:21 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A simple, non-invasive ultrasound treatment could one day help injured joints heal instead of remaining trapped in a cycle of damaging inflammation. Researchers at The University of Alabama in Huntsville found that continuous low-intensity…",
+          "authors": ""
+        },
+        {
+          "title": "Columbia scientists discover surprising link between serotonin and heart valve disease",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260711010131.htm",
+          "publishedDate": "Sat, 11 Jul 2026 23:11:19 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered evidence that serotonin, the chemical best known for regulating mood, may also speed the progression of a common heart valve disease in some people. The research suggests that patients with degenerative mitral…",
+          "authors": ""
+        },
+        {
+          "title": "Yale scientists may have found how Parkinson&#039;s disease spreads through the brain",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260710003529.htm",
+          "publishedDate": "Sat, 11 Jul 2026 22:06:14 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Yale scientists discovered two neuron surface proteins that appear to help spread the toxic protein linked to Parkinson’s disease. Blocking these proteins in mice dramatically reduced disease progression, offering a potential new target…",
+          "authors": ""
+        },
+        {
+          "title": "Common blood pressure drug could make cancer therapy far more powerful",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260709160648.htm",
+          "publishedDate": "Sat, 11 Jul 2026 19:42:15 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers found that the common blood pressure drug telmisartan can significantly improve the performance of the cancer drug olaparib, potentially expanding its benefits beyond patients with BRCA-related tumors. The combination is…",
+          "authors": ""
+        },
+        {
           "title": "Experimental drug reverses severe fatty liver disease by repairing the gut",
           "url": "https://www.sciencedaily.com/releases/2026/07/260711010116.htm",
           "publishedDate": "Sat, 11 Jul 2026 09:22:55 EDT",
           "source": "sciencedaily.com",
           "summary": "An experimental drug called DT-109 reversed severe fatty liver disease in animal studies by repairing the gut and preventing harmful toxins from damaging the liver. The discovery could open the door to a new class of treatments for MASH…",
           "authors": ""
-        },
-        {
-          "title": "Second pregnancy changes the brain in surprising new ways",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260711010125.htm",
-          "publishedDate": "Sat, 11 Jul 2026 07:37:04 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers found that every pregnancy rewires the brain in its own way, with a second pregnancy bringing a different pattern of changes than the first. The discoveries could lead to better ways to recognize and treat maternal mental…",
-          "authors": ""
-        },
-        {
-          "title": "Why the human body has so many design flaws",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260709160641.htm",
-          "publishedDate": "Fri, 10 Jul 2026 22:35:02 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Many of the body&#039;s biggest flaws are the result of evolution building on old designs instead of starting over. Our spine, eyes, teeth, pelvis, and even certain nerves all reveal compromises that worked well enough for survival but…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover the one nutrient beneficial parasites can&#039;t live without",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260707054114.htm",
-          "publishedDate": "Fri, 10 Jul 2026 19:59:04 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new study found that dietary fiber can determine whether beneficial intestinal worms help reduce inflammation or become essentially inactive. With plenty of fiber, the worms remained healthy and supported an anti-inflammatory response,…",
-          "authors": ""
-        },
-        {
-          "title": "Heavy marijuana smoking may increase cancer risk, researchers warn",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260708022217.htm",
-          "publishedDate": "Fri, 10 Jul 2026 18:16:14 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Heavy marijuana smoking may raise the risk of lung cancer and several head and neck cancers, according to growing research, but many important questions remain unanswered. Scientists are still trying to determine how much marijuana use is…",
-          "authors": ""
-        },
-        {
-          "title": "Nominee for key federal health role has a history of questioning vaccines",
-          "url": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss",
-          "publishedDate": "Fri, 10 Jul 2026 19:27:36 +0000",
-          "source": "statnews.com",
-          "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
-          "authors": "Chelsea Cirruzzo"
         }
       ]
     },
