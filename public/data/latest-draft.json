@@ -1,22 +1,27 @@
 {
-  "generatedAt": "2026-07-12T23:33:13.204Z",
-  "date": "2026-07-12",
-  "topic": "表現学習と学習",
-  "templateName": "data-driven",
+  "generatedAt": "2026-07-13T23:31:06.281Z",
+  "date": "2026-07-13",
+  "topic": "意思決定",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Neural Representation Learning for Compact and Efficient Modeling of Monte Carlo Phase Space Data.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42436738/",
-  "formatted": "研究者もエンジニアも、この論文は必読です。\n\n数字が語る、表現学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 表現学習 × 学習\n\n> Monte Carlo (MC) simulations provide gold standard dose calculations in radiation therapy but generate large phase space (PHSP) files that limit clinical implementation. We developed NeRP-MC, the first neural representation learning approach for PHSP data modeling, and evaluated...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Neural Representation Learning for Compact and Efficient Modeling of Monte Carlo Phase Space Data.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42436738/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #DeepLearning",
-  "summaryJP": "表現学習と学習 — 数値で示された新事実（神経デコーディング）",
-  "paperAuthors": "Serdar Charyyev, Cynthia Chuang, Yong Yang, Lei Xing, Lianli Liu",
-  "publishedDate": "2026-07-12",
-  "paperId": "42436738",
-  "paperSource": "pubmed",
+  "paperTitle": "Minimal Decision Dynamics and Contextual Probability: A Quantum Tug-of-War Model",
+  "paperLink": "https://arxiv.org/abs/2601.10034",
+  "figureUrl": "https://arxiv.org/html/2601.10034/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
+  "formatted": "研究者もエンジニアも、この論文は必読です。\n\nこの研究から得られる3つの重要な示唆。\n\n意思決定の最新成果を整理しました。\n\n🔬 意思決定 × 意思決定 × 学習 × 記憶\n\n> Decision making often exhibits context dependence that challenges classical probability theory. This paper develops a quantum-like extension of the Tug-of-War (QTOW) decision-making model to clarify when such context dependence can be represented by a single minimal internal...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Minimal Decision Dynamics and Contextual Probability: A Quantum Tug-of-War Model\n🔗 https://arxiv.org/abs/2601.10034\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #NeuroAI",
+  "summaryJP": "意思決定 — 注目すべき3つの示唆（神経デコーディング）",
+  "paperAuthors": "Song-Ju Kim",
+  "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+  "paperId": "2601.10034",
+  "paperSource": "arxiv",
   "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "表現学習",
-    "学習"
+    "意思決定",
+    "意思決定",
+    "学習",
+    "記憶"
   ],
-  "abstractExcerpt": "Monte Carlo (MC) simulations provide gold standard dose calculations in radiation therapy but generate large phase space (PHSP) files that limit clinical implementation. We developed NeRP-MC, the first neural representation learning…",
-  "figureUrls": []
+  "abstractExcerpt": "Decision making often exhibits context dependence that challenges classical probability theory. This paper develops a quantum-like extension of the Tug-of-War (QTOW) decision-making model to clarify when such context dependence can be…",
+  "figureUrls": [
+    "https://arxiv.org/html/2601.10034/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
+  ]
 }

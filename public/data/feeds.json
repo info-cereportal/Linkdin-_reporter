@@ -1,18 +1,99 @@
 {
-  "generatedAt": "2026-07-12T23:33:14.135Z",
+  "generatedAt": "2026-07-13T23:31:06.648Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Spatial Neighboring Scattering Transform: A Cross-Channel Amplitude Coupling Measure for EEG Connectivity",
+          "url": "https://arxiv.org/abs/2607.08855",
+          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The functional organization of the brain relies on coordinated activity across spatially distributed regions, making the analysis of inter-regional dependencies fundamental. Existing connectivity measures address this predominantly through…",
+          "authors": "Md. Taksimul Ahsan Tawhid, Nasif Ahmed Rafe, Alif Tahmid Priyom, K. M. Mustafizur Rahman"
+        },
+        {
+          "title": "Structural Brain Predictors of Visual Attention Gradient Modulated by Trait Anxiety",
+          "url": "https://arxiv.org/abs/2607.09278",
+          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Dynamic allocation of attention across the visual field, quantified as a visuospatial attention gradient, is essential for maintaining perceptual breadth. Disruptions to this flexibility may contribute to altered spatial attentional bias…",
+          "authors": "Suhail Rafiq Mir, Dolcy Dhar, Ishita Singh, Prakrati Gupta, Varsha Singh, Mrinmoy Chakrabarty"
+        },
+        {
+          "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
+          "url": "https://arxiv.org/abs/2607.09662",
+          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve (AUC) of approximately…",
+          "authors": "Ren Takahashi, Emre Yusuf, Jayabrata Bhaduri"
+        },
+        {
+          "title": "Minimal Decision Dynamics and Contextual Probability: A Quantum Tug-of-War Model",
+          "url": "https://arxiv.org/abs/2601.10034",
+          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Decision making often exhibits context dependence that challenges classical probability theory. This paper develops a quantum-like extension of the Tug-of-War (QTOW) decision-making model to clarify when such context dependence can be…",
+          "authors": "Song-Ju Kim"
+        },
+        {
+          "title": "Quantum Logic as the Logic of Contexts",
+          "url": "https://arxiv.org/abs/2607.09032",
+          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Quantum logic is usually presented as a non-classical departure from ordinary reasoning forced on us by quantum mechanics, with classical logic kept as the secure starting point. We argue for the opposite order of explanation in a finite…",
+          "authors": "Haruki Emori, Atsushi Iriki, Andrei Khrennikov, Kazunori Kondo"
+        },
+        {
+          "title": "A multi-ensemble mean-field reduction method for networks of globally coupled phase oscillators with arbitrary parameter distributions",
+          "url": "https://arxiv.org/abs/2607.09516",
+          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Understanding the dynamical properties of coupled phase oscillator systems with heterogeneous oscillator frequencies has been a long-standing challenge of complex systems theory. While the seminal work of Ott and Antonsen dramatically…",
+          "authors": "Richard Gast, Shotaro Takasu, Helmut Schmidt, Ann Kennedy"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Dementia study replicates promising outcomes following risk-reduction strategies",
+          "url": "https://www.statnews.com/2026/07/13/aaic-in-30-alzheimers-treaatments-dementia-day-2-conference/?utm_campaign=rss",
+          "publishedDate": "Mon, 13 Jul 2026 16:49:15 +0000",
+          "source": "statnews.com",
+          "summary": "A dementia prevention trial praised as a \"landmark\" effort further demonstrated the promise of structured programs tailored to local cultures.",
+          "authors": "Andrew Joseph"
+        },
+        {
+          "title": "Martha Lillard, last U.S. polio patient using iron lung, dies at 78 in Oklahoma",
+          "url": "https://www.statnews.com/2026/07/13/martha-lillard-last-us-polio-patient-iron-lung-dies/?utm_campaign=rss",
+          "publishedDate": "Mon, 13 Jul 2026 14:36:41 +0000",
+          "source": "statnews.com",
+          "summary": "Martha Lillard, last U.S. polio patient using iron lung, has died at 78 in Oklahoma.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "Caregivers brace for pay cuts, and maybe homelessness",
+          "url": "https://www.statnews.com/2026/07/13/health-news-caregivers-brace-for-pay-cuts-maybe-homelessness/?utm_campaign=rss",
+          "publishedDate": "Mon, 13 Jul 2026 11:46:24 +0000",
+          "source": "statnews.com",
+          "summary": "A game-changer in pancreatic cancer, a vaccine skeptical HHS nom, and more health news from Morning Rounds",
+          "authors": "Tara Bannow"
+        },
+        {
+          "title": "STAT+: HHS presses ahead with effort to curb antidepressant use",
+          "url": "https://www.statnews.com/2026/07/13/hhs-ssri-deprescribing-experts-gather-clinical-withdrawal-guidance/?utm_campaign=rss",
+          "publishedDate": "Mon, 13 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "In a private meeting, HHS officials met with mental health professionals to work on guidance for stopping SSRIs.",
+          "authors": "Chelsea Cirruzzo and Lizzy Lawrence"
+        },
         {
           "title": "STAT+: Tau in the spotlight at Alzheimer’s conference",
           "url": "https://www.statnews.com/2026/07/12/aaic-in-30-alzheimers-treaatments-focus-on-tau-blood-brain-barrier/?utm_campaign=rss",
@@ -28,38 +109,6 @@
           "source": "statnews.com",
           "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
           "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "FDA quietly pushes back deadline on electric shock ban",
-          "url": "https://www.statnews.com/2026/07/10/health-news-fda-quietly-pushes-back-deadline-on-electric-shock-ban/?utm_campaign=rss",
-          "publishedDate": "Fri, 10 Jul 2026 11:51:52 +0000",
-          "source": "statnews.com",
-          "summary": "Massachusetts' biggest nursing strike ever, tackling the male loneliness epidemic, and other health news for Morning Rounds",
-          "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "STAT+: How a Boston doctor built a following as a ‘loud and unafraid’ voice in the Trump era",
-          "url": "https://www.statnews.com/2026/07/10/jeremy-faust-inside-medicine-trump-era/?utm_campaign=rss",
-          "publishedDate": "Fri, 10 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Jeremy Faust saves lives in the ER and breaks stories with his Inside Medicine newsletter. He’s also testing the bounds of news reporting.",
-          "authors": "Anna Kuchment — Boston Globe"
-        },
-        {
-          "title": "New York boys club has a time-tested recipe to protect members’ mental health",
-          "url": "https://www.statnews.com/2026/07/10/bcny-approach-boys-mental-health-connection-belonging-mentors/?utm_campaign=rss",
-          "publishedDate": "Fri, 10 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "At a time when attention is deservedly being turned to the mental health crisis in boys, the Boys' Club of New York is a shelter from the storm for many&#8230;",
-          "authors": "Annalisa Merelli"
-        },
-        {
-          "title": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
-          "url": "https://www.statnews.com/2026/07/09/cyclospora-outbreak-faq-diarrhea-causing-parasite/?utm_campaign=rss",
-          "publishedDate": "Thu, 09 Jul 2026 15:01:27 +0000",
-          "source": "statnews.com",
-          "summary": "An outbreak of diarrhea-causing parasite has grown to more than 1,000 cases, making it one of the nation’s largest such outbreaks in years.",
-          "authors": "Associated Press"
         }
       ]
     },
@@ -69,113 +118,130 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Alzheimer&#039;s tau protein has a surprising secret role in memory",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260710003535.htm",
-          "publishedDate": "Sun, 12 Jul 2026 08:53:12 EDT",
+          "title": "STAT+: UnitedHealth’s questionable review, and more MA stars lawsuits",
+          "url": "https://www.statnews.com/2026/07/13/unitedhealth-housecalls-audit-report-medicare-advantage-stars-lawsuits/?utm_campaign=rss",
+          "publishedDate": "Mon, 13 Jul 2026 15:29:05 +0000",
+          "source": "statnews.com",
+          "summary": "UnitedHealth touts a new home care audit, and more health insurers sue CMS over Medicare Advantage quality ratings.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "Losing just 80 minutes of sleep a night could make you gain weight",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260713000800.htm",
+          "publishedDate": "Mon, 13 Jul 2026 09:24:13 EDT",
           "source": "sciencedaily.com",
-          "summary": "Researchers found that tau is essential for turning new experiences into lasting memories by helping organize the brain&#039;s memory-storing cells. The mouse study also revealed how abnormal tau may contribute to Alzheimer&#039;s by…",
+          "summary": "Sleeping about an hour and 20 minutes less each night for six weeks caused participants to gain weight and spend more time inactive. Researchers found that even mild, realistic sleep loss, similar to what many adults experience, had…",
           "authors": ""
         },
         {
-          "title": "This ultrasound treatment may help stop arthritis before it starts",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260710003521.htm",
-          "publishedDate": "Sun, 12 Jul 2026 06:07:21 EDT",
+          "title": "Why are healthy young non-smokers developing lung cancer?",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260712011758.htm",
+          "publishedDate": "Mon, 13 Jul 2026 07:34:52 EDT",
           "source": "sciencedaily.com",
-          "summary": "A simple, non-invasive ultrasound treatment could one day help injured joints heal instead of remaining trapped in a cycle of damaging inflammation. Researchers at The University of Alabama in Huntsville found that continuous low-intensity…",
+          "summary": "An unexpected study found that young non-smokers with healthier diets had higher rates of lung cancer, raising questions about whether pesticide exposure from conventionally grown produce could play a role. Researchers stress that the…",
           "authors": ""
         },
         {
-          "title": "Columbia scientists discover surprising link between serotonin and heart valve disease",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260711010131.htm",
-          "publishedDate": "Sat, 11 Jul 2026 23:11:19 EDT",
+          "title": "Where you live could shape your dementia risk, massive study finds",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260713000753.htm",
+          "publishedDate": "Mon, 13 Jul 2026 06:03:41 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered evidence that serotonin, the chemical best known for regulating mood, may also speed the progression of a common heart valve disease in some people. The research suggests that patients with degenerative mitral…",
+          "summary": "Researchers analyzing data from more than 214,000 people found that dementia risk factors differ widely across countries, challenging the idea of a one-size-fits-all prevention strategy. At the same time, they uncovered surprisingly…",
           "authors": ""
         },
         {
-          "title": "Yale scientists may have found how Parkinson&#039;s disease spreads through the brain",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260710003529.htm",
-          "publishedDate": "Sat, 11 Jul 2026 22:06:14 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Yale scientists discovered two neuron surface proteins that appear to help spread the toxic protein linked to Parkinson’s disease. Blocking these proteins in mice dramatically reduced disease progression, offering a potential new target…",
-          "authors": ""
+          "title": "As states absorb Medicaid funding cuts, family caregivers face financial ruin",
+          "url": "https://www.statnews.com/2026/07/13/family-caregiver-wages-financial-ruin-medicaid-funding-cuts/?utm_campaign=rss",
+          "publishedDate": "Mon, 13 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Family caregivers of people with disabilities face a grim financial future as several states consider steep cuts to their wages.",
+          "authors": "O. Rose Broderick"
         },
         {
-          "title": "Common blood pressure drug could make cancer therapy far more powerful",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260709160648.htm",
-          "publishedDate": "Sat, 11 Jul 2026 19:42:15 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers found that the common blood pressure drug telmisartan can significantly improve the performance of the cancer drug olaparib, potentially expanding its benefits beyond patients with BRCA-related tumors. The combination is…",
-          "authors": ""
-        },
-        {
-          "title": "Experimental drug reverses severe fatty liver disease by repairing the gut",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260711010116.htm",
-          "publishedDate": "Sat, 11 Jul 2026 09:22:55 EDT",
-          "source": "sciencedaily.com",
-          "summary": "An experimental drug called DT-109 reversed severe fatty liver disease in animal studies by repairing the gut and preventing harmful toxins from damaging the liver. The discovery could open the door to a new class of treatments for MASH…",
-          "authors": ""
+          "title": "STAT+: HHS presses ahead with effort to curb antidepressant use",
+          "url": "https://www.statnews.com/2026/07/13/hhs-ssri-deprescribing-experts-gather-clinical-withdrawal-guidance/?utm_campaign=rss",
+          "publishedDate": "Mon, 13 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "In a private meeting, HHS officials met with mental health professionals to work on guidance for stopping SSRIs.",
+          "authors": "Chelsea Cirruzzo and Lizzy Lawrence"
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "LLM-Driven Evolutionary Generation of Multi-Objective Bayesian Optimization Algorithms",
+          "url": "https://arxiv.org/abs/2607.08791",
+          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Designing effective multi-objective Bayesian optimization (MOBO) algorithms requires balancing many interdependent design choices whose optimal configuration is problem-dependent and typically demands deep expertise. We extend the LLaMEA…",
+          "authors": "Georgios Laskaris, Reuben Brasher, Niki van Stein, Elena Raponi, Thomas Bäck, Florian Neukart"
+        },
+        {
+          "title": "Evolutionary Intelligence for Scientific Discovery: From Evolutionary Computation to Cumulative Discovery Systems",
+          "url": "https://arxiv.org/abs/2607.09025",
+          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Artificial intelligence (AI) is shifting scientific discovery from task-specific workflows towards autonomous systems that organize exploration with experimental and human feedback in open-ended candidate spaces. Evolutionary computation…",
+          "authors": "Chao Wang, Lingling Li, Fang Liu, Licheng Jiao"
+        },
+        {
+          "title": "Co-evolution of self-replication and function in a digital primordial soup",
+          "url": "https://arxiv.org/abs/2607.09211",
+          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "While traditional evolutionary algorithms hard-code reproduction, self-replication can emerge spontaneously within digital ``primordial soups''. This paper investigates the co-evolution of this emergent self-replication alongside…",
+          "authors": "Francesco Cicala, Eyvind Niklasson, Ettore Randazzo, Sami Boukortt, Alessio Basti, Mayalen Etcheverry, Rif A. Saurous, Ben Laurie, James Manyika, Blaise Aguera-Arcas, Blake Richards"
+        },
+        {
+          "title": "Interference and Retention in Continual Learning",
+          "url": "https://arxiv.org/abs/2607.09202",
+          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Continual learning commonly relies on post-hoc mechanisms such as replay, elastic regularization, or distillation. This work argues that forgetting should instead be modeled directly as interference between tasks. In the frozen-feature…",
+          "authors": "Julius Störk"
+        },
+        {
+          "title": "Foveation-Guided Dynamic Token Selection for Robust and Efficient Vision Transformers",
+          "url": "https://arxiv.org/abs/2607.09480",
+          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The human visual system (HVS) employs foveated sampling and eye movements to achieve efficient perception, conserving both metabolic energy and computational resources. Drawing inspiration from this robustness and adaptability, we…",
+          "authors": "Ibrahim Batuhan Akkaya, Kishaan Jeeveswaran, Bahram Zonooz, Elahe Arani"
+        },
+        {
+          "title": "An Introduction and Tutorial for the Beagle Framework",
+          "url": "https://arxiv.org/abs/2607.06731",
+          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The Beagle framework is a GPU-based genetic programming framework that enables highly efficient genetic programming search using large population sizes by leveraging NVIDIA GPUs. This technical guide provides an introduction to the Beagle…",
+          "authors": "Ilya Basin, Nathan Haut"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 2,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
+          "title": "Spatial Neighboring Scattering Transform: A Cross-Channel Amplitude Coupling Measure for EEG Connectivity",
+          "url": "https://arxiv.org/abs/2607.08855",
+          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The functional organization of the brain relies on coordinated activity across spatially distributed regions, making the analysis of inter-regional dependencies fundamental. Existing connectivity measures address this predominantly through…",
+          "authors": "Md. Taksimul Ahsan Tawhid, Nasif Ahmed Rafe, Alif Tahmid Priyom, K. M. Mustafizur Rahman"
         },
         {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
+          "url": "https://arxiv.org/abs/2607.09662",
+          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve (AUC) of approximately…",
+          "authors": "Ren Takahashi, Emre Yusuf, Jayabrata Bhaduri"
         }
       ]
     }
