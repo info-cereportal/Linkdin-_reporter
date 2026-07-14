@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T23:31:06.648Z",
+  "generatedAt": "2026-07-14T23:29:07.010Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Spatial Neighboring Scattering Transform: A Cross-Channel Amplitude Coupling Measure for EEG Connectivity",
-          "url": "https://arxiv.org/abs/2607.08855",
-          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "title": "Emergent Generalization by Representation Learning in Artificial Neural Networks",
+          "url": "https://arxiv.org/abs/2607.10430",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The functional organization of the brain relies on coordinated activity across spatially distributed regions, making the analysis of inter-regional dependencies fundamental. Existing connectivity measures address this predominantly through…",
-          "authors": "Md. Taksimul Ahsan Tawhid, Nasif Ahmed Rafe, Alif Tahmid Priyom, K. M. Mustafizur Rahman"
+          "summary": "Dimensionality reduction has proven powerful for identifying neural manifolds, which are low-dimensional structures underlying high-dimensional neural activity. These low-dimensional representations have improved the interpretability of…",
+          "authors": "Hardik Rajpal, Dan Goodman"
         },
         {
-          "title": "Structural Brain Predictors of Visual Attention Gradient Modulated by Trait Anxiety",
-          "url": "https://arxiv.org/abs/2607.09278",
-          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "title": "Learning the Brain's Dynamics as a Port-Hamiltonian System",
+          "url": "https://arxiv.org/abs/2607.10439",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Dynamic allocation of attention across the visual field, quantified as a visuospatial attention gradient, is essential for maintaining perceptual breadth. Disruptions to this flexibility may contribute to altered spatial attentional bias…",
-          "authors": "Suhail Rafiq Mir, Dolcy Dhar, Ishita Singh, Prakrati Gupta, Varsha Singh, Mrinmoy Chakrabarty"
+          "summary": "We model human motor cortex during a wrist-extension BCI task as a port-Hamiltonian system (pHS): a conservative interconnection (gyroscopic coupling between neural phasors) plus a dissipative port (power-law energy decay driven by a GNN…",
+          "authors": "Dibakar Sigdel"
         },
         {
-          "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
-          "url": "https://arxiv.org/abs/2607.09662",
-          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "title": "Fast Whole-Brain, Geometry-Aware Functional Alignment for Cross-Subject Decoding",
+          "url": "https://arxiv.org/abs/2607.10931",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve (AUC) of approximately…",
-          "authors": "Ren Takahashi, Emre Yusuf, Jayabrata Bhaduri"
+          "summary": "Decoding brain activity is useful for characterizing brain processes and understanding the functional architecture underlying cognition. However, the inter-individual variability in brain response patterns limits the development of…",
+          "authors": "Pierre-Louis Barbarant, Florent Meyniel, Bertrand Thirion"
         },
         {
-          "title": "Minimal Decision Dynamics and Contextual Probability: A Quantum Tug-of-War Model",
-          "url": "https://arxiv.org/abs/2601.10034",
-          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "title": "Imputation-free transformer learning enables robust Alzheimer's disease prediction and calibrated uncertainty quantification across heterogeneous clinical cohorts",
+          "url": "https://arxiv.org/abs/2607.11656",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Decision making often exhibits context dependence that challenges classical probability theory. This paper develops a quantum-like extension of the Tug-of-War (QTOW) decision-making model to clarify when such context dependence can be…",
-          "authors": "Song-Ju Kim"
+          "summary": "Accurate diagnostic classification and disease-severity prediction for Alzheimer's disease are hampered by the incompleteness and heterogeneity of real-world clinical data. Left unaddressed, these barriers prevent reliable disease…",
+          "authors": "Christelle Schneuwly Diaz, Narmina Baghirova, Duy-Thanh Vu, Duy-Cat Can, Gilles Allali, Philippe Ryvlin, Oliver Y. Chén"
         },
         {
-          "title": "Quantum Logic as the Logic of Contexts",
-          "url": "https://arxiv.org/abs/2607.09032",
-          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "title": "Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal Tokenization",
+          "url": "https://arxiv.org/abs/2607.09754",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Quantum logic is usually presented as a non-classical departure from ordinary reasoning forced on us by quantum mechanics, with classical logic kept as the secure starting point. We argue for the opposite order of explanation in a finite…",
-          "authors": "Haruki Emori, Atsushi Iriki, Andrei Khrennikov, Kazunori Kondo"
+          "summary": "Large-scale, multi-subject widefield calcium imaging provides unprecedented access to brain-wide cortical dynamics. However, the high dimensionality, complex spatiotemporal structure, and substantial task-irrelevant activity in widefield…",
+          "authors": "Mohammad Hosseini, Eray Erturk, Saba Hashemi, Maryam M. Shanechi"
         },
         {
-          "title": "A multi-ensemble mean-field reduction method for networks of globally coupled phase oscillators with arbitrary parameter distributions",
-          "url": "https://arxiv.org/abs/2607.09516",
-          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "title": "Prompting-MammAlps: Fine-Grained Text-to-Video Retrieval for Camera-Trap Data",
+          "url": "https://arxiv.org/abs/2607.09876",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Understanding the dynamical properties of coupled phase oscillator systems with heterogeneous oscillator frequencies has been a long-standing challenge of complex systems theory. While the seminal work of Ott and Antonsen dramatically…",
-          "authors": "Richard Gast, Shotaro Takasu, Helmut Schmidt, Ann Kennedy"
+          "summary": "Automatically retrieving videos from large camera-trap datasets remains challenging. Text-to-Video retrieval (TVR) methods based on large video-language models (VLMs) have potential to retrieve events of interest by describing them with…",
+          "authors": "Valentin Gabeff, Baptiste Maquignaz, Jennifer Shan, Sepideh Mamooler, Gencer Sumbul, Blair Costelloe, Devis Tuia, Alexander Mathis"
         }
       ]
     },
@@ -63,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: Dementia study replicates promising outcomes following risk-reduction strategies",
-          "url": "https://www.statnews.com/2026/07/13/aaic-in-30-alzheimers-treaatments-dementia-day-2-conference/?utm_campaign=rss",
-          "publishedDate": "Mon, 13 Jul 2026 16:49:15 +0000",
+          "title": "As cyclospora illnesses surge to a record, Michigan officials eye lettuce as a possible cause",
+          "url": "https://www.statnews.com/2026/07/14/cyclosporiasis-outbreak-cases-top-previous-record-4700-cases/?utm_campaign=rss",
+          "publishedDate": "Tue, 14 Jul 2026 19:13:55 +0000",
           "source": "statnews.com",
-          "summary": "A dementia prevention trial praised as a \"landmark\" effort further demonstrated the promise of structured programs tailored to local cultures.",
-          "authors": "Andrew Joseph"
-        },
-        {
-          "title": "Martha Lillard, last U.S. polio patient using iron lung, dies at 78 in Oklahoma",
-          "url": "https://www.statnews.com/2026/07/13/martha-lillard-last-us-polio-patient-iron-lung-dies/?utm_campaign=rss",
-          "publishedDate": "Mon, 13 Jul 2026 14:36:41 +0000",
-          "source": "statnews.com",
-          "summary": "Martha Lillard, last U.S. polio patient using iron lung, has died at 78 in Oklahoma.",
+          "summary": "Infections from the diarrhea-causing parasite cyclospora are surging, and officials say early information points to lettuce or salad greens as a possible culprit.",
           "authors": "Associated Press"
         },
         {
-          "title": "Caregivers brace for pay cuts, and maybe homelessness",
-          "url": "https://www.statnews.com/2026/07/13/health-news-caregivers-brace-for-pay-cuts-maybe-homelessness/?utm_campaign=rss",
-          "publishedDate": "Mon, 13 Jul 2026 11:46:24 +0000",
+          "title": "Majority of new Ebola cases in eastern Congo are from unknown chains, as outbreak outpaces response",
+          "url": "https://www.statnews.com/2026/07/14/ebola-outbreak-congo-new-cases-unknown-chains-of-transmission/?utm_campaign=rss",
+          "publishedDate": "Tue, 14 Jul 2026 15:18:50 +0000",
           "source": "statnews.com",
-          "summary": "A game-changer in pancreatic cancer, a vaccine skeptical HHS nom, and more health news from Morning Rounds",
-          "authors": "Tara Bannow"
+          "summary": "The Ebola outbreak in eastern Congo “continues to outpace the response efforts,” the WHO’s emergencies chief said on Tuesday after returning from a trip to one of the worst hit&#8230;",
+          "authors": "Associated Press"
         },
         {
-          "title": "STAT+: HHS presses ahead with effort to curb antidepressant use",
-          "url": "https://www.statnews.com/2026/07/13/hhs-ssri-deprescribing-experts-gather-clinical-withdrawal-guidance/?utm_campaign=rss",
-          "publishedDate": "Mon, 13 Jul 2026 08:30:00 +0000",
+          "title": "The risk of refusing a newborn’s vitamin K shot",
+          "url": "https://www.statnews.com/2026/07/14/healeth-news-the-risk-of-refusing-a-newborn-vitamin-k-shot/?utm_campaign=rss",
+          "publishedDate": "Tue, 14 Jul 2026 13:39:24 +0000",
           "source": "statnews.com",
-          "summary": "In a private meeting, HHS officials met with mental health professionals to work on guidance for stopping SSRIs.",
-          "authors": "Chelsea Cirruzzo and Lizzy Lawrence"
+          "summary": "Health care workers on strike at Ebola treatment center, how to tackle the U.S. alcohol epidemic, and more Morning Rounds news",
+          "authors": "Theresa Gaffney"
         },
         {
-          "title": "STAT+: Tau in the spotlight at Alzheimer’s conference",
-          "url": "https://www.statnews.com/2026/07/12/aaic-in-30-alzheimers-treaatments-focus-on-tau-blood-brain-barrier/?utm_campaign=rss",
-          "publishedDate": "Sun, 12 Jul 2026 20:01:45 +0000",
+          "title": "FDA authorized Zyn nicotine pouches without knowing what they were made of, says former agency scientist",
+          "url": "https://www.statnews.com/2026/07/14/zyn-nicotine-pouches-fda-approval-microplastic-risk/?utm_campaign=rss",
+          "publishedDate": "Tue, 14 Jul 2026 09:30:00 +0000",
           "source": "statnews.com",
-          "summary": "From STAT's AAIC in 30 newsletter: Researchers focus on tau, and progress on crossing the blood-brain barrier.",
-          "authors": "Andrew Joseph"
+          "summary": "A former FDA toxicologist has accused the agency of authorizing Zyn nicotine pouches without fully reviewing their safety",
+          "authors": "Matthew Chapman and Kathryn Kranhold — The Examination"
         },
         {
-          "title": "Nominee for key federal health role has a history of questioning vaccines",
-          "url": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss",
-          "publishedDate": "Fri, 10 Jul 2026 19:27:36 +0000",
+          "title": "12 ideas for tackling the U.S. alcohol epidemic",
+          "url": "https://www.statnews.com/2026/07/14/alcohol-health-issues-deadliest-drug-series-final-installment-solutions/?utm_campaign=rss",
+          "publishedDate": "Tue, 14 Jul 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
-          "authors": "Chelsea Cirruzzo"
+          "summary": "The U.S. can save lives from excess alcohol use without taking drastic measures. Here are 12 steps that can help.",
+          "authors": "Isabella Cueto and Lev Facher"
+        },
+        {
+          "title": "STAT+: 10 charts that explain America’s hidden alcohol epidemic",
+          "url": "https://www.statnews.com/2026/07/14/alcohol-impact-health-data-deep-dive-deadliest-drug-series/?utm_campaign=rss",
+          "publishedDate": "Tue, 14 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "America's hidden alcohol epidemic — the toll, emerging risks, shifting usage, and economic stakes — broken down in 10 charts.",
+          "authors": "J. Emory Parker, Lev Facher, and Isabella Cueto"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: UnitedHealth’s questionable review, and more MA stars lawsuits",
-          "url": "https://www.statnews.com/2026/07/13/unitedhealth-housecalls-audit-report-medicare-advantage-stars-lawsuits/?utm_campaign=rss",
-          "publishedDate": "Mon, 13 Jul 2026 15:29:05 +0000",
+          "title": "STAT+: Top Democrats question RFK Jr.’s health care advisory panel",
+          "url": "https://www.statnews.com/2026/07/14/senators-raise-question-hhs-healthcare-advisory-committee-members/?utm_campaign=rss",
+          "publishedDate": "Tue, 14 Jul 2026 17:44:04 +0000",
           "source": "statnews.com",
-          "summary": "UnitedHealth touts a new home care audit, and more health insurers sue CMS over Medicare Advantage quality ratings.",
-          "authors": "Bob Herman"
+          "summary": "Democratic senators question presence of Trump donors, Tony Robbins on health care advisory panel.",
+          "authors": "Chelsea Cirruzzo"
         },
         {
-          "title": "Losing just 80 minutes of sleep a night could make you gain weight",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260713000800.htm",
-          "publishedDate": "Mon, 13 Jul 2026 09:24:13 EDT",
+          "title": "STAT+: Hospital chain HCA warns of lower profits as more patients go uninsured",
+          "url": "https://www.statnews.com/2026/07/14/hca-predicts-treating-uninsured-patients-will-trim-1-billion-in-profits/?utm_campaign=rss",
+          "publishedDate": "Tue, 14 Jul 2026 17:01:48 +0000",
+          "source": "statnews.com",
+          "summary": "It's an early indicator of the fallout from the end of extra ACA subsidies.",
+          "authors": "Tara Bannow"
+        },
+        {
+          "title": "Eating chili peppers may raise the risk of one deadly cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260713084921.htm",
+          "publishedDate": "Tue, 14 Jul 2026 09:27:21 EDT",
           "source": "sciencedaily.com",
-          "summary": "Sleeping about an hour and 20 minutes less each night for six weeks caused participants to gain weight and spend more time inactive. Researchers found that even mild, realistic sleep loss, similar to what many adults experience, had…",
+          "summary": "A major review found that people who consumed the most chili peppers had a substantially higher risk of esophageal cancer, though the evidence was less clear for stomach and colorectal cancers. Researchers emphasize that the findings show…",
           "authors": ""
         },
         {
-          "title": "Why are healthy young non-smokers developing lung cancer?",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260712011758.htm",
-          "publishedDate": "Mon, 13 Jul 2026 07:34:52 EDT",
+          "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
+          "publishedDate": "Tue, 14 Jul 2026 05:47:41 EDT",
           "source": "sciencedaily.com",
-          "summary": "An unexpected study found that young non-smokers with healthier diets had higher rates of lung cancer, raising questions about whether pesticide exposure from conventionally grown produce could play a role. Researchers stress that the…",
+          "summary": "Researchers found that semaglutide, the active ingredient in Ozempic and Wegovy, slowed biological aging markers in adults with HIV, marking the first clinical evidence that the drug may influence human aging. Although the findings are…",
           "authors": ""
         },
         {
-          "title": "Where you live could shape your dementia risk, massive study finds",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260713000753.htm",
-          "publishedDate": "Mon, 13 Jul 2026 06:03:41 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers analyzing data from more than 214,000 people found that dementia risk factors differ widely across countries, challenging the idea of a one-size-fits-all prevention strategy. At the same time, they uncovered surprisingly…",
-          "authors": ""
+          "title": "FDA authorized Zyn nicotine pouches without knowing what they were made of, says former agency scientist",
+          "url": "https://www.statnews.com/2026/07/14/zyn-nicotine-pouches-fda-approval-microplastic-risk/?utm_campaign=rss",
+          "publishedDate": "Tue, 14 Jul 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A former FDA toxicologist has accused the agency of authorizing Zyn nicotine pouches without fully reviewing their safety",
+          "authors": "Matthew Chapman and Kathryn Kranhold — The Examination"
         },
         {
-          "title": "As states absorb Medicaid funding cuts, family caregivers face financial ruin",
-          "url": "https://www.statnews.com/2026/07/13/family-caregiver-wages-financial-ruin-medicaid-funding-cuts/?utm_campaign=rss",
-          "publishedDate": "Mon, 13 Jul 2026 08:30:00 +0000",
+          "title": "12 ideas for tackling the U.S. alcohol epidemic",
+          "url": "https://www.statnews.com/2026/07/14/alcohol-health-issues-deadliest-drug-series-final-installment-solutions/?utm_campaign=rss",
+          "publishedDate": "Tue, 14 Jul 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "Family caregivers of people with disabilities face a grim financial future as several states consider steep cuts to their wages.",
-          "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "STAT+: HHS presses ahead with effort to curb antidepressant use",
-          "url": "https://www.statnews.com/2026/07/13/hhs-ssri-deprescribing-experts-gather-clinical-withdrawal-guidance/?utm_campaign=rss",
-          "publishedDate": "Mon, 13 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "In a private meeting, HHS officials met with mental health professionals to work on guidance for stopping SSRIs.",
-          "authors": "Chelsea Cirruzzo and Lizzy Lawrence"
+          "summary": "The U.S. can save lives from excess alcohol use without taking drastic measures. Here are 12 steps that can help.",
+          "authors": "Isabella Cueto and Lev Facher"
         }
       ]
     },
@@ -173,75 +173,83 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "LLM-Driven Evolutionary Generation of Multi-Objective Bayesian Optimization Algorithms",
-          "url": "https://arxiv.org/abs/2607.08791",
-          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "title": "Life as Plasmas: Autonomy and Interactivism in-materio",
+          "url": "https://arxiv.org/abs/2607.09747",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Designing effective multi-objective Bayesian optimization (MOBO) algorithms requires balancing many interdependent design choices whose optimal configuration is problem-dependent and typically demands deep expertise. We extend the LLaMEA…",
-          "authors": "Georgios Laskaris, Reuben Brasher, Niki van Stein, Elena Raponi, Thomas Bäck, Florian Neukart"
+          "summary": "When is a material system a candidate for life at all? We argue that this question is prior to behavior, functional architecture, or computational capacity, and that at root it is one of physical admissibility. We develop a framework in…",
+          "authors": "Nicolás Hinrichs, Mahault Albarracin, Felipe Engelberger, Leonardo Christov-Moore, Daniel Polani"
         },
         {
-          "title": "Evolutionary Intelligence for Scientific Discovery: From Evolutionary Computation to Cumulative Discovery Systems",
-          "url": "https://arxiv.org/abs/2607.09025",
-          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "title": "Adaptive Search in Collatz Exponent-Code Space via 2-adic and 3-adic Constraints",
+          "url": "https://arxiv.org/abs/2607.10041",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Artificial intelligence (AI) is shifting scientific discovery from task-specific workflows towards autonomous systems that organize exploration with experimental and human feedback in open-ended candidate spaces. Evolutionary computation…",
-          "authors": "Chao Wang, Lingling Li, Fang Liu, Licheng Jiao"
+          "summary": "We study a symbolic search space for the Collatz conjecture based on finite exponent codes of the accelerated map. Each code records the number of divisions by two after every 3n + 1 step and determines three quantities: real drift, a…",
+          "authors": "Oliver Kramer"
         },
         {
-          "title": "Co-evolution of self-replication and function in a digital primordial soup",
-          "url": "https://arxiv.org/abs/2607.09211",
-          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "title": "Efficient and Robust Spiking Neural Networks for sEMG-Based Muscle Fatigue Detection",
+          "url": "https://arxiv.org/abs/2607.11065",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "While traditional evolutionary algorithms hard-code reproduction, self-replication can emerge spontaneously within digital ``primordial soups''. This paper investigates the co-evolution of this emergent self-replication alongside…",
-          "authors": "Francesco Cicala, Eyvind Niklasson, Ettore Randazzo, Sami Boukortt, Alessio Basti, Mayalen Etcheverry, Rif A. Saurous, Ben Laurie, James Manyika, Blaise Aguera-Arcas, Blake Richards"
+          "summary": "Detecting muscle fatigue via surface electromyography (sEMG) is essential for applications in sports, rehabilitation, and wearable health monitoring. Accurate and timely detection of fatigue is crucial for preventing injuries, optimizing…",
+          "authors": "Kaiwen Tang, Jiaqi Dong, Zhanglu Yan, Weng-Fai Wong"
         },
         {
-          "title": "Interference and Retention in Continual Learning",
-          "url": "https://arxiv.org/abs/2607.09202",
-          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "title": "Backpropagation as a Nilpotent Linear System",
+          "url": "https://arxiv.org/abs/2607.11289",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Continual learning commonly relies on post-hoc mechanisms such as replay, elastic regularization, or distillation. This work argues that forgetting should instead be modeled directly as interference between tasks. In the frozen-feature…",
-          "authors": "Julius Störk"
+          "summary": "Backpropagation is the computational engine of deep learning, yet its mathematical structure is typically treated as a procedural traversal of computational graphs. We present a global operator theory of the \\emphF-adjoint framework, which…",
+          "authors": "Ahmed Boughammoura"
         },
         {
-          "title": "Foveation-Guided Dynamic Token Selection for Robust and Efficient Vision Transformers",
-          "url": "https://arxiv.org/abs/2607.09480",
-          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "title": "Remembering Distinct Items, Not Tokens: A Learnable Dirichlet-Process Cache Between State-Space Models and Attention",
+          "url": "https://arxiv.org/abs/2607.09889",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The human visual system (HVS) employs foveated sampling and eye movements to achieve efficient perception, conserving both metabolic energy and computational resources. Drawing inspiration from this robustness and adaptability, we…",
-          "authors": "Ibrahim Batuhan Akkaya, Kishaan Jeeveswaran, Bahram Zonooz, Elahe Arani"
+          "summary": "Fixed-state sequence models compress an unbounded past into a bounded state, which caps their associative recall at roughly the state dimension; attention escapes the cap by keeping a key-value entry for every token, at quadratic compute…",
+          "authors": "Siddharth Pal, Viktoria Rojkova"
         },
         {
-          "title": "An Introduction and Tutorial for the Beagle Framework",
-          "url": "https://arxiv.org/abs/2607.06731",
-          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "title": "A Symbolic Neural CPU for Quantization-Simulated Writeback and Interpretable Program Execution",
+          "url": "https://arxiv.org/abs/2607.10021",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The Beagle framework is a GPU-based genetic programming framework that enables highly efficient genetic programming search using large population sizes by leveraging NVIDIA GPUs. This technical guide provides an introduction to the Beagle…",
-          "authors": "Ilya Basin, Nathan Haut"
+          "summary": "Neural networks can learn algorithmic input-output mappings, but trusting a learned executor requires more than a correct final answer because the state transitions that produce it are usually hidden. To make those transitions visible, we…",
+          "authors": "Jose Luis Lima de Jesus Silva"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 3,
       "items": [
         {
-          "title": "Spatial Neighboring Scattering Transform: A Cross-Channel Amplitude Coupling Measure for EEG Connectivity",
-          "url": "https://arxiv.org/abs/2607.08855",
-          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "title": "SpindleFlexNet: Flexible sleep spindles detection for EEG signals based on an adaptive one-dimensional RetinaNet-based framework",
+          "url": "https://arxiv.org/abs/2607.09690",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The functional organization of the brain relies on coordinated activity across spatially distributed regions, making the analysis of inter-regional dependencies fundamental. Existing connectivity measures address this predominantly through…",
-          "authors": "Md. Taksimul Ahsan Tawhid, Nasif Ahmed Rafe, Alif Tahmid Priyom, K. M. Mustafizur Rahman"
+          "summary": "Sleep spindle is a physiologically significant biomedical signal in electroencephalographic (EEG) waveforms, which is typically a low-amplitude event in sleep. Due to the small signal ratio in the overall EEG, previous detection methods…",
+          "authors": "Shao-Jun Xia, Jing Bao, Anlan Sun, Xiaoyang Chen, Hongjia Liu, Xiao-Ting Li, Ying-Shi Sun"
         },
         {
-          "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
-          "url": "https://arxiv.org/abs/2607.09662",
-          "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
+          "title": "Multimodal EEG-IMU Fusion for Motor Assessment: Leveraging Task-Dependent Complementarity for Robustness",
+          "url": "https://arxiv.org/abs/2607.09730",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve (AUC) of approximately…",
-          "authors": "Ren Takahashi, Emre Yusuf, Jayabrata Bhaduri"
+          "summary": "Movement disorders such as Parkinson's disease require comprehensive motor assessment, but reliable digital assessment pipelines integrating multiple sensing modalities across diverse motor tasks remain insufficiently characterized. We…",
+          "authors": "Zhenan Yin, Lalitha Pranathi Pulavarthy, Saptarshi Purkayastha"
+        },
+        {
+          "title": "Networked ISAC Enabled Target Recognition Towards Low-Altitude Economy",
+          "url": "https://arxiv.org/abs/2607.10319",
+          "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "In this paper, we propose a low-altitude target (LAT) recognition scheme based on multi-base station (BS) collaboration and multi-scale feature fusion for integrated sensing and communications (ISAC) network. Firstly, we formulate the…",
+          "authors": "Hongliang Luo, Chuanbin Zhao, Boxuan Sun, Zhonghua Chu, Shengjie Quan, Guangyi Liu, Feifei Gao"
         }
       ]
     }

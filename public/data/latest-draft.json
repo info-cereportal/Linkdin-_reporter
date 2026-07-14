@@ -1,27 +1,29 @@
 {
-  "generatedAt": "2026-07-13T23:31:06.281Z",
-  "date": "2026-07-13",
-  "topic": "意思決定",
-  "templateName": "three-insights",
+  "generatedAt": "2026-07-14T23:29:06.404Z",
+  "date": "2026-07-14",
+  "topic": "スパイキングニューラルネットワーク(SNN)とワーキングメモリ",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Minimal Decision Dynamics and Contextual Probability: A Quantum Tug-of-War Model",
-  "paperLink": "https://arxiv.org/abs/2601.10034",
-  "figureUrl": "https://arxiv.org/html/2601.10034/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
-  "formatted": "研究者もエンジニアも、この論文は必読です。\n\nこの研究から得られる3つの重要な示唆。\n\n意思決定の最新成果を整理しました。\n\n🔬 意思決定 × 意思決定 × 学習 × 記憶\n\n> Decision making often exhibits context dependence that challenges classical probability theory. This paper develops a quantum-like extension of the Tug-of-War (QTOW) decision-making model to clarify when such context dependence can be represented by a single minimal internal...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Minimal Decision Dynamics and Contextual Probability: A Quantum Tug-of-War Model\n🔗 https://arxiv.org/abs/2601.10034\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #NeuroAI",
-  "summaryJP": "意思決定 — 注目すべき3つの示唆（神経デコーディング）",
-  "paperAuthors": "Song-Ju Kim",
-  "publishedDate": "Mon, 13 Jul 2026 00:00:00 -0400",
-  "paperId": "2601.10034",
+  "paperTitle": "Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic Delays",
+  "paperLink": "https://arxiv.org/abs/2604.14096",
+  "figureUrl": "https://arxiv.org/html/2604.14096/2604.14096v2/izhikevich_rec.png",
+  "formatted": "この研究データ、知らないままでいいですか？\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nスパイキングニューラルネットワーク(SNN)とワーキングメモリの最新研究です。\n\n🔬 スパイキングニューラルネットワーク(SNN) × ワーキングメモリ × 記憶 × ニューロモーフィック\n\n> Working memory -- the ability to store and recall precise temporal patterns of neural activity -- remains an open challenge for spiking neural networks (SNNs). We propose a recurrent SNN of $N$ neurons in which each synapse is equipped with $D = 41$ delays, modelled as a weight...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic Delays\n🔗 https://arxiv.org/abs/2604.14096\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #脳情報",
+  "summaryJP": "スパイキングニューラルネットワーク(SNN)とワーキングメモリ — 次世代へ続く布石（ニューロAI・計算論）",
+  "paperAuthors": "Laurent U Perrinet",
+  "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
+  "paperId": "2604.14096",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "意思決定",
-    "意思決定",
-    "学習",
-    "記憶"
+    "スパイキングニューラルネットワーク(SNN)",
+    "ワーキングメモリ",
+    "記憶",
+    "ニューロモーフィック"
   ],
-  "abstractExcerpt": "Decision making often exhibits context dependence that challenges classical probability theory. This paper develops a quantum-like extension of the Tug-of-War (QTOW) decision-making model to clarify when such context dependence can be…",
+  "abstractExcerpt": "Working memory -- the ability to store and recall precise temporal patterns of neural activity -- remains an open challenge for spiking neural networks (SNNs). We propose a recurrent SNN of $N$ neurons in which each synapse is equipped…",
   "figureUrls": [
-    "https://arxiv.org/html/2601.10034/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
+    "https://arxiv.org/html/2604.14096/2604.14096v2/izhikevich_rec.png",
+    "https://arxiv.org/html/2604.14096/2604.14096v2/unrolled.png",
+    "https://arxiv.org/html/2604.14096/2604.14096v2/target.png"
   ]
 }
