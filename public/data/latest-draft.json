@@ -1,29 +1,27 @@
 {
-  "generatedAt": "2026-07-14T23:29:06.404Z",
-  "date": "2026-07-14",
-  "topic": "スパイキングニューラルネットワーク(SNN)とワーキングメモリ",
-  "templateName": "future-vision",
+  "generatedAt": "2026-07-15T23:36:48.679Z",
+  "date": "2026-07-15",
+  "topic": "自由エネルギー原理と潜在空間",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic Delays",
-  "paperLink": "https://arxiv.org/abs/2604.14096",
-  "figureUrl": "https://arxiv.org/html/2604.14096/2604.14096v2/izhikevich_rec.png",
-  "formatted": "この研究データ、知らないままでいいですか？\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nスパイキングニューラルネットワーク(SNN)とワーキングメモリの最新研究です。\n\n🔬 スパイキングニューラルネットワーク(SNN) × ワーキングメモリ × 記憶 × ニューロモーフィック\n\n> Working memory -- the ability to store and recall precise temporal patterns of neural activity -- remains an open challenge for spiking neural networks (SNNs). We propose a recurrent SNN of $N$ neurons in which each synapse is equipped with $D = 41$ delays, modelled as a weight...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic Delays\n🔗 https://arxiv.org/abs/2604.14096\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #脳情報",
-  "summaryJP": "スパイキングニューラルネットワーク(SNN)とワーキングメモリ — 次世代へ続く布石（ニューロAI・計算論）",
-  "paperAuthors": "Laurent U Perrinet",
-  "publishedDate": "Tue, 14 Jul 2026 00:00:00 -0400",
-  "paperId": "2604.14096",
+  "paperTitle": "Constructed Reality, Contested Priors: Decoupling and the Architecture of Cognitive Relapse Under the Free Energy Principle",
+  "paperLink": "https://arxiv.org/abs/2607.11958",
+  "figureUrl": "https://arxiv.org/html/2607.11958/2607.11958v1/v3_results.png",
+  "formatted": "これを読んで、脳に対する見方が変わりました。\n\n脳科学とAI——その境界線が消えつつある。\n\n自由エネルギー原理と潜在空間に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 自由エネルギー原理 × 潜在空間 × 学習\n\n📊 注目すべきデータ：\n→ Across a full sweep of 90 runs, the two diverge sharply: representational accuracy stays near ceiling, 0.97 to 0.998, regardless of r, while default behavior spans nearly the...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n計算論的神経科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Constructed Reality, Contested Priors: Decoupling and the Architecture of Cognitive Relapse Under the Free Energy Principle\n🔗 https://arxiv.org/abs/2607.11958\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #ニューロテック",
+  "summaryJP": "自由エネルギー原理と潜在空間 — 脳科学とAIをつなぐ研究（計算論的神経科学）",
+  "paperAuthors": "MD Ibrahim Hossain Ridoy",
+  "publishedDate": "Wed, 15 Jul 2026 00:00:00 -0400",
+  "paperId": "2607.11958",
   "paperSource": "arxiv",
-  "themeArea": "ニューロAI・計算論",
+  "themeArea": "計算論的神経科学",
   "jpKeywords": [
-    "スパイキングニューラルネットワーク(SNN)",
-    "ワーキングメモリ",
-    "記憶",
-    "ニューロモーフィック"
+    "自由エネルギー原理",
+    "潜在空間",
+    "学習"
   ],
-  "abstractExcerpt": "Working memory -- the ability to store and recall precise temporal patterns of neural activity -- remains an open challenge for spiking neural networks (SNNs). We propose a recurrent SNN of $N$ neurons in which each synapse is equipped…",
+  "abstractExcerpt": "Under the free energy principle, a predictive system does not observe reality directly; it maintains a generative model of the world and experiences that model's best current hypothesis. Can a synthetic environment be made consistent…",
   "figureUrls": [
-    "https://arxiv.org/html/2604.14096/2604.14096v2/izhikevich_rec.png",
-    "https://arxiv.org/html/2604.14096/2604.14096v2/unrolled.png",
-    "https://arxiv.org/html/2604.14096/2604.14096v2/target.png"
+    "https://arxiv.org/html/2607.11958/2607.11958v1/v3_results.png",
+    "https://arxiv.org/html/2607.11958/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
   ]
 }

@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-07-15T23:36:48.679Z",
+    "date": "2026-07-15",
+    "topic": "自由エネルギー原理と潜在空間",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Constructed Reality, Contested Priors: Decoupling and the Architecture of Cognitive Relapse Under the Free Energy Principle",
+    "paperLink": "https://arxiv.org/abs/2607.11958",
+    "figureUrl": "https://arxiv.org/html/2607.11958/2607.11958v1/v3_results.png",
+    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n脳科学とAI——その境界線が消えつつある。\n\n自由エネルギー原理と潜在空間に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 自由エネルギー原理 × 潜在空間 × 学習\n\n📊 注目すべきデータ：\n→ Across a full sweep of 90 runs, the two diverge sharply: representational accuracy stays near ceiling, 0.97 to 0.998, regardless of r, while default behavior spans nearly the...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n計算論的神経科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Constructed Reality, Contested Priors: Decoupling and the Architecture of Cognitive Relapse Under the Free Energy Principle\n🔗 https://arxiv.org/abs/2607.11958\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #ニューロテック",
+    "summaryJP": "自由エネルギー原理と潜在空間 — 脳科学とAIをつなぐ研究（計算論的神経科学）",
+    "paperAuthors": "MD Ibrahim Hossain Ridoy",
+    "publishedDate": "Wed, 15 Jul 2026 00:00:00 -0400",
+    "paperId": "2607.11958",
+    "paperSource": "arxiv",
+    "themeArea": "計算論的神経科学",
+    "jpKeywords": [
+      "自由エネルギー原理",
+      "潜在空間",
+      "学習"
+    ],
+    "abstractExcerpt": "Under the free energy principle, a predictive system does not observe reality directly; it maintains a generative model of the world and experiences that model's best current hypothesis. Can a synthetic environment be made consistent…",
+    "figureUrls": [
+      "https://arxiv.org/html/2607.11958/2607.11958v1/v3_results.png",
+      "https://arxiv.org/html/2607.11958/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
+    ]
+  },
+  {
     "generatedAt": "2026-07-14T23:29:06.404Z",
     "date": "2026-07-14",
     "topic": "スパイキングニューラルネットワーク(SNN)とワーキングメモリ",
@@ -1228,32 +1255,6 @@
       "言語処理"
     ],
     "abstractExcerpt": "Syntactic complexity serves as a critical indicator of second language writing proficiency, yet traditional assessment methods face challenges in scalability and consistency. Grounded in processability theory and usage-based approaches to…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-30T15:58:23.328Z",
-    "date": "2026-05-30",
-    "topic": "深層学習と学習",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "A survey of deep learning techniques in detecting neurological disorders using MRI.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42216001/",
-    "formatted": "深層学習と学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 深層学習 × 学習 × 畳み込みニューラルネットワーク(CNN) × 表現学習\n\n📊 注目すべきデータ：\n→ Finally, the paper outlines promising research directions such as multimodal learning, self-supervised representation learning, and robust cross-domain generalization to enhance...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 A survey of deep learning techniques in detecting neurological disorders using MRI.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42216001/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #BrainComputerInterface",
-    "summaryJP": "深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
-    "paperAuthors": "Deepak Mane, Ranjeet Bidwe, Rivan Shetty, Atharva Shinde, Gaurav Shende, Vishal Sharma",
-    "publishedDate": "2026-05-29",
-    "paperId": "42216001",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "深層学習",
-      "学習",
-      "畳み込みニューラルネットワーク(CNN)",
-      "表現学習",
-      "Transformer",
-      "脳画像研究"
-    ],
-    "abstractExcerpt": "Magnetic resonance imaging (MRI) is widely regarded as the most reliable non-invasive imaging modality for detecting neurological disorders. However, manual interpretation of MRI scans is often time-consuming and prone to inter-observer…",
     "figureUrls": []
   }
 ]
