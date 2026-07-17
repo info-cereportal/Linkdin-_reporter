@@ -1,59 +1,35 @@
 {
-  "generatedAt": "2026-07-16T23:32:30.047Z",
+  "generatedAt": "2026-07-17T23:31:03.772Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
+      "itemCount": 3,
       "items": [
         {
-          "title": "Classifying daily activities needs posture, reconstructing them needs motion",
-          "url": "https://arxiv.org/abs/2607.13216",
-          "publishedDate": "Thu, 16 Jul 2026 00:00:00 -0400",
+          "title": "Thoughtseeds as Latent Causes: A Dual-Process Computational Phenomenology of Focused-Attention Meditation",
+          "url": "https://arxiv.org/abs/2607.14833",
+          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Humans recognize movements effortlessly, even from noisy and complex visual input. But what information in the stimulus allows humans to rapidly classify movements? No framework has systematically compared different strategies of movement…",
-          "authors": "Arefeh Farahmandi, Gunnar Blohm"
+          "summary": "Meditative expertise involves sustained attention, rapid recovery from distraction, and coordinated dynamics of large-scale brain networks. We present a computational phenomenology of focused-attention meditation traversing four attractor…",
+          "authors": "Prakash Chandra Kavi, Daniel Ari Friedman, Gustavo Patow"
         },
         {
-          "title": "Grounded world models in biological organisms and future embodied AI",
-          "url": "https://arxiv.org/abs/2607.13560",
-          "publishedDate": "Thu, 16 Jul 2026 00:00:00 -0400",
+          "title": "Subjective functions",
+          "url": "https://arxiv.org/abs/2512.15948",
+          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent advances in generative and embodied AI have been driven by large-scale predictive learning over multimodal data. However, the resulting systems remain largely based on passive training regimes where linguistic regularities create…",
-          "authors": "Giovanni Pezzulo, Davide Nuzzi, Marco D'Alessandro, Riccardo Proietti, Roberto Bottini, Paul Cisek"
-        },
-        {
-          "title": "Activity Regeneration from Silent States in Neuronal Networks with Transient Synaptic Memory",
-          "url": "https://arxiv.org/abs/2607.14000",
-          "publishedDate": "Thu, 16 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Transient synaptic memory has emerged as a potential mechanism for maintaining short-term information even in the absence of persistent neuronal activity. However, it remains unclear whether the hidden synaptic state alone contains…",
-          "authors": "Mozhgan Khanjanianpak, Alireza Valiadeh"
-        },
-        {
-          "title": "Evaluating Encoding Strategies for Closed-Loop Classification in Biological Neural Networks",
-          "url": "https://arxiv.org/abs/2607.13644",
-          "publishedDate": "Thu, 16 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Interfacing with Biological Neural Networks (BNNs) requires encoding information into stimulation patterns that can be effectively processed and that enable the underlying system to adapt. Nevertheless, the role of stimulation encoding…",
-          "authors": "Martin Schottlender, Veronika Volkova, Pengjie Zhou, Ruifeng Zheng, Frank H. P. Fitzek, Pit Hofmann"
+          "summary": "Where do objective functions come from? How do we select what goals to pursue? Human intelligence is adept at synthesizing new objective functions on the fly. How does this work, and can we endow artificial systems with the same ability?…",
+          "authors": "Samuel J. Gershman"
         },
         {
           "title": "A modular state-space model of human perception, cognition, and decision dynamics",
           "url": "https://arxiv.org/abs/2607.14078",
-          "publishedDate": "Thu, 16 Jul 2026 00:00:00 -0400",
+          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
           "summary": "Human-centered adaptive systems require behavioral models that are both psychologically interpretable and mathematically analyzable. Many existing predictors either operate as black-box input-output mappings or provide limited access to…",
-          "authors": "Sven Schoonebeek, Anahita Jamshidnejad, Carlo Cenedese"
-        },
-        {
-          "title": "Leveraging unlabelled data for generalizable neural population decoding",
-          "url": "https://arxiv.org/abs/2607.14086",
-          "publishedDate": "Thu, 16 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike level facilitates multi-session pretraining…",
-          "authors": "Ximeng Mao, Nanda H. Krishna, Avery Hee-Woon Ryoo, Matthew G. Perich, Guillaume Lajoie"
+          "authors": "Sven Schoonebeek, Carlo Cenedese, Anahita Jamshidnejad"
         }
       ]
     },
@@ -62,6 +38,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Quitting smoking is hard. A Medicare change may push doctors to give more help",
+          "url": "https://www.statnews.com/2026/07/17/medicare-smoking-cessation-reimbursement-increase/?utm_campaign=rss",
+          "publishedDate": "Fri, 17 Jul 2026 16:05:04 +0000",
+          "source": "statnews.com",
+          "summary": "Physicians who offer counseling on quitting cigarettes and alcohol during patient visits would get a 19% increase in reimbursement under a proposed Medicare change.",
+          "authors": "Sarah Todd"
+        },
+        {
+          "title": "Lettuce at Taco Bell in five states confirmed as a source of diarrhea-causing parasite",
+          "url": "https://www.statnews.com/2026/07/17/cyclosporiasis-outbreak-traced-taylor-farms-lettuce-taco-bell/?utm_campaign=rss",
+          "publishedDate": "Fri, 17 Jul 2026 14:52:38 +0000",
+          "source": "statnews.com",
+          "summary": "Health officials have identified lettuce from Mexico served at Taco Bell locations across five U.S. states as a source of the outbreak of diarrhea-causing parasite cyclospora.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "Who can access testosterone hormone medication in the U.S.?",
+          "url": "https://www.statnews.com/2026/07/17/health-news-who-can-access-testosterone-hormone-therapy-in-us/?utm_campaign=rss",
+          "publishedDate": "Fri, 17 Jul 2026 11:53:20 +0000",
+          "source": "statnews.com",
+          "summary": "Wildfire smoke health hazards, a new idea for treating Duchenne, and more health news from Morning Rounds",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "Why affirming trans identities can be critical for suicide prevention counseling",
+          "url": "https://www.statnews.com/2026/07/17/trevor-project-suicide-prevention-counseling-for-trans-youth/?utm_campaign=rss",
+          "publishedDate": "Fri, 17 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Advocates worry that excluding trans youth in some way from LGBTQ+ counseling services provided through the 988 crisis line could be harmful.",
+          "authors": "Theresa Gaffney"
+        },
         {
           "title": "STAT+: Fresh turmoil roils American Diabetes Association following controversy at conference",
           "url": "https://www.statnews.com/2026/07/16/american-diabetes-association-annual-conference-controversy-continues/?utm_campaign=rss",
@@ -77,38 +85,6 @@
           "source": "statnews.com",
           "summary": "Medical experts are divided on Defense Secretary Pete Hegseth’s announcement that U.S. service members will undergo annual testosterone screenings.",
           "authors": "Annalisa Merelli"
-        },
-        {
-          "title": "WHO: Uganda is silent on updates following disclosure of Marburg outbreak",
-          "url": "https://www.statnews.com/2026/07/16/world-health-organization-wants-marburg-virus-update-from-uganda/?utm_campaign=rss",
-          "publishedDate": "Thu, 16 Jul 2026 16:22:07 +0000",
-          "source": "statnews.com",
-          "summary": "The government of Uganda has gone quiet on an outbreak of the deadly Marburg virus that it reported late last month, the WHO acknowledged.",
-          "authors": "Helen Branswell"
-        },
-        {
-          "title": "STAT+: Spring forward forever? Another daylight saving debate arrives in Congress",
-          "url": "https://www.statnews.com/2026/07/16/health-news-another-daylight-savings-debate-arrives-in-congress/?utm_campaign=rss",
-          "publishedDate": "Thu, 16 Jul 2026 11:09:27 +0000",
-          "source": "statnews.com",
-          "summary": "Trump's pandemic preparedness nominee testifies, the \"fang-to-pharmacy\" pipeline, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "Graham’s death from aortic dissection raises questions about preventing the rare disorder",
-          "url": "https://www.statnews.com/2026/07/15/lindsey-graham-death-aortic-dissection-risk-prediction-warning-signs/?utm_campaign=rss",
-          "publishedDate": "Wed, 15 Jul 2026 23:02:48 +0000",
-          "source": "statnews.com",
-          "summary": "When the body’s most important blood vessel tears from the inside, it’s a medical emergency that can be years in the making.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "STAT+: At key hearing, Kennedy’s ouster of former CDC director looms over nominee to replace her",
-          "url": "https://www.statnews.com/2026/07/15/schwartz-kaufman-senate-confirmation-hearing-key-takeaways/?utm_campaign=rss",
-          "publishedDate": "Wed, 15 Jul 2026 20:26:04 +0000",
-          "source": "statnews.com",
-          "summary": "Erica Schwartz and Sean Kaufman navigated tough questions about vaccines, political independence, and pushing back on RFK Jr.",
-          "authors": "Chelsea Cirruzzo"
         }
       ]
     },
@@ -117,6 +93,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Scientists tested 39 sweeteners and found unexpected gut effects",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260716023552.htm",
+          "publishedDate": "Fri, 17 Jul 2026 04:59:35 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A large laboratory study found that many commonly used sweeteners can directly change the growth of gut bacteria. Researchers identified more than 100 cases in which sweeteners behaved differently when combined with medications, caffeine,…",
+          "authors": ""
+        },
+        {
+          "title": "New Alzheimer&#039;s drug repairs DNA damage and reduces brain inflammation",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260711010118.htm",
+          "publishedDate": "Fri, 17 Jul 2026 00:19:36 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A drug originally developed for spinal cord injury may offer a fresh approach to treating Alzheimer’s disease. In mouse studies, KCL-286 repaired dangerous DNA damage, reduced inflammation, and targeted multiple disease-related pathways…",
+          "authors": ""
+        },
+        {
+          "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm",
+          "publishedDate": "Thu, 16 Jul 2026 21:51:52 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key tumor-suppressing protein…",
+          "authors": ""
+        },
         {
           "title": "STAT+: GOP blocks effort to end Medicare test of AI prior authorization",
           "url": "https://www.statnews.com/2026/07/16/medicare-ai-prior-authorization-pilot-wiser-senate-vote/?utm_campaign=rss",
@@ -134,36 +134,12 @@
           "authors": "Annalisa Merelli"
         },
         {
-          "title": "Scientists finally solved how a common gut bacterium triggers colon cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260713084910.htm",
-          "publishedDate": "Thu, 16 Jul 2026 01:37:21 EDT",
+          "title": "This drug could help millions keep their kidneys working longer",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260712011753.htm",
+          "publishedDate": "Thu, 16 Jul 2026 09:04:35 EDT",
           "source": "sciencedaily.com",
-          "summary": "Researchers solved a long-standing mystery behind how a bacterial toxin associated with colorectal cancer damages the colon. The toxin first binds to a receptor called claudin-4, giving it access to attack the cells&#039; protective…",
+          "summary": "An international study found that finerenone slows kidney function decline and reduces the risk of serious kidney and cardiovascular complications in people with chronic kidney disease who do not have diabetes. The results could open the…",
           "authors": ""
-        },
-        {
-          "title": "More than 400 sick as CDC searches for the source of a mystery outbreak",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260715083530.htm",
-          "publishedDate": "Thu, 16 Jul 2026 00:25:05 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A growing Cyclospora outbreak has sickened more than 400 people in four states, and investigators are still searching for the contaminated food responsible. The CDC warns the actual number of cases is likely much higher and urges anyone…",
-          "authors": ""
-        },
-        {
-          "title": "Common constipation drug may help clear depression brain fog",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260712011751.htm",
-          "publishedDate": "Wed, 15 Jul 2026 20:49:09 EDT",
-          "source": "sciencedaily.com",
-          "summary": "An existing constipation drug may have an unexpected new use: helping clear the \"brain fog\" that often lingers after depression. In a small clinical trial, people with a history of depression who took the medication prucalopride for about…",
-          "authors": ""
-        },
-        {
-          "title": "Graham’s death from aortic dissection raises questions about preventing the rare disorder",
-          "url": "https://www.statnews.com/2026/07/15/lindsey-graham-death-aortic-dissection-risk-prediction-warning-signs/?utm_campaign=rss",
-          "publishedDate": "Wed, 15 Jul 2026 23:02:48 +0000",
-          "source": "statnews.com",
-          "summary": "When the body’s most important blood vessel tears from the inside, it’s a medical emergency that can be years in the making.",
-          "authors": "Elizabeth Cooney"
         }
       ]
     },
@@ -173,52 +149,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Hybrid multi-objective evolutionary algorithms for service placement in the computing continuum: a comparative study with genetic traceability",
-          "url": "https://arxiv.org/abs/2607.13200",
-          "publishedDate": "Thu, 16 Jul 2026 00:00:00 -0400",
+          "title": "Asymptotical Analysis of the $(1+(\\lambda,\\lambda))$ GA Escape Time from Local Optima on Jump Functions",
+          "url": "https://arxiv.org/abs/2607.14278",
+          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper addresses multi-objective service placement in computing continuum environments through a collaborative hybrid island-model MOEA. The key innovation is not the design of a new general hybrid algorithm, but the systematic…",
-          "authors": "Sergi Vivo, Carlos Guerrero, Isaac Lera"
+          "summary": "The paper develops the approach to the runtime analysis of evolutionary algorithms on the basis of limit theorems from probability theory. We consider the family of Jump$_k$ benchmark functions, defined on the search space of binary…",
+          "authors": "Anton V. Eremeev, Valentin A. Topchii"
         },
         {
-          "title": "The impact of objective interactions on the performance of massive objective optimization algorithms",
-          "url": "https://arxiv.org/abs/2607.13377",
-          "publishedDate": "Thu, 16 Jul 2026 00:00:00 -0400",
+          "title": "Cross-Layer Error Compensation and Finite-Sample Feature-Statistics Matching for Extreme Low-Bit Quantization of Large Language Models",
+          "url": "https://arxiv.org/abs/2607.14630",
+          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Many-objective optimization has been a field of interest over the past two decades and several evolutionary optimization algorithms have been introduced to tackle these problems; yet two fundamental questions remain underexplored: (i) What…",
-          "authors": "Shakiba Shahbandegan, Jose Guadalupe Hernandez, Emily Dolson"
+          "summary": "Layer-wise post-training quantization of large language models minimizes each layer's reconstruction error in isolation, allowing quantization errors to accumulate across depth and causing severe degradation in extreme low-bit regimes. We…",
+          "authors": "Ryona Noda"
         },
         {
-          "title": "Visual Place Recognition Using Rate-Encoded Spiking Neural Networks with Discrete STDP Learning",
-          "url": "https://arxiv.org/abs/2607.13584",
-          "publishedDate": "Thu, 16 Jul 2026 00:00:00 -0400",
+          "title": "Confidence-based Ranking with Adaptive Sampling for Noisy Black-Box Optimisation",
+          "url": "https://arxiv.org/abs/2607.14936",
+          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking Neural Networks (SNNs) trained through unsupervised Spike-Timing-Dependent Plasticity (STDP) have been explored as solutions to visual loop closure problems, driven by the prospect of efficient on-device inference on neuromorphic…",
-          "authors": "Altzi Tsanko, Oikonomou Katerina Maria, Antonios Gasteratos"
+          "summary": "Real-world optimization problems often involve black-box functions and uncertainties in their evaluation, widely referred to as noisy optimization problems (NOPs). Evolutionary algorithms (EA), including Evolutionary Strategies (ES) and…",
+          "authors": "Enrico Halim, Hemant Kumar Singh, Tapabrata Ray"
         },
         {
-          "title": "S-CARD-CMSA: A Score-Aware Candidate Archive with Density-Filtered Reporting for Multimodal Optimization",
-          "url": "https://arxiv.org/abs/2607.13764",
-          "publishedDate": "Thu, 16 Jul 2026 00:00:00 -0400",
+          "title": "NeuronSoup: Evolving Asynchronous, Shared-Neuron Temporal Graphs without Backpropagation",
+          "url": "https://arxiv.org/abs/2607.15217",
+          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Multimodal optimization aims to locate multiple globally optimal or near-optimal solutions in a single run. This paper presents \\emphS-CARD-CMSA, a score-aware candidate-archive and density-filtered reporting framework built on the…",
-          "authors": "Dikshit Chauhan"
+          "summary": "We present NeuronSoup, a neural computation architecture that replaces synchronous layer-by-layer processing with asynchronous, delay-mediated signal propagation through a pool of shared neurons. Each path in the network routes a…",
+          "authors": "Subodh Kalia"
         },
         {
-          "title": "How to Guide LLM Generation: Dual-Surrogate Guided Search for Automated Heuristic Design",
-          "url": "https://arxiv.org/abs/2607.13911",
-          "publishedDate": "Thu, 16 Jul 2026 00:00:00 -0400",
+          "title": "Moment-Resolved Readout and Reservoir Diversity in Nonequilibrium Langevin Computing",
+          "url": "https://arxiv.org/abs/2607.14520",
+          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Large language models (LLMs) have made automated heuristic design (AHD) increasingly practical by generating executable heuristic code from task descriptions and evaluator feedback. Yet under a limited query and evaluation budget, search…",
-          "authors": "Yuhan Wang, Chaoda Peng, Xingyu Wu, Sheng-Hao Wu, Zhi-Hui Zhan"
+          "summary": "Nonlinear thermodynamic computers based on Langevin dynamics exploit thermal fluctuations as a physical substrate for computation. Recent work has shown that quartic-confined fluctuating degrees of freedom can act as thermodynamic neurons…",
+          "authors": "JiZheng Duan, MingYang Zhao, YanWei Chen, Lei Yang"
         },
         {
-          "title": "SPECS: Speciated Evolutionary Circuit Synthesis",
-          "url": "https://arxiv.org/abs/2607.14027",
-          "publishedDate": "Thu, 16 Jul 2026 00:00:00 -0400",
+          "title": "Toward Energy-Efficient and Low-Power Arrhythmia Detection for Wearable Devices",
+          "url": "https://arxiv.org/abs/2607.14747",
+          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We propose SPECS, a genetic algorithm for automated analog circuit synthesis with joint topology and sizing optimization. SPECS is inspired by NeuroEvolution of Augmenting Topologies (NEAT), an evolutionary algorithm originally developed…",
-          "authors": "Ya\\ug\\iz Gençer, Stefan Uhlich, Andrea Bonetti, Arun Venkitaraman, Chia-Yu Hsieh, Lorenzo Servadei"
+          "summary": "Cardiovascular diseases are the leading cause of death worldwide, and conditions such as arrhythmia often require long-term monitoring for effective detection and diagnosis. However, current wearable monitoring devices are bulky,…",
+          "authors": "Floriaan Bulten, Yawar Rasheed, Arlene John, Vincenzo Stoico, Ghayoor Gillani"
         }
       ]
     },
@@ -228,12 +204,12 @@
       "itemCount": 1,
       "items": [
         {
-          "title": "Compositional Zero-Shot Recognition based on Tangent Space Disentanglement for Composite Modulation Signals",
-          "url": "https://arxiv.org/abs/2607.13463",
-          "publishedDate": "Thu, 16 Jul 2026 00:00:00 -0400",
+          "title": "ESAR: Event-Based Synthetic Aperture Reconstruction",
+          "url": "https://arxiv.org/abs/2607.15073",
+          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Automatic composite modulation recognition (ACMR) is critical for integrated sensing and communication (ISAC) systems, while conventional approaches face significant challenges due to the semantic coupling between inner-layer and…",
-          "authors": "Yurui Zhao, Xiang Wang, Zhitao Huang, Baoguo Li"
+          "summary": "Event cameras report asynchronous polarity events when changes in log--radiance exceed a fixed contrast threshold, producing signed temporal contrast measurements rather than conventional image frames. We formulate monocular event-based…",
+          "authors": "Harbir Antil, Daniel Blauvelt, David Sayre"
         }
       ]
     }
