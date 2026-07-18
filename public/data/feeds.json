@@ -1,37 +1,12 @@
 {
-  "generatedAt": "2026-07-17T23:31:03.772Z",
+  "generatedAt": "2026-07-18T23:33:14.999Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 3,
-      "items": [
-        {
-          "title": "Thoughtseeds as Latent Causes: A Dual-Process Computational Phenomenology of Focused-Attention Meditation",
-          "url": "https://arxiv.org/abs/2607.14833",
-          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Meditative expertise involves sustained attention, rapid recovery from distraction, and coordinated dynamics of large-scale brain networks. We present a computational phenomenology of focused-attention meditation traversing four attractor…",
-          "authors": "Prakash Chandra Kavi, Daniel Ari Friedman, Gustavo Patow"
-        },
-        {
-          "title": "Subjective functions",
-          "url": "https://arxiv.org/abs/2512.15948",
-          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Where do objective functions come from? How do we select what goals to pursue? Human intelligence is adept at synthesizing new objective functions on the fly. How does this work, and can we endow artificial systems with the same ability?…",
-          "authors": "Samuel J. Gershman"
-        },
-        {
-          "title": "A modular state-space model of human perception, cognition, and decision dynamics",
-          "url": "https://arxiv.org/abs/2607.14078",
-          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Human-centered adaptive systems require behavioral models that are both psychologically interpretable and mathematically analyzable. Many existing predictors either operate as black-box input-output mappings or provide limited access to…",
-          "authors": "Sven Schoonebeek, Carlo Cenedese, Anahita Jamshidnejad"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -94,6 +69,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Intermittent fasting helped people keep weight off for a year",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260718010154.htm",
+          "publishedDate": "Sat, 18 Jul 2026 07:59:33 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A 12-week intermittent fasting program produced weight-loss benefits that were still visible a year later. Participants who ate within an eight-hour window maintained more weight loss than those who followed their usual longer eating…",
+          "authors": ""
+        },
+        {
+          "title": "Mediterranean diet may activate tiny proteins that protect the heart and brain",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260716023605.htm",
+          "publishedDate": "Fri, 17 Jul 2026 22:24:14 EDT",
+          "source": "sciencedaily.com",
+          "summary": "The Mediterranean diet may influence aging through tiny proteins produced inside the cell’s mitochondria. Older adults who followed the diet most closely had higher levels of humanin and SHMOOSE, which have been linked to heart and brain…",
+          "authors": ""
+        },
+        {
+          "title": "Tiny plastics in drinking water may be making dangerous bacteria stronger",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260714225532.htm",
+          "publishedDate": "Fri, 17 Jul 2026 09:14:10 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Tiny plastic particles in drinking water may be doing more than contaminating the environment. New research suggests nanoplastics can actually help harmful bacteria survive by strengthening the slimy biofilms they form inside water…",
+          "authors": ""
+        },
+        {
           "title": "Scientists tested 39 sweeteners and found unexpected gut effects",
           "url": "https://www.sciencedaily.com/releases/2026/07/260716023552.htm",
           "publishedDate": "Fri, 17 Jul 2026 04:59:35 EDT",
@@ -116,100 +115,67 @@
           "source": "sciencedaily.com",
           "summary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key tumor-suppressing protein…",
           "authors": ""
-        },
-        {
-          "title": "STAT+: GOP blocks effort to end Medicare test of AI prior authorization",
-          "url": "https://www.statnews.com/2026/07/16/medicare-ai-prior-authorization-pilot-wiser-senate-vote/?utm_campaign=rss",
-          "publishedDate": "Thu, 16 Jul 2026 18:53:23 +0000",
-          "source": "statnews.com",
-          "summary": "The Trump administration is testing the use of AI in Medicare to approve some medical services.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "Pete Hegseth’s announcement of annual testosterone screenings for service members divides medical experts",
-          "url": "https://www.statnews.com/2026/07/16/hegseth-testosterone-testing-proposal-reactions-range-promising-crazy/?utm_campaign=rss",
-          "publishedDate": "Thu, 16 Jul 2026 17:20:31 +0000",
-          "source": "statnews.com",
-          "summary": "Medical experts are divided on Defense Secretary Pete Hegseth’s announcement that U.S. service members will undergo annual testosterone screenings.",
-          "authors": "Annalisa Merelli"
-        },
-        {
-          "title": "This drug could help millions keep their kidneys working longer",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260712011753.htm",
-          "publishedDate": "Thu, 16 Jul 2026 09:04:35 EDT",
-          "source": "sciencedaily.com",
-          "summary": "An international study found that finerenone slows kidney function decline and reduces the risk of serious kidney and cardiovascular complications in people with chronic kidney disease who do not have diabetes. The results could open the…",
-          "authors": ""
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Asymptotical Analysis of the $(1+(\\lambda,\\lambda))$ GA Escape Time from Local Optima on Jump Functions",
-          "url": "https://arxiv.org/abs/2607.14278",
-          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The paper develops the approach to the runtime analysis of evolutionary algorithms on the basis of limit theorems from probability theory. We consider the family of Jump$_k$ benchmark functions, defined on the search space of binary…",
-          "authors": "Anton V. Eremeev, Valentin A. Topchii"
-        },
-        {
-          "title": "Cross-Layer Error Compensation and Finite-Sample Feature-Statistics Matching for Extreme Low-Bit Quantization of Large Language Models",
-          "url": "https://arxiv.org/abs/2607.14630",
-          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Layer-wise post-training quantization of large language models minimizes each layer's reconstruction error in isolation, allowing quantization errors to accumulate across depth and causing severe degradation in extreme low-bit regimes. We…",
-          "authors": "Ryona Noda"
-        },
-        {
-          "title": "Confidence-based Ranking with Adaptive Sampling for Noisy Black-Box Optimisation",
-          "url": "https://arxiv.org/abs/2607.14936",
-          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Real-world optimization problems often involve black-box functions and uncertainties in their evaluation, widely referred to as noisy optimization problems (NOPs). Evolutionary algorithms (EA), including Evolutionary Strategies (ES) and…",
-          "authors": "Enrico Halim, Hemant Kumar Singh, Tapabrata Ray"
-        },
-        {
-          "title": "NeuronSoup: Evolving Asynchronous, Shared-Neuron Temporal Graphs without Backpropagation",
-          "url": "https://arxiv.org/abs/2607.15217",
-          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We present NeuronSoup, a neural computation architecture that replaces synchronous layer-by-layer processing with asynchronous, delay-mediated signal propagation through a pool of shared neurons. Each path in the network routes a…",
-          "authors": "Subodh Kalia"
-        },
-        {
-          "title": "Moment-Resolved Readout and Reservoir Diversity in Nonequilibrium Langevin Computing",
-          "url": "https://arxiv.org/abs/2607.14520",
-          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Nonlinear thermodynamic computers based on Langevin dynamics exploit thermal fluctuations as a physical substrate for computation. Recent work has shown that quartic-confined fluctuating degrees of freedom can act as thermodynamic neurons…",
-          "authors": "JiZheng Duan, MingYang Zhao, YanWei Chen, Lei Yang"
-        },
-        {
-          "title": "Toward Energy-Efficient and Low-Power Arrhythmia Detection for Wearable Devices",
-          "url": "https://arxiv.org/abs/2607.14747",
-          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Cardiovascular diseases are the leading cause of death worldwide, and conditions such as arrhythmia often require long-term monitoring for effective detection and diagnosis. However, current wearable monitoring devices are bulky,…",
-          "authors": "Floriaan Bulten, Yawar Rasheed, Arlene John, Vincenzo Stoico, Ghayoor Gillani"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 1,
+      "itemCount": 6,
       "items": [
         {
-          "title": "ESAR: Event-Based Synthetic Aperture Reconstruction",
-          "url": "https://arxiv.org/abs/2607.15073",
-          "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Event cameras report asynchronous polarity events when changes in log--radiance exceed a fixed contrast threshold, producing signed temporal contrast measurements rather than conventional image frames. We formulate monocular event-based…",
-          "authors": "Harbir Antil, Daniel Blauvelt, David Sayre"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
+        },
+        {
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }

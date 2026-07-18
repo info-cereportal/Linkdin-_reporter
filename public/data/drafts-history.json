@@ -1,5 +1,27 @@
 [
   {
+    "generatedAt": "2026-07-18T23:33:14.211Z",
+    "date": "2026-07-18",
+    "topic": "学習",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Avoidance habit learning after recovery from anorexia nervosa: An fMRI study.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42469174/",
+    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習 × fMRI\n\n> Anorexia Nervosa (AN) has been linked to altered self-regulatory control processes and maladaptive habitual avoidance behavior. Both goal-directed and habit systems may be relevant to AN, in which restrictive eating behavior can appear highly deliberate and increasingly...\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Avoidance habit learning after recovery from anorexia nervosa: An fMRI study.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42469174/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #ニューロテック",
+    "summaryJP": "学習 — 数値で示された新事実",
+    "paperAuthors": "Clara M Breier, Julius Hennig, Joseph A King, Daniel Geisler, Arne Doose, Ilka Boehm",
+    "publishedDate": "2026-07-17",
+    "paperId": "42469174",
+    "paperSource": "pubmed",
+    "themeArea": "脳情報科学",
+    "jpKeywords": [
+      "学習",
+      "fMRI"
+    ],
+    "abstractExcerpt": "Anorexia Nervosa (AN) has been linked to altered self-regulatory control processes and maladaptive habitual avoidance behavior. Both goal-directed and habit systems may be relevant to AN, in which restrictive eating behavior can appear…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-07-17T23:31:03.126Z",
     "date": "2026-07-17",
     "topic": "クローズドループ制御と注意機構",
@@ -1229,28 +1251,6 @@
       "脳画像研究"
     ],
     "abstractExcerpt": "Magnetic resonance imaging (MRI) is widely regarded as the most reliable non-invasive imaging modality for detecting neurological disorders. However, manual interpretation of MRI scans is often time-consuming and prone to inter-observer…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-31T02:29:52.993Z",
-    "date": "2026-05-31",
-    "topic": "注意機構と学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "CholBindNet as an interpretable neural network for cholesterol-binding site classification.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42215600/",
-    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、注意機構と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 注意機構 × 学習\n\n📊 注目すべきデータ：\n→ We show that CholBindNet substantially outperforms existing machine learning models trained on general ligand-binding datasets, including AlphaFold3, P2Rank, and DiffDock.\n→ The performance and generalizability of the model on unseen membrane proteins were further demonstrated by rapidly assessing cholesterol-binding sites in the PIEZO2 ion channel...\n→ Overall, CholBindNet provides an efficient and scalable approach for classifying and ranking cholesterol-binding sites on membrane proteins, achieving performance comparable to...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 CholBindNet as an interpretable neural network for cholesterol-binding site classification.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42215600/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #脳情報",
-    "summaryJP": "注意機構と学習 — 数値で示された新事実（神経デコーディング）",
-    "paperAuthors": "Alexis Hernandez, Aashish Bhatt, Ivan Revilla, Jacob Ede Levine, Sai Chandra Kosaraju, Yun Lyna Luo",
-    "publishedDate": "2026-05-29",
-    "paperId": "42215600",
-    "paperSource": "pubmed",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "注意機構",
-      "学習"
-    ],
-    "abstractExcerpt": "Cholesterol is a key modulator of membrane protein structure and function, yet predicting cholesterol-binding sites remains challenging due to its non-druglike physicochemical properties. Here, we curated more than 800 high-resolution…",
     "figureUrls": []
   }
 ]
