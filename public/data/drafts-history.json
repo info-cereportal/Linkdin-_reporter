@@ -1,5 +1,29 @@
 [
   {
+    "generatedAt": "2026-07-19T23:35:16.460Z",
+    "date": "2026-07-19",
+    "topic": "深層学習と学習",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "Rapid rice seed vigor assessment: A machine learning and deep learning framework with multi-time-point image analysis.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42471835/",
+    "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\n深層学習と学習の最新成果を整理しました。\n\n🔬 深層学習 × 学習 × 畳み込みニューラルネットワーク(CNN) × 意思決定\n\n📊 注目すべきデータ：\n→ The ensemble approach achieved superior performance, highlighting the importance of incorporating temporal growth dynamics into vigor classification.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Rapid rice seed vigor assessment: A machine learning and deep learning framework with multi-time-point image analysis.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42471835/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #BCI",
+    "summaryJP": "深層学習と学習 — 注目すべき3つの示唆（ニューロAI・計算論）",
+    "paperAuthors": "Veerasit Kaewbundit, Damrongvudhi Onwimol, Papis Wongchaisuwat",
+    "publishedDate": "2026-07-19",
+    "paperId": "42471835",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "深層学習",
+      "学習",
+      "畳み込みニューラルネットワーク(CNN)",
+      "意思決定"
+    ],
+    "abstractExcerpt": "Automated rice seed vigor classification provides a non-invasive and scalable solution for improving agricultural decision-making. This study proposed an image-based framework to compare traditional machine learning and deep learning…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-07-18T23:33:14.211Z",
     "date": "2026-07-18",
     "topic": "学習",
@@ -1225,32 +1249,6 @@
       "記憶"
     ],
     "abstractExcerpt": "Accurate identification of renal cell types within tissue architecture is fundamental for understanding normal kidney physiology and detecting early pathological changes. While traditional histological examination is time-intensive and…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-05-31T04:12:13.320Z",
-    "date": "2026-05-31",
-    "topic": "深層学習と学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "A survey of deep learning techniques in detecting neurological disorders using MRI.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42216001/",
-    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、深層学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 深層学習 × 学習 × 畳み込みニューラルネットワーク(CNN) × 表現学習\n\n📊 注目すべきデータ：\n→ Finally, the paper outlines promising research directions such as multimodal learning, self-supervised representation learning, and robust cross-domain generalization to enhance...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 A survey of deep learning techniques in detecting neurological disorders using MRI.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42216001/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #DeepLearning",
-    "summaryJP": "深層学習と学習 — 数値で示された新事実（ニューロAI・計算論）",
-    "paperAuthors": "Deepak Mane, Ranjeet Bidwe, Rivan Shetty, Atharva Shinde, Gaurav Shende, Vishal Sharma",
-    "publishedDate": "2026-05-29",
-    "paperId": "42216001",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "深層学習",
-      "学習",
-      "畳み込みニューラルネットワーク(CNN)",
-      "表現学習",
-      "Transformer",
-      "脳画像研究"
-    ],
-    "abstractExcerpt": "Magnetic resonance imaging (MRI) is widely regarded as the most reliable non-invasive imaging modality for detecting neurological disorders. However, manual interpretation of MRI scans is often time-consuming and prone to inter-observer…",
     "figureUrls": []
   }
 ]

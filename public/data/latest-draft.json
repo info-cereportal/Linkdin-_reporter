@@ -1,22 +1,24 @@
 {
-  "generatedAt": "2026-07-18T23:33:14.211Z",
-  "date": "2026-07-18",
-  "topic": "学習",
-  "templateName": "data-driven",
+  "generatedAt": "2026-07-19T23:35:16.460Z",
+  "date": "2026-07-19",
+  "topic": "深層学習と学習",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Avoidance habit learning after recovery from anorexia nervosa: An fMRI study.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42469174/",
-  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習 × fMRI\n\n> Anorexia Nervosa (AN) has been linked to altered self-regulatory control processes and maladaptive habitual avoidance behavior. Both goal-directed and habit systems may be relevant to AN, in which restrictive eating behavior can appear highly deliberate and increasingly...\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Avoidance habit learning after recovery from anorexia nervosa: An fMRI study.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42469174/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #ニューロテック",
-  "summaryJP": "学習 — 数値で示された新事実",
-  "paperAuthors": "Clara M Breier, Julius Hennig, Joseph A King, Daniel Geisler, Arne Doose, Ilka Boehm",
-  "publishedDate": "2026-07-17",
-  "paperId": "42469174",
+  "paperTitle": "Rapid rice seed vigor assessment: A machine learning and deep learning framework with multi-time-point image analysis.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42471835/",
+  "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\n深層学習と学習の最新成果を整理しました。\n\n🔬 深層学習 × 学習 × 畳み込みニューラルネットワーク(CNN) × 意思決定\n\n📊 注目すべきデータ：\n→ The ensemble approach achieved superior performance, highlighting the importance of incorporating temporal growth dynamics into vigor classification.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Rapid rice seed vigor assessment: A machine learning and deep learning framework with multi-time-point image analysis.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42471835/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #BCI",
+  "summaryJP": "深層学習と学習 — 注目すべき3つの示唆（ニューロAI・計算論）",
+  "paperAuthors": "Veerasit Kaewbundit, Damrongvudhi Onwimol, Papis Wongchaisuwat",
+  "publishedDate": "2026-07-19",
+  "paperId": "42471835",
   "paperSource": "pubmed",
-  "themeArea": "脳情報科学",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
+    "深層学習",
     "学習",
-    "fMRI"
+    "畳み込みニューラルネットワーク(CNN)",
+    "意思決定"
   ],
-  "abstractExcerpt": "Anorexia Nervosa (AN) has been linked to altered self-regulatory control processes and maladaptive habitual avoidance behavior. Both goal-directed and habit systems may be relevant to AN, in which restrictive eating behavior can appear…",
+  "abstractExcerpt": "Automated rice seed vigor classification provides a non-invasive and scalable solution for improving agricultural decision-making. This study proposed an image-based framework to compare traditional machine learning and deep learning…",
   "figureUrls": []
 }

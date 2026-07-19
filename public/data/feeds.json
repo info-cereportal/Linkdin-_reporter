@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T23:33:14.999Z",
+  "generatedAt": "2026-07-19T23:35:17.196Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,6 +69,38 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "The mysterious hum heard around the world may finally have an explanation",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
+          "publishedDate": "Sun, 19 Jul 2026 08:07:13 EDT",
+          "source": "sciencedaily.com",
+          "summary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds…",
+          "authors": ""
+        },
+        {
+          "title": "Coffee may help the body fight stress and aging through a hidden cellular switch",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
+          "publishedDate": "Sun, 19 Jul 2026 05:19:13 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells from stress, inflammation, and damage.…",
+          "authors": ""
+        },
+        {
+          "title": "Common antidepressant may ease long COVID’s crushing fatigue",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
+          "publishedDate": "Sat, 18 Jul 2026 21:55:33 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life compared with a…",
+          "authors": ""
+        },
+        {
+          "title": "Popular sugar substitutes linked to faster brain aging",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
+          "publishedDate": "Sat, 18 Jul 2026 09:55:57 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or had diabetes. The…",
+          "authors": ""
+        },
+        {
           "title": "Intermittent fasting helped people keep weight off for a year",
           "url": "https://www.sciencedaily.com/releases/2026/07/260718010154.htm",
           "publishedDate": "Sat, 18 Jul 2026 07:59:33 EDT",
@@ -82,38 +114,6 @@
           "publishedDate": "Fri, 17 Jul 2026 22:24:14 EDT",
           "source": "sciencedaily.com",
           "summary": "The Mediterranean diet may influence aging through tiny proteins produced inside the cell’s mitochondria. Older adults who followed the diet most closely had higher levels of humanin and SHMOOSE, which have been linked to heart and brain…",
-          "authors": ""
-        },
-        {
-          "title": "Tiny plastics in drinking water may be making dangerous bacteria stronger",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260714225532.htm",
-          "publishedDate": "Fri, 17 Jul 2026 09:14:10 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Tiny plastic particles in drinking water may be doing more than contaminating the environment. New research suggests nanoplastics can actually help harmful bacteria survive by strengthening the slimy biofilms they form inside water…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists tested 39 sweeteners and found unexpected gut effects",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260716023552.htm",
-          "publishedDate": "Fri, 17 Jul 2026 04:59:35 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A large laboratory study found that many commonly used sweeteners can directly change the growth of gut bacteria. Researchers identified more than 100 cases in which sweeteners behaved differently when combined with medications, caffeine,…",
-          "authors": ""
-        },
-        {
-          "title": "New Alzheimer&#039;s drug repairs DNA damage and reduces brain inflammation",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260711010118.htm",
-          "publishedDate": "Fri, 17 Jul 2026 00:19:36 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A drug originally developed for spinal cord injury may offer a fresh approach to treating Alzheimer’s disease. In mouse studies, KCL-286 repaired dangerous DNA damage, reduced inflammation, and targeted multiple disease-related pathways…",
-          "authors": ""
-        },
-        {
-          "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm",
-          "publishedDate": "Thu, 16 Jul 2026 21:51:52 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key tumor-suppressing protein…",
           "authors": ""
         }
       ]
