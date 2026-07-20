@@ -1,18 +1,75 @@
 {
-  "generatedAt": "2026-07-19T23:35:17.196Z",
+  "generatedAt": "2026-07-20T23:35:38.544Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 4,
+      "items": [
+        {
+          "title": "STSBench: A Large-Scale Dataset for Modeling Neuronal Activity in the Dorsal Stream of Primate Visual Cortex",
+          "url": "https://arxiv.org/abs/2607.15631",
+          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The primate visual system is typically divided into two streams - the ventral stream, responsible for object recognition, and the dorsal stream, responsible for encoding spatial relations and motion. Recent studies have shown that…",
+          "authors": "Ethan B. Trepka, Ruobing Xia, Shude Zhu, Sharif Saleki, Danielle Abreu Lopes, Stephen J. Niño Cital, Konstantin F. Willeke, Mindy Kim, Tirin Moore"
+        },
+        {
+          "title": "Toward a mechanistic understanding of inference in visual cortex and diffusion models",
+          "url": "https://arxiv.org/abs/2607.15693",
+          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We describe a model of perceptual inference in primary visual cortex (V1) equivalent to a minimal diffusion model whose function can be readily understood from its parameters. The model is based on sparse coding with a non-factorial prior…",
+          "authors": "Zeyu Yun, Alexander Belsten, Dasheng Bi, Zahra Kadkhodaie, Yubei Chen, Bruno A. Olshausen"
+        },
+        {
+          "title": "The RG-Flow Transformer: Encoding Scale-Free Dynamics in Scarce EEG",
+          "url": "https://arxiv.org/abs/2607.11950",
+          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Brain field potentials are scale-free: their power spectra follow a $1/f^\\beta$ law whose aperiodic exponent $\\beta$ tracks cortical state, and sleep depth in particular is a shift in $\\beta$. We ask whether a transformer endowed with an…",
+          "authors": "Dibakar Sigdel"
+        },
+        {
+          "title": "Learning the Brain's Dynamics as a Port-Hamiltonian System: A GNN-Surrogate Metriplectic Twin for Non-Equilibrium Cortical Dynamics and Closed-Loop Neuromodulation",
+          "url": "https://arxiv.org/abs/2607.10439",
+          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We model human motor cortex, recorded during rest and motor-imagery BCI conditions, as a port-Hamiltonian system: a conservative interconnection (skew-symmetric coupling between band-limited neural phasors) together with a dissipative port…",
+          "authors": "Dibakar Sigdel"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "FDA still focused on lettuce supplier as source of parasite, despite faulty test result",
+          "url": "https://www.statnews.com/2026/07/20/cyclospora-lettuce-tests-continue-restaurant-visits-decline/?utm_campaign=rss",
+          "publishedDate": "Mon, 20 Jul 2026 20:37:59 +0000",
+          "source": "statnews.com",
+          "summary": "The FDA said Monday it is still focused on lettuce from Taylor Farms as the source of a multistate outbreak of a diarrhea-causing parasite, despite a faulty test result.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "STAT+: The next step of site-neutral, and a fiery PBM hearing",
+          "url": "https://www.statnews.com/2026/07/20/site-neutral-payments-hospitals-health-insurance-earnings-season/?utm_campaign=rss",
+          "publishedDate": "Mon, 20 Jul 2026 14:38:04 +0000",
+          "source": "statnews.com",
+          "summary": "Medicare proposes to reduce payments to hospitals for certain drugs and imaging services.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "HHS vaccine committee quietly gets new charter",
+          "url": "https://www.statnews.com/2026/07/20/health-news-hhs-vaccine-committee-quietly-gets-new-charter/?utm_campaign=rss",
+          "publishedDate": "Mon, 20 Jul 2026 13:01:07 +0000",
+          "source": "statnews.com",
+          "summary": "Lax clinical oversight for online GLP-1 prescriptions, proposed financial help for people who want to quit smoking, and more health news",
+          "authors": "Theresa Gaffney, Helen Branswell, and Andrew Joseph"
+        },
         {
           "title": "Quitting smoking is hard. A Medicare change may push doctors to give more help",
           "url": "https://www.statnews.com/2026/07/17/medicare-smoking-cessation-reimbursement-increase/?utm_campaign=rss",
@@ -36,30 +93,6 @@
           "source": "statnews.com",
           "summary": "Wildfire smoke health hazards, a new idea for treating Duchenne, and more health news from Morning Rounds",
           "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "Why affirming trans identities can be critical for suicide prevention counseling",
-          "url": "https://www.statnews.com/2026/07/17/trevor-project-suicide-prevention-counseling-for-trans-youth/?utm_campaign=rss",
-          "publishedDate": "Fri, 17 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Advocates worry that excluding trans youth in some way from LGBTQ+ counseling services provided through the 988 crisis line could be harmful.",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: Fresh turmoil roils American Diabetes Association following controversy at conference",
-          "url": "https://www.statnews.com/2026/07/16/american-diabetes-association-annual-conference-controversy-continues/?utm_campaign=rss",
-          "publishedDate": "Thu, 16 Jul 2026 21:38:04 +0000",
-          "source": "statnews.com",
-          "summary": "Turmoil at the ADA has taken a fresh turn, with leaders blocking editors at its flagship journal from publishing pieces detailing a controversy at the group’s annual meeting.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "Pete Hegseth’s announcement of annual testosterone screenings for service members divides medical experts",
-          "url": "https://www.statnews.com/2026/07/16/hegseth-testosterone-testing-proposal-reactions-range-promising-crazy/?utm_campaign=rss",
-          "publishedDate": "Thu, 16 Jul 2026 17:20:31 +0000",
-          "source": "statnews.com",
-          "summary": "Medical experts are divided on Defense Secretary Pete Hegseth’s announcement that U.S. service members will undergo annual testosterone screenings.",
-          "authors": "Annalisa Merelli"
         }
       ]
     },
@@ -69,51 +102,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "The mysterious hum heard around the world may finally have an explanation",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
-          "publishedDate": "Sun, 19 Jul 2026 08:07:13 EDT",
+          "title": "STAT+: The next step of site-neutral, and a fiery PBM hearing",
+          "url": "https://www.statnews.com/2026/07/20/site-neutral-payments-hospitals-health-insurance-earnings-season/?utm_campaign=rss",
+          "publishedDate": "Mon, 20 Jul 2026 14:38:04 +0000",
+          "source": "statnews.com",
+          "summary": "Medicare proposes to reduce payments to hospitals for certain drugs and imaging services.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "Scientists detect hidden skin damage before it becomes visible",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260716023554.htm",
+          "publishedDate": "Mon, 20 Jul 2026 09:38:56 EDT",
           "source": "sciencedaily.com",
-          "summary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds…",
+          "summary": "Scientists have discovered a hidden warning sign of skin damage that appears before collagen fibers visibly thin, break, or lose their connections. Using advanced light-based techniques, the team found that collagen’s carefully organized…",
           "authors": ""
         },
         {
-          "title": "Coffee may help the body fight stress and aging through a hidden cellular switch",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
-          "publishedDate": "Sun, 19 Jul 2026 05:19:13 EDT",
+          "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
+          "publishedDate": "Mon, 20 Jul 2026 06:05:34 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells from stress, inflammation, and damage.…",
+          "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep,…",
           "authors": ""
         },
         {
-          "title": "Common antidepressant may ease long COVID’s crushing fatigue",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
-          "publishedDate": "Sat, 18 Jul 2026 21:55:33 EDT",
+          "title": "Opinion: It’s time to treat pandemics as threats to national security",
+          "url": "https://www.statnews.com/2026/07/20/pandemics-national-security-threats/?utm_campaign=rss",
+          "publishedDate": "Mon, 20 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "“Pandemics should be viewed and combated as threats to national security,” write David Blumenthal and James A. Morone.",
+          "authors": "David Blumenthal and James A. Morone"
+        },
+        {
+          "title": "Scientists discover a protein that protects the brain from Alzheimer’s damage",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
+          "publishedDate": "Mon, 20 Jul 2026 01:28:48 EDT",
           "source": "sciencedaily.com",
-          "summary": "A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life compared with a…",
+          "summary": "A protein called SORLA may act as a powerful defense against the toxic tau tangles involved in Alzheimer’s disease. Mice with extra SORLA had less tau accumulation, less brain atrophy, and healthier connections between neurons, while mice…",
           "authors": ""
         },
         {
-          "title": "Popular sugar substitutes linked to faster brain aging",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
-          "publishedDate": "Sat, 18 Jul 2026 09:55:57 EDT",
+          "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260718010200.htm",
+          "publishedDate": "Sun, 19 Jul 2026 23:32:12 EDT",
           "source": "sciencedaily.com",
-          "summary": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or had diabetes. The…",
-          "authors": ""
-        },
-        {
-          "title": "Intermittent fasting helped people keep weight off for a year",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260718010154.htm",
-          "publishedDate": "Sat, 18 Jul 2026 07:59:33 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A 12-week intermittent fasting program produced weight-loss benefits that were still visible a year later. Participants who ate within an eight-hour window maintained more weight loss than those who followed their usual longer eating…",
-          "authors": ""
-        },
-        {
-          "title": "Mediterranean diet may activate tiny proteins that protect the heart and brain",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260716023605.htm",
-          "publishedDate": "Fri, 17 Jul 2026 22:24:14 EDT",
-          "source": "sciencedaily.com",
-          "summary": "The Mediterranean diet may influence aging through tiny proteins produced inside the cell’s mitochondria. Older adults who followed the diet most closely had higher levels of humanin and SHMOOSE, which have been linked to heart and brain…",
+          "summary": "Scientists have redesigned zinc oxide particles to create a mineral sunscreen that protects against ultraviolet radiation without leaving such a noticeable white cast. The SPF 30 formula could make sunscreen easier and more appealing to…",
           "authors": ""
         }
       ]
@@ -121,61 +154,70 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Evolutionary Algorithm-Guided LLMs for Physics-Informed Neural Network Design",
+          "url": "https://arxiv.org/abs/2607.15560",
+          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Physics-informed neural networks (PINNs) are unusually sensitive to interacting choices of architecture, activation, loss weighting, collocation, optimization, and constraint enforcement. Large language models (LLMs) can propose these…",
+          "authors": "Xu Yang, Mingyang Yu, Jing Xu, Keqian Li"
+        },
+        {
+          "title": "Transient State Reorganization and Cell Differentiation in the Developmental Dynamics of Growing Neural Cellular Automata",
+          "url": "https://arxiv.org/abs/2607.15726",
+          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Growing Neural Cellular Automata (GNCA) develop complex morphologies from a single seed cell through shared local rules, yet the internal dynamics of this process remain poorly understood. To investigate how GNCA grows, the full…",
+          "authors": "Hiroki Sato, Atsushi Masumori, Takashi Ikegami"
+        },
+        {
+          "title": "Energy-Efficient Information Representation in MNIST Classification Using Biologically Inspired Learning",
+          "url": "https://arxiv.org/abs/2603.00588",
+          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Efficient representation learning is essential for optimal information storage and classification. However, it is frequently overlooked in artificial neural networks (ANNs). This neglect results in networks that can become…",
+          "authors": "Patrick Stricker, Florian Röhrbein, Andreas Knoblauch"
+        },
+        {
+          "title": "Fast and Scalable Caputo Fractional Gradient Descent via Perturbation-Preserving Memory Compression",
+          "url": "https://arxiv.org/abs/2607.15505",
+          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Fractional gradient descent (FGD) incorporates long-range memory through Caputo-type operators and has been shown to improve stability in ill-conditioned and nonconvex optimization problems. Despite these advantages, its practical use…",
+          "authors": "Hwanseo Lee, Junseo Lee, Hyunju Kim"
+        },
+        {
+          "title": "Constrained Hebbian Learning Supports Efficient Representational Allocation under Structural Constraints",
+          "url": "https://arxiv.org/abs/2607.16027",
+          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Introduction: Biological systems face anatomical and metabolic constraints, including costly synaptic maintenance and limited connectivity. These constraints favor neural codes that compress behaviorally relevant information into…",
+          "authors": "Patrick Inoue, Florian Röhrbein, Andreas Knoblauch"
+        },
+        {
+          "title": "EGO: a Recursive and Self-Referential Cognitive Architecture for Artificial General Intelligence",
+          "url": "https://arxiv.org/abs/2507.14011",
+          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Artificial General Intelligence (AGI) is interpreted as an emergent property of autonomous and self-organizing systems, grounded in the principles of autopoiesis and embodied cognition, overcoming the structural limitations of current…",
+          "authors": "Alberto Mangiante, Paolo Totaro, Domenico Ninno"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 1,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
-        },
-        {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "Closed-Loop Bayesian Bandit Encoder with GRAND Receiver for a Bursty Interference Channel",
+          "url": "https://arxiv.org/abs/2607.15404",
+          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Interleaving mitigates burst errors but introduces decoding delay and removes temporal error structure that a channel-aware decoder could exploit. We consider packet-level selection between a random linear code and the same code used with…",
+          "authors": "Bhaskar Krishnamachari"
         }
       ]
     }

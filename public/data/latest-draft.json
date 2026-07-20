@@ -1,24 +1,27 @@
 {
-  "generatedAt": "2026-07-19T23:35:16.460Z",
-  "date": "2026-07-19",
-  "topic": "深層学習と学習",
-  "templateName": "three-insights",
+  "generatedAt": "2026-07-20T23:35:37.979Z",
+  "date": "2026-07-20",
+  "topic": "視覚野と学習",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Rapid rice seed vigor assessment: A machine learning and deep learning framework with multi-time-point image analysis.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42471835/",
-  "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\n深層学習と学習の最新成果を整理しました。\n\n🔬 深層学習 × 学習 × 畳み込みニューラルネットワーク(CNN) × 意思決定\n\n📊 注目すべきデータ：\n→ The ensemble approach achieved superior performance, highlighting the importance of incorporating temporal growth dynamics into vigor classification.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Rapid rice seed vigor assessment: A machine learning and deep learning framework with multi-time-point image analysis.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42471835/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #BCI",
-  "summaryJP": "深層学習と学習 — 注目すべき3つの示唆（ニューロAI・計算論）",
-  "paperAuthors": "Veerasit Kaewbundit, Damrongvudhi Onwimol, Papis Wongchaisuwat",
-  "publishedDate": "2026-07-19",
-  "paperId": "42471835",
-  "paperSource": "pubmed",
-  "themeArea": "ニューロAI・計算論",
+  "paperTitle": "Toward a mechanistic understanding of inference in visual cortex and diffusion models",
+  "paperLink": "https://arxiv.org/abs/2607.15693",
+  "figureUrl": "https://arxiv.org/html/2607.15693/2607.15693v1/finalized_figures/intro.png",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n視覚野と学習の最新研究です。\n\n🔬 視覚野 × 学習\n\n📊 注目すべきデータ：\n→ Together, the model and results bridge two distinct domains: for neuroscience, it generates concrete, testable hypotheses regarding functional connectivity in recurrent neural...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Toward a mechanistic understanding of inference in visual cortex and diffusion models\n🔗 https://arxiv.org/abs/2607.15693\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #NeuroAI",
+  "summaryJP": "視覚野と学習 — 次世代へ続く布石（神経デコーディング）",
+  "paperAuthors": "Zeyu Yun, Alexander Belsten, Dasheng Bi, Zahra Kadkhodaie, Yubei Chen, Bruno A. Olshausen",
+  "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+  "paperId": "2607.15693",
+  "paperSource": "arxiv",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "深層学習",
-    "学習",
-    "畳み込みニューラルネットワーク(CNN)",
-    "意思決定"
+    "視覚野",
+    "学習"
   ],
-  "abstractExcerpt": "Automated rice seed vigor classification provides a non-invasive and scalable solution for improving agricultural decision-making. This study proposed an image-based framework to compare traditional machine learning and deep learning…",
-  "figureUrls": []
+  "abstractExcerpt": "We describe a model of perceptual inference in primary visual cortex (V1) equivalent to a minimal diffusion model whose function can be readily understood from its parameters. The model is based on sparse coding with a non-factorial prior…",
+  "figureUrls": [
+    "https://arxiv.org/html/2607.15693/2607.15693v1/finalized_figures/intro.png",
+    "https://arxiv.org/html/2607.15693/2607.15693v1/finalized_figures/neuroscience.png",
+    "https://arxiv.org/html/2607.15693/2607.15693v1/finalized_figures/harmonic.png"
+  ]
 }

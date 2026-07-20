@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-07-20T23:35:37.979Z",
+    "date": "2026-07-20",
+    "topic": "視覚野と学習",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Toward a mechanistic understanding of inference in visual cortex and diffusion models",
+    "paperLink": "https://arxiv.org/abs/2607.15693",
+    "figureUrl": "https://arxiv.org/html/2607.15693/2607.15693v1/finalized_figures/intro.png",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n視覚野と学習の最新研究です。\n\n🔬 視覚野 × 学習\n\n📊 注目すべきデータ：\n→ Together, the model and results bridge two distinct domains: for neuroscience, it generates concrete, testable hypotheses regarding functional connectivity in recurrent neural...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Toward a mechanistic understanding of inference in visual cortex and diffusion models\n🔗 https://arxiv.org/abs/2607.15693\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #NeuroAI",
+    "summaryJP": "視覚野と学習 — 次世代へ続く布石（神経デコーディング）",
+    "paperAuthors": "Zeyu Yun, Alexander Belsten, Dasheng Bi, Zahra Kadkhodaie, Yubei Chen, Bruno A. Olshausen",
+    "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+    "paperId": "2607.15693",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "視覚野",
+      "学習"
+    ],
+    "abstractExcerpt": "We describe a model of perceptual inference in primary visual cortex (V1) equivalent to a minimal diffusion model whose function can be readily understood from its parameters. The model is based on sparse coding with a non-factorial prior…",
+    "figureUrls": [
+      "https://arxiv.org/html/2607.15693/2607.15693v1/finalized_figures/intro.png",
+      "https://arxiv.org/html/2607.15693/2607.15693v1/finalized_figures/neuroscience.png",
+      "https://arxiv.org/html/2607.15693/2607.15693v1/finalized_figures/harmonic.png"
+    ]
+  },
+  {
     "generatedAt": "2026-07-19T23:35:16.460Z",
     "date": "2026-07-19",
     "topic": "深層学習と学習",
@@ -1225,30 +1252,5 @@
       "https://arxiv.org/html/2605.30556/2605.30556v1/x2.png",
       "https://arxiv.org/html/2605.30556/2605.30556v1/x3.png"
     ]
-  },
-  {
-    "generatedAt": "2026-05-31T23:42:10.244Z",
-    "date": "2026-05-31",
-    "topic": "深層学習と注意機構",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "A lightweight deep learning model with channel attention for kidney cell classification from microscopy images.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42218235/",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n数字が語る、深層学習と注意機構の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 深層学習 × 注意機構 × 学習 × 畳み込みニューラルネットワーク(CNN)\n\n📊 注目すべきデータ：\n→ Evaluated on the TissueMNIST benchmark comprising approximately 236,000 images, CytoECA-Net achieves a classification accuracy of 75.56% and an AUC of 0.9564, with performance...\n→ Additional evaluation on the KMC-RENAL histopathology dataset shows that the model achieves 97.76% accuracy and attains the highest performance among the evaluated models.\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 A lightweight deep learning model with channel attention for kidney cell classification from microscopy images.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42218235/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #ニューロテック",
-    "summaryJP": "深層学習と注意機構 — 数値で示された新事実（ニューロAI・計算論）",
-    "paperAuthors": "Mithila Arman, Md Mahid Arfan Rahat, Mahabuba Akter Thithi, Johir Uddin Khan, Shahriar Mahmud Kabir, Md Imamul Islam",
-    "publishedDate": "2026-05-30",
-    "paperId": "42218235",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "深層学習",
-      "注意機構",
-      "学習",
-      "畳み込みニューラルネットワーク(CNN)",
-      "記憶"
-    ],
-    "abstractExcerpt": "Accurate identification of renal cell types within tissue architecture is fundamental for understanding normal kidney physiology and detecting early pathological changes. While traditional histological examination is time-intensive and…",
-    "figureUrls": []
   }
 ]
