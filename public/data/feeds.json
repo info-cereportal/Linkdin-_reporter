@@ -1,43 +1,59 @@
 {
-  "generatedAt": "2026-07-20T23:35:38.544Z",
+  "generatedAt": "2026-07-21T23:36:36.029Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 4,
+      "itemCount": 6,
       "items": [
         {
-          "title": "STSBench: A Large-Scale Dataset for Modeling Neuronal Activity in the Dorsal Stream of Primate Visual Cortex",
-          "url": "https://arxiv.org/abs/2607.15631",
-          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "title": "Emergent topological structure in spontaneous brain-organoid activity",
+          "url": "https://arxiv.org/abs/2607.16517",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The primate visual system is typically divided into two streams - the ventral stream, responsible for object recognition, and the dorsal stream, responsible for encoding spatial relations and motion. Recent studies have shown that…",
-          "authors": "Ethan B. Trepka, Ruobing Xia, Shude Zhu, Sharif Saleki, Danielle Abreu Lopes, Stephen J. Niño Cital, Konstantin F. Willeke, Mindy Kim, Tirin Moore"
+          "summary": "Neural activity is widely held to organize on low-dimensional structure embedded in a high-dimensional state space. Persistent homology reads such structure directly from the pattern of pairwise correlations, without assuming in advance…",
+          "authors": "Eve Bodnia, Margaux Basart, Sofie Hai, Lenzie Ford, Nina Miolane, Kenneth S. Kosik, Dirk Bouwmeester, Lincoln D. Carr"
         },
         {
-          "title": "Toward a mechanistic understanding of inference in visual cortex and diffusion models",
-          "url": "https://arxiv.org/abs/2607.15693",
-          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "title": "The Positive Experience Principle: Forecasting Conscious Choices with AI Embeddings",
+          "url": "https://arxiv.org/abs/2607.16659",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We describe a model of perceptual inference in primary visual cortex (V1) equivalent to a minimal diffusion model whose function can be readily understood from its parameters. The model is based on sparse coding with a non-factorial prior…",
-          "authors": "Zeyu Yun, Alexander Belsten, Dasheng Bi, Zahra Kadkhodaie, Yubei Chen, Bruno A. Olshausen"
+          "summary": "A fundamental challenge in the science of consciousness is the lack of a universal, predictive framework for motivated behavior. While existing theories excel at describing specific mechanisms, from neural pathways to computational models,…",
+          "authors": "Zheng Su, Mingyan Fang"
         },
         {
-          "title": "The RG-Flow Transformer: Encoding Scale-Free Dynamics in Scarce EEG",
-          "url": "https://arxiv.org/abs/2607.11950",
-          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "title": "Exploring Brain Networks Using Noninvasive Electrophysiological Measurements: Methods and Applications",
+          "url": "https://arxiv.org/abs/2607.17602",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brain field potentials are scale-free: their power spectra follow a $1/f^\\beta$ law whose aperiodic exponent $\\beta$ tracks cortical state, and sleep depth in particular is a shift in $\\beta$. We ask whether a transformer endowed with an…",
-          "authors": "Dibakar Sigdel"
+          "summary": "Electroencephalography (EEG) and magnetoencephalography (MEG) provide noninvasive measurements of brain activity with millisecond temporal resolution, enabling the investigation of functional and effective interactions within large-scale…",
+          "authors": "Richard Leahy, Takfarinas Medani"
         },
         {
-          "title": "Learning the Brain's Dynamics as a Port-Hamiltonian System: A GNN-Surrogate Metriplectic Twin for Non-Equilibrium Cortical Dynamics and Closed-Loop Neuromodulation",
-          "url": "https://arxiv.org/abs/2607.10439",
-          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "title": "Overcoming the BCI Calibration Bottleneck: A Clinically-Grounded Architecture using Riemannian Alignment and Stochastic Weight Averaging",
+          "url": "https://arxiv.org/abs/2607.16225",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We model human motor cortex, recorded during rest and motor-imagery BCI conditions, as a port-Hamiltonian system: a conservative interconnection (skew-symmetric coupling between band-limited neural phasors) together with a dissipative port…",
-          "authors": "Dibakar Sigdel"
+          "summary": "Brain-Computer Interfaces (BCIs) face a severe calibration bottleneck due to cross-subject spatial covariance shifts and physiological artifacts. To enable zero-calibration BCI, a deep learning pipeline was engineered combining Per-Session…",
+          "authors": "Immanuvel Prathap Sagayaraju"
+        },
+        {
+          "title": "The Illusion-Illusion: Vision Language Models See Illusions Where There Are None",
+          "url": "https://arxiv.org/abs/2412.18613",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Illusions are entertaining, but they are also a useful diagnostic tool in cognitive science, philosophy, and neuroscience. A typical illusion shows a gap between how something `really is' and how something `appears to be', and this gap…",
+          "authors": "Tomer Ullman"
+        },
+        {
+          "title": "An Intelligent Infrastructure as a Foundation for Modern Science",
+          "url": "https://arxiv.org/abs/2508.10051",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Infrastructure shapes societies and scientific discovery. Traditional scientific infrastructure, often static and fragmented, leads to issues like data silos, lack of interoperability and reproducibility, and unsustainable short-lived…",
+          "authors": "Satrajit S. Ghosh"
         }
       ]
     },
@@ -46,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Advocates say federal funding is being cut from groups fighting HIV",
+          "url": "https://www.statnews.com/2026/07/21/hiv-aids-prevention-advocates-fear-deep-cuts-cdc-funding/?utm_campaign=rss",
+          "publishedDate": "Tue, 21 Jul 2026 14:24:32 +0000",
+          "source": "statnews.com",
+          "summary": "The administration is shifting some funding to states, but community groups are set to lose out.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "STAT+: Broad Institute, partners unveil new initiative to develop gene therapies for rare diseases",
+          "url": "https://www.statnews.com/2026/07/21/center-for-therapeutic-genetics-rare-disease-gene-therapies/?utm_campaign=rss",
+          "publishedDate": "Tue, 21 Jul 2026 13:37:33 +0000",
+          "source": "statnews.com",
+          "summary": "The Broad Institute, Boston Children’s Hospital, and Maine’s Jackson Laboratory announced a collaboration to develop rare disease gene therapies.",
+          "authors": "Allyson Chiu — Boston Globe"
+        },
+        {
+          "title": "A renewed push from the right against abortion pills",
+          "url": "https://www.statnews.com/2026/07/21/biotech-news-a-renewed-push-from-the-right-against-abortion-pills/?utm_campaign=rss",
+          "publishedDate": "Tue, 21 Jul 2026 11:34:38 +0000",
+          "source": "statnews.com",
+          "summary": "The latest on cyclospora, THC sodas at the grocery store, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "THC drinks are sold beside sodas, iced tea, and even chocolate milk, often in violation of state laws",
+          "url": "https://www.statnews.com/2026/07/21/thc-drinks-risk-accidental-ingestion-issue-labels-regulations/?utm_campaign=rss",
+          "publishedDate": "Tue, 21 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "THC drinks, which have exploded in popularity in recent years, are sold in retail stores beside sodas, iced tea, and even chocolate milk, often in violation of state laws.",
+          "authors": "Sarah Todd"
+        },
         {
           "title": "FDA still focused on lettuce supplier as source of parasite, despite faulty test result",
           "url": "https://www.statnews.com/2026/07/20/cyclospora-lettuce-tests-continue-restaurant-visits-decline/?utm_campaign=rss",
@@ -61,38 +109,6 @@
           "source": "statnews.com",
           "summary": "Medicare proposes to reduce payments to hospitals for certain drugs and imaging services.",
           "authors": "Bob Herman"
-        },
-        {
-          "title": "HHS vaccine committee quietly gets new charter",
-          "url": "https://www.statnews.com/2026/07/20/health-news-hhs-vaccine-committee-quietly-gets-new-charter/?utm_campaign=rss",
-          "publishedDate": "Mon, 20 Jul 2026 13:01:07 +0000",
-          "source": "statnews.com",
-          "summary": "Lax clinical oversight for online GLP-1 prescriptions, proposed financial help for people who want to quit smoking, and more health news",
-          "authors": "Theresa Gaffney, Helen Branswell, and Andrew Joseph"
-        },
-        {
-          "title": "Quitting smoking is hard. A Medicare change may push doctors to give more help",
-          "url": "https://www.statnews.com/2026/07/17/medicare-smoking-cessation-reimbursement-increase/?utm_campaign=rss",
-          "publishedDate": "Fri, 17 Jul 2026 16:05:04 +0000",
-          "source": "statnews.com",
-          "summary": "Physicians who offer counseling on quitting cigarettes and alcohol during patient visits would get a 19% increase in reimbursement under a proposed Medicare change.",
-          "authors": "Sarah Todd"
-        },
-        {
-          "title": "Lettuce at Taco Bell in five states confirmed as a source of diarrhea-causing parasite",
-          "url": "https://www.statnews.com/2026/07/17/cyclosporiasis-outbreak-traced-taylor-farms-lettuce-taco-bell/?utm_campaign=rss",
-          "publishedDate": "Fri, 17 Jul 2026 14:52:38 +0000",
-          "source": "statnews.com",
-          "summary": "Health officials have identified lettuce from Mexico served at Taco Bell locations across five U.S. states as a source of the outbreak of diarrhea-causing parasite cyclospora.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "Who can access testosterone hormone medication in the U.S.?",
-          "url": "https://www.statnews.com/2026/07/17/health-news-who-can-access-testosterone-hormone-therapy-in-us/?utm_campaign=rss",
-          "publishedDate": "Fri, 17 Jul 2026 11:53:20 +0000",
-          "source": "statnews.com",
-          "summary": "Wildfire smoke health hazards, a new idea for treating Duchenne, and more health news from Morning Rounds",
-          "authors": "O. Rose Broderick"
         }
       ]
     },
@@ -102,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: The next step of site-neutral, and a fiery PBM hearing",
-          "url": "https://www.statnews.com/2026/07/20/site-neutral-payments-hospitals-health-insurance-earnings-season/?utm_campaign=rss",
-          "publishedDate": "Mon, 20 Jul 2026 14:38:04 +0000",
+          "title": "Trump administration says it&#8217;s deferring $1B in Medicaid payments to California and Minnesota",
+          "url": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss",
+          "publishedDate": "Tue, 21 Jul 2026 20:10:43 +0000",
           "source": "statnews.com",
-          "summary": "Medicare proposes to reduce payments to hospitals for certain drugs and imaging services.",
-          "authors": "Bob Herman"
+          "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
+          "authors": "Associated Press"
         },
         {
-          "title": "Scientists detect hidden skin damage before it becomes visible",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260716023554.htm",
-          "publishedDate": "Mon, 20 Jul 2026 09:38:56 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have discovered a hidden warning sign of skin damage that appears before collagen fibers visibly thin, break, or lose their connections. Using advanced light-based techniques, the team found that collagen’s carefully organized…",
-          "authors": ""
-        },
-        {
-          "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
-          "publishedDate": "Mon, 20 Jul 2026 06:05:34 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep,…",
-          "authors": ""
-        },
-        {
-          "title": "Opinion: It’s time to treat pandemics as threats to national security",
-          "url": "https://www.statnews.com/2026/07/20/pandemics-national-security-threats/?utm_campaign=rss",
-          "publishedDate": "Mon, 20 Jul 2026 08:30:00 +0000",
+          "title": "STAT+: Rare disease drugmakers try to avoid Trump price cuts",
+          "url": "https://www.statnews.com/2026/07/21/rare-disease-drugmakers-avoid-trump-price-cuts-pbm-state-laws-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Tue, 21 Jul 2026 18:17:34 +0000",
           "source": "statnews.com",
-          "summary": "“Pandemics should be viewed and combated as threats to national security,” write David Blumenthal and James A. Morone.",
-          "authors": "David Blumenthal and James A. Morone"
+          "summary": "Plus, GOP voters want a crackdown on health care fraud, and how PBMs are skirting state laws.",
+          "authors": "John Wilkerson"
         },
         {
-          "title": "Scientists discover a protein that protects the brain from Alzheimer’s damage",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
-          "publishedDate": "Mon, 20 Jul 2026 01:28:48 EDT",
+          "title": "STAT+: Advocates say federal funding is being cut from groups fighting HIV",
+          "url": "https://www.statnews.com/2026/07/21/hiv-aids-prevention-advocates-fear-deep-cuts-cdc-funding/?utm_campaign=rss",
+          "publishedDate": "Tue, 21 Jul 2026 14:24:32 +0000",
+          "source": "statnews.com",
+          "summary": "The administration is shifting some funding to states, but community groups are set to lose out.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "Watching too much TV in midlife may shrink the brain",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260721000822.htm",
+          "publishedDate": "Tue, 21 Jul 2026 09:29:24 EDT",
           "source": "sciencedaily.com",
-          "summary": "A protein called SORLA may act as a powerful defense against the toxic tau tangles involved in Alzheimer’s disease. Mice with extra SORLA had less tau accumulation, less brain atrophy, and healthier connections between neurons, while mice…",
+          "summary": "Watching television very often in midlife may be linked to troubling brain changes decades later. In a study of about 1,700 adults, frequent TV viewers later showed smaller brain regions involved in memory, decision-making, and visual…",
           "authors": ""
         },
         {
-          "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260718010200.htm",
-          "publishedDate": "Sun, 19 Jul 2026 23:32:12 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have redesigned zinc oxide particles to create a mineral sunscreen that protects against ultraviolet radiation without leaving such a noticeable white cast. The SPF 30 formula could make sunscreen easier and more appealing to…",
-          "authors": ""
+          "title": "Opinion: How a controversial rule could hurt the NIH’s ability to manage risk",
+          "url": "https://www.statnews.com/2026/07/21/omb-nih-grant-review-politics-scientific-risk/?utm_campaign=rss",
+          "publishedDate": "Tue, 21 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The proposed rule could “weaken the NIH’s benign influence over research risks,” writes Doni Bloomfield.",
+          "authors": "Doni Bloomfield"
+        },
+        {
+          "title": "STAT+: Makers of rare disease drugs seek exemption from Trump’s price-cut pilots",
+          "url": "https://www.statnews.com/2026/07/21/rare-disease-coalition-orphan-drug-exemption-medicare-pilot-price-programs/?utm_campaign=rss",
+          "publishedDate": "Tue, 21 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A coalition of biotech firms is lobbying to exclude orphan drugs from new federal pilot programs aimed at lowering Medicare drug costs.",
+          "authors": "John Wilkerson"
         }
       ]
     },
@@ -157,67 +173,99 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Evolutionary Algorithm-Guided LLMs for Physics-Informed Neural Network Design",
-          "url": "https://arxiv.org/abs/2607.15560",
-          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "title": "From Optimal Policies to Individual Differences: Rethinking Reinforcement Learning for Biology",
+          "url": "https://arxiv.org/abs/2607.16542",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Physics-informed neural networks (PINNs) are unusually sensitive to interacting choices of architecture, activation, loss weighting, collocation, optimization, and constraint enforcement. Large language models (LLMs) can propose these…",
-          "authors": "Xu Yang, Mingyang Yu, Jing Xu, Keqian Li"
+          "summary": "Reinforcement learning (RL) is primarily known as a computational method for optimizing control tasks, but it is increasingly used to explain biological behavior. While RL successfully captures key aspects of biology, a major gap remains:…",
+          "authors": "Patrick Govoni, Palina Bartashevich, Clémence Bergerot, Valerii Chirkov, Valentin Lecheval, Pawel Romanczuk"
         },
         {
-          "title": "Transient State Reorganization and Cell Differentiation in the Developmental Dynamics of Growing Neural Cellular Automata",
-          "url": "https://arxiv.org/abs/2607.15726",
-          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "title": "How to Build Marcus's Algebraic Mind: From Thagard's Brain--Mind Viewpoint",
+          "url": "https://arxiv.org/abs/2607.16573",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Growing Neural Cellular Automata (GNCA) develop complex morphologies from a single seed cell through shared local rules, yet the internal dynamics of this process remain poorly understood. To investigate how GNCA grows, the full…",
-          "authors": "Hiroki Sato, Atsushi Masumori, Takashi Ikegami"
+          "summary": "Two critiques of connectionist cognition converge on one missing capacity. In The Algebraic Mind, Marcus isolated three components any architecture must support -- operations over variables, structured representations, and individuals…",
+          "authors": "Hiroyuki Chuma, Kanji Otsuka, Yoichi Sato"
         },
         {
-          "title": "Energy-Efficient Information Representation in MNIST Classification Using Biologically Inspired Learning",
-          "url": "https://arxiv.org/abs/2603.00588",
-          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "title": "How to Build Marcus's Algebraic Mind: From Minsky's Emotion-Machine Viewpoint",
+          "url": "https://arxiv.org/abs/2607.16623",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Efficient representation learning is essential for optimal information storage and classification. However, it is frequently overlooked in artificial neural networks (ANNs). This neglect results in networks that can become…",
-          "authors": "Patrick Stricker, Florian Röhrbein, Andreas Knoblauch"
+          "summary": "In The Algebraic Mind, Marcus identified three cognitive components: operations over variables, recursively structured representations, and an individual/kind distinction. He left the neural substrate open. A companion paper solves this…",
+          "authors": "Hiroyuki Chuma, Kanji Otsuka, Yoichi Sato"
         },
         {
-          "title": "Fast and Scalable Caputo Fractional Gradient Descent via Perturbation-Preserving Memory Compression",
-          "url": "https://arxiv.org/abs/2607.15505",
-          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "title": "Decision Variable Analysis-Guided Differentiated Fuzzy Search for Large-Scale Multi-Objective Optimization",
+          "url": "https://arxiv.org/abs/2607.16723",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Fractional gradient descent (FGD) incorporates long-range memory through Caputo-type operators and has been shown to improve stability in ill-conditioned and nonconvex optimization problems. Despite these advantages, its practical use…",
-          "authors": "Hwanseo Lee, Junseo Lee, Hyunju Kim"
+          "summary": "Large-scale multi-objective optimization problems (LSMOPs) are challenging due to their high-dimensional decision spaces. Fuzzy search is an effective technique for improving search efficiency, while decision variable analysis can reveal…",
+          "authors": "Boxi Xiao, Hui Bai, Jinhua Zheng, Yu Li, Juan Zou"
         },
         {
-          "title": "Constrained Hebbian Learning Supports Efficient Representational Allocation under Structural Constraints",
-          "url": "https://arxiv.org/abs/2607.16027",
-          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "title": "Hybrid Augmented Lagrangian Method for General Constrained Optimization via Evolutionary Algorithms",
+          "url": "https://arxiv.org/abs/2607.16876",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Introduction: Biological systems face anatomical and metabolic constraints, including costly synaptic maintenance and limited connectivity. These constraints favor neural codes that compress behaviorally relevant information into…",
-          "authors": "Patrick Inoue, Florian Röhrbein, Andreas Knoblauch"
+          "summary": "Constrained Optimization Problems are crucial in fields such as engineering, economics, and robotics, where high-dimensional search spaces and complex objectives and constraints are common. Numerical optimization methods, including…",
+          "authors": "Lampros Printzios, Konstantinos Chatzilygeroudis"
         },
         {
-          "title": "EGO: a Recursive and Self-Referential Cognitive Architecture for Artificial General Intelligence",
-          "url": "https://arxiv.org/abs/2507.14011",
-          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "title": "Organization of computation in reservoir computing",
+          "url": "https://arxiv.org/abs/2607.17858",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Artificial General Intelligence (AGI) is interpreted as an emergent property of autonomous and self-organizing systems, grounded in the principles of autopoiesis and embodied cognition, overcoming the structural limitations of current…",
-          "authors": "Alberto Mangiante, Paolo Totaro, Domenico Ninno"
+          "summary": "Reservoir computing exploits nonlinear dynamical systems to encode temporal inputs into high-dimensional state space representations. Although reservoir performance is often characterized through memory, nonlinearity, and their tradeoff,…",
+          "authors": "Mohab Abdalla, Damien Rontani"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 1,
+      "itemCount": 5,
       "items": [
         {
-          "title": "Closed-Loop Bayesian Bandit Encoder with GRAND Receiver for a Bursty Interference Channel",
-          "url": "https://arxiv.org/abs/2607.15404",
-          "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
+          "title": "Overcoming the BCI Calibration Bottleneck: A Clinically-Grounded Architecture using Riemannian Alignment and Stochastic Weight Averaging",
+          "url": "https://arxiv.org/abs/2607.16225",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Interleaving mitigates burst errors but introduces decoding delay and removes temporal error structure that a channel-aware decoder could exploit. We consider packet-level selection between a random linear code and the same code used with…",
-          "authors": "Bhaskar Krishnamachari"
+          "summary": "Brain-Computer Interfaces (BCIs) face a severe calibration bottleneck due to cross-subject spatial covariance shifts and physiological artifacts. To enable zero-calibration BCI, a deep learning pipeline was engineered combining Per-Session…",
+          "authors": "Immanuvel Prathap Sagayaraju"
+        },
+        {
+          "title": "Efficient EEG Seizure Detection Using INT8 Quantization, Channel Pruning, and Spiking Neural Networks",
+          "url": "https://arxiv.org/abs/2607.16296",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Continuous EEG monitoring for epilepsy is constrained by the limited power and memory budgets of wearable and implantable devices. Deep neural networks can detect seizures with high accuracy, but their computational cost and model size…",
+          "authors": "Kartikey Ahlawat"
+        },
+        {
+          "title": "Joint-Embedding Predictive Architecture for Sensor-based Activity Recognition",
+          "url": "https://arxiv.org/abs/2607.16350",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Sensor-based human activity recognition (HAR) has achieved significant progressed in fully supervised learning settings. However, these supervised learning models rely on large amount of labeled data, which require labor-intensive…",
+          "authors": "Mohd Halim Mohd Noor, Abdulrahman M. A. Baraka"
+        },
+        {
+          "title": "EEGPrep: a validated Python implementation of the EEGLAB preprocessing pipeline",
+          "url": "https://arxiv.org/abs/2607.16647",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Objective. Automated EEG preprocessing is common in research and clinical work, but few pipelines have been tested systematically. In a recent benchmark, the default EEGLAB pipeline was the only pipeline that significantly outperformed…",
+          "authors": "Arnaud Delorme, Suraj Ranganath, Christian Kothe, Aman Jaiswal, Scott Makeig, Bruno Aristimunha"
+        },
+        {
+          "title": "Efficient Audio-Visual Event Recognition via Knowledge Distillation and Dynamic INT8 Quantization of a Hybrid Cross-Attention Network",
+          "url": "https://arxiv.org/abs/2607.16980",
+          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Audio-visual event recognition (AVER) has achieved significant performance improvements through transformer-based multimodal architectures. However, the high computational complexity, large memory footprint, and inference cost of these…",
+          "authors": "Parinaz Binandeh Dehaghani, Danilo Pena, A. Pedro Aguiar"
         }
       ]
     }

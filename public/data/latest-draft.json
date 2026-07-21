@@ -1,27 +1,22 @@
 {
-  "generatedAt": "2026-07-20T23:35:37.979Z",
-  "date": "2026-07-20",
-  "topic": "視覚野と学習",
-  "templateName": "future-vision",
+  "generatedAt": "2026-07-21T23:36:35.585Z",
+  "date": "2026-07-21",
+  "topic": "EEGとMEG(脳磁図)",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Toward a mechanistic understanding of inference in visual cortex and diffusion models",
-  "paperLink": "https://arxiv.org/abs/2607.15693",
-  "figureUrl": "https://arxiv.org/html/2607.15693/2607.15693v1/finalized_figures/intro.png",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n視覚野と学習の最新研究です。\n\n🔬 視覚野 × 学習\n\n📊 注目すべきデータ：\n→ Together, the model and results bridge two distinct domains: for neuroscience, it generates concrete, testable hypotheses regarding functional connectivity in recurrent neural...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Toward a mechanistic understanding of inference in visual cortex and diffusion models\n🔗 https://arxiv.org/abs/2607.15693\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #NeuroAI",
-  "summaryJP": "視覚野と学習 — 次世代へ続く布石（神経デコーディング）",
-  "paperAuthors": "Zeyu Yun, Alexander Belsten, Dasheng Bi, Zahra Kadkhodaie, Yubei Chen, Bruno A. Olshausen",
-  "publishedDate": "Mon, 20 Jul 2026 00:00:00 -0400",
-  "paperId": "2607.15693",
+  "paperTitle": "Exploring Brain Networks Using Noninvasive Electrophysiological Measurements: Methods and Applications",
+  "paperLink": "https://arxiv.org/abs/2607.17602",
+  "formatted": "研究者もエンジニアも、この論文は必読です。\n\n脳科学とAI——その境界線が消えつつある。\n\nEEGとMEG(脳磁図)に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG × MEG(脳磁図)\n\n> Electroencephalography (EEG) and magnetoencephalography (MEG) provide noninvasive measurements of brain activity with millisecond temporal resolution, enabling the investigation of functional and effective interactions within large-scale brain networks. This chapter presents a...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n脳情報科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Exploring Brain Networks Using Noninvasive Electrophysiological Measurements: Methods and Applications\n🔗 https://arxiv.org/abs/2607.17602\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #BrainComputerInterface",
+  "summaryJP": "EEGとMEG(脳磁図) — 脳科学とAIをつなぐ研究",
+  "paperAuthors": "Richard Leahy, Takfarinas Medani",
+  "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+  "paperId": "2607.17602",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "脳情報科学",
   "jpKeywords": [
-    "視覚野",
-    "学習"
+    "EEG",
+    "MEG(脳磁図)"
   ],
-  "abstractExcerpt": "We describe a model of perceptual inference in primary visual cortex (V1) equivalent to a minimal diffusion model whose function can be readily understood from its parameters. The model is based on sparse coding with a non-factorial prior…",
-  "figureUrls": [
-    "https://arxiv.org/html/2607.15693/2607.15693v1/finalized_figures/intro.png",
-    "https://arxiv.org/html/2607.15693/2607.15693v1/finalized_figures/neuroscience.png",
-    "https://arxiv.org/html/2607.15693/2607.15693v1/finalized_figures/harmonic.png"
-  ]
+  "abstractExcerpt": "Electroencephalography (EEG) and magnetoencephalography (MEG) provide noninvasive measurements of brain activity with millisecond temporal resolution, enabling the investigation of functional and effective interactions within large-scale…",
+  "figureUrls": []
 }

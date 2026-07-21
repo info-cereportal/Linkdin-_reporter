@@ -1,5 +1,27 @@
 [
   {
+    "generatedAt": "2026-07-21T23:36:35.585Z",
+    "date": "2026-07-21",
+    "topic": "EEGとMEG(脳磁図)",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Exploring Brain Networks Using Noninvasive Electrophysiological Measurements: Methods and Applications",
+    "paperLink": "https://arxiv.org/abs/2607.17602",
+    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n脳科学とAI——その境界線が消えつつある。\n\nEEGとMEG(脳磁図)に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG × MEG(脳磁図)\n\n> Electroencephalography (EEG) and magnetoencephalography (MEG) provide noninvasive measurements of brain activity with millisecond temporal resolution, enabling the investigation of functional and effective interactions within large-scale brain networks. This chapter presents a...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n脳情報科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Exploring Brain Networks Using Noninvasive Electrophysiological Measurements: Methods and Applications\n🔗 https://arxiv.org/abs/2607.17602\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #BrainComputerInterface",
+    "summaryJP": "EEGとMEG(脳磁図) — 脳科学とAIをつなぐ研究",
+    "paperAuthors": "Richard Leahy, Takfarinas Medani",
+    "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+    "paperId": "2607.17602",
+    "paperSource": "arxiv",
+    "themeArea": "脳情報科学",
+    "jpKeywords": [
+      "EEG",
+      "MEG(脳磁図)"
+    ],
+    "abstractExcerpt": "Electroencephalography (EEG) and magnetoencephalography (MEG) provide noninvasive measurements of brain activity with millisecond temporal resolution, enabling the investigation of functional and effective interactions within large-scale…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-07-20T23:35:37.979Z",
     "date": "2026-07-20",
     "topic": "視覚野と学習",
@@ -1221,36 +1243,6 @@
       "https://arxiv.org/html/2606.00326/2606.00326v1/1BEsptrmr.png",
       "https://arxiv.org/html/2606.00326/2606.00326v1/1PEsptrmr.png",
       "https://arxiv.org/html/2606.00326/2606.00326v1/1EEsptrmr.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-06-01T23:54:27.023Z",
-    "date": "2026-06-01",
-    "topic": "生物学的妥当性と視覚野",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Supervised Training Rapidly Degrades Early Visual Cortex Alignment Across Biologically Plausible Learning Rules",
-    "paperLink": "https://arxiv.org/abs/2605.30556",
-    "figureUrl": "https://arxiv.org/html/2605.30556/2605.30556v1/x1.png",
-    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\nこの研究から得られる3つの重要な示唆。\n\n生物学的妥当性と視覚野の最新成果を整理しました。\n\n🔬 生物学的妥当性 × 視覚野 × 学習 × 予測符号化\n\n📊 注目すべきデータ：\n→ We find that (1) a single epoch of training reduces V1 alignment by 25-90%, depending on the learning rule; (2) backpropagation reduces V1 alignment most severely (delta r =...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Supervised Training Rapidly Degrades Early Visual Cortex Alignment Across Biologically Plausible Learning Rules\n🔗 https://arxiv.org/abs/2605.30556\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #BCI",
-    "summaryJP": "生物学的妥当性と視覚野 — 注目すべき3つの示唆（ニューロAI・計算論）",
-    "paperAuthors": "Nils Leutenegger",
-    "publishedDate": "Mon, 01 Jun 2026 00:00:00 -0400",
-    "paperId": "2605.30556",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "生物学的妥当性",
-      "視覚野",
-      "学習",
-      "予測符号化",
-      "fMRI"
-    ],
-    "abstractExcerpt": "Random, untrained neural networks consistently match or exceed trained networks in representational similarity to early visual cortex. This puzzling finding challenges the assumption that learning improves brain alignment. We investigate…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.30556/2605.30556v1/x1.png",
-      "https://arxiv.org/html/2605.30556/2605.30556v1/x2.png",
-      "https://arxiv.org/html/2605.30556/2605.30556v1/x3.png"
     ]
   }
 ]
