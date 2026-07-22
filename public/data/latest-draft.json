@@ -1,22 +1,29 @@
 {
-  "generatedAt": "2026-07-21T23:36:35.585Z",
-  "date": "2026-07-21",
-  "topic": "EEGとMEG(脳磁図)",
-  "templateName": "neuro-ai-bridge",
+  "generatedAt": "2026-07-22T23:35:52.986Z",
+  "date": "2026-07-22",
+  "topic": "視覚野と学習",
+  "templateName": "provocative-question",
   "riskScore": 0,
-  "paperTitle": "Exploring Brain Networks Using Noninvasive Electrophysiological Measurements: Methods and Applications",
-  "paperLink": "https://arxiv.org/abs/2607.17602",
-  "formatted": "研究者もエンジニアも、この論文は必読です。\n\n脳科学とAI——その境界線が消えつつある。\n\nEEGとMEG(脳磁図)に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG × MEG(脳磁図)\n\n> Electroencephalography (EEG) and magnetoencephalography (MEG) provide noninvasive measurements of brain activity with millisecond temporal resolution, enabling the investigation of functional and effective interactions within large-scale brain networks. This chapter presents a...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n脳情報科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Exploring Brain Networks Using Noninvasive Electrophysiological Measurements: Methods and Applications\n🔗 https://arxiv.org/abs/2607.17602\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #BrainComputerInterface",
-  "summaryJP": "EEGとMEG(脳磁図) — 脳科学とAIをつなぐ研究",
-  "paperAuthors": "Richard Leahy, Takfarinas Medani",
-  "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
-  "paperId": "2607.17602",
+  "paperTitle": "Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field",
+  "paperLink": "https://arxiv.org/abs/2607.19316",
+  "figureUrl": "https://arxiv.org/html/2607.19316/2607.19316v1/figs/model_diagram/fig1_resnet18_simclr_600dpi.png",
+  "formatted": "視覚野と学習について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 視覚野 × 学習 × fMRI × ECoG(皮質脳波)\n\n> In the primate visual system, center-preferring cortical populations have higher spatial resolution and overlap face- and word-selective regions while periphery-preferring populations have lower spatial resolution and overlap scene-selective regions. This \"eccentricity bias\" may...\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかし神経デコーディングの文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field\n🔗 https://arxiv.org/abs/2607.19316\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #NeuroAI",
+  "summaryJP": "視覚野と学習 — 常識への問題提起（神経デコーディング）",
+  "paperAuthors": "Dylan M. Diaz, Margaret M. Henderson",
+  "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
+  "paperId": "2607.19316",
   "paperSource": "arxiv",
-  "themeArea": "脳情報科学",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "EEG",
-    "MEG(脳磁図)"
+    "視覚野",
+    "学習",
+    "fMRI",
+    "ECoG(皮質脳波)"
   ],
-  "abstractExcerpt": "Electroencephalography (EEG) and magnetoencephalography (MEG) provide noninvasive measurements of brain activity with millisecond temporal resolution, enabling the investigation of functional and effective interactions within large-scale…",
-  "figureUrls": []
+  "abstractExcerpt": "In the primate visual system, center-preferring cortical populations have higher spatial resolution and overlap face- and word-selective regions while periphery-preferring populations have lower spatial resolution and overlap…",
+  "figureUrls": [
+    "https://arxiv.org/html/2607.19316/2607.19316v1/figs/model_diagram/fig1_resnet18_simclr_600dpi.png",
+    "https://arxiv.org/html/2607.19316/2607.19316v1/figs/curves/Curves_Combined_All.png",
+    "https://arxiv.org/html/2607.19316/2607.19316v1/x1.png"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T23:36:36.029Z",
+  "generatedAt": "2026-07-22T23:35:53.521Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Emergent topological structure in spontaneous brain-organoid activity",
-          "url": "https://arxiv.org/abs/2607.16517",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "Analysis of inter-spike interval statistics in neuronal networks with depolarizing and hyperpolarizing threshold potentials",
+          "url": "https://arxiv.org/abs/2607.18428",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neural activity is widely held to organize on low-dimensional structure embedded in a high-dimensional state space. Persistent homology reads such structure directly from the pattern of pairwise correlations, without assuming in advance…",
-          "authors": "Eve Bodnia, Margaux Basart, Sofie Hai, Lenzie Ford, Nina Miolane, Kenneth S. Kosik, Dirk Bouwmeester, Lincoln D. Carr"
+          "summary": "Neuronal communication is mediated in part by changes in neuronal firing rates. The time interval between successive neuronal firings is referred to as the inter-spike interval (ISI), and quantifying its statistics is important for…",
+          "authors": "Oliver Gambrell, Abhyudai Singh"
         },
         {
-          "title": "The Positive Experience Principle: Forecasting Conscious Choices with AI Embeddings",
-          "url": "https://arxiv.org/abs/2607.16659",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "Competitive and Complementary Tools",
+          "url": "https://arxiv.org/abs/2607.18460",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "A fundamental challenge in the science of consciousness is the lack of a universal, predictive framework for motivated behavior. While existing theories excel at describing specific mechanisms, from neural pathways to computational models,…",
-          "authors": "Zheng Su, Mingyan Fang"
+          "summary": "Humans have always externalized thought onto tools, from the tally and the abacus to the map and, now, large language models. I model the agent, the tool, and the task as one dynamical system in which competence (what the user retains) and…",
+          "authors": "David C. Krakauer"
         },
         {
-          "title": "Exploring Brain Networks Using Noninvasive Electrophysiological Measurements: Methods and Applications",
-          "url": "https://arxiv.org/abs/2607.17602",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "How the fly holds a single goal: normalization, not selection, in Drosophila FC2",
+          "url": "https://arxiv.org/abs/2607.18969",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Electroencephalography (EEG) and magnetoencephalography (MEG) provide noninvasive measurements of brain activity with millisecond temporal resolution, enabling the investigation of functional and effective interactions within large-scale…",
-          "authors": "Richard Leahy, Takfarinas Medani"
+          "summary": "A walking fly steers toward a goal direction, held as a bump of activity across the FC2 neurons of the fan-shaped body. These neurons also inhibit one another over distance, more strongly the farther apart they are, a feedback proposed to…",
+          "authors": "Gioele Nanni, Christopher Lee"
         },
         {
-          "title": "Overcoming the BCI Calibration Bottleneck: A Clinically-Grounded Architecture using Riemannian Alignment and Stochastic Weight Averaging",
-          "url": "https://arxiv.org/abs/2607.16225",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field",
+          "url": "https://arxiv.org/abs/2607.19316",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brain-Computer Interfaces (BCIs) face a severe calibration bottleneck due to cross-subject spatial covariance shifts and physiological artifacts. To enable zero-calibration BCI, a deep learning pipeline was engineered combining Per-Session…",
-          "authors": "Immanuvel Prathap Sagayaraju"
+          "summary": "In the primate visual system, center-preferring cortical populations have higher spatial resolution and overlap face- and word-selective regions while periphery-preferring populations have lower spatial resolution and overlap…",
+          "authors": "Dylan M. Diaz, Margaret M. Henderson"
         },
         {
-          "title": "The Illusion-Illusion: Vision Language Models See Illusions Where There Are None",
-          "url": "https://arxiv.org/abs/2412.18613",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "Conditioned Direct Feedback Alignment via Activity and Error Geometry",
+          "url": "https://arxiv.org/abs/2607.18574",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Illusions are entertaining, but they are also a useful diagnostic tool in cognitive science, philosophy, and neuroscience. A typical illusion shows a gap between how something `really is' and how something `appears to be', and this gap…",
-          "authors": "Tomer Ullman"
+          "summary": "Direct feedback alignment (DFA) trains hidden layers with fixed random projections of the output error, avoiding the transposed-weight backward pass of backpropagation (BP). We study a failure mode of DFA training that is distinct from…",
+          "authors": "Houman Safaai, Varun Reddy, Bernardo L. Sabatini"
         },
         {
-          "title": "An Intelligent Infrastructure as a Foundation for Modern Science",
-          "url": "https://arxiv.org/abs/2508.10051",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "Is EEG-to-Text Feasible in Real-World Scenarios? An In-Depth Analysis Using a Neuropsychology-Inspired Benchmark",
+          "url": "https://arxiv.org/abs/2607.18749",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Infrastructure shapes societies and scientific discovery. Traditional scientific infrastructure, often static and fragmented, leads to issues like data silos, lack of interoperability and reproducibility, and unsustainable short-lived…",
-          "authors": "Satrajit S. Ghosh"
+          "summary": "Translating brain signals into text could restore communication for people with severe paralysis, yet practically usable systems to date rely on invasive electrocorticography (ECoG). Electroencephalography (EEG) offers a non-invasive…",
+          "authors": "Zihan Zhang (Research Center for Social Computing and Interactive Robotics, Harbin Institute of Technology), Yu Bao (Research Center for Social Computing and Interactive Robotics, Harbin Institute of Technology, Shanghai Innovation Institute), Xiao Ding (Research Center for Social Computing and Interactive Robotics, Harbin Institute of Technology), Tianyi Jiang (State Key Laboratory for Novel Software Technology, Nanjing University), Kai Xiong (Zhongguancun Laboratory)"
         }
       ]
     },
@@ -63,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "New study supports testing of Merck’s Ebola vaccine in DRC outbreak",
+          "url": "https://www.statnews.com/2026/07/22/new-study-supports-testing-of-mercks-ebola-vaccine-in-drc-outbreak/?utm_campaign=rss",
+          "publishedDate": "Wed, 22 Jul 2026 21:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "New data supports the idea that Merck’s Ebola vaccine Ervebo, licensed to target the Zaire species of ebolaviruses, could also offer some protection against another.",
+          "authors": "Helen Branswell"
+        },
+        {
+          "title": "Congo&#8217;s Ebola outbreak has killed over 1,000 people",
+          "url": "https://www.statnews.com/2026/07/22/congo-ebola-outbreak-1000-deaths/?utm_campaign=rss",
+          "publishedDate": "Wed, 22 Jul 2026 14:52:30 +0000",
+          "source": "statnews.com",
+          "summary": "At least 999 people have died from the Ebola outbreak in Congo, a grim toll in what’s already been declared the fastest Ebola outbreak in history.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds",
+          "url": "https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss",
+          "publishedDate": "Wed, 22 Jul 2026 11:52:58 +0000",
+          "source": "statnews.com",
+          "summary": "What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "As Maui recovers from devastating fires, a study offers vision for new rural health model",
+          "url": "https://www.statnews.com/2026/07/22/maui-wildfire-exposure-study-health-impacts-lahaina-hawaii/?utm_campaign=rss",
+          "publishedDate": "Wed, 22 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A study of the long-term health impact of the Lahaina wildfires is inspiring a new model for disaster recovery and support.",
+          "authors": "Angus Chen and Crystal Milner"
+        },
+        {
+          "title": "STAT+: More workers hate their jobs, but keep them for the health insurance",
+          "url": "https://www.statnews.com/2026/07/22/gallup-poll-24-percent-workers-job-lock-keep-job-health-insurance/?utm_campaign=rss",
+          "publishedDate": "Wed, 22 Jul 2026 04:01:00 +0000",
+          "source": "statnews.com",
+          "summary": "A new survey reveals 24% of U.S. workers stay in unwanted jobs to keep health insurance. Experts call it 'job lock.'",
+          "authors": "Bob Herman"
+        },
+        {
           "title": "STAT+: Advocates say federal funding is being cut from groups fighting HIV",
           "url": "https://www.statnews.com/2026/07/21/hiv-aids-prevention-advocates-fear-deep-cuts-cdc-funding/?utm_campaign=rss",
           "publishedDate": "Tue, 21 Jul 2026 14:24:32 +0000",
           "source": "statnews.com",
           "summary": "The administration is shifting some funding to states, but community groups are set to lose out.",
           "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: Broad Institute, partners unveil new initiative to develop gene therapies for rare diseases",
-          "url": "https://www.statnews.com/2026/07/21/center-for-therapeutic-genetics-rare-disease-gene-therapies/?utm_campaign=rss",
-          "publishedDate": "Tue, 21 Jul 2026 13:37:33 +0000",
-          "source": "statnews.com",
-          "summary": "The Broad Institute, Boston Children’s Hospital, and Maine’s Jackson Laboratory announced a collaboration to develop rare disease gene therapies.",
-          "authors": "Allyson Chiu — Boston Globe"
-        },
-        {
-          "title": "A renewed push from the right against abortion pills",
-          "url": "https://www.statnews.com/2026/07/21/biotech-news-a-renewed-push-from-the-right-against-abortion-pills/?utm_campaign=rss",
-          "publishedDate": "Tue, 21 Jul 2026 11:34:38 +0000",
-          "source": "statnews.com",
-          "summary": "The latest on cyclospora, THC sodas at the grocery store, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "THC drinks are sold beside sodas, iced tea, and even chocolate milk, often in violation of state laws",
-          "url": "https://www.statnews.com/2026/07/21/thc-drinks-risk-accidental-ingestion-issue-labels-regulations/?utm_campaign=rss",
-          "publishedDate": "Tue, 21 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "THC drinks, which have exploded in popularity in recent years, are sold in retail stores beside sodas, iced tea, and even chocolate milk, often in violation of state laws.",
-          "authors": "Sarah Todd"
-        },
-        {
-          "title": "FDA still focused on lettuce supplier as source of parasite, despite faulty test result",
-          "url": "https://www.statnews.com/2026/07/20/cyclospora-lettuce-tests-continue-restaurant-visits-decline/?utm_campaign=rss",
-          "publishedDate": "Mon, 20 Jul 2026 20:37:59 +0000",
-          "source": "statnews.com",
-          "summary": "The FDA said Monday it is still focused on lettuce from Taylor Farms as the source of a multistate outbreak of a diarrhea-causing parasite, despite a faulty test result.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "STAT+: The next step of site-neutral, and a fiery PBM hearing",
-          "url": "https://www.statnews.com/2026/07/20/site-neutral-payments-hospitals-health-insurance-earnings-season/?utm_campaign=rss",
-          "publishedDate": "Mon, 20 Jul 2026 14:38:04 +0000",
-          "source": "statnews.com",
-          "summary": "Medicare proposes to reduce payments to hospitals for certain drugs and imaging services.",
-          "authors": "Bob Herman"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Trump administration says it&#8217;s deferring $1B in Medicaid payments to California and Minnesota",
-          "url": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss",
-          "publishedDate": "Tue, 21 Jul 2026 20:10:43 +0000",
-          "source": "statnews.com",
-          "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "STAT+: Rare disease drugmakers try to avoid Trump price cuts",
-          "url": "https://www.statnews.com/2026/07/21/rare-disease-drugmakers-avoid-trump-price-cuts-pbm-state-laws-dc-diagnosis/?utm_campaign=rss",
-          "publishedDate": "Tue, 21 Jul 2026 18:17:34 +0000",
-          "source": "statnews.com",
-          "summary": "Plus, GOP voters want a crackdown on health care fraud, and how PBMs are skirting state laws.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "STAT+: Advocates say federal funding is being cut from groups fighting HIV",
-          "url": "https://www.statnews.com/2026/07/21/hiv-aids-prevention-advocates-fear-deep-cuts-cdc-funding/?utm_campaign=rss",
-          "publishedDate": "Tue, 21 Jul 2026 14:24:32 +0000",
-          "source": "statnews.com",
-          "summary": "The administration is shifting some funding to states, but community groups are set to lose out.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Watching too much TV in midlife may shrink the brain",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260721000822.htm",
-          "publishedDate": "Tue, 21 Jul 2026 09:29:24 EDT",
+          "title": "Colorectal cancer warning signs younger adults should never ignore",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260721000839.htm",
+          "publishedDate": "Wed, 22 Jul 2026 08:47:24 EDT",
           "source": "sciencedaily.com",
-          "summary": "Watching television very often in midlife may be linked to troubling brain changes decades later. In a study of about 1,700 adults, frequent TV viewers later showed smaller brain regions involved in memory, decision-making, and visual…",
+          "summary": "Colorectal cancer is now the leading cause of cancer death among people under 50, and cases in younger adults continue to rise. Warning signs can include persistent bowel changes, recurring rectal bleeding, dark or narrow stools,…",
           "authors": ""
         },
         {
-          "title": "Opinion: How a controversial rule could hurt the NIH’s ability to manage risk",
-          "url": "https://www.statnews.com/2026/07/21/omb-nih-grant-review-politics-scientific-risk/?utm_campaign=rss",
-          "publishedDate": "Tue, 21 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The proposed rule could “weaken the NIH’s benign influence over research risks,” writes Doni Bloomfield.",
-          "authors": "Doni Bloomfield"
+          "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
+          "publishedDate": "Wed, 22 Jul 2026 08:34:25 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized…",
+          "authors": ""
         },
         {
-          "title": "STAT+: Makers of rare disease drugs seek exemption from Trump’s price-cut pilots",
-          "url": "https://www.statnews.com/2026/07/21/rare-disease-coalition-orphan-drug-exemption-medicare-pilot-price-programs/?utm_campaign=rss",
-          "publishedDate": "Tue, 21 Jul 2026 08:30:00 +0000",
+          "title": "STAT+: Federal health quality research grants worth $109 million ended early",
+          "url": "https://www.statnews.com/2026/07/22/ahrq-grants-health-quality-researchers-lose-109-million-funding/?utm_campaign=rss",
+          "publishedDate": "Wed, 22 Jul 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "A coalition of biotech firms is lobbying to exclude orphan drugs from new federal pilot programs aimed at lowering Medicare drug costs.",
-          "authors": "John Wilkerson"
+          "summary": "At least 78 AHRQ grants worth $200 million have been affected by \"non-award\" notices; it's estimated those grants had $109.2 million in funding remaining.",
+          "authors": "Anil Oza"
+        },
+        {
+          "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
+          "publishedDate": "Wed, 22 Jul 2026 03:21:08 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule called pghi-4, which…",
+          "authors": ""
+        },
+        {
+          "title": "New cancer strategy could stop tumors before resistance takes hold",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260716023607.htm",
+          "publishedDate": "Wed, 22 Jul 2026 01:41:04 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers are applying evolutionary theory to cancer by changing treatments before tumors have time to develop resistance. Mathematical models suggest that rapid, carefully timed switches between multiple therapies could improve cure…",
+          "authors": ""
+        },
+        {
+          "title": "Magic mushrooms may reshape the brain long after the trip ends",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260719040005.htm",
+          "publishedDate": "Wed, 22 Jul 2026 00:12:46 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A single dose of psilocybin produced measurable changes in brain activity and possible changes in brain structure that lasted for up to a month. Participants who experienced the greatest increase in flexible, varied brain activity also…",
+          "authors": ""
         }
       ]
     },
@@ -173,99 +173,83 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "From Optimal Policies to Individual Differences: Rethinking Reinforcement Learning for Biology",
-          "url": "https://arxiv.org/abs/2607.16542",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "Spiking Neural Networks for fMRI-Based Visual Semantic Decoding",
+          "url": "https://arxiv.org/abs/2607.19170",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Reinforcement learning (RL) is primarily known as a computational method for optimizing control tasks, but it is increasingly used to explain biological behavior. While RL successfully captures key aspects of biology, a major gap remains:…",
-          "authors": "Patrick Govoni, Palina Bartashevich, Clémence Bergerot, Valerii Chirkov, Valentin Lecheval, Pawel Romanczuk"
+          "summary": "Functional magnetic resonance imaging (fMRI)-based visual decoding aims to recover visual information from measured brain activity, commonly by mapping fMRI responses into latent visual features for downstream decoding tasks. Most existing…",
+          "authors": "Jiahong Zhang, Jinning Zhao, Sijun Shen, Siyuan Xu, Bo Xu, Guoqi Li"
         },
         {
-          "title": "How to Build Marcus's Algebraic Mind: From Thagard's Brain--Mind Viewpoint",
-          "url": "https://arxiv.org/abs/2607.16573",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers",
+          "url": "https://arxiv.org/abs/2607.18252",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Two critiques of connectionist cognition converge on one missing capacity. In The Algebraic Mind, Marcus isolated three components any architecture must support -- operations over variables, structured representations, and individuals…",
-          "authors": "Hiroyuki Chuma, Kanji Otsuka, Yoichi Sato"
+          "summary": "Machine learning methods have shown that data-driven policies can accelerate mixed-integer linear programming (MILP) solvers, but many such approaches remain difficult to inspect, adapt, and deploy because the learned policy is represented…",
+          "authors": "Jinbiao Nie, Kewei Feng, Xiaoyuan Zhang, Shan Yin, Zizhuo Wang, Bin Dong"
         },
         {
-          "title": "How to Build Marcus's Algebraic Mind: From Minsky's Emotion-Machine Viewpoint",
-          "url": "https://arxiv.org/abs/2607.16623",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "Scalable and Efficient Joint Spiking Embedding Predictive Architecture for Large-Scale Dynamic Graphs",
+          "url": "https://arxiv.org/abs/2607.18412",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In The Algebraic Mind, Marcus identified three cognitive components: operations over variables, recursively structured representations, and an individual/kind distinction. He left the neural substrate open. A companion paper solves this…",
-          "authors": "Hiroyuki Chuma, Kanji Otsuka, Yoichi Sato"
+          "summary": "Dynamic graph learning aims to capture evolving structural and semantic patterns in real-world systems, such as fraud detection and recommender systems. Due to the scarcity of labeled data in real-world dynamic graphs, recent studies have…",
+          "authors": "Huizhe Zhang, Yuchang Zhu, Huazhen Zhong, Liang Chen, Zibin Zheng"
         },
         {
-          "title": "Decision Variable Analysis-Guided Differentiated Fuzzy Search for Large-Scale Multi-Objective Optimization",
-          "url": "https://arxiv.org/abs/2607.16723",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "Conditioned Direct Feedback Alignment via Activity and Error Geometry",
+          "url": "https://arxiv.org/abs/2607.18574",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Large-scale multi-objective optimization problems (LSMOPs) are challenging due to their high-dimensional decision spaces. Fuzzy search is an effective technique for improving search efficiency, while decision variable analysis can reveal…",
-          "authors": "Boxi Xiao, Hui Bai, Jinhua Zheng, Yu Li, Juan Zou"
+          "summary": "Direct feedback alignment (DFA) trains hidden layers with fixed random projections of the output error, avoiding the transposed-weight backward pass of backpropagation (BP). We study a failure mode of DFA training that is distinct from…",
+          "authors": "Houman Safaai, Varun Reddy, Bernardo L. Sabatini"
         },
         {
-          "title": "Hybrid Augmented Lagrangian Method for General Constrained Optimization via Evolutionary Algorithms",
-          "url": "https://arxiv.org/abs/2607.16876",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "How the fly holds a single goal: normalization, not selection, in Drosophila FC2",
+          "url": "https://arxiv.org/abs/2607.18969",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Constrained Optimization Problems are crucial in fields such as engineering, economics, and robotics, where high-dimensional search spaces and complex objectives and constraints are common. Numerical optimization methods, including…",
-          "authors": "Lampros Printzios, Konstantinos Chatzilygeroudis"
+          "summary": "A walking fly steers toward a goal direction, held as a bump of activity across the FC2 neurons of the fan-shaped body. These neurons also inhibit one another over distance, more strongly the farther apart they are, a feedback proposed to…",
+          "authors": "Gioele Nanni, Christopher Lee"
         },
         {
-          "title": "Organization of computation in reservoir computing",
-          "url": "https://arxiv.org/abs/2607.17858",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "Towards chemistries in dynamical systems",
+          "url": "https://arxiv.org/abs/2607.19090",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Reservoir computing exploits nonlinear dynamical systems to encode temporal inputs into high-dimensional state space representations. Although reservoir performance is often characterized through memory, nonlinearity, and their tradeoff,…",
-          "authors": "Mohab Abdalla, Damien Rontani"
+          "summary": "Chemistry describes aspects of the universe in terms of molecules and their reactions. In this exploratory work we present a way to describe aspects of any dynamical system in similar terms. To describe a dynamical system in this way three…",
+          "authors": "Martin Biehl, Nathaniel Virgo"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 5,
+      "itemCount": 3,
       "items": [
         {
-          "title": "Overcoming the BCI Calibration Bottleneck: A Clinically-Grounded Architecture using Riemannian Alignment and Stochastic Weight Averaging",
-          "url": "https://arxiv.org/abs/2607.16225",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "Joint Synchronization and Sensing in Networked ISAC via Structured Canonical Polyadic Decomposition",
+          "url": "https://arxiv.org/abs/2607.18680",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brain-Computer Interfaces (BCIs) face a severe calibration bottleneck due to cross-subject spatial covariance shifts and physiological artifacts. To enable zero-calibration BCI, a deep learning pipeline was engineered combining Per-Session…",
-          "authors": "Immanuvel Prathap Sagayaraju"
+          "summary": "Networked integrated sensing and communication (ISAC) offers significant potential for next-generation wireless systems. By exploiting spatial diversity through the cooperation of multiple base stations (BSs), this architecture expands…",
+          "authors": "Lin Chen, Yifan Liang, Hongbin Li"
         },
         {
-          "title": "Efficient EEG Seizure Detection Using INT8 Quantization, Channel Pruning, and Spiking Neural Networks",
-          "url": "https://arxiv.org/abs/2607.16296",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "Spatiotemporal Synchronization of Distributed Arrays using Particle-Based Loopy Belief Propagation",
+          "url": "https://arxiv.org/abs/2504.00744",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Continuous EEG monitoring for epilepsy is constrained by the limited power and memory budgets of wearable and implantable devices. Deep neural networks can detect seizures with high accuracy, but their computational cost and model size…",
-          "authors": "Kartikey Ahlawat"
+          "summary": "Sensing and imaging with distributed radio infrastructures (e.g., distributed MIMO, wireless sensor networks, multistatic radar) rely on knowledge of the positions, orientations, and clock parameters of distributed apertures. We extend a…",
+          "authors": "Benjamin J. B. Deutschmann, Peter Vouras"
         },
         {
-          "title": "Joint-Embedding Predictive Architecture for Sensor-based Activity Recognition",
-          "url": "https://arxiv.org/abs/2607.16350",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "title": "How defensive driving enhances driving safety: A driving simulator study on drivers' defensive driving behaviors",
+          "url": "https://arxiv.org/abs/2607.18663",
+          "publishedDate": "Wed, 22 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Sensor-based human activity recognition (HAR) has achieved significant progressed in fully supervised learning settings. However, these supervised learning models rely on large amount of labeled data, which require labor-intensive…",
-          "authors": "Mohd Halim Mohd Noor, Abdulrahman M. A. Baraka"
-        },
-        {
-          "title": "EEGPrep: a validated Python implementation of the EEGLAB preprocessing pipeline",
-          "url": "https://arxiv.org/abs/2607.16647",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Objective. Automated EEG preprocessing is common in research and clinical work, but few pipelines have been tested systematically. In a recent benchmark, the default EEGLAB pipeline was the only pipeline that significantly outperformed…",
-          "authors": "Arnaud Delorme, Suraj Ranganath, Christian Kothe, Aman Jaiswal, Scott Makeig, Bruno Aristimunha"
-        },
-        {
-          "title": "Efficient Audio-Visual Event Recognition via Knowledge Distillation and Dynamic INT8 Quantization of a Hybrid Cross-Attention Network",
-          "url": "https://arxiv.org/abs/2607.16980",
-          "publishedDate": "Tue, 21 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Audio-visual event recognition (AVER) has achieved significant performance improvements through transformer-based multimodal architectures. However, the high computational complexity, large memory footprint, and inference cost of these…",
-          "authors": "Parinaz Binandeh Dehaghani, Danilo Pena, A. Pedro Aguiar"
+          "summary": "Defensive driving is widely recognized as an advanced driving skill. However, whether and how defensive driving affects driving safety remains insufficiently investigated. This study examines the behavioral characteristics of defensive…",
+          "authors": "Xinzheng Wu, Junyi Chen, Shaolingfeng Ye, Yong Shen"
         }
       ]
     }
