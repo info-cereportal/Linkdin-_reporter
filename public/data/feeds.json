@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T23:32:42.724Z",
+  "generatedAt": "2026-07-24T23:38:43.128Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Perceived vertical and eye level as one orientation order parameter: a closed-form account of the Li-Matin rules for egocentric space",
-          "url": "https://arxiv.org/abs/2607.19681",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "title": "Spectral theory for population density dynamics of spiking neurons with refractoriness",
+          "url": "https://arxiv.org/abs/2607.20699",
+          "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The visually perceived vertical is biased by the orientation content of the visual field. Li and Matin (2005a, 2005b) reported three regularities of this induced vertical (VPV): a roll-tilted peripheral line shifts it about linearly with…",
-          "authors": "A. Y. Shavit (Hunter College,the Graduate Center, City University of New York)"
+          "summary": "Incorporating an absolute refractory period into the population density approach for spiking neurons remains an open problem, despite evidence that refractoriness can strongly affect nonlinear transfer functions and network stability. We…",
+          "authors": "Luca Falorsi, Gianni Valerio Vinci., Maurizio Mattia"
         },
         {
-          "title": "State-Dependent Observation Noise Reintroduces Epistemic Value in Linear-Gaussian Active Inference",
-          "url": "https://arxiv.org/abs/2607.20306",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "title": "Transition-Related Potentials as Markers of Narrative Comprehension in Continuous EEG",
+          "url": "https://arxiv.org/abs/2607.20720",
+          "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent work established that under active inference, linear-Gaussian state-space models lose their epistemic drive (any incentive to act so as to gain information) \"under any circumstances\". The epistemic term of the Expected Free Energy…",
-          "authors": "Daniel Corva"
+          "summary": "Harnessing the potential of electroencephalography (EEG) for brain research is fundamentally limited by intrinsic noise and the diffuse projection of brain-generated activity over the scalp. The standard event-related potential (ERP)…",
+          "authors": "Bálint Csanády, Péter Vedres, Kristóf Zsolt Makó, Orsolya Papp-Zipernovszky, Márta Volosin, Dávid Apagyi, András Lukács, András Bálint Kovács, Zoltan Nadasdy"
         },
         {
-          "title": "When to Smell in Stereo",
-          "url": "https://arxiv.org/abs/2607.20307",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "title": "Perspective Latents as an Architectural Condition for Causal Emergence in Active Inference Agents",
+          "url": "https://arxiv.org/abs/2607.20708",
+          "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent works have highlighted the use of dual nostril 'stereo' olfaction by a variety of animals. In this work we perform \"back of the envelope\" calculations to determine when stereo olfaction is useful compared to single nostril 'mono'…",
-          "authors": "Sina Tootoonian, Andreas T. Schaefer"
+          "summary": "A recent line of work measures causal emergence in reinforcement learning agents through Integrated Information Decomposition, reporting that $\\Phi_r$ grows with training and tracks reward improvement. For active inference, this raises the…",
+          "authors": "Hongju Pae"
         },
         {
-          "title": "Capturing Inner Experience At Scale: An AI Interviewer Co-Developed with the Founder of a Landmark Phenomenological Method",
-          "url": "https://arxiv.org/abs/2607.20310",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "title": "The Influence of Width Ratios on Structural Beauty in Male Faces",
+          "url": "https://arxiv.org/abs/2602.13368",
+          "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Subjective experience is central to psychological science, yet methods for studying it force a choice between depth and scale. Classical Experience sampling, as in ecological momentary assessments (EMA), captures experience as it occurs,…",
-          "authors": "Jona Carmon, Clara Bersch, Charles Fernyhough, Russell T. Hurlburt, Simone Kühn"
+          "summary": "This study investigates the relationship between interocular distance relative to overall facial width (width ratio) and perceived subjective beauty in male faces. Building on the methodology of Pallett et al. (2010), who found that…",
+          "authors": "Theresa Tennstedt, Benjamin Knopp, Dominik Endres"
         },
         {
-          "title": "The Giant Hippocampus: From Structural Monoculture to a System of Systems",
-          "url": "https://arxiv.org/abs/2607.19973",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "title": "The Sensation Modulating Network:Haltability as the architectural ground for object-directed phenomenology",
+          "url": "https://arxiv.org/abs/2605.26856",
+          "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "AI researchers describe state-of-the-art models as one thing repeated at scale: the Transformer, wired identically for text, pixels, or speech. Neuroscientists describe the cortex as a mosaic - dense Layer 4 in visual cortex for spatial…",
-          "authors": "Jaeho Seol"
+          "summary": "We propose the Sensation Modulating Network (SMN): the cognitive agent as the whole body, organized at every scale by opponent dynamics, built from Sensation Modulators -- tissue that senses and acts through one substrate -- paired into…",
+          "authors": "G. Nagarjuna, Durgaprasad Karnam"
         },
         {
-          "title": "FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization",
-          "url": "https://arxiv.org/abs/2607.20382",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "title": "A multi-ensemble mean-field reduction method for networks of globally coupled phase oscillators with arbitrary parameter distributions",
+          "url": "https://arxiv.org/abs/2607.09516",
+          "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Clinical biomarker workflows in translational research settings often rely on spreadsheet-driven tracking, manual quality control (QC) reconciliation, and loosely integrated systems, resulting in limited state visibility, delayed…",
-          "authors": "Eva McCord, Ernest Pedapati, Zag ElSayed"
+          "summary": "Understanding the dynamical properties of coupled phase oscillator systems with heterogeneous oscillator frequencies has been a long-standing challenge of complex systems theory. While the seminal work of Ott and Antonsen dramatically…",
+          "authors": "Richard Gast, Shotaro Takasu, Helmut Schmidt, Ann Kennedy"
         }
       ]
     },
@@ -62,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "FDA advisory panel narrowly rejects compounding of one peptide, backs two others",
+          "url": "https://www.statnews.com/2026/07/24/fda-peptide-compounding-panel-backs-epitalon-rejects-emideltide/?utm_campaign=rss",
+          "publishedDate": "Fri, 24 Jul 2026 18:41:46 +0000",
+          "source": "statnews.com",
+          "summary": "Robert F. Kennedy Jr. has lauded peptides and said he takes them himself.",
+          "authors": "Lizzy Lawrence and Sarah Todd"
+        },
+        {
+          "title": "There are already more U.S. measles cases this year than in all of 2025",
+          "url": "https://www.statnews.com/2026/07/24/measles-cases-surpass-2025-total-national-vaccination-rate-now-below-key-threshold/?utm_campaign=rss",
+          "publishedDate": "Fri, 24 Jul 2026 16:13:00 +0000",
+          "source": "statnews.com",
+          "summary": "The number of measles cases in the U.S. has surpassed the record-breaking tally for all of 2025, with five more months of 2026 still to come.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "A new, separate outbreak of the diarrhea-causing parasite",
+          "url": "https://www.statnews.com/2026/07/24/health-news-new-separate-cyclospora-diarrhea-outbreak/?utm_campaign=rss",
+          "publishedDate": "Fri, 24 Jul 2026 11:59:27 +0000",
+          "source": "statnews.com",
+          "summary": "A win for peptide proponents, autism advisory committees clash, and more health news from Morning Rounds",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "Senate advances MAHA-friendly bill for food warning labels and junk food ad bans",
+          "url": "https://www.statnews.com/2026/07/24/ultraprocessed-food-warning-label-bill-clears-senate-committee-bipartisan-vote/?utm_campaign=rss",
+          "publishedDate": "Fri, 24 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Unexpected alliances among Republicans and Democrats were on display over a bill meant to rein in ultra-processed foods.",
+          "authors": "Sarah Todd"
+        },
         {
           "title": "STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides",
           "url": "https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv/?utm_campaign=rss",
@@ -77,38 +109,6 @@
           "source": "statnews.com",
           "summary": "Federal health officials are investigating a new outbreak involving the diarrhea-causing parasite cyclospora.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "STAT+: Popular insulin product enters shortage as other pens leave market",
-          "url": "https://www.statnews.com/2026/07/23/sanofi-insulin-lantus-solostar-pen-reported-short-supply/?utm_campaign=rss",
-          "publishedDate": "Thu, 23 Jul 2026 16:23:21 +0000",
-          "source": "statnews.com",
-          "summary": "The Lantus Solostar insulin pen isn't in official FDA shortage, but patients are having a tough time finding it.",
-          "authors": "Isabella Cueto"
-        },
-        {
-          "title": "Senate health panel delays vote on CDC nominee",
-          "url": "https://www.statnews.com/2026/07/23/erica-schwartz-cdc-director-vote-delayed/?utm_campaign=rss",
-          "publishedDate": "Thu, 23 Jul 2026 16:18:52 +0000",
-          "source": "statnews.com",
-          "summary": "Too few senators were in attendance to proceed with a vote on the CDC director nominee.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: Vote on key federal health nominee delayed amid questions over vaccine views",
-          "url": "https://www.statnews.com/2026/07/23/sean-kaufman-aspr-nomination-confirmation-vote-postponed-senate-committee/?utm_campaign=rss",
-          "publishedDate": "Thu, 23 Jul 2026 14:03:04 +0000",
-          "source": "statnews.com",
-          "summary": "Sean Kaufman, nominated to run ASPR, has a track record of questioning the safety of vaccines.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: Trump administration quietly picks Timothy Westlake to lead mental health agency",
-          "url": "https://www.statnews.com/2026/07/23/trump-nominates-timothy-westlake-samhsa/?utm_campaign=rss",
-          "publishedDate": "Thu, 23 Jul 2026 13:55:51 +0000",
-          "source": "statnews.com",
-          "summary": "Timothy Westlake, an emergency doctor nominated to head SAMHSA, has been active in addiction policy in Wisconsin.",
-          "authors": "Lev Facher"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides",
-          "url": "https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv/?utm_campaign=rss",
-          "publishedDate": "Thu, 23 Jul 2026 20:08:56 +0000",
+          "title": "FDA advisory panel narrowly rejects compounding of one peptide, backs two others",
+          "url": "https://www.statnews.com/2026/07/24/fda-peptide-compounding-panel-backs-epitalon-rejects-emideltide/?utm_campaign=rss",
+          "publishedDate": "Fri, 24 Jul 2026 18:41:46 +0000",
           "source": "statnews.com",
-          "summary": "The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides.",
-          "authors": "Sarah Todd and Lizzy Lawrence"
+          "summary": "Robert F. Kennedy Jr. has lauded peptides and said he takes them himself.",
+          "authors": "Lizzy Lawrence and Sarah Todd"
         },
         {
-          "title": "Senate health panel delays vote on CDC nominee",
-          "url": "https://www.statnews.com/2026/07/23/erica-schwartz-cdc-director-vote-delayed/?utm_campaign=rss",
-          "publishedDate": "Thu, 23 Jul 2026 16:18:52 +0000",
-          "source": "statnews.com",
-          "summary": "Too few senators were in attendance to proceed with a vote on the CDC director nominee.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: Vote on key federal health nominee delayed amid questions over vaccine views",
-          "url": "https://www.statnews.com/2026/07/23/sean-kaufman-aspr-nomination-confirmation-vote-postponed-senate-committee/?utm_campaign=rss",
-          "publishedDate": "Thu, 23 Jul 2026 14:03:04 +0000",
-          "source": "statnews.com",
-          "summary": "Sean Kaufman, nominated to run ASPR, has a track record of questioning the safety of vaccines.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: Trump administration quietly picks Timothy Westlake to lead mental health agency",
-          "url": "https://www.statnews.com/2026/07/23/trump-nominates-timothy-westlake-samhsa/?utm_campaign=rss",
-          "publishedDate": "Thu, 23 Jul 2026 13:55:51 +0000",
-          "source": "statnews.com",
-          "summary": "Timothy Westlake, an emergency doctor nominated to head SAMHSA, has been active in addiction policy in Wisconsin.",
-          "authors": "Lev Facher"
-        },
-        {
-          "title": "A healthier global diet could cut farm emissions by 85%",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260716023557.htm",
-          "publishedDate": "Thu, 23 Jul 2026 09:45:27 EDT",
+          "title": "AI helps Stanford scientists discover “natural Ozempic” without the usual side effects",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
+          "publishedDate": "Fri, 24 Jul 2026 09:44:43 EDT",
           "source": "sciencedaily.com",
-          "summary": "A global shift toward healthier diets could sharply reduce livestock farming, free up agricultural land, and cut emissions from land-use change by 85% by 2050. At the same time, fruit, vegetable, nut, and legume production could soar,…",
+          "summary": "Stanford Medicine researchers have discovered a naturally occurring molecule that may suppress appetite and reduce body weight much like Ozempic, but without several of its common side effects. The molecule, called BRP, acts on a more…",
           "authors": ""
         },
         {
-          "title": "Popular childhood drinks may raise blood pressure decades later",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260722032121.htm",
-          "publishedDate": "Thu, 23 Jul 2026 08:34:58 EDT",
+          "title": "Scientists discover a compound that could supercharge aging muscle repair",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
+          "publishedDate": "Fri, 24 Jul 2026 09:37:50 EDT",
           "source": "sciencedaily.com",
-          "summary": "A 25-year study found that frequent consumption of soda, sports drinks, and fruit juice beginning in childhood was linked to a higher risk of high blood pressure in adulthood. Swapping one daily drink for whole fruit, milk, or water could…",
+          "summary": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and preserve strength as people age.",
           "authors": ""
+        },
+        {
+          "title": "A new antiviral could stop measles before an outbreak takes off",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260724061431.htm",
+          "publishedDate": "Fri, 24 Jul 2026 09:27:10 EDT",
+          "source": "sciencedaily.com",
+          "summary": "An experimental pill prevented a measles-like virus from spreading through the air or through close contact in ferrets. It worked when given shortly before or after exposure and also shortened illness and the period when infected animals…",
+          "authors": ""
+        },
+        {
+          "title": "The billion-dollar problem keeping Ozempic, Wegovy, and Zepbound from patients",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260723084854.htm",
+          "publishedDate": "Fri, 24 Jul 2026 07:29:04 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Ozempic, Wegovy, and similar drugs may deliver excellent health value, but covering them for millions of eligible patients could overwhelm insurance budgets. Researchers say better long-term support is needed and warn that low-cost…",
+          "authors": ""
+        },
+        {
+          "title": "Senate advances MAHA-friendly bill for food warning labels and junk food ad bans",
+          "url": "https://www.statnews.com/2026/07/24/ultraprocessed-food-warning-label-bill-clears-senate-committee-bipartisan-vote/?utm_campaign=rss",
+          "publishedDate": "Fri, 24 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Unexpected alliances among Republicans and Democrats were on display over a bill meant to rein in ultra-processed foods.",
+          "authors": "Sarah Todd"
         }
       ]
     },
@@ -173,91 +173,75 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "SpikingMOT: A Spike-Driven Multi-Object Tracker",
-          "url": "https://arxiv.org/abs/2607.19875",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "title": "Search Hardness-Aware LLM-Based Problem Formulation for Expensive Simulation-Driven Design",
+          "url": "https://arxiv.org/abs/2607.21220",
+          "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Multi-object tracking (MOT) plays a fundamental role in visual perception, where accurate trajectory prediction is essential for reliable target association under complex motion patterns. Recent trackers have improved motion modeling with…",
-          "authors": "Yiding Sun, Xiangyang Yang, Dongxu Zhang, Qirui Wang, Zijie Xu, Wenxuan Liu, Shuiwang Li, Jihua Zhu, Zhaofei Yu, Tiejun Huang"
+          "summary": "Expensive simulation-driven design is widely used in engineering to identify requirement-satisfying designs with as few high-fidelity simulations as possible. Most existing efforts address this challenge by improving optimization…",
+          "authors": "Yuchen Li, Handing Wang, Bing Xue, Mengjie Zhang"
         },
         {
-          "title": "Learning the Arabic Dialect Continuum as a Continuous Space: A Regression Approach to Speaker Origin Prediction",
-          "url": "https://arxiv.org/abs/2607.19751",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "title": "Memoir: Should a Model Write to Its Memory While It Thinks?",
+          "url": "https://arxiv.org/abs/2607.20792",
+          "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We present a regression-based approach to Arabic dialect geolocation that models dialectal variation as a continuous geographic space rather than discrete categories. Speaker origin is predicted as continuous latitude-longitude coordinates…",
-          "authors": "Mohamed Aziz Khadraoui, Adel Ammar, Bilel Benjdira, Zahid Khan, Skander Turki, Wadii Boulila"
+          "summary": "Memoir combines per-sample fast memory, shared slow parameters, variable-depth latent recurrence, and a future-latent energy objective. We test its riskiest coupling: each pondering iteration may rewrite the fast tier that the same…",
+          "authors": "Jaber Jaber, Osama Jaber"
         },
         {
-          "title": "The Giant Hippocampus: From Structural Monoculture to a System of Systems",
-          "url": "https://arxiv.org/abs/2607.19973",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "title": "Weight-norm Criticality: A Mechanism for Loss Spikes Induced by the Normalization and Weight Decay",
+          "url": "https://arxiv.org/abs/2607.21005",
+          "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "AI researchers describe state-of-the-art models as one thing repeated at scale: the Transformer, wired identically for text, pixels, or speech. Neuroscientists describe the cortex as a mosaic - dense Layer 4 in visual cortex for spatial…",
-          "authors": "Jaeho Seol"
+          "summary": "Most explanations of training instability focus on \\emphlearning-rate criticality, typically characterized by the Edge of Stability, beyond which optimization becomes unstable. We argue that, in practical deep neural network training,…",
+          "authors": "Xiaolong Li, Zhangchen Zhou, Zhi-Qin John Xu"
         },
         {
-          "title": "Energy-Aware Metaheuristics",
-          "url": "https://arxiv.org/abs/2602.06595",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "title": "Ecological Cycle Optimizer: A novel nature-inspired metaheuristic algorithm for non-convex global optimization",
+          "url": "https://arxiv.org/abs/2508.20458",
+          "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper presents a principled framework for designing energy-aware metaheuristics that operate under fixed energy budgets. We introduce a unified operator-level model that quantifies both numerical gain and energy usage, and define a…",
-          "authors": "Enrique Alba, Tomohiro Harada, Gabriel Luque"
+          "summary": "This article proposes the Ecological Cycle Optimizer (ECO), a novel metaheuristic algorithm inspired by energy flow and material cycling within ecosystems. ECO draws an analogy between the dynamic process of solving optimization problems…",
+          "authors": "Boyu Ma, Jiaxiao Shi, Yiming Ji, Zhengpu Wang"
         },
         {
-          "title": "Transient State Reorganization and Cell Differentiation in the Developmental Dynamics of Growing Neural Cellular Automata",
-          "url": "https://arxiv.org/abs/2607.15726",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "title": "Learning to Sample in Variable Neighborhood Search Algorithm for Urban Cable Routing Optimization",
+          "url": "https://arxiv.org/abs/2512.19321",
+          "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Growing Neural Cellular Automata (GNCA) develop complex morphologies from a single seed cell through shared local rules, yet the internal dynamics of this process remain poorly understood. To investigate how GNCA grows, the full…",
-          "authors": "Hiroki Sato, Atsushi Masumori, Takashi Ikegami"
+          "summary": "Urban underground cable construction is essential for enhancing power grid reliability, yet the high construction costs demand systematic optimization. Constrained by road network infrastructure, this problem requires consideration of both…",
+          "authors": "Wei Liu, Rui Wang, Chenhui Lin, Kaiwen Li, Wenhua Li, Tao Zhang"
         },
         {
-          "title": "Local search for valued constraint satisfaction parameterized by treedepth",
-          "url": "https://arxiv.org/abs/2405.12410",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "title": "Error Amplification Limits ANN-to-SNN Conversion in Continuous Control",
+          "url": "https://arxiv.org/abs/2601.21778",
+          "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Sometimes local search algorithms cannot efficiently find even local peaks. To understand why, I look at the structure of ascents in fitness landscapes from valued constraint satisfaction problems (VCSPs) parameterized by the treedepth of…",
-          "authors": "Artem Kaznatcheev"
+          "summary": "Spiking Neural Networks (SNNs) can achieve competitive performance by converting already existing well-trained Artificial Neural Networks (ANNs), avoiding further costly training. This property is particularly attractive in Reinforcement…",
+          "authors": "Zijie Xu, Zihan Huang, Yiting Dong, Kang Chen, Wenxuan Liu, Zhaofei Yu"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 4,
+      "itemCount": 2,
       "items": [
         {
-          "title": "Enabling Rapid Calibration of BCI Systems that Detect Movement-Related Cortical Potentials in Children with Cerebral Palsy",
-          "url": "https://arxiv.org/abs/2607.19417",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "title": "Quantifying Event-Related (De)Synchronization Variability for Brain-Computer Interface: A Unified and Interpretable Framework",
+          "url": "https://arxiv.org/abs/2607.21119",
+          "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brain-computer interface neurofeedback (BCI-NFT) has shown promise for neuromotor rehabilitation, but its clinical adoption -- particularly in pediatric populations -- remains limited in part by the lengthy calibration required before each…",
-          "authors": "R. Saadatyar, D. Damiano, A. Behboodi"
+          "summary": "Objective: Brain-Computer Interfaces (BCIs) enable the control of external devices by decoding user intentions from electroencephalography (EEG). However, substantial EEG variability within and between users remains a major challenge. To…",
+          "authors": "Simon Kojima, Fabien Lotte"
         },
         {
-          "title": "WARA: A Closed-Loop Multi-Agent Framework for Wireless Optimization Autoresearch",
-          "url": "https://arxiv.org/abs/2607.19822",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "title": "Zero-Shot Neural Priors for Generalizable Cross-Subject and Cross-Task EEG Decoding",
+          "url": "https://arxiv.org/abs/2606.23706",
+          "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Large language model (LLM) agents have shown growing capabilities in tool use, code execution, artifact inspection, and iterative revision, creating new opportunities for automating scientific research. To the best of our knowledge, this…",
-          "authors": "Yuan Guo, Yilong Chen, Chao Hu, Xianghao Yu, Liang Hong, Jie Xu"
-        },
-        {
-          "title": "WiFi Sensing via Reservoir Computing",
-          "url": "https://arxiv.org/abs/2607.20103",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Practical WiFi sensing must handle clock-asynchronous links, cross-domain variation, and post-deployment updating under the limited compute budget of access point (AP), router, and embedded Internet-of-Things platforms such as ESP-class…",
-          "authors": "Heping Wang, Zhongqin Wang, J. Andrew Zhang"
-        },
-        {
-          "title": "Ambiguity-Resolved Micro-Doppler Construction for Asynchronous Bistatic Sensing",
-          "url": "https://arxiv.org/abs/2607.20108",
-          "publishedDate": "Thu, 23 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Integrated sensing and communications (ISAC) can turn wireless networks into pervasive sensing platforms, but bistatic deployments are impaired by transceiver clock asynchrony, which induces random phase fluctuations in channel state…",
-          "authors": "Yiyi Xu, Zhongqin Wang, Kai Wu, J. Andrew Zhang"
+          "summary": "The development of generalizable electroencephalography (EEG) decoding models is essential for robust brain-computer interfaces (BCI) and objective neural biomarkers in mental health. Conventional approaches have been hindered by poor…",
+          "authors": "Baimam Boukar Jean Jacques, Brandone Fonya, Nchofon Tagha Ghogomu, Pauline Nyaboe, Kipngeno Koech"
         }
       ]
     }
