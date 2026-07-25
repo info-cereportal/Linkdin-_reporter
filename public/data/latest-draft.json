@@ -1,26 +1,24 @@
 {
-  "generatedAt": "2026-07-24T23:38:42.593Z",
-  "date": "2026-07-24",
-  "topic": "脳情報科学の最新研究",
-  "templateName": "data-driven",
+  "generatedAt": "2026-07-25T23:38:20.458Z",
+  "date": "2026-07-25",
+  "topic": "深層学習と学習",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "The Influence of Width Ratios on Structural Beauty in Male Faces",
-  "paperLink": "https://arxiv.org/abs/2602.13368",
-  "figureUrl": "https://arxiv.org/html/2602.13368/2602.13368v3/x1.png",
-  "formatted": "この研究データ、知らないままでいいですか？\n\n数字が語る、脳情報科学の最新研究の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 脳情報科学\n\n> This study investigates the relationship between interocular distance relative to overall facial width (width ratio) and perceived subjective beauty in male faces. Building on the methodology of Pallett et al.\n\nなぜこの数字が重要か。\n\n計算論的神経科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 The Influence of Width Ratios on Structural Beauty in Male Faces\n🔗 https://arxiv.org/abs/2602.13368\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #NeuralDecoding",
-  "summaryJP": "脳情報科学の最新研究 — 数値で示された新事実（計算論的神経科学）",
-  "paperAuthors": "Theresa Tennstedt, Benjamin Knopp, Dominik Endres",
-  "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
-  "paperId": "2602.13368",
-  "paperSource": "arxiv",
-  "themeArea": "計算論的神経科学",
+  "paperTitle": "Machine and deep learning based on magnetic resonance imaging to segment glioblastoma and predict the spread of recurrence: a multicenter retrospective protocol.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42500392/",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n深層学習と学習の最新成果を整理しました。\n\n🔬 深層学習 × 学習 × 意思決定 × 脳画像研究\n\n📊 注目すべきデータ：\n→ By spread, we refer to the spatial dissemination of tumor cells beyond the typical local site, which can involve distant brain regions or even the leptomeninges, significantly...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Machine and deep learning based on magnetic resonance imaging to segment glioblastoma and predict the spread of recurrence: a multicenter retrospective protocol.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42500392/\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #NeuralDecoding",
+  "summaryJP": "深層学習と学習 — 注目すべき3つの示唆（ニューロAI・計算論）",
+  "paperAuthors": "Luana Conte, Erica Lo Turco, Rosaria V Abbritti, Caterina Accettura, Giuseppe Raso, Edvige Iaboni",
+  "publishedDate": "2026-07-25",
+  "paperId": "42500392",
+  "paperSource": "pubmed",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "脳情報科学"
+    "深層学習",
+    "学習",
+    "意思決定",
+    "脳画像研究"
   ],
-  "abstractExcerpt": "This study investigates the relationship between interocular distance relative to overall facial width (width ratio) and perceived subjective beauty in male faces. Building on the methodology of Pallett et al. (2010), who found that…",
-  "figureUrls": [
-    "https://arxiv.org/html/2602.13368/2602.13368v3/x1.png",
-    "https://arxiv.org/html/2602.13368/2602.13368v3/x2.png",
-    "https://arxiv.org/html/2602.13368/2602.13368v3/figures/avgimg_wr_low.png"
-  ]
+  "abstractExcerpt": "Glioblastoma (GB) remains one of the most aggressive brain tumors, with limited survival and high recurrence rates. In most cases, GB recurrence occurs locally, either on the residual tumor after surgery or within 2&#x202f;cm of the…",
+  "figureUrls": []
 }

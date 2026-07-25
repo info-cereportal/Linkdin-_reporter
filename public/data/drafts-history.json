@@ -1,5 +1,29 @@
 [
   {
+    "generatedAt": "2026-07-25T23:38:20.458Z",
+    "date": "2026-07-25",
+    "topic": "深層学習と学習",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "Machine and deep learning based on magnetic resonance imaging to segment glioblastoma and predict the spread of recurrence: a multicenter retrospective protocol.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42500392/",
+    "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n深層学習と学習の最新成果を整理しました。\n\n🔬 深層学習 × 学習 × 意思決定 × 脳画像研究\n\n📊 注目すべきデータ：\n→ By spread, we refer to the spatial dissemination of tumor cells beyond the typical local site, which can involve distant brain regions or even the leptomeninges, significantly...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Machine and deep learning based on magnetic resonance imaging to segment glioblastoma and predict the spread of recurrence: a multicenter retrospective protocol.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42500392/\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #NeuralDecoding",
+    "summaryJP": "深層学習と学習 — 注目すべき3つの示唆（ニューロAI・計算論）",
+    "paperAuthors": "Luana Conte, Erica Lo Turco, Rosaria V Abbritti, Caterina Accettura, Giuseppe Raso, Edvige Iaboni",
+    "publishedDate": "2026-07-25",
+    "paperId": "42500392",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "深層学習",
+      "学習",
+      "意思決定",
+      "脳画像研究"
+    ],
+    "abstractExcerpt": "Glioblastoma (GB) remains one of the most aggressive brain tumors, with limited survival and high recurrence rates. In most cases, GB recurrence occurs locally, either on the residual tumor after surgery or within 2&#x202f;cm of the…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-07-24T23:38:42.593Z",
     "date": "2026-07-24",
     "topic": "脳情報科学の最新研究",
@@ -1230,30 +1254,5 @@
     ],
     "abstractExcerpt": "The exponential rise in data exchange and cyber threats in next-generation 6G networks demands communication systems that are inherently secure at the physical layer. Terahertz (THz) waves combine huge bandwidth with strong directionality,…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-06-05T23:48:53.096Z",
-    "date": "2026-06-05",
-    "topic": "予測符号化と言語処理",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature",
-    "paperLink": "https://arxiv.org/abs/2606.05206",
-    "figureUrl": "https://arxiv.org/html/2606.05206/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
-    "formatted": "予測符号化と言語処理に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 予測符号化 × 言語処理\n\n> Fragmentation is common in interdisciplinary fields with diverse methods and theoretical commitments. Predictive coding neuroscience is a clear example: its literature spans computational theory, electrophysiology, imaging, behavior, and modeling, creating a synthesis problem...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\n計算論的神経科学の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Ontology-constrained multi-LLM scoring of hypothesis support in the predictive processing literature\n🔗 https://arxiv.org/abs/2606.05206\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #脳情報",
-    "summaryJP": "予測符号化と言語処理 — 通説を揺さぶる新たな知見（計算論的神経科学）",
-    "paperAuthors": "Hamed Nejat, Alexander Maier, Jesse Spencer-Smith, André M. Bastos",
-    "publishedDate": "Fri, 05 Jun 2026 00:00:00 -0400",
-    "paperId": "2606.05206",
-    "paperSource": "arxiv",
-    "themeArea": "計算論的神経科学",
-    "jpKeywords": [
-      "予測符号化",
-      "言語処理"
-    ],
-    "abstractExcerpt": "Fragmentation is common in interdisciplinary fields with diverse methods and theoretical commitments. Predictive coding neuroscience is a clear example: its literature spans computational theory, electrophysiology, imaging, behavior, and…",
-    "figureUrls": [
-      "https://arxiv.org/html/2606.05206/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
-    ]
   }
 ]
