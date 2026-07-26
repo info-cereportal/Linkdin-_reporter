@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T23:38:20.965Z",
+  "generatedAt": "2026-07-26T23:36:54.567Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,6 +69,38 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Your AI calorie-tracking app may be off by 345 calories",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm",
+          "publishedDate": "Sun, 26 Jul 2026 09:06:15 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Popular AI-powered food apps may make calorie counting easier, but they may also leave out a surprisingly large part of the meal. Four apps underestimated calories and fat by about one-third when tested against carefully prepared meals.…",
+          "authors": ""
+        },
+        {
+          "title": "CRISPR makes prostate cancer vulnerable to immunotherapy",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260726015250.htm",
+          "publishedDate": "Sun, 26 Jul 2026 08:36:23 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists used CRISPR to make prostate cancer cells easier for the immune system to detect and destroy. The experimental treatment dramatically improved the effects of immunotherapy in mice and may offer hope for other hard-to-treat…",
+          "authors": ""
+        },
+        {
+          "title": "Why losing the wrong fat can trigger diabetes",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260726015259.htm",
+          "publishedDate": "Sun, 26 Jul 2026 07:43:14 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists discovered that damaged fat cells can become inflamed, lose their ability to store lipids, and eventually vanish, disrupting the body’s metabolism. The findings show that diabetes can result not only from excess fat, but also…",
+          "authors": ""
+        },
+        {
+          "title": "A hidden Alzheimer’s tipping point may decide who gets dementia",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
+          "publishedDate": "Sun, 26 Jul 2026 06:14:57 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia. The key may lie in how the brain’s immune cells respond to plaques and tau, offering a promising new…",
+          "authors": ""
+        },
+        {
           "title": "A single dose reversed autism-like symptoms in adult mice within hours",
           "url": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm",
           "publishedDate": "Sat, 25 Jul 2026 11:09:37 EDT",
@@ -83,38 +115,6 @@
           "source": "sciencedaily.com",
           "summary": "Scientists expected SuperAgers might simply inherit fewer Alzheimer’s-related risks, but their genes looked much like those of typical older adults. Their extraordinary memories may instead come from still-unknown protective forces…",
           "authors": ""
-        },
-        {
-          "title": "Coffee may help shield the liver from fat, scarring, and cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260719035955.htm",
-          "publishedDate": "Sat, 25 Jul 2026 08:26:47 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A major long-term study linked coffee consumption with lower risks of cirrhosis, liver cancer, and death from liver disease. Coffee drinkers also showed healthier liver scans and blood protein patterns, with less fat, inflammation, and…",
-          "authors": ""
-        },
-        {
-          "title": "Oral GLP-1 drugs may quiet the brain’s food craving circuit",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm",
-          "publishedDate": "Sat, 25 Jul 2026 07:34:04 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Newer oral drugs related to semaglutide medications such as Ozempic reduced pleasure-driven eating in mice by quieting a deep brain reward circuit. The finding could open new avenues for understanding food cravings and potentially treating…",
-          "authors": ""
-        },
-        {
-          "title": "A daily fiber supplement reduced knee arthritis pain and improved strength",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260724061448.htm",
-          "publishedDate": "Sat, 25 Jul 2026 06:01:05 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A prebiotic fiber supplement reduced knee osteoarthritis pain while also improving grip strength and pain sensitivity in a six-week trial. The results hint at a fascinating gut-muscle-pain connection and suggest that a simple daily…",
-          "authors": ""
-        },
-        {
-          "title": "FDA advisory panel narrowly rejects compounding of one peptide, backs two others",
-          "url": "https://www.statnews.com/2026/07/24/fda-peptide-compounding-panel-backs-epitalon-rejects-emideltide/?utm_campaign=rss",
-          "publishedDate": "Fri, 24 Jul 2026 18:41:46 +0000",
-          "source": "statnews.com",
-          "summary": "Robert F. Kennedy Jr. has lauded peptides and said he takes them himself.",
-          "authors": "Lizzy Lawrence and Sarah Todd"
         }
       ]
     },

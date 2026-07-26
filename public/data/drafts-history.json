@@ -1,5 +1,28 @@
 [
   {
+    "generatedAt": "2026-07-26T23:36:54.047Z",
+    "date": "2026-07-26",
+    "topic": "神経ダイナミクスと注意機構",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Sweetness drives brain level amplification of saltiness offering a new pathway to salt reduction.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42502738/",
+    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n神経ダイナミクスと注意機構の最新研究です。\n\n🔬 神経ダイナミクス × 注意機構 × EEG\n\n> Excessive sodium intake is associated with various health risks, whereas reducing salt content in foods often leads to weakened saltiness perception and decreased consumer acceptance. Taste-taste interactions provide a promising strategy for salt reduction; however, the central...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Sweetness drives brain level amplification of saltiness offering a new pathway to salt reduction.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42502738/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #NeuralDecoding",
+    "summaryJP": "神経ダイナミクスと注意機構 — 次世代へ続く布石（神経デコーディング）",
+    "paperAuthors": "Hongbo Li, Lixue Shang, Xuchao Feng, Yixin Zhang, Lei Hou, Quanyu Dai",
+    "publishedDate": "2026-07-26",
+    "paperId": "42502738",
+    "paperSource": "pubmed",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "神経ダイナミクス",
+      "注意機構",
+      "EEG"
+    ],
+    "abstractExcerpt": "Excessive sodium intake is associated with various health risks, whereas reducing salt content in foods often leads to weakened saltiness perception and decreased consumer acceptance. Taste-taste interactions provide a promising strategy…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-07-25T23:38:20.458Z",
     "date": "2026-07-25",
     "topic": "深層学習と学習",
@@ -1231,28 +1254,6 @@
       "PET"
     ],
     "abstractExcerpt": "A brain-computer interface (BCI) is an advanced technology that enables direct communication between the human brain and external systems, eliminating the need for intermediaries. Electroencephalography (EEG) is a commonly used signal for…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-06-06T23:39:58.148Z",
-    "date": "2026-06-06",
-    "topic": "深層学習と学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Deep Learning Inverse Design of Phase-Change Reconfigurable Terahertz Metadevices for Multidimensional Secure Communication.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42249641/",
-    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、深層学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 深層学習 × 学習\n\n> The exponential rise in data exchange and cyber threats in next-generation 6G networks demands communication systems that are inherently secure at the physical layer. Terahertz (THz) waves combine huge bandwidth with strong directionality, offering a fertile platform for...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Deep Learning Inverse Design of Phase-Change Reconfigurable Terahertz Metadevices for Multidimensional Secure Communication.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42249641/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #DeepLearning",
-    "summaryJP": "深層学習と学習 — 数値で示された新事実（ニューロAI・計算論）",
-    "paperAuthors": "Yisheng Dong, Xieyu Chen, Aarthy Nagarajan, Yi Yang, Zhihao Wang, Rui Yu",
-    "publishedDate": "2026-06-06",
-    "paperId": "42249641",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "深層学習",
-      "学習"
-    ],
-    "abstractExcerpt": "The exponential rise in data exchange and cyber threats in next-generation 6G networks demands communication systems that are inherently secure at the physical layer. Terahertz (THz) waves combine huge bandwidth with strong directionality,…",
     "figureUrls": []
   }
 ]
