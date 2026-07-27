@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-07-27T23:41:12.038Z",
+    "date": "2026-07-27",
+    "topic": "EEG",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Universal BCI Personalization: One API for Frozen EEG Trunks and Foundation Models",
+    "paperLink": "https://arxiv.org/abs/2607.22397",
+    "figureUrl": "https://arxiv.org/html/2607.22397/2607.22397v1/x1.png",
+    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n脳科学とAI——その境界線が消えつつある。\n\nEEGに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG\n\n📊 注目すべきデータ：\n→ Where embedding capacity exists, the head is a cheap default mid-point versus warm-start fine-tune or PEFT, costing orders of magnitude less adaptation wall time while recovering...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nBCI・ニューラルインターフェースの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Universal BCI Personalization: One API for Frozen EEG Trunks and Foundation Models\n🔗 https://arxiv.org/abs/2607.22397\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #NeuralDecoding",
+    "summaryJP": "EEG — 脳科学とAIをつなぐ研究（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Sergey Musienko",
+    "publishedDate": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "paperId": "2607.22397",
+    "paperSource": "arxiv",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "EEG"
+    ],
+    "abstractExcerpt": "Frozen EEG encoders proliferate; per-model fine-tune defaults do not scale. We present Nimbus Personalizer: one contract encode to Bayesian head to BrainState (optional affine mid-tier) that sits on heterogeneous frozen trunks without a…",
+    "figureUrls": [
+      "https://arxiv.org/html/2607.22397/2607.22397v1/x1.png",
+      "https://arxiv.org/html/2607.22397/2607.22397v1/x2.png",
+      "https://arxiv.org/html/2607.22397/2607.22397v1/x3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-07-26T23:36:54.047Z",
     "date": "2026-07-26",
     "topic": "神経ダイナミクスと注意機構",
@@ -1229,31 +1255,5 @@
       "https://arxiv.org/html/2602.00163/2602.00163v2/Figure_2.png",
       "https://arxiv.org/html/2602.00163/2602.00163v2/Figure_3.png"
     ]
-  },
-  {
-    "generatedAt": "2026-06-07T23:41:44.935Z",
-    "date": "2026-06-07",
-    "topic": "深層学習と学習",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Efficient FPGA accelerator for low-power high-speed BCI motor imagery classification using novel deep learning.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42250530/",
-    "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n深層学習と学習の最新成果を整理しました。\n\n🔬 深層学習 × 学習 × ブレイン・コンピュータ・インターフェース(BCI) × 注意機構\n\n📊 注目すべきデータ：\n→ To address these challenges, a novel DL model, Few-Shot Learning (FSL)-Dual Attention-based SqueezeNet, is designed and tested.\n→ It achieves accuracies of 0.9704, 0.8702, and 0.9568, respectively, outperforming well-known DL models such as EfficientNet (0.9426 in intra-session).\n→ The proposed network achieves an accuracy of over 98% across all datasets, proving its effectiveness for MI classification using EEG signals.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nBCI・ニューラルインターフェースの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Efficient FPGA accelerator for low-power high-speed BCI motor imagery classification using novel deep learning.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42250530/\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #計算論的神経科学",
-    "summaryJP": "深層学習と学習 — 注目すべき3つの示唆（BCI・ニューラルインターフェース）",
-    "paperAuthors": "Saravanakumar C, Srinivasan C, Immaculate Joy S",
-    "publishedDate": "2026-06-06",
-    "paperId": "42250530",
-    "paperSource": "pubmed",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "深層学習",
-      "学習",
-      "ブレイン・コンピュータ・インターフェース(BCI)",
-      "注意機構",
-      "EEG",
-      "PET"
-    ],
-    "abstractExcerpt": "A brain-computer interface (BCI) is an advanced technology that enables direct communication between the human brain and external systems, eliminating the need for intermediaries. Electroencephalography (EEG) is a commonly used signal for…",
-    "figureUrls": []
   }
 ]

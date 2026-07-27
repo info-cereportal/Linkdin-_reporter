@@ -1,23 +1,26 @@
 {
-  "generatedAt": "2026-07-26T23:36:54.047Z",
-  "date": "2026-07-26",
-  "topic": "神経ダイナミクスと注意機構",
-  "templateName": "future-vision",
+  "generatedAt": "2026-07-27T23:41:12.038Z",
+  "date": "2026-07-27",
+  "topic": "EEG",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Sweetness drives brain level amplification of saltiness offering a new pathway to salt reduction.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42502738/",
-  "formatted": "研究者もエンジニアも、この論文は必読です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n神経ダイナミクスと注意機構の最新研究です。\n\n🔬 神経ダイナミクス × 注意機構 × EEG\n\n> Excessive sodium intake is associated with various health risks, whereas reducing salt content in foods often leads to weakened saltiness perception and decreased consumer acceptance. Taste-taste interactions provide a promising strategy for salt reduction; however, the central...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Sweetness drives brain level amplification of saltiness offering a new pathway to salt reduction.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42502738/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #NeuralDecoding",
-  "summaryJP": "神経ダイナミクスと注意機構 — 次世代へ続く布石（神経デコーディング）",
-  "paperAuthors": "Hongbo Li, Lixue Shang, Xuchao Feng, Yixin Zhang, Lei Hou, Quanyu Dai",
-  "publishedDate": "2026-07-26",
-  "paperId": "42502738",
-  "paperSource": "pubmed",
-  "themeArea": "神経デコーディング",
+  "paperTitle": "Universal BCI Personalization: One API for Frozen EEG Trunks and Foundation Models",
+  "paperLink": "https://arxiv.org/abs/2607.22397",
+  "figureUrl": "https://arxiv.org/html/2607.22397/2607.22397v1/x1.png",
+  "formatted": "これを読んで、脳に対する見方が変わりました。\n\n脳科学とAI——その境界線が消えつつある。\n\nEEGに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG\n\n📊 注目すべきデータ：\n→ Where embedding capacity exists, the head is a cheap default mid-point versus warm-start fine-tune or PEFT, costing orders of magnitude less adaptation wall time while recovering...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nBCI・ニューラルインターフェースの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Universal BCI Personalization: One API for Frozen EEG Trunks and Foundation Models\n🔗 https://arxiv.org/abs/2607.22397\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #NeuralDecoding",
+  "summaryJP": "EEG — 脳科学とAIをつなぐ研究（BCI・ニューラルインターフェース）",
+  "paperAuthors": "Sergey Musienko",
+  "publishedDate": "Mon, 27 Jul 2026 00:00:00 -0400",
+  "paperId": "2607.22397",
+  "paperSource": "arxiv",
+  "themeArea": "BCI・ニューラルインターフェース",
   "jpKeywords": [
-    "神経ダイナミクス",
-    "注意機構",
     "EEG"
   ],
-  "abstractExcerpt": "Excessive sodium intake is associated with various health risks, whereas reducing salt content in foods often leads to weakened saltiness perception and decreased consumer acceptance. Taste-taste interactions provide a promising strategy…",
-  "figureUrls": []
+  "abstractExcerpt": "Frozen EEG encoders proliferate; per-model fine-tune defaults do not scale. We present Nimbus Personalizer: one contract encode to Bayesian head to BrainState (optional affine mid-tier) that sits on heterogeneous frozen trunks without a…",
+  "figureUrls": [
+    "https://arxiv.org/html/2607.22397/2607.22397v1/x1.png",
+    "https://arxiv.org/html/2607.22397/2607.22397v1/x2.png",
+    "https://arxiv.org/html/2607.22397/2607.22397v1/x3.png"
+  ]
 }
