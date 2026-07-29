@@ -1,5 +1,30 @@
 [
   {
+    "generatedAt": "2026-07-29T23:37:49.324Z",
+    "date": "2026-07-29",
+    "topic": "ブレイン・コンピュータ・インターフェース(BCI)と学習",
+    "templateName": "paradigm-shift",
+    "riskScore": 0,
+    "paperTitle": "More Electrodes, Faster Minds? Rethinking Bandwidth in Brain-Computer Interfaces",
+    "paperLink": "https://arxiv.org/abs/2607.24820",
+    "figureUrl": "https://arxiv.org/html/2607.24820/2607.24820v1/4a472f93-3e98-49e3-a036-d098df0881eb.png",
+    "formatted": "ブレイン・コンピュータ・インターフェース(BCI)と学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × 学習\n\n> High-bandwidth brain--computer interfaces (BCIs) can bypass damaged pathways, reduce motor costs, and improve communication and control. They also inspire visions of accelerated thought output, mind reading, and instant skill acquisition.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nBCI・ニューラルインターフェースの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 More Electrodes, Faster Minds? Rethinking Bandwidth in Brain-Computer Interfaces\n🔗 https://arxiv.org/abs/2607.24820\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #認知科学",
+    "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)と学習 — 通説を揺さぶる新たな知見（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Boxuan Jiang",
+    "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "paperId": "2607.24820",
+    "paperSource": "arxiv",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "ブレイン・コンピュータ・インターフェース(BCI)",
+      "学習"
+    ],
+    "abstractExcerpt": "High-bandwidth brain--computer interfaces (BCIs) can bypass damaged pathways, reduce motor costs, and improve communication and control. They also inspire visions of accelerated thought output, mind reading, and instant skill acquisition.…",
+    "figureUrls": [
+      "https://arxiv.org/html/2607.24820/2607.24820v1/4a472f93-3e98-49e3-a036-d098df0881eb.png"
+    ]
+  },
+  {
     "generatedAt": "2026-07-28T23:35:12.973Z",
     "date": "2026-07-28",
     "topic": "脳刺激と前頭前皮質",
@@ -1226,31 +1251,5 @@
       "https://arxiv.org/html/2606.10222/2606.10222v1/fig2_hilbert-example.png",
       "https://arxiv.org/html/2606.10222/2606.10222v1/fig3_Kaskada_deterministic.png"
     ]
-  },
-  {
-    "generatedAt": "2026-06-09T23:56:07.560Z",
-    "date": "2026-06-09",
-    "topic": "頭頂皮質と脳情報デコーディング",
-    "templateName": "neuro-ai-bridge",
-    "riskScore": 0,
-    "paperTitle": "Brain2Text Decoding Model Reveals the Neural Mechanisms of Visual Semantic Processing",
-    "paperLink": "https://arxiv.org/abs/2503.22697",
-    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n脳科学とAI——その境界線が消えつつある。\n\n頭頂皮質と脳情報デコーディングに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 頭頂皮質 × 脳情報デコーディング × 脳型 × 視覚野\n\n📊 注目すべきデータ：\n→ Here, we present a novel framework that directly decodes fMRI signals into textual descriptions of viewed natural images.\n→ Our novel deep learning model, trained without visual information, achieves state-of-the-art semantic decoding performance, generating meaningful captions that capture the core...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Brain2Text Decoding Model Reveals the Neural Mechanisms of Visual Semantic Processing\n🔗 https://arxiv.org/abs/2503.22697\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #BCI",
-    "summaryJP": "頭頂皮質と脳情報デコーディング — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
-    "paperAuthors": "Feihan Feng, Jingxin Nie",
-    "publishedDate": "Tue, 09 Jun 2026 00:00:00 -0400",
-    "paperId": "2503.22697",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "頭頂皮質",
-      "脳情報デコーディング",
-      "脳型",
-      "視覚野",
-      "深層学習",
-      "学習"
-    ],
-    "abstractExcerpt": "Decoding sensory experiences from neural activity to reconstruct human-perceived visual stimuli and semantic content remains a challenge in neuroscience and artificial intelligence. Despite notable progress in current brain decoding…",
-    "figureUrls": []
   }
 ]
