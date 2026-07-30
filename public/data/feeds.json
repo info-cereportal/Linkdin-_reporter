@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T23:37:49.907Z",
+  "generatedAt": "2026-07-30T23:37:05.111Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Selective Impairment of Motor Recovery from Typing Errors in Parkinson's Disease: A Survival Analysis",
-          "url": "https://arxiv.org/abs/2607.24796",
-          "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "title": "Cognitive Convergence: Deep Similarities Between Large Language Models and Human Cognition",
+          "url": "https://arxiv.org/abs/2607.26179",
+          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Parkinson's disease (PD) affects multiple, dissociable stages of motor and cognitive control. We ask whether passively-collected keystroke dynamics can distinguish two of these stages: noticing a self-generated error (error monitoring)…",
-          "authors": "Navin Bondade"
+          "summary": "LLMs are widely regarded as alien intelligences, systems whose cognitive operations are fundamentally unlike our own. Apparent similarities to human cognition are therefore often seen as the result of anthropomorphic projection. We argue…",
+          "authors": "Chandra Sripada, Richard Lewis"
         },
         {
-          "title": "Reading Without a Reader: Large Language Models Collapse Reading and Writing into a Single Entangled Code",
-          "url": "https://arxiv.org/abs/2607.24797",
-          "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "title": "Three Failures of Pain Location: Why the Diagnostic Utility of Symptom Localization Is Not One Thing",
+          "url": "https://arxiv.org/abs/2607.26297",
+          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In the literate human brain, reading and writing are two doubly-dissociable systems: a ventral decoding route (impaired in pure alexia) and a fronto-parietal encoding route (impaired in pure agraphia), sharing a partial orthographic core.…",
-          "authors": "Diego Saldaña Ulloa"
+          "summary": "Patient-reported pain location is diagnostically decisive for some presentations and nearly uninformative for others. The prevailing account treats this as a single gradient of diagnostic utility governed by anatomical complexity. That…",
+          "authors": "Adam Y Shavit"
         },
         {
-          "title": "Forgetting Is Not a Fix: Path Dependence in Sequential Engram Editing",
-          "url": "https://arxiv.org/abs/2607.24805",
-          "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "title": "Artificial intelligence in deep brain stimulation for movement disorders: a systematic review and technology readiness assessment",
+          "url": "https://arxiv.org/abs/2607.26666",
+          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "AI Engram (Kwon et al., 2026) formalizes the four engram criteria of neuroscience as a constrained inverse problem in weight space and solves it closed-form: concept-specific memory traces become linear objects that can be extracted once…",
-          "authors": "Ferdinand M. Schessl"
+          "summary": "Artificial intelligence (AI) is increasingly explored across deep brain stimulation (DBS) for movement disorders, yet whether current systems are approaching deployment remains unclear. To characterise their scope, validation maturity, and…",
+          "authors": "Zohra Souei, Muhammad Mushhood Ur Rehman, Harith Akram, Jocelyne Bloch, Stephan Chabardes, Alfonso Fasano, Marwan Hariz, Joachim K. Krauss, Andrea A. Kühn, Patricia Limousin, Daniel E. Lumsden, Eduardo M. Moraud, Elena Moro, Martin M. Reich, Ludvic Zrinzo, Xavier Vasques, Laura Cif"
         },
         {
-          "title": "Decoding Error-Related Potentials under Multisensory Feedback with Varying Congruency",
-          "url": "https://arxiv.org/abs/2607.24806",
-          "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "title": "A behavior-environment information loop drives sensory navigation",
+          "url": "https://arxiv.org/abs/2607.26295",
+          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Error-related potentials (ErrPs) are widely studied neural signatures associated with error processing in human-machine interaction. In realistic settings, error perception often occurs under heterogeneous multisensory feedback, where…",
-          "authors": "Yixin Liu, Kang Yin, Hye-Bin Shin, Seong-Whan Lee"
+          "summary": "As organisms navigate the environment to locate critical resources, their behavioral actions must be tightly coupled to their sensory inputs. Here, we introduce an information-theoretic framework that quantifies this coupling using…",
+          "authors": "Kevin S. Chen, Matthew P. Leighton, Damon A. Clark, Thierry Emonet"
         },
         {
-          "title": "A Path Integral Model of Cognition",
-          "url": "https://arxiv.org/abs/2607.24807",
-          "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "title": "Pragmatic Reasoning in Design",
+          "url": "https://arxiv.org/abs/2607.26322",
+          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We develop the mathematical and physical formulation of cognitive cost optimization that underlies the path-integral model of consciousness. The goal-directed cognitive process is modeled as imaginary-time evolution (ITE) under a projector…",
-          "authors": "Haruki Emori, Kazunori Kondo, Atsushi Iriki, Andrei Khrennikov"
+          "summary": "People can often understand and use novel artifacts after only a few interactions, suggesting that design choices communicate underlying affordances and causal structure. We propose a formal account of this process by framing cooperative,…",
+          "authors": "Lance Ying, William Van Uitert, Tan Zhi-Xuan, Joshua B. Tenenbaum, Samuel J. Gershman"
         },
         {
-          "title": "EEG Emotion Recognition From AI-Generated Biodigital Architecture Images",
-          "url": "https://arxiv.org/abs/2607.24808",
-          "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "title": "Bridging integrated information theory and the free-energy principle in living neuronal networks",
+          "url": "https://arxiv.org/abs/2510.04084",
+          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Emotional responses to biodigital architecture were examined using electroencephalographic (EEG) data from AI-generated images. A pre-experiment involving 336 participants identified 60 images, selected from an initial pool of 600, that…",
-          "authors": "Hongye Yang, Eva Guttmann-Flury"
+          "summary": "Integrated Information Theory (IIT) links consciousness to integrated causal structure, whereas the Free-Energy Principle (FEP) explains self-organization through variational free-energy minimization. Their relationship in living neural…",
+          "authors": "Teruki Mayama, Dai Akita, Sota Shimizu, Yuki Takano, Hirokazu Takahashi"
         }
       ]
     },
@@ -63,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Key Senate panel backs Trump’s picks for CDC, pandemic preparedness",
+          "url": "https://www.statnews.com/2026/07/30/senate-panel-backs-confirmation-health-nominees-schwartz-cdc-kaufman-aspr/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Jul 2026 14:17:10 +0000",
+          "source": "statnews.com",
+          "summary": "In win for RFK Jr., Senate committee sends nominations of Erica Schwartz for CDC director and Sean Kaufman for ASPR to full Senate.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "Judge denies states’ motion to postpone Medicaid work requirement",
+          "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-judge-declines-states-request-injunction/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Jul 2026 13:45:55 +0000",
+          "source": "statnews.com",
+          "summary": "Federal judge denied 26 states’ request to postpone the implementation of Medicaid work requirements announced in June.",
+          "authors": "Anil Oza"
+        },
+        {
+          "title": "Ebola outbreak nears milestone, while a vaccine remains months away",
+          "url": "https://www.statnews.com/2026/07/30/health-news-ebola-outbreak-nears-milestone-but-vaccine-close/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Jul 2026 11:49:48 +0000",
+          "source": "statnews.com",
+          "summary": "Medicaid work rules, FTC sues Hims, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney and Helen Branswell"
+        },
+        {
+          "title": "Chronically ill people face confusion over new Medicaid work rules and ‘medically frail’ exemption",
+          "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-medical-frailty-exemption-coverage-loss/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Patients, advocates, and experts fear the difficulty in documenting a frailty exemption to Medicaid work requirements will lead to millions losing coverage.",
+          "authors": "Isabella Cueto"
+        },
+        {
+          "title": "Is it safe to drink Red Bull and alcohol? Questionable research tied to energy drink giant has shaped policy",
+          "url": "https://www.statnews.com/2026/07/30/red-bull-funded-studies-energy-drinks-alcohol-shape-policy/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Jul 2026 04:05:00 +0000",
+          "source": "statnews.com",
+          "summary": "Studies tied to Red Bull helped block warning labels about drinking alcohol along with energy drinks. Independent studies report risks in mixing the two.",
+          "authors": "Sasha Chavkin, Ashley Okwuosa, Fernanda Aguirre Ruiz,and Romina Colman"
+        },
+        {
           "title": "A neglected issue in pedestrian, biker deaths",
           "url": "https://www.statnews.com/2026/07/29/health-news-neglected-issue-in-pedestrian-biker-deaths/?utm_campaign=rss",
           "publishedDate": "Wed, 29 Jul 2026 11:50:20 +0000",
           "source": "statnews.com",
           "summary": "Fauci's testimony, visa time limits for research students, and more health news from Morning Rounds",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: American Diabetes Association, facing calls for resignations, asks for patience",
-          "url": "https://www.statnews.com/2026/07/28/american-diabetes-association-fallout-researchers-expulsion/?utm_campaign=rss",
-          "publishedDate": "Tue, 28 Jul 2026 23:34:07 +0000",
-          "source": "statnews.com",
-          "summary": "An open letter to the board of the American Diabetes Association said the board had badly mishandled an incident at its annual meeting.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "Six key issues we&#8217;re watching at Fauci&#8217;s hearing",
-          "url": "https://www.statnews.com/2026/07/28/anthony-fauci-senate-testimony-what-to-expect-covid-origin-perjury/?utm_campaign=rss",
-          "publishedDate": "Tue, 28 Jul 2026 19:29:57 +0000",
-          "source": "statnews.com",
-          "summary": "Sen. Rand Paul is forcing Fauci to appear before his Senate panel.",
-          "authors": "Chelsea Cirruzzo, Daniel Payne,and Helen Branswell"
-        },
-        {
-          "title": "Anthony Fauci’s pandemic-era diary entries",
-          "url": "https://www.statnews.com/2026/07/28/health-news-anthony-fauci-pandemic-era-diary-entries-hearing/?utm_campaign=rss",
-          "publishedDate": "Tue, 28 Jul 2026 11:57:15 +0000",
-          "source": "statnews.com",
-          "summary": "New data on American substance use, concerns of a global HIV resurgence, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "After PCOS became PMOS, there&#8217;s hope for new awareness among Black and Latina women",
-          "url": "https://www.statnews.com/2026/07/28/pmos-name-change-growing-awareness-faster-diagnosis-women-of-color/?utm_campaign=rss",
-          "publishedDate": "Tue, 28 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Growing awareness of a painful endocrine disorder now named PMOS is good news for women of color, who have high prevalence and low diagnosis.",
-          "authors": "Anissa Durham"
-        },
-        {
-          "title": "STAT+: From ‘lost cause’ to gold rush: Biotechs swarm to cure AATD",
-          "url": "https://www.statnews.com/2026/07/28/biotech-industry-race-aatd-cure-gene-editing-alpha-1-antitrypsin-deficiency/?utm_campaign=rss",
-          "publishedDate": "Tue, 28 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Biotech companies are racing to cure alpha-1 antitrypsin deficiency, AATD, fueling patent disputes, startup defections, arbitration, and a U.S.-China rivalry.",
-          "authors": "Jason Mast"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Key Senate panel backs Trump’s picks for CDC, pandemic preparedness",
+          "url": "https://www.statnews.com/2026/07/30/senate-panel-backs-confirmation-health-nominees-schwartz-cdc-kaufman-aspr/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Jul 2026 14:17:10 +0000",
+          "source": "statnews.com",
+          "summary": "In win for RFK Jr., Senate committee sends nominations of Erica Schwartz for CDC director and Sean Kaufman for ASPR to full Senate.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "Judge denies states’ motion to postpone Medicaid work requirement",
+          "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-judge-declines-states-request-injunction/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Jul 2026 13:45:55 +0000",
+          "source": "statnews.com",
+          "summary": "Federal judge denied 26 states’ request to postpone the implementation of Medicaid work requirements announced in June.",
+          "authors": "Anil Oza"
+        },
+        {
+          "title": "Rice bran compound may help ease irritable bowel symptoms",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729010742.htm",
+          "publishedDate": "Thu, 30 Jul 2026 08:44:29 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A compound in rice bran may help calm an overactive gut by reducing the calcium signals that cause intestinal muscles to contract. Ferulic acid suppressed contractions triggered by several chemical messengers in laboratory experiments. The…",
+          "authors": ""
+        },
+        {
+          "title": "Chronically ill people face confusion over new Medicaid work rules and ‘medically frail’ exemption",
+          "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-medical-frailty-exemption-coverage-loss/?utm_campaign=rss",
+          "publishedDate": "Thu, 30 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Patients, advocates, and experts fear the difficulty in documenting a frailty exemption to Medicaid work requirements will lead to millions losing coverage.",
+          "authors": "Isabella Cueto"
+        },
+        {
+          "title": "Daily multivitamin may help older adults stay independent",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729010716.htm",
+          "publishedDate": "Wed, 29 Jul 2026 19:44:16 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Taking a daily multivitamin may help older adults preserve the strength and stamina needed for everyday activities. After three years, users reported better functional health than those taking a placebo, although the preliminary findings…",
+          "authors": ""
+        },
+        {
           "title": "STAT+: End of Medicare drug subsidy gives Democrats new attack line on rising out-of-pocket costs",
           "url": "https://www.statnews.com/2026/07/29/trump-medicare-subsidy-cuts-part-d-premium-change/?utm_campaign=rss",
           "publishedDate": "Wed, 29 Jul 2026 14:58:30 +0000",
           "source": "statnews.com",
           "summary": "The White House decision to end a Medicare drug subsidy plays into Democratic arguments ahead of the midterms.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "Fauci invokes Fifth Amendment in declining to answer questions before Senate panel",
-          "url": "https://www.statnews.com/2026/07/29/fauci-pleads-fifth-criticizes-rand-paul-senate-hearing/?utm_campaign=rss",
-          "publishedDate": "Wed, 29 Jul 2026 12:55:57 +0000",
-          "source": "statnews.com",
-          "summary": "At a highly anticipated Senate hearing, Anthony Fauci evoked his Fifth Amendment right to refuse to answer questions about the Covid-19 pandemic and its origins.",
-          "authors": "Helen Branswell, Chelsea Cirruzzo,and Daniel Payne"
-        },
-        {
-          "title": "Scientists find a simple way to stop cavities without drilling",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729010719.htm",
-          "publishedDate": "Wed, 29 Jul 2026 08:35:36 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A liquid brushed onto cavities in seconds may spare many young children from pain, infection, and surgery. A major U.S. trial found that silver diamine fluoride stopped decay in more than half of treated baby teeth. The treatment requires…",
-          "authors": ""
-        },
-        {
-          "title": "New microwave frying method could make french fries much healthier",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
-          "publishedDate": "Wed, 29 Jul 2026 06:15:04 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the…",
-          "authors": ""
-        },
-        {
-          "title": "Can’t sleep in the heat? These 8 tricks could save your night",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
-          "publishedDate": "Wed, 29 Jul 2026 01:35:45 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Sleeping well during a heatwave starts with stopping the home from overheating. Close blinds against strong sunlight, ventilate when the air outside becomes cooler, and avoid using heat-producing appliances during the hottest hours. Moving…",
-          "authors": ""
-        },
-        {
-          "title": "4 in 5 toddler foods are ultra-processed",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260727012128.htm",
-          "publishedDate": "Tue, 28 Jul 2026 23:13:38 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A grocery-store audit found that many foods marketed for toddlers may be far less healthy than parents expect. Of nearly 2,800 products examined in Texas, 81% were ultra-processed, and almost half failed at least one World Health…",
-          "authors": ""
         }
       ]
     },
@@ -173,75 +173,67 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Fourier Feature Physics-Informed Neural Networks for Elasto-Plastic Analysis of Geomaterials with a Non-Associative Mohr-Coulomb Model",
-          "url": "https://arxiv.org/abs/2607.25150",
-          "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "title": "Optimizing Sensor Placement for Hydrogen Leak Detection in Enclosed Infrastructure: A Comparative Study Using CFD-informed Genetic Algorithm and DeepSets Neural Surrogate",
+          "url": "https://arxiv.org/abs/2607.26078",
+          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Elasto-plastic boundary value problems in geotechnical engineering are conventionally solved by the Finite Element Method (FEM), which incurs high computational cost from incremental-iterative procedures. Physics-Informed Neural Networks…",
-          "authors": "Apisit Robjanghvad, Sompote Youwai"
+          "summary": "Hydrogen infrastructure in enclosed environments, such as parking facilities for fuel cell vehicles, presents significant safety challenges due to hydrogen's low ignition energy and wide flammability range. Current monitoring systems are…",
+          "authors": "Fangnian Wang, Nicholas Tan Jerome, Thomas Jordan, Frank Simon"
         },
         {
-          "title": "Mitigating the Impact of Retention Loss on Inference Accuracy in 65 nm Single-Poly Floating-Gate Analog In-Memory Computing",
-          "url": "https://arxiv.org/abs/2607.25058",
-          "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "title": "Reconstructing Backpropagation from Forward Fluctuations in Noise-modulated Neural Networks",
+          "url": "https://arxiv.org/abs/2607.26483",
+          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We show with experiments and system-level simulations that it is possible to successfully mitigate the impact of retention loss on inference accuracy degradation by using both circuit-level compensation techniques and batch normalization…",
-          "authors": "Mirko Brazzini, Giulio Filippeschi, Alessandro Catania, Sebastiano Strangio, Giuseppe Iannaccone"
+          "summary": "A Noise-modulated Neural Network (NNN) learns and infers only in the presence of noise, treating noise as a computational resource rather than a disturbance. The noise lets it learn efficiently by backpropagation while transmitting…",
+          "authors": "Shuhei Ikemoto"
         },
         {
-          "title": "Representation Capacity-Matched QNN-SNN Twin Construction for Rate-Encoded SNNs",
-          "url": "https://arxiv.org/abs/2409.08290",
-          "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "title": "Shared Symbolic Backbones for Physically Consistent Multi-Output Symbolic Regression",
+          "url": "https://arxiv.org/abs/2607.26528",
+          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking Neural Networks (SNNs) promise higher energy efficiency over conventional Quantized Artificial Neural Networks (QNNs) due to their event-driven, spike-based computation. However, prevailing energy evaluations often oversimplify,…",
-          "authors": "Zhanglu Yan, Zhenyu Bai, Kaiwen Tang, Weng-Fai Wong"
+          "summary": "Symbolic regression provides analytical expressions, but it is usually applied one output at a time. This is limiting in process systems, where state variables are often coupled through shared physical parameters. Independent symbolic…",
+          "authors": "Manuel Rodriguez"
         },
         {
-          "title": "HeatACO: A Heatmap-Guided Max--Min Ant System for Large-Scale Travelling Salesman Problems",
-          "url": "https://arxiv.org/abs/2601.19041",
-          "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "title": "The Sparsity Ceiling: Where Spiking Networks Can and Cannot Trade Activity for Energy",
+          "url": "https://arxiv.org/abs/2607.26648",
+          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Non-autoregressive neural solvers predict an edge-confidence heatmap for the Travelling Salesman Problem (TSP) in one forward pass, but a decoder must still produce a feasible Hamiltonian cycle. As instance size grows, this stage must…",
-          "authors": "Bo-Cheng Lin, Yi Mei, Mengjie Zhang"
+          "summary": "Spiking neural networks (SNNs) are promoted as an energy-efficient substrate because sparse, event-driven activity replaces dense multiply-accumulates with cheap accumulates. We argue the energy dividend of sparsity is not a property of…",
+          "authors": "Zeyu Wang"
         },
         {
-          "title": "Scalable Perturbation Learning for Online Self-Supervised Learning in Echo State Networks",
-          "url": "https://arxiv.org/abs/2607.06079",
-          "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "title": "Emergent Sparsity in Frozen Random CNN Feature Extractors for Deep Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2607.26059",
+          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Intelligent systems should not only solve tasks but also adapt under real-world constraints. Autonomous adaptation via self-supervised learning, sequential adaptation via online learning, and memory-efficient implementation via…",
-          "authors": "Taiki Yamada, Kantaro Fujiwara"
+          "summary": "We report a striking phenomenon: deep reinforcement learning agents trained with frozen, randomly initialized CNN feature extractors spontaneously develop extremely sparse fully-connected representations, without any sparsity-inducing…",
+          "authors": "Scott M. Norton"
         },
         {
-          "title": "Selective Impairment of Motor Recovery from Typing Errors in Parkinson's Disease: A Survival Analysis",
-          "url": "https://arxiv.org/abs/2607.24796",
-          "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "title": "Neural Architecture Search for Traffic Prediction: A Survey of Methods, Challenges, and Future Directions",
+          "url": "https://arxiv.org/abs/2607.26467",
+          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Parkinson's disease (PD) affects multiple, dissociable stages of motor and cognitive control. We ask whether passively-collected keystroke dynamics can distinguish two of these stages: noticing a self-generated error (error monitoring)…",
-          "authors": "Navin Bondade"
+          "summary": "Traffic prediction is a core task in intelligent transportation systems, supporting applications such as adaptive signal control, route guidance, and ride-hailing dispatch. Deep learning models, including graph convolutional networks,…",
+          "authors": "Truong Giang Vu, Li Yang, Richard W. Pazzi"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 1,
       "items": [
         {
-          "title": "A Synchronized Multi-IMU Wearable System for Tracking of Joint-Angles in Sports Motion Analysis With Reference-Based Validation and Dynamic Task Characterization",
-          "url": "https://arxiv.org/abs/2607.26027",
-          "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "title": "Phoneme- vs. Character-Level Targets and Selective State-Space Models for Intracortical Brain-to-Text",
+          "url": "https://arxiv.org/abs/2607.26751",
+          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Reliable joint-angle measurement outside laboratory environments is important for posture assessment and technique analysis in sports and rehabilitation. Yet, wearable IMU systems, despite being the most practical solution, remain…",
-          "authors": "Thevindu Samarasekera, Praveen Rathnayaka, Sachintha Adhikari, Tharinda Navarathne, Mahela Pandukabhaya, Roshan Godaliyadda, Parakrama Ekanayake, Chanaka Senanayake, Vijitha Herath, Asela Ratnayake"
-        },
-        {
-          "title": "CogEEGAgent: Toward Autonomous Cognitive EEG Analysis with Grounded Execution and Selection-Aware Verification",
-          "url": "https://arxiv.org/abs/2607.25045",
-          "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Electroencephalography (EEG) analysis in cognitive studies requires specialized expertise and involves many defensible choices over contrasts, channels, time windows, and statistical tests. LLM agents can translate varied natural-language…",
-          "authors": "Dengzhe Hou, Lingyu Jiang, Fangzhou Lin, Kazunori D Yamada"
+          "summary": "State-of-the-art intracortical brain-to-text systems pair a neural-sequence phone decoder with an external language model. Two design axes remain underexplored: whether selective state-space models (Mamba) improve on recurrent decoders,…",
+          "authors": "Lucas Zamora Vera, Jose A. Gonzalez-Lopez"
         }
       ]
     }
