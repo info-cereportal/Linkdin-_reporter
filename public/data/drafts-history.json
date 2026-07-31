@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-07-31T23:37:40.592Z",
+    "date": "2026-07-31",
+    "topic": "心の理論と学習",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "Using Theory of Mind to Arbitrate between Social and Non-social Learning",
+    "paperLink": "https://arxiv.org/abs/2607.28601",
+    "figureUrl": "https://arxiv.org/html/2607.28601/2607.28601v1/x1.png",
+    "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\n心の理論と学習の最新成果を整理しました。\n\n🔬 心の理論 × 学習\n\n📊 注目すべきデータ：\n→ Using a novel game where players choose between observing other agents or exploring the environment, we show that the Rational Mentalizing model can quantitatively capture human...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n認知・意思決定の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Using Theory of Mind to Arbitrate between Social and Non-social Learning\n🔗 https://arxiv.org/abs/2607.28601\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #神経科学",
+    "summaryJP": "心の理論と学習 — 注目すべき3つの示唆（認知・意思決定）",
+    "paperAuthors": "Lance Ying, Ryan Truong, Joshua B. Tenenbaum, Samuel J. Gershman",
+    "publishedDate": "Fri, 31 Jul 2026 00:00:00 -0400",
+    "paperId": "2607.28601",
+    "paperSource": "arxiv",
+    "themeArea": "認知・意思決定",
+    "jpKeywords": [
+      "心の理論",
+      "学習"
+    ],
+    "abstractExcerpt": "Social learning is a powerful mechanism through which agents learn about the world from others. However, humans sometimes choose direct experience over social learning, which can carry time and cognitive resource costs. How do people…",
+    "figureUrls": [
+      "https://arxiv.org/html/2607.28601/2607.28601v1/x1.png",
+      "https://arxiv.org/html/2607.28601/2607.28601v1/figures/model_figure_final.png",
+      "https://arxiv.org/html/2607.28601/2607.28601v1/figures/observation_steps_model_vs_human_pooled_exp1234.png"
+    ]
+  },
+  {
     "generatedAt": "2026-07-30T23:37:04.394Z",
     "date": "2026-07-30",
     "topic": "前帯状皮質と社会的認知",
@@ -1225,33 +1252,5 @@
     ],
     "abstractExcerpt": "Dynamic functional connectivity (dFC) derived from resting-state functional magnetic resonance imaging (fMRI) has been extensively utilized in brain science research. The sliding window correlation (SWC) method is a widely used approach…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-06-12T00:08:39.219Z",
-    "date": "2026-06-12",
-    "topic": "Transformerと言語処理",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics",
-    "paperLink": "https://arxiv.org/abs/2606.11833",
-    "figureUrl": "https://arxiv.org/html/2606.11833/2606.11833v1/x1.png",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n数字が語る、Transformerと言語処理の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 Transformer × 言語処理 × fMRI\n\n📊 注目すべきデータ：\n→ Such zero-shot generation could enable counterfactual neuroscience by supporting in-silico design and evaluation of novel cognitive experiments before empirical validation.\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics\n🔗 https://arxiv.org/abs/2606.11833\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #NeuroAI",
-    "summaryJP": "Transformerと言語処理 — 数値で示された新事実（ニューロAI・計算論）",
-    "paperAuthors": "Sam Gijsen, Michał Łukomski, Marc-André Schulz, Kerstin Ritter",
-    "publishedDate": "Thu, 11 Jun 2026 00:00:00 -0400",
-    "paperId": "2606.11833",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "Transformer",
-      "言語処理",
-      "fMRI"
-    ],
-    "abstractExcerpt": "Flow matching and diffusion models enable conditional generation across domains ranging from images to proteins, with recent extensions to out-of-distribution contexts. Yet generative models of neural time series have largely remained…",
-    "figureUrls": [
-      "https://arxiv.org/html/2606.11833/2606.11833v1/x1.png",
-      "https://arxiv.org/html/2606.11833/2606.11833v1/x2.png",
-      "https://arxiv.org/html/2606.11833/2606.11833v1/figures/model_overview_4box.png"
-    ]
   }
 ]

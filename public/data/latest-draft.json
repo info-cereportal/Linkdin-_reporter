@@ -1,28 +1,27 @@
 {
-  "generatedAt": "2026-07-30T23:37:04.394Z",
-  "date": "2026-07-30",
-  "topic": "前帯状皮質と社会的認知",
-  "templateName": "data-driven",
+  "generatedAt": "2026-07-31T23:37:40.592Z",
+  "date": "2026-07-31",
+  "topic": "心の理論と学習",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "The Fast Lane Hypothesis: Von Economo Neurons Implement a Biological Speed-Accuracy Tradeoff",
-  "paperLink": "https://arxiv.org/abs/2604.09229",
-  "figureUrl": "https://arxiv.org/html/2604.09229/2604.09229v2/x1.png",
-  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、前帯状皮質と社会的認知の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 前帯状皮質 × 社会的認知 × 意思決定\n\n📊 注目すべきデータ：\n→ Networks are evaluated under three clinically motivated conditions across 10 independent random seeds: typical (2% VENs), autism-like (0.4% VENs), and FTD-like (post-training VEN...\n→ All configurations achieve equivalent asymptotic classification accuracy (~99.4%), consistent with the prediction that VENs modulate decision speed rather than representational...\n→ At a fixed decision threshold of theta=3, the typical condition is significantly faster than FTD-like (t=-23.31, p<0.0001), while the autism-like condition is intermediate (mean...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 The Fast Lane Hypothesis: Von Economo Neurons Implement a Biological Speed-Accuracy Tradeoff\n🔗 https://arxiv.org/abs/2604.09229\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #神経科学",
-  "summaryJP": "前帯状皮質と社会的認知 — 数値で示された新事実（神経デコーディング）",
-  "paperAuthors": "Esila Keskin",
-  "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
-  "paperId": "2604.09229",
+  "paperTitle": "Using Theory of Mind to Arbitrate between Social and Non-social Learning",
+  "paperLink": "https://arxiv.org/abs/2607.28601",
+  "figureUrl": "https://arxiv.org/html/2607.28601/2607.28601v1/x1.png",
+  "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\n心の理論と学習の最新成果を整理しました。\n\n🔬 心の理論 × 学習\n\n📊 注目すべきデータ：\n→ Using a novel game where players choose between observing other agents or exploring the environment, we show that the Rational Mentalizing model can quantitatively capture human...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n認知・意思決定の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Using Theory of Mind to Arbitrate between Social and Non-social Learning\n🔗 https://arxiv.org/abs/2607.28601\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #神経科学",
+  "summaryJP": "心の理論と学習 — 注目すべき3つの示唆（認知・意思決定）",
+  "paperAuthors": "Lance Ying, Ryan Truong, Joshua B. Tenenbaum, Samuel J. Gershman",
+  "publishedDate": "Fri, 31 Jul 2026 00:00:00 -0400",
+  "paperId": "2607.28601",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "認知・意思決定",
   "jpKeywords": [
-    "前帯状皮質",
-    "社会的認知",
-    "意思決定"
+    "心の理論",
+    "学習"
   ],
-  "abstractExcerpt": "von Economo neurons (VENs) are large bipolar projection neurons found exclusively in the anterior cingulate cortex (ACC) and frontal insula of species with complex social cognition, including humans, great apes, cetaceans, and elephants.…",
+  "abstractExcerpt": "Social learning is a powerful mechanism through which agents learn about the world from others. However, humans sometimes choose direct experience over social learning, which can carry time and cognitive resource costs. How do people…",
   "figureUrls": [
-    "https://arxiv.org/html/2604.09229/2604.09229v2/x1.png",
-    "https://arxiv.org/html/2604.09229/2604.09229v2/x2.png",
-    "https://arxiv.org/html/2604.09229/2604.09229v2/fig5_autism_bimodality.png"
+    "https://arxiv.org/html/2607.28601/2607.28601v1/x1.png",
+    "https://arxiv.org/html/2607.28601/2607.28601v1/figures/model_figure_final.png",
+    "https://arxiv.org/html/2607.28601/2607.28601v1/figures/observation_steps_model_vs_human_pooled_exp1234.png"
   ]
 }

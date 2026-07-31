@@ -1,59 +1,43 @@
 {
-  "generatedAt": "2026-07-30T23:37:05.111Z",
+  "generatedAt": "2026-07-31T23:37:41.188Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
+      "itemCount": 4,
       "items": [
         {
-          "title": "Cognitive Convergence: Deep Similarities Between Large Language Models and Human Cognition",
-          "url": "https://arxiv.org/abs/2607.26179",
-          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
+          "title": "Stimulus-Evoked Network Dynamics in Human Cortical Organoids: From a Graph-Computational Framework to Repeated-Stimulation Depression",
+          "url": "https://arxiv.org/abs/2607.28068",
+          "publishedDate": "Fri, 31 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "LLMs are widely regarded as alien intelligences, systems whose cognitive operations are fundamentally unlike our own. Apparent similarities to human cognition are therefore often seen as the result of anthropomorphic projection. We argue…",
-          "authors": "Chandra Sripada, Richard Lewis"
+          "summary": "Human cortical organoids provide an experimentally accessible model of early neural circuit formation, yet whether their activity reflects structured information processing rather than spontaneous synchronization is unclear. We developed a…",
+          "authors": "Esmaeil S. Nadimi, Vinay C. Gogineni, Jan-Matthias Braun, Martin Røssel Larsen, Victoria Blanes-Vidal, Helle Bogetofte Barnkob"
         },
         {
-          "title": "Three Failures of Pain Location: Why the Diagnostic Utility of Symptom Localization Is Not One Thing",
-          "url": "https://arxiv.org/abs/2607.26297",
-          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
+          "title": "ZUNA1.1: A more flexible EEG foundation model for Denoising and Super-resolution",
+          "url": "https://arxiv.org/abs/2607.27308",
+          "publishedDate": "Fri, 31 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Patient-reported pain location is diagnostically decisive for some presentations and nearly uninformative for others. The prevailing account treats this as a single gradient of diagnostic utility governed by anatomical complexity. That…",
-          "authors": "Adam Y Shavit"
+          "summary": "We introduce ZUNA1.1, a 380M-parameter diffusion autoencoder for flexible EEG signal reconstruction. ZUNA1.1 is capable of reconstructing variable length sequences of up to 30s, with an arbitrary number of EEG channels at arbitrary scalp…",
+          "authors": "Christopher Warner, Jonas Mago, JR Huml, Beren Millidge"
         },
         {
-          "title": "Artificial intelligence in deep brain stimulation for movement disorders: a systematic review and technology readiness assessment",
-          "url": "https://arxiv.org/abs/2607.26666",
-          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
+          "title": "Using Theory of Mind to Arbitrate between Social and Non-social Learning",
+          "url": "https://arxiv.org/abs/2607.28601",
+          "publishedDate": "Fri, 31 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Artificial intelligence (AI) is increasingly explored across deep brain stimulation (DBS) for movement disorders, yet whether current systems are approaching deployment remains unclear. To characterise their scope, validation maturity, and…",
-          "authors": "Zohra Souei, Muhammad Mushhood Ur Rehman, Harith Akram, Jocelyne Bloch, Stephan Chabardes, Alfonso Fasano, Marwan Hariz, Joachim K. Krauss, Andrea A. Kühn, Patricia Limousin, Daniel E. Lumsden, Eduardo M. Moraud, Elena Moro, Martin M. Reich, Ludvic Zrinzo, Xavier Vasques, Laura Cif"
+          "summary": "Social learning is a powerful mechanism through which agents learn about the world from others. However, humans sometimes choose direct experience over social learning, which can carry time and cognitive resource costs. How do people…",
+          "authors": "Lance Ying, Ryan Truong, Joshua B. Tenenbaum, Samuel J. Gershman"
         },
         {
-          "title": "A behavior-environment information loop drives sensory navigation",
-          "url": "https://arxiv.org/abs/2607.26295",
-          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
+          "title": "Reading Without a Reader: Large Language Models Collapse Reading and Writing into a Single Entangled Code",
+          "url": "https://arxiv.org/abs/2607.24797",
+          "publishedDate": "Fri, 31 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "As organisms navigate the environment to locate critical resources, their behavioral actions must be tightly coupled to their sensory inputs. Here, we introduce an information-theoretic framework that quantifies this coupling using…",
-          "authors": "Kevin S. Chen, Matthew P. Leighton, Damon A. Clark, Thierry Emonet"
-        },
-        {
-          "title": "Pragmatic Reasoning in Design",
-          "url": "https://arxiv.org/abs/2607.26322",
-          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "People can often understand and use novel artifacts after only a few interactions, suggesting that design choices communicate underlying affordances and causal structure. We propose a formal account of this process by framing cooperative,…",
-          "authors": "Lance Ying, William Van Uitert, Tan Zhi-Xuan, Joshua B. Tenenbaum, Samuel J. Gershman"
-        },
-        {
-          "title": "Bridging integrated information theory and the free-energy principle in living neuronal networks",
-          "url": "https://arxiv.org/abs/2510.04084",
-          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Integrated Information Theory (IIT) links consciousness to integrated causal structure, whereas the Free-Energy Principle (FEP) explains self-organization through variational free-energy minimization. Their relationship in living neural…",
-          "authors": "Teruki Mayama, Dai Akita, Sota Shimizu, Yuki Takano, Hirokazu Takahashi"
+          "summary": "In the literate human brain, reading and writing doubly dissociate: a ventral decoding route (pure alexia) and a fronto-parietal encoding route (pure agraphia), sharing a partial orthographic core. A decoder-only large language model (LLM)…",
+          "authors": "Diego Saldaña Ulloa"
         }
       ]
     },
@@ -62,6 +46,22 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Federal government could improve infectious disease monitoring, says federal government",
+          "url": "https://www.statnews.com/2026/07/31/health-news-federal-government-infectious-disease-monitoring-issues/?utm_campaign=rss",
+          "publishedDate": "Fri, 31 Jul 2026 12:28:22 +0000",
+          "source": "statnews.com",
+          "summary": "The new CDC director nominee moves to the full Senate vote, Medicaid work requirements will not be delayed, and more health news",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "Syphilis spreads while researchers contend with federal constraints and a drug shortage",
+          "url": "https://www.statnews.com/2026/07/31/syphilis-drug-shortage-case-study-san-diego-patient-researcher-advocate/?utm_campaign=rss",
+          "publishedDate": "Fri, 31 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "At the San Diego-Tijuana border, syphilis spreads while researchers contend with federal constraints and a drug shortage.",
+          "authors": "Eric Boodman"
+        },
         {
           "title": "Key Senate panel backs Trump’s picks for CDC, pandemic preparedness",
           "url": "https://www.statnews.com/2026/07/30/senate-panel-backs-confirmation-health-nominees-schwartz-cdc-kaufman-aspr/?utm_campaign=rss",
@@ -93,22 +93,6 @@
           "source": "statnews.com",
           "summary": "Patients, advocates, and experts fear the difficulty in documenting a frailty exemption to Medicaid work requirements will lead to millions losing coverage.",
           "authors": "Isabella Cueto"
-        },
-        {
-          "title": "Is it safe to drink Red Bull and alcohol? Questionable research tied to energy drink giant has shaped policy",
-          "url": "https://www.statnews.com/2026/07/30/red-bull-funded-studies-energy-drinks-alcohol-shape-policy/?utm_campaign=rss",
-          "publishedDate": "Thu, 30 Jul 2026 04:05:00 +0000",
-          "source": "statnews.com",
-          "summary": "Studies tied to Red Bull helped block warning labels about drinking alcohol along with energy drinks. Independent studies report risks in mixing the two.",
-          "authors": "Sasha Chavkin, Ashley Okwuosa, Fernanda Aguirre Ruiz,and Romina Colman"
-        },
-        {
-          "title": "A neglected issue in pedestrian, biker deaths",
-          "url": "https://www.statnews.com/2026/07/29/health-news-neglected-issue-in-pedestrian-biker-deaths/?utm_campaign=rss",
-          "publishedDate": "Wed, 29 Jul 2026 11:50:20 +0000",
-          "source": "statnews.com",
-          "summary": "Fauci's testimony, visa time limits for research students, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
         }
       ]
     },
@@ -117,6 +101,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Syphilis spreads while researchers contend with federal constraints and a drug shortage",
+          "url": "https://www.statnews.com/2026/07/31/syphilis-drug-shortage-case-study-san-diego-patient-researcher-advocate/?utm_campaign=rss",
+          "publishedDate": "Fri, 31 Jul 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "At the San Diego-Tijuana border, syphilis spreads while researchers contend with federal constraints and a drug shortage.",
+          "authors": "Eric Boodman"
+        },
         {
           "title": "Key Senate panel backs Trump’s picks for CDC, pandemic preparedness",
           "url": "https://www.statnews.com/2026/07/30/senate-panel-backs-confirmation-health-nominees-schwartz-cdc-kaufman-aspr/?utm_campaign=rss",
@@ -156,14 +148,6 @@
           "source": "sciencedaily.com",
           "summary": "Taking a daily multivitamin may help older adults preserve the strength and stamina needed for everyday activities. After three years, users reported better functional health than those taking a placebo, although the preliminary findings…",
           "authors": ""
-        },
-        {
-          "title": "STAT+: End of Medicare drug subsidy gives Democrats new attack line on rising out-of-pocket costs",
-          "url": "https://www.statnews.com/2026/07/29/trump-medicare-subsidy-cuts-part-d-premium-change/?utm_campaign=rss",
-          "publishedDate": "Wed, 29 Jul 2026 14:58:30 +0000",
-          "source": "statnews.com",
-          "summary": "The White House decision to end a Medicare drug subsidy plays into Democratic arguments ahead of the midterms.",
-          "authors": "John Wilkerson"
         }
       ]
     },
@@ -173,52 +157,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Optimizing Sensor Placement for Hydrogen Leak Detection in Enclosed Infrastructure: A Comparative Study Using CFD-informed Genetic Algorithm and DeepSets Neural Surrogate",
-          "url": "https://arxiv.org/abs/2607.26078",
-          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
+          "title": "Nanoparticle Networks for Neuromorphic Computing",
+          "url": "https://arxiv.org/abs/2607.27844",
+          "publishedDate": "Fri, 31 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Hydrogen infrastructure in enclosed environments, such as parking facilities for fuel cell vehicles, presents significant safety challenges due to hydrogen's low ignition energy and wide flammability range. Current monitoring systems are…",
-          "authors": "Fangnian Wang, Nicholas Tan Jerome, Thomas Jordan, Frank Simon"
+          "summary": "Physical computing leverages complex dynamical systems for energy-efficient data processing. In this work, we present a neuromorphic architecture based on metallic nanoparticles interconnected by molecular junctions on a $\\textSiO_2$/Si…",
+          "authors": "Jonas Mensing, Wilfred G. van der Wiel, Andreas Heuer"
         },
         {
-          "title": "Reconstructing Backpropagation from Forward Fluctuations in Noise-modulated Neural Networks",
-          "url": "https://arxiv.org/abs/2607.26483",
-          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
+          "title": "Hash Chemistry: Minimal Models for Evolutionary Growth of Complexity",
+          "url": "https://arxiv.org/abs/2607.28219",
+          "publishedDate": "Fri, 31 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "A Noise-modulated Neural Network (NNN) learns and infers only in the presence of noise, treating noise as a computational resource rather than a disturbance. The noise lets it learn efficiently by backpropagation while transmitting…",
-          "authors": "Shuhei Ikemoto"
+          "summary": "Hash Chemistry is a family of minimalistic evolutionary models in which a deterministic hash function assigns a scalar score to entities of arbitrary size, opening a combinatorially vast possibility space (a ``cardinality leap''). Since…",
+          "authors": "Ilya Horiguchi, Hiroki Sayama"
         },
         {
-          "title": "Shared Symbolic Backbones for Physically Consistent Multi-Output Symbolic Regression",
-          "url": "https://arxiv.org/abs/2607.26528",
-          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
+          "title": "Stimulus-Evoked Network Dynamics in Human Cortical Organoids: From a Graph-Computational Framework to Repeated-Stimulation Depression",
+          "url": "https://arxiv.org/abs/2607.28068",
+          "publishedDate": "Fri, 31 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Symbolic regression provides analytical expressions, but it is usually applied one output at a time. This is limiting in process systems, where state variables are often coupled through shared physical parameters. Independent symbolic…",
-          "authors": "Manuel Rodriguez"
+          "summary": "Human cortical organoids provide an experimentally accessible model of early neural circuit formation, yet whether their activity reflects structured information processing rather than spontaneous synchronization is unclear. We developed a…",
+          "authors": "Esmaeil S. Nadimi, Vinay C. Gogineni, Jan-Matthias Braun, Martin Røssel Larsen, Victoria Blanes-Vidal, Helle Bogetofte Barnkob"
         },
         {
-          "title": "The Sparsity Ceiling: Where Spiking Networks Can and Cannot Trade Activity for Energy",
-          "url": "https://arxiv.org/abs/2607.26648",
-          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
+          "title": "ZUNA1.1: A more flexible EEG foundation model for Denoising and Super-resolution",
+          "url": "https://arxiv.org/abs/2607.27308",
+          "publishedDate": "Fri, 31 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking neural networks (SNNs) are promoted as an energy-efficient substrate because sparse, event-driven activity replaces dense multiply-accumulates with cheap accumulates. We argue the energy dividend of sparsity is not a property of…",
-          "authors": "Zeyu Wang"
+          "summary": "We introduce ZUNA1.1, a 380M-parameter diffusion autoencoder for flexible EEG signal reconstruction. ZUNA1.1 is capable of reconstructing variable length sequences of up to 30s, with an arbitrary number of EEG channels at arbitrary scalp…",
+          "authors": "Christopher Warner, Jonas Mago, JR Huml, Beren Millidge"
         },
         {
-          "title": "Emergent Sparsity in Frozen Random CNN Feature Extractors for Deep Reinforcement Learning",
-          "url": "https://arxiv.org/abs/2607.26059",
-          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
+          "title": "Using Theory of Mind to Arbitrate between Social and Non-social Learning",
+          "url": "https://arxiv.org/abs/2607.28601",
+          "publishedDate": "Fri, 31 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We report a striking phenomenon: deep reinforcement learning agents trained with frozen, randomly initialized CNN feature extractors spontaneously develop extremely sparse fully-connected representations, without any sparsity-inducing…",
-          "authors": "Scott M. Norton"
+          "summary": "Social learning is a powerful mechanism through which agents learn about the world from others. However, humans sometimes choose direct experience over social learning, which can carry time and cognitive resource costs. How do people…",
+          "authors": "Lance Ying, Ryan Truong, Joshua B. Tenenbaum, Samuel J. Gershman"
         },
         {
-          "title": "Neural Architecture Search for Traffic Prediction: A Survey of Methods, Challenges, and Future Directions",
-          "url": "https://arxiv.org/abs/2607.26467",
-          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
+          "title": "Reading Without a Reader: Large Language Models Collapse Reading and Writing into a Single Entangled Code",
+          "url": "https://arxiv.org/abs/2607.24797",
+          "publishedDate": "Fri, 31 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Traffic prediction is a core task in intelligent transportation systems, supporting applications such as adaptive signal control, route guidance, and ride-hailing dispatch. Deep learning models, including graph convolutional networks,…",
-          "authors": "Truong Giang Vu, Li Yang, Richard W. Pazzi"
+          "summary": "In the literate human brain, reading and writing doubly dissociate: a ventral decoding route (pure alexia) and a fronto-parietal encoding route (pure agraphia), sharing a partial orthographic core. A decoder-only large language model (LLM)…",
+          "authors": "Diego Saldaña Ulloa"
         }
       ]
     },
@@ -228,12 +212,12 @@
       "itemCount": 1,
       "items": [
         {
-          "title": "Phoneme- vs. Character-Level Targets and Selective State-Space Models for Intracortical Brain-to-Text",
-          "url": "https://arxiv.org/abs/2607.26751",
-          "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
+          "title": "Closed-Loop Bayesian Bandit Encoder with GRAND Receiver for a Bursty Interference Channel",
+          "url": "https://arxiv.org/abs/2607.15404",
+          "publishedDate": "Fri, 31 Jul 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "State-of-the-art intracortical brain-to-text systems pair a neural-sequence phone decoder with an external language model. Two design axes remain underexplored: whether selective state-space models (Mamba) improve on recurrent decoders,…",
-          "authors": "Lucas Zamora Vera, Jose A. Gonzalez-Lopez"
+          "summary": "Interleaving mitigates burst errors but introduces decoding delay and removes temporal error structure that a channel-aware decoder could exploit. We consider packet-level selection between a random linear code and the same code used with…",
+          "authors": "Bhaskar Krishnamachari"
         }
       ]
     }
