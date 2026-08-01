@@ -1,27 +1,25 @@
 {
-  "generatedAt": "2026-07-31T23:37:40.592Z",
-  "date": "2026-07-31",
-  "topic": "心の理論と学習",
-  "templateName": "three-insights",
+  "generatedAt": "2026-08-01T23:35:22.825Z",
+  "date": "2026-08-01",
+  "topic": "深層学習と学習",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Using Theory of Mind to Arbitrate between Social and Non-social Learning",
-  "paperLink": "https://arxiv.org/abs/2607.28601",
-  "figureUrl": "https://arxiv.org/html/2607.28601/2607.28601v1/x1.png",
-  "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\n心の理論と学習の最新成果を整理しました。\n\n🔬 心の理論 × 学習\n\n📊 注目すべきデータ：\n→ Using a novel game where players choose between observing other agents or exploring the environment, we show that the Rational Mentalizing model can quantitatively capture human...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n認知・意思決定の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Using Theory of Mind to Arbitrate between Social and Non-social Learning\n🔗 https://arxiv.org/abs/2607.28601\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #神経科学",
-  "summaryJP": "心の理論と学習 — 注目すべき3つの示唆（認知・意思決定）",
-  "paperAuthors": "Lance Ying, Ryan Truong, Joshua B. Tenenbaum, Samuel J. Gershman",
-  "publishedDate": "Fri, 31 Jul 2026 00:00:00 -0400",
-  "paperId": "2607.28601",
-  "paperSource": "arxiv",
-  "themeArea": "認知・意思決定",
+  "paperTitle": "EXPRESS: Adulteration Detection for Poria Cocos Based on Near-Infrared Two-Dimensional Correlation Spectroscopy and Deep Learning.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42538889/",
+  "formatted": "この研究データ、知らないままでいいですか？\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n深層学習と学習の最新研究です。\n\n🔬 深層学習 × 学習 × 畳み込みニューラルネットワーク(CNN) × 注意機構\n\n📊 注目すべきデータ：\n→ As a traditional Chinese medicinal material, the quality of Poria cocos (PC) significantly affects its pharmacological efficacy.\n→ NIR spectra in the range of 960-1600&#x2005;nm are collected from pure PC and samples adulterated with 5 common adulterants at concentration gradients of 5%.\n→ Compared with experiments involving convolutional neural network (CNN), gated recurrent unit (GRU), long short-term memory (LSTM), and bidirectional LSTM (BiLSTM) models, the...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 EXPRESS: Adulteration Detection for Poria Cocos Based on Near-Infrared Two-Dimensional Correlation Spectroscopy and Deep Learning.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42538889/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #計算論的神経科学",
+  "summaryJP": "深層学習と学習 — 次世代へ続く布石（ニューロAI・計算論）",
+  "paperAuthors": "Rongzhen Mao, Jing Liang, Mingyue Huang, Bin Wang, Xiaoxuan Xu, Jing Xu",
+  "publishedDate": "2026-08-01",
+  "paperId": "42538889",
+  "paperSource": "pubmed",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "心の理論",
-    "学習"
+    "深層学習",
+    "学習",
+    "畳み込みニューラルネットワーク(CNN)",
+    "注意機構",
+    "記憶"
   ],
-  "abstractExcerpt": "Social learning is a powerful mechanism through which agents learn about the world from others. However, humans sometimes choose direct experience over social learning, which can carry time and cognitive resource costs. How do people…",
-  "figureUrls": [
-    "https://arxiv.org/html/2607.28601/2607.28601v1/x1.png",
-    "https://arxiv.org/html/2607.28601/2607.28601v1/figures/model_figure_final.png",
-    "https://arxiv.org/html/2607.28601/2607.28601v1/figures/observation_steps_model_vs_human_pooled_exp1234.png"
-  ]
+  "abstractExcerpt": "As a traditional Chinese medicinal material, the quality of Poria cocos (PC) significantly affects its pharmacological efficacy. However, adulteration of PC in the market has been frequently observed. Adulterated PC not only compromises…",
+  "figureUrls": []
 }
