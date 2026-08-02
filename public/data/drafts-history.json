@@ -1,5 +1,29 @@
 [
   {
+    "generatedAt": "2026-08-02T23:36:30.695Z",
+    "date": "2026-08-02",
+    "topic": "畳み込みニューラルネットワーク(CNN)と深層学習",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "MHCmet: A neural network based epitope prediction tool for orthohantaviruses.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42541863/",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n脳科学とAI——その境界線が消えつつある。\n\n畳み込みニューラルネットワーク(CNN)と深層学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 畳み込みニューラルネットワーク(CNN) × 深層学習 × 注意機構 × 学習\n\n📊 注目すべきデータ：\n→ Given the extensive size and diversity of viral proteomes, the use of state-of-the-art computational tools has become essential for identifying immunogenic fragments.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 MHCmet: A neural network based epitope prediction tool for orthohantaviruses.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42541863/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #脳情報",
+    "summaryJP": "畳み込みニューラルネットワーク(CNN)と深層学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+    "paperAuthors": "Devanshi Sharma, Rishabh Dhenkawat, Snehal Saini, Garima Goyal, Rahul Upadhyay, Vinay Kumar",
+    "publishedDate": "2026-08-01",
+    "paperId": "42541863",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "畳み込みニューラルネットワーク(CNN)",
+      "深層学習",
+      "注意機構",
+      "学習"
+    ],
+    "abstractExcerpt": "Identification of peptide immunogens in a pathogen proteome can help to develop diagnostic kits, therapeutics, and preventive vaccines. Traditional methods for identifying such peptides are often laborious, time-consuming, and resource…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-08-01T23:35:22.825Z",
     "date": "2026-08-01",
     "topic": "深層学習と学習",
@@ -1228,32 +1252,6 @@
       "注意機構"
     ],
     "abstractExcerpt": "Brain age prediction has gained significant attention due to its strong correlation with neurological and cognitive disorders. The discrepancy between an individual's chronological age and their predicted brain age-known as the Brain Age…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-06-13T23:43:58.518Z",
-    "date": "2026-06-13",
-    "topic": "学習と強化学習",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "A multi-task learning framework for diagnosing partial discharge types and assessing severity.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42286070/",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\n学習と強化学習の最新成果を整理しました。\n\n🔬 学習 × 強化学習 × 意思決定 × 深層学習\n\n📊 注目すべきデータ：\n→ Early detection, accurate localization, identification of discharge types, and assessment of discharge severity play a significant role in improving system reliability and...\n→ This paper proposes a novel framework, termed PD-IntelliFusionNet, for simultaneous PD type diagnosis and severity assessment.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 A multi-task learning framework for diagnosing partial discharge types and assessing severity.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42286070/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #ニューロテック",
-    "summaryJP": "学習と強化学習 — 注目すべき3つの示唆（ニューロAI・計算論）",
-    "paperAuthors": "Jin Zhang",
-    "publishedDate": "2026-06-12",
-    "paperId": "42286070",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "学習",
-      "強化学習",
-      "意思決定",
-      "深層学習",
-      "Transformer",
-      "注意機構"
-    ],
-    "abstractExcerpt": "Partial Discharge (PD) is one of the most critical factors contributing to the degradation of insulation systems in power transformers. Early detection, accurate localization, identification of discharge types, and assessment of discharge…",
     "figureUrls": []
   }
 ]

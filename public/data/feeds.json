@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T23:35:23.552Z",
+  "generatedAt": "2026-08-02T23:36:31.190Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,6 +69,38 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Without this protein, damaged muscle turns to fat and scar tissue",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042814.htm",
+          "publishedDate": "Sun, 02 Aug 2026 09:23:34 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A protein once thought to mainly protect chromosome ends may also be essential for keeping muscle stem cells ready to repair injuries. Researchers found that TRF2 helps these cells maintain their identity and coordinate the cycle of rest,…",
+          "authors": ""
+        },
+        {
+          "title": "This once-a-week workout may help cut belly fat, study shows",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
+          "publishedDate": "Sun, 02 Aug 2026 03:33:41 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A surprisingly small dose of exercise may deliver major health benefits for adults carrying excess fat around the waist. In a four-month trial involving 315 adults with central obesity, researchers found that completing 75 minutes of brisk…",
+          "authors": ""
+        },
+        {
+          "title": "Eating less protein could slow aging, major review finds",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042811.htm",
+          "publishedDate": "Sun, 02 Aug 2026 00:52:01 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A sweeping review of more than 350 studies suggests that the protein boom may be overselling what many people actually need. Eating less protein appears to improve metabolism, reduce inflammation and cellular damage, and activate pathways…",
+          "authors": ""
+        },
+        {
+          "title": "Cancer may be breaking its own DNA to keep growing",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
+          "publishedDate": "Sun, 02 Aug 2026 00:30:42 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Cancer cells rely on powerful genetic switches to keep growth genes running at full speed, but that intense activity can damage their own DNA. The resulting breaks are repeatedly repaired, sometimes with small mistakes that allow new…",
+          "authors": ""
+        },
+        {
           "title": "Eating one avocado a day may lower heart disease risk",
           "url": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
           "publishedDate": "Sat, 01 Aug 2026 08:35:57 EDT",
@@ -83,38 +115,6 @@
           "source": "sciencedaily.com",
           "summary": "Scientists have identified an immune response that may explain why statins cause muscle pain, weakness, and exercise intolerance in some people. The finding could eventually lead to treatments that protect muscles while preserving the…",
           "authors": ""
-        },
-        {
-          "title": "Blood cancer’s genetic warning signs may appear years early",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729010740.htm",
-          "publishedDate": "Fri, 31 Jul 2026 22:53:42 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Blood cancers that eventually worsen may carry detectable genetic warning signs years before patients develop serious symptoms. The findings could lead to earlier intervention while also helping doctors distinguish true cancer from…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover why poor sleep may harm some brains more",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm",
-          "publishedDate": "Fri, 31 Jul 2026 08:20:43 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A gene involved in the brain’s overnight cleaning system may change how strongly poor sleep affects Alzheimer’s-related brain changes. The findings point toward more personalized prevention strategies based on both genetics and sleep…",
-          "authors": ""
-        },
-        {
-          "title": "A 42-year-old childhood obesity theory may be wrong",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729051534.htm",
-          "publishedDate": "Fri, 31 Jul 2026 07:28:32 EDT",
-          "source": "sciencedaily.com",
-          "summary": "New research challenges the decades-old idea that children experience an “adiposity rebound” when their BMI begins rising around age 6. Although BMI returns to earlier levels, a more reliable measure showed that body fat does not rebound…",
-          "authors": ""
-        },
-        {
-          "title": "Syphilis spreads while researchers contend with federal constraints and a drug shortage",
-          "url": "https://www.statnews.com/2026/07/31/syphilis-drug-shortage-case-study-san-diego-patient-researcher-advocate/?utm_campaign=rss",
-          "publishedDate": "Fri, 31 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "At the San Diego-Tijuana border, syphilis spreads while researchers contend with federal constraints and a drug shortage.",
-          "authors": "Eric Boodman"
         }
       ]
     },

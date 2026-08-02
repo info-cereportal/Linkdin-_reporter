@@ -1,25 +1,24 @@
 {
-  "generatedAt": "2026-08-01T23:35:22.825Z",
-  "date": "2026-08-01",
-  "topic": "深層学習と学習",
-  "templateName": "future-vision",
+  "generatedAt": "2026-08-02T23:36:30.695Z",
+  "date": "2026-08-02",
+  "topic": "畳み込みニューラルネットワーク(CNN)と深層学習",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "EXPRESS: Adulteration Detection for Poria Cocos Based on Near-Infrared Two-Dimensional Correlation Spectroscopy and Deep Learning.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42538889/",
-  "formatted": "この研究データ、知らないままでいいですか？\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n深層学習と学習の最新研究です。\n\n🔬 深層学習 × 学習 × 畳み込みニューラルネットワーク(CNN) × 注意機構\n\n📊 注目すべきデータ：\n→ As a traditional Chinese medicinal material, the quality of Poria cocos (PC) significantly affects its pharmacological efficacy.\n→ NIR spectra in the range of 960-1600&#x2005;nm are collected from pure PC and samples adulterated with 5 common adulterants at concentration gradients of 5%.\n→ Compared with experiments involving convolutional neural network (CNN), gated recurrent unit (GRU), long short-term memory (LSTM), and bidirectional LSTM (BiLSTM) models, the...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 EXPRESS: Adulteration Detection for Poria Cocos Based on Near-Infrared Two-Dimensional Correlation Spectroscopy and Deep Learning.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42538889/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #計算論的神経科学",
-  "summaryJP": "深層学習と学習 — 次世代へ続く布石（ニューロAI・計算論）",
-  "paperAuthors": "Rongzhen Mao, Jing Liang, Mingyue Huang, Bin Wang, Xiaoxuan Xu, Jing Xu",
+  "paperTitle": "MHCmet: A neural network based epitope prediction tool for orthohantaviruses.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42541863/",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n脳科学とAI——その境界線が消えつつある。\n\n畳み込みニューラルネットワーク(CNN)と深層学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 畳み込みニューラルネットワーク(CNN) × 深層学習 × 注意機構 × 学習\n\n📊 注目すべきデータ：\n→ Given the extensive size and diversity of viral proteomes, the use of state-of-the-art computational tools has become essential for identifying immunogenic fragments.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 MHCmet: A neural network based epitope prediction tool for orthohantaviruses.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42541863/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #脳情報",
+  "summaryJP": "畳み込みニューラルネットワーク(CNN)と深層学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+  "paperAuthors": "Devanshi Sharma, Rishabh Dhenkawat, Snehal Saini, Garima Goyal, Rahul Upadhyay, Vinay Kumar",
   "publishedDate": "2026-08-01",
-  "paperId": "42538889",
+  "paperId": "42541863",
   "paperSource": "pubmed",
   "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "深層学習",
-    "学習",
     "畳み込みニューラルネットワーク(CNN)",
+    "深層学習",
     "注意機構",
-    "記憶"
+    "学習"
   ],
-  "abstractExcerpt": "As a traditional Chinese medicinal material, the quality of Poria cocos (PC) significantly affects its pharmacological efficacy. However, adulteration of PC in the market has been frequently observed. Adulterated PC not only compromises…",
+  "abstractExcerpt": "Identification of peptide immunogens in a pathogen proteome can help to develop diagnostic kits, therapeutics, and preventive vaccines. Traditional methods for identifying such peptides are often laborious, time-consuming, and resource…",
   "figureUrls": []
 }
