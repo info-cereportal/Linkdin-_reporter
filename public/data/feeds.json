@@ -1,18 +1,99 @@
 {
-  "generatedAt": "2026-08-02T23:36:31.190Z",
+  "generatedAt": "2026-08-03T23:43:02.352Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "But What Behavior?",
+          "url": "https://arxiv.org/abs/2607.28898",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "What is a natural behavior? I argue that the study of natural behaviors is often the study of the spontaneous behaviors of animals placed in quantifiably different environments. For behavioral generalists such as rodents, humans, and many…",
+          "authors": "Robert C. Froemke"
+        },
+        {
+          "title": "Critical Flicker Fusion Frequency As A Falsifiable Boundary Between Plastic And Non-Plastic Neural Systems",
+          "url": "https://arxiv.org/abs/2607.29068",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Experience-dependent neural plasticity is fundamental to adaptive behaviour, yet certain perceptual abilities resist modification despite extensive training. Critical flicker fusion frequency (CFFF), the threshold at which flickering light…",
+          "authors": "Natalia D. Rydzenska, Pawel J. Winklewski, Michal W. Blaszczyk-Niezgoda, Anna B. Marcinkowska"
+        },
+        {
+          "title": "metasignal: A Python Package for Comprehensive Metacognitive Analysis and Decision-Making",
+          "url": "https://arxiv.org/abs/2607.29093",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Metasignal is an open-source Python package for signal detection theory (SDT) and metacognitive measurement. It implements the 17 metacognitive measures evaluated by Rahnev (2025), together with the reference variables d' (perceptual…",
+          "authors": "Saurabh Ranjan, Mukesh Makwana, Konstantina Sokratous, Brian Odegaard"
+        },
+        {
+          "title": "Resource depletion accelerates rate learning but not composition learning in patch foraging",
+          "url": "https://arxiv.org/abs/2607.29476",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Foraging is a universal animal behavior that has increasingly attracted the interest of both experimentalists and theorists. Most prior models assume an animal knows the distribution of resources in its environment, but this structure must…",
+          "authors": "Zachary P. Kilpatrick, Ahmed El Hady"
+        },
+        {
+          "title": "Quantifying the cost of network computations to unpack structure-function relationships in the brain",
+          "url": "https://arxiv.org/abs/2607.29537",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The brain supports computations through coordinated patterns of activity on an underlying network. These networks---from microscale navigational circuits in insects to macroscale brain areas in humans---are organized in structured ways…",
+          "authors": "Suman S. Kulkarni, Jason Z. Kim, Panagiotis Fotiadis, Fabio Pasqualetti, Dani S. Bassett"
+        },
+        {
+          "title": "MPP-GNN: Subject-Adaptive Community Detection for fMRI-Based Alzheimer's Disease Classification",
+          "url": "https://arxiv.org/abs/2607.28681",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Functional magnetic resonance imaging (fMRI) is a widely used technique for studying the brain. Recent methods that utilize graph neural networks (GNNs) for analysis of brain functional connectivity have shown great potential for the…",
+          "authors": "Yang Zhang, Xiao Zhou, Jonathan Warrell, Avram Holmes, Xuan Zhang, Mark Gerstein"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Eli Lilly to allow more patients to apply for special access to unapproved obesity drug",
+          "url": "https://www.statnews.com/2026/08/03/eli-lilly-retatrutide-mystery-patient-doctors-seek-same-access-their-patients/?utm_campaign=rss",
+          "publishedDate": "Mon, 03 Aug 2026 17:27:38 +0000",
+          "source": "statnews.com",
+          "summary": "Doctors are asking how to get retatrutide for their patients, after Eli Lilly gave one man early access.",
+          "authors": "Lizzy Lawrence and Elaine Chen"
+        },
+        {
+          "title": "Michigan reports the first 2 U.S. deaths related to a diarrhea-causing parasite",
+          "url": "https://www.statnews.com/2026/08/03/cyclospora-outbreak-two-fatalities-reported-michigan/?utm_campaign=rss",
+          "publishedDate": "Mon, 03 Aug 2026 16:59:11 +0000",
+          "source": "statnews.com",
+          "summary": "Two people have died in the cyclospora outbreak in Michigan in the first confirmed deaths in the U.S. related to the microscopic parasite, state health officials announced.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "New York’s assisted-dying law moves forward",
+          "url": "https://www.statnews.com/2026/08/03/health-news-new-york-assisted-dying-law-moves-forward/?utm_campaign=rss",
+          "publishedDate": "Mon, 03 Aug 2026 12:58:15 +0000",
+          "source": "statnews.com",
+          "summary": "Medicaid work requirements in effect in Nebraska, AI scribes in med school, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "Heart transplant candidates fail if they get too weak. New program tries inpatient prehab",
+          "url": "https://www.statnews.com/2026/08/03/heart-transplant-prehabilitation-cardiologist-discusses-innovative-project/?utm_campaign=rss",
+          "publishedDate": "Mon, 03 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Patients often get weaker waiting in the hospital for heart transplant. A cardiologist had an idea: inpatient prehabilitation.",
+          "authors": "Elizabeth Cooney"
+        },
         {
           "title": "Federal government could improve infectious disease monitoring, says federal government",
           "url": "https://www.statnews.com/2026/07/31/health-news-federal-government-infectious-disease-monitoring-issues/?utm_campaign=rss",
@@ -28,38 +109,6 @@
           "source": "statnews.com",
           "summary": "At the San Diego-Tijuana border, syphilis spreads while researchers contend with federal constraints and a drug shortage.",
           "authors": "Eric Boodman"
-        },
-        {
-          "title": "Key Senate panel backs Trump’s picks for CDC, pandemic preparedness",
-          "url": "https://www.statnews.com/2026/07/30/senate-panel-backs-confirmation-health-nominees-schwartz-cdc-kaufman-aspr/?utm_campaign=rss",
-          "publishedDate": "Thu, 30 Jul 2026 14:17:10 +0000",
-          "source": "statnews.com",
-          "summary": "In win for RFK Jr., Senate committee sends nominations of Erica Schwartz for CDC director and Sean Kaufman for ASPR to full Senate.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Judge denies states’ motion to postpone Medicaid work requirement",
-          "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-judge-declines-states-request-injunction/?utm_campaign=rss",
-          "publishedDate": "Thu, 30 Jul 2026 13:45:55 +0000",
-          "source": "statnews.com",
-          "summary": "Federal judge denied 26 states’ request to postpone the implementation of Medicaid work requirements announced in June.",
-          "authors": "Anil Oza"
-        },
-        {
-          "title": "Ebola outbreak nears milestone, while a vaccine remains months away",
-          "url": "https://www.statnews.com/2026/07/30/health-news-ebola-outbreak-nears-milestone-but-vaccine-close/?utm_campaign=rss",
-          "publishedDate": "Thu, 30 Jul 2026 11:49:48 +0000",
-          "source": "statnews.com",
-          "summary": "Medicaid work rules, FTC sues Hims, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney and Helen Branswell"
-        },
-        {
-          "title": "Chronically ill people face confusion over new Medicaid work rules and ‘medically frail’ exemption",
-          "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-medical-frailty-exemption-coverage-loss/?utm_campaign=rss",
-          "publishedDate": "Thu, 30 Jul 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Patients, advocates, and experts fear the difficulty in documenting a frailty exemption to Medicaid work requirements will lead to millions losing coverage.",
-          "authors": "Isabella Cueto"
         }
       ]
     },
@@ -69,113 +118,146 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Without this protein, damaged muscle turns to fat and scar tissue",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260801042814.htm",
-          "publishedDate": "Sun, 02 Aug 2026 09:23:34 EDT",
+          "title": "STAT+: Eli Lilly to allow more patients to apply for special access to unapproved obesity drug",
+          "url": "https://www.statnews.com/2026/08/03/eli-lilly-retatrutide-mystery-patient-doctors-seek-same-access-their-patients/?utm_campaign=rss",
+          "publishedDate": "Mon, 03 Aug 2026 17:27:38 +0000",
+          "source": "statnews.com",
+          "summary": "Doctors are asking how to get retatrutide for their patients, after Eli Lilly gave one man early access.",
+          "authors": "Lizzy Lawrence and Elaine Chen"
+        },
+        {
+          "title": "A simple supplement could help the immune system fight cancer and viruses",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm",
+          "publishedDate": "Mon, 03 Aug 2026 09:38:04 EDT",
           "source": "sciencedaily.com",
-          "summary": "A protein once thought to mainly protect chromosome ends may also be essential for keeping muscle stem cells ready to repair injuries. Researchers found that TRF2 helps these cells maintain their identity and coordinate the cycle of rest,…",
+          "summary": "Low arginine levels may allow cancer cells and viruses to slip past the immune system by reducing production of a crucial cellular warning protein. In mice, arginine-rich diets led to fewer colon tumors and milder viral infections,…",
           "authors": ""
         },
         {
-          "title": "This once-a-week workout may help cut belly fat, study shows",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
-          "publishedDate": "Sun, 02 Aug 2026 03:33:41 EDT",
+          "title": "Scientists may have found aging’s hidden trigger for brain disease",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm",
+          "publishedDate": "Mon, 03 Aug 2026 07:17:07 EDT",
           "source": "sciencedaily.com",
-          "summary": "A surprisingly small dose of exercise may deliver major health benefits for adults carrying excess fat around the waist. In a four-month trial involving 315 adults with central obesity, researchers found that completing 75 minutes of brisk…",
+          "summary": "Scientists have identified a molecular switch that may help explain why aging makes the brain more vulnerable to diseases such as ALS and Huntington’s. In worms, the protein EPS8 builds up with age and triggers signaling that encourages…",
           "authors": ""
         },
         {
-          "title": "Eating less protein could slow aging, major review finds",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260801042811.htm",
-          "publishedDate": "Sun, 02 Aug 2026 00:52:01 EDT",
+          "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm",
+          "publishedDate": "Mon, 03 Aug 2026 06:20:53 EDT",
           "source": "sciencedaily.com",
-          "summary": "A sweeping review of more than 350 studies suggests that the protein boom may be overselling what many people actually need. Eating less protein appears to improve metabolism, reduce inflammation and cellular damage, and activate pathways…",
+          "summary": "Vanderbilt researchers created the first selective compound designed to inhibit TAOK-1, a poorly understood protein connected to Alzheimer’s disease. They also discovered a second compound that activates the entire TAOK protein family,…",
           "authors": ""
         },
         {
-          "title": "Cancer may be breaking its own DNA to keep growing",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
-          "publishedDate": "Sun, 02 Aug 2026 00:30:42 EDT",
+          "title": "Two deadly flowers could inspire powerful new medicines",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042818.htm",
+          "publishedDate": "Mon, 03 Aug 2026 01:51:39 EDT",
           "source": "sciencedaily.com",
-          "summary": "Cancer cells rely on powerful genetic switches to keep growth genes running at full speed, but that intense activity can damage their own DNA. The resulting breaks are repeatedly repaired, sometimes with small mistakes that allow new…",
+          "summary": "Scientists have figured out how two famously poisonous plants create chemicals with surprising medical potential. After tracking thousands of genes in wolfsbane and larkspur, they identified six enzymes needed to build a complex compound…",
           "authors": ""
         },
         {
-          "title": "Eating one avocado a day may lower heart disease risk",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
-          "publishedDate": "Sat, 01 Aug 2026 08:35:57 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A daily avocado may help lower heart disease risk in adults with obesity by reducing the number of LDL particles circulating in the blood. After six months, participants who ate an avocado each day experienced a decline associated with an…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists may have found a way to prevent statin muscle pain",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260731034152.htm",
-          "publishedDate": "Sat, 01 Aug 2026 08:09:55 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have identified an immune response that may explain why statins cause muscle pain, weakness, and exercise intolerance in some people. The finding could eventually lead to treatments that protect muscles while preserving the…",
-          "authors": ""
+          "title": "STAT+: Senate measure would block Trump plan to politicize federal grants, for now",
+          "url": "https://www.statnews.com/2026/08/02/senate-would-block-white-house-control-over-research-grants/?utm_campaign=rss",
+          "publishedDate": "Sun, 02 Aug 2026 23:55:12 +0000",
+          "source": "statnews.com",
+          "summary": "A White House proposal to subject research grants to political scrutiny meets at least a temporary roadblock in the Senate.",
+          "authors": "John Wilkerson"
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "NeuroSynth: A Biologically Inspired Continual Reinforcement Learning Architecture for Mitigating Catastrophic Forgetting",
+          "url": "https://arxiv.org/abs/2607.28663",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Artificial Intelligence (AI) systems often perform well on isolated tasks but struggle under continual learning conditions, where training on new tasks can overwrite previously acquired knowledge, a failure mode known as catastrophic…",
+          "authors": "Yash Kini"
+        },
+        {
+          "title": "Analysis of Memory-Runtime Trade-offs in Caching Strategies for Genetic Programming Symbolic Regression",
+          "url": "https://arxiv.org/abs/2607.29116",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Genetic Programming Symbolic Regression (GPSR) generates mathematical expressions to model input-output relationships using an evolutionary process. A significant challenge in GPSR lies in the repeated evaluation of entire expressions or…",
+          "authors": "Jiaming Shi, Kei Sen Fong, Mehul Motani"
+        },
+        {
+          "title": "Linear Proposal Operators and Stochastic Search Geometry in SOMA and Differential Evolution",
+          "url": "https://arxiv.org/abs/2607.29228",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Swarm and evolutionary algorithms are usually analyzed as complete procedural systems in which nonlinear selection, replacement, and adaptation obscure simpler structure within candidate generation. This paper introduces an…",
+          "authors": "Vojt\\vech Novák, Ivan Zelinka"
+        },
+        {
+          "title": "SILVA Networks as Structured Implicit Layers and Vector Attractors via Dynamic Interaction Fields",
+          "url": "https://arxiv.org/abs/2607.28989",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Many learning problems require representations that reconcile direct input, nearby structure, and broader context. In implicit neural layers, these influences are usually absorbed into a single fixed-point update, making it hard to…",
+          "authors": "Jose Luis Lima de Jesus Silva"
+        },
+        {
+          "title": "Information Processing by Neuron Populations in the Central Nervous System: A Theory of the Mathematical Structure of Data and Operations",
+          "url": "https://arxiv.org/abs/2309.02332",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "In the mammalian central nervous system, neurons are organized into populations communicating by spike trains propagating along axonal bundles. How such populations encode and transform information is only partially understood. In this…",
+          "authors": "Martin N. P. Nilsson"
+        },
+        {
+          "title": "Statistics of correlations in nonlinear recurrent neural networks",
+          "url": "https://arxiv.org/abs/2510.21742",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The statistics of correlations are central quantities characterizing the collective dynamics of recurrent neural networks. We derive exact expressions for the statistics of correlations of nonlinear recurrent networks in the limit of a…",
+          "authors": "German Mato, Facundo Rigatuso, Gonzalo Torroba"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 4,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
+          "title": "Advancing Brain-Machine Interfaces: High Data Rate Battery-Free Implants",
+          "url": "https://arxiv.org/abs/2607.29150",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Implantable wireless brain-machine interfaces (BMI) encounter significant challenges in miniaturization, power consumption, and high data volume. While systems utilizing high resolution microelectrode arrays offer precision brain readout…",
+          "authors": "Aminolah Hasanvand, Ali Khaleghi, Cyril Beguet, Paul Wanda, Ilangko Balasingham"
         },
         {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
+          "title": "A Configurable Thermal-Dynamic Model for AI Data Center Cooling Load Simulation",
+          "url": "https://arxiv.org/abs/2607.28962",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Cooling demand constitutes a significant and flexible component of AI data center electricity consumption, but time-synchronized measurements are scarce and constant coefficient-of-performance models cannot represent thermal dynamics. This…",
+          "authors": "Cletus Ngwerume, Lang Tong, Chee-Wooi Ten, Yi Hu"
         },
         {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
+          "title": "Geometry-Aware Resource Allocation for Network-Level ISAC Systems",
+          "url": "https://arxiv.org/abs/2607.29060",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Network-level integrated sensing and communication (ISAC) is recognized as a transformative technology for next-generation mobile radio systems. By enabling collaboration among multiple transceivers, network-level ISAC can significantly…",
+          "authors": "Xiao-Yang Wang, Luting Kong, Lei Cao, Yang Liu, Jingheng Zheng, Weiwen Weng, Weiyan Chen, Wenzhi Li, Kaitao Meng, Christos Masouros"
         },
         {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "Artifact detection and localization in single-channel mobile EEG for sleep research using deep learning and attention mechanisms",
+          "url": "https://arxiv.org/abs/2504.08469",
+          "publishedDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Current methods for detecting artifacts in sleep EEG range from threshold-based algorithms to machine learning approaches, yet applications remain limited for single-channel mobile EEG. We propose a convolutional neural network (CNN) model…",
+          "authors": "Khrystyna Semkiv, Jia Zhang, Maria Laura Ferster, Walter Karlen"
         }
       ]
     }
