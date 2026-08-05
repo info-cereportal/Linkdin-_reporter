@@ -1,5 +1,34 @@
 [
   {
+    "generatedAt": "2026-08-05T23:34:15.444Z",
+    "date": "2026-08-05",
+    "topic": "大規模言語モデル(LLM)と学習",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Do VLMs Align Better with Humans than LLMs during Natural Reading?",
+    "paperLink": "https://arxiv.org/abs/2605.28818",
+    "figureUrl": "https://arxiv.org/html/2605.28818/2605.28818v2/overall_framework.png",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、大規模言語モデル(LLM)と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 大規模言語モデル(LLM) × 学習 × 言語処理 × fMRI\n\n> Large language models have become increasingly useful computational models of human language processing, but it remains open whether vision-language learning makes text representations more human-like during natural reading. We address this question by comparing matched LLM and...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Do VLMs Align Better with Humans than LLMs during Natural Reading?\n🔗 https://arxiv.org/abs/2605.28818\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #DeepLearning",
+    "summaryJP": "大規模言語モデル(LLM)と学習 — 数値で示された新事実（神経デコーディング）",
+    "paperAuthors": "Jinzhou Wu, Zhengwu Ma, Jixing Li, Baoping Tang, Zitong Lu",
+    "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
+    "paperId": "2605.28818",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "大規模言語モデル(LLM)",
+      "学習",
+      "言語処理",
+      "fMRI"
+    ],
+    "abstractExcerpt": "Large language models have become increasingly useful computational models of human language processing, but it remains open whether vision-language learning makes text representations more human-like during natural reading. We address…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.28818/2605.28818v2/overall_framework.png",
+      "https://arxiv.org/html/2605.28818/2605.28818v2/saccade_combined_num.png",
+      "https://arxiv.org/html/2605.28818/2605.28818v2/fmri_alignment.png"
+    ]
+  },
+  {
     "generatedAt": "2026-08-04T23:38:10.261Z",
     "date": "2026-08-04",
     "topic": "学習",
@@ -1224,35 +1253,6 @@
       "https://arxiv.org/html/2606.17456/2606.17456v1/x1.png",
       "https://arxiv.org/html/2606.17456/2606.17456v1/x5.png",
       "https://arxiv.org/html/2606.17456/2606.17456v1/x9.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-06-17T00:02:29.704Z",
-    "date": "2026-06-17",
-    "topic": "人工ニューラルネットワークと大規模言語モデル(LLM)",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "OmniMouse: Scaling properties of multi-modal, multi-task Brain Models on 150B Neural Tokens",
-    "paperLink": "https://arxiv.org/abs/2604.18827",
-    "figureUrl": "https://arxiv.org/html/2604.18827/2604.18827v2/figures/fig1_v4.png",
-    "formatted": "人工ニューラルネットワークと大規模言語モデル(LLM)に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 人工ニューラルネットワーク × 大規模言語モデル(LLM) × 視覚野 × 言語処理\n\n📊 注目すべきデータ：\n→ OmniMouse achieves state-of-the-art performance, outperforming specialized baselines across nearly all evaluation regimes.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 OmniMouse: Scaling properties of multi-modal, multi-task Brain Models on 150B Neural Tokens\n🔗 https://arxiv.org/abs/2604.18827\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #BCI",
-    "summaryJP": "人工ニューラルネットワークと大規模言語モデル(LLM) — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
-    "paperAuthors": "Konstantin F. Willeke, Polina Turishcheva, Alex Gilbert, Goirik Chakrabarty, Hasan A. Bedel, Paul G. Fahey, Yongrong Qiu, Marissa A. Weis, Michaela Vystr\\vcilová, Taliah Muhammad, Lydia Ntanavara, Rachel E. Froebe, Kayla Ponder, Zheng Huan Tan, Emin Orhan, Erick Cobos, Sophia Sanborn, Katrin Franke, Fabian H. Sinz, Alexander S. Ecker, Andreas S. Tolias",
-    "publishedDate": "Tue, 16 Jun 2026 00:00:00 -0400",
-    "paperId": "2604.18827",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "人工ニューラルネットワーク",
-      "大規模言語モデル(LLM)",
-      "視覚野",
-      "言語処理"
-    ],
-    "abstractExcerpt": "Scaling data and artificial neural networks has transformed AI, driving breakthroughs in language and vision. Whether similar principles apply to modeling brain activity remains unclear. Here we leveraged a dataset of 3.1 million neurons…",
-    "figureUrls": [
-      "https://arxiv.org/html/2604.18827/2604.18827v2/figures/fig1_v4.png",
-      "https://arxiv.org/html/2604.18827/2604.18827v2/figures/Fig_Data_updated_neurons.png",
-      "https://arxiv.org/html/2604.18827/2604.18827v2/figures/model_schematic_v5.png"
     ]
   }
 ]

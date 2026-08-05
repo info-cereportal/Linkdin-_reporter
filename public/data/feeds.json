@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T23:38:11.042Z",
+  "generatedAt": "2026-08-05T23:34:16.065Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Mechanistic bridges from receptors to whole-brain dynamics: mean-field reductions, validity domains, and computational trade-offs",
-          "url": "https://arxiv.org/abs/2608.00306",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "title": "Detecting high-frequency brain disorder signals using dynamic mode decomposition from EEG",
+          "url": "https://arxiv.org/abs/2608.02804",
+          "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Many pharmacological and pathological mechanisms act at molecular, synaptic, or cellular scales, whereas the resulting phenomena of interest are often measured at the level of cortical populations and whole-brain recordings. This scale gap…",
-          "authors": "Yannael Bossard, Lehna Bekri, Alain Destexhe"
+          "summary": "Recent studies have reported clearly identifiable dynamical changes in the high-frequency range of EEG signals recorded during specific stimuli, such as visual or auditory inputs, or in cases of brain disorders like epileptic seizures. In…",
+          "authors": "Jacob Kang, Jong-Hyeon Seo"
         },
         {
-          "title": "Recursive Gaussian Processes and the Bayesian Brain",
-          "url": "https://arxiv.org/abs/2608.00503",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "title": "Persistent homology broadens the controllable subspace in human structural connectomes",
+          "url": "https://arxiv.org/abs/2608.03181",
+          "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Predictive coding offers a powerful framework for cortical computation, yet scalable implementations that respect both Bayesian exactness and neurobiological constraints remain scarce. We bridge this gap by formally connecting predictive…",
-          "authors": "Moumita Das, Dipanjan Ray, Sourabh Bhattacharya"
+          "summary": "Network control theory applied to structural connectomes typically ranks brain regions as candidate driver nodes by their structural connectivity strength, and evaluates performance through scalar control energy. We test whether this…",
+          "authors": "Carter Sale, Marco Coraggio, Mengsen Zhang, Michael J. Richardson"
         },
         {
-          "title": "Data augmentation as a framework for modeling hippocampal contributions to generalization",
-          "url": "https://arxiv.org/abs/2608.01297",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "title": "Predictive Set Theory: A Generative Framework for Cognitive Architecture with Operationalized Core Mechanisms",
+          "url": "https://arxiv.org/abs/2608.02704",
+          "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The hippocampus plays a critical role in generalization, enabling us to flexibly repurpose prior experiences to perform novel tasks. Here we suggest that data augmentation---a machine learning strategy to improve generalization by…",
-          "authors": "Tyler Bonnen, Andrew Kyle Lampinen"
+          "summary": "Predictive processing theories portray the brain as a hierarchical prediction engine that minimizes prediction error, yet they lack operational definitions for the structure of a \"prediction,\" the standardized response to a prediction…",
+          "authors": "Yiyang Yu"
         },
         {
-          "title": "NeuroWorld: A Latent Brain World Model for Stimulus-Conditioned Human Brain Dynamics",
-          "url": "https://arxiv.org/abs/2608.01773",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "title": "Modelling temporal dynamics of suicidal ideation and behaviour across pre- to early adolescence using a Markov framework",
+          "url": "https://arxiv.org/abs/2608.02896",
+          "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Forecasting human brain activity during naturalistic experience requires modeling how endogenous neural states evolve causally under continuous sensory drive. Existing brain encoding models instead frame this as stimulus-to-response…",
-          "authors": "Zijian Dong, Jianxiong Zhou, Kwun Kei Ng, Jan Paolo Macapinlac Balagtas, Zhizhou Li, Zijiao Chen, Juan Helen Zhou"
+          "summary": "Understanding the dynamics of suicidal ideation and behaviour in youth and the factors associated with transitions from thoughts to behaviours is critical for early identification, monitoring, and prevention. Using longitudinal self-report…",
+          "authors": "Sieun Lee, Ben Cardoen, Marianne Etherson, Nitish Jawahar, Ellen Townsend, Kapil Sayal, Peter Fonagy, Aja Murray, Joanna Lockwood, Ayan Mahamud, Chris Hollis, Rory O'Connor, Dorothee Auer"
         },
         {
-          "title": "Divisive Normalization Shapes Low-Rank Slow Manifolds for Continuous Working Memory",
-          "url": "https://arxiv.org/abs/2608.01947",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "title": "A Landau-Ginzburg Phenomenology of Sleep-Stage Transitions",
+          "url": "https://arxiv.org/abs/2608.03000",
+          "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The ability to robustly maintain and update continuous variables is a hallmark of working memory. While classical continuous attractor networks suffer from severe fine-tuning fragility, standard artificial recurrent neural networks (RNNs)…",
-          "authors": "Zhaotian Gu, Jie Su, Weiwei Wang, Chang Liu, Tianyi Qian, Dahui Wang"
+          "summary": "Sleep staging provides a reproducible clinical description, but it does not by itself explain why some boundaries are abrupt while others are graded, or why transition windows contain instability, synchrony, and apparent state coexistence.…",
+          "authors": "Alexander Poltorak"
         },
         {
-          "title": "Dynamical principles of habituation across substrates and scales",
-          "url": "https://arxiv.org/abs/2608.00249",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "title": "MIMIC-MJX: Neuromechanical Emulation of Animal Behavior",
+          "url": "https://arxiv.org/abs/2511.20532",
+          "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Habituation is a basic form of learning in which a system's response to repeated stimulation progressively diminishes but eventually recovers when the stimulus is withheld. Long studied in animals, it has increasingly been observed in…",
-          "authors": "Matthew Smart, Stanislav Y. Shvartsman, Martin Mönnigmann"
+          "summary": "The primary output of the nervous system is movement and behavior. While recent advances have democratized pose tracking during complex behavior, kinematic trajectories alone provide only indirect access to the underlying control…",
+          "authors": "Charles Y. Zhang (Harvard University), Yuanjia Yang (Salk Institute for Biological Studies), Aidan Sirbu (Mila), Elliott T. T. Abe (University of Washington), Emil Wärnberg (Harvard University), Eric J. Leonardis (Salk Institute for Biological Studies), Diego E. Aldarondo (Harvard University), Adam Lee (Harvard University), Aaditya Prasad (Massachusetts Institute of Technology), Jason Foat (Salk Institute for Biological Studies), Kaiwen Bian (Salk Institute for Biological Studies), Joshua Park (Salk Institute for Biological Studies), Rusham Bhatt (Salk Institute for Biological Studies), Vyom N. Patel (Neuromatch), Hutton Saunders (Salk Institute for Biological Studies), Austin O. Barbano (Salk Institute for Biological Studies), Akira Nagamori (Salk Institute for Biological Studies), Ayesha R. Thanawalla (Salk Institute for Biological Studies), Kee Wui Huang (Salk Institute for Biological Studies), Fabian Plum (Imperial College London), Hendrik K. Beck (Imperial College London), Steven W. Flavell (Massachusetts Institute of Technology), David Labonte (Imperial College London), Blake A. Richards (Mila), Bingni W. Brunton (University of Washington), Eiman Azim (Salk Institute for Biological Studies), Bence P. Ölveczky (Harvard University), Talmo D. Pereira (Salk Institute for Biological Studies)"
         }
       ]
     },
@@ -62,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Erica Schwartz confirmed as CDC director, filling nearly yearlong vacancy",
+          "url": "https://www.statnews.com/2026/08/05/senate-confirms-dr-erica-schwartz-new-cdc-director/?utm_campaign=rss",
+          "publishedDate": "Wed, 05 Aug 2026 19:08:33 +0000",
+          "source": "statnews.com",
+          "summary": "Now confirmed, Erica Schwartz is the third CDC nominee since Trump took office for his second term.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "STAT+: Could poop pills be the next treatment for food allergies?",
+          "url": "https://www.statnews.com/2026/08/05/fecal-microbiome-transplant-for-peanut-food-allergy/?utm_campaign=rss",
+          "publishedDate": "Wed, 05 Aug 2026 18:10:02 +0000",
+          "source": "statnews.com",
+          "summary": "Some participants in a small trial showed improved tolerance to peanuts after fecal microbiome transplant.",
+          "authors": "Lauren Chan"
+        },
+        {
+          "title": "The main therapy used for children with autism faces changes under Medicaid",
+          "url": "https://www.statnews.com/2026/08/05/health-news-aba-therapy-for-children-with-autism-faces-changes-under-medicaid/?utm_campaign=rss",
+          "publishedDate": "Wed, 05 Aug 2026 11:55:27 +0000",
+          "source": "statnews.com",
+          "summary": "Quid-pro-quo vaping policies, ebola vaccine efforts, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "MRI is standard for diagnosing prostate cancer in most western countries. But most U.S. men don’t get them",
+          "url": "https://www.statnews.com/2026/08/05/prostate-cancer-screening-biopsy-vs-mri-debate/?utm_campaign=rss",
+          "publishedDate": "Wed, 05 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Pre-biopsy MRI is standard outside the U.S., but the latest data show such scans were done in only about a third of U.S. prostate cancer cases in 2022.",
+          "authors": "Annalisa Merelli"
+        },
         {
           "title": "Ebola kills 1,700 in eastern Congo as the fastest-growing outbreak surges",
           "url": "https://www.statnews.com/2026/08/04/ebola-1700-deaths-eastern-congo-fastest-growing-outbreak/?utm_campaign=rss",
@@ -77,38 +109,6 @@
           "source": "statnews.com",
           "summary": "Expanded retatrutide access, the cost of the 2025 measles outbreak, and more health news from Morning Rounds",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: As Trump administration pushes court-ordered mental health care, a new report raises questions",
-          "url": "https://www.statnews.com/2026/08/04/new-report-questions-new-york-program-court-ordered-mental-healthcare/?utm_campaign=rss",
-          "publishedDate": "Tue, 04 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "A study of New York’s court-ordered care for people with serious mental health conditions adds to the research on this type of involuntary care.",
-          "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "STAT+: Kennedy and Oz call Medicaid cuts ‘myths.’ It’s more complicated than that",
-          "url": "https://www.statnews.com/2026/08/04/rfk-medicaid-cuts-myth-analysis/?utm_campaign=rss",
-          "publishedDate": "Tue, 04 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Kennedy and Oz say Medicaid isn't being cut. But state Medicaid directors say new policies are likely to cause many people to lose coverage.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: Eli Lilly to allow more patients to apply for special access to unapproved obesity drug",
-          "url": "https://www.statnews.com/2026/08/03/eli-lilly-retatrutide-mystery-patient-doctors-seek-same-access-their-patients/?utm_campaign=rss",
-          "publishedDate": "Mon, 03 Aug 2026 17:27:38 +0000",
-          "source": "statnews.com",
-          "summary": "Doctors are asking how to get retatrutide for their patients, after Eli Lilly gave one man early access.",
-          "authors": "Lizzy Lawrence and Elaine Chen"
-        },
-        {
-          "title": "Michigan reports the first 2 U.S. deaths related to a diarrhea-causing parasite",
-          "url": "https://www.statnews.com/2026/08/03/cyclospora-outbreak-two-fatalities-reported-michigan/?utm_campaign=rss",
-          "publishedDate": "Mon, 03 Aug 2026 16:59:11 +0000",
-          "source": "statnews.com",
-          "summary": "Two people have died in the cyclospora outbreak in Michigan in the first confirmed deaths in the U.S. related to the microscopic parasite, state health officials announced.",
-          "authors": "Associated Press"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Federal regulators invite industry, researchers, and lobbyists to closed-door meetings on clinical AI",
+          "url": "https://www.statnews.com/2026/08/05/federal-regulators-invite-industry-closed-door-meetings-clinical-ai/?utm_campaign=rss",
+          "publishedDate": "Wed, 05 Aug 2026 20:05:08 +0000",
+          "source": "statnews.com",
+          "summary": "Federal health officials invited tech companies and lobbyists to closed-door meetings as they seek to boost adoption of clinical AI.",
+          "authors": "Mario Aguilar"
+        },
+        {
+          "title": "Erica Schwartz confirmed as CDC director, filling nearly yearlong vacancy",
+          "url": "https://www.statnews.com/2026/08/05/senate-confirms-dr-erica-schwartz-new-cdc-director/?utm_campaign=rss",
+          "publishedDate": "Wed, 05 Aug 2026 19:08:33 +0000",
+          "source": "statnews.com",
+          "summary": "Now confirmed, Erica Schwartz is the third CDC nominee since Trump took office for his second term.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "Sitting up straight may improve your mood and decision-making",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034624.htm",
+          "publishedDate": "Wed, 05 Aug 2026 08:38:27 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A simple change in posture may subtly affect how people feel and make decisions. Participants who sat upright reported greater feelings of pride and took more successful risks in a virtual balloon game than those who hunched over. Most did…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: Exemption of rare disease therapies in drug-pricing pilots would wipe out huge savings, analysis finds",
+          "url": "https://www.statnews.com/2026/08/05/cms-drug-pricing-pilot-programs-rare-disease-drugs/?utm_campaign=rss",
+          "publishedDate": "Wed, 05 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Excluding rare disease therapies from a Medicare pilot program to lower drug prices would wipe out much of the savings from retail drugs, according to new research.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Stanford scientists discover immune cells that explode like microscopic bombs",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm",
+          "publishedDate": "Wed, 05 Aug 2026 01:10:52 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Stanford researchers discovered immune cells in flatworms that explode within minutes, killing nearby bacteria and foreign cells before vanishing completely. Their unusually fast and localized attack could offer clues for developing…",
+          "authors": ""
+        },
+        {
           "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
           "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
           "publishedDate": "Tue, 04 Aug 2026 09:33:37 EDT",
           "source": "sciencedaily.com",
           "summary": "A specially engineered chewing gum reduced HPV by up to 93% and nearly eliminated two bacteria linked to head and neck cancer. The treatment preserved beneficial mouth bacteria, raising hopes for a safer and more affordable therapy.",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Kennedy and Oz call Medicaid cuts ‘myths.’ It’s more complicated than that",
-          "url": "https://www.statnews.com/2026/08/04/rfk-medicaid-cuts-myth-analysis/?utm_campaign=rss",
-          "publishedDate": "Tue, 04 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Kennedy and Oz say Medicaid isn't being cut. But state Medicaid directors say new policies are likely to cause many people to lose coverage.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "A common sugar may help cancer cells break free and spread",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260802223426.htm",
-          "publishedDate": "Tue, 04 Aug 2026 01:15:18 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Chemotherapy-surviving ovarian cancer cells may release fructose to help neighboring tumor cells loosen, escape, and spread. The discovery suggests that sugary diets and cholesterol-lowering drugs could influence cancer progression, though…",
-          "authors": ""
-        },
-        {
-          "title": "Your brain may be wired to regain lost weight",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
-          "publishedDate": "Mon, 03 Aug 2026 23:38:28 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger hunger, cravings, and lower energy use…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Eli Lilly to allow more patients to apply for special access to unapproved obesity drug",
-          "url": "https://www.statnews.com/2026/08/03/eli-lilly-retatrutide-mystery-patient-doctors-seek-same-access-their-patients/?utm_campaign=rss",
-          "publishedDate": "Mon, 03 Aug 2026 17:27:38 +0000",
-          "source": "statnews.com",
-          "summary": "Doctors are asking how to get retatrutide for their patients, after Eli Lilly gave one man early access.",
-          "authors": "Lizzy Lawrence and Elaine Chen"
-        },
-        {
-          "title": "A simple supplement could help the immune system fight cancer and viruses",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm",
-          "publishedDate": "Mon, 03 Aug 2026 09:38:04 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Low arginine levels may allow cancer cells and viruses to slip past the immune system by reducing production of a crucial cellular warning protein. In mice, arginine-rich diets led to fewer colon tumors and milder viral infections,…",
           "authors": ""
         }
       ]
@@ -173,107 +173,67 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "SDDMO-Bench: A Benchmark Suite for Streaming Data-Driven Dynamic Multi-Objective Optimization",
-          "url": "https://arxiv.org/abs/2608.00474",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "title": "NeuroMosaic: Anatomically Grounded Multimodal Large Language Modeling for Molecularly Aware Glioma Reasoning from 3D MRI and Clinical Narratives",
+          "url": "https://arxiv.org/abs/2608.03187",
+          "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Streaming data-driven dynamic multi-objective optimization requires algorithms to track time-varying Pareto fronts using only sequential observations under concept drift. However, systematic evaluation remains difficult because real-world…",
-          "authors": "Wenjie Xiao, Hui Bai, Junhao Chen"
+          "summary": "Multimodal medical large language models remain structurally weak for neuro-oncology because volumetric evidence is compressed into generic visual tokens and diagnostic conclusions often lack an auditable link to MRI regions. We present…",
+          "authors": "Yantong Liu, Zheyu Zhang, Runpeng Liu, Mu Xitang, Seong-Yoon Shin, Hyun-Ae Lee"
         },
         {
-          "title": "SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks",
-          "url": "https://arxiv.org/abs/2608.01622",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "title": "Impacts of Single-objective Landscapes on Multi-objective Optimization",
+          "url": "https://arxiv.org/abs/2608.03266",
+          "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking Neural Networks (SNNs) enable event-driven computation with sparse activations, but building multimodal Transformers on SNNs is hindered by unstable training in deep spiking stacks and the mismatch between dense softmax attention…",
-          "authors": "Xiubo Liang, Jinxing Han, Yuke Li, Haoqi Zhu, Yu Zhao, Hongzhi Wang"
+          "summary": "This work revealed a relationship between a multi-objective optimization problem and single-objective optimization problems that exist in the multi-objective problem. This work focused on combinatorial problems and investigated the…",
+          "authors": "Shoichiro Tanaka, Keiki Takadama, Hiroyuki Sato"
         },
         {
-          "title": "Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition",
-          "url": "https://arxiv.org/abs/2608.01646",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "title": "MuEvo: LLM-Driven Evolution of Multi-Heuristic Ensemble",
+          "url": "https://arxiv.org/abs/2608.03636",
+          "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Handwritten Text Recognition (HTR) is computationally imbalanced in two ways: most image pixels are background, and many width-axis sequence positions are blank-dominated. This creates a mismatch for Spiking Neural Networks (SNNs):…",
-          "authors": "Xiubo Liang, Jinxing Han, Yuke Li, Haoqi Zhu, Yu Zhao, Hongzhi Wang"
+          "summary": "Large language model-based automated heuristic design (LLM-AHD) has shown strong potential in discovering effective heuristics for combinatorial optimization problems. However, existing methods primarily optimize a single heuristic,…",
+          "authors": "Haoze Lv, Ning Lu, Shengcai Liu, Shaofeng Zhang, Ke Tang"
         },
         {
-          "title": "An Evolutionary Algorithm Assisted by an Ensemble of Pareto-Optimal Surrogate Models",
-          "url": "https://arxiv.org/abs/2608.01777",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "title": "Self-Organising Digital Circuits",
+          "url": "https://arxiv.org/abs/2608.02606",
+          "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "An ensemble of surrogate models helps improve the prediction quality and robustness of surrogate models, and in turn, the search performance of surrogate-assisted evolutionary algorithms (SAEAs). Although different degrees of smoothness of…",
-          "authors": "Kei Nishihara, Yaochu Jin, Masaya Nakata"
+          "summary": "Fault tolerance in classical computing has traditionally relied on static strategies like hardware redundancy and error-correcting codes. Biological systems, in contrast, exhibit adaptive plasticity, maintaining function through dynamic…",
+          "authors": "Marcello Barylli, Gabriel Béna, Alexander Mordvintsev, Eleni Nisioti, Sebastian Risi"
         },
         {
-          "title": "Towards Autonomous Formulaic Alpha Discovery: An Evolutionary Computation Perspective",
-          "url": "https://arxiv.org/abs/2608.01789",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "title": "BBOWP-Bench: Evaluating LLMs on Black-Box Optimization Word Problems",
+          "url": "https://arxiv.org/abs/2608.02612",
+          "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Automated formulaic alpha discovery aims to generate predictive and interpretable trading signals from large symbolic factor spaces. Its effectiveness is constrained by noisy fitness estimates, market nonstationarity, costly backtesting,…",
-          "authors": "Xinwei Yu, Yiyang Fu, Mingcheng Fan, Enqi Li, Yilin Gao, Shugong Xu"
+          "summary": "Formulating an optimization problem strongly affects the quality of the final solution, yet good formulations usually require substantial expertise. Recent studies have therefore examined how to automatically derive optimization problems…",
+          "authors": "Yutaro Yamada, Kei Hiroshima, Nozomu Yoshinari, Kento Uchida, Shinichi Shirakawa"
         },
         {
-          "title": "DGA$_2$D: Directed Graph-Guided Automated Algorithm Design with Large Language Models",
-          "url": "https://arxiv.org/abs/2608.00700",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "title": "AS-FedBridge: Pseudo-Spike Bridge Distillation for Heterogeneous ANN-SNN Federated Learning",
+          "url": "https://arxiv.org/abs/2608.03324",
+          "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The rapid development of Large Language Models (LLMs) has opened new avenues for Automated Heuristic Design (AHD) for solving NP-hard combinatorial optimization problems (COPs). However, existing LLM-driven AHD methods are largely confined…",
-          "authors": "Jiale Zhao, Zimu Chen, Sirui Mao, Wentao Yang, Yuxiang Bai, Liyuanjun Lai"
+          "summary": "Federated learning enables collaborative model training across distributed edge devices while strictly preserving data privacy. To facilitate practical deployment on resource-constrained edge devices, Spiking Neural Networks (SNNs) have…",
+          "authors": "Shengyang Li, Yiting Dong, Liuyang Song, Ximing Wang, Luyuan Xie, Cong Li, Qingni Shen, Zhaofei Yu"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 1,
       "items": [
         {
-          "title": "Not All EEG Moments Are Equal: Position-Adaptive Time Scheduling for EEG Generation",
-          "url": "https://arxiv.org/abs/2608.00048",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "title": "Detecting high-frequency brain disorder signals using dynamic mode decomposition from EEG",
+          "url": "https://arxiv.org/abs/2608.02804",
+          "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Electroencephalography (EEG) generation is essential for alleviating data scarcity and enabling large scale neural modeling in brain computer interface applications. However, existing flow based approaches assume that every channel and…",
-          "authors": "Boheng Liu, Ziyu Li, Chenghua Duan, Qing Li, Xia Wu"
-        },
-        {
-          "title": "Fast Generation of Representative Synthetic Dataset with Salsa to Train ATR Models with Electromagnetic Couplings Data-Augmentation",
-          "url": "https://arxiv.org/abs/2608.00037",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This work focuses on training Automatic Target Recognition (ATR) models using simulated Synthetic Aperture Radar (SAR) images to circumvent the lack of real measurements. To obtain robust and versatile ATR models, simulation needs to…",
-          "authors": "Benjamin Camus (DGA.MI), Julien Houssay (DGA.MI), Corentin Le Barbu (DGA.MI), Eric Monteux (DGA.MI), Cédric Saleun (DGA.MI), Jean-Christophe Louvigné (DGA.MI)"
-        },
-        {
-          "title": "Multimodal Wearable-Based Olfactory-Induced Emotion Recognition in Arousal-Valence Dimensions",
-          "url": "https://arxiv.org/abs/2608.00043",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Olfaction is important for emotion regulation because it acts as a non-intrusive and cognitively lightweight pathway that directly engages the brain s affective circuitry and achieves unobtrusive emotional modulation. This trait is…",
-          "authors": "Chen-Yang Xu, Lan Zhang, Fei-Yi Fan, Bin Hu, Qing-Hao Meng"
-        },
-        {
-          "title": "EEG-JEPA: Structured Latent Prediction for EEG Foundation Models",
-          "url": "https://arxiv.org/abs/2608.00114",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Electroencephalography (EEG) foundation models aim to learn reusable representations from large-scale unlabeled recordings. A common pretraining strategy is masked waveform reconstruction, but applying supervision directly to noisy EEG may…",
-          "authors": "Jinhao Li, Zhiyuan Ma, Xueqiao Han, Zhongye Xia, Xinche Zhang, Shanghong Xie, Yixuan Liu, Yongjian Li, Runmin Gan, Tianlin Huo, Sen Song"
-        },
-        {
-          "title": "Normal-Anchored First-Order Model-Agnostic Meta-Learning based Whisper Fine-Tuning for Enhancing Fairness of Cleft Lip and Palate Speech Recognition",
-          "url": "https://arxiv.org/abs/2608.00186",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Automatic speech recognition (ASR) for cleft lip and palate (CLP) speech is difficult because acoustic and articulatory patterns vary across severity levels. This variability reduces the performance of pretrained ASR systems, and…",
-          "authors": "Susmita Bhattacharjee, Jagabandhu Mishra, H. S. Shekhawat, Ravi Jasuja, S. R. Mahadeva Prasanna"
-        },
-        {
-          "title": "Spatially Reconfigurable Antenna Systems for 6G: EM-based Channel Modeling, Measurements, and Orientation Design",
-          "url": "https://arxiv.org/abs/2608.00620",
-          "publishedDate": "Tue, 04 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Spatially reconfigurable antenna systems (SRASs) are recognized as a key physical-layer technology for sixth-generation (6G) systems. By dynamically adjusting each antenna element's spatial configuration, e.g., position and orientation,…",
-          "authors": "Chen Xu, Yizhu Yan, Gengbo Wu, Shu Sun, Xianghao Yu"
+          "summary": "Recent studies have reported clearly identifiable dynamical changes in the high-frequency range of EEG signals recorded during specific stimuli, such as visual or auditory inputs, or in cases of brain disorders like epileptic seizures. In…",
+          "authors": "Jacob Kang, Jong-Hyeon Seo"
         }
       ]
     }
