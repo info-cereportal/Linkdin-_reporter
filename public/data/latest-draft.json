@@ -1,29 +1,26 @@
 {
-  "generatedAt": "2026-08-05T23:34:15.444Z",
-  "date": "2026-08-05",
-  "topic": "大規模言語モデル(LLM)と学習",
-  "templateName": "data-driven",
+  "generatedAt": "2026-08-07T01:37:12.476Z",
+  "date": "2026-08-07",
+  "topic": "EEG",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Do VLMs Align Better with Humans than LLMs during Natural Reading?",
-  "paperLink": "https://arxiv.org/abs/2605.28818",
-  "figureUrl": "https://arxiv.org/html/2605.28818/2605.28818v2/overall_framework.png",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、大規模言語モデル(LLM)と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 大規模言語モデル(LLM) × 学習 × 言語処理 × fMRI\n\n> Large language models have become increasingly useful computational models of human language processing, but it remains open whether vision-language learning makes text representations more human-like during natural reading. We address this question by comparing matched LLM and...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Do VLMs Align Better with Humans than LLMs during Natural Reading?\n🔗 https://arxiv.org/abs/2605.28818\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #DeepLearning",
-  "summaryJP": "大規模言語モデル(LLM)と学習 — 数値で示された新事実（神経デコーディング）",
-  "paperAuthors": "Jinzhou Wu, Zhengwu Ma, Jixing Li, Baoping Tang, Zitong Lu",
-  "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
-  "paperId": "2605.28818",
+  "paperTitle": "Leakage-Audited Benchmarking Reveals Limited Evidence for Cross-Subject Auditory-Evoked EEG Vowel Perception Decoding",
+  "paperLink": "https://arxiv.org/abs/2605.00865",
+  "figureUrl": "https://arxiv.org/html/2605.00865/2605.00865v2/x1.png",
+  "formatted": "研究者もエンジニアも、この論文は必読です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nEEGの最新研究です。\n\n🔬 EEG\n\n📊 注目すべきデータ：\n→ Random Forest was numerically highest at 21.474% balanced accuracy (95% participant-bootstrap interval, 19.526-23.482%; chance, 20%), but neither its participant-level tests nor...\n→ In a separate descriptive sensor-space representation, participant-associated effects accounted for 72.24% of the balanced standardized centroid sum of squares, compared with...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Leakage-Audited Benchmarking Reveals Limited Evidence for Cross-Subject Auditory-Evoked EEG Vowel Perception Decoding\n🔗 https://arxiv.org/abs/2605.00865\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #ニューロテック",
+  "summaryJP": "EEG — 次世代へ続く布石（神経デコーディング）",
+  "paperAuthors": "Xiaoyang Li, Zeyan Tao",
+  "publishedDate": "Thu, 06 Aug 2026 00:00:00 -0400",
+  "paperId": "2605.00865",
   "paperSource": "arxiv",
   "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "大規模言語モデル(LLM)",
-    "学習",
-    "言語処理",
-    "fMRI"
+    "EEG"
   ],
-  "abstractExcerpt": "Large language models have become increasingly useful computational models of human language processing, but it remains open whether vision-language learning makes text representations more human-like during natural reading. We address…",
+  "abstractExcerpt": "We tested whether auditory-evoked EEG supports subject-independent five-vowel perception decoding when trial identity, model identity, prediction provenance, and participant-level inference are controlled within a single benchmark. We…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.28818/2605.28818v2/overall_framework.png",
-    "https://arxiv.org/html/2605.28818/2605.28818v2/saccade_combined_num.png",
-    "https://arxiv.org/html/2605.28818/2605.28818v2/fmri_alignment.png"
+    "https://arxiv.org/html/2605.00865/2605.00865v2/x1.png",
+    "https://arxiv.org/html/2605.00865/2605.00865v2/x2.png",
+    "https://arxiv.org/html/2605.00865/2605.00865v2/x3.png"
   ]
 }
