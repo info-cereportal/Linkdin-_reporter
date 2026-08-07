@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-08-07T01:37:12.476Z",
+  "generatedAt": "2026-08-07T23:15:05.059Z",
   "date": "2026-08-07",
-  "topic": "EEG",
+  "topic": "学習と生物学的妥当性",
   "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Leakage-Audited Benchmarking Reveals Limited Evidence for Cross-Subject Auditory-Evoked EEG Vowel Perception Decoding",
-  "paperLink": "https://arxiv.org/abs/2605.00865",
-  "figureUrl": "https://arxiv.org/html/2605.00865/2605.00865v2/x1.png",
-  "formatted": "研究者もエンジニアも、この論文は必読です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nEEGの最新研究です。\n\n🔬 EEG\n\n📊 注目すべきデータ：\n→ Random Forest was numerically highest at 21.474% balanced accuracy (95% participant-bootstrap interval, 19.526-23.482%; chance, 20%), but neither its participant-level tests nor...\n→ In a separate descriptive sensor-space representation, participant-associated effects accounted for 72.24% of the balanced standardized centroid sum of squares, compared with...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Leakage-Audited Benchmarking Reveals Limited Evidence for Cross-Subject Auditory-Evoked EEG Vowel Perception Decoding\n🔗 https://arxiv.org/abs/2605.00865\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #ニューロテック",
-  "summaryJP": "EEG — 次世代へ続く布石（神経デコーディング）",
-  "paperAuthors": "Xiaoyang Li, Zeyan Tao",
-  "publishedDate": "Thu, 06 Aug 2026 00:00:00 -0400",
-  "paperId": "2605.00865",
+  "paperTitle": "From Local Learning to Global Prediction Through Layered Surprise Cascades",
+  "paperLink": "https://arxiv.org/abs/2608.05481",
+  "figureUrl": "https://arxiv.org/html/2608.05481/2608.05481v1/x1.png",
+  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n学習と生物学的妥当性の最新研究です。\n\n🔬 学習 × 生物学的妥当性 × 予測符号化\n\n> Hierarchical predictive coding proposes a compelling hypothesis of brain computation, suggesting that the cortex builds layered predictions to minimize surprise. Yet most models rely on error-coding neurons or generative modeling of unclear biological plausibility.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 From Local Learning to Global Prediction Through Layered Surprise Cascades\n🔗 https://arxiv.org/abs/2608.05481\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #NeuralDecoding",
+  "summaryJP": "学習と生物学的妥当性 — 次世代へ続く布石（ニューロAI・計算論）",
+  "paperAuthors": "Andrew L. Smith, Linxing Preston Jiang, Jason K. Eshraghian, Matthew S. Bull, Stefano Recanatesi",
+  "publishedDate": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "paperId": "2608.05481",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "EEG"
+    "学習",
+    "生物学的妥当性",
+    "予測符号化"
   ],
-  "abstractExcerpt": "We tested whether auditory-evoked EEG supports subject-independent five-vowel perception decoding when trial identity, model identity, prediction provenance, and participant-level inference are controlled within a single benchmark. We…",
+  "abstractExcerpt": "Hierarchical predictive coding proposes a compelling hypothesis of brain computation, suggesting that the cortex builds layered predictions to minimize surprise. Yet most models rely on error-coding neurons or generative modeling of…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.00865/2605.00865v2/x1.png",
-    "https://arxiv.org/html/2605.00865/2605.00865v2/x2.png",
-    "https://arxiv.org/html/2605.00865/2605.00865v2/x3.png"
+    "https://arxiv.org/html/2608.05481/2608.05481v1/x1.png",
+    "https://arxiv.org/html/2608.05481/2608.05481v1/x2.png",
+    "https://arxiv.org/html/2608.05481/2608.05481v1/x3.png"
   ]
 }
