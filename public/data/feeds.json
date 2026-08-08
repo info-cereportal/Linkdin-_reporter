@@ -1,61 +1,12 @@
 {
-  "generatedAt": "2026-08-07T23:15:05.758Z",
+  "generatedAt": "2026-08-08T23:01:15.221Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "The ethics of artificial intelligence in the life sciences: Universality, cultural diversity and an architecture of care",
-          "url": "https://arxiv.org/abs/2608.05436",
-          "publishedDate": "Fri, 07 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The life sciences and health research have started to benefit from artificial intelligence, which raises ethical concerns that are real but, we argue, not special. Any science should be governed by values that rest on how the human brain…",
-          "authors": "Jean-Pierre Changeux, Gustavo Deco, Morten L. Kringelbach"
-        },
-        {
-          "title": "Effective pruning of task-trained recurrent neural networks using noisy fluctuations and connection rescaling",
-          "url": "https://arxiv.org/abs/2608.05464",
-          "publishedDate": "Fri, 07 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The pruning of network connections is key to brain function but, despite its importance, there exist few biologically-plausible pruning rules with demonstrated good performance. In this work we evaluate noise-prune, a recently introduced…",
-          "authors": "Sanjith Senthil, Rishidev Chaudhuri"
-        },
-        {
-          "title": "From Local Learning to Global Prediction Through Layered Surprise Cascades",
-          "url": "https://arxiv.org/abs/2608.05481",
-          "publishedDate": "Fri, 07 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Hierarchical predictive coding proposes a compelling hypothesis of brain computation, suggesting that the cortex builds layered predictions to minimize surprise. Yet most models rely on error-coding neurons or generative modeling of…",
-          "authors": "Andrew L. Smith, Linxing Preston Jiang, Jason K. Eshraghian, Matthew S. Bull, Stefano Recanatesi"
-        },
-        {
-          "title": "Transcutaneous Spinal Cord Stimulation Disrupts Conscious Ankle Proprioception and Produces a More Constrained Locomotor Pattern in Unimpaired Adults",
-          "url": "https://arxiv.org/abs/2608.05635",
-          "publishedDate": "Fri, 07 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Transcutaneous spinal cord stimulation (tSCS) modulates spinal sensorimotor circuits primarily through activation of afferent networks. While prior work has emphasized locomotor performance and spinal excitability, how tSCS affects…",
-          "authors": "Christopher A. Johnson, Andria J. Farrens, Parastoo Ali Pour, Arjan Gillan, Hui Zhong, David J. Reinkensmeyer, Alexandra S. Voloshina"
-        },
-        {
-          "title": "Complexity and Stability of Neural Activity Across Aging and Neurodegenerative Disease",
-          "url": "https://arxiv.org/abs/2608.05882",
-          "publishedDate": "Fri, 07 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Objective: EEG signals fluctuate continuously even within a fixed cognitive state, but an important question is whether the brain still reuses similar activity patterns to represent information over time. Methods: To address this, we model…",
-          "authors": "Junjie Yu, Jianyu Zhang, Zian Pei, Xue Shi, Yumei Liu, Xin Jiang, Quanying Liu, Yi Guo"
-        },
-        {
-          "title": "Convergent Evolution in Algorithmic Space",
-          "url": "https://arxiv.org/abs/2608.05985",
-          "publishedDate": "Fri, 07 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "In evolutionary biology, unrelated organisms can independently evolve similar structures when exposed to similar functional demands. Here we ask whether an analogous form of convergent evolution occurs during neural network training: do…",
-          "authors": "Patrick Krauss, Achim Schilling, Andreas Maier, Thomas Kinfe, Henri Stübner, Niklas Römmelt, Claus Metzner"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -118,6 +69,38 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists reveal how much exercise you really need to protect your heart",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260806050724.htm",
+          "publishedDate": "Sat, 08 Aug 2026 09:49:02 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Getting the recommended 150 minutes of moderate-to-vigorous exercise each week may offer only modest protection against heart attacks and strokes. A large study suggests that substantially greater benefits may require roughly 560 to 610…",
+          "authors": ""
+        },
+        {
+          "title": "A protein older than blood circulation could transform cancer immunotherapy",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260806050702.htm",
+          "publishedDate": "Sat, 08 Aug 2026 09:31:21 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A protein that evolved long before the human circulatory system may help unlock stronger cancer treatments. When C3 is produced inside tumors, it blocks immune-suppressing cells and gives immunotherapy a better chance to work. Researchers…",
+          "authors": ""
+        },
+        {
+          "title": "Cutting sweet foods doesn’t curb cravings or improve health",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260807235103.htm",
+          "publishedDate": "Sat, 08 Aug 2026 08:55:19 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Changing how much sweet-tasting food people eat may not change how much they crave or enjoy sweetness after all. In a six-month trial, researchers found that people assigned to high-, low-, or average-sweetness diets showed no meaningful…",
+          "authors": ""
+        },
+        {
+          "title": "Teen cannabis use linked to slower memory and thinking growth",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm",
+          "publishedDate": "Fri, 07 Aug 2026 21:25:25 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Teens who start using cannabis may experience slower growth in memory, attention, language, and processing speed. Their abilities often developed normally at first, then began leveling off while nonusers continued improving. THC appeared…",
+          "authors": ""
+        },
+        {
           "title": "Opinion: Fauci doesn’t have the answers on Covid’s origins. China does",
           "url": "https://www.statnews.com/2026/08/07/fauci-contempt-congress-covid-origins-china/?utm_campaign=rss",
           "publishedDate": "Fri, 07 Aug 2026 17:33:09 +0000",
@@ -132,38 +115,6 @@
           "source": "sciencedaily.com",
           "summary": "Linus Pauling was widely mocked for claiming that vitamin C could fight cancer, especially after trials using vitamin C pills showed no benefit. Researchers now know that intravenous vitamin C reaches vastly higher concentrations and can…",
           "authors": ""
-        },
-        {
-          "title": "New autism therapy shows surprising benefits even in adult mice",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
-          "publishedDate": "Fri, 07 Aug 2026 08:38:30 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Blocking the glycine transporter SLC6A20 restored important brain signaling and improved social, communication, and repetitive behaviors in autism-related mouse models. The treatment also worked in human brain organoids and showed lasting…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
-          "publishedDate": "Fri, 07 Aug 2026 07:18:01 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew…",
-          "authors": ""
-        },
-        {
-          "title": "Opinion: I was in my office when bullets hit the CDC. A year later, the agency remains under attack",
-          "url": "https://www.statnews.com/2026/08/07/cdc-shooting-anniversary-public-health-threats/?utm_campaign=rss",
-          "publishedDate": "Fri, 07 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "“It was briefly more dangerous to sit at a desk in Atlanta than to chase a hemorrhagic fever in the field,” writes Daniel Jernigan.",
-          "authors": "Daniel Jernigan"
-        },
-        {
-          "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm",
-          "publishedDate": "Fri, 07 Aug 2026 03:31:52 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new wearable patch may help people reach REM sleep faster and remain there longer without medication or surgery. In a study of 28 participants, the device shortened the time to REM by 43 minutes and extended it by about 16 minutes.…",
-          "authors": ""
         }
       ]
     },
@@ -175,7 +126,7 @@
         {
           "title": "A Special Point Skeleton Reconstruction Algorithm for Dynamic Multiobjective Optimization",
           "url": "https://arxiv.org/abs/2608.06096",
-          "publishedDate": "Fri, 07 Aug 2026 00:00:00 -0400",
+          "publishedDate": "Sat, 08 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
           "summary": "To address the issue that existing dynamic multi-objective optimization algorithms mainly rely on individual migration or independent special point sampling after environmental changes, while failing to fully exploit the structural…",
           "authors": "GuangXian Gan, MinRong Chen"
@@ -183,7 +134,7 @@
         {
           "title": "Guiding Large Language Models with Genetic Programming-Evolved Heuristic Knowledge for Dynamic Multi-Mode Project Scheduling",
           "url": "https://arxiv.org/abs/2607.27698",
-          "publishedDate": "Fri, 07 Aug 2026 00:00:00 -0400",
+          "publishedDate": "Sat, 08 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
           "summary": "In dynamic multi-mode project scheduling, activities have alternative execution modes and uncertain durations, while precedence relations and limited resources constrain their execution. Heuristic priority rules support fast online…",
           "authors": "Yuan Tian, Yi Mei, Mengjie Zhang"
@@ -191,7 +142,7 @@
         {
           "title": "Safe Evolution with Circuit Anchors",
           "url": "https://arxiv.org/abs/2608.05158",
-          "publishedDate": "Fri, 07 Aug 2026 00:00:00 -0400",
+          "publishedDate": "Sat, 08 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
           "summary": "In biological evolution, unconstrained mutation can lead to catastrophic outcomes: organisms may evolve enhanced capabilities while losing essential functions for survival. Nature's solution is \\textitdevelopmental constraints, where core…",
           "authors": "Yan Liu, Jie Fu, Tsung-Yi Ho"
@@ -199,7 +150,7 @@
         {
           "title": "Quality Diversity for Reliable Data Driven Time-Use Optimization",
           "url": "https://arxiv.org/abs/2608.05230",
-          "publishedDate": "Fri, 07 Aug 2026 00:00:00 -0400",
+          "publishedDate": "Sat, 08 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
           "summary": "The daily allocation of the finite 24-hour time budget is strongly associated with physical, mental, and cognitive health. While predictive models can estimate the relationship between time-use compositions and health outcomes such as body…",
           "authors": "Aneta Neumann, Ty Stanford, Dorothea Dumuid, Frank Neumann"
@@ -207,7 +158,7 @@
         {
           "title": "Effective pruning of task-trained recurrent neural networks using noisy fluctuations and connection rescaling",
           "url": "https://arxiv.org/abs/2608.05464",
-          "publishedDate": "Fri, 07 Aug 2026 00:00:00 -0400",
+          "publishedDate": "Sat, 08 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
           "summary": "The pruning of network connections is key to brain function but, despite its importance, there exist few biologically-plausible pruning rules with demonstrated good performance. In this work we evaluate noise-prune, a recently introduced…",
           "authors": "Sanjith Senthil, Rishidev Chaudhuri"
@@ -215,7 +166,7 @@
         {
           "title": "Relay, Don't Route: Adaptive Population Handoff for Cost-Efficient LLM-Driven Evolution",
           "url": "https://arxiv.org/abs/2608.05651",
-          "publishedDate": "Fri, 07 Aug 2026 00:00:00 -0400",
+          "publishedDate": "Sat, 08 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
           "summary": "Large language model (LLM)-driven evolution has shown promise for program search and algorithm discovery, but relying on strong models throughout long evolutionary runs is costly. A natural alternative is to combine cheap and strong models…",
           "authors": "Sichun Luo, Yi Huang, Guanzhi Deng, Haibo Wang, Haochen Luo, Lei Li, Zefa Hu, Junlan Feng, Qi Liu"
@@ -225,9 +176,57 @@
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
+        },
+        {
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
+        }
+      ]
     }
   }
 }

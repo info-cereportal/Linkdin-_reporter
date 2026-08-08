@@ -1,5 +1,28 @@
 [
   {
+    "generatedAt": "2026-08-08T23:01:14.590Z",
+    "date": "2026-08-08",
+    "topic": "注意機構と意思決定",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Entropy-aware filtering and hierarchical attention: A hybrid neural framework for fine-grained user satisfaction modeling.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42566801/",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n注意機構と意思決定に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 注意機構 × 意思決定 × 情動\n\n📊 注目すべきデータ：\n→ Effectively extracting users' perspectives and emotional dispositions from this massive, heterogeneous text data poses significant challenges.\n→ This paper presents a novel multi-dimensional satisfaction analysis framework that integrates sentiment analysis with fuzzy decision-making.\n→ Extensive experiments on 18,559 user reviews from mobility travel service systems (MTSS) demonstrate that the model outperforms 12 baselines by 1.4%-5.6% across accuracy,...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n認知・意思決定の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Entropy-aware filtering and hierarchical attention: A hybrid neural framework for fine-grained user satisfaction modeling.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42566801/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #ニューロテック",
+    "summaryJP": "注意機構と意思決定 — 脳科学とAIをつなぐ研究（認知・意思決定）",
+    "paperAuthors": "Huiran Liu, Zheng Wang, Zhiming Fang",
+    "publishedDate": "2026-08-07",
+    "paperId": "42566801",
+    "paperSource": "pubmed",
+    "themeArea": "認知・意思決定",
+    "jpKeywords": [
+      "注意機構",
+      "意思決定",
+      "情動"
+    ],
+    "abstractExcerpt": "With the rapid proliferation of internet-based applications, the volume of user-generated reviews has grown dramatically. Effectively extracting users' perspectives and emotional dispositions from this massive, heterogeneous text data…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-08-07T23:15:05.059Z",
     "date": "2026-08-07",
     "topic": "学習と生物学的妥当性",
@@ -1226,30 +1249,6 @@
       "記憶"
     ],
     "abstractExcerpt": "Gastrointestinal (GI) diseases such as polyps, esophagitis, and ulcerative colitis pose significant diagnostic challenges due to subtle visual patterns. Early, accurate, and scalable diagnostic tools are essential for improving outcomes…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-06-19T23:44:34.730Z",
-    "date": "2026-06-19",
-    "topic": "表現学習と学習",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "A Deep Generative Model for Resting-State EEG Synthesis and Transferable Representation Learning",
-    "paperLink": "https://arxiv.org/abs/2503.02636",
-    "formatted": "これを読んで、脳に対する見方が変わりました。\n\nこの研究から得られる3つの重要な示唆。\n\n表現学習と学習の最新成果を整理しました。\n\n🔬 表現学習 × 学習 × EEG × PET\n\n📊 注目すべきデータ：\n→ The representations learned by the model's critic transferred to independent resting-state demographic classification tasks, outperforming models trained directly on raw EEG and...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 A Deep Generative Model for Resting-State EEG Synthesis and Transferable Representation Learning\n🔗 https://arxiv.org/abs/2503.02636\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #計算論的神経科学",
-    "summaryJP": "表現学習と学習 — 注目すべき3つの示唆（神経デコーディング）",
-    "paperAuthors": "Yeganeh Farahzadi, Morteza Ansarinia, Zoltan Kekecs",
-    "publishedDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-    "paperId": "2503.02636",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "表現学習",
-      "学習",
-      "EEG",
-      "PET"
-    ],
-    "abstractExcerpt": "Resting-state EEG provides a non-invasive view of spontaneous brain activity, but extracting meaningful patterns is often limited by scarce high-quality data and reliance on manually engineered features. Generative adversarial networks…",
     "figureUrls": []
   }
 ]
