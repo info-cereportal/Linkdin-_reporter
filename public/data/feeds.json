@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T23:01:15.221Z",
+  "generatedAt": "2026-08-09T23:02:44.334Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,6 +69,38 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Frequent cannabis users wake up with their “stress hormone” already elevated",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260808234953.htm",
+          "publishedDate": "Sun, 09 Aug 2026 08:40:58 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Frequent cannabis users may wake up with unusually high levels of the stress hormone cortisol, suggesting their daily stress rhythms could be disrupted. Researchers say the finding raises questions about whether using cannabis for stress…",
+          "authors": ""
+        },
+        {
+          "title": "For decades, we were told to choose low-fat dairy. New research says otherwise",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260808234948.htm",
+          "publishedDate": "Sun, 09 Aug 2026 08:12:46 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Full-fat dairy may be healthier than conventional advice has suggested. In a 12-week study, adults who ate three servings a day showed no meaningful increases in weight, body fat, cholesterol, or insulin resistance. They also experienced…",
+          "authors": ""
+        },
+        {
+          "title": "Wine, beer, or spirits? Massive study finds a surprising health divide",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260808235008.htm",
+          "publishedDate": "Sun, 09 Aug 2026 03:49:30 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surprising: beer, cider, and spirits were…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists say just 7 days of meditation can rewire your brain",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260807235243.htm",
+          "publishedDate": "Sat, 08 Aug 2026 23:50:35 EDT",
+          "source": "sciencedaily.com",
+          "summary": "An intensive seven-day meditation retreat triggered striking changes across the brain and body, including shifts tied to neuroplasticity, immunity, metabolism, and natural pain relief. Participants also showed brain connectivity patterns…",
+          "authors": ""
+        },
+        {
           "title": "Scientists reveal how much exercise you really need to protect your heart",
           "url": "https://www.sciencedaily.com/releases/2026/08/260806050724.htm",
           "publishedDate": "Sat, 08 Aug 2026 09:49:02 EDT",
@@ -83,95 +115,14 @@
           "source": "sciencedaily.com",
           "summary": "A protein that evolved long before the human circulatory system may help unlock stronger cancer treatments. When C3 is produced inside tumors, it blocks immune-suppressing cells and gives immunotherapy a better chance to work. Researchers…",
           "authors": ""
-        },
-        {
-          "title": "Cutting sweet foods doesn’t curb cravings or improve health",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260807235103.htm",
-          "publishedDate": "Sat, 08 Aug 2026 08:55:19 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Changing how much sweet-tasting food people eat may not change how much they crave or enjoy sweetness after all. In a six-month trial, researchers found that people assigned to high-, low-, or average-sweetness diets showed no meaningful…",
-          "authors": ""
-        },
-        {
-          "title": "Teen cannabis use linked to slower memory and thinking growth",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm",
-          "publishedDate": "Fri, 07 Aug 2026 21:25:25 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Teens who start using cannabis may experience slower growth in memory, attention, language, and processing speed. Their abilities often developed normally at first, then began leveling off while nonusers continued improving. THC appeared…",
-          "authors": ""
-        },
-        {
-          "title": "Opinion: Fauci doesn’t have the answers on Covid’s origins. China does",
-          "url": "https://www.statnews.com/2026/08/07/fauci-contempt-congress-covid-origins-china/?utm_campaign=rss",
-          "publishedDate": "Fri, 07 Aug 2026 17:33:09 +0000",
-          "source": "statnews.com",
-          "summary": "“To blame Fauci for not solving the origin of Covid-19 makes as much sense as blaming a detective in Washington, D.C., for not solving a murder in Wuhan,” writes David&#8230;",
-          "authors": "David J. Hunter"
-        },
-        {
-          "title": "Vitamin C may fight cancer — but not the way scientists once thought",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260806050717.htm",
-          "publishedDate": "Fri, 07 Aug 2026 09:02:16 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Linus Pauling was widely mocked for claiming that vitamin C could fight cancer, especially after trials using vitamin C pills showed no benefit. Researchers now know that intravenous vitamin C reaches vastly higher concentrations and can…",
-          "authors": ""
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "A Special Point Skeleton Reconstruction Algorithm for Dynamic Multiobjective Optimization",
-          "url": "https://arxiv.org/abs/2608.06096",
-          "publishedDate": "Sat, 08 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "To address the issue that existing dynamic multi-objective optimization algorithms mainly rely on individual migration or independent special point sampling after environmental changes, while failing to fully exploit the structural…",
-          "authors": "GuangXian Gan, MinRong Chen"
-        },
-        {
-          "title": "Guiding Large Language Models with Genetic Programming-Evolved Heuristic Knowledge for Dynamic Multi-Mode Project Scheduling",
-          "url": "https://arxiv.org/abs/2607.27698",
-          "publishedDate": "Sat, 08 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "In dynamic multi-mode project scheduling, activities have alternative execution modes and uncertain durations, while precedence relations and limited resources constrain their execution. Heuristic priority rules support fast online…",
-          "authors": "Yuan Tian, Yi Mei, Mengjie Zhang"
-        },
-        {
-          "title": "Safe Evolution with Circuit Anchors",
-          "url": "https://arxiv.org/abs/2608.05158",
-          "publishedDate": "Sat, 08 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "In biological evolution, unconstrained mutation can lead to catastrophic outcomes: organisms may evolve enhanced capabilities while losing essential functions for survival. Nature's solution is \\textitdevelopmental constraints, where core…",
-          "authors": "Yan Liu, Jie Fu, Tsung-Yi Ho"
-        },
-        {
-          "title": "Quality Diversity for Reliable Data Driven Time-Use Optimization",
-          "url": "https://arxiv.org/abs/2608.05230",
-          "publishedDate": "Sat, 08 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The daily allocation of the finite 24-hour time budget is strongly associated with physical, mental, and cognitive health. While predictive models can estimate the relationship between time-use compositions and health outcomes such as body…",
-          "authors": "Aneta Neumann, Ty Stanford, Dorothea Dumuid, Frank Neumann"
-        },
-        {
-          "title": "Effective pruning of task-trained recurrent neural networks using noisy fluctuations and connection rescaling",
-          "url": "https://arxiv.org/abs/2608.05464",
-          "publishedDate": "Sat, 08 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The pruning of network connections is key to brain function but, despite its importance, there exist few biologically-plausible pruning rules with demonstrated good performance. In this work we evaluate noise-prune, a recently introduced…",
-          "authors": "Sanjith Senthil, Rishidev Chaudhuri"
-        },
-        {
-          "title": "Relay, Don't Route: Adaptive Population Handoff for Cost-Efficient LLM-Driven Evolution",
-          "url": "https://arxiv.org/abs/2608.05651",
-          "publishedDate": "Sat, 08 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Large language model (LLM)-driven evolution has shown promise for program search and algorithm discovery, but relying on strong models throughout long evolutionary runs is costly. A natural alternative is to combine cheap and strong models…",
-          "authors": "Sichun Luo, Yi Huang, Guanzhi Deng, Haibo Wang, Haochen Luo, Lei Li, Zefa Hu, Junlan Feng, Qi Liu"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
