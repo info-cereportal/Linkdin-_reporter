@@ -1,5 +1,34 @@
 [
   {
+    "generatedAt": "2026-08-10T23:15:35.747Z",
+    "date": "2026-08-10",
+    "topic": "学習と深層学習",
+    "templateName": "paradigm-shift",
+    "riskScore": 0,
+    "paperTitle": "FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity",
+    "paperLink": "https://arxiv.org/abs/2608.07393",
+    "figureUrl": "https://arxiv.org/html/2608.07393/2608.07393v1/diag_4.png",
+    "formatted": "学習と深層学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 学習 × 深層学習 × 注意機構 × fMRI\n\n📊 注目すべきデータ：\n→ To address this, we propose FedDOSE, a novel framework that explicitly decomposes site differences for analysis of dynamic FC (dFC).\n→ Extensive experiments for diagnosing Autism Spectrum Disorder (ASD) and Attention-Deficit Hyperactivity Disorder (ADHD) on three multi-site resting-state fMRI datasets: ABIDE-I,...\n→ Our results highlight its effectiveness in learning robust representations from multi-site datasets for reliable analysis.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity\n🔗 https://arxiv.org/abs/2608.07393\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #NeuralDecoding",
+    "summaryJP": "学習と深層学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
+    "paperAuthors": "Deepank Girish, Yi Hao Chan, Yubin Zheng, Sukrit Gupta, Jagath C. Rajapakse",
+    "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+    "paperId": "2608.07393",
+    "paperSource": "arxiv",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "学習",
+      "深層学習",
+      "注意機構",
+      "fMRI"
+    ],
+    "abstractExcerpt": "Functional Magnetic Resonance Imaging ( fMRI ) data are often pooled into collaborative multi-site consortia, as deep learning models for analyses require large datasets to generalize well. While Federated Learning (FL) offers a…",
+    "figureUrls": [
+      "https://arxiv.org/html/2608.07393/2608.07393v1/diag_4.png",
+      "https://arxiv.org/html/2608.07393/2608.07393v1/sens_plot_combined.png",
+      "https://arxiv.org/html/2608.07393/2608.07393v1/chord_diagram.png"
+    ]
+  },
+  {
     "generatedAt": "2026-08-09T23:02:43.170Z",
     "date": "2026-08-09",
     "topic": "深層学習と学習",
@@ -1222,31 +1251,6 @@
       "学習"
     ],
     "abstractExcerpt": "Bayesian models of cognition have gained considerable traction in computational neuroscience and psychiatry. Their scopes are now expected to expand rapidly to artificial intelligence, providing general inference frameworks to support…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-06-21T23:54:35.184Z",
-    "date": "2026-06-21",
-    "topic": "学習と畳み込みニューラルネットワーク(CNN)",
-    "templateName": "neuro-ai-bridge",
-    "riskScore": 0,
-    "paperTitle": "A quantum multi-sensor data fusion self-supervised learning framework for IIoT anomaly detection.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42321314/",
-    "formatted": "この研究データ、知らないままでいいですか？\n\n脳科学とAI——その境界線が消えつつある。\n\n学習と畳み込みニューラルネットワーク(CNN)に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習 × 畳み込みニューラルネットワーク(CNN) × 表現学習 × 意思決定\n\n📊 注目すべきデータ：\n→ Experimental results show that the proposed SQ-CNN achieves an 18.62% improvement in AUROC and AUPRC over baseline methods.\n→ A 19.72% reduction in unit energy consumption is also achieved.\n→ In addition, the single-window inference latency is reduced by 13.38%.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 A quantum multi-sensor data fusion self-supervised learning framework for IIoT anomaly detection.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42321314/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #BCI",
-    "summaryJP": "学習と畳み込みニューラルネットワーク(CNN) — 脳科学とAIをつなぐ研究（神経デコーディング）",
-    "paperAuthors": "Yikai Guo, Pengcheng Zhao, Xinchao Wang, Xingjia Wei, Xin Li, Enhui Zhang",
-    "publishedDate": "2026-06-19",
-    "paperId": "42321314",
-    "paperSource": "pubmed",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "学習",
-      "畳み込みニューラルネットワーク(CNN)",
-      "表現学習",
-      "意思決定",
-      "ECoG(皮質脳波)"
-    ],
-    "abstractExcerpt": "Scarce labels, limited edge-node resources, and degraded data quality are common in industrial Internet of Things (IIoT) multivariate time-series anomaly detection. Under these constraints, existing deep anomaly detection models often…",
     "figureUrls": []
   }
 ]

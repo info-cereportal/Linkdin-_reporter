@@ -1,23 +1,29 @@
 {
-  "generatedAt": "2026-08-09T23:02:43.170Z",
-  "date": "2026-08-09",
-  "topic": "深層学習と学習",
-  "templateName": "provocative-question",
+  "generatedAt": "2026-08-10T23:15:35.747Z",
+  "date": "2026-08-10",
+  "topic": "学習と深層学習",
+  "templateName": "paradigm-shift",
   "riskScore": 0,
-  "paperTitle": "Exploration of hepatitis B virus infection dynamics through physics-informed deep learning approach.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42551626/",
-  "formatted": "深層学習と学習について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 深層学習 × 学習 × 注意機構\n\n📊 注目すべきデータ：\n→ To overcome these limitations, a recent extension, known as Disease-Informed Neural Networks (DINNs), has gained attention as a robust framework for parameter estimation.\n→ Additionally, DINNs identify the model parameters that vary significantly across chimpanzees.\n→ A global sensitivity analysis is further performed, and the results indicate that significant parameters are consistent with those detected by DINNs.\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかしニューロAI・計算論の文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Exploration of hepatitis B virus infection dynamics through physics-informed deep learning approach.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42551626/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #BrainComputerInterface",
-  "summaryJP": "深層学習と学習 — 常識への問題提起（ニューロAI・計算論）",
-  "paperAuthors": "Bikram Das, Rupchand Sutradhar, D C Dalal",
-  "publishedDate": "2026-08-08",
-  "paperId": "42551626",
-  "paperSource": "pubmed",
+  "paperTitle": "FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity",
+  "paperLink": "https://arxiv.org/abs/2608.07393",
+  "figureUrl": "https://arxiv.org/html/2608.07393/2608.07393v1/diag_4.png",
+  "formatted": "学習と深層学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 学習 × 深層学習 × 注意機構 × fMRI\n\n📊 注目すべきデータ：\n→ To address this, we propose FedDOSE, a novel framework that explicitly decomposes site differences for analysis of dynamic FC (dFC).\n→ Extensive experiments for diagnosing Autism Spectrum Disorder (ASD) and Attention-Deficit Hyperactivity Disorder (ADHD) on three multi-site resting-state fMRI datasets: ABIDE-I,...\n→ Our results highlight its effectiveness in learning robust representations from multi-site datasets for reliable analysis.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity\n🔗 https://arxiv.org/abs/2608.07393\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #NeuralDecoding",
+  "summaryJP": "学習と深層学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
+  "paperAuthors": "Deepank Girish, Yi Hao Chan, Yubin Zheng, Sukrit Gupta, Jagath C. Rajapakse",
+  "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+  "paperId": "2608.07393",
+  "paperSource": "arxiv",
   "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "深層学習",
     "学習",
-    "注意機構"
+    "深層学習",
+    "注意機構",
+    "fMRI"
   ],
-  "abstractExcerpt": "Accurate forecasting of viral disease outbreaks is crucial for guiding public health responses and preventing widespread loss of life. Recently, Physics-Informed Neural Networks (PINNs) have emerged as a promising framework for capturing…",
-  "figureUrls": []
+  "abstractExcerpt": "Functional Magnetic Resonance Imaging ( fMRI ) data are often pooled into collaborative multi-site consortia, as deep learning models for analyses require large datasets to generalize well. While Federated Learning (FL) offers a…",
+  "figureUrls": [
+    "https://arxiv.org/html/2608.07393/2608.07393v1/diag_4.png",
+    "https://arxiv.org/html/2608.07393/2608.07393v1/sens_plot_combined.png",
+    "https://arxiv.org/html/2608.07393/2608.07393v1/chord_diagram.png"
+  ]
 }

@@ -1,18 +1,67 @@
 {
-  "generatedAt": "2026-08-09T23:02:44.334Z",
+  "generatedAt": "2026-08-10T23:15:37.134Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 4,
+      "items": [
+        {
+          "title": "International Transfer of Stochastic Cortical Self-Reconstruction",
+          "url": "https://arxiv.org/abs/2608.07092",
+          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Stochastic cortical self-reconstruction (SCSR) enables personalized mapping of gray matter atrophy, a hallmark of neurodegenerative disorders such as Alzheimer's disease (AD), onto high-resolution cortical surfaces. Unlike conventional…",
+          "authors": "Fabian Bongratz, Zhizheng Zhuo, Chao Zhang, Yaou Liu, Dennis M. Hedderich, Christian Wachinger"
+        },
+        {
+          "title": "FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity",
+          "url": "https://arxiv.org/abs/2608.07393",
+          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Functional Magnetic Resonance Imaging ( fMRI ) data are often pooled into collaborative multi-site consortia, as deep learning models for analyses require large datasets to generalize well. While Federated Learning (FL) offers a…",
+          "authors": "Deepank Girish, Yi Hao Chan, Yubin Zheng, Sukrit Gupta, Jagath C. Rajapakse"
+        },
+        {
+          "title": "A Physics-Inspired Classical Digital Twin of Cortical Dynamics: A Band-Stratified Metriplectic Port-Hamiltonian Neural Network Learned from Brain-Computer-Interface EEG",
+          "url": "https://arxiv.org/abs/2607.10439",
+          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We present a physics-inspired classical digital twin of brain-computer- interface (BCI) data: a graph neural network constrained to a band-stratified, metriplectic port-Hamiltonian form, with parameters learned from scalp EEG recorded…",
+          "authors": "Dibakar Sigdel"
+        },
+        {
+          "title": "Vector Space of Cycles",
+          "url": "https://arxiv.org/abs/2606.08202",
+          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Most statistical and machine learning methods for directed interactions focus on pairwise effects among variables. Even existing cyclic models represent feedback primarily through node-level dependencies, making large-scale recurrent…",
+          "authors": "Moo K. Chung, Anass B. El-Yaagoubi, Hernando Ombao"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Trump returns to controversial vaccine policy with order questioning childhood schedule",
+          "url": "https://www.statnews.com/2026/08/10/trump-return-to-vaccine-policy-executive-order/?utm_campaign=rss",
+          "publishedDate": "Mon, 10 Aug 2026 19:29:51 +0000",
+          "source": "statnews.com",
+          "summary": "The Trump administration, which had recently avoided public discussions of vaccine policy because of concern around the political repercussions, is changing course.",
+          "authors": "Daniel Payne"
+        },
+        {
+          "title": "FDA to require notice of additives in food supply for the first time",
+          "url": "https://www.statnews.com/2026/08/10/rfk-jr-proposal-fda-gras-rule-generally-recognized-as-safe/?utm_campaign=rss",
+          "publishedDate": "Mon, 10 Aug 2026 15:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "RFK Jr. is claiming a win with a new proposal on the food industry's GRAS loophole; nutrition advocates give mixed reviews.",
+          "authors": "Isabella Cueto and Elizabeth Cooney"
+        },
         {
           "title": "A third clinic settles with DOJ over trans care",
           "url": "https://www.statnews.com/2026/08/07/health-news-a-third-clinic-settles-with-doj-over-trans-care/?utm_campaign=rss",
@@ -44,22 +93,6 @@
           "source": "statnews.com",
           "summary": "Now confirmed, Erica Schwartz is the third CDC nominee since Trump took office for his second term.",
           "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: Could poop pills be the next treatment for food allergies?",
-          "url": "https://www.statnews.com/2026/08/05/fecal-microbiome-transplant-for-peanut-food-allergy/?utm_campaign=rss",
-          "publishedDate": "Wed, 05 Aug 2026 18:10:02 +0000",
-          "source": "statnews.com",
-          "summary": "Some participants in a small trial showed improved tolerance to peanuts after fecal microbiome transplant.",
-          "authors": "Lauren Chan"
-        },
-        {
-          "title": "The main therapy used for children with autism faces changes under Medicaid",
-          "url": "https://www.statnews.com/2026/08/05/health-news-aba-therapy-for-children-with-autism-faces-changes-under-medicaid/?utm_campaign=rss",
-          "publishedDate": "Wed, 05 Aug 2026 11:55:27 +0000",
-          "source": "statnews.com",
-          "summary": "Quid-pro-quo vaping policies, ebola vaccine efforts, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
         }
       ]
     },
@@ -69,51 +102,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Frequent cannabis users wake up with their “stress hormone” already elevated",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260808234953.htm",
-          "publishedDate": "Sun, 09 Aug 2026 08:40:58 EDT",
+          "title": "Trump returns to controversial vaccine policy with order questioning childhood schedule",
+          "url": "https://www.statnews.com/2026/08/10/trump-return-to-vaccine-policy-executive-order/?utm_campaign=rss",
+          "publishedDate": "Mon, 10 Aug 2026 19:29:51 +0000",
+          "source": "statnews.com",
+          "summary": "The Trump administration, which had recently avoided public discussions of vaccine policy because of concern around the political repercussions, is changing course.",
+          "authors": "Daniel Payne"
+        },
+        {
+          "title": "FDA to require notice of additives in food supply for the first time",
+          "url": "https://www.statnews.com/2026/08/10/rfk-jr-proposal-fda-gras-rule-generally-recognized-as-safe/?utm_campaign=rss",
+          "publishedDate": "Mon, 10 Aug 2026 15:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "RFK Jr. is claiming a win with a new proposal on the food industry's GRAS loophole; nutrition advocates give mixed reviews.",
+          "authors": "Isabella Cueto and Elizabeth Cooney"
+        },
+        {
+          "title": "STAT+: Ban prior auth? And hospitals cut jobs",
+          "url": "https://www.statnews.com/2026/08/10/advocate-ban-prior-authorization-340b-limits-impact-on-hospitals/?utm_campaign=rss",
+          "publishedDate": "Mon, 10 Aug 2026 14:52:16 +0000",
+          "source": "statnews.com",
+          "summary": "We examine a call to reform how health insurers do business, and a look at the impact of 340B restrictions.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "New GLP-1 pill delivers up to 12% weight loss in 36 weeks",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm",
+          "publishedDate": "Mon, 10 Aug 2026 10:50:43 EDT",
           "source": "sciencedaily.com",
-          "summary": "Frequent cannabis users may wake up with unusually high levels of the stress hormone cortisol, suggesting their daily stress rhythms could be disrupted. Researchers say the finding raises questions about whether using cannabis for stress…",
+          "summary": "An experimental GLP-1 pill helped people with obesity or overweight lose as much as 12.1% of their body weight in just 36 weeks. Unlike injectable drugs such as Wegovy and Ozempic, aleniglipron is a small molecule that can be taken once…",
           "authors": ""
         },
         {
-          "title": "For decades, we were told to choose low-fat dairy. New research says otherwise",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260808234948.htm",
-          "publishedDate": "Sun, 09 Aug 2026 08:12:46 EDT",
+          "title": "1 in 5 people may carry this hidden genetic heart risk",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260808235011.htm",
+          "publishedDate": "Mon, 10 Aug 2026 09:03:54 EDT",
           "source": "sciencedaily.com",
-          "summary": "Full-fat dairy may be healthier than conventional advice has suggested. In a 12-week study, adults who ate three servings a day showed no meaningful increases in weight, body fat, cholesterol, or insulin resistance. They also experienced…",
+          "summary": "Very high levels of the inherited cholesterol-related particle Lp(a) were linked to a greater risk of major cardiovascular events, particularly stroke and cardiovascular death, in a study of more than 20,000 people. Since elevated Lp(a)…",
           "authors": ""
         },
         {
-          "title": "Wine, beer, or spirits? Massive study finds a surprising health divide",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260808235008.htm",
-          "publishedDate": "Sun, 09 Aug 2026 03:49:30 EDT",
+          "title": "A daily glass of fruit juice was linked to lower depression scores",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260808235003.htm",
+          "publishedDate": "Sun, 09 Aug 2026 22:09:47 EDT",
           "source": "sciencedaily.com",
-          "summary": "A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surprising: beer, cider, and spirits were…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists say just 7 days of meditation can rewire your brain",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260807235243.htm",
-          "publishedDate": "Sat, 08 Aug 2026 23:50:35 EDT",
-          "source": "sciencedaily.com",
-          "summary": "An intensive seven-day meditation retreat triggered striking changes across the brain and body, including shifts tied to neuroplasticity, immunity, metabolism, and natural pain relief. Participants also showed brain connectivity patterns…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists reveal how much exercise you really need to protect your heart",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260806050724.htm",
-          "publishedDate": "Sat, 08 Aug 2026 09:49:02 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Getting the recommended 150 minutes of moderate-to-vigorous exercise each week may offer only modest protection against heart attacks and strokes. A large study suggests that substantially greater benefits may require roughly 560 to 610…",
-          "authors": ""
-        },
-        {
-          "title": "A protein older than blood circulation could transform cancer immunotherapy",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260806050702.htm",
-          "publishedDate": "Sat, 08 Aug 2026 09:31:21 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A protein that evolved long before the human circulatory system may help unlock stronger cancer treatments. When C3 is produced inside tumors, it blocks immune-suppressing cells and gives immunotherapy a better chance to work. Researchers…",
+          "summary": "A daily glass of 100% fruit juice or a smoothie may help improve more than just fruit intake. In a small four-week trial, participants who added one to a healthier diet showed significantly lower depression scores, hinting that a simple…",
           "authors": ""
         }
       ]
@@ -121,61 +154,70 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "LyEvO: Lyapunov-Guided Evolutionary Optimization for Safe and Robust Sim-to-Real Policy Learning",
+          "url": "https://arxiv.org/abs/2608.06481",
+          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Training controllers that are safe and robust in simulation, and systematically assessing their readiness for real-world deployment, remain key challenges in sim-to-real transfer. To address this, we propose LyEvO, a physics-grounded…",
+          "authors": "Riccardo Curcio, Hongpeng Cao, Marco Caccamo"
+        },
+        {
+          "title": "Recipes for Creativity: Iterative Generation and Evaluation in Large Language Models",
+          "url": "https://arxiv.org/abs/2608.07243",
+          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Generative models are often evaluated through singular artifacts, whereas human creativity typically emerges through iterative generation, appraisal, and refinement. This pilot study examines whether iterative search improves LLM…",
+          "authors": "Rens Anderson, Tessa Verhoef, Amirhossein Zohrehvand"
+        },
+        {
+          "title": "Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons",
+          "url": "https://arxiv.org/abs/2506.03392",
+          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We propose a new ternary spiking neuron model to improve the representation capacity of binary spiking neurons in deep Q-learning. Although a ternary neuron model has recently been introduced to overcome the limited representation capacity…",
+          "authors": "Aref Ghoreishee, Abhishek Mishra, John Walsh, Anup Das, Nagarajan Kandasamy"
+        },
+        {
+          "title": "Evolutionary Systems Thinking: From Equilibrium Models to Open-Ended Adaptive Dynamics",
+          "url": "https://arxiv.org/abs/2602.15957",
+          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Complex change is often described as ``evolutionary'' in economics, policy, technology, and organizations, yet many system dynamics models represent behavior within a fixed set of stocks, flows, relationships, and transition rules. Such…",
+          "authors": "Dan Adler"
+        },
+        {
+          "title": "International Transfer of Stochastic Cortical Self-Reconstruction",
+          "url": "https://arxiv.org/abs/2608.07092",
+          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Stochastic cortical self-reconstruction (SCSR) enables personalized mapping of gray matter atrophy, a hallmark of neurodegenerative disorders such as Alzheimer's disease (AD), onto high-resolution cortical surfaces. Unlike conventional…",
+          "authors": "Fabian Bongratz, Zhizheng Zhuo, Chao Zhang, Yaou Liu, Dennis M. Hedderich, Christian Wachinger"
+        },
+        {
+          "title": "FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity",
+          "url": "https://arxiv.org/abs/2608.07393",
+          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Functional Magnetic Resonance Imaging ( fMRI ) data are often pooled into collaborative multi-site consortia, as deep learning models for analyses require large datasets to generalize well. While Federated Learning (FL) offers a…",
+          "authors": "Deepank Girish, Yi Hao Chan, Yubin Zheng, Sukrit Gupta, Jagath C. Rajapakse"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 1,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
-        },
-        {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "Design and Validation of a Portable EEG-tES Platform Supporting High-Rate EEG Recording and Temporal Interference Stimulation",
+          "url": "https://arxiv.org/abs/2608.06783",
+          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Background: Closed-loop neuromodulation integrating electroencephalography (EEG) and transcranial electrical stimulation (tES) has strong potential for neuroscience research and clinical applications. However, existing platforms often rely…",
+          "authors": "Le Xing, Maoxing Liang, Disi A, Yifei Jia, Gaoxiang Xie, Linfeng Xu, Xiang'ao Chen, Jiebin Shi, Gang Pan, Bicheng Han"
         }
       ]
     }
