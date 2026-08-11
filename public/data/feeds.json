@@ -1,43 +1,59 @@
 {
-  "generatedAt": "2026-08-10T23:15:37.134Z",
+  "generatedAt": "2026-08-11T23:21:20.731Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 4,
+      "itemCount": 6,
       "items": [
         {
-          "title": "International Transfer of Stochastic Cortical Self-Reconstruction",
-          "url": "https://arxiv.org/abs/2608.07092",
-          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "title": "Sensorimotor features of a reversal learning task bias decision behavior without disrupting individual difference structure",
+          "url": "https://arxiv.org/abs/2608.08206",
+          "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Stochastic cortical self-reconstruction (SCSR) enables personalized mapping of gray matter atrophy, a hallmark of neurodegenerative disorders such as Alzheimer's disease (AD), onto high-resolution cortical surfaces. Unlike conventional…",
-          "authors": "Fabian Bongratz, Zhizheng Zhuo, Chao Zhang, Yaou Liu, Dennis M. Hedderich, Christian Wachinger"
+          "summary": "In computational psychiatry, task-irrelevant factors such as a task's perceptual and motor features are typically assumed not to bias decision behavior, but at most to add noise. Yet growing evidence links sensorimotor processing to…",
+          "authors": "Elliot Huang, William Xu, Robert C. Wilson"
         },
         {
-          "title": "FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity",
-          "url": "https://arxiv.org/abs/2608.07393",
-          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "title": "Graph Analysis of Neuronal-Culture Connectivity Derived from a Reservoir-Computing Model",
+          "url": "https://arxiv.org/abs/2608.09773",
+          "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Functional Magnetic Resonance Imaging ( fMRI ) data are often pooled into collaborative multi-site consortia, as deep learning models for analyses require large datasets to generalize well. While Federated Learning (FL) offers a…",
-          "authors": "Deepank Girish, Yi Hao Chan, Yubin Zheng, Sukrit Gupta, Jagath C. Rajapakse"
+          "summary": "Graph-theoretical analysis offers a principled framework for quantifying emergent dynamics in neuronal cultures. Here, we present an analytical pipeline for inferring network-level properties of in vitro cortical cultures from multichannel…",
+          "authors": "Ilya Auslender, Giorgio Letti, Yasaman Heydari, Lorenzo Pavesi"
         },
         {
-          "title": "A Physics-Inspired Classical Digital Twin of Cortical Dynamics: A Band-Stratified Metriplectic Port-Hamiltonian Neural Network Learned from Brain-Computer-Interface EEG",
-          "url": "https://arxiv.org/abs/2607.10439",
-          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "title": "Reading Cognition as Decisions Unfold in Words: A Factorized Inverse Decision Model",
+          "url": "https://arxiv.org/abs/2608.09222",
+          "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We present a physics-inspired classical digital twin of brain-computer- interface (BCI) data: a graph neural network constrained to a band-stratified, metriplectic port-Hamiltonian form, with parameters learned from scalp EEG recorded…",
-          "authors": "Dibakar Sigdel"
+          "summary": "Inverse decision modeling infers latent properties of decision processes from observed behavior, but existing formulations rely primarily on action trajectories. In verbalized cognitive tasks, task execution also produces response dynamics…",
+          "authors": "Jiawen Kang, Dongrui Han, Xixin Wu, Helen Meng"
         },
         {
-          "title": "Vector Space of Cycles",
-          "url": "https://arxiv.org/abs/2606.08202",
-          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "title": "Confidence is detection-like in high-dimensional spaces",
+          "url": "https://arxiv.org/abs/2410.18933",
+          "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Most statistical and machine learning methods for directed interactions focus on pairwise effects among variables. Even existing cyclic models represent feedback primarily through node-level dependencies, making large-scale recurrent…",
-          "authors": "Moo K. Chung, Anass B. El-Yaagoubi, Hernando Ombao"
+          "summary": "Confidence estimates are often \"detection-like\" - driven by positive evidence in favour of a decision. This empirical observation has been interpreted as showing that human metacognition is limited by biases or heuristics. Here, we show…",
+          "authors": "Wiktoria Kozyra, Kevin O'Neill, Stephen M. Fleming"
+        },
+        {
+          "title": "Topographic Constraints Shape Brain-Like Component Structure in Auditory Models",
+          "url": "https://arxiv.org/abs/2509.24039",
+          "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "If topography is a fundamental feature of the brain, it should influence both how neurons are arranged in space (i.e. explain brain maps) and how information is structured within the neural population. The human auditory cortex provides a…",
+          "authors": "Haider Al-Tahan, Mayukh Deb, Jenelle Feather, N. Apurva Ratan Murty"
+        },
+        {
+          "title": "SPD Learn: A Geometric Deep Learning Python Library for Neural Decoding Through Trivialization",
+          "url": "https://arxiv.org/abs/2602.22895",
+          "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Implementations of symmetric positive definite (SPD) matrix-based neural networks for neural decoding remain fragmented across research codebases and Python packages. Existing implementations often employ ad hoc handling of manifold…",
+          "authors": "Bruno Aristimunha, Ce Ju, Antoine Collas, Florent Bouchard, Ammar Mian, Bertrand Thirion, Sylvain Chevallier, Reinmar Kobler"
         }
       ]
     },
@@ -47,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths",
+          "url": "https://www.statnews.com/2026/08/11/stop-statins-age-75-lancet-study-suggests-safe-healthy-adults/?utm_campaign=rss",
+          "publishedDate": "Tue, 11 Aug 2026 22:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths, a new study finds.",
+          "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "Medicaid will stop paying for some gender-affirming care for transgender minors",
+          "url": "https://www.statnews.com/2026/08/11/medicaid-to-end-funding-gender-affirming-care-transgender-youth/?utm_campaign=rss",
+          "publishedDate": "Tue, 11 Aug 2026 22:18:55 +0000",
+          "source": "statnews.com",
+          "summary": "The Trump administration plans to end federal funding for some care for transgender minors.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "How we know that splitting up the MMR vaccine could be dangerous",
+          "url": "https://www.statnews.com/2026/08/11/how-we-know-splitting-up-mmr-vaccine-could-be-dangerous/?utm_campaign=rss",
+          "publishedDate": "Tue, 11 Aug 2026 14:28:57 +0000",
+          "source": "statnews.com",
+          "summary": "It's no mystery. History tells us that President Trump’s executive order calling for the MMR to be split into separate shots could do real harm.",
+          "authors": "Matthew Herper"
+        },
+        {
+          "title": "STAT+: Trump’s vaccine pivot overshadows food rule",
+          "url": "https://www.statnews.com/2026/08/11/trump-vaccine-policy-pivot-overshadows-fda-gras-food-rule-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Tue, 11 Aug 2026 14:19:47 +0000",
+          "source": "statnews.com",
+          "summary": "Trump is turning the focus back to controversial vaccine policy, overshadowing a new move on food additives.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "IRBs have a problem. Can North Star’s nonprofit model save it?",
+          "url": "https://www.statnews.com/2026/08/11/north-star-review-founders-advocate-nonprofit-approach-institutional-oversight/?utm_campaign=rss",
+          "publishedDate": "Tue, 11 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "As institutional review boards face pressure from companies and ethicists, North Star Review Board offers a nonprofit model as more independent.",
+          "authors": "Angus Chen"
+        },
+        {
           "title": "Trump returns to controversial vaccine policy with order questioning childhood schedule",
           "url": "https://www.statnews.com/2026/08/10/trump-return-to-vaccine-policy-executive-order/?utm_campaign=rss",
           "publishedDate": "Mon, 10 Aug 2026 19:29:51 +0000",
           "source": "statnews.com",
           "summary": "The Trump administration, which had recently avoided public discussions of vaccine policy because of concern around the political repercussions, is changing course.",
           "authors": "Daniel Payne"
-        },
-        {
-          "title": "FDA to require notice of additives in food supply for the first time",
-          "url": "https://www.statnews.com/2026/08/10/rfk-jr-proposal-fda-gras-rule-generally-recognized-as-safe/?utm_campaign=rss",
-          "publishedDate": "Mon, 10 Aug 2026 15:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "RFK Jr. is claiming a win with a new proposal on the food industry's GRAS loophole; nutrition advocates give mixed reviews.",
-          "authors": "Isabella Cueto and Elizabeth Cooney"
-        },
-        {
-          "title": "A third clinic settles with DOJ over trans care",
-          "url": "https://www.statnews.com/2026/08/07/health-news-a-third-clinic-settles-with-doj-over-trans-care/?utm_campaign=rss",
-          "publishedDate": "Fri, 07 Aug 2026 12:16:46 +0000",
-          "source": "statnews.com",
-          "summary": "Anthony Fauci held in contempt, crackdowns on the organ donor network, and more health news from Morning Rounds",
-          "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "U.S. moves to shut a Kentucky organ donation group, citing safety failures",
-          "url": "https://www.statnews.com/2026/08/06/us-to-shut-kentucky-organ-donation-group-safety-concerns/?utm_campaign=rss",
-          "publishedDate": "Thu, 06 Aug 2026 13:47:31 +0000",
-          "source": "statnews.com",
-          "summary": "The U.S. moves to shut a Kentucky organ donation group that's been accused of continuing plans for organ retrieval from some patients who unexpectedly showed signs of life.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "Covid can reactivate dormant viruses, according to study",
-          "url": "https://www.statnews.com/2026/08/06/health-news-covid-can-reactivate-dormant-viruses-study-finds/?utm_campaign=rss",
-          "publishedDate": "Thu, 06 Aug 2026 11:55:38 +0000",
-          "source": "statnews.com",
-          "summary": "A CDC director officially confirmed, Moderna's mRNA flu shot approved, and other health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "Erica Schwartz confirmed as CDC director, filling nearly yearlong vacancy",
-          "url": "https://www.statnews.com/2026/08/05/senate-confirms-dr-erica-schwartz-new-cdc-director/?utm_campaign=rss",
-          "publishedDate": "Wed, 05 Aug 2026 19:08:33 +0000",
-          "source": "statnews.com",
-          "summary": "Now confirmed, Erica Schwartz is the third CDC nominee since Trump took office for his second term.",
-          "authors": "Chelsea Cirruzzo"
         }
       ]
     },
@@ -101,6 +117,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Medicaid will stop paying for some gender-affirming care for transgender minors",
+          "url": "https://www.statnews.com/2026/08/11/medicaid-to-end-funding-gender-affirming-care-transgender-youth/?utm_campaign=rss",
+          "publishedDate": "Tue, 11 Aug 2026 22:18:55 +0000",
+          "source": "statnews.com",
+          "summary": "The Trump administration plans to end federal funding for some care for transgender minors.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "STAT+: Trump is counting on the health care industry to remake vaccines. It’s pushing back instead",
+          "url": "https://www.statnews.com/2026/08/11/health-care-pharma-industry-pushes-back-trump-vaccine-policy-changes/?utm_campaign=rss",
+          "publishedDate": "Tue, 11 Aug 2026 16:57:34 +0000",
+          "source": "statnews.com",
+          "summary": "Trump wants to change how American kids are vaccinated, but doctors and the pharma industry aren't on board.",
+          "authors": "Daniel Payne"
+        },
+        {
+          "title": "STAT+: Trump’s vaccine pivot overshadows food rule",
+          "url": "https://www.statnews.com/2026/08/11/trump-vaccine-policy-pivot-overshadows-fda-gras-food-rule-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Tue, 11 Aug 2026 14:19:47 +0000",
+          "source": "statnews.com",
+          "summary": "Trump is turning the focus back to controversial vaccine policy, overshadowing a new move on food additives.",
+          "authors": "John Wilkerson"
+        },
         {
           "title": "Trump returns to controversial vaccine policy with order questioning childhood schedule",
           "url": "https://www.statnews.com/2026/08/10/trump-return-to-vaccine-policy-executive-order/?utm_campaign=rss",
@@ -124,30 +164,6 @@
           "source": "statnews.com",
           "summary": "We examine a call to reform how health insurers do business, and a look at the impact of 340B restrictions.",
           "authors": "Bob Herman"
-        },
-        {
-          "title": "New GLP-1 pill delivers up to 12% weight loss in 36 weeks",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm",
-          "publishedDate": "Mon, 10 Aug 2026 10:50:43 EDT",
-          "source": "sciencedaily.com",
-          "summary": "An experimental GLP-1 pill helped people with obesity or overweight lose as much as 12.1% of their body weight in just 36 weeks. Unlike injectable drugs such as Wegovy and Ozempic, aleniglipron is a small molecule that can be taken once…",
-          "authors": ""
-        },
-        {
-          "title": "1 in 5 people may carry this hidden genetic heart risk",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260808235011.htm",
-          "publishedDate": "Mon, 10 Aug 2026 09:03:54 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Very high levels of the inherited cholesterol-related particle Lp(a) were linked to a greater risk of major cardiovascular events, particularly stroke and cardiovascular death, in a study of more than 20,000 people. Since elevated Lp(a)…",
-          "authors": ""
-        },
-        {
-          "title": "A daily glass of fruit juice was linked to lower depression scores",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260808235003.htm",
-          "publishedDate": "Sun, 09 Aug 2026 22:09:47 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A daily glass of 100% fruit juice or a smoothie may help improve more than just fruit intake. In a small four-week trial, participants who added one to a healthier diet showed significantly lower depression scores, hinting that a simple…",
-          "authors": ""
         }
       ]
     },
@@ -157,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "LyEvO: Lyapunov-Guided Evolutionary Optimization for Safe and Robust Sim-to-Real Policy Learning",
-          "url": "https://arxiv.org/abs/2608.06481",
-          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "title": "An evolutionary model of animats with VLM-based subjective evaluation",
+          "url": "https://arxiv.org/abs/2608.07537",
+          "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Training controllers that are safe and robust in simulation, and systematically assessing their readiness for real-world deployment, remain key challenges in sim-to-real transfer. To address this, we propose LyEvO, a physics-grounded…",
-          "authors": "Riccardo Curcio, Hongpeng Cao, Marco Caccamo"
+          "summary": "In this study, we propose a framework that incorporates subjective evaluations provided by a Vision-Language Model (VLM) into the fitness evaluation and selection processes of a genetic algorithm. As the target of evolution, we employ…",
+          "authors": "Shota Miyazaki, Takaya Arita, Reiji Suzuki"
         },
         {
-          "title": "Recipes for Creativity: Iterative Generation and Evaluation in Large Language Models",
-          "url": "https://arxiv.org/abs/2608.07243",
-          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "title": "AutoPSO: A Meta-Framework for Automated Particle Swarm Optimization",
+          "url": "https://arxiv.org/abs/2608.07539",
+          "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Generative models are often evaluated through singular artifacts, whereas human creativity typically emerges through iterative generation, appraisal, and refinement. This pilot study examines whether iterative search improves LLM…",
-          "authors": "Rens Anderson, Tessa Verhoef, Amirhossein Zohrehvand"
+          "summary": "Particle swarm optimization (PSO) is a widely used metaheuristic, prized for its simplicity and small parameter set. Although decades of research have produced numerous PSO variants that improve performance by modifying key components…",
+          "authors": "Xinmeng Yu, Jiaxin Gao, Jianguo Zhang, Dongmei Jiang, Ran Cheng"
         },
         {
-          "title": "Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons",
-          "url": "https://arxiv.org/abs/2506.03392",
-          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "title": "MOSAIC: Adversarial Co-evolution of Specialist Heuristics and Problem Instances for LLM-based Automated Heuristic Design",
+          "url": "https://arxiv.org/abs/2608.07544",
+          "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We propose a new ternary spiking neuron model to improve the representation capacity of binary spiking neurons in deep Q-learning. Although a ternary neuron model has recently been introduced to overcome the limited representation capacity…",
-          "authors": "Aref Ghoreishee, Abhishek Mishra, John Walsh, Anup Das, Nagarajan Kandasamy"
+          "summary": "Automated heuristic design (AHD) with large language models (LLMs) has produced strong heuristics for combinatorial optimization problems (COPs). Yet existing frameworks optimize for average performance on a small fixed dataset and steer…",
+          "authors": "Oguzhan Gungordu, Siheng Xiong, Faramarz Fekri"
         },
         {
-          "title": "Evolutionary Systems Thinking: From Equilibrium Models to Open-Ended Adaptive Dynamics",
-          "url": "https://arxiv.org/abs/2602.15957",
-          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "title": "DarwinX: Evolving Agent Harnesses Through Natural Selection",
+          "url": "https://arxiv.org/abs/2608.07545",
+          "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Complex change is often described as ``evolutionary'' in economics, policy, technology, and organizations, yet many system dynamics models represent behavior within a fixed set of stocks, flows, relationships, and transition rules. Such…",
-          "authors": "Dan Adler"
+          "summary": "An LLM agent's capability depends not only on model weights but on its harness: prompts, tools, skills, and control flow. Self-improvement loops already edit harnesses, yet single-lineage search is path-dependent and local wins often…",
+          "authors": "Yifan Zhang, Yutong Dai, Juntao Tan, Luyu Yang, Rishi Mullur, Thai Hoang, Zhiyuan Hu, James Zhu, Phil Mui, Silvio Savarese, Ran Xu, Zeyuan Chen"
         },
         {
-          "title": "International Transfer of Stochastic Cortical Self-Reconstruction",
-          "url": "https://arxiv.org/abs/2608.07092",
-          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "title": "HPSO: Particle Swarm Optimization with Hypergraph-Based Topology",
+          "url": "https://arxiv.org/abs/2608.07587",
+          "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Stochastic cortical self-reconstruction (SCSR) enables personalized mapping of gray matter atrophy, a hallmark of neurodegenerative disorders such as Alzheimer's disease (AD), onto high-resolution cortical surfaces. Unlike conventional…",
-          "authors": "Fabian Bongratz, Zhizheng Zhuo, Chao Zhang, Yaou Liu, Dennis M. Hedderich, Christian Wachinger"
+          "summary": "Particle swarm optimization (PSO) has been widely applied to solve complex optimization problems from real-world applications due to its efficient exploration of large solution spaces and the ability to converge towards optimal solutions…",
+          "authors": "Wenbin Pei, Xi Luo, Bing Xue, Mengjie Zhang, Qiang Zhang"
         },
         {
-          "title": "FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity",
-          "url": "https://arxiv.org/abs/2608.07393",
-          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "title": "Phase State Space Models: Parallel, Surrogate-Free Training of Spiking Networks",
+          "url": "https://arxiv.org/abs/2608.07754",
+          "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Functional Magnetic Resonance Imaging ( fMRI ) data are often pooled into collaborative multi-site consortia, as deep learning models for analyses require large datasets to generalize well. While Federated Learning (FL) offers a…",
-          "authors": "Deepank Girish, Yi Hao Chan, Yubin Zheng, Sukrit Gupta, Jagath C. Rajapakse"
+          "summary": "State-space models (SSMs) provide a powerful theoretical framework to enable parallel training of recurrent networks. We expand on previous work adapting SSMs to spiking models to provide a novel interpretation of resonate-and-fire (R\\&F)…",
+          "authors": "Wilkie Olin-Ammentorp"
         }
       ]
     },
@@ -212,12 +228,12 @@
       "itemCount": 1,
       "items": [
         {
-          "title": "Design and Validation of a Portable EEG-tES Platform Supporting High-Rate EEG Recording and Temporal Interference Stimulation",
-          "url": "https://arxiv.org/abs/2608.06783",
-          "publishedDate": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "title": "Structured Sheaf Learning of Consistent Connection Graphs",
+          "url": "https://arxiv.org/abs/2608.08710",
+          "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Background: Closed-loop neuromodulation integrating electroencephalography (EEG) and transcranial electrical stimulation (tES) has strong potential for neuroscience research and clinical applications. However, existing platforms often rely…",
-          "authors": "Le Xing, Maoxing Liang, Disi A, Yifei Jia, Gaoxiang Xie, Linfeng Xu, Xiang'ao Chen, Jiebin Shi, Gang Pan, Bicheng Han"
+          "summary": "Connection graphs (CGs) extend classical graphs by associating vector-valued signals to nodes and orthogonal transport maps across edges, making them a natural model for synchronization and manifold-based signal processing. Despite their…",
+          "authors": "Leonardo Di Nino, Gabriele D'Acunto, Sergio Barbarossa, Paolo Di Lorenzo"
         }
       ]
     }
