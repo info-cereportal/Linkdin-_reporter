@@ -1,27 +1,26 @@
 {
-  "generatedAt": "2026-08-11T23:21:20.039Z",
-  "date": "2026-08-11",
-  "topic": "神経デコーディングと深層学習",
-  "templateName": "data-driven",
+  "generatedAt": "2026-08-12T23:20:17.705Z",
+  "date": "2026-08-12",
+  "topic": "ECoG(皮質脳波)",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "SPD Learn: A Geometric Deep Learning Python Library for Neural Decoding Through Trivialization",
-  "paperLink": "https://arxiv.org/abs/2602.22895",
-  "figureUrl": "https://arxiv.org/html/2602.22895/2602.22895v2/figures/litmap_spd_learn.png",
-  "formatted": "研究者もエンジニアも、この論文は必読です。\n\n数字が語る、神経デコーディングと深層学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 神経デコーディング × 深層学習 × 学習 × 脳画像研究\n\n> Implementations of symmetric positive definite (SPD) matrix-based neural networks for neural decoding remain fragmented across research codebases and Python packages. Existing implementations often employ ad hoc handling of manifold constraints and non-unified training setups,...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 SPD Learn: A Geometric Deep Learning Python Library for Neural Decoding Through Trivialization\n🔗 https://arxiv.org/abs/2602.22895\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #ニューロテック",
-  "summaryJP": "神経デコーディングと深層学習 — 数値で示された新事実（ニューロAI・計算論）",
-  "paperAuthors": "Bruno Aristimunha, Ce Ju, Antoine Collas, Florent Bouchard, Ammar Mian, Bertrand Thirion, Sylvain Chevallier, Reinmar Kobler",
-  "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
-  "paperId": "2602.22895",
+  "paperTitle": "Emergent Neural Network Mechanisms for Generalization to Objects in Novel Orientations",
+  "paperLink": "https://arxiv.org/abs/2109.13445",
+  "figureUrl": "https://arxiv.org/html/2109.13445/2109.13445v3/x1.png",
+  "formatted": "研究者もエンジニアも、この論文は必読です。\n\nこの研究から得られる3つの重要な示唆。\n\nECoG(皮質脳波)の最新成果を整理しました。\n\n🔬 ECoG(皮質脳波)\n\n📊 注目すべきデータ：\n→ We present evidence that DNNs are capable of generalizing to objects in novel orientations by disseminating orientation-invariance obtained from familiar objects seen from many...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n脳情報科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Emergent Neural Network Mechanisms for Generalization to Objects in Novel Orientations\n🔗 https://arxiv.org/abs/2109.13445\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #NeuroAI",
+  "summaryJP": "ECoG(皮質脳波) — 注目すべき3つの示唆",
+  "paperAuthors": "Avi Cooper, Xavier Boix, Daniel Harari, Spandan Madan, Hanspeter Pfister, Tomotake Sasaki, Pawan Sinha",
+  "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
+  "paperId": "2109.13445",
   "paperSource": "arxiv",
-  "themeArea": "ニューロAI・計算論",
+  "themeArea": "脳情報科学",
   "jpKeywords": [
-    "神経デコーディング",
-    "深層学習",
-    "学習",
-    "脳画像研究"
+    "ECoG(皮質脳波)"
   ],
-  "abstractExcerpt": "Implementations of symmetric positive definite (SPD) matrix-based neural networks for neural decoding remain fragmented across research codebases and Python packages. Existing implementations often employ ad hoc handling of manifold…",
+  "abstractExcerpt": "The capability of Deep Neural Networks (DNNs) to recognize objects in orientations outside the distribution of the training data is not well understood. We present evidence that DNNs are capable of generalizing to objects in novel…",
   "figureUrls": [
-    "https://arxiv.org/html/2602.22895/2602.22895v2/figures/litmap_spd_learn.png"
+    "https://arxiv.org/html/2109.13445/2109.13445v3/x1.png",
+    "https://arxiv.org/html/2109.13445/2109.13445v3/Figures/Datasets/ThreeCategoriesV2.png",
+    "https://arxiv.org/html/2109.13445/2109.13445v3/x3.png"
   ]
 }
