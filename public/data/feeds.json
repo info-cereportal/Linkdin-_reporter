@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T23:20:19.092Z",
+  "generatedAt": "2026-08-13T23:21:22.503Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Reduced Gibbs free energy supply hinders brain information processing during mental fatigue",
-          "url": "https://arxiv.org/abs/2608.10211",
-          "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
+          "title": "Consciousness as Intrinsic Structure: Towards a Chemistry of Experience",
+          "url": "https://arxiv.org/abs/2608.11398",
+          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Background: Brain information processing deteriorates as cortical neurons gradually transition from a rested state into fatigue. Subjectively, fatigue is experienced as a state of weariness, tiredness, or lack of energy that reduces the…",
-          "authors": "Danko D. Georgiev, Oskan B. Tasinov, Danail V. Pavlov, Deyan S. Hrusafov"
+          "summary": "To be conscious is to have an experience - not a collection of phenomenal atoms, but a structured whole composed of distinctions and the relations that bind them. Integrated Information Theory (IIT) identifies the essential properties of…",
+          "authors": "Matteo Grasso, Jeremiah Hendren, Giulio Tononi"
         },
         {
-          "title": "Improved cross-validated distances for multivariate pattern analysis",
-          "url": "https://arxiv.org/abs/2608.10394",
-          "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
+          "title": "Conflict and Congruency Effects in Large Language Models: In-Weight and In-Context Competition in a Verbal Conflict Task",
+          "url": "https://arxiv.org/abs/2608.11510",
+          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Characterizing the dissimilarity of neural representations between experimental conditions, and tracking it across time, is a central goal of multivariate pattern analysis. Guggenmos et al. (2018) assessed the reliability of many of the…",
-          "authors": "Laurent Caplette, Sarah Lippé"
+          "summary": "Congruency effects, observed in conflict tasks such as Stroop and flanker tasks, have been investigated for nearly a century in psychology and neuroscience, but their mechanistic basis is not fully understood. We introduce a verbal-only…",
+          "authors": "Xiaoyang Hu, Mike Angstadt, Shane Storks, Zan Huang, Aman Taxali, Alex Weigard, Richard L. Lewis, Chandra Sripada"
         },
         {
-          "title": "How many labels can a biological oscillator carry? A quality-factor screen for proposed information carriers",
-          "url": "https://arxiv.org/abs/2608.10560",
-          "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
+          "title": "Beyond Local Power: Functional Connectivity Analysis for Subject-Independent Learning Style Recognition",
+          "url": "https://arxiv.org/abs/2608.12000",
+          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "How many distinguishable labels can a biological oscillator carry? Proposals invoking collective vibrational modes, endogenous electromagnetic fields, microtubule excitations and oscillatory phase codes are each debated on grounds…",
-          "authors": "Eran Kopel"
+          "summary": "Identifying individual learning styles optimizes pedagogical efficacy. While traditional questionnaires are structured, behavioral tracking methods require prolonged interaction log accumulation. To overcome these temporal constraints,…",
+          "authors": "Wiga Maulana Baihaqi, Indriana Hidayah, Sri Kusrohmaniah, Noor Akhmad Setiawan"
         },
         {
-          "title": "Modeling and Interpreting Correlations, Null Distributions and Significance Levels in Neural Tracking of Natural Stimuli",
-          "url": "https://arxiv.org/abs/2608.10887",
-          "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
+          "title": "The Rosetta Stone and Levels of Principled Inference to the Experience of Another Mind",
+          "url": "https://arxiv.org/abs/2608.12030",
+          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neural tracking - the time-locking of neural responses to continuous stimuli such as speech, music, and video - is widely used to study how the brain processes natural input. Tracking strength is typically quantified as the correlation…",
-          "authors": "Simon Geirnaert, Alexander Bertrand, Tom Francart, Jonas Vanthornhout"
+          "summary": "The classical problem of Other Minds has dogged philosophers for millennia; asking if we have any way to truly understand the experience of another mind. We know our own intrinsic experience by acquaintance, but can only ever hope to…",
+          "authors": "Kallum Robinson, Giulio Tononi, Naotsugu Tsuchiya, Matteo Grasso"
         },
         {
-          "title": "A class of mean-field models to bridge molecular to brain scales",
-          "url": "https://arxiv.org/abs/2608.11185",
-          "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
+          "title": "Testing the limits of past-adapted explanations by post-endpoint randomisation: anticipatory EEG as a worked case",
+          "url": "https://arxiv.org/abs/2608.12072",
+          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Predicting how molecular changes affect large-scale brain activity is a difficult task because of the lack of appropriate methods to link scales. In this perspective, we review a class of mean-field models that can integrate biophysical…",
-          "authors": "Alain Destexhe"
+          "summary": "A predictive model can fit its data even when its information set is insufficient; fit alone cannot establish sufficiency. This Perspective introduces Level II-A, a new design-based inference framework to test this distinction, illustrated…",
+          "authors": "George Sopasakis (Research and Development Department, Ximantis AB, Onsala, Sweden), Alexandros Sopasakis (Department of Mathematics, Lund University, Lund, Sweden)"
         },
         {
-          "title": "The Modeler-Schema Theory of Consciousness: Diffuse Awareness, Focal Experience, and a Saccadic Consistency Experiment",
-          "url": "https://arxiv.org/abs/2512.01073",
-          "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
+          "title": "Multiple mechanisms of rhythm switching in recurrent neural networks with adaptive time constants",
+          "url": "https://arxiv.org/abs/2605.14388",
+          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We propose that the Modeler-schema, a cybernetic control agent that monitors the brain's Modeler as it constructs and updates the World Model, is the minimal phenomenal subject. The theory distinguishes focal experience from diffuse…",
-          "authors": "Frank Heile"
+          "summary": "Although recurrent neural networks (RNNs) trained on cognitive tasks have become a widely used framework for studying neural computation, the internal mechanisms by which RNNs switch between rhythms across multiple frequency bands, and how…",
+          "authors": "Yutaka Yamaguti, Shota Nakamura"
         }
       ]
     },
@@ -62,6 +62,30 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Kennedy heads west, slams Becerra",
+          "url": "https://www.statnews.com/2026/08/13/rfk-california-tour-hhs-addiction-treatment-plan-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Thu, 13 Aug 2026 14:37:18 +0000",
+          "source": "statnews.com",
+          "summary": "The health secretary headed to California to lay out the government's new approach to addiction treatment.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "STAT+: Newsom promotes affordable insulin, but California’s generic label is off to a slow start",
+          "url": "https://www.statnews.com/2026/08/13/newsom-california-generic-insulin-calrx-availability-slow-to-reach-patients/?utm_campaign=rss",
+          "publishedDate": "Thu, 13 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Gov. Gavin Newsom is focused on making health care affordable, but his CalRx insulin has been slow to reach patients.",
+          "authors": "Angela Hart — KFF Health News"
+        },
+        {
+          "title": "STAT+: As young people increasingly get cancer, new fertility options are changing their futures",
+          "url": "https://www.statnews.com/2026/08/13/young-people-cancer-new-fertility-tech/?utm_campaign=rss",
+          "publishedDate": "Thu, 13 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "New technologies, cancer doctors, and reproductive specialists are working to give more patients a chance to have children post-treatment.",
+          "authors": "Brianna Abbott — The Boston Globe"
+        },
         {
           "title": "Talks on launch of clinical trial of Ebola vaccine in DRC advance, WHO says",
           "url": "https://www.statnews.com/2026/08/12/ebola-who-drc-ebola-vaccine-trial/?utm_campaign=rss",
@@ -79,36 +103,12 @@
           "authors": "Sarah Todd"
         },
         {
-          "title": "Trump administration’s new ‘treatment-first’ addiction toolkit emphasizes faith, abstinence",
+          "title": "Trump administration’s new ‘treatment first’ addiction toolkit emphasizes faith, abstinence",
           "url": "https://www.statnews.com/2026/08/12/addiction-homelessness-hhs-toolkit-harm-reduction/?utm_campaign=rss",
           "publishedDate": "Wed, 12 Aug 2026 19:43:40 +0000",
           "source": "statnews.com",
           "summary": "The White House nods to use of addiction medications but moves away from other harm reduction strategies.",
           "authors": "Lev Facher"
-        },
-        {
-          "title": "WHO says Trump’s latest vaccine policy order is misguided",
-          "url": "https://www.statnews.com/2026/08/12/trump-vaccine-executive-order-critiqued-by-tedros-who/?utm_campaign=rss",
-          "publishedDate": "Wed, 12 Aug 2026 18:03:06 +0000",
-          "source": "statnews.com",
-          "summary": "The White House's order attempting to overhaul the vaccine schedule could subject children to more needles and more disease risk, world health leaders say.",
-          "authors": "Helen Branswell"
-        },
-        {
-          "title": "STAT+: Cancer patients face longer wait times to begin treatment, according to new study",
-          "url": "https://www.statnews.com/2026/08/12/cancer-patients-face-longer-wait-times-for-treatment/?utm_campaign=rss",
-          "publishedDate": "Wed, 12 Aug 2026 15:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "“Across every cancer we studied, patients are waiting longer today than they were a decade ago.”",
-          "authors": "Angus Chen"
-        },
-        {
-          "title": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths",
-          "url": "https://www.statnews.com/2026/08/11/stop-statins-age-75-lancet-study-suggests-safe-healthy-adults/?utm_campaign=rss",
-          "publishedDate": "Tue, 11 Aug 2026 22:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths, a new study finds.",
-          "authors": "Elizabeth Cooney"
         }
       ]
     },
@@ -118,6 +118,22 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Kennedy heads west, slams Becerra",
+          "url": "https://www.statnews.com/2026/08/13/rfk-california-tour-hhs-addiction-treatment-plan-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Thu, 13 Aug 2026 14:37:18 +0000",
+          "source": "statnews.com",
+          "summary": "The health secretary headed to California to lay out the government's new approach to addiction treatment.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "STAT+: Newsom promotes affordable insulin, but California’s generic label is off to a slow start",
+          "url": "https://www.statnews.com/2026/08/13/newsom-california-generic-insulin-calrx-availability-slow-to-reach-patients/?utm_campaign=rss",
+          "publishedDate": "Thu, 13 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Gov. Gavin Newsom is focused on making health care affordable, but his CalRx insulin has been slow to reach patients.",
+          "authors": "Angela Hart — KFF Health News"
+        },
+        {
           "title": "STAT+: Providers notch No Surprises Act legal win that could boost their pay",
           "url": "https://www.statnews.com/2026/08/12/texas-medical-association-no-surprises-act-lawsuit-qpa/?utm_campaign=rss",
           "publishedDate": "Wed, 12 Aug 2026 20:29:03 +0000",
@@ -126,7 +142,7 @@
           "authors": "Tara Bannow"
         },
         {
-          "title": "Trump administration’s new ‘treatment-first’ addiction toolkit emphasizes faith, abstinence",
+          "title": "Trump administration’s new ‘treatment first’ addiction toolkit emphasizes faith, abstinence",
           "url": "https://www.statnews.com/2026/08/12/addiction-homelessness-hhs-toolkit-harm-reduction/?utm_campaign=rss",
           "publishedDate": "Wed, 12 Aug 2026 19:43:40 +0000",
           "source": "statnews.com",
@@ -148,22 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "Ozempic-like drugs appear to weaken more than hunger—they may also reduce cravings for alcohol and other addictive substances. Scientists are increasingly tracing this effect to the lateral septum, a brain region that helps connect…",
           "authors": ""
-        },
-        {
-          "title": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260811011148.htm",
-          "publishedDate": "Wed, 12 Aug 2026 09:20:59 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have pinpointed a brain network—and its distinctive electrical rhythm—that appears to drive the benefits of deep brain stimulation for Parkinson’s disease. The discovery could lead to more precise, personalized stimulation…",
-          "authors": ""
-        },
-        {
-          "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260811011143.htm",
-          "publishedDate": "Wed, 12 Aug 2026 09:05:58 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Ancient remains from Vietnam suggest diseases like yaws may have been passed from mother to child thousands of years ago, a form of transmission often assumed to indicate syphilis. The discovery could overturn how scientists interpret…",
-          "authors": ""
         }
       ]
     },
@@ -173,75 +173,67 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "A Graph Neural Network--Guided Genetic Algorithm for Physical Internet Supply Chain Optimization under Cost Uncertainty",
-          "url": "https://arxiv.org/abs/2608.10245",
-          "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
+          "title": "Predictive Allostatic Organization in Recurrent and Spiking Agents Under Partial Observability",
+          "url": "https://arxiv.org/abs/2608.11506",
+          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Inventory and distribution planning in Physical Internet networks requires coordinating factory-hub assignments, factory supply, lateral transshipment among collaborative hubs, retailer deliveries, and shortages. The problem combines…",
-          "authors": "Faezeh Ardali, Gerald M. Knapp"
+          "summary": "Adaptive behavior under partial observability depends on internal organization that carries information beyond the current observation. Drawing on Barrett and Miller's account of categorization as predictive, compressive, functionally…",
+          "authors": "Frederick Hayes III"
         },
         {
-          "title": "Multitask Pareto Optimization for Monotone Submodular Problems with Dynamic Constraints",
-          "url": "https://arxiv.org/abs/2608.10425",
-          "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
+          "title": "Lapis: Laplacian Spiking Attention via First-Spike Timing and Membrane Leakage",
+          "url": "https://arxiv.org/abs/2608.11865",
+          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Evolutionary multitasking is a recent approach that solves multiple related optimization problems within a single evolutionary run, rather than addressing each problem separately. We consider monotone submodular optimization problems with…",
-          "authors": "Liam Wigney, Frank Neumann"
+          "summary": "Self-attention has become central to spiking vision transformers, yet its query-key scoring is still largely inherited from dense networks. Existing spiking variants either simplify dot product scoring or replace it with discrete…",
+          "authors": "Kaiwen Tang, Jiaqi Zheng, Zixuan Zhu, Yiqun Wang, Zhanglu Yan, Weng-Fai Wong"
         },
         {
-          "title": "Neuroevolution Arena: Nested Ecological Evaluation of Update-and-Inheritance Regimes across Neural Architectures",
-          "url": "https://arxiv.org/abs/2608.10323",
-          "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
+          "title": "Adaptive Hybrid Particle Swarm Optimization with Gradient Descent",
+          "url": "https://arxiv.org/abs/2608.11258",
+          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Competitive artificial-life systems can rank trained controllers differently under training and ecological evaluation. We present Neuroevolution Arena, a GPU-accelerated spatial ecology of independently parameterized neural-network cells,…",
-          "authors": "Yuxu Ge, Yifei Cheng"
+          "summary": "Gradient injection helps Particle Swarm Optimization (PSO) only when the swarm has identified a basin with smooth local structure, not universally. We propose Adaptive Hybrid PSO (AHPSO), which uses a sigmoid function on swarm diversity to…",
+          "authors": "Aryan Gurudeo"
+        },
+        {
+          "title": "Contextual Quality-Diversity Evolutionary Reinforcement Learning for HVAC Control in Tropical Commercial Buildings",
+          "url": "https://arxiv.org/abs/2608.11324",
+          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "This paper proposes a contextual quality-diversity evolutionary reinforcement-learning controller, CQD-ERL, for the supervisory control of a tropical, water-cooled chiller plant and its associated air side. Rather than converging to a…",
+          "authors": "Tran Le Vu"
+        },
+        {
+          "title": "Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons",
+          "url": "https://arxiv.org/abs/2506.03392",
+          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We propose a new ternary spiking neuron model to improve the representation capacity of binary spiking neurons in deep Q-learning. Although a ternary neuron model has recently been introduced to overcome the limited representation capacity…",
+          "authors": "Aref Ghoreishee, Abhishek Mishra, John Walsh, Anup Das, Nagarajan Kandasamy"
         },
         {
           "title": "Persistent Recursive Worlds Enable Autonomous Software Evolution",
           "url": "https://arxiv.org/abs/2608.10450",
-          "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
+          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
           "summary": "Complex software systems develop over timescales that exceed the lifespan of any individual coding agent. Most agentic software systems preserve continuity through persistent sessions, memories, managers or shared context. We introduce…",
           "authors": "Beichen Huang, Zhenyu Liang, Bowen Zheng, Ran Cheng"
-        },
-        {
-          "title": "Optimize Cheap, Deploy Strong: Cost-Aware Cross-Tier Transfer for Evolutionary Optimization",
-          "url": "https://arxiv.org/abs/2608.10694",
-          "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Evolutionary optimization of LLM prompts and agentic programs (e.g., GEPA) is dominated by fitness evaluation: scoring each candidate runs an answering LLM over a validation set, so the evaluator's price tier dictates total search cost. We…",
-          "authors": "Tal Oved, Roi Pony, Oshri Naparstek, Udi barzelay"
-        },
-        {
-          "title": "EvoMem: Memory-Augmented Evolution for Code Optimization",
-          "url": "https://arxiv.org/abs/2608.10795",
-          "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Successful mutation strategies in evolutionary code search may contain reusable knowledge that is useful beyond a single run, and in some cases may transfer across related tasks and domains. However, existing LLM-driven evolutionary…",
-          "authors": "Viktor Volkov, Valentin Khrulkov, Andrey V. Galichin, Danil Sivtsov, Nikita Glazkov, Olga Volkova, Konstantin Pchelin, Iaroslav Bespalov, Dmitry V. Dylov, Petr Anokhin, Ivan Oseledets"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 1,
       "items": [
         {
-          "title": "A mixed-signal analogue front-end for brain-implantable neural interfaces using a digital fixed-point IIR filter and bulk offset cancellation",
-          "url": "https://arxiv.org/abs/2511.12540",
-          "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
+          "title": "Beyond Local Power: Functional Connectivity Analysis for Subject-Independent Learning Style Recognition",
+          "url": "https://arxiv.org/abs/2608.12000",
+          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Advances in miniaturised implantable neural electronics have paved the way for therapeutic brain-computer interfaces with clinical potential for movement disorders, epilepsy, and broader neurological applications. This paper presents a…",
-          "authors": "Dimitris Antoniadis, Timothy G. Constandinou"
-        },
-        {
-          "title": "Achievable Accuracy and Cramer Rao Bounds for SSB Based LEO Positioning in NR NTN",
-          "url": "https://arxiv.org/abs/2608.10270",
-          "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Advanced Low Earth Orbit (LEO) satellite networks, such as Starlinks Mobile Satellite Service (MSS), will adopt the 5G New Radio (NR) Non-Terrestrial Network (NTN) standard. This enables the use of ubiquitous Synchronization Signal Blocks…",
-          "authors": "Rainer Bachl, Tingting Lei, Muhammad Nabeel"
+          "summary": "Identifying individual learning styles optimizes pedagogical efficacy. While traditional questionnaires are structured, behavioral tracking methods require prolonged interaction log accumulation. To overcome these temporal constraints,…",
+          "authors": "Wiga Maulana Baihaqi, Indriana Hidayah, Sri Kusrohmaniah, Noor Akhmad Setiawan"
         }
       ]
     }

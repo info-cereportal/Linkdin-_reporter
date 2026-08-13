@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-08-12T23:20:17.705Z",
-  "date": "2026-08-12",
-  "topic": "ECoG(皮質脳波)",
-  "templateName": "three-insights",
+  "generatedAt": "2026-08-13T23:21:21.660Z",
+  "date": "2026-08-13",
+  "topic": "リカレントニューラルネットワーク(RNN)",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Emergent Neural Network Mechanisms for Generalization to Objects in Novel Orientations",
-  "paperLink": "https://arxiv.org/abs/2109.13445",
-  "figureUrl": "https://arxiv.org/html/2109.13445/2109.13445v3/x1.png",
-  "formatted": "研究者もエンジニアも、この論文は必読です。\n\nこの研究から得られる3つの重要な示唆。\n\nECoG(皮質脳波)の最新成果を整理しました。\n\n🔬 ECoG(皮質脳波)\n\n📊 注目すべきデータ：\n→ We present evidence that DNNs are capable of generalizing to objects in novel orientations by disseminating orientation-invariance obtained from familiar objects seen from many...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n脳情報科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Emergent Neural Network Mechanisms for Generalization to Objects in Novel Orientations\n🔗 https://arxiv.org/abs/2109.13445\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #NeuroAI",
-  "summaryJP": "ECoG(皮質脳波) — 注目すべき3つの示唆",
-  "paperAuthors": "Avi Cooper, Xavier Boix, Daniel Harari, Spandan Madan, Hanspeter Pfister, Tomotake Sasaki, Pawan Sinha",
-  "publishedDate": "Wed, 12 Aug 2026 00:00:00 -0400",
-  "paperId": "2109.13445",
+  "paperTitle": "Multiple mechanisms of rhythm switching in recurrent neural networks with adaptive time constants",
+  "paperLink": "https://arxiv.org/abs/2605.14388",
+  "figureUrl": "https://arxiv.org/html/2605.14388/2605.14388v2/fig3.png",
+  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nリカレントニューラルネットワーク(RNN)の最新研究です。\n\n🔬 リカレントニューラルネットワーク(RNN)\n\n> Although recurrent neural networks (RNNs) trained on cognitive tasks have become a widely used framework for studying neural computation, the internal mechanisms by which RNNs switch between rhythms across multiple frequency bands, and how these mechanisms relate to neuronal...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Multiple mechanisms of rhythm switching in recurrent neural networks with adaptive time constants\n🔗 https://arxiv.org/abs/2605.14388\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #脳情報",
+  "summaryJP": "リカレントニューラルネットワーク(RNN) — 次世代へ続く布石（コネクトミクス・回路解析）",
+  "paperAuthors": "Yutaka Yamaguti, Shota Nakamura",
+  "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+  "paperId": "2605.14388",
   "paperSource": "arxiv",
-  "themeArea": "脳情報科学",
+  "themeArea": "コネクトミクス・回路解析",
   "jpKeywords": [
-    "ECoG(皮質脳波)"
+    "リカレントニューラルネットワーク(RNN)"
   ],
-  "abstractExcerpt": "The capability of Deep Neural Networks (DNNs) to recognize objects in orientations outside the distribution of the training data is not well understood. We present evidence that DNNs are capable of generalizing to objects in novel…",
+  "abstractExcerpt": "Although recurrent neural networks (RNNs) trained on cognitive tasks have become a widely used framework for studying neural computation, the internal mechanisms by which RNNs switch between rhythms across multiple frequency bands, and how…",
   "figureUrls": [
-    "https://arxiv.org/html/2109.13445/2109.13445v3/x1.png",
-    "https://arxiv.org/html/2109.13445/2109.13445v3/Figures/Datasets/ThreeCategoriesV2.png",
-    "https://arxiv.org/html/2109.13445/2109.13445v3/x3.png"
+    "https://arxiv.org/html/2605.14388/2605.14388v2/fig3.png",
+    "https://arxiv.org/html/2605.14388/2605.14388v2/fig4.png",
+    "https://arxiv.org/html/2605.14388/2605.14388v2/fig_c.png"
   ]
 }

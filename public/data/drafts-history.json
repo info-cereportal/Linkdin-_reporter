@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-08-13T23:21:21.660Z",
+    "date": "2026-08-13",
+    "topic": "リカレントニューラルネットワーク(RNN)",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Multiple mechanisms of rhythm switching in recurrent neural networks with adaptive time constants",
+    "paperLink": "https://arxiv.org/abs/2605.14388",
+    "figureUrl": "https://arxiv.org/html/2605.14388/2605.14388v2/fig3.png",
+    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nリカレントニューラルネットワーク(RNN)の最新研究です。\n\n🔬 リカレントニューラルネットワーク(RNN)\n\n> Although recurrent neural networks (RNNs) trained on cognitive tasks have become a widely used framework for studying neural computation, the internal mechanisms by which RNNs switch between rhythms across multiple frequency bands, and how these mechanisms relate to neuronal...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Multiple mechanisms of rhythm switching in recurrent neural networks with adaptive time constants\n🔗 https://arxiv.org/abs/2605.14388\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #脳情報",
+    "summaryJP": "リカレントニューラルネットワーク(RNN) — 次世代へ続く布石（コネクトミクス・回路解析）",
+    "paperAuthors": "Yutaka Yamaguti, Shota Nakamura",
+    "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+    "paperId": "2605.14388",
+    "paperSource": "arxiv",
+    "themeArea": "コネクトミクス・回路解析",
+    "jpKeywords": [
+      "リカレントニューラルネットワーク(RNN)"
+    ],
+    "abstractExcerpt": "Although recurrent neural networks (RNNs) trained on cognitive tasks have become a widely used framework for studying neural computation, the internal mechanisms by which RNNs switch between rhythms across multiple frequency bands, and how…",
+    "figureUrls": [
+      "https://arxiv.org/html/2605.14388/2605.14388v2/fig3.png",
+      "https://arxiv.org/html/2605.14388/2605.14388v2/fig4.png",
+      "https://arxiv.org/html/2605.14388/2605.14388v2/fig_c.png"
+    ]
+  },
+  {
     "generatedAt": "2026-08-12T23:20:17.705Z",
     "date": "2026-08-12",
     "topic": "ECoG(皮質脳波)",
@@ -1233,33 +1259,6 @@
       "https://arxiv.org/html/2510.22022/2510.22022v2/figs/tunnel-fovea.png",
       "https://arxiv.org/html/2510.22022/2510.22022v2/figs/tunnel-fovea-stimulus.png",
       "https://arxiv.org/html/2510.22022/2510.22022v2/figs/diff_final-target_states.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-06-24T23:46:10.732Z",
-    "date": "2026-06-24",
-    "topic": "ブレイン・コンピュータ・インターフェース(BCI)",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Average Rankings Mask Per-Subject Optimality: A Friedman-Nemenyi Benchmark of EEG Motor-Imagery BCI Decoders",
-    "paperLink": "https://arxiv.org/abs/2606.24394",
-    "figureUrl": "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure1.png",
-    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、ブレイン・コンピュータ・インターフェース(BCI)の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 EEG × ブレイン・コンピュータ・インターフェース(BCI)\n\n📊 注目すべきデータ：\n→ Covariance tangent-space projection (cov-tgsp) and Common Spatial Patterns (CSP) are the strongest families, but their ordering is dataset-dependent and, on the largest and most...\n→ At the individual level the single best pipeline is optimal for only 35% of PhysionetMI participants, and nonlinear descriptors are best for roughly one third; matching pipeline...\n\nなぜこの数字が重要か。\n\nBCI・ニューラルインターフェースにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Average Rankings Mask Per-Subject Optimality: A Friedman-Nemenyi Benchmark of EEG Motor-Imagery BCI Decoders\n🔗 https://arxiv.org/abs/2606.24394\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #DeepLearning",
-    "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI) — 数値で示された新事実（BCI・ニューラルインターフェース）",
-    "paperAuthors": "Xavier Vasques, Paul Barbaste, Olivier Oullier",
-    "publishedDate": "Wed, 24 Jun 2026 00:00:00 -0400",
-    "paperId": "2606.24394",
-    "paperSource": "arxiv",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "EEG",
-      "ブレイン・コンピュータ・インターフェース(BCI)"
-    ],
-    "abstractExcerpt": "Electroencephalography (EEG) is the dominant non-invasive modality for brain-computer interfaces (BCIs), yet reliable decoding of motor imagery is hampered by inter- and intra-individual variability. A recurring claim is that one decoding…",
-    "figureUrls": [
-      "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure1.png",
-      "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure2.png",
-      "https://arxiv.org/html/2606.24394/2606.24394v1/ArXiv/Figure3.png"
     ]
   }
 ]
