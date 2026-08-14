@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T23:21:22.503Z",
+  "generatedAt": "2026-08-14T22:55:48.630Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Consciousness as Intrinsic Structure: Towards a Chemistry of Experience",
-          "url": "https://arxiv.org/abs/2608.11398",
-          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "title": "From Observation to Intervention: Memory in Brains and Large Language Models",
+          "url": "https://arxiv.org/abs/2608.12377",
+          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "To be conscious is to have an experience - not a collection of phenomenal atoms, but a structured whole composed of distinctions and the relations that bind them. Integrated Information Theory (IIT) identifies the essential properties of…",
-          "authors": "Matteo Grasso, Jeremiah Hendren, Giulio Tononi"
+          "summary": "Brains and large language models (LLMs) are fundamentally different memory systems, but they can be compared through shared functional questions: where memory-related information is represented, how partial cues recover broader…",
+          "authors": "Morteza Salehjahromi, Shayan A. Zadegan, Amgad Muneer, Jia Wu"
         },
         {
-          "title": "Conflict and Congruency Effects in Large Language Models: In-Weight and In-Context Competition in a Verbal Conflict Task",
-          "url": "https://arxiv.org/abs/2608.11510",
-          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "title": "Trophic structure predicts seizure propagation in brain network models",
+          "url": "https://arxiv.org/abs/2608.12382",
+          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Congruency effects, observed in conflict tasks such as Stroop and flanker tasks, have been investigated for nearly a century in psychology and neuroscience, but their mechanistic basis is not fully understood. We introduce a verbal-only…",
-          "authors": "Xiaoyang Hu, Mike Angstadt, Shane Storks, Zan Huang, Aman Taxali, Alex Weigard, Richard L. Lewis, Chandra Sripada"
+          "summary": "Epilepsy is widely regarded as a disorder driven by connectivity in the brain. We use a model of seizure dynamics on directed networks to investigate how structural properties affect seizure propensity. We find that properties such as…",
+          "authors": "Peter Kissack, Catherine Drysdale, Samuel Johnson"
         },
         {
-          "title": "Beyond Local Power: Functional Connectivity Analysis for Subject-Independent Learning Style Recognition",
-          "url": "https://arxiv.org/abs/2608.12000",
-          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "title": "A Bayes-Markov Neuromorphic Model of Cortical Orientation Selectivity: A Computational Re-implementation and Quantitative Simulation Study",
+          "url": "https://arxiv.org/abs/2608.12388",
+          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Identifying individual learning styles optimizes pedagogical efficacy. While traditional questionnaires are structured, behavioral tracking methods require prolonged interaction log accumulation. To overcome these temporal constraints,…",
-          "authors": "Wiga Maulana Baihaqi, Indriana Hidayah, Sri Kusrohmaniah, Noor Akhmad Setiawan"
+          "summary": "The emergence of orientation selectivity in the primary visual cortex (V1) remains a central question in computational neuroscience. Shirazi's Bayes-Markov model proposed a probabilistic explanation for how orientation-selective inhibition…",
+          "authors": "Abolfazl Moslemi, Milad Sarabadani, Fatemeh Sefidian, Hossein Peyvandi"
         },
         {
-          "title": "The Rosetta Stone and Levels of Principled Inference to the Experience of Another Mind",
-          "url": "https://arxiv.org/abs/2608.12030",
-          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "title": "Metacognitive Skill Learning: A Computational Account",
+          "url": "https://arxiv.org/abs/2608.12393",
+          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The classical problem of Other Minds has dogged philosophers for millennia; asking if we have any way to truly understand the experience of another mind. We know our own intrinsic experience by acquaintance, but can only ever hope to…",
-          "authors": "Kallum Robinson, Giulio Tononi, Naotsugu Tsuchiya, Matteo Grasso"
+          "summary": "This dissertation presents the first formal theory of metacognitive skill learning. Metacognition, the capacity to monitor and control one's own cognitive processes, has been widely studied, yet the field still lacks a theoretical…",
+          "authors": "Brendan Conway-Smith"
         },
         {
-          "title": "Testing the limits of past-adapted explanations by post-endpoint randomisation: anticipatory EEG as a worked case",
-          "url": "https://arxiv.org/abs/2608.12072",
-          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "title": "VR-IPS: Virtual Reality Tool for Photic Stimulation in Photosensitive Diagnosis",
+          "url": "https://arxiv.org/abs/2608.12394",
+          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "A predictive model can fit its data even when its information set is insufficient; fit alone cannot establish sufficiency. This Perspective introduces Level II-A, a new design-based inference framework to test this distinction, illustrated…",
-          "authors": "George Sopasakis (Research and Development Department, Ximantis AB, Onsala, Sweden), Alexandros Sopasakis (Department of Mathematics, Lund University, Lund, Sweden)"
+          "summary": "Photosensitivity is a neurological condition in which the brain generates epileptiform activity in response to visual stimuli. The standardized clinical diagnosis procedure, named Intermitent Photic Stimulation (IPS), involves exposing…",
+          "authors": "Fernando Moncada Martins, Daniel Pérez Prádanos, Angel Rio-Alvarez, MG Cano-Celestino, María Antonia Gutiérrez, Pablo Calvo Calleja, D. Kasteleijn-Nolst Trenite, Víctor M. González"
         },
         {
-          "title": "Multiple mechanisms of rhythm switching in recurrent neural networks with adaptive time constants",
-          "url": "https://arxiv.org/abs/2605.14388",
-          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "title": "Zenons Demon and the Denial of Domain-Generality for Transformer-Based Computational Models of Human Behavior",
+          "url": "https://arxiv.org/abs/2608.12396",
+          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Although recurrent neural networks (RNNs) trained on cognitive tasks have become a widely used framework for studying neural computation, the internal mechanisms by which RNNs switch between rhythms across multiple frequency bands, and how…",
-          "authors": "Yutaka Yamaguti, Shota Nakamura"
+          "summary": "Transformer-based models of human behavior (e.g., the Centaur model by Binz, et al., 2025) posit to be domain general computational models of human behavior. The claim of domain-generality is by virtue of the supposed capability to predict…",
+          "authors": "Mark Orr, Edward A. Cranford, Ken Ford, Kevin Gluck, William Hancock, Christian Lebiere, Peter Pirolli, Frank E. Ritter, Andrea Stocco"
         }
       ]
     },
@@ -62,6 +62,22 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Two years after rules overhaul, have methadone clinics really changed?",
+          "url": "https://www.statnews.com/2026/08/14/methadone-clinics-opioid-addiction-new-rules-culture-shift/?utm_campaign=rss",
+          "publishedDate": "Fri, 14 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Methadone clinics don't have to be as rigid in how they dispense opioid addiction medicine. Some, though not all, are changing their ways.",
+          "authors": "Lev Facher"
+        },
+        {
+          "title": "How will legal challenges fare against CMS rule on gender-affirming care?",
+          "url": "https://www.statnews.com/2026/08/14/cms-transgender-care-rule-how-will-legal-challenges-fare/?utm_campaign=rss",
+          "publishedDate": "Fri, 14 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A CMS rule finalized this week may prove more difficult to challenge than previous Trump administration actions to end transgender care for young people.",
+          "authors": "Theresa Gaffney"
+        },
         {
           "title": "STAT+: Kennedy heads west, slams Becerra",
           "url": "https://www.statnews.com/2026/08/13/rfk-california-tour-hhs-addiction-treatment-plan-dc-diagnosis/?utm_campaign=rss",
@@ -93,22 +109,6 @@
           "source": "statnews.com",
           "summary": "Talks are underway between the Democratic Republic of the Congo and the WHO to expedite the start of a multi-armed Phase 3 clinical trial of Ebola vaccines.",
           "authors": "Helen Branswell"
-        },
-        {
-          "title": "Vaping and cannabis hit record highs among young adults in 2025: Survey",
-          "url": "https://www.statnews.com/2026/08/12/vaping-cannabis-use-rates-young-adults/?utm_campaign=rss",
-          "publishedDate": "Wed, 12 Aug 2026 20:30:36 +0000",
-          "source": "statnews.com",
-          "summary": "Young adults’ use of vapes and cannabis hit all-time highs last year, according to a new survey.",
-          "authors": "Sarah Todd"
-        },
-        {
-          "title": "Trump administration’s new ‘treatment first’ addiction toolkit emphasizes faith, abstinence",
-          "url": "https://www.statnews.com/2026/08/12/addiction-homelessness-hhs-toolkit-harm-reduction/?utm_campaign=rss",
-          "publishedDate": "Wed, 12 Aug 2026 19:43:40 +0000",
-          "source": "statnews.com",
-          "summary": "The White House nods to use of addiction medications but moves away from other harm reduction strategies.",
-          "authors": "Lev Facher"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: Kennedy heads west, slams Becerra",
-          "url": "https://www.statnews.com/2026/08/13/rfk-california-tour-hhs-addiction-treatment-plan-dc-diagnosis/?utm_campaign=rss",
-          "publishedDate": "Thu, 13 Aug 2026 14:37:18 +0000",
-          "source": "statnews.com",
-          "summary": "The health secretary headed to California to lay out the government's new approach to addiction treatment.",
-          "authors": "John Wilkerson"
+          "title": "Immune cells flood into the aging brain, Stanford scientists discover",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
+          "publishedDate": "Fri, 14 Aug 2026 09:28:02 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as…",
+          "authors": ""
         },
         {
-          "title": "STAT+: Newsom promotes affordable insulin, but California’s generic label is off to a slow start",
-          "url": "https://www.statnews.com/2026/08/13/newsom-california-generic-insulin-calrx-availability-slow-to-reach-patients/?utm_campaign=rss",
-          "publishedDate": "Thu, 13 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Gov. Gavin Newsom is focused on making health care affordable, but his CalRx insulin has been slow to reach patients.",
-          "authors": "Angela Hart — KFF Health News"
+          "title": "Taking the stairs could protect your heart and help you live longer",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814011029.htm",
+          "publishedDate": "Fri, 14 Aug 2026 08:35:37 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Simply choosing the stairs could have surprisingly big benefits for your heart and longevity. A large analysis involving more than 480,000 people found that regular stair climbers were 39% less likely to die from cardiovascular disease and…",
+          "authors": ""
         },
         {
-          "title": "STAT+: Providers notch No Surprises Act legal win that could boost their pay",
-          "url": "https://www.statnews.com/2026/08/12/texas-medical-association-no-surprises-act-lawsuit-qpa/?utm_campaign=rss",
-          "publishedDate": "Wed, 12 Aug 2026 20:29:03 +0000",
-          "source": "statnews.com",
-          "summary": "The change could boost how much health insurers, and patients, pay for some care.",
-          "authors": "Tara Bannow"
+          "title": "A stress hormone may help the brain repair itself",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
+          "publishedDate": "Fri, 14 Aug 2026 07:35:11 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells…",
+          "authors": ""
         },
         {
-          "title": "Trump administration’s new ‘treatment first’ addiction toolkit emphasizes faith, abstinence",
-          "url": "https://www.statnews.com/2026/08/12/addiction-homelessness-hhs-toolkit-harm-reduction/?utm_campaign=rss",
-          "publishedDate": "Wed, 12 Aug 2026 19:43:40 +0000",
+          "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm",
+          "publishedDate": "Fri, 14 Aug 2026 07:19:42 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use…",
+          "authors": ""
+        },
+        {
+          "title": "Two years after rules overhaul, have methadone clinics really changed?",
+          "url": "https://www.statnews.com/2026/08/14/methadone-clinics-opioid-addiction-new-rules-culture-shift/?utm_campaign=rss",
+          "publishedDate": "Fri, 14 Aug 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "The White House nods to use of addiction medications but moves away from other harm reduction strategies.",
+          "summary": "Methadone clinics don't have to be as rigid in how they dispense opioid addiction medicine. Some, though not all, are changing their ways.",
           "authors": "Lev Facher"
         },
         {
-          "title": "WHO says Trump’s latest vaccine policy order is misguided",
-          "url": "https://www.statnews.com/2026/08/12/trump-vaccine-executive-order-critiqued-by-tedros-who/?utm_campaign=rss",
-          "publishedDate": "Wed, 12 Aug 2026 18:03:06 +0000",
-          "source": "statnews.com",
-          "summary": "The White House's order attempting to overhaul the vaccine schedule could subject children to more needles and more disease risk, world health leaders say.",
-          "authors": "Helen Branswell"
-        },
-        {
-          "title": "Ozempic may have revealed the brain’s hidden “craving center”",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260811011138.htm",
-          "publishedDate": "Wed, 12 Aug 2026 10:36:07 EDT",
+          "title": "This common vitamin deficiency becomes far more dangerous when paired with belly fat",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260813045554.htm",
+          "publishedDate": "Thu, 13 Aug 2026 22:29:03 EDT",
           "source": "sciencedaily.com",
-          "summary": "Ozempic-like drugs appear to weaken more than hunger—they may also reduce cravings for alcohol and other addictive substances. Scientists are increasingly tracing this effect to the lateral septum, a brain region that helps connect…",
+          "summary": "A large study of more than 5,500 adults over 50 found a striking combination of risk factors: abdominal obesity paired with vitamin D deficiency was linked to a 123% higher risk of death over six years. Each condition was associated with…",
           "authors": ""
         }
       ]
@@ -173,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Predictive Allostatic Organization in Recurrent and Spiking Agents Under Partial Observability",
-          "url": "https://arxiv.org/abs/2608.11506",
-          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "title": "Insights from Multi-tasking the EAX Algorithm for the Travelling Salesperson Problem",
+          "url": "https://arxiv.org/abs/2608.12772",
+          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Adaptive behavior under partial observability depends on internal organization that carries information beyond the current observation. Drawing on Barrett and Miller's account of categorization as predictive, compressive, functionally…",
-          "authors": "Frederick Hayes III"
+          "summary": "Evolutionary multitasking allows several related problems to be solved in a single run of an algorithm. In this paper, we investigate integrating evolutionary multitasking with Edge Assembly Crossover (MT-EAX) to solve the classical…",
+          "authors": "Liam Wigney, Aneta Neumann, Yew-Soon Ong, Frank Neumann"
         },
         {
-          "title": "Lapis: Laplacian Spiking Attention via First-Spike Timing and Membrane Leakage",
-          "url": "https://arxiv.org/abs/2608.11865",
-          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "title": "A Bayes-Markov Neuromorphic Model of Cortical Orientation Selectivity: A Computational Re-implementation and Quantitative Simulation Study",
+          "url": "https://arxiv.org/abs/2608.12388",
+          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Self-attention has become central to spiking vision transformers, yet its query-key scoring is still largely inherited from dense networks. Existing spiking variants either simplify dot product scoring or replace it with discrete…",
-          "authors": "Kaiwen Tang, Jiaqi Zheng, Zixuan Zhu, Yiqun Wang, Zhanglu Yan, Weng-Fai Wong"
+          "summary": "The emergence of orientation selectivity in the primary visual cortex (V1) remains a central question in computational neuroscience. Shirazi's Bayes-Markov model proposed a probabilistic explanation for how orientation-selective inhibition…",
+          "authors": "Abolfazl Moslemi, Milad Sarabadani, Fatemeh Sefidian, Hossein Peyvandi"
         },
         {
-          "title": "Adaptive Hybrid Particle Swarm Optimization with Gradient Descent",
-          "url": "https://arxiv.org/abs/2608.11258",
-          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "title": "Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies",
+          "url": "https://arxiv.org/abs/2608.12679",
+          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Gradient injection helps Particle Swarm Optimization (PSO) only when the swarm has identified a basin with smooth local structure, not universally. We propose Adaptive Hybrid PSO (AHPSO), which uses a sigmoid function on swarm diversity to…",
-          "authors": "Aryan Gurudeo"
+          "summary": "Large Language Models (LLMs) are increasingly deployed in discovery domains such as math and science. The usual approach is to present the problem to the model and use its answer as the proposed solution. However, beyond this best guess,…",
+          "authors": "Conor F. Hayes, Elliot Meyerson, Kajetan Schweighofer, Roberto Dailey, Babak Hodjat, Risto Miikkulainen, Xin Qiu"
         },
         {
-          "title": "Contextual Quality-Diversity Evolutionary Reinforcement Learning for HVAC Control in Tropical Commercial Buildings",
-          "url": "https://arxiv.org/abs/2608.11324",
-          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "title": "Multitask Pareto Optimization for Monotone Submodular Problems with Dynamic Constraints",
+          "url": "https://arxiv.org/abs/2608.10425",
+          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper proposes a contextual quality-diversity evolutionary reinforcement-learning controller, CQD-ERL, for the supervisory control of a tropical, water-cooled chiller plant and its associated air side. Rather than converging to a…",
-          "authors": "Tran Le Vu"
+          "summary": "Evolutionary multitasking is a recent approach that solves multiple related optimization problems within a single evolutionary run, rather than addressing each problem separately. We consider monotone submodular optimization problems with…",
+          "authors": "Liam Wigney, Frank Neumann"
         },
         {
-          "title": "Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons",
-          "url": "https://arxiv.org/abs/2506.03392",
-          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "title": "Evolutionary Brain-Body Co-Optimization Consistently Fails to Select for Morphological Potential",
+          "url": "https://arxiv.org/abs/2508.17464",
+          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We propose a new ternary spiking neuron model to improve the representation capacity of binary spiking neurons in deep Q-learning. Although a ternary neuron model has recently been introduced to overcome the limited representation capacity…",
-          "authors": "Aref Ghoreishee, Abhishek Mishra, John Walsh, Anup Das, Nagarajan Kandasamy"
+          "summary": "Brain-body co-optimization remains a challenging problem. To understand and overcome its challenges, we exhaustively map a morphology-fitness landscape: we train controllers for each morphology in a design space of 1,305,840 voxel-based…",
+          "authors": "Alican Mertan, Nick Cheney"
         },
         {
-          "title": "Persistent Recursive Worlds Enable Autonomous Software Evolution",
-          "url": "https://arxiv.org/abs/2608.10450",
-          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "title": "Training Non-Differentiable Networks via Optimal Transport",
+          "url": "https://arxiv.org/abs/2605.01928",
+          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Complex software systems develop over timescales that exceed the lifespan of any individual coding agent. Most agentic software systems preserve continuity through persistent sessions, memories, managers or shared context. We introduce…",
-          "authors": "Beichen Huang, Zhenyu Liang, Bowen Zheng, Ran Cheng"
+          "summary": "We optimize losses that jump: spiking thresholds, quantized layers, and discrete routing put jumps in the forward pass, where backpropagation does not apply. Finite differences fail: at a derivative-estimating radius, 99.5% of probe pairs…",
+          "authors": "An T. Le"
         }
       ]
     },
@@ -228,12 +228,12 @@
       "itemCount": 1,
       "items": [
         {
-          "title": "Beyond Local Power: Functional Connectivity Analysis for Subject-Independent Learning Style Recognition",
-          "url": "https://arxiv.org/abs/2608.12000",
-          "publishedDate": "Thu, 13 Aug 2026 00:00:00 -0400",
+          "title": "Heterogeneity-Aware Belief Synchronization for Semantic Communication in AI-Native 6G Networks",
+          "url": "https://arxiv.org/abs/2608.13394",
+          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Identifying individual learning styles optimizes pedagogical efficacy. While traditional questionnaires are structured, behavioral tracking methods require prolonged interaction log accumulation. To overcome these temporal constraints,…",
-          "authors": "Wiga Maulana Baihaqi, Indriana Hidayah, Sri Kusrohmaniah, Noor Akhmad Setiawan"
+          "summary": "6G networks will not be serving as communication infrastructures only; rather, they are expected to evolve into intelligent systems, where thousands of autonomous artificial intelligence (AI) agents are interconnected. The agents are…",
+          "authors": "Muhammad Hannan Akram, Muhammad Abubakar Rashid, Wassi Haider Kabir, Haejoon Jung, Kapal Dev, Syed Ali Hassan"
         }
       ]
     }

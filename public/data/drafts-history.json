@@ -1,5 +1,30 @@
 [
   {
+    "generatedAt": "2026-08-14T22:55:48.161Z",
+    "date": "2026-08-14",
+    "topic": "大規模言語モデル(LLM)と言語処理",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "From Observation to Intervention: Memory in Brains and Large Language Models",
+    "paperLink": "https://arxiv.org/abs/2608.12377",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n大規模言語モデル(LLM)と言語処理に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 大規模言語モデル(LLM) × 言語処理 × 記憶 × エピソード記憶\n\n> Brains and large language models (LLMs) are fundamentally different memory systems, but they can be compared through shared functional questions: where memory-related information is represented, how partial cues recover broader associations, how new information is written or...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nコネクトミクス・回路解析の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 From Observation to Intervention: Memory in Brains and Large Language Models\n🔗 https://arxiv.org/abs/2608.12377\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #認知科学",
+    "summaryJP": "大規模言語モデル(LLM)と言語処理 — 脳科学とAIをつなぐ研究（コネクトミクス・回路解析）",
+    "paperAuthors": "Morteza Salehjahromi, Shayan A. Zadegan, Amgad Muneer, Jia Wu",
+    "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
+    "paperId": "2608.12377",
+    "paperSource": "arxiv",
+    "themeArea": "コネクトミクス・回路解析",
+    "jpKeywords": [
+      "大規模言語モデル(LLM)",
+      "言語処理",
+      "記憶",
+      "エピソード記憶",
+      "学習"
+    ],
+    "abstractExcerpt": "Brains and large language models (LLMs) are fundamentally different memory systems, but they can be compared through shared functional questions: where memory-related information is represented, how partial cues recover broader…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-08-13T23:21:21.660Z",
     "date": "2026-08-13",
     "topic": "リカレントニューラルネットワーク(RNN)",
@@ -1233,32 +1258,5 @@
     ],
     "abstractExcerpt": "Across the sciences, autonomous systems are increasingly being used in closed-loop discovery, proposing new theories and designing and running experiments to test them. This approach is yet to be applied in the field of cognitive science,…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-06-25T23:55:48.669Z",
-    "date": "2026-06-25",
-    "topic": "計算論的神経科学と神経ダイナミクス",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Control of neural field equations with step-function inputs",
-    "paperLink": "https://arxiv.org/abs/2510.22022",
-    "figureUrl": "https://arxiv.org/html/2510.22022/2510.22022v2/figs/tunnel-fovea.png",
-    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\nこの研究から得られる3つの重要な示唆。\n\n計算論的神経科学と神経ダイナミクスの最新成果を整理しました。\n\n🔬 計算論的神経科学 × 神経ダイナミクス\n\n📊 注目すべきデータ：\n→ Extensive numerical results in one and two spatial dimensions confirm the effectiveness of the proposed syntheses and demonstrate their superior performance compared to inputs...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n計算論的神経科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Control of neural field equations with step-function inputs\n🔗 https://arxiv.org/abs/2510.22022\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #神経科学 #計算論的神経科学 #ComputationalNeuroscience",
-    "summaryJP": "計算論的神経科学と神経ダイナミクス — 注目すべき3つの示唆（計算論的神経科学）",
-    "paperAuthors": "Cyprien Tamekue, ShiNung Ching",
-    "publishedDate": "Thu, 25 Jun 2026 00:00:00 -0400",
-    "paperId": "2510.22022",
-    "paperSource": "arxiv",
-    "themeArea": "計算論的神経科学",
-    "jpKeywords": [
-      "計算論的神経科学",
-      "神経ダイナミクス"
-    ],
-    "abstractExcerpt": "Wilson-Cowan and Amari-type models capture nonlinear neural population dynamics, providing a fundamental framework for modeling how sensory and other exogenous inputs shape activity in neural tissue. We study the controllability properties…",
-    "figureUrls": [
-      "https://arxiv.org/html/2510.22022/2510.22022v2/figs/tunnel-fovea.png",
-      "https://arxiv.org/html/2510.22022/2510.22022v2/figs/tunnel-fovea-stimulus.png",
-      "https://arxiv.org/html/2510.22022/2510.22022v2/figs/diff_final-target_states.png"
-    ]
   }
 ]
