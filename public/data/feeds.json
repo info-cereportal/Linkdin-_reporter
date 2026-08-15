@@ -1,61 +1,12 @@
 {
-  "generatedAt": "2026-08-14T22:55:48.630Z",
+  "generatedAt": "2026-08-15T22:54:04.426Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "From Observation to Intervention: Memory in Brains and Large Language Models",
-          "url": "https://arxiv.org/abs/2608.12377",
-          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Brains and large language models (LLMs) are fundamentally different memory systems, but they can be compared through shared functional questions: where memory-related information is represented, how partial cues recover broader…",
-          "authors": "Morteza Salehjahromi, Shayan A. Zadegan, Amgad Muneer, Jia Wu"
-        },
-        {
-          "title": "Trophic structure predicts seizure propagation in brain network models",
-          "url": "https://arxiv.org/abs/2608.12382",
-          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Epilepsy is widely regarded as a disorder driven by connectivity in the brain. We use a model of seizure dynamics on directed networks to investigate how structural properties affect seizure propensity. We find that properties such as…",
-          "authors": "Peter Kissack, Catherine Drysdale, Samuel Johnson"
-        },
-        {
-          "title": "A Bayes-Markov Neuromorphic Model of Cortical Orientation Selectivity: A Computational Re-implementation and Quantitative Simulation Study",
-          "url": "https://arxiv.org/abs/2608.12388",
-          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The emergence of orientation selectivity in the primary visual cortex (V1) remains a central question in computational neuroscience. Shirazi's Bayes-Markov model proposed a probabilistic explanation for how orientation-selective inhibition…",
-          "authors": "Abolfazl Moslemi, Milad Sarabadani, Fatemeh Sefidian, Hossein Peyvandi"
-        },
-        {
-          "title": "Metacognitive Skill Learning: A Computational Account",
-          "url": "https://arxiv.org/abs/2608.12393",
-          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This dissertation presents the first formal theory of metacognitive skill learning. Metacognition, the capacity to monitor and control one's own cognitive processes, has been widely studied, yet the field still lacks a theoretical…",
-          "authors": "Brendan Conway-Smith"
-        },
-        {
-          "title": "VR-IPS: Virtual Reality Tool for Photic Stimulation in Photosensitive Diagnosis",
-          "url": "https://arxiv.org/abs/2608.12394",
-          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Photosensitivity is a neurological condition in which the brain generates epileptiform activity in response to visual stimuli. The standardized clinical diagnosis procedure, named Intermitent Photic Stimulation (IPS), involves exposing…",
-          "authors": "Fernando Moncada Martins, Daniel Pérez Prádanos, Angel Rio-Alvarez, MG Cano-Celestino, María Antonia Gutiérrez, Pablo Calvo Calleja, D. Kasteleijn-Nolst Trenite, Víctor M. González"
-        },
-        {
-          "title": "Zenons Demon and the Denial of Domain-Generality for Transformer-Based Computational Models of Human Behavior",
-          "url": "https://arxiv.org/abs/2608.12396",
-          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Transformer-based models of human behavior (e.g., the Centaur model by Binz, et al., 2025) posit to be domain general computational models of human behavior. The claim of domain-generality is by virtue of the supposed capability to predict…",
-          "authors": "Mark Orr, Edward A. Cranford, Ken Ford, Kevin Gluck, William Hancock, Christian Lebiere, Peter Pirolli, Frank E. Ritter, Andrea Stocco"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -118,6 +69,38 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
+          "publishedDate": "Sat, 15 Aug 2026 10:40:16 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about 7% since 1999, while…",
+          "authors": ""
+        },
+        {
+          "title": "When gut microbes run low on fiber, they may start eating you",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm",
+          "publishedDate": "Sat, 15 Aug 2026 10:30:28 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, while indigestible plant proteins help…",
+          "authors": ""
+        },
+        {
+          "title": "Common food preservative linked to rising suicide deaths among young people",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260813045557.htm",
+          "publishedDate": "Sat, 15 Aug 2026 10:09:09 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A widely available food-preservation chemical is emerging as a disturbing factor in rising UK suicide deaths, particularly among younger people and men. Researchers say the scale may be underestimated and are calling for urgent…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
+          "publishedDate": "Sat, 15 Aug 2026 06:55:39 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus…",
+          "authors": ""
+        },
+        {
           "title": "Immune cells flood into the aging brain, Stanford scientists discover",
           "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
           "publishedDate": "Fri, 14 Aug 2026 09:28:02 EDT",
@@ -132,108 +115,67 @@
           "source": "sciencedaily.com",
           "summary": "Simply choosing the stairs could have surprisingly big benefits for your heart and longevity. A large analysis involving more than 480,000 people found that regular stair climbers were 39% less likely to die from cardiovascular disease and…",
           "authors": ""
-        },
-        {
-          "title": "A stress hormone may help the brain repair itself",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
-          "publishedDate": "Fri, 14 Aug 2026 07:35:11 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells…",
-          "authors": ""
-        },
-        {
-          "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm",
-          "publishedDate": "Fri, 14 Aug 2026 07:19:42 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. Hormone therapy use…",
-          "authors": ""
-        },
-        {
-          "title": "Two years after rules overhaul, have methadone clinics really changed?",
-          "url": "https://www.statnews.com/2026/08/14/methadone-clinics-opioid-addiction-new-rules-culture-shift/?utm_campaign=rss",
-          "publishedDate": "Fri, 14 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Methadone clinics don't have to be as rigid in how they dispense opioid addiction medicine. Some, though not all, are changing their ways.",
-          "authors": "Lev Facher"
-        },
-        {
-          "title": "This common vitamin deficiency becomes far more dangerous when paired with belly fat",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260813045554.htm",
-          "publishedDate": "Thu, 13 Aug 2026 22:29:03 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A large study of more than 5,500 adults over 50 found a striking combination of risk factors: abdominal obesity paired with vitamin D deficiency was linked to a 123% higher risk of death over six years. Each condition was associated with…",
-          "authors": ""
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Insights from Multi-tasking the EAX Algorithm for the Travelling Salesperson Problem",
-          "url": "https://arxiv.org/abs/2608.12772",
-          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Evolutionary multitasking allows several related problems to be solved in a single run of an algorithm. In this paper, we investigate integrating evolutionary multitasking with Edge Assembly Crossover (MT-EAX) to solve the classical…",
-          "authors": "Liam Wigney, Aneta Neumann, Yew-Soon Ong, Frank Neumann"
-        },
-        {
-          "title": "A Bayes-Markov Neuromorphic Model of Cortical Orientation Selectivity: A Computational Re-implementation and Quantitative Simulation Study",
-          "url": "https://arxiv.org/abs/2608.12388",
-          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The emergence of orientation selectivity in the primary visual cortex (V1) remains a central question in computational neuroscience. Shirazi's Bayes-Markov model proposed a probabilistic explanation for how orientation-selective inhibition…",
-          "authors": "Abolfazl Moslemi, Milad Sarabadani, Fatemeh Sefidian, Hossein Peyvandi"
-        },
-        {
-          "title": "Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies",
-          "url": "https://arxiv.org/abs/2608.12679",
-          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Large Language Models (LLMs) are increasingly deployed in discovery domains such as math and science. The usual approach is to present the problem to the model and use its answer as the proposed solution. However, beyond this best guess,…",
-          "authors": "Conor F. Hayes, Elliot Meyerson, Kajetan Schweighofer, Roberto Dailey, Babak Hodjat, Risto Miikkulainen, Xin Qiu"
-        },
-        {
-          "title": "Multitask Pareto Optimization for Monotone Submodular Problems with Dynamic Constraints",
-          "url": "https://arxiv.org/abs/2608.10425",
-          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Evolutionary multitasking is a recent approach that solves multiple related optimization problems within a single evolutionary run, rather than addressing each problem separately. We consider monotone submodular optimization problems with…",
-          "authors": "Liam Wigney, Frank Neumann"
-        },
-        {
-          "title": "Evolutionary Brain-Body Co-Optimization Consistently Fails to Select for Morphological Potential",
-          "url": "https://arxiv.org/abs/2508.17464",
-          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Brain-body co-optimization remains a challenging problem. To understand and overcome its challenges, we exhaustively map a morphology-fitness landscape: we train controllers for each morphology in a design space of 1,305,840 voxel-based…",
-          "authors": "Alican Mertan, Nick Cheney"
-        },
-        {
-          "title": "Training Non-Differentiable Networks via Optimal Transport",
-          "url": "https://arxiv.org/abs/2605.01928",
-          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We optimize losses that jump: spiking thresholds, quantized layers, and discrete routing put jumps in the forward pass, where backpropagation does not apply. Finite differences fail: at a derivative-estimating radius, 99.5% of probe pairs…",
-          "authors": "An T. Le"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 1,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Heterogeneity-Aware Belief Synchronization for Semantic Communication in AI-Native 6G Networks",
-          "url": "https://arxiv.org/abs/2608.13394",
-          "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "6G networks will not be serving as communication infrastructures only; rather, they are expected to evolve into intelligent systems, where thousands of autonomous artificial intelligence (AI) agents are interconnected. The agents are…",
-          "authors": "Muhammad Hannan Akram, Muhammad Abubakar Rashid, Wassi Haider Kabir, Haejoon Jung, Kapal Dev, Syed Ali Hassan"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
+        },
+        {
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }
