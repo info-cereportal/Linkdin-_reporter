@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T22:54:04.426Z",
+  "generatedAt": "2026-08-16T22:53:33.455Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,51 +69,51 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "This 10-cent heart drug cuts hospitalizations by 25%",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm",
+          "publishedDate": "Sun, 16 Aug 2026 08:22:32 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalizations by about 25%, potentially paving the…",
+          "authors": ""
+        },
+        {
+          "title": "A little movement in midlife could pay off for your brain years later",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm",
+          "publishedDate": "Sun, 16 Aug 2026 08:02:14 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later. Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective factors may differ across…",
+          "authors": ""
+        },
+        {
+          "title": "The common mistake that could make aging joints hurt more",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm",
+          "publishedDate": "Sun, 16 Aug 2026 07:23:47 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Aging gradually wears down the cartilage and fluid that protect our joints, but avoiding movement may actually make matters worse. Exercise helps nourish cartilage, strengthens the muscles that protect joints, and can reduce osteoarthritis…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists reveal why walking gets so much harder with age",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
+          "publishedDate": "Sun, 16 Aug 2026 05:13:25 EDT",
+          "source": "sciencedaily.com",
+          "summary": "As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to work harder while producing less forward…",
+          "authors": ""
+        },
+        {
+          "title": "COVID-19 awakens dormant viruses — and one is linked to long COVID",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814011034.htm",
+          "publishedDate": "Sat, 15 Aug 2026 23:03:05 EDT",
+          "source": "sciencedaily.com",
+          "summary": "COVID-19 can reactivate dormant viruses hiding in the body, including Epstein-Barr, cytomegalovirus, and several herpes viruses. One poorly understood viral family was strongly associated with long COVID and lasting disability, offering a…",
+          "authors": ""
+        },
+        {
           "title": "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
           "url": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
           "publishedDate": "Sat, 15 Aug 2026 10:40:16 EDT",
           "source": "sciencedaily.com",
           "summary": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about 7% since 1999, while…",
-          "authors": ""
-        },
-        {
-          "title": "When gut microbes run low on fiber, they may start eating you",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm",
-          "publishedDate": "Sat, 15 Aug 2026 10:30:28 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, while indigestible plant proteins help…",
-          "authors": ""
-        },
-        {
-          "title": "Common food preservative linked to rising suicide deaths among young people",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260813045557.htm",
-          "publishedDate": "Sat, 15 Aug 2026 10:09:09 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A widely available food-preservation chemical is emerging as a disturbing factor in rising UK suicide deaths, particularly among younger people and men. Researchers say the scale may be underestimated and are calling for urgent…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
-          "publishedDate": "Sat, 15 Aug 2026 06:55:39 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus…",
-          "authors": ""
-        },
-        {
-          "title": "Immune cells flood into the aging brain, Stanford scientists discover",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
-          "publishedDate": "Fri, 14 Aug 2026 09:28:02 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as…",
-          "authors": ""
-        },
-        {
-          "title": "Taking the stairs could protect your heart and help you live longer",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814011029.htm",
-          "publishedDate": "Fri, 14 Aug 2026 08:35:37 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Simply choosing the stairs could have surprisingly big benefits for your heart and longevity. A large analysis involving more than 480,000 people found that regular stair climbers were 39% less likely to die from cardiovascular disease and…",
           "authors": ""
         }
       ]
