@@ -1,18 +1,91 @@
 {
-  "generatedAt": "2026-08-16T22:53:33.455Z",
+  "generatedAt": "2026-08-17T22:56:08.046Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Data-driven techniques for translational neuroscience and personalized neuro-health",
+          "url": "https://arxiv.org/abs/2608.13749",
+          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Neurodegenexrative diseases such as Alzheimer's disease and Parkinson's disease are diagnosed most reliably only after substantial, often irreversible, neuronal loss has already occurred, creating an urgent need for quantitative tools that…",
+          "authors": "Vishal Subedi, Shashipraba N. K. Rajakaruna, Pratyusha Sarkar, Subhankar Chattoraj, Anjali Khasa, Siddhartha Nandy, Hamza Farooq, Animikh Biswas, Sanjay Chaudhuri, Asim K. Dey, Karuna Joshi, Christophe Lenglet, Ansu Chatterjee"
+        },
+        {
+          "title": "BCIJelly: An integrated ecosystem for brain-computer interface research",
+          "url": "https://arxiv.org/abs/2608.13576",
+          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Brain-computer interface (BCI) research relies on multistage computational pipelines, yet progress remains constrained by fragmented data formats, heterogeneous decoder implementations and hardware-specific deployment toolchains, and…",
+          "authors": "Liyuan Han, Xinrui Yang, Tianyu Zheng, Qizhi Yang, Yitao Qin, Liang Chen, Qinglai Wei, Binjie Hong, Xinhe Zhang, Rui Xiong, Yong Gu, Mu-ming Poo, Bo Xu, Chengyu Li, Tielin Zhang"
+        },
+        {
+          "title": "Markovian dephasing has no entanglement-breaking threshold, and a fixed tolerance will report one anyway",
+          "url": "https://arxiv.org/abs/2604.08587",
+          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "When modelling decoherence in a biological spin system it is tempting to seek a critical rate beyond which the channel is entanglement-breaking (EB) and quantum resources are gone. We show that for the two channel families in which such a…",
+          "authors": "Hikaru Wakaura, Taiki Tanimae"
+        },
+        {
+          "title": "The $\\gamma_c$-Peak: Covariant Recovery on Four Organic Qubit Platforms",
+          "url": "https://arxiv.org/abs/2605.00026",
+          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We characterize where, in the noise parameter space of the uniform dephasing--depolarizing channel $\\mathcal N_\\gamma^\\delta=\\mathcal E_\\delta\\!\\circ\\!\\mathcal D_\\gamma$, a deterministic, \\emphnonlinear, target-informed denoising heuristic…",
+          "authors": "Hikaru Wakaura, Taiki Tanimae"
+        },
+        {
+          "title": "How many labels can a biological oscillator carry? A quality-factor screen for proposed information carriers",
+          "url": "https://arxiv.org/abs/2608.10560",
+          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "How many distinguishable labels can a biological oscillator carry? Proposals invoking collective vibrational modes, endogenous electromagnetic fields, microtubule excitations and oscillatory phase codes are each debated on grounds…",
+          "authors": "Eran Kopel"
+        },
+        {
+          "title": "Untrained CNNs Match Backpropagation at V1: A Systematic RSA Comparison of Four Learning Rules Against Human fMRI",
+          "url": "https://arxiv.org/abs/2604.16875",
+          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "CORRECTION (August 2026): an evaluation-mode defect affected the predictive-coding and STDP conditions of this study; those results should not be used pending re-computation. At V1 and 224px, predictive coding falls from rho = 0.056 to…",
+          "authors": "Nils Leutenegger"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Everything the Trump administration did on health care last week",
+          "url": "https://www.statnews.com/2026/08/17/health-news-everything-the-trump-administration-did-on-health-care/?utm_campaign=rss",
+          "publishedDate": "Mon, 17 Aug 2026 12:03:57 +0000",
+          "source": "statnews.com",
+          "summary": "An executive order remaking the federal vaccine agenda, Epic's antitrust lawsuits, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "STAT+: UnitedHealth faces IRS probe over potential tax avoidance",
+          "url": "https://www.statnews.com/2026/08/17/unitedhealth-irs-probe-audit-targets-foreign-subsidiary-transfers/?utm_campaign=rss",
+          "publishedDate": "Mon, 17 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The health insurer may face a significant increase in taxes, amid a dispute with federal authorities.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "STAT+: Kennedy’s split-screen week: Talk of vaccines in D.C., fraud and addiction out West",
+          "url": "https://www.statnews.com/2026/08/17/rfk-jr-california-tour-maha-messaging-fight-fraud-addiction/?utm_campaign=rss",
+          "publishedDate": "Mon, 17 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The California trip shows how Kennedy likes to focus on key MAHA themes, while avoiding some divisive topics.",
+          "authors": "Chelsea Cirruzzo"
+        },
         {
           "title": "Two years after rules overhaul, have methadone clinics really changed?",
           "url": "https://www.statnews.com/2026/08/14/methadone-clinics-opioid-addiction-new-rules-culture-shift/?utm_campaign=rss",
@@ -36,30 +109,6 @@
           "source": "statnews.com",
           "summary": "The health secretary headed to California to lay out the government's new approach to addiction treatment.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "STAT+: Newsom promotes affordable insulin, but California’s generic label is off to a slow start",
-          "url": "https://www.statnews.com/2026/08/13/newsom-california-generic-insulin-calrx-availability-slow-to-reach-patients/?utm_campaign=rss",
-          "publishedDate": "Thu, 13 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Gov. Gavin Newsom is focused on making health care affordable, but his CalRx insulin has been slow to reach patients.",
-          "authors": "Angela Hart — KFF Health News"
-        },
-        {
-          "title": "STAT+: As young people increasingly get cancer, new fertility options are changing their futures",
-          "url": "https://www.statnews.com/2026/08/13/young-people-cancer-new-fertility-tech/?utm_campaign=rss",
-          "publishedDate": "Thu, 13 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "New technologies, cancer doctors, and reproductive specialists are working to give more patients a chance to have children post-treatment.",
-          "authors": "Brianna Abbott — The Boston Globe"
-        },
-        {
-          "title": "Talks on launch of clinical trial of Ebola vaccine in DRC advance, WHO says",
-          "url": "https://www.statnews.com/2026/08/12/ebola-who-drc-ebola-vaccine-trial/?utm_campaign=rss",
-          "publishedDate": "Wed, 12 Aug 2026 20:46:29 +0000",
-          "source": "statnews.com",
-          "summary": "Talks are underway between the Democratic Republic of the Congo and the WHO to expedite the start of a multi-armed Phase 3 clinical trial of Ebola vaccines.",
-          "authors": "Helen Branswell"
         }
       ]
     },
@@ -69,115 +118,116 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "This 10-cent heart drug cuts hospitalizations by 25%",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm",
-          "publishedDate": "Sun, 16 Aug 2026 08:22:32 EDT",
+          "title": "STAT+: The IRS is probing UnitedHealth, and a private equity slowdown",
+          "url": "https://www.statnews.com/2026/08/17/irs-probe-unitedhealth-group-taxes-private-equity-deals-physician-groups/?utm_campaign=rss",
+          "publishedDate": "Mon, 17 Aug 2026 14:40:47 +0000",
+          "source": "statnews.com",
+          "summary": "UnitedHealth faces an investigation over tax payments, and we examine why PE deals for doctor groups are slowing.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "Low-fat vegan diet helps people lose weight without eating less",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260815064825.htm",
+          "publishedDate": "Mon, 17 Aug 2026 09:07:03 EDT",
           "source": "sciencedaily.com",
-          "summary": "A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalizations by about 25%, potentially paving the…",
+          "summary": "A low-fat vegan diet may help people lose weight without counting calories, shrinking portions, or feeling constantly hungry. In a 16-week clinical trial, people eating mostly fruits, vegetables, grains, and legumes consumed about 357…",
           "authors": ""
         },
         {
-          "title": "A little movement in midlife could pay off for your brain years later",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm",
-          "publishedDate": "Sun, 16 Aug 2026 08:02:14 EDT",
+          "title": "Scientists uncover the hidden nerve network fueling breast cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814011038.htm",
+          "publishedDate": "Mon, 17 Aug 2026 08:06:50 EDT",
           "source": "sciencedaily.com",
-          "summary": "Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later. Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective factors may differ across…",
+          "summary": "Researchers have uncovered a surprising way triple-negative breast cancer may turn the body against itself. Tumors appear to recruit macrophages—immune cells normally involved in healing and fighting infection—and use them to release a…",
           "authors": ""
         },
         {
-          "title": "The common mistake that could make aging joints hurt more",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm",
-          "publishedDate": "Sun, 16 Aug 2026 07:23:47 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Aging gradually wears down the cartilage and fluid that protect our joints, but avoiding movement may actually make matters worse. Exercise helps nourish cartilage, strengthens the muscles that protect joints, and can reduce osteoarthritis…",
-          "authors": ""
+          "title": "STAT+: UnitedHealth faces IRS probe over potential tax avoidance",
+          "url": "https://www.statnews.com/2026/08/17/unitedhealth-irs-probe-audit-targets-foreign-subsidiary-transfers/?utm_campaign=rss",
+          "publishedDate": "Mon, 17 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The health insurer may face a significant increase in taxes, amid a dispute with federal authorities.",
+          "authors": "Bob Herman"
         },
         {
-          "title": "Scientists reveal why walking gets so much harder with age",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
-          "publishedDate": "Sun, 16 Aug 2026 05:13:25 EDT",
-          "source": "sciencedaily.com",
-          "summary": "As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to work harder while producing less forward…",
-          "authors": ""
+          "title": "STAT+: Kennedy’s split-screen week: Talk of vaccines in D.C., fraud and addiction out West",
+          "url": "https://www.statnews.com/2026/08/17/rfk-jr-california-tour-maha-messaging-fight-fraud-addiction/?utm_campaign=rss",
+          "publishedDate": "Mon, 17 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The California trip shows how Kennedy likes to focus on key MAHA themes, while avoiding some divisive topics.",
+          "authors": "Chelsea Cirruzzo"
         },
         {
-          "title": "COVID-19 awakens dormant viruses — and one is linked to long COVID",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814011034.htm",
-          "publishedDate": "Sat, 15 Aug 2026 23:03:05 EDT",
-          "source": "sciencedaily.com",
-          "summary": "COVID-19 can reactivate dormant viruses hiding in the body, including Epstein-Barr, cytomegalovirus, and several herpes viruses. One poorly understood viral family was strongly associated with long COVID and lasting disability, offering a…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
-          "publishedDate": "Sat, 15 Aug 2026 10:40:16 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about 7% since 1999, while…",
-          "authors": ""
+          "title": "STAT+: State laws may be curbing private equity takeovers of physician group",
+          "url": "https://www.statnews.com/2026/08/17/private-equity-50-percent-drop-physician-practice-management-deals-2026/?utm_campaign=rss",
+          "publishedDate": "Mon, 17 Aug 2026 04:01:00 +0000",
+          "source": "statnews.com",
+          "summary": "Private equity deals for practice management firms are declining sharply.",
+          "authors": "Tara Bannow"
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Continual Evolution Strategies in Control Tasks",
+          "url": "https://arxiv.org/abs/2608.13600",
+          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We study Evolution Strategies (ES) for continual control, where agents must adapt to changing tasks without forgetting previous ones. On sequential MuJoCo locomotion tasks, naive ES suffers from severe catastrophic forgetting. Replay…",
+          "authors": "Nicola Pitzalis, Eleni Nisioti, Antonio Carta, Davide Bacciu, Andrea Cossu"
+        },
+        {
+          "title": "Reducing ANN-SNN Conversion Error via Residual Membrane Potential Alignment",
+          "url": "https://arxiv.org/abs/2608.13952",
+          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Spiking Neural Networks (SNNs) serve as core architectures for neuromorphic computing thanks to event-driven operation and ultra-low power consumption. Direct SNN training is hindered by non-differentiable spikes that induce vanishing…",
+          "authors": "Zirui Chen, Zihan Huang, Tong Bu, Jianhao Ding, Yiting Dong, Zhaofei Yu"
+        },
+        {
+          "title": "Emergent Models: Intelligence from Tiny Substrates",
+          "url": "https://arxiv.org/abs/2608.14019",
+          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Emergent Models (EMs) are a machine learning paradigm based on simple yet open-ended substrates, such as cellular automata, in which modeling is treated not as the learning of a closed-form input-output map but as the emergence, within…",
+          "authors": "Giacomo Bocchese, Nicola Giacobbo, Etienne Guichard, James Wiles, Akshaj Devireddy"
+        },
+        {
+          "title": "SAGE: Surrogate-gradient Adaptation via Attention-Guided Entropy for Spiking Transformers",
+          "url": "https://arxiv.org/abs/2608.13702",
+          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Spiking neural networks (SNNs) offer an energy-efficient alternative to conventional deep neural networks by exploiting sparse event-driven computation, but their training remains challenging because the non-differentiable spike function…",
+          "authors": "Kiran Nair, Rodrigue Rizk, KC Santosh"
+        },
+        {
+          "title": "Adaptive Protection for Evolutionary Feature Construction in Symbolic Regression with Application to Credit Classification",
+          "url": "https://arxiv.org/abs/2608.14209",
+          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Evolutionary feature construction has shown strong promise in symbolic regression by automatically discovering informative transformations of input features that enhance a simple base learner. However, existing approaches often lack…",
+          "authors": "Hengzhe Zhang, Qi Chen, Bing Xue, Lean Yu, Wolfgang Banzhaf, Mengjie Zhang"
+        },
+        {
+          "title": "Annealed Mean Field Descent Is Highly Effective for Quadratic Unconstrained Binary Optimization",
+          "url": "https://arxiv.org/abs/2504.08315",
+          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "In recent years, formulating various combinatorial optimization problems as Quadratic Unconstrained Binary Optimization (QUBO) has gained significant attention as a promising approach for efficiently obtaining optimal or near-optimal…",
+          "authors": "Kyo Kuroki, Thiem Van Chu, Masato Motomura, Kazushi Kawamura"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
-        },
-        {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
-        }
-      ]
+      "itemCount": 0,
+      "error": "no BCI-keyword match in fetched feed",
+      "items": []
     }
   }
 }
