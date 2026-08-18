@@ -1,30 +1,25 @@
 {
-  "generatedAt": "2026-08-17T22:56:06.672Z",
-  "date": "2026-08-17",
-  "topic": "学習と計算論的神経科学",
-  "templateName": "data-driven",
+  "generatedAt": "2026-08-18T22:56:12.034Z",
+  "date": "2026-08-18",
+  "topic": "学習と記憶",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Untrained CNNs Match Backpropagation at V1: A Systematic RSA Comparison of Four Learning Rules Against Human fMRI",
-  "paperLink": "https://arxiv.org/abs/2604.16875",
-  "figureUrl": "https://arxiv.org/html/2604.16875/2604.16875v3/training_curves_cnn.png",
-  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、学習と計算論的神経科学の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習 × fMRI × 計算論的神経科学 × 予測符号化\n\n📊 注目すべきデータ：\n→ rho = 0.034; Delta-rho = +0.044, p < 0.001).\n→ -0.005, p < 0.001).\n→ At IT, all five conditions converge (rho = 0.008-0.014) with no significant pairwise differences among trained rules.\n\nなぜこの数字が重要か。\n\n計算論的神経科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Untrained CNNs Match Backpropagation at V1: A Systematic RSA Comparison of Four Learning Rules Against Human fMRI\n🔗 https://arxiv.org/abs/2604.16875\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #神経科学 #計算論的神経科学 #ComputationalNeuroscience",
-  "summaryJP": "学習と計算論的神経科学 — 数値で示された新事実（計算論的神経科学）",
-  "paperAuthors": "Nils Leutenegger",
-  "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
-  "paperId": "2604.16875",
+  "paperTitle": "Continual-learning rules shape representational drift",
+  "paperLink": "https://arxiv.org/abs/2608.16141",
+  "figureUrl": "https://arxiv.org/html/2608.16141/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n学習と記憶の最新成果を整理しました。\n\n🔬 学習 × 記憶\n\n> Lifelong learning requires acquiring new knowledge without erasing the old. Yet neural population codes for familiar stimuli and behaviors change over days and weeks.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Continual-learning rules shape representational drift\n🔗 https://arxiv.org/abs/2608.16141\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #NeuralDecoding",
+  "summaryJP": "学習と記憶 — 注目すべき3つの示唆（神経デコーディング）",
+  "paperAuthors": "Yikai Si, Shanshan Qin",
+  "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
+  "paperId": "2608.16141",
   "paperSource": "arxiv",
-  "themeArea": "計算論的神経科学",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
     "学習",
-    "fMRI",
-    "計算論的神経科学",
-    "予測符号化",
-    "視覚野"
+    "記憶"
   ],
-  "abstractExcerpt": "CORRECTION (August 2026): an evaluation-mode defect affected the predictive-coding and STDP conditions of this study; those results should not be used pending re-computation. At V1 and 224px, predictive coding falls from rho = 0.056 to…",
+  "abstractExcerpt": "Lifelong learning requires acquiring new knowledge without erasing the old. Yet neural population codes for familiar stimuli and behaviors change over days and weeks. This coexistence of stable memory and changing internal codes may depend…",
   "figureUrls": [
-    "https://arxiv.org/html/2604.16875/2604.16875v3/training_curves_cnn.png",
-    "https://arxiv.org/html/2604.16875/2604.16875v3/rsa_comparison_cnn.png",
-    "https://arxiv.org/html/2604.16875/2604.16875v3/hierarchy_cnn.png"
+    "https://arxiv.org/html/2608.16141/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
   ]
 }

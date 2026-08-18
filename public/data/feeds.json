@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T22:56:08.046Z",
+  "generatedAt": "2026-08-18T22:56:12.684Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Data-driven techniques for translational neuroscience and personalized neuro-health",
-          "url": "https://arxiv.org/abs/2608.13749",
-          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "title": "Synaptic delays modulate population phase and amplitude responses in oscillatory excitatory-inhibitory networks",
+          "url": "https://arxiv.org/abs/2608.15077",
+          "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neurodegenexrative diseases such as Alzheimer's disease and Parkinson's disease are diagnosed most reliably only after substantial, often irreversible, neuronal loss has already occurred, creating an urgent need for quantitative tools that…",
-          "authors": "Vishal Subedi, Shashipraba N. K. Rajakaruna, Pratyusha Sarkar, Subhankar Chattoraj, Anjali Khasa, Siddhartha Nandy, Hamza Farooq, Animikh Biswas, Sanjay Chaudhuri, Asim K. Dey, Karuna Joshi, Christophe Lenglet, Ansu Chatterjee"
+          "summary": "Synaptic delays are fundamental determinants of neuronal communication and can profoundly influence the emergence and stability of cortical oscillations. Although their role in shaping network synchronization is well established, how…",
+          "authors": "Parsa Shahab Rad, Mojtaba Madadi Asl, Alireza Valizadeh"
         },
         {
-          "title": "BCIJelly: An integrated ecosystem for brain-computer interface research",
-          "url": "https://arxiv.org/abs/2608.13576",
-          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "title": "Phase- and amplitude-dependent control of synchronization in excitatory-inhibitory networks via pulsed stimulation",
+          "url": "https://arxiv.org/abs/2608.15081",
+          "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brain-computer interface (BCI) research relies on multistage computational pipelines, yet progress remains constrained by fragmented data formats, heterogeneous decoder implementations and hardware-specific deployment toolchains, and…",
-          "authors": "Liyuan Han, Xinrui Yang, Tianyu Zheng, Qizhi Yang, Yitao Qin, Liang Chen, Qinglai Wei, Binjie Hong, Xinhe Zhang, Rui Xiong, Yong Gu, Mu-ming Poo, Bo Xu, Chengyu Li, Tielin Zhang"
+          "summary": "Oscillatory neuronal networks exhibit complex collective responses to external perturbations that depend on both the intrinsic network dynamics and the timing of stimulation. Although phase response curves (PRCs) have become a standard…",
+          "authors": "Ehsan Ahmadi, Mojtaba Madadi Asl, Alireza Valizadeh"
         },
         {
-          "title": "Markovian dephasing has no entanglement-breaking threshold, and a fixed tolerance will report one anyway",
-          "url": "https://arxiv.org/abs/2604.08587",
-          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "title": "Valhalla: A Layered Knowledge-State and Service-Governance Framework for Long-Term Scientific Knowledge Work",
+          "url": "https://arxiv.org/abs/2608.15193",
+          "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "When modelling decoherence in a biological spin system it is tempting to seek a critical rate beyond which the channel is entanglement-breaking (EB) and quantum resources are gone. We show that for the two channel families in which such a…",
-          "authors": "Hikaru Wakaura, Taiki Tanimae"
+          "summary": "As large language model (LLM) agents are increasingly adopted in scientific research, external knowledge bases, knowledge graphs, and long-term memory have improved information retrieval and task continuity. However, most structured…",
+          "authors": "Yuyang Zheng, Nan Li, Wenxia Deng, Lige Yan, Xiang Li, Si Chen"
         },
         {
-          "title": "The $\\gamma_c$-Peak: Covariant Recovery on Four Organic Qubit Platforms",
-          "url": "https://arxiv.org/abs/2605.00026",
-          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "title": "The effect of the excitatory feedback in anticipated synchronization and phase bistability regimes in neuronal populations",
+          "url": "https://arxiv.org/abs/2608.15449",
+          "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We characterize where, in the noise parameter space of the uniform dephasing--depolarizing channel $\\mathcal N_\\gamma^\\delta=\\mathcal E_\\delta\\!\\circ\\!\\mathcal D_\\gamma$, a deterministic, \\emphnonlinear, target-informed denoising heuristic…",
-          "authors": "Hikaru Wakaura, Taiki Tanimae"
+          "summary": "Anticipated synchronization (AS), in which the receiver leads the sender and the phase lag is negative, can emerge in unidirectionally coupled dynamical systems when the receiver has faster internal dynamics than the sender. In…",
+          "authors": "Julio N. Machado, Joana M. G. L. Silva, Katiele V. Brito, Rodrigo Pena, Fernanda Selingardi Matias"
         },
         {
-          "title": "How many labels can a biological oscillator carry? A quality-factor screen for proposed information carriers",
-          "url": "https://arxiv.org/abs/2608.10560",
-          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "title": "A Control-Theoretic Formulation of Global Workspace Theory",
+          "url": "https://arxiv.org/abs/2608.15926",
+          "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "How many distinguishable labels can a biological oscillator carry? Proposals invoking collective vibrational modes, endogenous electromagnetic fields, microtubule excitations and oscillatory phase codes are each debated on grounds…",
-          "authors": "Eran Kopel"
+          "summary": "Global workspace theory explains conscious access as the broadcasting of selected information to the rest of the network, but it lacks a formal criterion for identifying the mechanism that enables this access. We propose that a global…",
+          "authors": "Ryota Kanai"
         },
         {
-          "title": "Untrained CNNs Match Backpropagation at V1: A Systematic RSA Comparison of Four Learning Rules Against Human fMRI",
-          "url": "https://arxiv.org/abs/2604.16875",
-          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "title": "Continual-learning rules shape representational drift",
+          "url": "https://arxiv.org/abs/2608.16141",
+          "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "CORRECTION (August 2026): an evaluation-mode defect affected the predictive-coding and STDP conditions of this study; those results should not be used pending re-computation. At V1 and 224px, predictive coding falls from rho = 0.056 to…",
-          "authors": "Nils Leutenegger"
+          "summary": "Lifelong learning requires acquiring new knowledge without erasing the old. Yet neural population codes for familiar stimuli and behaviors change over days and weeks. This coexistence of stable memory and changing internal codes may depend…",
+          "authors": "Yikai Si, Shanshan Qin"
         }
       ]
     },
@@ -63,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Fauci adviser David Morens pleads guilty to avoiding records requests, conspiracy to defraud government",
+          "url": "https://www.statnews.com/2026/08/18/david-morens-guilty-plea-niaid-fauci-adviser/?utm_campaign=rss",
+          "publishedDate": "Tue, 18 Aug 2026 21:25:10 +0000",
+          "source": "statnews.com",
+          "summary": "Morens said he had agreed to work to avoid public disclosures and to use his influence to advance a company's interests.",
+          "authors": "Daniel Payne and Chelsea Cirruzzo"
+        },
+        {
+          "title": "STAT+: Government workers feel the squeeze on health care",
+          "url": "https://www.statnews.com/2026/08/18/health-care-costs-surge-for-cities-counties-generous-model-deadline-for-states/?utm_campaign=rss",
+          "publishedDate": "Tue, 18 Aug 2026 14:36:41 +0000",
+          "source": "statnews.com",
+          "summary": "Municipalities are struggling with the cost of health insurance for their workers, and states are facing a major decision on Medicaid drug coverage.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Kindergarten vaccine exemptions are climbing",
+          "url": "https://www.statnews.com/2026/08/18/health-news-kindergarten-vaccine-exemptions-are-climbing/?utm_campaign=rss",
+          "publishedDate": "Tue, 18 Aug 2026 13:02:37 +0000",
+          "source": "statnews.com",
+          "summary": "Doritos as \"real\" \"food,\" public-sector health care in trouble, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "STAT+: A pill that mimics exercise? Early results on drug designed to maintain both weight loss and muscle mass",
+          "url": "https://www.statnews.com/2026/08/18/enveda-pill-mimics-exercise-phase-one-trial-leptin-weight-loss-maintenance/?utm_campaign=rss",
+          "publishedDate": "Tue, 18 Aug 2026 10:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "Colorado biotech Enveda reports preliminary results on a drug to help people maintain weight loss after GLP-1 use. Just don't call it exercise in a pill.",
+          "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "STAT+: Doritos as farm-to-table snacks? Big Food, under duress, gets creative",
+          "url": "https://www.statnews.com/2026/08/18/farm-to-table-doritos-ultra-processed-food-ad-campaign-healthwashing/?utm_campaign=rss",
+          "publishedDate": "Tue, 18 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Doritos in the classic nacho cheese flavor have 27 ingredients, including not just familiar ones but also a number of additives and preservatives.",
+          "authors": "Sarah Todd"
+        },
+        {
           "title": "Everything the Trump administration did on health care last week",
           "url": "https://www.statnews.com/2026/08/17/health-news-everything-the-trump-administration-did-on-health-care/?utm_campaign=rss",
           "publishedDate": "Mon, 17 Aug 2026 12:03:57 +0000",
           "source": "statnews.com",
           "summary": "An executive order remaking the federal vaccine agenda, Epic's antitrust lawsuits, and more health news from Morning Rounds",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: UnitedHealth faces IRS probe over potential tax avoidance",
-          "url": "https://www.statnews.com/2026/08/17/unitedhealth-irs-probe-audit-targets-foreign-subsidiary-transfers/?utm_campaign=rss",
-          "publishedDate": "Mon, 17 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The health insurer may face a significant increase in taxes, amid a dispute with federal authorities.",
-          "authors": "Bob Herman"
-        },
-        {
-          "title": "STAT+: Kennedy’s split-screen week: Talk of vaccines in D.C., fraud and addiction out West",
-          "url": "https://www.statnews.com/2026/08/17/rfk-jr-california-tour-maha-messaging-fight-fraud-addiction/?utm_campaign=rss",
-          "publishedDate": "Mon, 17 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The California trip shows how Kennedy likes to focus on key MAHA themes, while avoiding some divisive topics.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Two years after rules overhaul, have methadone clinics really changed?",
-          "url": "https://www.statnews.com/2026/08/14/methadone-clinics-opioid-addiction-new-rules-culture-shift/?utm_campaign=rss",
-          "publishedDate": "Fri, 14 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Methadone clinics don't have to be as rigid in how they dispense opioid addiction medicine. Some, though not all, are changing their ways.",
-          "authors": "Lev Facher"
-        },
-        {
-          "title": "How will legal challenges fare against CMS rule on gender-affirming care?",
-          "url": "https://www.statnews.com/2026/08/14/cms-transgender-care-rule-how-will-legal-challenges-fare/?utm_campaign=rss",
-          "publishedDate": "Fri, 14 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "A CMS rule finalized this week may prove more difficult to challenge than previous Trump administration actions to end transgender care for young people.",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: Kennedy heads west, slams Becerra",
-          "url": "https://www.statnews.com/2026/08/13/rfk-california-tour-hhs-addiction-treatment-plan-dc-diagnosis/?utm_campaign=rss",
-          "publishedDate": "Thu, 13 Aug 2026 14:37:18 +0000",
-          "source": "statnews.com",
-          "summary": "The health secretary headed to California to lay out the government's new approach to addiction treatment.",
-          "authors": "John Wilkerson"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: The IRS is probing UnitedHealth, and a private equity slowdown",
-          "url": "https://www.statnews.com/2026/08/17/irs-probe-unitedhealth-group-taxes-private-equity-deals-physician-groups/?utm_campaign=rss",
-          "publishedDate": "Mon, 17 Aug 2026 14:40:47 +0000",
+          "title": "Fauci adviser David Morens pleads guilty to avoiding records requests, conspiracy to defraud government",
+          "url": "https://www.statnews.com/2026/08/18/david-morens-guilty-plea-niaid-fauci-adviser/?utm_campaign=rss",
+          "publishedDate": "Tue, 18 Aug 2026 21:25:10 +0000",
           "source": "statnews.com",
-          "summary": "UnitedHealth faces an investigation over tax payments, and we examine why PE deals for doctor groups are slowing.",
+          "summary": "Morens said he had agreed to work to avoid public disclosures and to use his influence to advance a company's interests.",
+          "authors": "Daniel Payne and Chelsea Cirruzzo"
+        },
+        {
+          "title": "Trump administration sued over visa time limit that would affect grad students, postdocs",
+          "url": "https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/?utm_campaign=rss",
+          "publishedDate": "Tue, 18 Aug 2026 19:54:04 +0000",
+          "source": "statnews.com",
+          "summary": "DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S.",
+          "authors": "Jonathan Wosen"
+        },
+        {
+          "title": "STAT+: Government workers feel the squeeze on health care",
+          "url": "https://www.statnews.com/2026/08/18/health-care-costs-surge-for-cities-counties-generous-model-deadline-for-states/?utm_campaign=rss",
+          "publishedDate": "Tue, 18 Aug 2026 14:36:41 +0000",
+          "source": "statnews.com",
+          "summary": "Municipalities are struggling with the cost of health insurance for their workers, and states are facing a major decision on Medicaid drug coverage.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "How health care costs are undermining America’s public-sector employers",
+          "url": "https://www.statnews.com/2026/08/18/public-sector-employees-health-care-costs-out-of-pocket-series-part-4/?utm_campaign=rss",
+          "publishedDate": "Tue, 18 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Politicians are contemplating raising taxes and cutting benefits as the cost of health care for government workers surges.",
           "authors": "Bob Herman"
         },
         {
-          "title": "Low-fat vegan diet helps people lose weight without eating less",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260815064825.htm",
-          "publishedDate": "Mon, 17 Aug 2026 09:07:03 EDT",
+          "title": "Kratom poison center cases have surged 6,500% in the U.S.",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814235902.htm",
+          "publishedDate": "Tue, 18 Aug 2026 00:48:51 EDT",
           "source": "sciencedaily.com",
-          "summary": "A low-fat vegan diet may help people lose weight without counting calories, shrinking portions, or feeling constantly hungry. In a 16-week clinical trial, people eating mostly fruits, vegetables, grains, and legumes consumed about 357…",
+          "summary": "Kratom use and serious health problems linked to it have risen dramatically across the United States over the past decade. Poison center reports jumped from just 19 cases in 2010 to more than 1,200 in 2023, while severe outcomes—including…",
           "authors": ""
         },
         {
-          "title": "Scientists uncover the hidden nerve network fueling breast cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814011038.htm",
-          "publishedDate": "Mon, 17 Aug 2026 08:06:50 EDT",
+          "title": "The bacteria that make cheese taste so good may also benefit your gut",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
+          "publishedDate": "Mon, 17 Aug 2026 18:18:03 EDT",
           "source": "sciencedaily.com",
-          "summary": "Researchers have uncovered a surprising way triple-negative breast cancer may turn the body against itself. Tumors appear to recruit macrophages—immune cells normally involved in healing and fighting infection—and use them to release a…",
+          "summary": "Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising benefits for gut health. As the cheeses matured, helpful bacteria transformed their aromas and…",
           "authors": ""
-        },
-        {
-          "title": "STAT+: UnitedHealth faces IRS probe over potential tax avoidance",
-          "url": "https://www.statnews.com/2026/08/17/unitedhealth-irs-probe-audit-targets-foreign-subsidiary-transfers/?utm_campaign=rss",
-          "publishedDate": "Mon, 17 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The health insurer may face a significant increase in taxes, amid a dispute with federal authorities.",
-          "authors": "Bob Herman"
-        },
-        {
-          "title": "STAT+: Kennedy’s split-screen week: Talk of vaccines in D.C., fraud and addiction out West",
-          "url": "https://www.statnews.com/2026/08/17/rfk-jr-california-tour-maha-messaging-fight-fraud-addiction/?utm_campaign=rss",
-          "publishedDate": "Mon, 17 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The California trip shows how Kennedy likes to focus on key MAHA themes, while avoiding some divisive topics.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: State laws may be curbing private equity takeovers of physician group",
-          "url": "https://www.statnews.com/2026/08/17/private-equity-50-percent-drop-physician-practice-management-deals-2026/?utm_campaign=rss",
-          "publishedDate": "Mon, 17 Aug 2026 04:01:00 +0000",
-          "source": "statnews.com",
-          "summary": "Private equity deals for practice management firms are declining sharply.",
-          "authors": "Tara Bannow"
         }
       ]
     },
@@ -173,61 +173,77 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Continual Evolution Strategies in Control Tasks",
-          "url": "https://arxiv.org/abs/2608.13600",
-          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "title": "External Sinkhole Attack Detection in Large-Scale WSNs Using Metaheuristic Feature Selection",
+          "url": "https://arxiv.org/abs/2608.15274",
+          "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We study Evolution Strategies (ES) for continual control, where agents must adapt to changing tasks without forgetting previous ones. On sequential MuJoCo locomotion tasks, naive ES suffers from severe catastrophic forgetting. Replay…",
-          "authors": "Nicola Pitzalis, Eleni Nisioti, Antonio Carta, Davide Bacciu, Andrea Cossu"
+          "summary": "Sinkhole attacks in large-scale wireless sensor networks (WSNs) pose a serious threat to network functionality. This paper presents a metaheuristic feature selection for sinkhole attack detection using the bee swarm optimization (BSO)…",
+          "authors": "Seungwoo Han, Sawako Kitagata, Ingon Chanpornpakdi, Toshihisa Tanaka, Su Man Nam"
         },
         {
-          "title": "Reducing ANN-SNN Conversion Error via Residual Membrane Potential Alignment",
-          "url": "https://arxiv.org/abs/2608.13952",
-          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "title": "Chameleon: An Adaptive AI-Driven Honeypot Architecture Using Threat-Calibrated Particle Swarm Optimization and Semantic Deception Rapidly-Exploring Random Trees",
+          "url": "https://arxiv.org/abs/2608.15407",
+          "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking Neural Networks (SNNs) serve as core architectures for neuromorphic computing thanks to event-driven operation and ultra-low power consumption. Direct SNN training is hindered by non-differentiable spikes that induce vanishing…",
-          "authors": "Zirui Chen, Zihan Huang, Tong Bu, Jianhao Ding, Yiting Dong, Zhaofei Yu"
+          "summary": "An invariant behavioral profile is the defining vulnerability of traditional honeypot installations: a skilled adversary can confirm the presence of a deception environment within only a few diagnostic commands, limiting its intelligence…",
+          "authors": "Rohit Swami, Tushar Singh, Akash Warde, Sri Muthu"
         },
         {
-          "title": "Emergent Models: Intelligence from Tiny Substrates",
-          "url": "https://arxiv.org/abs/2608.14019",
-          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "title": "Language models suffer from a curse of ambiguity",
+          "url": "https://arxiv.org/abs/2608.15448",
+          "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Emergent Models (EMs) are a machine learning paradigm based on simple yet open-ended substrates, such as cellular automata, in which modeling is treated not as the learning of a closed-form input-output map but as the emergence, within…",
-          "authors": "Giacomo Bocchese, Nicola Giacobbo, Etienne Guichard, James Wiles, Akshaj Devireddy"
+          "summary": "Large language models increasingly rely on sampling as a driver of their own improvement, making the fidelity of their learned distributions more critical than ever. Yet, not all distributions are equally easy to learn. In this work, we…",
+          "authors": "Nicolas Zucchet, Hyun Dong Lee, Scott Linderman"
         },
         {
-          "title": "SAGE: Surrogate-gradient Adaptation via Attention-Guided Entropy for Spiking Transformers",
-          "url": "https://arxiv.org/abs/2608.13702",
-          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "title": "Mental Model Management: An Operator-Based Framework for LLM Memory",
+          "url": "https://arxiv.org/abs/2608.15451",
+          "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking neural networks (SNNs) offer an energy-efficient alternative to conventional deep neural networks by exploiting sparse event-driven computation, but their training remains challenging because the non-differentiable spike function…",
-          "authors": "Kiran Nair, Rodrigue Rizk, KC Santosh"
+          "summary": "Large language models process large amounts of information but usually lack an explicit mechanism for maintaining compact and evolving conceptual representations. We introduce Mental Model Management (3M), a framework in which knowledge is…",
+          "authors": "Oliver Kramer"
         },
         {
-          "title": "Adaptive Protection for Evolutionary Feature Construction in Symbolic Regression with Application to Credit Classification",
-          "url": "https://arxiv.org/abs/2608.14209",
-          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "title": "ATLAS: Scaffold-Free Algorithm Synthesis by LLMs via Embedding-Guided Quality-Diversity Search",
+          "url": "https://arxiv.org/abs/2608.15546",
+          "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Evolutionary feature construction has shown strong promise in symbolic regression by automatically discovering informative transformations of input features that enhance a simple base learner. However, existing approaches often lack…",
-          "authors": "Hengzhe Zhang, Qi Chen, Bing Xue, Lean Yu, Wolfgang Banzhaf, Mengjie Zhang"
+          "summary": "Most LLM-based automated algorithm design methods optimize a designated component within a human-specified scaffold, fixing overall organization and component interactions. We present ATLAS, an embedding-guided quality-diversity framework…",
+          "authors": "Danial Yazdani, Mohammad Nabi Omidvar, Yuan Sun, Maksud Ibrahimov, Xiaodong Li"
         },
         {
-          "title": "Annealed Mean Field Descent Is Highly Effective for Quadratic Unconstrained Binary Optimization",
-          "url": "https://arxiv.org/abs/2504.08315",
-          "publishedDate": "Mon, 17 Aug 2026 00:00:00 -0400",
+          "title": "A Control-Theoretic Formulation of Global Workspace Theory",
+          "url": "https://arxiv.org/abs/2608.15926",
+          "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In recent years, formulating various combinatorial optimization problems as Quadratic Unconstrained Binary Optimization (QUBO) has gained significant attention as a promising approach for efficiently obtaining optimal or near-optimal…",
-          "authors": "Kyo Kuroki, Thiem Van Chu, Masato Motomura, Kazushi Kawamura"
+          "summary": "Global workspace theory explains conscious access as the broadcasting of selected information to the rest of the network, but it lacks a formal criterion for identifying the mechanism that enables this access. We propose that a global…",
+          "authors": "Ryota Kanai"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 2,
+      "items": [
+        {
+          "title": "EEG2MOTION: Towards Open-Vocabulary Human Motion Synthesis from Non-invasive Brain Signals",
+          "url": "https://arxiv.org/abs/2608.14754",
+          "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Human motion is governed by a hierarchical motor system where the brain provides high-level intentions and lower-level structures coordinate detailed dynamics. Existing brain-computer interfaces (BCIs) typically oversimplify this into…",
+          "authors": "Yulong Peng, Yijian Pan, Yuqi Yang, Nenggan Zheng, Weidong Chen, Xiaoling Hu, Shaomin Zhang"
+        },
+        {
+          "title": "Does the Heart Show Your Pain? Tackling the X-ITE Pain Challenge with Self-Supervised ECG Representation Learning",
+          "url": "https://arxiv.org/abs/2608.14662",
+          "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Accurate recognition of pain using physiological signals remains a challenging problem due to pain's subjective nature and high inter-individual variability. In this study, we investigate self-supervised representation learning (SSL)…",
+          "authors": "Dominika Kunc, Przemysław Kazienko, Stanisław Saganowski"
+        }
+      ]
     }
   }
 }
