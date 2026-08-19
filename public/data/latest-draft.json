@@ -1,25 +1,26 @@
 {
-  "generatedAt": "2026-08-18T22:56:12.034Z",
-  "date": "2026-08-18",
-  "topic": "学習と記憶",
-  "templateName": "three-insights",
+  "generatedAt": "2026-08-19T22:56:38.285Z",
+  "date": "2026-08-19",
+  "topic": "学習",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Continual-learning rules shape representational drift",
-  "paperLink": "https://arxiv.org/abs/2608.16141",
-  "figureUrl": "https://arxiv.org/html/2608.16141/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
-  "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n学習と記憶の最新成果を整理しました。\n\n🔬 学習 × 記憶\n\n> Lifelong learning requires acquiring new knowledge without erasing the old. Yet neural population codes for familiar stimuli and behaviors change over days and weeks.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Continual-learning rules shape representational drift\n🔗 https://arxiv.org/abs/2608.16141\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #NeuralDecoding",
-  "summaryJP": "学習と記憶 — 注目すべき3つの示唆（神経デコーディング）",
-  "paperAuthors": "Yikai Si, Shanshan Qin",
-  "publishedDate": "Tue, 18 Aug 2026 00:00:00 -0400",
-  "paperId": "2608.16141",
+  "paperTitle": "Scientific Machine Learning of Chaotic Systems Learns Reduced-Order Equations for Neural Populations",
+  "paperLink": "https://arxiv.org/abs/2507.03631",
+  "figureUrl": "https://arxiv.org/html/2507.03631/2507.03631v5/fig1_vf1.png",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n学習の最新研究です。\n\n🔬 学習\n\n> Extracting interpretable mathematical models from complex dynamical systems is difficult, especially for chaotic dynamics observed with noisy experimental data. We present PEM-UDE, a method that combines prediction-error methodology with universal differential equations to...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Scientific Machine Learning of Chaotic Systems Learns Reduced-Order Equations for Neural Populations\n🔗 https://arxiv.org/abs/2507.03631\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #NeuroAI",
+  "summaryJP": "学習 — 次世代へ続く布石（コネクトミクス・回路解析）",
+  "paperAuthors": "Anthony G. Chesebro, David Hofmann, Vaibhav Dixit, Earl K. Miller, Richard H. Granger, Alan Edelman, Christopher V. Rackauckas, Lilianne R. Mujica-Parodi, Helmut H. Strey",
+  "publishedDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+  "paperId": "2507.03631",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "コネクトミクス・回路解析",
   "jpKeywords": [
-    "学習",
-    "記憶"
+    "学習"
   ],
-  "abstractExcerpt": "Lifelong learning requires acquiring new knowledge without erasing the old. Yet neural population codes for familiar stimuli and behaviors change over days and weeks. This coexistence of stable memory and changing internal codes may depend…",
+  "abstractExcerpt": "Extracting interpretable mathematical models from complex dynamical systems is difficult, especially for chaotic dynamics observed with noisy experimental data. We present PEM-UDE, a method that combines prediction-error methodology with…",
   "figureUrls": [
-    "https://arxiv.org/html/2608.16141/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
+    "https://arxiv.org/html/2507.03631/2507.03631v5/fig1_vf1.png",
+    "https://arxiv.org/html/2507.03631/2507.03631v5/fig2_vf1.png",
+    "https://arxiv.org/html/2507.03631/2507.03631v5/fig3_vf1.png"
   ]
 }

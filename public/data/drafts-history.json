@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-08-19T22:56:38.285Z",
+    "date": "2026-08-19",
+    "topic": "学習",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Scientific Machine Learning of Chaotic Systems Learns Reduced-Order Equations for Neural Populations",
+    "paperLink": "https://arxiv.org/abs/2507.03631",
+    "figureUrl": "https://arxiv.org/html/2507.03631/2507.03631v5/fig1_vf1.png",
+    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n学習の最新研究です。\n\n🔬 学習\n\n> Extracting interpretable mathematical models from complex dynamical systems is difficult, especially for chaotic dynamics observed with noisy experimental data. We present PEM-UDE, a method that combines prediction-error methodology with universal differential equations to...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Scientific Machine Learning of Chaotic Systems Learns Reduced-Order Equations for Neural Populations\n🔗 https://arxiv.org/abs/2507.03631\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #NeuroAI",
+    "summaryJP": "学習 — 次世代へ続く布石（コネクトミクス・回路解析）",
+    "paperAuthors": "Anthony G. Chesebro, David Hofmann, Vaibhav Dixit, Earl K. Miller, Richard H. Granger, Alan Edelman, Christopher V. Rackauckas, Lilianne R. Mujica-Parodi, Helmut H. Strey",
+    "publishedDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+    "paperId": "2507.03631",
+    "paperSource": "arxiv",
+    "themeArea": "コネクトミクス・回路解析",
+    "jpKeywords": [
+      "学習"
+    ],
+    "abstractExcerpt": "Extracting interpretable mathematical models from complex dynamical systems is difficult, especially for chaotic dynamics observed with noisy experimental data. We present PEM-UDE, a method that combines prediction-error methodology with…",
+    "figureUrls": [
+      "https://arxiv.org/html/2507.03631/2507.03631v5/fig1_vf1.png",
+      "https://arxiv.org/html/2507.03631/2507.03631v5/fig2_vf1.png",
+      "https://arxiv.org/html/2507.03631/2507.03631v5/fig3_vf1.png"
+    ]
+  },
+  {
     "generatedAt": "2026-08-18T22:56:12.034Z",
     "date": "2026-08-18",
     "topic": "学習と記憶",
@@ -1239,34 +1265,6 @@
       "https://arxiv.org/html/2606.31944/2606.31944v1/x1.png",
       "https://arxiv.org/html/2606.31944/2606.31944v1/x2.png",
       "https://arxiv.org/html/2606.31944/2606.31944v1/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-06-30T23:47:02.470Z",
-    "date": "2026-06-30",
-    "topic": "情動と記憶",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Modelling Emotional Memory in Children with Tensor Networks",
-    "paperLink": "https://arxiv.org/abs/2606.28470",
-    "figureUrl": "https://arxiv.org/html/2606.28470/2606.28470v1/figures/children_temporal_order_stimuli_figure.png",
-    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、情動と記憶の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 情動 × 記憶 × ECoG(皮質脳波)\n\n📊 注目すべきデータ：\n→ Further, the task protocol we introduce presents a novel, real-world tool for exploring emotional temporal memory in children for analysis using classical and quantum-like models...\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Modelling Emotional Memory in Children with Tensor Networks\n🔗 https://arxiv.org/abs/2606.28470\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #NeuroAI",
-    "summaryJP": "情動と記憶 — 数値で示された新事実",
-    "paperAuthors": "Henry Groves, Lucia F. Jackson, Barbara-Anne Robertson, Jonte R. Hance",
-    "publishedDate": "Tue, 30 Jun 2026 00:00:00 -0400",
-    "paperId": "2606.28470",
-    "paperSource": "arxiv",
-    "themeArea": "脳情報科学",
-    "jpKeywords": [
-      "情動",
-      "記憶",
-      "ECoG(皮質脳波)"
-    ],
-    "abstractExcerpt": "We demonstrate how emotional valence influences the order-dependent structure of children's recognition memory: correct recall of a sequence of emotionally-valenced toys depended not just on the valence of a given toy itself, but also on…",
-    "figureUrls": [
-      "https://arxiv.org/html/2606.28470/2606.28470v1/figures/children_temporal_order_stimuli_figure.png",
-      "https://arxiv.org/html/2606.28470/2606.28470v1/x1.png",
-      "https://arxiv.org/html/2606.28470/2606.28470v1/x2.png"
     ]
   }
 ]
