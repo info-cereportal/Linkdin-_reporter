@@ -1,35 +1,59 @@
 {
-  "generatedAt": "2026-08-19T22:56:39.507Z",
+  "generatedAt": "2026-08-20T22:59:37.287Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 3,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Phase-based spatial ordinal patterns for characterizing oscillatory dynamics",
-          "url": "https://arxiv.org/abs/2608.17196",
-          "publishedDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "title": "Transcranial magnetic stimulation of visual-motion area V5/MT modulates sensory thalamus responses during visual speech recognition",
+          "url": "https://arxiv.org/abs/2608.19034",
+          "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The emergence of organized spatiotemporal patterns is ubiquitous in oscillatory systems, from neural populations to engineered networks. Identifying these patterns and tracking how they evolve over time remains challenging, particularly…",
-          "authors": "Robison J. Santos-Silva, Bruno R. R. Boaretto, Thiago L. Prado, Roberto C. Budzinski"
+          "summary": "Responses in the sensory thalamic nuclei are modulated by perceptual tasks. Whether such response modulations rely on feedback from cerebral cortex in humans is unknown. Here, we addressed this question in the context of visual speech…",
+          "authors": "Lisa Jeschke, Christa Mueller-Axt, Alejandro Tabas, Begona Diaz, Katharina von Kriegstein"
         },
         {
-          "title": "Scientific Machine Learning of Chaotic Systems Learns Reduced-Order Equations for Neural Populations",
-          "url": "https://arxiv.org/abs/2507.03631",
-          "publishedDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "title": "Accurate Decoding of Natural Sentences from Non-Invasive Brain Recordings",
+          "url": "https://arxiv.org/abs/2608.18114",
+          "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Extracting interpretable mathematical models from complex dynamical systems is difficult, especially for chaotic dynamics observed with noisy experimental data. We present PEM-UDE, a method that combines prediction-error methodology with…",
-          "authors": "Anthony G. Chesebro, David Hofmann, Vaibhav Dixit, Earl K. Miller, Richard H. Granger, Alan Edelman, Christopher V. Rackauckas, Lilianne R. Mujica-Parodi, Helmut H. Strey"
+          "summary": "Restoring communication for people who have lost the ability to speak or move after a brain injury is a major challenge. While intracranial implants now enable high-performing brain-computer-interfaces, non-invasive alternatives are still…",
+          "authors": "Mingfang Zhang, Jarod Lévy, Cedric Rommel, Jérémy Rapin, Corentin Bel, Julie Bonnaire, Daniel Nieto, Pierre Bourdillon, Svetlana Pinet, Stéphane d'Ascoli, Thomas Moreau, Jean-Rémi King"
         },
         {
-          "title": "Center-Manifold Reduction of Learning at Bifurcations: Interference and Rich Learning in Recurrent Neural Networks",
-          "url": "https://arxiv.org/abs/2605.12763",
-          "publishedDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "title": "The Role of Grid Cells in Reducing Spatial Aliasing in Hippocampal Place Representations",
+          "url": "https://arxiv.org/abs/2608.18569",
+          "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Rich learning in recurrent neural networks often proceeds through sudden transitions in latent dynamics, but there is little theory predicting how gradient descent behaves during these events. We study the local learning geometry near…",
-          "authors": "James Hazelden, Eric Shea-Brown"
+          "summary": "Spatial aliasing occurs when two or more distinct locations produce highly similar place-cell representations, primarily due to environmental symmetry or repetitive structures. This issue is most pronounced when place representations are…",
+          "authors": "Alexander Johnson, Obadah Ghizawi, Ali A. Minai"
+        },
+        {
+          "title": "Inferring Mechanisms from Bits: Promises and Pitfalls of Higher-Order Information in Cognitive Science",
+          "url": "https://arxiv.org/abs/2512.02671",
+          "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Higher-order information theory has become a rapidly growing toolkit in computational neuroscience, motivated by the idea that multivariate dependencies can reveal aspects of neural computation and communication that are invisible to…",
+          "authors": "D. Rebbin, K. J. A. Down, T. F. Varley, R. Ince, A. Canales-Johnson"
+        },
+        {
+          "title": "Flexibility and Invariance of Object Representations in the Human Brain",
+          "url": "https://arxiv.org/abs/2605.23111",
+          "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The human brain represents objects in a way that is both invariant across instances and flexible enough to support different contexts and tasks. Yet how the brain reconciles these demands, holding an object's representation stable while…",
+          "authors": "Julien Dirani, Shankar Chawla, Leila Wehbe, Bradford Z. Mahon"
+        },
+        {
+          "title": "Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field",
+          "url": "https://arxiv.org/abs/2607.19316",
+          "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "In the primate visual system, center-preferring cortical populations have higher spatial resolution and overlap face- and word-selective regions while periphery-preferring populations have lower spatial resolution and overlap…",
+          "authors": "Dylan M. Diaz, Margaret M. Henderson"
         }
       ]
     },
@@ -38,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: How a Trump loyalist got the FDA nomination",
+          "url": "https://www.statnews.com/2026/08/20/heidi-overton-fda-commissioner-nominee-erica-schwartz-cdc-speech/?utm_campaign=rss",
+          "publishedDate": "Thu, 20 Aug 2026 14:38:32 +0000",
+          "source": "statnews.com",
+          "summary": "What you need to know about Heidi Overton, and Erica Schwartz's first speech to CDC staff.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Contrasting legal decisions on gender-affirming care",
+          "url": "https://www.statnews.com/2026/08/20/health-news-contrasting-legal-decisions-on-gender-affirming-care/?utm_campaign=rss",
+          "publishedDate": "Thu, 20 Aug 2026 13:29:08 +0000",
+          "source": "statnews.com",
+          "summary": "Heidi Overton's rise under Trump, inside a 5-year-old brain organoid, and other health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "Can reclassifying muscle dysmorphia unlock better care for boys and men?",
+          "url": "https://www.statnews.com/2026/08/20/reclassify-muscle-dysmorphia-eating-disorder-uscf-expert-jason-nagata/?utm_campaign=rss",
+          "publishedDate": "Thu, 20 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Males make up about a third of the population struggling with eating disorders in the United States. While these conditions often start during the teen years, by some estimates, as&#8230;",
+          "authors": "Ashleigh N. DeLuca"
+        },
+        {
+          "title": "Reduce protein to increase longevity? Nutrition experts say that’s a bad idea",
+          "url": "https://www.statnews.com/2026/08/20/reduce-protein-increase-longevity-bad-idea-nutrition-experts/?utm_campaign=rss",
+          "publishedDate": "Thu, 20 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Reducing protein intake could increase human longevity, researchers recently suggested. That's a bad idea, for several reasons, experts say.",
+          "authors": "Lauren Chan"
+        },
         {
           "title": "STAT+: New CDC director tells staff she is prepared to speak ‘truth to power’",
           "url": "https://www.statnews.com/2026/08/19/cdc-director-erica-schwartz-staff-meeting-truth-to-power/?utm_campaign=rss",
@@ -53,38 +109,6 @@
           "source": "statnews.com",
           "summary": "The American Cancer Society had an optics problem: its annual Wine and Spirits Industry's Gala. It decided to do something about it.",
           "authors": "Isabella Cueto"
-        },
-        {
-          "title": "Dissecting Chinese trial strategy in wake of deaths",
-          "url": "https://www.statnews.com/2026/08/19/health-news-dissecting-chinese-trial-strategy-in-wake-of-deaths/?utm_campaign=rss",
-          "publishedDate": "Wed, 19 Aug 2026 11:47:26 +0000",
-          "source": "statnews.com",
-          "summary": "Cancer \"vaccine\" successfully slowed melanoma, dissecting Chinese trial strategy in wake of deaths, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "She grew up unvaccinated. Now she’s a leading voice for science — and empathy",
-          "url": "https://www.statnews.com/2026/08/19/science-communication-liz-marnik-vaccine-advocate/?utm_campaign=rss",
-          "publishedDate": "Wed, 19 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Immunologist Liz Marnik, who grew up unvaccinated, says shaming people who distrust science will do nothing to improve vaccine acceptance.",
-          "authors": "Felice J. Freyer"
-        },
-        {
-          "title": "Accrediting body considers changes to racism curriculum standards for public health schools",
-          "url": "https://www.statnews.com/2026/08/19/public-health-education-accrediting-body-ceph-walks-dei-tightrope/?utm_campaign=rss",
-          "publishedDate": "Wed, 19 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The accrediting group for schools of public health is weighing the removal of language that specifically requires programs to teach about structural bias and racism.",
-          "authors": "Anil Oza"
-        },
-        {
-          "title": "Physician group sues Trump administration over dietary guidelines process",
-          "url": "https://www.statnews.com/2026/08/19/physician-group-sues-trump-administration-over-dietary-guidelines-food-pyramid-hhs-usda/?utm_campaign=rss",
-          "publishedDate": "Wed, 19 Aug 2026 05:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "The suit, brought by a nonprofit that advocates for plant-based diets, claims HHS and the USDA used a “secret panel” of scientists to flip the food pyramid.",
-          "authors": "Isabella Cueto"
         }
       ]
     },
@@ -94,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: How Trump loyalist Heidi Overton became the president’s pick to run the FDA",
-          "url": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/?utm_campaign=rss",
-          "publishedDate": "Wed, 19 Aug 2026 20:03:20 +0000",
+          "title": "STAT+: How a Trump loyalist got the FDA nomination",
+          "url": "https://www.statnews.com/2026/08/20/heidi-overton-fda-commissioner-nominee-erica-schwartz-cdc-speech/?utm_campaign=rss",
+          "publishedDate": "Thu, 20 Aug 2026 14:38:32 +0000",
           "source": "statnews.com",
-          "summary": "If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges.",
-          "authors": "Chelsea Cirruzzo and Daniel Payne"
+          "summary": "What you need to know about Heidi Overton, and Erica Schwartz's first speech to CDC staff.",
+          "authors": "John Wilkerson"
         },
         {
-          "title": "STAT+: New CDC director tells staff she is prepared to speak ‘truth to power’",
-          "url": "https://www.statnews.com/2026/08/19/cdc-director-erica-schwartz-staff-meeting-truth-to-power/?utm_campaign=rss",
-          "publishedDate": "Wed, 19 Aug 2026 19:31:45 +0000",
-          "source": "statnews.com",
-          "summary": "Then new CDC director told staff she is “very comfortable and very confident ... [in] speaking truth to power.”",
-          "authors": "Daniel Payne and Helen Branswell"
-        },
-        {
-          "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
-          "publishedDate": "Wed, 19 Aug 2026 08:30:05 EDT",
+          "title": "Knee osteoarthritis isn’t inevitable — here’s what you can do",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260820002420.htm",
+          "publishedDate": "Thu, 20 Aug 2026 07:38:19 EDT",
           "source": "sciencedaily.com",
-          "summary": "Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher…",
+          "summary": "Knee osteoarthritis can seriously affect mobility and quality of life, but its progression isn’t completely out of your control. Exercise, stronger leg muscles, a healthier diet, and even modest weight loss can dramatically reduce stress…",
           "authors": ""
         },
         {
-          "title": "Scientists turn probiotic bacteria into tiny drug factories for pancreatic cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260816044830.htm",
-          "publishedDate": "Wed, 19 Aug 2026 08:10:13 EDT",
+          "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
+          "publishedDate": "Thu, 20 Aug 2026 07:27:34 EDT",
           "source": "sciencedaily.com",
-          "summary": "Engineered probiotic bacteria were able to infiltrate pancreatic tumors, stimulate cancer-fighting immune cells, and slow tumor growth in animal studies. Even more strikingly, the treatment worked better when combined with chemotherapy,…",
+          "summary": "Specialized brain scans reveal that schizophrenia is linked to widespread loss of the synapses that connect brain cells, with the left side of the brain hit especially hard. The damage follows a surprisingly organized pattern tied to the…",
           "authors": ""
         },
         {
-          "title": "Accrediting body considers changes to racism curriculum standards for public health schools",
-          "url": "https://www.statnews.com/2026/08/19/public-health-education-accrediting-body-ceph-walks-dei-tightrope/?utm_campaign=rss",
-          "publishedDate": "Wed, 19 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The accrediting group for schools of public health is weighing the removal of language that specifically requires programs to teach about structural bias and racism.",
-          "authors": "Anil Oza"
+          "title": "More than 1,000 genetic switches reveal why female immunity is different",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260819041239.htm",
+          "publishedDate": "Thu, 20 Aug 2026 00:06:29 EDT",
+          "source": "sciencedaily.com",
+          "summary": "More than 1,000 genetic switches behave differently in male and female immune cells, helping explain why women are much more vulnerable to autoimmune diseases such as lupus. Female immune systems appear genetically tuned for stronger…",
+          "authors": ""
         },
         {
-          "title": "Breast cancer is surging among Asian American women — and scientists don’t know why",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260815064829.htm",
-          "publishedDate": "Wed, 19 Aug 2026 04:13:02 EDT",
+          "title": "AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
+          "publishedDate": "Wed, 19 Aug 2026 22:01:27 EDT",
           "source": "sciencedaily.com",
-          "summary": "Breast cancer is rising rapidly among Asian American women, with some of the most alarming increases occurring in younger women and in aggressive or advanced cancers. Researchers say screening alone can&#039;t explain the surge, suggesting…",
+          "summary": "Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinson’s, Huntington’s disease, and motor…",
+          "authors": ""
+        },
+        {
+          "title": "A mother’s age can shape her offspring without changing their DNA",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260819041220.htm",
+          "publishedDate": "Wed, 19 Aug 2026 19:44:38 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have found evidence that the effects of a mother’s age on her offspring may be driven by reversible changes in gene activity rather than permanent DNA damage. The discovery raises the fascinating possibility that biological…",
           "authors": ""
         }
       ]
@@ -149,61 +173,77 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Automating Parent Selection Configuration in Genetic Programming with Agentic AI",
-          "url": "https://arxiv.org/abs/2608.17172",
-          "publishedDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "title": "Low-Power, Neuromorphic, Acoustic Anomaly Detection for Persistent Machine Monitoring",
+          "url": "https://arxiv.org/abs/2608.18341",
+          "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We investigate whether agentic artificial intelligence can automate parts of the process of designing genetic programming systems by introducing an agentic framework that identifies and implements parent selection algorithms using large…",
-          "authors": "Jose Guadalupe Hernandez, Jui-Hsuan Chang, Anil Kumar Saini, Xi Li, Jason H. Moore"
+          "summary": "Persistent acoustic monitoring can detect machine faults without physical contact, but always-on inference is constrained by power, latency, and deployment complexity. We demonstrate autoencoder-based acoustic anomaly detection on an Intel…",
+          "authors": "Steven C. Nesbit (Information Sciences, CAI-3, Los Alamos National Laboratory, Los Alamos, USA), Victor M. Vergara (AeroVironment Inc., Albuquerque, USA), Michael A. Felix (University of New Mexico COSMIAC Research Center, Albuquerque, USA), Evan T. Kain (Air Force Research Laboratory, Kirtland AFB, USA), Luis R. García Carrillo (Air Force Research Laboratory, Kirtland AFB, USA), Gerd J. Kunde (Nuclear and Particle Physics and Applications, P-3, Los Alamos National Laboratory, Los Alamos, USA), Andrew T. Sornborger (Information Sciences, CAI-3, Los Alamos National Laboratory, Los Alamos, USA)"
         },
         {
-          "title": "Optically Writable Atomic Vapor Memory as a Substrate for Optical Reservoir Computing",
-          "url": "https://arxiv.org/abs/2608.17807",
-          "publishedDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "title": "The Role of Grid Cells in Reducing Spatial Aliasing in Hippocampal Place Representations",
+          "url": "https://arxiv.org/abs/2608.18569",
+          "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We present an optical random access memory (ORAM) based on warm cesium (Cs) atomic vapor and demonstrate its operation as the physical substrate of a reservoir computer. Information is stored in the hyperfine population distribution of a…",
-          "authors": "Elizabeth Robertson, Mingwei Yang, Lina Jaurigue, Guillermo Gallego, Kathy Lüdge, Janik Wolters"
+          "summary": "Spatial aliasing occurs when two or more distinct locations produce highly similar place-cell representations, primarily due to environmental symmetry or repetitive structures. This issue is most pronounced when place representations are…",
+          "authors": "Alexander Johnson, Obadah Ghizawi, Ali A. Minai"
         },
         {
-          "title": "Computational Prosopography across a Millennium: Mathematically Oriented Lineages Traced from the Fields Medalists",
-          "url": "https://arxiv.org/abs/2608.17915",
-          "publishedDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "title": "Biological-Hybrid Intelligence: A Conceptual Framework for Distributed Biological--Artificial Computation",
+          "url": "https://arxiv.org/abs/2608.18748",
+          "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We reconstruct the mentor--student network through which documented scholarly training passed across roughly nine centuries, and subject both the network and the means of reconstructing it to source criticism. From Wikidata, which…",
-          "authors": "Hiroyuki Chuma, Kanji Otsuka, Yoichi Sato"
+          "summary": "Biological and artificial systems offer complementary forms of adaptation, learning, and computation, with advances in in-vitro neurotechnology increasingly enabling bidirectional coupling between them. As these systems become more tightly…",
+          "authors": "Michael Taynnan Barros, Sergio Lopez Bernal, Reinhold Scherer"
         },
         {
-          "title": "Procedural Content Metageneration via Program Search and Continual Abstraction Discovery",
-          "url": "https://arxiv.org/abs/2608.17947",
-          "publishedDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "title": "SeisEvo: Evolution of Seismic Data Reconstruction Algorithms by Agents",
+          "url": "https://arxiv.org/abs/2608.18272",
+          "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Large language models can generate executable programs, which makes it possible to search directly over procedural content generators rather than individual levels. We study this approach in Sokoban, Zelda, Dangerous Dave, and Lode Runner.…",
-          "authors": "Matthew Siper, Ahmed Khalifa, Julian Togelius"
+          "summary": "Classical seismic data reconstruction relies on manually designed structural priors and iterative operators, whose coupled design space is far larger than manual trial and error can explore systematically. Deep-learning methods encode the…",
+          "authors": "Yingjie Xu, Siwei Yu, Jianwei Ma"
         },
         {
-          "title": "Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket",
-          "url": "https://arxiv.org/abs/2401.02020",
-          "publishedDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "title": "Beyond receptive fields: sequence-pooled normalization can supply most of a sequence labeler's context",
+          "url": "https://arxiv.org/abs/2608.18576",
+          "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking Neural Networks (SNNs), known for their biologically plausible architecture, face the challenge of limited performance. The self-attention mechanism, which is the cornerstone of the high-performance Transformer and also a…",
-          "authors": "Zhaokun Zhou, Yijie Lu, Kaiwei Che, Wei Fang, Keyu Tian, Qihao Peng, Yuesheng Zhu, Shuicheng Yan, Yonghong Tian, Li Yuan"
+          "summary": "A convolutional sequence labeler's receptive field is routinely treated as the extent of the model's usable context: it sets dilation schedules, bounds streaming horizons, and underwrites locality claims. However, we show that this can be…",
+          "authors": "Qing Tian"
         },
         {
-          "title": "Optimizing Container Loading and Unloading through Dual-Cycling and Dockyard Rehandle Reduction Using a Hybrid Genetic Algorithm",
-          "url": "https://arxiv.org/abs/2406.08534",
-          "publishedDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "title": "Graphical Design of Interpretable Architectures",
+          "url": "https://arxiv.org/abs/2608.18936",
+          "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper addresses the NP-hard problem of optimizing container handling at ports by integrating Quay Crane Dual-Cycling (QCDC) and dockyard rehandle minimization. We realized that there are interdependencies between the unloading…",
-          "authors": "Md. Mahfuzur Rahman, Md Abrar Jahin, Md. Saiful Islam, M. F. Mridha"
+          "summary": "Designing, implementing, and comparing interpretable architectures requires a formal language to represent them. The most common representations fall short in one of two ways. Symbolic equations give no global view of an architecture at a…",
+          "authors": "Pietro Barbiero"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 2,
+      "items": [
+        {
+          "title": "Robust and Efficient Feature Extraction for Spike Sorting via the Walsh-Hadamard Transform",
+          "url": "https://arxiv.org/abs/2608.19048",
+          "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Implantable neural interfaces require low-power real-time signal processing to remain within strict thermal and bandwidth constraints, motivating lightweight feature extraction methods for on-chip spike sorting. This work presents the…",
+          "authors": "Emily Yang, Liyuan Guo, Seyed Mohammad Ali Zeinolabedin, Meng Zhang, Ke Yang, Matthieu Couriol, Christian Mayr, Pierre-Emmanuel Gaillardon"
+        },
+        {
+          "title": "BR-FiLM: Bounded Residual Channel-Quality Conditioning for Automatic Modulation Recognition",
+          "url": "https://arxiv.org/abs/2608.18395",
+          "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Automatic Modulation Recognition (AMR) plays a crucial role in enabling robust, adaptive, and secure communication for military and civilian applications. Deep learning has enabled effective AMR methods that overcome the computational…",
+          "authors": "Tahmid Zaman Tahi, Syed Samiul Alam, Haolin Tang, Yanxiao Zhao, Jun Huang, Min Song"
+        }
+      ]
     }
   }
 }

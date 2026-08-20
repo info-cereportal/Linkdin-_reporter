@@ -1,5 +1,34 @@
 [
   {
+    "generatedAt": "2026-08-20T22:59:36.105Z",
+    "date": "2026-08-20",
+    "topic": "視覚野と学習",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field",
+    "paperLink": "https://arxiv.org/abs/2607.19316",
+    "figureUrl": "https://arxiv.org/html/2607.19316/2607.19316v2/figs/model_diagram/fig1_resnet18_simclr_600dpi.png",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n視覚野と学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 視覚野 × 学習 × fMRI × ECoG(皮質脳波)\n\n> In the primate visual system, center-preferring cortical populations have higher spatial resolution and overlap face- and word-selective regions while periphery-preferring populations have lower spatial resolution and overlap scene-selective regions. This \"eccentricity bias\" may...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field\n🔗 https://arxiv.org/abs/2607.19316\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #計算論的神経科学",
+    "summaryJP": "視覚野と学習 — 脳科学とAIをつなぐ研究（神経デコーディング）",
+    "paperAuthors": "Dylan M. Diaz, Margaret M. Henderson",
+    "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "paperId": "2607.19316",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "視覚野",
+      "学習",
+      "fMRI",
+      "ECoG(皮質脳波)"
+    ],
+    "abstractExcerpt": "In the primate visual system, center-preferring cortical populations have higher spatial resolution and overlap face- and word-selective regions while periphery-preferring populations have lower spatial resolution and overlap…",
+    "figureUrls": [
+      "https://arxiv.org/html/2607.19316/2607.19316v2/figs/model_diagram/fig1_resnet18_simclr_600dpi.png",
+      "https://arxiv.org/html/2607.19316/2607.19316v2/figs/curves/Curves_Combined_All.png",
+      "https://arxiv.org/html/2607.19316/2607.19316v2/figs/fmri/EncModel_R2All.png"
+    ]
+  },
+  {
     "generatedAt": "2026-08-19T22:56:38.285Z",
     "date": "2026-08-19",
     "topic": "学習",
@@ -1239,32 +1268,6 @@
     "abstractExcerpt": "Trans-membrane ion-gradients and fluxes are central to conventional electrical activity in aerobic cells/organelles. The Murburn concept offers novel physico-chemical models for various metabolic, bioenergetic and electrophysiological…",
     "figureUrls": [
       "https://arxiv.org/html/2604.24772/2604.24772v2/figures/fig1.jpeg"
-    ]
-  },
-  {
-    "generatedAt": "2026-07-01T23:52:41.189Z",
-    "date": "2026-07-01",
-    "topic": "リカレントニューラルネットワーク(RNN)",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Stationary covariance spectra of discrete-time non-normal random recurrent dynamics",
-    "paperLink": "https://arxiv.org/abs/2606.31944",
-    "figureUrl": "https://arxiv.org/html/2606.31944/2606.31944v1/x1.png",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\nリカレントニューラルネットワーク(RNN)の最新成果を整理しました。\n\n🔬 リカレントニューラルネットワーク(RNN)\n\n> Principal component analysis is widely used to characterize structure in the dynamics of recurrent neural networks. For stationary noise-driven dynamics, the distribution of variance among the principal components is determined by the spectrum of the stationary covariance matrix.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n脳情報科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Stationary covariance spectra of discrete-time non-normal random recurrent dynamics\n🔗 https://arxiv.org/abs/2606.31944\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #脳情報",
-    "summaryJP": "リカレントニューラルネットワーク(RNN) — 注目すべき3つの示唆",
-    "paperAuthors": "Jacob A. Zavatone-Veth",
-    "publishedDate": "Wed, 01 Jul 2026 00:00:00 -0400",
-    "paperId": "2606.31944",
-    "paperSource": "arxiv",
-    "themeArea": "脳情報科学",
-    "jpKeywords": [
-      "リカレントニューラルネットワーク(RNN)"
-    ],
-    "abstractExcerpt": "Principal component analysis is widely used to characterize structure in the dynamics of recurrent neural networks. For stationary noise-driven dynamics, the distribution of variance among the principal components is determined by the…",
-    "figureUrls": [
-      "https://arxiv.org/html/2606.31944/2606.31944v1/x1.png",
-      "https://arxiv.org/html/2606.31944/2606.31944v1/x2.png",
-      "https://arxiv.org/html/2606.31944/2606.31944v1/x3.png"
     ]
   }
 ]

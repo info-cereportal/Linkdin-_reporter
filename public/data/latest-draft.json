@@ -1,26 +1,29 @@
 {
-  "generatedAt": "2026-08-19T22:56:38.285Z",
-  "date": "2026-08-19",
-  "topic": "学習",
-  "templateName": "future-vision",
+  "generatedAt": "2026-08-20T22:59:36.105Z",
+  "date": "2026-08-20",
+  "topic": "視覚野と学習",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Scientific Machine Learning of Chaotic Systems Learns Reduced-Order Equations for Neural Populations",
-  "paperLink": "https://arxiv.org/abs/2507.03631",
-  "figureUrl": "https://arxiv.org/html/2507.03631/2507.03631v5/fig1_vf1.png",
-  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n学習の最新研究です。\n\n🔬 学習\n\n> Extracting interpretable mathematical models from complex dynamical systems is difficult, especially for chaotic dynamics observed with noisy experimental data. We present PEM-UDE, a method that combines prediction-error methodology with universal differential equations to...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Scientific Machine Learning of Chaotic Systems Learns Reduced-Order Equations for Neural Populations\n🔗 https://arxiv.org/abs/2507.03631\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #NeuroAI",
-  "summaryJP": "学習 — 次世代へ続く布石（コネクトミクス・回路解析）",
-  "paperAuthors": "Anthony G. Chesebro, David Hofmann, Vaibhav Dixit, Earl K. Miller, Richard H. Granger, Alan Edelman, Christopher V. Rackauckas, Lilianne R. Mujica-Parodi, Helmut H. Strey",
-  "publishedDate": "Wed, 19 Aug 2026 00:00:00 -0400",
-  "paperId": "2507.03631",
+  "paperTitle": "Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field",
+  "paperLink": "https://arxiv.org/abs/2607.19316",
+  "figureUrl": "https://arxiv.org/html/2607.19316/2607.19316v2/figs/model_diagram/fig1_resnet18_simclr_600dpi.png",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n視覚野と学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 視覚野 × 学習 × fMRI × ECoG(皮質脳波)\n\n> In the primate visual system, center-preferring cortical populations have higher spatial resolution and overlap face- and word-selective regions while periphery-preferring populations have lower spatial resolution and overlap scene-selective regions. This \"eccentricity bias\" may...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field\n🔗 https://arxiv.org/abs/2607.19316\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #計算論的神経科学",
+  "summaryJP": "視覚野と学習 — 脳科学とAIをつなぐ研究（神経デコーディング）",
+  "paperAuthors": "Dylan M. Diaz, Margaret M. Henderson",
+  "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
+  "paperId": "2607.19316",
   "paperSource": "arxiv",
-  "themeArea": "コネクトミクス・回路解析",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "学習"
+    "視覚野",
+    "学習",
+    "fMRI",
+    "ECoG(皮質脳波)"
   ],
-  "abstractExcerpt": "Extracting interpretable mathematical models from complex dynamical systems is difficult, especially for chaotic dynamics observed with noisy experimental data. We present PEM-UDE, a method that combines prediction-error methodology with…",
+  "abstractExcerpt": "In the primate visual system, center-preferring cortical populations have higher spatial resolution and overlap face- and word-selective regions while periphery-preferring populations have lower spatial resolution and overlap…",
   "figureUrls": [
-    "https://arxiv.org/html/2507.03631/2507.03631v5/fig1_vf1.png",
-    "https://arxiv.org/html/2507.03631/2507.03631v5/fig2_vf1.png",
-    "https://arxiv.org/html/2507.03631/2507.03631v5/fig3_vf1.png"
+    "https://arxiv.org/html/2607.19316/2607.19316v2/figs/model_diagram/fig1_resnet18_simclr_600dpi.png",
+    "https://arxiv.org/html/2607.19316/2607.19316v2/figs/curves/Curves_Combined_All.png",
+    "https://arxiv.org/html/2607.19316/2607.19316v2/figs/fmri/EncModel_R2All.png"
   ]
 }
