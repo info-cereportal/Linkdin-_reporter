@@ -1,53 +1,12 @@
 {
-  "generatedAt": "2026-08-21T22:56:17.302Z",
+  "generatedAt": "2026-08-22T22:54:26.894Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 5,
-      "items": [
-        {
-          "title": "The Connectome and the Quest for the Functional Logic of the Drosophila Early Olfactory System",
-          "url": "https://arxiv.org/abs/2608.19290",
-          "publishedDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "In recent decades, the early olfactory system (EOS) of the fruit fly has become a leading model for studying olfactory processing and associative memory, owing in part to a well-characterized feedforward pathway that feeds the processes…",
-          "authors": "Aurel A. Lazar, Yiyin Zhou"
-        },
-        {
-          "title": "Bringing analytic rigor to agentic AI for science: The Brain Researcher platform for neuroimaging data analysis",
-          "url": "https://arxiv.org/abs/2608.19902",
-          "publishedDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "AI agents can execute scientific analyses, but an analytic output becomes a defensible claim only after alternatives are weighed and the claim is limited to what the evidence supports. Agents may reproduce failures including selective…",
-          "authors": "Zijiao Chen, Nicholas Lu, Xinhui Li, Jocelyn A. Ricard, Ce Ju, Huan H. Wang, Christian Kindermann, Jeanette A. Mumford, Steven Dillmann, James Kent, Alejandro de la Vega, Sanmi Koyejo, Vince D. Calhoun, Joshua W. Buckholtz, Juan Helen Zhou, Steffen Bollmann, Russell A. Poldrack"
-        },
-        {
-          "title": "Decoding silent reading from non-invasive EEG",
-          "url": "https://arxiv.org/abs/2608.20186",
-          "publishedDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Non-invasive decoding of inner speech faces a fundamental data problem: a corpus pairing brain activity with a person's spontaneous inner monologue cannot be collected, and the available proxy paradigms (cued repetitive and retrospectively…",
-          "authors": "Ingo Marquardt, Anthilia Alchanat, Priyanka Jain"
-        },
-        {
-          "title": "The Thousand Brains Theory 2.0: An Extension for the Long-Range Connections of the Neocortical Heterarchy",
-          "url": "https://arxiv.org/abs/2507.05888",
-          "publishedDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Vernon Mountcastle hypothesized that the basis for intelligence in mammals is the replication of a general computational unit, the cortical column. The Thousand Brains Theory proposed that each column is a sensorimotor system, capable of…",
-          "authors": "Jeff Hawkins (Thousand Brains Project), Niels Leadholm (Thousand Brains Project), Viviane Clay (Thousand Brains Project)"
-        },
-        {
-          "title": "Mean-field analysis of a neural network with stochastic STDP",
-          "url": "https://arxiv.org/abs/2510.02545",
-          "publishedDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Analysing biological spiking neural network models with synaptic plasticity has proven to be challenging both theoretically and numerically. In a network with N all-to-all connected neurons, the number of synaptic connections is on the…",
-          "authors": "Pascal Helson, Etienne Tanré, Romain Veltz"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -110,51 +69,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: HHS document offers new clues to Kennedy’s vaccine plans",
-          "url": "https://www.statnews.com/2026/08/21/rfi-reveals-possible-kennedy-strategy-vaccine-policy-changes/?utm_campaign=rss",
-          "publishedDate": "Fri, 21 Aug 2026 16:40:03 +0000",
-          "source": "statnews.com",
-          "summary": "Kennedy asks for feedback on new vaccine recommendation categories, how shots are tested.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "3 minutes of sprinting does something 90 minutes of exercise does not",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260821012208.htm",
-          "publishedDate": "Fri, 21 Aug 2026 08:17:36 EDT",
+          "title": "Peppermint oil lowers blood pressure in just 20 days",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260821012238.htm",
+          "publishedDate": "Sat, 22 Aug 2026 10:08:04 EDT",
           "source": "sciencedaily.com",
-          "summary": "A few minutes of sprinting may reshape the bloodstream far more dramatically than a much longer moderate workout. Six 30-second sprints altered nearly a quarter of the blood proteins measured and more than 200 metabolites, while 90 minutes…",
+          "summary": "Peppermint oil may have an unexpected benefit for people with mildly high blood pressure. Adults who took a small dose twice daily for 20 days saw their systolic blood pressure fall by an average of 8.5 mmHg, while a placebo group showed…",
           "authors": ""
         },
         {
-          "title": "This weight-loss hormone may protect the liver even without weight loss",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260820202854.htm",
-          "publishedDate": "Fri, 21 Aug 2026 07:38:41 EDT",
+          "title": "Exercise may work better for keeping weight off than losing it",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260821012240.htm",
+          "publishedDate": "Sat, 22 Aug 2026 09:55:11 EDT",
           "source": "sciencedaily.com",
-          "summary": "A hormone already known for curbing appetite and supporting weight loss may have a surprising second job: protecting the liver from inflammation and scarring. Researchers at McMaster University found that GDF15 activates a previously…",
+          "summary": "Exercise may not be a powerful weight-loss tool on its own, but it appears to play a much bigger role in preventing lost weight from returning. By preserving muscle, supporting metabolism, improving fat burning, and regulating appetite and…",
           "authors": ""
         },
         {
-          "title": "AI may know how you’ll respond to a vaccine before you get it",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260820202842.htm",
-          "publishedDate": "Fri, 21 Aug 2026 06:59:05 EDT",
+          "title": "Multilingual people may have brains up to 13 years younger",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
+          "publishedDate": "Sat, 22 Aug 2026 09:12:23 EDT",
           "source": "sciencedaily.com",
-          "summary": "AI may be able to predict how strongly someone will respond to a vaccine before they receive it. By analyzing antibody patterns in more than 4,000 people, researchers found signs of “immune readiness” that helped distinguish strong…",
+          "summary": "People who speak several languages may have brains that age more slowly, with four-language speakers showing brains that appeared about 13 years younger than those of monolinguals. Starting earlier and becoming highly fluent were also…",
           "authors": ""
         },
         {
-          "title": "A simple at-home test could cut colorectal cancer death risk by 43%",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260820202833.htm",
-          "publishedDate": "Fri, 21 Aug 2026 03:37:33 EDT",
+          "title": "This yeast supplement may boost cancer-fighting immunity",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm",
+          "publishedDate": "Sat, 22 Aug 2026 06:34:22 EDT",
           "source": "sciencedaily.com",
-          "summary": "People who participated in colorectal cancer screening had a 43% lower risk of dying from the disease, according to long-term data from more than 376,000 people in Sweden. The findings suggest that completing a simple at-home screening…",
+          "summary": "A simple yeast-based food supplement may help restore the immune system’s ability to fight cancer, according to new research in mice. Scientists found that yeast beta-glucan reprogrammed early immune cells in the bone marrow, leading to…",
           "authors": ""
         },
         {
-          "title": "Scientists discover how gut bacteria “train” the intestine to fight inflammation",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
-          "publishedDate": "Thu, 20 Aug 2026 20:10:15 EDT",
+          "title": "Tooth count may predict survival after pancreatic cancer surgery",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260821012218.htm",
+          "publishedDate": "Fri, 21 Aug 2026 23:29:38 EDT",
           "source": "sciencedaily.com",
-          "summary": "A compound made when gut bacteria break down dietary fiber may do more than briefly calm inflammation—it could leave a lasting protective “memory” in the gut. Northwestern Medicine researchers found that butyrate can reprogram intestinal…",
+          "summary": "Pancreatic cancer patients with at least 21 natural teeth survived nearly two years longer after surgery than those with fewer teeth in a study of 339 people. Researchers suspect tooth loss may reflect decades of inflammation, frailty,…",
+          "authors": ""
+        },
+        {
+          "title": "This gut microbe may help keep you strong as you age",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260820202904.htm",
+          "publishedDate": "Fri, 21 Aug 2026 22:27:20 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have linked a specific gut bacterium, Roseburia inulinivorans, to stronger muscles in both humans and mice. Older adults who carried it had 29% greater handgrip strength, while treated mice gained about 30% more grip strength…",
           "authors": ""
         }
       ]
@@ -162,78 +121,61 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Active Spiking Perception: The Membrane Potential as a Belief State for Anytime 3D Point Cloud Recognition",
-          "url": "https://arxiv.org/abs/2608.19232",
-          "publishedDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Spiking point cloud networks usually scan space in a fixed, input-agnostic order, which leaves the most distinctive resource of spiking computation, the temporal evolution of the membrane potential, unused as a locus of decision-making.…",
-          "authors": "Akarsh Jain, Arya Pawa, Ayush Debnath, Smera Rawal, Sayeed Shafayet Chowdhury"
-        },
-        {
-          "title": "Spiking Local Interaction and Adaptive Complementary Fusion for Spiking Transformer",
-          "url": "https://arxiv.org/abs/2608.19238",
-          "publishedDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Spiking Transformers model token interactions primarily through spiking self-attention (SSA). However, binary query and key representations map continuous similarities to sparse and discrete relation responses, which may suppress weak…",
-          "authors": "Dongcheng Zhao, Sicheng Shen, Zhenyu Yang, Zhiyuan Li, Jinyan Yu, Yongjian Wang, Tiechui Yao, Wenli Zhang, Tielin Zhang"
-        },
-        {
-          "title": "BASC : Behavior-Aligned Quantization and Pruning for Low-Bit Spiking Neural Networks",
-          "url": "https://arxiv.org/abs/2608.19239",
-          "publishedDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Spiking Neural Networks (SNNs) encode information through binary spikes and compute in an event-driven manner, offering an energy-efficient paradigm for machine intelligence. However, high-performance SNNs incur substantial memory and…",
-          "authors": "Linliang Chen, Yan Zhong, Xin Liu, Sai Li, Wang Kang"
-        },
-        {
-          "title": "The Forward-Backward Disconnect: State Dynamics, Credit Assignment, and Biological Grounding in Neural Computation",
-          "url": "https://arxiv.org/abs/2608.19995",
-          "publishedDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "A recurring pattern in neural computation is the reintroduction of dynamical and biological structure into models originally simplified for scalable optimization. Early feedforward networks reduced biological neurons to threshold or…",
-          "authors": "Hadi Al Mubasher, Mariette Awad"
-        },
-        {
-          "title": "Petri Net Description of Biological Neural Circuits for Fast Hardware Prototyping",
-          "url": "https://arxiv.org/abs/2608.20147",
-          "publishedDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Current approaches to simulating biological neural circuits, whether on general-purpose hardware or dedicated neuromorphic platforms, remain constrained by fixed-timestep numerical integration, hardware-imposed precision limits, and an…",
-          "authors": "Carlo daCunha, Rodrigo Pena, Marcos Turqueti"
-        },
-        {
-          "title": "HiRA-CAM: Preserving Fine-Grained Spatial Relevance in Gradient-Based Visual Explanations",
-          "url": "https://arxiv.org/abs/2608.19407",
-          "publishedDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Deep Learning models can include billions of parameters or more, making it difficult to explain their internal transformations and outputs. However, explainability is increasing in importance due to the use of AI in crucial applications.…",
-          "authors": "Manasi Nerurkar, Ali A. Minai"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Synchronization and Channel Estimation of OTFS with RF Impairments",
-          "url": "https://arxiv.org/abs/2608.20257",
-          "publishedDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Orthogonal Time Frequency Space (OTFS) modulation is a promising waveform for future wireless networks. However, its resilience to RF impairments remains relatively understudied. Low-cost RF front ends are crucial for next-generation…",
-          "authors": "Sanoopkumar P. S., Mohsen Bayat, Stephen McWade, Arman Farhang"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
         },
         {
-          "title": "A Resource-Efficient CNN-Based EEG Auditory Attention Decoding ASIC",
-          "url": "https://arxiv.org/abs/2608.20198",
-          "publishedDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Following a target speaker in a noisy environment, commonly known as the cocktail party problem, remains particularly challenging for cochlear implant (CI) users. Recent studies have explored EEG-based auditory attention decoding (AAD)…",
-          "authors": "Qier Ma, Richard George, Stefan Scholze, Jehn Constantin, Tobias Reichenbach, Christian Mayr"
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }
