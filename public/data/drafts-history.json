@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-08-24T22:57:52.645Z",
+    "date": "2026-08-24",
+    "topic": "言語処理",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "Reading Cognition as Decisions Unfold in Words: A Factorized Inverse Decision Model",
+    "paperLink": "https://arxiv.org/abs/2608.09222",
+    "figureUrl": "https://arxiv.org/html/2608.09222/2608.09222v2/fig1-5.png",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\nこの研究から得られる3つの重要な示唆。\n\n言語処理の最新成果を整理しました。\n\n🔬 言語処理\n\n> Inverse decision modeling infers latent properties of decision processes from observed behavior, but existing formulations rely primarily on action trajectories. In verbalized cognitive tasks, task execution also produces response dynamics that action-only formulations leave...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Reading Cognition as Decisions Unfold in Words: A Factorized Inverse Decision Model\n🔗 https://arxiv.org/abs/2608.09222\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #ニューロテック",
+    "summaryJP": "言語処理 — 注目すべき3つの示唆（神経デコーディング）",
+    "paperAuthors": "Jiawen Kang, Dongrui Han, Xixin Wu, Helen Meng",
+    "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
+    "paperId": "2608.09222",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "言語処理"
+    ],
+    "abstractExcerpt": "Inverse decision modeling infers latent properties of decision processes from observed behavior, but existing formulations rely primarily on action trajectories. In verbalized cognitive tasks, task execution also produces response dynamics…",
+    "figureUrls": [
+      "https://arxiv.org/html/2608.09222/2608.09222v2/fig1-5.png",
+      "https://arxiv.org/html/2608.09222/2608.09222v2/vi-action.png",
+      "https://arxiv.org/html/2608.09222/2608.09222v2/vi-effort.png"
+    ]
+  },
+  {
     "generatedAt": "2026-08-23T22:54:22.918Z",
     "date": "2026-08-23",
     "topic": "意思決定と神経ダイナミクス",
@@ -1252,29 +1278,6 @@
       "学習"
     ],
     "abstractExcerpt": "To evaluate whether super-resolution deep learning reconstruction (SR-DLR) improves two-dimensional (2D) brain fluid-attenuated inversion recovery (FLAIR) image quality while preserving automated white matter hyperintensity (WMH)…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-07-05T23:40:31.671Z",
-    "date": "2026-07-05",
-    "topic": "クローズドループ制御とブレイン・コンピュータ・インターフェース(BCI)",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "Closed-loop readout of anterior insula high-gamma activity steers value-based decisions.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42401540/",
-    "formatted": "クローズドループ制御とブレイン・コンピュータ・インターフェース(BCI)に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 クローズドループ制御 × ブレイン・コンピュータ・インターフェース(BCI) × 意思決定\n\n> The decision-making field has long attempted to understand the origins of human choice variability. A potential source of variability lies in spontaneous fluctuations of ongoing neural activity, which may influence behavior across several cognitive domains.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nBCI・ニューラルインターフェースの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Closed-loop readout of anterior insula high-gamma activity steers value-based decisions.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42401540/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #計算論的神経科学",
-    "summaryJP": "クローズドループ制御とブレイン・コンピュータ・インターフェース(BCI) — 通説を揺さぶる新たな知見（BCI・ニューラルインターフェース）",
-    "paperAuthors": "Clarissa Baratin, Mathias Pessiglione, Philippe Kahane, Alexis Robin, Lorella Minotti, Guillaume Jean-Paul Claude Becq",
-    "publishedDate": "2026-07-04",
-    "paperId": "42401540",
-    "paperSource": "pubmed",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "クローズドループ制御",
-      "ブレイン・コンピュータ・インターフェース(BCI)",
-      "意思決定"
-    ],
-    "abstractExcerpt": "The decision-making field has long attempted to understand the origins of human choice variability. A potential source of variability lies in spontaneous fluctuations of ongoing neural activity, which may influence behavior across several…",
     "figureUrls": []
   }
 ]

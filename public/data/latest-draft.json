@@ -1,22 +1,26 @@
 {
-  "generatedAt": "2026-08-23T22:54:22.918Z",
-  "date": "2026-08-23",
-  "topic": "意思決定と神経ダイナミクス",
-  "templateName": "data-driven",
+  "generatedAt": "2026-08-24T22:57:52.645Z",
+  "date": "2026-08-24",
+  "topic": "言語処理",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Risk attitude and choice consistency identify robust behavioral profiles in decision-making under risk.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42632447/",
-  "formatted": "これを読んで、脳に対する見方が変わりました。\n\n数字が語る、意思決定と神経ダイナミクスの新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 意思決定 × 神経ダイナミクス\n\n📊 注目すべきデータ：\n→ After robust trial-level response-time (RT) outlier screening, psychometric choice functions yielded two risk-attitude descriptors-overall risk attitude and context-dependent...\n→ RT outliers represented 8.7% of analyzed trials and decreased across blocks.\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Risk attitude and choice consistency identify robust behavioral profiles in decision-making under risk.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42632447/\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #BrainComputerInterface",
-  "summaryJP": "意思決定と神経ダイナミクス — 数値で示された新事実（神経デコーディング）",
-  "paperAuthors": "Alessandra Lintas, Alessandro E P Villa",
-  "publishedDate": "2026-08-22",
-  "paperId": "42632447",
-  "paperSource": "pubmed",
+  "paperTitle": "Reading Cognition as Decisions Unfold in Words: A Factorized Inverse Decision Model",
+  "paperLink": "https://arxiv.org/abs/2608.09222",
+  "figureUrl": "https://arxiv.org/html/2608.09222/2608.09222v2/fig1-5.png",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\nこの研究から得られる3つの重要な示唆。\n\n言語処理の最新成果を整理しました。\n\n🔬 言語処理\n\n> Inverse decision modeling infers latent properties of decision processes from observed behavior, but existing formulations rely primarily on action trajectories. In verbalized cognitive tasks, task execution also produces response dynamics that action-only formulations leave...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Reading Cognition as Decisions Unfold in Words: A Factorized Inverse Decision Model\n🔗 https://arxiv.org/abs/2608.09222\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #ニューロテック",
+  "summaryJP": "言語処理 — 注目すべき3つの示唆（神経デコーディング）",
+  "paperAuthors": "Jiawen Kang, Dongrui Han, Xixin Wu, Helen Meng",
+  "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
+  "paperId": "2608.09222",
+  "paperSource": "arxiv",
   "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "意思決定",
-    "神経ダイナミクス"
+    "言語処理"
   ],
-  "abstractExcerpt": "Individual differences in risky decision-making may reflect both risk attitude and the consistency with which preferences are expressed. We examined whether complementary behavioral descriptors could identify reproducible participant…",
-  "figureUrls": []
+  "abstractExcerpt": "Inverse decision modeling infers latent properties of decision processes from observed behavior, but existing formulations rely primarily on action trajectories. In verbalized cognitive tasks, task execution also produces response dynamics…",
+  "figureUrls": [
+    "https://arxiv.org/html/2608.09222/2608.09222v2/fig1-5.png",
+    "https://arxiv.org/html/2608.09222/2608.09222v2/vi-action.png",
+    "https://arxiv.org/html/2608.09222/2608.09222v2/vi-effort.png"
+  ]
 }
