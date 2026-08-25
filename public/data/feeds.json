@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T22:57:53.116Z",
+  "generatedAt": "2026-08-25T22:59:04.571Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "NeuroStrata: An Electroencephalographic Connectivity-Aware Deep Representation Learning Framework for Dynamic Brain Network Analysis of Mental Stress",
-          "url": "https://arxiv.org/abs/2608.20354",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
+          "title": "A Tensor Network Framework for Interpretable Graph Analysis of Brain Networks",
+          "url": "https://arxiv.org/abs/2608.21368",
+          "publishedDate": "Tue, 25 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This study introduces NeuroStrata, a connectivity-aware deep representation learning framework for EEG-based mental stress analysis using Time-Varying Partial Directed Coherence (TV-PDC). Unlike conventional EEG classification approaches…",
-          "authors": "Sayantan Acharya, Hamzeh Asgharnezhad, Abbas Khosravi, Douglas Creighton, Roohallah Alizadehsani, U Rajendra Acharya"
+          "summary": "Identifying robust neurobiological signatures of brain disorders requires machine learning approaches that combine predictive performance with interpretable representations of feature interactions. Here we introduce a quantum-inspired…",
+          "authors": "Domenico Pomarico, Giuseppe Magnifico, Alessandro Grecucci, Loredana Bellantuono, Jesus M. Cortes, Marianna La Rocca, Alfonso Monaco, Marlis Ontivero-Ortega, Alessandro Scarano, Massimo Stella, Roberto Bellotti, Sebastiano Stramaglia, Nicola Amoroso"
         },
         {
-          "title": "Interpretable Information-Decomposed Brain Graph Learning for fMRI-based Disease Diagnosis",
-          "url": "https://arxiv.org/abs/2608.20380",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
+          "title": "Forward and reverse delay-driven hippocampal replay without symmetric plasticity",
+          "url": "https://arxiv.org/abs/2608.21814",
+          "publishedDate": "Tue, 25 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Resting-state functional magnetic resonance imaging (rs-fMRI) has enabled non-invasive mapping of functional brain interactions for computer-aided diagnosis, yet most existing approaches reduce inter-regional relationships to…",
-          "authors": "Dengyi Zhao, Zhiheng Zhou, Zihan Wang, Guiying Yan, Xingqin Qi"
+          "summary": "Hippocampal replay is a phenomenon observed in mammals and songbirds where neural activation sequences experienced during wakeful periods are repeated during rest or sleep. This mechanism is believed to play a crucial role in episodic…",
+          "authors": "Georg Reich, Matthew Cook, Klaus Obermayer, Pau Vilimelis Aceituno"
         },
         {
-          "title": "Conscious Access as Continuous-to-Discrete Translation",
-          "url": "https://arxiv.org/abs/2608.20723",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
+          "title": "Temporal filling-in reduces attentional fluctuations in sustained visual attention",
+          "url": "https://arxiv.org/abs/2608.22722",
+          "publishedDate": "Tue, 25 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The scientific study of consciousness frequently stalls on ontological debates regarding the \"Hard Problem.\" This paper proposes a pragmatic pivot. Rather than asking what consciousness is metaphysically, we ask how modeling conscious…",
-          "authors": "Tianming Yang"
+          "summary": "Our capacity to maintain focus on task-relevant goals over time is constrained because attentional states wax and wane moment to moment. One theoretical account posits that temporal filling-in - filling temporal blank intervals between…",
+          "authors": "Yingyu Huang, Liying Zhan, Xiang Wu"
         },
         {
-          "title": "Categorical AI phenomenology: A first-person approach",
-          "url": "https://arxiv.org/abs/2608.20420",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
+          "title": "Dendritic structure enables powerful plasticity",
+          "url": "https://arxiv.org/abs/2608.23251",
+          "publishedDate": "Tue, 25 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper develops a phenomenology-first approach to artificial consciousness by reframing consciousness as the subjective experience enacted through an agent's interface with the world. We shift the methodological focus to first-person…",
-          "authors": "Robert Prentner"
+          "summary": "Over the past decades, it has become increasingly clear that the complex morphology of cortical neurons is more than just a quirk of evolution, and that dendritic compartments serve as computational elements in their own right, rather than…",
+          "authors": "Ben von Hünerbein, Federico Benitez, Kevin Max, Julian Göltz, Paul Haider, Simon Brandt, Arno Granier, Timo Gierlich, Jakob Jordan, Katharina A. Wilmes, Jean-Pascal Pfister, Walter Senn, Mihai A. Petrovici"
         },
         {
-          "title": "Beyond Flickering: Introducing Code-Modulated Motion Visual Evoked Potentials for Brain-Computer Interfacing",
-          "url": "https://arxiv.org/abs/2605.15801",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
+          "title": "QuantFormer: Learning to Quantize for Neural Activity Forecasting in Mouse Visual Cortex",
+          "url": "https://arxiv.org/abs/2412.07264",
+          "publishedDate": "Tue, 25 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This study presents a novel code-modulated motion visual evoked potential (c-MVEP) paradigm for brain-computer interfacing (BCI). To avoid the visual discomfort and fatigue associated with traditional flickering stimuli, this paradigm uses…",
-          "authors": "Hanneke Scheppink, Rainer Herpers, Jordy Thielen, Ivan Volosyak"
+          "summary": "Understanding complex animal behaviors hinges on deciphering the neural activity patterns within brain circuits, making the ability to forecast neural activity crucial for developing predictive models of brain dynamics. This capability…",
+          "authors": "Salvatore Calcagno, Isaak Kavasidis, Simone Palazzo, Marco Brondi, Luca Sità, Giacomo Turri, Daniela Giordano, Vladimir R. Kostic, Tommaso Fellin, Massimiliano Pontil, Concetto Spampinato"
         },
         {
-          "title": "On the Within-class Variation Issue in Alzheimer's Disease Detection",
-          "url": "https://arxiv.org/abs/2409.16322",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
+          "title": "Finite-state Markovian surrogates for long-time neuronal state distributions and firing rates",
+          "url": "https://arxiv.org/abs/2505.08254",
+          "publishedDate": "Tue, 25 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Alzheimer's Disease (AD) detection commonly employs machine learning classification models to distinguish between individuals with AD and those without. Different from conventional classification tasks, AD detection involves substantial…",
-          "authors": "Jiawen Kang, Dongrui Han, Lingwei Meng, Jingyan Zhou, Jinchao Li, Xixin Wu, Helen Meng"
+          "summary": "Spiking neuronal networks connect cellular and synaptic mechanisms to collective activity, but estimating their long-time statistics often requires costly spike-by-spike simulation. We construct finite-state Markovian surrogates for…",
+          "authors": "Zhongyi Wang, Louis Tao, Zhuo-Cheng Xiao"
         }
       ]
     },
@@ -62,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Pennsylvania reports first 2 measles deaths in the U.S. this year, both people unvaccinated",
+          "url": "https://www.statnews.com/2026/08/25/two-measles-deaths-reported-pennsylvania-residents-not-vaccinated/?utm_campaign=rss",
+          "publishedDate": "Tue, 25 Aug 2026 16:02:24 +0000",
+          "source": "statnews.com",
+          "summary": "Two unvaccinated Pennsylvania residents have died from measles, state health officials said Tuesday, the first measles-related deaths in the U.S. this year.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "STAT+: How Trump&#8217;s funding cuts are reshaping the health system",
+          "url": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
+          "publishedDate": "Tue, 25 Aug 2026 14:51:28 +0000",
+          "source": "statnews.com",
+          "summary": "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "CDC releases latest life expectancy data",
+          "url": "https://www.statnews.com/2026/08/25/health-news-cdc-releases-latest-life-expectancy-data/?utm_campaign=rss",
+          "publishedDate": "Tue, 25 Aug 2026 12:04:42 +0000",
+          "source": "statnews.com",
+          "summary": "Deleted public comments on White House proposals, how Trump cuts are reshaping rural health care, and more Morning Rounds news",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "How Trump&#8217;s cuts are reshaping America’s health system",
+          "url": "https://www.statnews.com/2026/08/25/rural-hospitals-response-medicaid-cuts-part-1-unraveled-series/?utm_campaign=rss",
+          "publishedDate": "Tue, 25 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A scramble to prepare for massive federal cuts across the health care system is hitting rural states like Maine particularly hard.",
+          "authors": "Daniel Payne"
+        },
         {
           "title": "FDA plans to regulate generative AI",
           "url": "https://www.statnews.com/2026/08/24/health-news-fda-plans-to-regulate-generative-ai/?utm_campaign=rss",
@@ -77,38 +109,6 @@
           "source": "statnews.com",
           "summary": "The legal theory used to restrict gender-affirming care for minors could be applied broadly, experts say.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "Nurse practitioner trainees find themselves stymied by shortage of clinical mentors",
-          "url": "https://www.statnews.com/2026/08/24/nurse-practitioner-preceptor-shortage-clinical-placement-challenges/?utm_campaign=rss",
-          "publishedDate": "Mon, 24 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Nurse practitioner students face a preceptor shortage, often paying thousands to secure clinical supervision.",
-          "authors": "Colleen Connolly"
-        },
-        {
-          "title": "Americans bought 12% less soda under new SNAP restrictions, study says",
-          "url": "https://www.statnews.com/2026/08/24/snap-restrictions-12-percent-drop-soda-purchases/?utm_campaign=rss",
-          "publishedDate": "Mon, 24 Aug 2026 05:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "The drop in soda purchases is meaningful, but not enormous, one of the study's authors said.",
-          "authors": "Sarah Todd"
-        },
-        {
-          "title": "STAT+: HHS document offers new clues to Kennedy’s vaccine plans",
-          "url": "https://www.statnews.com/2026/08/21/rfi-reveals-possible-kennedy-strategy-vaccine-policy-changes/?utm_campaign=rss",
-          "publishedDate": "Fri, 21 Aug 2026 16:40:03 +0000",
-          "source": "statnews.com",
-          "summary": "Kennedy asks for feedback on new vaccine recommendation categories, how shots are tested.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Scientists deploy Merck’s Ebola vaccine in DRC",
-          "url": "https://www.statnews.com/2026/08/21/health-news-scientists-deploy-merck-ebola-vaccine-in-drc/?utm_campaign=rss",
-          "publishedDate": "Fri, 21 Aug 2026 13:04:41 +0000",
-          "source": "statnews.com",
-          "summary": "Prostate cancer therapy, Meta glasses in hospital settings, and more health news from Morning Rounds",
-          "authors": "O. Rose Broderick"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: Public-sector purgatory, and a union-hospital fight",
-          "url": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss",
-          "publishedDate": "Mon, 24 Aug 2026 14:23:19 +0000",
+          "title": "STAT+: How Trump&#8217;s funding cuts are reshaping the health system",
+          "url": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
+          "publishedDate": "Tue, 25 Aug 2026 14:51:28 +0000",
           "source": "statnews.com",
-          "summary": "Aon, the big consulting and brokerage house, confirms 2027 is going to be brutal for job-based health care premiums. Aon’s chief actuary said in the news release: “Employers will need&#8230;",
-          "authors": "Bob Herman"
-        },
-        {
-          "title": "Common medications may change your gut for years",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
-          "publishedDate": "Mon, 24 Aug 2026 09:14:50 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants,…",
-          "authors": ""
-        },
-        {
-          "title": "Bird flu is spreading. Your backyard feeder could make it worse",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
-          "publishedDate": "Mon, 24 Aug 2026 08:49:08 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while smaller amounts of food,…",
-          "authors": ""
-        },
-        {
-          "title": "Too much or too little sleep may make your body age faster",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
-          "publishedDate": "Mon, 24 Aug 2026 07:31:44 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to 7.8 hours per day. Short or long sleep…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Medicaid transgender care rule sets precedent that could restrict coverage of other drugs",
-          "url": "https://www.statnews.com/2026/08/24/transgender-care-ban-precedent-could-be-broadly-applied-medicaid-states/?utm_campaign=rss",
-          "publishedDate": "Mon, 24 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The legal theory used to restrict gender-affirming care for minors could be applied broadly, experts say.",
+          "summary": "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
           "authors": "John Wilkerson"
         },
         {
-          "title": "Americans bought 12% less soda under new SNAP restrictions, study says",
-          "url": "https://www.statnews.com/2026/08/24/snap-restrictions-12-percent-drop-soda-purchases/?utm_campaign=rss",
-          "publishedDate": "Mon, 24 Aug 2026 05:00:00 +0000",
+          "title": "Shingles vaccine linked to 24% lower dementia risk",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260823015013.htm",
+          "publishedDate": "Tue, 25 Aug 2026 09:09:21 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Older adults who received the Shingrix shingles vaccine were 24% less likely to be diagnosed with dementia over four years in a study of more than 500,000 people. Researchers estimate the difference could amount to roughly one dementia…",
+          "authors": ""
+        },
+        {
+          "title": "Supercharged “natural killer” cells could be a powerful new cancer weapon",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260824065546.htm",
+          "publishedDate": "Tue, 25 Aug 2026 08:56:22 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers have found a way to supercharge natural killer cells, powerful immune cells that can attack cancer, so they can penetrate solid tumors and keep fighting once inside. In mice, these specially prepared tissue-resident cells…",
+          "authors": ""
+        },
+        {
+          "title": "How Trump&#8217;s cuts are reshaping America’s health system",
+          "url": "https://www.statnews.com/2026/08/25/rural-hospitals-response-medicaid-cuts-part-1-unraveled-series/?utm_campaign=rss",
+          "publishedDate": "Tue, 25 Aug 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "The drop in soda purchases is meaningful, but not enormous, one of the study's authors said.",
-          "authors": "Sarah Todd"
+          "summary": "A scramble to prepare for massive federal cuts across the health care system is hitting rural states like Maine particularly hard.",
+          "authors": "Daniel Payne"
+        },
+        {
+          "title": "STAT+: Comments on OMB research rule mysteriously removed from federal website",
+          "url": "https://www.statnews.com/2026/08/25/russell-vought-omb-funding-comments-daughter-benefited-nih-research/?utm_campaign=rss",
+          "publishedDate": "Tue, 25 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Some comments on a proposed OMB research rule have been mysteriously removed from a public-facing government webpage.",
+          "authors": "Anil Oza"
+        },
+        {
+          "title": "Depression may shut down the brain’s ability to make new neurons",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
+          "publishedDate": "Tue, 25 Aug 2026 01:06:08 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A major study found that adults with depression show disrupted production of new neurons in the hippocampus, potentially weakening the brain’s ability to separate new experiences from painful memories. The researchers also identified broad…",
+          "authors": ""
         }
       ]
     },
@@ -173,85 +173,61 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Columnar-Embedder: A Biologically Inspired Cortical Architecture for Binary Sparse Distributed Graph Representations",
-          "url": "https://arxiv.org/abs/2608.20408",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
+          "title": "JANUS: Online Jacobian-Aligned Infill for Black-Box Optimization",
+          "url": "https://arxiv.org/abs/2608.22862",
+          "publishedDate": "Tue, 25 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Finding a representative description of graph entities that captures their structural roles and homophily is a challenging goal for graph embedding techniques due to the non-Euclidean nature of graphs. Traditionally, Graph embeddings…",
-          "authors": "Mohamed Abidalrekab, Dan Hammerstrom"
+          "summary": "Population optimizers such as CMA-ES, DE, and multi-objective evolutionary algorithms drive search mainly through selection signals that are scalar or rank based: such a signal indicates that one candidate outperforms another, but not the…",
+          "authors": "Hongyuan Yu, Pufan Xu, Jiaojiao Yi, Yiding Tian, Mingrui Sun, Jiayuan Lu, Changyuan Wen"
         },
         {
-          "title": "Uncertainty propagation in auto-regressive random neural network models",
-          "url": "https://arxiv.org/abs/2608.20483",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
+          "title": "Basins of Attraction to Multiple Fixed Points in Discrete-time Hysteresis Neural Networks",
+          "url": "https://arxiv.org/abs/2608.23225",
+          "publishedDate": "Tue, 25 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We develop analytical and particle-based methods for uncertainty propagation in random neural network models, where both the inputs and network parameters are allowed to be random. Building on the piecewise-linear structure of the Leaky…",
-          "authors": "Janice Adams, Daniele Venturi"
+          "summary": "This paper studies multiple fixed points in a discrete-time hysteresis neural network. The network consists of binary hysteresis neurons characterized by the threshold parameter. Depending on the parameter, the network can have a variety…",
+          "authors": "Yuta Arai, Seigo Nakamura, Ryoga Nakamura, Muzuki Ohira, Toshimichi Saito"
         },
         {
-          "title": "Free-Probability Kernels for Zero-Rollout Hyperparameter Selection in Reservoir Computing",
-          "url": "https://arxiv.org/abs/2608.20998",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
+          "title": "Spicing up Genetic Netlist Generation with LLMs",
+          "url": "https://arxiv.org/abs/2608.23317",
+          "publishedDate": "Tue, 25 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Reservoir computing (RC) couples a fixed recurrent dynamical system with a trained lightweight readout, but this efficiency is partly lost during hyperparameter selection: the recurrent gain, input scale, and leakage rate determine the…",
-          "authors": "Sara Malacarne, Andrea Ceni, Claudio Gallicchio"
+          "summary": "Analog circuit topology synthesis remains challenging because useful designs occupy a tiny fraction of a combinatorial search space, and small structural changes can induce highly nonlinear changes in behavior. Evolutionary algorithms are…",
+          "authors": "Stefan Uhlich, Ya\\ug\\iz Gençer, Andrea Bonetti, Arun Venkitaraman, Chia-Yu Hsieh, Eisaku Ohbuchi, Lorenzo Servadei"
         },
         {
-          "title": "Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Transformers",
-          "url": "https://arxiv.org/abs/2608.21223",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
+          "title": "Mycelial Search: A Graph-Structured Metaheuristic for Continuous Optimisation",
+          "url": "https://arxiv.org/abs/2608.23323",
+          "publishedDate": "Tue, 25 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Zeroth-order (ZO) optimization estimates gradients using only forward-pass evaluations, making it suitable for fine-tuning non-differentiable, event-driven spiking neural networks (SNNs). However, its deployment on in-memory computing…",
-          "authors": "Tengteng Lei, Prabodh Katti, Rashi Dutt, Houssem Sifaou, Tan Peng, Osvaldo Simeone, Kai Xu, Bipin Rajendran"
+          "summary": "Continuous optimisation methods need to balance sharing information and maintaining alternative search directions. In this paper, we introduce Mycelial Search (Myco), a graph-structured metaheuristic designed around active tips,…",
+          "authors": "Mohammad Mahdi Dehshibi"
         },
         {
-          "title": "Fine-Grain GPU Parallelization of the Generalized Partition Crossover for Large-Scale Traveling Salesman Problems",
-          "url": "https://arxiv.org/abs/2608.21233",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
+          "title": "Enhanced Artificial Neural Networks Using QHAdamW in Air Quality Forecasting",
+          "url": "https://arxiv.org/abs/2608.21463",
+          "publishedDate": "Tue, 25 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The Traveling Salesman Problem (TSP) is one of the most extensively studied NP-hard optimization problems. Genetic Algorithm (GA)-based solvers, such as the Edge Assembly Crossover (EAX), achieve state-of-the-art performance on many…",
-          "authors": "Swetha Varadarajan, Darrell Whitley"
+          "summary": "The study employed an Artificial Neural Network in combination with the optimized Adaptive Moment Estimation (Adam) algorithm, currently the only AQI forecasting model available in the Philippines. The modified QHAdamW - Quasi-Hyperbolic…",
+          "authors": "Mary Joy Daniel Vinas"
         },
         {
-          "title": "Basin-Preserving Discretizations of Modern Hopfield Retrieval Dynamics: Energy Cells, Dissipation, and the Attention Limit",
-          "url": "https://arxiv.org/abs/2608.21304",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
+          "title": "Spiking Neural Networks for Continuous Control: Neuromorphic Reinforcement Learning in Conventional Computing",
+          "url": "https://arxiv.org/abs/2608.22729",
+          "publishedDate": "Tue, 25 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The retrieval dynamics of a modern Hopfield network is the gradient flow of a log-sum-exp energy, while the attention update is its exact difference-of-convex minimization step. We study which time discretizations preserve not only energy…",
-          "authors": "Francisco R. Villatoro"
+          "summary": "Reinforcement learning (RL) algorithms have made strides over the past decade applying them to a wide range of problems and control tasks. However, the deployment of RL on neuromorphic hardware for continuous control tasks remains…",
+          "authors": "Jessica Hunter, Md Maruf Hossain Shuvo, Krishna Roy"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 3,
-      "items": [
-        {
-          "title": "Bootstrap-Based Receiver Synchronization and System Discovery in B2X: An Extension of ATSC 3.0",
-          "url": "https://arxiv.org/abs/2605.09298",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Addressing the increasing and diversified demands of multicast and broadcast services require highly efficient multicast and broadcast technologies. Broadcast networks, such as Advanced Television Systems Committee 3.0 (ATSC 3.0), are…",
-          "authors": "Raj Kumar Thenua, Essam Sourour, David Starks, Rashmi Kamran, Michael Simon, Kumar Appaiah"
-        },
-        {
-          "title": "KAN-HAR: A Human activity recognition based on Kolmogorov-Arnold Network",
-          "url": "https://arxiv.org/abs/2508.11186",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Human Activity Recognition (HAR) plays a critical role in numerous applications, including healthcare monitoring, fitness tracking, and smart environments. Traditional deep learning (DL) approaches, while effective, often require extensive…",
-          "authors": "Mohammad Alikhani"
-        },
-        {
-          "title": "Graph-Guided Structured Recovery of Modulo EEG Signals",
-          "url": "https://arxiv.org/abs/2510.26756",
-          "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Electroencephalography (EEG) acquisition is often affected by large-amplitude variations across subjects and sessions. This makes conventional front ends vulnerable to saturation and clipping. Modulo sampling addresses this limitation by…",
-          "authors": "Soujanya Hazra, Sanjay Ghosh"
-        }
-      ]
+      "itemCount": 0,
+      "error": "no BCI-keyword match in fetched feed",
+      "items": []
     }
   }
 }

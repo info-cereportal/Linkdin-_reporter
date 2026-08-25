@@ -1,26 +1,30 @@
 {
-  "generatedAt": "2026-08-24T22:57:52.645Z",
-  "date": "2026-08-24",
-  "topic": "言語処理",
-  "templateName": "three-insights",
+  "generatedAt": "2026-08-25T22:59:03.993Z",
+  "date": "2026-08-25",
+  "topic": "記憶固定化とエピソード記憶",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Reading Cognition as Decisions Unfold in Words: A Factorized Inverse Decision Model",
-  "paperLink": "https://arxiv.org/abs/2608.09222",
-  "figureUrl": "https://arxiv.org/html/2608.09222/2608.09222v2/fig1-5.png",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\nこの研究から得られる3つの重要な示唆。\n\n言語処理の最新成果を整理しました。\n\n🔬 言語処理\n\n> Inverse decision modeling infers latent properties of decision processes from observed behavior, but existing formulations rely primarily on action trajectories. In verbalized cognitive tasks, task execution also produces response dynamics that action-only formulations leave...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Reading Cognition as Decisions Unfold in Words: A Factorized Inverse Decision Model\n🔗 https://arxiv.org/abs/2608.09222\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #ニューロテック",
-  "summaryJP": "言語処理 — 注目すべき3つの示唆（神経デコーディング）",
-  "paperAuthors": "Jiawen Kang, Dongrui Han, Xixin Wu, Helen Meng",
-  "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
-  "paperId": "2608.09222",
+  "paperTitle": "Forward and reverse delay-driven hippocampal replay without symmetric plasticity",
+  "paperLink": "https://arxiv.org/abs/2608.21814",
+  "figureUrl": "https://arxiv.org/html/2608.21814/2608.21814v1/input_driven_overview.png",
+  "formatted": "研究者もエンジニアも、この論文は必読です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n記憶固定化とエピソード記憶の最新研究です。\n\n🔬 記憶固定化 × エピソード記憶 × 学習 × 記憶\n\n> Hippocampal replay is a phenomenon observed in mammals and songbirds where neural activation sequences experienced during wakeful periods are repeated during rest or sleep. This mechanism is believed to play a crucial role in episodic memory consolidation, retrieval, and...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Forward and reverse delay-driven hippocampal replay without symmetric plasticity\n🔗 https://arxiv.org/abs/2608.21814\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #計算論的神経科学",
+  "summaryJP": "記憶固定化とエピソード記憶 — 次世代へ続く布石",
+  "paperAuthors": "Georg Reich, Matthew Cook, Klaus Obermayer, Pau Vilimelis Aceituno",
+  "publishedDate": "Tue, 25 Aug 2026 00:00:00 -0400",
+  "paperId": "2608.21814",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "脳情報科学",
   "jpKeywords": [
-    "言語処理"
+    "記憶固定化",
+    "エピソード記憶",
+    "学習",
+    "記憶",
+    "睡眠"
   ],
-  "abstractExcerpt": "Inverse decision modeling infers latent properties of decision processes from observed behavior, but existing formulations rely primarily on action trajectories. In verbalized cognitive tasks, task execution also produces response dynamics…",
+  "abstractExcerpt": "Hippocampal replay is a phenomenon observed in mammals and songbirds where neural activation sequences experienced during wakeful periods are repeated during rest or sleep. This mechanism is believed to play a crucial role in episodic…",
   "figureUrls": [
-    "https://arxiv.org/html/2608.09222/2608.09222v2/fig1-5.png",
-    "https://arxiv.org/html/2608.09222/2608.09222v2/vi-action.png",
-    "https://arxiv.org/html/2608.09222/2608.09222v2/vi-effort.png"
+    "https://arxiv.org/html/2608.21814/2608.21814v1/input_driven_overview.png",
+    "https://arxiv.org/html/2608.21814/2608.21814v1/weight_kernel_evolution.png",
+    "https://arxiv.org/html/2608.21814/2608.21814v1/basic_replay.png"
   ]
 }

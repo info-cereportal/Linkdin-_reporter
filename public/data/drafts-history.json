@@ -1,5 +1,35 @@
 [
   {
+    "generatedAt": "2026-08-25T22:59:03.993Z",
+    "date": "2026-08-25",
+    "topic": "記憶固定化とエピソード記憶",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Forward and reverse delay-driven hippocampal replay without symmetric plasticity",
+    "paperLink": "https://arxiv.org/abs/2608.21814",
+    "figureUrl": "https://arxiv.org/html/2608.21814/2608.21814v1/input_driven_overview.png",
+    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n記憶固定化とエピソード記憶の最新研究です。\n\n🔬 記憶固定化 × エピソード記憶 × 学習 × 記憶\n\n> Hippocampal replay is a phenomenon observed in mammals and songbirds where neural activation sequences experienced during wakeful periods are repeated during rest or sleep. This mechanism is believed to play a crucial role in episodic memory consolidation, retrieval, and...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Forward and reverse delay-driven hippocampal replay without symmetric plasticity\n🔗 https://arxiv.org/abs/2608.21814\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #計算論的神経科学",
+    "summaryJP": "記憶固定化とエピソード記憶 — 次世代へ続く布石",
+    "paperAuthors": "Georg Reich, Matthew Cook, Klaus Obermayer, Pau Vilimelis Aceituno",
+    "publishedDate": "Tue, 25 Aug 2026 00:00:00 -0400",
+    "paperId": "2608.21814",
+    "paperSource": "arxiv",
+    "themeArea": "脳情報科学",
+    "jpKeywords": [
+      "記憶固定化",
+      "エピソード記憶",
+      "学習",
+      "記憶",
+      "睡眠"
+    ],
+    "abstractExcerpt": "Hippocampal replay is a phenomenon observed in mammals and songbirds where neural activation sequences experienced during wakeful periods are repeated during rest or sleep. This mechanism is believed to play a crucial role in episodic…",
+    "figureUrls": [
+      "https://arxiv.org/html/2608.21814/2608.21814v1/input_driven_overview.png",
+      "https://arxiv.org/html/2608.21814/2608.21814v1/weight_kernel_evolution.png",
+      "https://arxiv.org/html/2608.21814/2608.21814v1/basic_replay.png"
+    ]
+  },
+  {
     "generatedAt": "2026-08-24T22:57:52.645Z",
     "date": "2026-08-24",
     "topic": "言語処理",
@@ -1257,27 +1287,5 @@
       "https://arxiv.org/html/2607.01400/2607.01400v2/x1.png",
       "https://arxiv.org/html/2607.01400/2607.01400v2/x2.png"
     ]
-  },
-  {
-    "generatedAt": "2026-07-06T23:42:10.820Z",
-    "date": "2026-07-06",
-    "topic": "深層学習と学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Super-resolution deep learning reconstruction for brain fluid-attenuated inversion recovery: image quality and white matter hyperintensity volume analysis.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42406027/",
-    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n数字が語る、深層学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 深層学習 × 学習\n\n> To evaluate whether super-resolution deep learning reconstruction (SR-DLR) improves two-dimensional (2D) brain fluid-attenuated inversion recovery (FLAIR) image quality while preserving automated white matter hyperintensity (WMH) volumetry, compared with Gaussian-filtered...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Super-resolution deep learning reconstruction for brain fluid-attenuated inversion recovery: image quality and white matter hyperintensity volume analysis.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42406027/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #脳情報",
-    "summaryJP": "深層学習と学習 — 数値で示された新事実（ニューロAI・計算論）",
-    "paperAuthors": "Jae-Kyun Ryu, Hei-Jung Jang, Chuluunbaatar Otgonbaatar, Junhyung Kim, Seongkyu Jeon, Hackjoon Shim",
-    "publishedDate": "2026-07-06",
-    "paperId": "42406027",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "深層学習",
-      "学習"
-    ],
-    "abstractExcerpt": "To evaluate whether super-resolution deep learning reconstruction (SR-DLR) improves two-dimensional (2D) brain fluid-attenuated inversion recovery (FLAIR) image quality while preserving automated white matter hyperintensity (WMH)…",
-    "figureUrls": []
   }
 ]
