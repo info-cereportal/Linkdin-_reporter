@@ -1,59 +1,43 @@
 {
-  "generatedAt": "2026-08-27T03:32:23.928Z",
+  "generatedAt": "2026-08-28T06:18:04.908Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
+      "itemCount": 4,
       "items": [
         {
-          "title": "A Human-Factors Guided Cognitive Model of Visuospatial Complexity in Embodied Active Vision",
-          "url": "https://arxiv.org/abs/2608.23572",
-          "publishedDate": "Wed, 26 Aug 2026 00:00:00 -0400",
+          "title": "Hysteresis and multistability in network spreading with neuronal activity feedback",
+          "url": "https://arxiv.org/abs/2608.26528",
+          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We propose a novel framework for the analysis of multimodal data -- encompassing visual, auditory, and spatial stimuli -- foregrounding the role of complexity in embodied perception and interaction in dynamic, naturalistic settings.…",
-          "authors": "Vasiliki Kondyli, Jakob Suchan, Mehul Bhatt"
+          "summary": "Spreading processes on networks often interact with other dynamics on the same nodes. Neurodegenerative disease provides one example: pathological proteins spread through anatomical connections, while neuronal activity influences and is…",
+          "authors": "Christoffer G. Alexandersen, Dani S. Bassett"
         },
         {
-          "title": "Primate vision reveals a missing principle for robust dynamic AI",
-          "url": "https://arxiv.org/abs/2608.23790",
-          "publishedDate": "Wed, 26 Aug 2026 00:00:00 -0400",
+          "title": "Beta oscillation changes in ALS: A Dual-Site International Replication Study",
+          "url": "https://arxiv.org/abs/2608.27003",
+          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "How does an intelligent visual system combine what objects look like with how they move while remaining robust as appearance changes? We addressed this question by comparing human perception and neural activity in macaque inferior temporal…",
-          "authors": "Matteo Dunnhofer, Christian Micheloni, Kohitij Kar"
+          "summary": "Reproducible biomarkers that monitor motor and cognitive dysfunction in amyotrophic lateral sclerosis (ALS) are needed. Previous work reported reduced beta-band event-related desynchronization (ERD) and attenuated post-movement…",
+          "authors": "Marit Boxum, Gabriel Rodrigues Palma, Robin Jansen, Iris A. Bastmeijer, Sanya Dalal, Eva Woods, Narin Suleyman, Eileen Rose Giglia, Aoife Troy, Abby Field, Serena Plaitano, Marjorie Metzger, Niall Pender, Orla Hardiman, Leonard H. van den Berg, Roisin McMackin, Stefan Dukic"
         },
         {
-          "title": "Beauty is in the ELBO of the Beholder: A Variational Account of Processing Fluency in Face Perception",
-          "url": "https://arxiv.org/abs/2608.24219",
-          "publishedDate": "Wed, 26 Aug 2026 00:00:00 -0400",
+          "title": "Assessing mentalization in humans and large language models",
+          "url": "https://arxiv.org/abs/2608.26291",
+          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Facial attractiveness has been linked to statistical regularities such as symmetry and averageness, suggesting that beauty may depend on the ease with which a face is perceived. We empirically test this hypothesis by training variational…",
-          "authors": "Francisco M. López, Jochen Triesch"
+          "summary": "Mentalization - the ability to infer others' beliefs and intentions to guide one's own choices - is a key cognitive function underlying human social interactions. Large language models (LLMs) demonstrate behaviour consistent with humans on…",
+          "authors": "Aamir Sohail, Xintong Zhong, Arkady Konovalov, Patricia L. Lockwood, Lei Zhang"
         },
         {
-          "title": "CytoNet: A Foundation Model for the Human Cerebral Cortex at Cellular Resolution",
-          "url": "https://arxiv.org/abs/2511.01870",
-          "publishedDate": "Wed, 26 Aug 2026 00:00:00 -0400",
+          "title": "Cell-type-specific synaptic motifs generate coupled mean-variability dynamics in recurrent neural networks",
+          "url": "https://arxiv.org/abs/2606.27946",
+          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Studying the cellular architecture of the human cerebral cortex is essential for understanding how the brain is organized from the micro to the macro level, and how it functions. However, investigating complex texture patterns in…",
-          "authors": "Christian Schiffer, Zeynep Boztoprak, Jan-Oliver Kropp, Julia Thönnißen, Katia Berr, Hannah Spitzer, Mathis Bode, Thomas Lippert, Katrin Amunts, Timo Dickscheid"
-        },
-        {
-          "title": "Data-Driven Modeling of Spatiotemporal Dynamics Using Multimodal Imaging Data",
-          "url": "https://arxiv.org/abs/2511.08847",
-          "publishedDate": "Wed, 26 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Understanding how biological systems evolve across space and time remains a fundamental challenge, particularly when dynamic processes vary substantially across individuals. We present a personalized graph-based dynamical modeling…",
-          "authors": "Chunyan Li, Yutong Mao, Xiao Liu, Wenrui Hao"
-        },
-        {
-          "title": "Dendritic structure enables powerful plasticity",
-          "url": "https://arxiv.org/abs/2608.23251",
-          "publishedDate": "Wed, 26 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Over the past decades, it has become increasingly clear that the complex morphology of cortical neurons is more than just a quirk of evolution, and that dendritic compartments serve as computational elements in their own right, rather than…",
-          "authors": "Ben von Hünerbein, Federico Benitez, Kevin Max, Julian Göltz, Paul Haider, Simon Brandt, Arno Granier, Timo Gierlich, Jakob Jordan, Katharina A. Wilmes, Jean-Pascal Pfister, Walter Senn, Mihai A. Petrovici"
+          "summary": "Synaptic-resolution network connectomics has revealed that brain circuits feature fine-scale structural connectivity, such as pairs of correlated synaptic couplings known as second-order motifs. Large-scale recordings of neuronal activity…",
+          "authors": "Meiyi Zhang (Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China), Jinjian Yu (School of Physics, Peking University, China), Louis Tao (Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China, School of Life Sciences, Peking University, China), Yuxiu Shao (CNRS, LJAD, Universite Cote dAzur, France, Neuromod Institute, Universite Cote dAzur, France)"
         }
       ]
     },
@@ -63,52 +47,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Hospitals plot their response to funding cuts",
+          "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-medicaid-cuts-rasonque-approved-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Thu, 27 Aug 2026 15:26:50 +0000",
+          "source": "statnews.com",
+          "summary": "Hospital prep a lobbying push, RFK Jr. faces more bad news on measles, and the cancer drug that helped Ben Sasse gets approved.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "RFK Jr. said a Samoa trip had nothing to do with vaccines. New documents refute that",
+          "url": "https://www.statnews.com/2026/08/27/kennedy-samoa-trip-mmr-vaccine-new-documents/?utm_campaign=rss",
+          "publishedDate": "Thu, 27 Aug 2026 13:16:38 +0000",
+          "source": "statnews.com",
+          "summary": "Health secretary Robert F. Kennedy Jr. said a Samoa trip had nothing to do with vaccines. New documents obtained by The Associated Press and The Guardian refute that testimony.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "Decoding DEA action on kratom-related substances",
+          "url": "https://www.statnews.com/2026/08/27/health-news-decoding-dea-action-on-kratom-related-substance/?utm_campaign=rss",
+          "publishedDate": "Thu, 27 Aug 2026 13:01:06 +0000",
+          "source": "statnews.com",
+          "summary": "RFK Jr. downplays measles threat, FDA approves pancreatic drug, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "STAT+: Cassidy criticizes FDA oversight of abortion pill manufacturers in new report",
+          "url": "https://www.statnews.com/2026/08/27/bill-cassidy-louisiana-senator-new-report-mifepristone-heidi-overton/?utm_campaign=rss",
+          "publishedDate": "Thu, 27 Aug 2026 13:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "The report raises a high-profile issue for Heidi Overton as she faces confirmation as FDA commissioner.",
+          "authors": "Margaret Manto"
+        },
+        {
+          "title": "A state gave sheriffs 20% of its opioid settlement cash. We followed the money",
+          "url": "https://www.statnews.com/2026/08/27/opioid-settlement-funds-enforcement-or-treatment-louisiana-sheriff-investigation/?utm_campaign=rss",
+          "publishedDate": "Thu, 27 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "KFF Health News examines how sheriffs are spending opioid settlement money, finds they're spending millions on police gear.",
+          "authors": "Aneri Pattani — KFF Health News"
+        },
+        {
           "title": "Kennedy posts vaccine misinformation, spars on social media amid measles deaths",
           "url": "https://www.statnews.com/2026/08/26/kennedy-vaccine-comments-reaction-josh-shapiro-jerome-adams/?utm_campaign=rss",
           "publishedDate": "Wed, 26 Aug 2026 18:17:16 +0000",
           "source": "statnews.com",
           "summary": "Kennedy has blamed others for declining vaccination rates, and downplayed the dangers of measles.",
           "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "On the fence about a statin? In borderline cases, calcium scans could be a tiebreaker",
-          "url": "https://www.statnews.com/2026/08/26/cac-scans-statin-use-prevent-calculator-heart-disease-risk/?utm_campaign=rss",
-          "publishedDate": "Wed, 26 Aug 2026 15:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "The increasingly popular coronary artery calcium scan is helpful in guiding statin use in only a small share of cases, new studies find.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "Even at big companies, health care costs are increasing",
-          "url": "https://www.statnews.com/2026/08/26/health-news-even-at-big-companies-health-care-costs-increasing/?utm_campaign=rss",
-          "publishedDate": "Wed, 26 Aug 2026 13:29:11 +0000",
-          "source": "statnews.com",
-          "summary": "Two U.S. measles deaths, the profit motive for women's health, and more Morning Rounds news today",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "Newer shingles vaccine linked to lower heart disease risk, ‘natural experiment’ shows",
-          "url": "https://www.statnews.com/2026/08/26/shingles-vaccine-shingrix-reduces-heart-disease-dementia-risk-oxford-study/?utm_campaign=rss",
-          "publishedDate": "Wed, 26 Aug 2026 09:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "Oxford researchers call shingles shot first vaccine protecting both heart and brain. Lower heart disease risk follows study showing reduced dementia risk.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "STAT+: When it comes to women’s health, money talks",
-          "url": "https://www.statnews.com/2026/08/26/womens-health-reverse-pitch-profit-driven-approach-endometriosis-osteoporosis/?utm_campaign=rss",
-          "publishedDate": "Wed, 26 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Women's health experts suggest a 'reverse pitch' approach to endometriosis, osteoporosis, and autoimmune treatments, stressing the profit potential.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "Pennsylvania reports first 2 measles deaths in the U.S. this year, both people unvaccinated",
-          "url": "https://www.statnews.com/2026/08/25/two-measles-deaths-reported-pennsylvania-residents-not-vaccinated/?utm_campaign=rss",
-          "publishedDate": "Tue, 25 Aug 2026 16:02:24 +0000",
-          "source": "statnews.com",
-          "summary": "Two unvaccinated Pennsylvania residents have died from measles, state health officials said Tuesday, the first measles-related deaths in the U.S. this year.",
-          "authors": "Associated Press"
         }
       ]
     },
@@ -118,52 +102,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Kennedy posts vaccine misinformation, spars on social media amid measles deaths",
-          "url": "https://www.statnews.com/2026/08/26/kennedy-vaccine-comments-reaction-josh-shapiro-jerome-adams/?utm_campaign=rss",
-          "publishedDate": "Wed, 26 Aug 2026 18:17:16 +0000",
+          "title": "STAT+: Hospitals plot their response to funding cuts",
+          "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-medicaid-cuts-rasonque-approved-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Thu, 27 Aug 2026 15:26:50 +0000",
           "source": "statnews.com",
-          "summary": "Kennedy has blamed others for declining vaccination rates, and downplayed the dangers of measles.",
-          "authors": "Chelsea Cirruzzo"
+          "summary": "Hospital prep a lobbying push, RFK Jr. faces more bad news on measles, and the cancer drug that helped Ben Sasse gets approved.",
+          "authors": "John Wilkerson"
         },
         {
-          "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
-          "publishedDate": "Wed, 26 Aug 2026 09:00:53 EDT",
+          "title": "STAT+: Cassidy criticizes FDA oversight of abortion pill manufacturers in new report",
+          "url": "https://www.statnews.com/2026/08/27/bill-cassidy-louisiana-senator-new-report-mifepristone-heidi-overton/?utm_campaign=rss",
+          "publishedDate": "Thu, 27 Aug 2026 13:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "The report raises a high-profile issue for Heidi Overton as she faces confirmation as FDA commissioner.",
+          "authors": "Margaret Manto"
+        },
+        {
+          "title": "Eating more ultra-processed foods may raise prostate cancer risk by 30%",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260826055457.htm",
+          "publishedDate": "Thu, 27 Aug 2026 07:52:35 EDT",
           "source": "sciencedaily.com",
-          "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future…",
+          "summary": "Ultra-processed foods make up a huge share of the American diet, and new research suggests they may carry another serious health risk for men. In a nationally representative study of more than 17,000 U.S. men, those who ate more…",
           "authors": ""
         },
         {
-          "title": "What you eat before age 2 may affect your health 70 years later",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260824065522.htm",
-          "publishedDate": "Wed, 26 Aug 2026 07:30:35 EDT",
+          "title": "Vitamin C won’t prevent most colds, but it may do one small thing",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260827010507.htm",
+          "publishedDate": "Thu, 27 Aug 2026 06:38:30 EDT",
           "source": "sciencedaily.com",
-          "summary": "Britain’s postwar sugar rationing created a rare natural experiment that let researchers examine how early sugar exposure might affect health decades later. People who experienced more rationing during their first 1,000 days had lower…",
+          "summary": "The belief that huge doses of vitamin C can ward off colds was popularized more than 50 years ago by Nobel Prize winner Linus Pauling. Since then, larger studies have found that vitamin C does not prevent most people from catching a cold,…",
           "authors": ""
         },
         {
-          "title": "Turmeric compound may protect blood vessels from diabetes damage",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260824065543.htm",
-          "publishedDate": "Wed, 26 Aug 2026 06:49:14 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A compound found in turmeric may help protect blood vessels from some of the damage caused by Type 1 diabetes. In rats, curcumin reduced inflammation, improved cellular signaling, and restored vascular health to levels resembling those of…",
-          "authors": ""
+          "title": "Hospitals are plotting a long-shot push to roll back $1 trillion in Medicaid cuts",
+          "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-reverse-medicaid-cuts-part-2-unraveled-series/?utm_campaign=rss",
+          "publishedDate": "Thu, 27 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Inside health systems' efforts to mitigate massive funding cuts.",
+          "authors": "Daniel Payne"
         },
         {
-          "title": "A missing color in indoor light may help prevent myopia",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260824065510.htm",
-          "publishedDate": "Wed, 26 Aug 2026 04:15:18 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A wavelength of light largely missing from indoor LEDs may play an important role in protecting developing eyes from nearsightedness. Researchers found that indigo light completely prevented myopia in tree shrews, whose eyes share…",
-          "authors": ""
-        },
-        {
-          "title": "Childhood trauma may leave a lasting “scar” inside brain cells",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260823094151.htm",
-          "publishedDate": "Wed, 26 Aug 2026 03:28:27 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later. In mice, researchers were able to block this effect, preventing the heightened anxiety and…",
-          "authors": ""
+          "title": "A state gave sheriffs 20% of its opioid settlement cash. We followed the money",
+          "url": "https://www.statnews.com/2026/08/27/opioid-settlement-funds-enforcement-or-treatment-louisiana-sheriff-investigation/?utm_campaign=rss",
+          "publishedDate": "Thu, 27 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "KFF Health News examines how sheriffs are spending opioid settlement money, finds they're spending millions on police gear.",
+          "authors": "Aneri Pattani — KFF Health News"
         }
       ]
     },
@@ -173,75 +157,67 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Integer Natural Evolution Strategies",
-          "url": "https://arxiv.org/abs/2608.23714",
-          "publishedDate": "Wed, 26 Aug 2026 00:00:00 -0400",
+          "title": "Bug Localization from Bug Reports: A Multi-Objective Approach",
+          "url": "https://arxiv.org/abs/2608.27089",
+          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "While contemporary Evolution Strategies handle integer optimization problems effectively, their adaptation mechanism is grounded in $\\ell_2$-based Gaussian models, which are not native to the integer lattice. In contrast, the $\\ell_1$-norm…",
-          "authors": "Jacob de Nobel, Diederick Vermetten, Hao Wang, Ofer M. Shir, Michael Emmerich, Thomas Bäck"
+          "summary": "Bug localization is a labor-intensive task, particularly in large software systems. When abnormal behavior occurs, developers must perform repetitive and time-consuming steps to identify faulty files. Previous studies have mainly focused…",
+          "authors": "Waleed Ahmad, Mehtab Kiran Suddle, Maryam Bashir"
         },
         {
-          "title": "Coronavirus Optimization Algorithm: A Success-History Adaptive Evolutionary Framework with Archive-Assisted Search and Stagnation Recovery for Global Optimization",
-          "url": "https://arxiv.org/abs/2608.23847",
-          "publishedDate": "Wed, 26 Aug 2026 00:00:00 -0400",
+          "title": "ANTShapes Benchmarking Datasets for Event-Based Neuromorphic Object Classification",
+          "url": "https://arxiv.org/abs/2608.27150",
+          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper proposes the Coronavirus Optimization Algorithm (COA), a SARS-CoV-2-inspired success-history adaptive evolutionary optimizer for box-constrained continuous global optimization. COA does not model disease transmission; instead,…",
-          "authors": "Hari Mohan Pandey"
+          "summary": "Object classification in event-based computer vision is a task that is attracting considerable research attention. Event-based object classification is a fundamental task in the fields of security and applied computer vision, which…",
+          "authors": "M. Middleton, H. Kayan, B. Sen Bhattacharya, T. Ali, E. Baikas, M. Vousden, C. Perera, O. Rhodes, E. Gheorghiu, M. A. Trefzer"
         },
         {
-          "title": "Trust, but Verify: Rigorously Profiling Best-Effort High-Performance Computing for Digital Evolution",
-          "url": "https://arxiv.org/abs/2608.23955",
-          "publishedDate": "Wed, 26 Aug 2026 00:00:00 -0400",
+          "title": "Beyond Edge Cuts: Activity-Weighted Multicast Hypergraph Mapping for Spiking Neural Networks on Mesh NoCs",
+          "url": "https://arxiv.org/abs/2608.26223",
+          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Developments in high-performance computing (HPC) technology continue to drastically increase quantities of available processing power. In the context of digital evolution, this explosive growth offers opportunities to advance both…",
-          "authors": "Matthew Andres Moreno, Santiago Rodriguez Papa, Charles Ofria, Luis Zaman, Emily Dolson"
+          "summary": "Mapping spiking neural networks (SNNs) onto neuromorphic many-core platforms is often formulated with graph partitioning and pairwise placement costs. That abstraction is convenient, but it does not match the physical communication event:…",
+          "authors": "Amirreza Khorasanian"
         },
         {
-          "title": "ORBITALIF: An Efficient Spiking Federated Learning Framework for Onboard Cloud Removal",
-          "url": "https://arxiv.org/abs/2608.24073",
-          "publishedDate": "Wed, 26 Aug 2026 00:00:00 -0400",
+          "title": "Asymmetric Coupling Anisotropy for Causal Information Filtering in Physical Reservoirs",
+          "url": "https://arxiv.org/abs/2608.26741",
+          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Low-earth-orbit (LEO) satellites enable high-resolution, large-scale Earth observation for applications such as disaster monitoring and environmental surveillance. However, cloud coverage often obscures the Earth's surface, and…",
-          "authors": "Bohan Zhang, Chenyu Xu, Yijie Mao, Yuanming Shi"
+          "summary": "We demonstrate a physical mechanism for causal information filtering in a physical reservoir computing (PRC) by exploiting asymmetric coupling anisotropy. Using a network of coupled Duffing oscillators, we show that the directionality of…",
+          "authors": "Takashi Hikihara, Yuma Aoki"
         },
         {
-          "title": "On Scaling Coordinate-Based Neuroevolution: The Quadtree Bottleneck in ES-HyperNEAT",
-          "url": "https://arxiv.org/abs/2608.24480",
-          "publishedDate": "Wed, 26 Aug 2026 00:00:00 -0400",
+          "title": "Cell-type-specific synaptic motifs generate coupled mean-variability dynamics in recurrent neural networks",
+          "url": "https://arxiv.org/abs/2606.27946",
+          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "ES-HyperNEAT evolves substrate topology through adaptive quadtree subdivision; to our knowledge, no implementation with full population-level GPU parallelization exists. We present JAX-ESHN, a JAX-based implementation targeting GPU…",
-          "authors": "Romain Claret, Michael O'Neill, Paul Cotofrei, Kilian Stoffel"
+          "summary": "Synaptic-resolution network connectomics has revealed that brain circuits feature fine-scale structural connectivity, such as pairs of correlated synaptic couplings known as second-order motifs. Large-scale recordings of neuronal activity…",
+          "authors": "Meiyi Zhang (Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China), Jinjian Yu (School of Physics, Peking University, China), Louis Tao (Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China, School of Life Sciences, Peking University, China), Yuxiu Shao (CNRS, LJAD, Universite Cote dAzur, France, Neuromod Institute, Universite Cote dAzur, France)"
         },
         {
-          "title": "Learning Whom to Trust : Decision-Generated Credibility in Social Learning",
-          "url": "https://arxiv.org/abs/2608.24851",
-          "publishedDate": "Wed, 26 Aug 2026 00:00:00 -0400",
+          "title": "Heaviside Continuity of Rolling Coefficients for Eliminating Epistemic Entropy in Large Language Models",
+          "url": "https://arxiv.org/abs/2607.04562",
+          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Social interaction can improve collective learning but also amplify early mistakes. We study this tension when the credibility of social information is generated by the sender's own decision process rather than fixed ex ante.…",
-          "authors": "Gabriel Bontemps, Abhishek Banerjee"
+          "summary": "Large language models (LLMs) generate fluent outputs that can be wrong. Unlike humans, who often exhibit cues when providing false information, LLMs produce errors that are difficult to detect because autoregressive decoding provides no…",
+          "authors": "MY Pitsane, Hope Mogale"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 1,
       "items": [
         {
-          "title": "Predicting Only from Selected Evidence: A Tempered Product-of-Experts Bottleneck for Auditable EEG Diagnosis",
-          "url": "https://arxiv.org/abs/2608.24377",
-          "publishedDate": "Wed, 26 Aug 2026 00:00:00 -0400",
+          "title": "Joint Communication and Control Beamforming: A Closed-Loop Control Perspective",
+          "url": "https://arxiv.org/abs/2608.26352",
+          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Pretrained EEG backbones improve transfer performance, but downstream diagnosis heads remain hard to audit: predictions are made from unrestricted hidden states, whereas explanations are usually produced only after the decision. We…",
-          "authors": "Yinghao Wang, Shujian Yu, Duc Han Le, Zhikai Yu, Changming Wang, Van-Tam Nguyen"
-        },
-        {
-          "title": "Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts",
-          "url": "https://arxiv.org/abs/2604.16926",
-          "publishedDate": "Wed, 26 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Electroencephalography (EEG) foundation models have shown strong potential for learning generalizable representations from large-scale neural data, yet their clinical deployment is hindered by distribution shifts across clinical settings,…",
-          "authors": "Gabriel Jason Lee, Jathurshan Pradeepkumar, Jimeng Sun"
+          "summary": "A joint communication and control (JCC) framework is proposed, where a base station (BS) simultaneously serves multiple communication users (CUs) and controls a physical plant in a closed loop. In the downlink, BS-generated control inputs…",
+          "authors": "Hao Jiang, Chongjun Ouyang, Yuanwei Liu, Arumugam Nallanathan, Robert Schober"
         }
       ]
     }

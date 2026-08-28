@@ -1,5 +1,26 @@
 [
   {
+    "generatedAt": "2026-08-28T06:18:03.733Z",
+    "date": "2026-08-28",
+    "topic": "脳情報科学の最新研究",
+    "templateName": "paradigm-shift",
+    "riskScore": 0,
+    "paperTitle": "Hysteresis and multistability in network spreading with neuronal activity feedback",
+    "paperLink": "https://arxiv.org/abs/2608.26528",
+    "formatted": "脳情報科学の最新研究に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 脳情報科学\n\n> Spreading processes on networks often interact with other dynamics on the same nodes. Neurodegenerative disease provides one example: pathological proteins spread through anatomical connections, while neuronal activity influences and is altered by their spread, forming a...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\n脳情報科学の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Hysteresis and multistability in network spreading with neuronal activity feedback\n🔗 https://arxiv.org/abs/2608.26528\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #BCI",
+    "summaryJP": "脳情報科学の最新研究 — 通説を揺さぶる新たな知見",
+    "paperAuthors": "Christoffer G. Alexandersen, Dani S. Bassett",
+    "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
+    "paperId": "2608.26528",
+    "paperSource": "arxiv",
+    "themeArea": "脳情報科学",
+    "jpKeywords": [
+      "脳情報科学"
+    ],
+    "abstractExcerpt": "Spreading processes on networks often interact with other dynamics on the same nodes. Neurodegenerative disease provides one example: pathological proteins spread through anatomical connections, while neuronal activity influences and is…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-08-27T03:32:23.633Z",
     "date": "2026-08-27",
     "topic": "脳情報科学の最新研究",
@@ -1255,33 +1276,6 @@
     "abstractExcerpt": "In this work, we reviewed different approaches in mathematical modeling of biologically plausible neural systems. Models are characterized and classified based on their common features and special use cases. In addition to spiking models,…",
     "figureUrls": [
       "https://arxiv.org/html/2607.07429/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
-    ]
-  },
-  {
-    "generatedAt": "2026-07-08T23:41:35.403Z",
-    "date": "2026-07-08",
-    "topic": "脳画像研究とPET",
-    "templateName": "future-vision",
-    "riskScore": 0,
-    "paperTitle": "Quantifying Entrainment Evidence: A Comparison of Frequentist and Bayesian Approaches for Information Processing Pathway Maps",
-    "paperLink": "https://arxiv.org/abs/2607.06284",
-    "figureUrl": "https://arxiv.org/html/2607.06284/2607.06284v1/figures/idealised-loudness-IPPM.png",
-    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n脳画像研究とPETの最新研究です。\n\n🔬 脳画像研究 × PET\n\n📊 注目すべきデータ：\n→ Here, we present a direct comparison between the established frequentist approach and a novel Bayesian framework for mapping cortical entrainment.\n→ We discuss the implications of this shift for systems neuroscience, specifically regarding the handling of collinear models and the robust accumulation of evidence.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Quantifying Entrainment Evidence: A Comparison of Frequentist and Bayesian Approaches for Information Processing Pathway Maps\n🔗 https://arxiv.org/abs/2607.06284\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #ニューロテック",
-    "summaryJP": "脳画像研究とPET — 次世代へ続く布石（計算論的神経科学）",
-    "paperAuthors": "Kaibo Zhang, Ji Wu, Chao Zhang, Andrew Thwaites",
-    "publishedDate": "Wed, 08 Jul 2026 00:00:00 -0400",
-    "paperId": "2607.06284",
-    "paperSource": "arxiv",
-    "themeArea": "計算論的神経科学",
-    "jpKeywords": [
-      "脳画像研究",
-      "PET"
-    ],
-    "abstractExcerpt": "Information Processing Pathway Maps (IPPMs) offer a scalable framework for formalizing the complex sequence of mathematical transformations applied to sensory stimuli. These maps chart the latency and cortical expression of computational…",
-    "figureUrls": [
-      "https://arxiv.org/html/2607.06284/2607.06284v1/figures/idealised-loudness-IPPM.png",
-      "https://arxiv.org/html/2607.06284/2607.06284v1/figures/frequentist-expression-plot.png",
-      "https://arxiv.org/html/2607.06284/2607.06284v1/figures/bayesian-expression-plot.png"
     ]
   }
 ]
