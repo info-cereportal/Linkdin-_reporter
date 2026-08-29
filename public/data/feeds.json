@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T06:18:04.908Z",
+  "generatedAt": "2026-08-29T03:50:38.377Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -47,6 +47,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Juul gets OK to sell updated vaping device with age-gating technology",
+          "url": "https://www.statnews.com/2026/08/28/juul-fda-clearance-updated-ecigarette-age-gating-technology/?utm_campaign=rss",
+          "publishedDate": "Fri, 28 Aug 2026 19:51:56 +0000",
+          "source": "statnews.com",
+          "summary": "Juul has received FDA clearance to sell an updated version of its e-cigarette, which includes an optional age-verification system designed to prevent underage use.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "At a federal autism advisory committee meeting, members double down on long-debunked theories",
+          "url": "https://www.statnews.com/2026/08/28/health-news-federal-autism-adcomm-doubles-down-on-debunked-theory/?utm_campaign=rss",
+          "publishedDate": "Fri, 28 Aug 2026 13:15:46 +0000",
+          "source": "statnews.com",
+          "summary": "RFK Jr.'s vaccine questions in Samoa, former Stanford president rebuts fraud allegations, and more health news from Morning Rounds",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "Vaccines take center stage at federal autism advisory committee",
+          "url": "https://www.statnews.com/2026/08/28/vaccines-autism-advisory-committee-strategic-plan-boost-research-funding/?utm_campaign=rss",
+          "publishedDate": "Fri, 28 Aug 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Comments about vaccines overshadowed an advisory committee meeting to discuss a plan for boosting federal funding for autism research.",
+          "authors": "O. Rose Broderick"
+        },
+        {
           "title": "STAT+: Hospitals plot their response to funding cuts",
           "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-medicaid-cuts-rasonque-approved-dc-diagnosis/?utm_campaign=rss",
           "publishedDate": "Thu, 27 Aug 2026 15:26:50 +0000",
@@ -69,30 +93,6 @@
           "source": "statnews.com",
           "summary": "RFK Jr. downplays measles threat, FDA approves pancreatic drug, and more health news from Morning Rounds",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: Cassidy criticizes FDA oversight of abortion pill manufacturers in new report",
-          "url": "https://www.statnews.com/2026/08/27/bill-cassidy-louisiana-senator-new-report-mifepristone-heidi-overton/?utm_campaign=rss",
-          "publishedDate": "Thu, 27 Aug 2026 13:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "The report raises a high-profile issue for Heidi Overton as she faces confirmation as FDA commissioner.",
-          "authors": "Margaret Manto"
-        },
-        {
-          "title": "A state gave sheriffs 20% of its opioid settlement cash. We followed the money",
-          "url": "https://www.statnews.com/2026/08/27/opioid-settlement-funds-enforcement-or-treatment-louisiana-sheriff-investigation/?utm_campaign=rss",
-          "publishedDate": "Thu, 27 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "KFF Health News examines how sheriffs are spending opioid settlement money, finds they're spending millions on police gear.",
-          "authors": "Aneri Pattani — KFF Health News"
-        },
-        {
-          "title": "Kennedy posts vaccine misinformation, spars on social media amid measles deaths",
-          "url": "https://www.statnews.com/2026/08/26/kennedy-vaccine-comments-reaction-josh-shapiro-jerome-adams/?utm_campaign=rss",
-          "publishedDate": "Wed, 26 Aug 2026 18:17:16 +0000",
-          "source": "statnews.com",
-          "summary": "Kennedy has blamed others for declining vaccination rates, and downplayed the dangers of measles.",
-          "authors": "Chelsea Cirruzzo"
         }
       ]
     },
@@ -101,6 +101,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Experimental eye drops help blind mice see again",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm",
+          "publishedDate": "Fri, 28 Aug 2026 10:21:46 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the most promising…",
+          "authors": ""
+        },
+        {
+          "title": "A common vape flavoring may disrupt early embryo development",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828005215.htm",
+          "publishedDate": "Fri, 28 Aug 2026 08:49:37 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A popular vanilla flavoring in e-cigarettes may interfere with some of the earliest steps of human development. In lab experiments, vanillin caused embryonic stem cells to lose their ability to develop normally and pushed them toward…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm",
+          "publishedDate": "Fri, 28 Aug 2026 05:01:51 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say the bigger question…",
+          "authors": ""
+        },
         {
           "title": "STAT+: Hospitals plot their response to funding cuts",
           "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-medicaid-cuts-rasonque-approved-dc-diagnosis/?utm_campaign=rss",
@@ -124,30 +148,6 @@
           "source": "sciencedaily.com",
           "summary": "Ultra-processed foods make up a huge share of the American diet, and new research suggests they may carry another serious health risk for men. In a nationally representative study of more than 17,000 U.S. men, those who ate more…",
           "authors": ""
-        },
-        {
-          "title": "Vitamin C won’t prevent most colds, but it may do one small thing",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260827010507.htm",
-          "publishedDate": "Thu, 27 Aug 2026 06:38:30 EDT",
-          "source": "sciencedaily.com",
-          "summary": "The belief that huge doses of vitamin C can ward off colds was popularized more than 50 years ago by Nobel Prize winner Linus Pauling. Since then, larger studies have found that vitamin C does not prevent most people from catching a cold,…",
-          "authors": ""
-        },
-        {
-          "title": "Hospitals are plotting a long-shot push to roll back $1 trillion in Medicaid cuts",
-          "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-reverse-medicaid-cuts-part-2-unraveled-series/?utm_campaign=rss",
-          "publishedDate": "Thu, 27 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Inside health systems' efforts to mitigate massive funding cuts.",
-          "authors": "Daniel Payne"
-        },
-        {
-          "title": "A state gave sheriffs 20% of its opioid settlement cash. We followed the money",
-          "url": "https://www.statnews.com/2026/08/27/opioid-settlement-funds-enforcement-or-treatment-louisiana-sheriff-investigation/?utm_campaign=rss",
-          "publishedDate": "Thu, 27 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "KFF Health News examines how sheriffs are spending opioid settlement money, finds they're spending millions on police gear.",
-          "authors": "Aneri Pattani — KFF Health News"
         }
       ]
     },

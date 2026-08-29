@@ -1,5 +1,33 @@
 [
   {
+    "generatedAt": "2026-08-29T03:50:37.903Z",
+    "date": "2026-08-29",
+    "topic": "リカレントニューラルネットワーク(RNN)と視覚野",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Cell-type-specific synaptic motifs generate coupled mean-variability dynamics in recurrent neural networks",
+    "paperLink": "https://arxiv.org/abs/2606.27946",
+    "figureUrl": "https://arxiv.org/html/2606.27946/2606.27946v2/Figures/fig1_schematic.png",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、リカレントニューラルネットワーク(RNN)と視覚野の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 リカレントニューラルネットワーク(RNN) × 視覚野 × コネクトミクス\n\n> Synaptic-resolution network connectomics has revealed that brain circuits feature fine-scale structural connectivity, such as pairs of correlated synaptic couplings known as second-order motifs. Large-scale recordings of neuronal activity in networks containing nonlinear neurons...\n\nなぜこの数字が重要か。\n\nコネクトミクス・回路解析において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Cell-type-specific synaptic motifs generate coupled mean-variability dynamics in recurrent neural networks\n🔗 https://arxiv.org/abs/2606.27946\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #認知科学",
+    "summaryJP": "リカレントニューラルネットワーク(RNN)と視覚野 — 数値で示された新事実（コネクトミクス・回路解析）",
+    "paperAuthors": "Meiyi Zhang (Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China), Jinjian Yu (School of Physics, Peking University, China), Louis Tao (Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China, School of Life Sciences, Peking University, China), Yuxiu Shao (CNRS, LJAD, Universite Cote dAzur, France, Neuromod Institute, Universite Cote dAzur, France)",
+    "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
+    "paperId": "2606.27946",
+    "paperSource": "arxiv",
+    "themeArea": "コネクトミクス・回路解析",
+    "jpKeywords": [
+      "リカレントニューラルネットワーク(RNN)",
+      "視覚野",
+      "コネクトミクス"
+    ],
+    "abstractExcerpt": "Synaptic-resolution network connectomics has revealed that brain circuits feature fine-scale structural connectivity, such as pairs of correlated synaptic couplings known as second-order motifs. Large-scale recordings of neuronal activity…",
+    "figureUrls": [
+      "https://arxiv.org/html/2606.27946/2606.27946v2/Figures/fig1_schematic.png",
+      "https://arxiv.org/html/2606.27946/2606.27946v2/Figures/fig2_homo.png",
+      "https://arxiv.org/html/2606.27946/2606.27946v2/Figures/fig3_hetero_end.png"
+    ]
+  },
+  {
     "generatedAt": "2026-08-28T06:18:03.733Z",
     "date": "2026-08-28",
     "topic": "脳情報科学の最新研究",
@@ -1252,30 +1280,6 @@
     "figureUrls": [
       "https://arxiv.org/html/2605.30882/2605.30882v2/x1.png",
       "https://arxiv.org/html/2605.30882/2605.30882v2/x2.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-07-09T23:48:45.917Z",
-    "date": "2026-07-09",
-    "topic": "生物学的妥当性",
-    "templateName": "neuro-ai-bridge",
-    "riskScore": 0,
-    "paperTitle": "Single-Entity Spiking Neuron Models: Survey",
-    "paperLink": "https://arxiv.org/abs/2607.07429",
-    "figureUrl": "https://arxiv.org/html/2607.07429/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n生物学的妥当性に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 生物学的妥当性\n\n> In this work, we reviewed different approaches in mathematical modeling of biologically plausible neural systems. Models are characterized and classified based on their common features and special use cases.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Single-Entity Spiking Neuron Models: Survey\n🔗 https://arxiv.org/abs/2607.07429\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #BrainComputerInterface",
-    "summaryJP": "生物学的妥当性 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
-    "paperAuthors": "Leon Parepko, Danila Shulepin, Albert Nasybullin",
-    "publishedDate": "Thu, 09 Jul 2026 00:00:00 -0400",
-    "paperId": "2607.07429",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "生物学的妥当性"
-    ],
-    "abstractExcerpt": "In this work, we reviewed different approaches in mathematical modeling of biologically plausible neural systems. Models are characterized and classified based on their common features and special use cases. In addition to spiking models,…",
-    "figureUrls": [
-      "https://arxiv.org/html/2607.07429/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
     ]
   }
 ]
