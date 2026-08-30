@@ -1,51 +1,26 @@
 {
-  "generatedAt": "2026-08-29T03:50:38.377Z",
+  "generatedAt": "2026-08-30T00:39:23.324Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 4,
-      "items": [
-        {
-          "title": "Hysteresis and multistability in network spreading with neuronal activity feedback",
-          "url": "https://arxiv.org/abs/2608.26528",
-          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Spreading processes on networks often interact with other dynamics on the same nodes. Neurodegenerative disease provides one example: pathological proteins spread through anatomical connections, while neuronal activity influences and is…",
-          "authors": "Christoffer G. Alexandersen, Dani S. Bassett"
-        },
-        {
-          "title": "Beta oscillation changes in ALS: A Dual-Site International Replication Study",
-          "url": "https://arxiv.org/abs/2608.27003",
-          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Reproducible biomarkers that monitor motor and cognitive dysfunction in amyotrophic lateral sclerosis (ALS) are needed. Previous work reported reduced beta-band event-related desynchronization (ERD) and attenuated post-movement…",
-          "authors": "Marit Boxum, Gabriel Rodrigues Palma, Robin Jansen, Iris A. Bastmeijer, Sanya Dalal, Eva Woods, Narin Suleyman, Eileen Rose Giglia, Aoife Troy, Abby Field, Serena Plaitano, Marjorie Metzger, Niall Pender, Orla Hardiman, Leonard H. van den Berg, Roisin McMackin, Stefan Dukic"
-        },
-        {
-          "title": "Assessing mentalization in humans and large language models",
-          "url": "https://arxiv.org/abs/2608.26291",
-          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Mentalization - the ability to infer others' beliefs and intentions to guide one's own choices - is a key cognitive function underlying human social interactions. Large language models (LLMs) demonstrate behaviour consistent with humans on…",
-          "authors": "Aamir Sohail, Xintong Zhong, Arkady Konovalov, Patricia L. Lockwood, Lei Zhang"
-        },
-        {
-          "title": "Cell-type-specific synaptic motifs generate coupled mean-variability dynamics in recurrent neural networks",
-          "url": "https://arxiv.org/abs/2606.27946",
-          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Synaptic-resolution network connectomics has revealed that brain circuits feature fine-scale structural connectivity, such as pairs of correlated synaptic couplings known as second-order motifs. Large-scale recordings of neuronal activity…",
-          "authors": "Meiyi Zhang (Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China), Jinjian Yu (School of Physics, Peking University, China), Louis Tao (Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China, School of Life Sciences, Peking University, China), Yuxiu Shao (CNRS, LJAD, Universite Cote dAzur, France, Neuromod Institute, Universite Cote dAzur, France)"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: A Novartis drug cut inflammation. Can it improve heart outcomes?",
+          "url": "https://www.statnews.com/2026/08/29/novartis-pacibekitug-inflammation-il6-tourmaline-heart-disease/?utm_campaign=rss",
+          "publishedDate": "Sat, 29 Aug 2026 07:32:11 +0000",
+          "source": "statnews.com",
+          "summary": "A newly acquired Novartis drug cut signs of inflammation. The test will be whether that can improve people's heart health.",
+          "authors": "Andrew Joseph"
+        },
         {
           "title": "Juul gets OK to sell updated vaping device with age-gating technology",
           "url": "https://www.statnews.com/2026/08/28/juul-fda-clearance-updated-ecigarette-age-gating-technology/?utm_campaign=rss",
@@ -85,14 +60,6 @@
           "source": "statnews.com",
           "summary": "Health secretary Robert F. Kennedy Jr. said a Samoa trip had nothing to do with vaccines. New documents obtained by The Associated Press and The Guardian refute that testimony.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "Decoding DEA action on kratom-related substances",
-          "url": "https://www.statnews.com/2026/08/27/health-news-decoding-dea-action-on-kratom-related-substance/?utm_campaign=rss",
-          "publishedDate": "Thu, 27 Aug 2026 13:01:06 +0000",
-          "source": "statnews.com",
-          "summary": "RFK Jr. downplays measles threat, FDA approves pancreatic drug, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
         }
       ]
     },
@@ -102,51 +69,51 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Keto diet cut liver fat by 67% in a clinical trial",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
+          "publishedDate": "Sat, 29 Aug 2026 09:32:50 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A ketogenic diet outperformed Mediterranean and low-fat diets in several measures of metabolic health during a clinical trial involving people with obesity, prediabetes, and fatty liver disease. All three groups lost about 10% of their…",
+          "authors": ""
+        },
+        {
+          "title": "Dogs may hold surprising clues to human longevity",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
+          "publishedDate": "Sat, 29 Aug 2026 08:47:55 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Dogs and humans may have more in common when it comes to aging than scientists realized. Researchers with the Dog Aging Project found that patterns of small molecules in dogs’ blood were linked to longer or shorter lifespans in remarkably…",
+          "authors": ""
+        },
+        {
+          "title": "Long-term melatonin use linked to 90% higher heart failure risk",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
+          "publishedDate": "Sat, 29 Aug 2026 06:52:20 EDT",
+          "source": "sciencedaily.com",
+          "summary": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but…",
+          "authors": ""
+        },
+        {
+          "title": "Your sleep may be hiding an early clue to Alzheimer’s",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828005218.htm",
+          "publishedDate": "Fri, 28 Aug 2026 23:45:37 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Frequent micro-awakenings during sleep were linked to higher genetic risk for Alzheimer’s in healthy middle-aged adults who had no symptoms. The discovery raises the possibility that subtle changes during sleep could offer an early warning…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover why damaged nerves struggle to heal",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm",
+          "publishedDate": "Fri, 28 Aug 2026 22:59:06 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have identified a protein that acts like a brake on the nervous system’s ability to repair damaged connections. Blocking AHR helped injured nerve fibers regrow and improved movement and sensation in mice with nerve or spinal…",
+          "authors": ""
+        },
+        {
           "title": "Experimental eye drops help blind mice see again",
           "url": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm",
           "publishedDate": "Fri, 28 Aug 2026 10:21:46 EDT",
           "source": "sciencedaily.com",
           "summary": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the most promising…",
-          "authors": ""
-        },
-        {
-          "title": "A common vape flavoring may disrupt early embryo development",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260828005215.htm",
-          "publishedDate": "Fri, 28 Aug 2026 08:49:37 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A popular vanilla flavoring in e-cigarettes may interfere with some of the earliest steps of human development. In lab experiments, vanillin caused embryonic stem cells to lose their ability to develop normally and pushed them toward…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm",
-          "publishedDate": "Fri, 28 Aug 2026 05:01:51 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say the bigger question…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Hospitals plot their response to funding cuts",
-          "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-medicaid-cuts-rasonque-approved-dc-diagnosis/?utm_campaign=rss",
-          "publishedDate": "Thu, 27 Aug 2026 15:26:50 +0000",
-          "source": "statnews.com",
-          "summary": "Hospital prep a lobbying push, RFK Jr. faces more bad news on measles, and the cancer drug that helped Ben Sasse gets approved.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "STAT+: Cassidy criticizes FDA oversight of abortion pill manufacturers in new report",
-          "url": "https://www.statnews.com/2026/08/27/bill-cassidy-louisiana-senator-new-report-mifepristone-heidi-overton/?utm_campaign=rss",
-          "publishedDate": "Thu, 27 Aug 2026 13:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "The report raises a high-profile issue for Heidi Overton as she faces confirmation as FDA commissioner.",
-          "authors": "Margaret Manto"
-        },
-        {
-          "title": "Eating more ultra-processed foods may raise prostate cancer risk by 30%",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260826055457.htm",
-          "publishedDate": "Thu, 27 Aug 2026 07:52:35 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Ultra-processed foods make up a huge share of the American diet, and new research suggests they may carry another serious health risk for men. In a nationally representative study of more than 17,000 U.S. men, those who ate more…",
           "authors": ""
         }
       ]
@@ -154,70 +121,61 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Bug Localization from Bug Reports: A Multi-Objective Approach",
-          "url": "https://arxiv.org/abs/2608.27089",
-          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Bug localization is a labor-intensive task, particularly in large software systems. When abnormal behavior occurs, developers must perform repetitive and time-consuming steps to identify faulty files. Previous studies have mainly focused…",
-          "authors": "Waleed Ahmad, Mehtab Kiran Suddle, Maryam Bashir"
-        },
-        {
-          "title": "ANTShapes Benchmarking Datasets for Event-Based Neuromorphic Object Classification",
-          "url": "https://arxiv.org/abs/2608.27150",
-          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Object classification in event-based computer vision is a task that is attracting considerable research attention. Event-based object classification is a fundamental task in the fields of security and applied computer vision, which…",
-          "authors": "M. Middleton, H. Kayan, B. Sen Bhattacharya, T. Ali, E. Baikas, M. Vousden, C. Perera, O. Rhodes, E. Gheorghiu, M. A. Trefzer"
-        },
-        {
-          "title": "Beyond Edge Cuts: Activity-Weighted Multicast Hypergraph Mapping for Spiking Neural Networks on Mesh NoCs",
-          "url": "https://arxiv.org/abs/2608.26223",
-          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Mapping spiking neural networks (SNNs) onto neuromorphic many-core platforms is often formulated with graph partitioning and pairwise placement costs. That abstraction is convenient, but it does not match the physical communication event:…",
-          "authors": "Amirreza Khorasanian"
-        },
-        {
-          "title": "Asymmetric Coupling Anisotropy for Causal Information Filtering in Physical Reservoirs",
-          "url": "https://arxiv.org/abs/2608.26741",
-          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We demonstrate a physical mechanism for causal information filtering in a physical reservoir computing (PRC) by exploiting asymmetric coupling anisotropy. Using a network of coupled Duffing oscillators, we show that the directionality of…",
-          "authors": "Takashi Hikihara, Yuma Aoki"
-        },
-        {
-          "title": "Cell-type-specific synaptic motifs generate coupled mean-variability dynamics in recurrent neural networks",
-          "url": "https://arxiv.org/abs/2606.27946",
-          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Synaptic-resolution network connectomics has revealed that brain circuits feature fine-scale structural connectivity, such as pairs of correlated synaptic couplings known as second-order motifs. Large-scale recordings of neuronal activity…",
-          "authors": "Meiyi Zhang (Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China), Jinjian Yu (School of Physics, Peking University, China), Louis Tao (Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China, School of Life Sciences, Peking University, China), Yuxiu Shao (CNRS, LJAD, Universite Cote dAzur, France, Neuromod Institute, Universite Cote dAzur, France)"
-        },
-        {
-          "title": "Heaviside Continuity of Rolling Coefficients for Eliminating Epistemic Entropy in Large Language Models",
-          "url": "https://arxiv.org/abs/2607.04562",
-          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Large language models (LLMs) generate fluent outputs that can be wrong. Unlike humans, who often exhibit cues when providing false information, LLMs produce errors that are difficult to detect because autoregressive decoding provides no…",
-          "authors": "MY Pitsane, Hope Mogale"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 1,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Joint Communication and Control Beamforming: A Closed-Loop Control Perspective",
-          "url": "https://arxiv.org/abs/2608.26352",
-          "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "A joint communication and control (JCC) framework is proposed, where a base station (BS) simultaneously serves multiple communication users (CUs) and controls a physical plant in a closed loop. In the downlink, BS-generated control inputs…",
-          "authors": "Hao Jiang, Chongjun Ouyang, Yuanwei Liu, Arumugam Nallanathan, Robert Schober"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
+        },
+        {
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }

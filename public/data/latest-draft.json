@@ -1,28 +1,23 @@
 {
-  "generatedAt": "2026-08-29T03:50:37.903Z",
-  "date": "2026-08-29",
-  "topic": "リカレントニューラルネットワーク(RNN)と視覚野",
-  "templateName": "data-driven",
+  "generatedAt": "2026-08-30T00:39:22.460Z",
+  "date": "2026-08-30",
+  "topic": "深層学習と学習",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Cell-type-specific synaptic motifs generate coupled mean-variability dynamics in recurrent neural networks",
-  "paperLink": "https://arxiv.org/abs/2606.27946",
-  "figureUrl": "https://arxiv.org/html/2606.27946/2606.27946v2/Figures/fig1_schematic.png",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、リカレントニューラルネットワーク(RNN)と視覚野の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 リカレントニューラルネットワーク(RNN) × 視覚野 × コネクトミクス\n\n> Synaptic-resolution network connectomics has revealed that brain circuits feature fine-scale structural connectivity, such as pairs of correlated synaptic couplings known as second-order motifs. Large-scale recordings of neuronal activity in networks containing nonlinear neurons...\n\nなぜこの数字が重要か。\n\nコネクトミクス・回路解析において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Cell-type-specific synaptic motifs generate coupled mean-variability dynamics in recurrent neural networks\n🔗 https://arxiv.org/abs/2606.27946\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #認知科学",
-  "summaryJP": "リカレントニューラルネットワーク(RNN)と視覚野 — 数値で示された新事実（コネクトミクス・回路解析）",
-  "paperAuthors": "Meiyi Zhang (Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China), Jinjian Yu (School of Physics, Peking University, China), Louis Tao (Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China, School of Life Sciences, Peking University, China), Yuxiu Shao (CNRS, LJAD, Universite Cote dAzur, France, Neuromod Institute, Universite Cote dAzur, France)",
-  "publishedDate": "Fri, 28 Aug 2026 00:00:00 -0400",
-  "paperId": "2606.27946",
-  "paperSource": "arxiv",
-  "themeArea": "コネクトミクス・回路解析",
+  "paperTitle": "Explainable Deep Learning of Transcriptomes Prioritizes Candidate Biomarkers With Preferential Performance in Gastric Cardia Cancer Cohorts.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42667125/",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n深層学習と学習の最新成果を整理しました。\n\n🔬 深層学習 × 学習 × 注意機構\n\n📊 注目すべきデータ：\n→ The Asian Cancer Research Group SuperSeries GSE66229 (300 tumors and 100 patient-matched non-tumor tissues) underwent robust multi-array average preprocessing and quality control.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Explainable Deep Learning of Transcriptomes Prioritizes Candidate Biomarkers With Preferential Performance in Gastric Cardia Cancer Cohorts.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42667125/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #ニューロテック",
+  "summaryJP": "深層学習と学習 — 注目すべき3つの示唆（ニューロAI・計算論）",
+  "paperAuthors": "Jinling Xu, Chunfeng Li",
+  "publishedDate": "2026-08-29",
+  "paperId": "42667125",
+  "paperSource": "pubmed",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "リカレントニューラルネットワーク(RNN)",
-    "視覚野",
-    "コネクトミクス"
+    "深層学習",
+    "学習",
+    "注意機構"
   ],
-  "abstractExcerpt": "Synaptic-resolution network connectomics has revealed that brain circuits feature fine-scale structural connectivity, such as pairs of correlated synaptic couplings known as second-order motifs. Large-scale recordings of neuronal activity…",
-  "figureUrls": [
-    "https://arxiv.org/html/2606.27946/2606.27946v2/Figures/fig1_schematic.png",
-    "https://arxiv.org/html/2606.27946/2606.27946v2/Figures/fig2_homo.png",
-    "https://arxiv.org/html/2606.27946/2606.27946v2/Figures/fig3_hetero_end.png"
-  ]
+  "abstractExcerpt": "Gastric cardia adenocarcinoma is biologically distinct from distal disease, but deployable molecular markers remain scarce. We investigated whether explainable deep learning applied to public transcriptomes could nominate diagnostic and…",
+  "figureUrls": []
 }
