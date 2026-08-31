@@ -1,5 +1,30 @@
 [
   {
+    "generatedAt": "2026-08-31T00:48:24.473Z",
+    "date": "2026-08-31",
+    "topic": "神経デコーディングと記憶",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Integrating neural decoding, memristive materials, and adaptive control frameworks for next-generation hippocampal memory prosthetics.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42668603/",
+    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n神経デコーディングと記憶の最新研究です。\n\n🔬 神経デコーディング × 記憶 × ブレイン・コンピュータ・インターフェース(BCI) × ニューロモーフィック\n\n> Memory prosthetics, closed-loop brain-computer interfaces that decode hippocampal activity and deliver adaptive stimulation, are transitioning from animal proof-of-concept to first-in-human trials. Realizing chronically implantable systems requires co-design of three...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Integrating neural decoding, memristive materials, and adaptive control frameworks for next-generation hippocampal memory prosthetics.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42668603/\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #認知科学",
+    "summaryJP": "神経デコーディングと記憶 — 次世代へ続く布石（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Fan Mo, Xiaoyu Zhao, Yuanhong Xu, Chengxuan Tang, Dalin Zhang, Sai Li",
+    "publishedDate": "2026-08-30",
+    "paperId": "42668603",
+    "paperSource": "pubmed",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "神経デコーディング",
+      "記憶",
+      "ブレイン・コンピュータ・インターフェース(BCI)",
+      "ニューロモーフィック",
+      "クローズドループ制御"
+    ],
+    "abstractExcerpt": "Memory prosthetics, closed-loop brain-computer interfaces that decode hippocampal activity and deliver adaptive stimulation, are transitioning from animal proof-of-concept to first-in-human trials. Realizing chronically implantable systems…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-08-30T00:39:22.460Z",
     "date": "2026-08-30",
     "topic": "深層学習と学習",
@@ -1252,29 +1277,6 @@
       "学習"
     ],
     "abstractExcerpt": "Monte Carlo (MC) simulations provide gold standard dose calculations in radiation therapy but generate large phase space (PHSP) files that limit clinical implementation. We developed NeRP-MC, the first neural representation learning…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-07-11T23:34:11.481Z",
-    "date": "2026-07-11",
-    "topic": "深層学習と学習",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "Deep learning for cardiovascular disease: a comprehensive review of detection and risk forecasting.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42434360/",
-    "formatted": "深層学習と学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 深層学習 × 学習 × 注意機構\n\n📊 注目すべきデータ：\n→ Comparative studies showed dramatic improvements in predictive accuracy (often over 98%), strength to missing or noisy modalities, and access to real-time, individualized...\n→ The federated explainable FL-LSTM model achieved 99% AUC across three ECG databanks with complete privacy protection.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Deep learning for cardiovascular disease: a comprehensive review of detection and risk forecasting.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42434360/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #BrainComputerInterface",
-    "summaryJP": "深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
-    "paperAuthors": "N Ganeshan, G Magesh",
-    "publishedDate": "2026-07-11",
-    "paperId": "42434360",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "深層学習",
-      "学習",
-      "注意機構"
-    ],
-    "abstractExcerpt": "The biggest health threat to the global population is cardiovascular disease (CVD), which afflicts almost one-third of the global population and causes considerable monetary and social losses. Risk analysis should be performed in a timely…",
     "figureUrls": []
   }
 ]

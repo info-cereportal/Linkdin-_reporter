@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T00:39:23.324Z",
+  "generatedAt": "2026-08-31T00:48:25.810Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,6 +69,38 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Common supplements rival antibiotics for severe gum disease",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260829035216.htm",
+          "publishedDate": "Sun, 30 Aug 2026 10:35:22 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Omega-3 and low-dose aspirin matched the effectiveness of antibiotics in a year-long study of patients with severe gum disease, with both approaches helping about 58% reach the treatment goal. The unexpected result could point to a new way…",
+          "authors": ""
+        },
+        {
+          "title": "HEPA air purifiers may boost brain function after just one month",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
+          "publishedDate": "Sun, 30 Aug 2026 09:33:54 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help protect the brain from…",
+          "authors": ""
+        },
+        {
+          "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
+          "publishedDate": "Sun, 30 Aug 2026 01:17:05 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with conventional Spirulina,…",
+          "authors": ""
+        },
+        {
+          "title": "A cancer therapy put severe rheumatoid arthritis into remission",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828082330.htm",
+          "publishedDate": "Sat, 29 Aug 2026 21:28:13 EDT",
+          "source": "sciencedaily.com",
+          "summary": "CAR T-cell therapy dramatically reduced disease activity in six people with severe rheumatoid arthritis that had resisted other treatments, with three achieving medication-free remission. The treatment may work by clearing out harmful…",
+          "authors": ""
+        },
+        {
           "title": "Keto diet cut liver fat by 67% in a clinical trial",
           "url": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
           "publishedDate": "Sat, 29 Aug 2026 09:32:50 EDT",
@@ -82,38 +114,6 @@
           "publishedDate": "Sat, 29 Aug 2026 08:47:55 EDT",
           "source": "sciencedaily.com",
           "summary": "Dogs and humans may have more in common when it comes to aging than scientists realized. Researchers with the Dog Aging Project found that patterns of small molecules in dogs’ blood were linked to longer or shorter lifespans in remarkably…",
-          "authors": ""
-        },
-        {
-          "title": "Long-term melatonin use linked to 90% higher heart failure risk",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
-          "publishedDate": "Sat, 29 Aug 2026 06:52:20 EDT",
-          "source": "sciencedaily.com",
-          "summary": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but…",
-          "authors": ""
-        },
-        {
-          "title": "Your sleep may be hiding an early clue to Alzheimer’s",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260828005218.htm",
-          "publishedDate": "Fri, 28 Aug 2026 23:45:37 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Frequent micro-awakenings during sleep were linked to higher genetic risk for Alzheimer’s in healthy middle-aged adults who had no symptoms. The discovery raises the possibility that subtle changes during sleep could offer an early warning…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover why damaged nerves struggle to heal",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm",
-          "publishedDate": "Fri, 28 Aug 2026 22:59:06 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have identified a protein that acts like a brake on the nervous system’s ability to repair damaged connections. Blocking AHR helped injured nerve fibers regrow and improved movement and sensation in mice with nerve or spinal…",
-          "authors": ""
-        },
-        {
-          "title": "Experimental eye drops help blind mice see again",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm",
-          "publishedDate": "Fri, 28 Aug 2026 10:21:46 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the most promising…",
           "authors": ""
         }
       ]
