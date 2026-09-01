@@ -1,25 +1,27 @@
 {
-  "generatedAt": "2026-08-31T00:48:24.473Z",
-  "date": "2026-08-31",
-  "topic": "神経デコーディングと記憶",
-  "templateName": "future-vision",
+  "generatedAt": "2026-09-01T01:22:53.295Z",
+  "date": "2026-09-01",
+  "topic": "神経ダイナミクス",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Integrating neural decoding, memristive materials, and adaptive control frameworks for next-generation hippocampal memory prosthetics.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42668603/",
-  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n神経デコーディングと記憶の最新研究です。\n\n🔬 神経デコーディング × 記憶 × ブレイン・コンピュータ・インターフェース(BCI) × ニューロモーフィック\n\n> Memory prosthetics, closed-loop brain-computer interfaces that decode hippocampal activity and deliver adaptive stimulation, are transitioning from animal proof-of-concept to first-in-human trials. Realizing chronically implantable systems requires co-design of three...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Integrating neural decoding, memristive materials, and adaptive control frameworks for next-generation hippocampal memory prosthetics.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42668603/\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #認知科学",
-  "summaryJP": "神経デコーディングと記憶 — 次世代へ続く布石（BCI・ニューラルインターフェース）",
-  "paperAuthors": "Fan Mo, Xiaoyu Zhao, Yuanhong Xu, Chengxuan Tang, Dalin Zhang, Sai Li",
-  "publishedDate": "2026-08-30",
-  "paperId": "42668603",
-  "paperSource": "pubmed",
-  "themeArea": "BCI・ニューラルインターフェース",
+  "paperTitle": "Leveraging a Foundation Model for the EEG-Based Diagnosis of Alzheimer's Disease",
+  "paperLink": "https://arxiv.org/abs/2608.27719",
+  "figureUrl": "https://arxiv.org/html/2608.27719/2608.27719v1/pipeline.png",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n脳科学とAI——その境界線が消えつつある。\n\n神経ダイナミクスに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG × 神経ダイナミクス\n\n📊 注目すべきデータ：\n→ By integrating these high-dimensional latent embeddings with a non-linear Random Forest classifier, our approach effectively isolates robust disease markers.\n→ Under a rigorous subject-independent 5-fold cross-validation protocol, the method achieves an ROC-AUC of 89.36% +/- 3.49%, PR AUC of 81.45% +/- 4.43%, and Balanced Accuracy of...\n→ Notably, this performance uses only 8-second EEG segments, surpassing traditional spectral baselines, including band-power and parameterized oscillatory features (FOOOF).\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Leveraging a Foundation Model for the EEG-Based Diagnosis of Alzheimer's Disease\n🔗 https://arxiv.org/abs/2608.27719\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #NeuroAI",
+  "summaryJP": "神経ダイナミクス — 脳科学とAIをつなぐ研究（神経デコーディング）",
+  "paperAuthors": "Maggie Lin, Chung-Lin Hou, Tzyy-Ping Jung",
+  "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
+  "paperId": "2608.27719",
+  "paperSource": "arxiv",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "神経デコーディング",
-    "記憶",
-    "ブレイン・コンピュータ・インターフェース(BCI)",
-    "ニューロモーフィック",
-    "クローズドループ制御"
+    "EEG",
+    "神経ダイナミクス"
   ],
-  "abstractExcerpt": "Memory prosthetics, closed-loop brain-computer interfaces that decode hippocampal activity and deliver adaptive stimulation, are transitioning from animal proof-of-concept to first-in-human trials. Realizing chronically implantable systems…",
-  "figureUrls": []
+  "abstractExcerpt": "Biological heterogeneity in Alzheimer's Disease (AD) poses a critical diagnostic challenge, particularly for traditional linear methods that fail to capture non-linear neural dynamics. To address this, we propose a diagnostic framework…",
+  "figureUrls": [
+    "https://arxiv.org/html/2608.27719/2608.27719v1/pipeline.png",
+    "https://arxiv.org/html/2608.27719/2608.27719v1/PSD.png",
+    "https://arxiv.org/html/2608.27719/2608.27719v1/new_confusion_matrix.png"
+  ]
 }

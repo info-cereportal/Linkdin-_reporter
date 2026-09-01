@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-09-01T01:22:53.295Z",
+    "date": "2026-09-01",
+    "topic": "神経ダイナミクス",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Leveraging a Foundation Model for the EEG-Based Diagnosis of Alzheimer's Disease",
+    "paperLink": "https://arxiv.org/abs/2608.27719",
+    "figureUrl": "https://arxiv.org/html/2608.27719/2608.27719v1/pipeline.png",
+    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n脳科学とAI——その境界線が消えつつある。\n\n神経ダイナミクスに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG × 神経ダイナミクス\n\n📊 注目すべきデータ：\n→ By integrating these high-dimensional latent embeddings with a non-linear Random Forest classifier, our approach effectively isolates robust disease markers.\n→ Under a rigorous subject-independent 5-fold cross-validation protocol, the method achieves an ROC-AUC of 89.36% +/- 3.49%, PR AUC of 81.45% +/- 4.43%, and Balanced Accuracy of...\n→ Notably, this performance uses only 8-second EEG segments, surpassing traditional spectral baselines, including band-power and parameterized oscillatory features (FOOOF).\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Leveraging a Foundation Model for the EEG-Based Diagnosis of Alzheimer's Disease\n🔗 https://arxiv.org/abs/2608.27719\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #NeuroAI",
+    "summaryJP": "神経ダイナミクス — 脳科学とAIをつなぐ研究（神経デコーディング）",
+    "paperAuthors": "Maggie Lin, Chung-Lin Hou, Tzyy-Ping Jung",
+    "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "paperId": "2608.27719",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "EEG",
+      "神経ダイナミクス"
+    ],
+    "abstractExcerpt": "Biological heterogeneity in Alzheimer's Disease (AD) poses a critical diagnostic challenge, particularly for traditional linear methods that fail to capture non-linear neural dynamics. To address this, we propose a diagnostic framework…",
+    "figureUrls": [
+      "https://arxiv.org/html/2608.27719/2608.27719v1/pipeline.png",
+      "https://arxiv.org/html/2608.27719/2608.27719v1/PSD.png",
+      "https://arxiv.org/html/2608.27719/2608.27719v1/new_confusion_matrix.png"
+    ]
+  },
+  {
     "generatedAt": "2026-08-31T00:48:24.473Z",
     "date": "2026-08-31",
     "topic": "神経デコーディングと記憶",
@@ -1256,27 +1283,5 @@
     "figureUrls": [
       "https://arxiv.org/html/2601.10034/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
     ]
-  },
-  {
-    "generatedAt": "2026-07-12T23:33:13.204Z",
-    "date": "2026-07-12",
-    "topic": "表現学習と学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Neural Representation Learning for Compact and Efficient Modeling of Monte Carlo Phase Space Data.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42436738/",
-    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n数字が語る、表現学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 表現学習 × 学習\n\n> Monte Carlo (MC) simulations provide gold standard dose calculations in radiation therapy but generate large phase space (PHSP) files that limit clinical implementation. We developed NeRP-MC, the first neural representation learning approach for PHSP data modeling, and evaluated...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Neural Representation Learning for Compact and Efficient Modeling of Monte Carlo Phase Space Data.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42436738/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #DeepLearning",
-    "summaryJP": "表現学習と学習 — 数値で示された新事実（神経デコーディング）",
-    "paperAuthors": "Serdar Charyyev, Cynthia Chuang, Yong Yang, Lei Xing, Lianli Liu",
-    "publishedDate": "2026-07-12",
-    "paperId": "42436738",
-    "paperSource": "pubmed",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "表現学習",
-      "学習"
-    ],
-    "abstractExcerpt": "Monte Carlo (MC) simulations provide gold standard dose calculations in radiation therapy but generate large phase space (PHSP) files that limit clinical implementation. We developed NeRP-MC, the first neural representation learning…",
-    "figureUrls": []
   }
 ]
