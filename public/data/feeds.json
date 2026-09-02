@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T01:22:54.542Z",
+  "generatedAt": "2026-09-02T00:30:10.687Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Non-standard memory models with indexed retrieval",
-          "url": "https://arxiv.org/abs/2608.27479",
-          "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
+          "title": "A large dataset of human EEG responses to short naturalistic videos for studying dynamic visual event processing",
+          "url": "https://arxiv.org/abs/2608.28768",
+          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The standard memory models for neural networks are variants of the Hopfield network, where feature representations are stored as vectors in a matrix. Retrieval happens based on similarity between an input vector and the set of stored…",
-          "authors": "Gabriele Scheler, Martin L. Schumann, Johann Schumann"
+          "summary": "Vision neuroscience has experienced a surge in the collection and use of large-scale datasets of brain responses to naturalistic images. However, static images lack the temporal dimension essential for understanding how vision is solved in…",
+          "authors": "Alessandro T. Gifford, Pablo Oyarzo, Anne W. Zonneveld, Christina Sartzetaki, Iris I. A. Groen, Radoslaw M. Cichy"
         },
         {
-          "title": "Multiscale Community-Based Fingerprinting of Signed Functional Networks",
-          "url": "https://arxiv.org/abs/2608.27483",
-          "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
+          "title": "Structurally Informed Connectivity Disruptions in Cocaine Use Disorder",
+          "url": "https://arxiv.org/abs/2608.28892",
+          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Objective: Recent studies demonstrate that functional connectomes contain subject-specific signatures, or \\textitfingerprints, that can identify individuals across repeated sessions and tasks. Existing methods mostly rely on edge-level…",
-          "authors": "Sema Athamnah, Selin Aviyente"
+          "summary": "Cocaine Use Disorder (CUD) is associated with widespread alterations in large-scale functional brain networks, yet the mechanisms contributing to these changes and their relationship to clinical and cognitive outcomes remain poorly…",
+          "authors": "Seyed Majid Razavi, Saeed Tajik Hesarkuchak, Triet M. Tran, Mehdi Zaeifi, Amirhossein Arezoumand, Farnaz Zamani Esfahlani, Jason A. Oliver, Sina Khanmohammadi"
         },
         {
-          "title": "A weighted model of perception and decision-making between targets of finite size",
-          "url": "https://arxiv.org/abs/2608.27670",
-          "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
+          "title": "Front-end and Back-end Computational Modeling of 40-Hz Auditory Steady-State Response Abnormalities in Schizophrenia",
+          "url": "https://arxiv.org/abs/2608.29104",
+          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent research grounded in experiments has connected neural ring models of vision to how animals navigate a complex landscape of attractive targets. In this paper we investigate the mathematical and biological implications of a…",
-          "authors": "W. Christopher Strickland, Andrew J. Bernoff"
+          "summary": "40-Hz ASSR is reduced in schizophrenia, but it is unclear if this reflects altered auditory input or cortical E/I dynamics. We hypothesized that similar group differences could arise via distinct model mechanisms. EEG gamma% and ITPC from…",
+          "authors": "Wenjun Xia, Yan Xu, Zhengdi Zhang"
         },
         {
-          "title": "Adaptive self-organized criticality in deep neural networks",
-          "url": "https://arxiv.org/abs/2608.28431",
-          "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
+          "title": "Rate-Coding Bundle Memory: A Unified Model of Memory and Control for Symbolic Computation in the Brain",
+          "url": "https://arxiv.org/abs/2608.29189",
+          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Deep neural networks are high-dimensional dynamical systems whose function depends on the stable propagation of activity and perturbations across many layers. Maintaining suitable dynamical regimes may therefore be essential for robust…",
-          "authors": "Simon Vock, Christian Meisel"
+          "summary": "We propose a neurobiologically plausible model of cognition that combines the advantages of connectionist and symbolic systems, and that can explain a wide range of cognitive phenomena. This model, called Rate-Coding Bundle Memory (RCBM),…",
+          "authors": "Teun van Gils, Rowan P. Sommers, Markus Ostarek, Peter Hagoort"
         },
         {
-          "title": "Leveraging a Foundation Model for the EEG-Based Diagnosis of Alzheimer's Disease",
-          "url": "https://arxiv.org/abs/2608.27719",
-          "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
+          "title": "Local connectivity balance shapes population dynamics in random recurrent networks",
+          "url": "https://arxiv.org/abs/2608.30008",
+          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Biological heterogeneity in Alzheimer's Disease (AD) poses a critical diagnostic challenge, particularly for traditional linear methods that fail to capture non-linear neural dynamics. To address this, we propose a diagnostic framework…",
-          "authors": "Maggie Lin, Chung-Lin Hou, Tzyy-Ping Jung"
+          "summary": "Disordered dynamical systems comprising many interacting units, from ecological communities to neural circuits, are ubiquitous, and understanding how connectivity shapes their collective behavior is a central theoretical challenge. One…",
+          "authors": "Shotaro Takasu, Richard Gast, Ann Kennedy"
         },
         {
-          "title": "Relational Knowledge Distillation Brings DNN Representations Close Enough to Humans to Be Aligned Without Supervision",
-          "url": "https://arxiv.org/abs/2608.27877",
-          "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
+          "title": "\"More Is Different'' in Neural Circuits: Algebraic Emergence of Effective Theories in Canonical Recurrent Motifs of Biological Neuronal Networks",
+          "url": "https://arxiv.org/abs/2608.30231",
+          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Linking the internal representations of deep neural networks (DNNs) to human mental representations is important for using DNNs as computational models of human vision. Existing DNN representations remain insufficiently similar to human…",
-          "authors": "Yuria Shimizu, Soh Takahashi, Takato Horii, Masafumi Oizumi"
+          "summary": "Canonical neural circuit motifs are usually described functionally: divisive normalization rescales population activity by a pooled signal, and winner-take-all competition selects one pattern through recurrent excitation and shared…",
+          "authors": "Nima Dehghani"
         }
       ]
     },
@@ -62,6 +62,30 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: ADA review of members’ expulsion denies group censored opinions, called in police",
+          "url": "https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/?utm_campaign=rss",
+          "publishedDate": "Tue, 01 Sep 2026 23:06:00 +0000",
+          "source": "statnews.com",
+          "summary": "A review of findings from a five-person committee is being sent to the ADA board for action, STAT has learned, but it appears unlikely to quiet the controversy.",
+          "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "Paxlovid did not help long Covid, study finds",
+          "url": "https://www.statnews.com/2026/09/01/health-news-paxlovid-did-not-help-long-covid-study-finds/?utm_campaign=rss",
+          "publishedDate": "Tue, 01 Sep 2026 13:08:31 +0000",
+          "source": "statnews.com",
+          "summary": "New Trump drug pricing deals, weed edibles and driving research, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "As MAHA champions nutrition, it’s ignoring the experts, dietitians say",
+          "url": "https://www.statnews.com/2026/09/01/maha-nutrition-makeover-hampered-dietitian-workforce-crisis/?utm_campaign=rss",
+          "publishedDate": "Tue, 01 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A key aspect of the Make America Healthy Again agenda could be hampered by a shrinking and underpaid workforce of registered dietitians.",
+          "authors": "Lauren Chan and Isabella Cueto"
+        },
         {
           "title": "New guidelines on migraine prevention reflect increasing options for patients",
           "url": "https://www.statnews.com/2026/08/31/migraine-prevention-medication-guidelines/?utm_campaign=rss",
@@ -85,30 +109,6 @@
           "source": "statnews.com",
           "summary": "A newly acquired Novartis drug cut signs of inflammation. The test will be whether that can improve people's heart health.",
           "authors": "Andrew Joseph"
-        },
-        {
-          "title": "Juul gets OK to sell updated vaping device with age-gating technology",
-          "url": "https://www.statnews.com/2026/08/28/juul-fda-clearance-updated-ecigarette-age-gating-technology/?utm_campaign=rss",
-          "publishedDate": "Fri, 28 Aug 2026 19:51:56 +0000",
-          "source": "statnews.com",
-          "summary": "Juul has received FDA clearance to sell an updated version of its e-cigarette, which includes an optional age-verification system designed to prevent underage use.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "At a federal autism advisory committee meeting, members double down on long-debunked theories",
-          "url": "https://www.statnews.com/2026/08/28/health-news-federal-autism-adcomm-doubles-down-on-debunked-theory/?utm_campaign=rss",
-          "publishedDate": "Fri, 28 Aug 2026 13:15:46 +0000",
-          "source": "statnews.com",
-          "summary": "RFK Jr.'s vaccine questions in Samoa, former Stanford president rebuts fraud allegations, and more health news from Morning Rounds",
-          "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "Vaccines take center stage at federal autism advisory committee",
-          "url": "https://www.statnews.com/2026/08/28/vaccines-autism-advisory-committee-strategic-plan-boost-research-funding/?utm_campaign=rss",
-          "publishedDate": "Fri, 28 Aug 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Comments about vaccines overshadowed an advisory committee meeting to discuss a plan for boosting federal funding for autism research.",
-          "authors": "O. Rose Broderick"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Trump strikes nine more deals with drugmakers to lower prices",
-          "url": "https://www.statnews.com/2026/08/31/trump-most-favored-nation-drug-pricing-new-round-price-cuts-announced/?utm_campaign=rss",
-          "publishedDate": "Mon, 31 Aug 2026 19:48:44 +0000",
+          "title": "STAT+: House votes to temporarily block Trump plan to politicize federal grants",
+          "url": "https://www.statnews.com/2026/09/01/stopgap-spending-bill-contains-reprieve-nih-research-grant-control/?utm_campaign=rss",
+          "publishedDate": "Tue, 01 Sep 2026 18:09:57 +0000",
           "source": "statnews.com",
-          "summary": "President Trump on Monday announced the next round of pricing deals with drugmakers, with nine new companies making such agreements.",
-          "authors": "Daniel Payne and Elaine Chen"
+          "summary": "The House voted to pass a stopgap funding bill that, for now, blocks a White House proposal to give political appointees more control over research grants.",
+          "authors": "John Wilkerson and Anil Oza"
         },
         {
-          "title": "Popular sweeteners may leave effects that last for generations",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
-          "publishedDate": "Mon, 31 Aug 2026 10:04:01 EDT",
+          "title": "STAT+: 5 burning questions on Trump’s latest deals with drugmakers",
+          "url": "https://www.statnews.com/2026/09/01/trump-pharma-deals-analysis-latest-round-most-favored-nation-drug-pricing/?utm_campaign=rss",
+          "publishedDate": "Tue, 01 Sep 2026 14:51:22 +0000",
+          "source": "statnews.com",
+          "summary": "Here are some of the key questions about the agreements the Trump administration has reached with drugmakers on pricing.",
+          "authors": "Daniel Payne, Elaine Chen,and John Wilkerson"
+        },
+        {
+          "title": "Mindfulness may lower blood pressure in just 8 weeks",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm",
+          "publishedDate": "Tue, 01 Sep 2026 08:58:41 EDT",
           "source": "sciencedaily.com",
-          "summary": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced beneficial compounds…",
+          "summary": "Mindfulness, gratitude, and optimism training may improve blood pressure, inflammation, and other heart-health measures within just eight to 12 weeks. The strongest programs paired daily practice with regular reinforcement, suggesting that…",
           "authors": ""
         },
         {
-          "title": "One injection could keep osteoarthritis drugs working for weeks",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
-          "publishedDate": "Mon, 31 Aug 2026 09:52:45 EDT",
+          "title": "Reaching 90 without dementia doesn’t mean you’re in the clear",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260829235953.htm",
+          "publishedDate": "Tue, 01 Sep 2026 08:09:42 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have created an injectable gel that can remain inside arthritic joints for weeks, slowly releasing medication while also improving lubrication. The approach could make it easier to deliver disease-modifying drugs directly where…",
+          "summary": "A study of people over 90 found that dementia risk remains strongly shaped by sex, race and genetics, with women and black participants facing notably higher risks. Intriguingly, some people stayed cognitively healthy despite carrying…",
           "authors": ""
         },
         {
-          "title": "Your waist size may reveal health risks BMI misses",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260829035208.htm",
-          "publishedDate": "Mon, 31 Aug 2026 09:43:59 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A simple waist measurement may be nearly as effective as more complicated methods for detecting unhealthy levels of body fat. Researchers also found that BMI alone missed many people with obesity, suggesting waist size could provide an…",
-          "authors": ""
+          "title": "STAT+: Will House delay Trump plan to politicize NIH grants?",
+          "url": "https://www.statnews.com/2026/09/01/house-spending-bill-vote-grant-rule-trump-mfn-deals-dc-diagnois/?utm_campaign=rss",
+          "publishedDate": "Tue, 01 Sep 2026 12:03:04 +0000",
+          "source": "statnews.com",
+          "summary": "The federal spending bill has an important provision for researchers, and Trump announced more MFN deals with pharma firms.",
+          "authors": "John Wilkerson"
         },
         {
-          "title": "Scientists find why the liver may not heal even after you stop drinking",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260831015205.htm",
-          "publishedDate": "Mon, 31 Aug 2026 06:43:38 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Alcohol-related liver disease may trap damaged liver cells in a regenerative limbo, preventing the organ from rebuilding itself even after drinking stops. Researchers linked the problem to inflammation-driven RNA errors and identified a…",
-          "authors": ""
-        },
-        {
-          "title": "Common supplements rival antibiotics for severe gum disease",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260829035216.htm",
-          "publishedDate": "Sun, 30 Aug 2026 10:35:22 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Omega-3 and low-dose aspirin matched the effectiveness of antibiotics in a year-long study of patients with severe gum disease, with both approaches helping about 58% reach the treatment goal. The unexpected result could point to a new way…",
-          "authors": ""
+          "title": "As MAHA champions nutrition, it’s ignoring the experts, dietitians say",
+          "url": "https://www.statnews.com/2026/09/01/maha-nutrition-makeover-hampered-dietitian-workforce-crisis/?utm_campaign=rss",
+          "publishedDate": "Tue, 01 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A key aspect of the Make America Healthy Again agenda could be hampered by a shrinking and underpaid workforce of registered dietitians.",
+          "authors": "Lauren Chan and Isabella Cueto"
         }
       ]
     },
@@ -173,77 +173,61 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Tensor-Accelerated Eager Multi-Resolution Grids for Evolving Large-Scale Substrates",
-          "url": "https://arxiv.org/abs/2608.27612",
-          "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
+          "title": "Event-Driven Language Models with Sparse Neural Activity for Neuromorphic Hardware",
+          "url": "https://arxiv.org/abs/2608.30439",
+          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In neuroevolution, indirect encoding generates neural network connectivity from a compact genome rather than specifying each connection. ES-HyperNEAT automatically discovers where to place hidden nodes by examining CPPN output patterns: it…",
-          "authors": "Romain Claret, Michael O'Neill, Paul Cotofrei, Kilian Stoffel"
+          "summary": "Inference with transformer-based large language models (LLMs) is often limited by the memory-bound KV cache and quadratic attention cost. State-space models (SSMs) mitigate this through linear attention and fixed-size recurrent states, but…",
+          "authors": "Simon Richter, Ruhai Lin, Jason Yik, Taylor Kergan, Rui-Jie Zhu, Farshad Moradi, Jason Eshraghian"
         },
         {
-          "title": "The thermodynamic freedom of a thermodynamic computer",
-          "url": "https://arxiv.org/abs/2608.27938",
-          "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
+          "title": "Conjoint Audio-to-Spikes Encoding and Processing for Efficient Neuromorphic Speech Recognition",
+          "url": "https://arxiv.org/abs/2608.30792",
+          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Thermodynamic computers are stochastic physical devices designed to perform calculations at the thermal energy scale. Their operation is constrained by the equations of stochastic thermodynamics, among which are a set of bounds, known as…",
-          "authors": "Stephen Whitelam"
+          "summary": "Obtaining data from neuromorphic sensors and processing it with Spiking Neural Networks is a promising solution to lower the energy cost of artificial intelligence. The current rarity of natively neuromorphic datasets promotes the…",
+          "authors": "Valentin M. Meunier, Amélie Gruel, Pierre Lewden, Adrien F. Vincent, Sylvain Saïghi"
         },
         {
-          "title": "Low-Power End-to-End Cochlear Implant Speech Denoising with Spiking Neural Networks",
-          "url": "https://arxiv.org/abs/2608.28493",
-          "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
+          "title": "PruneShift: A Framework for Evaluating Decision Reliability in Structured Pruning",
+          "url": "https://arxiv.org/abs/2608.29765",
+          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Cochlear implants (CI) restore hearing for individuals with severe to profound hearing loss. However, CI users often struggle to understand speech in noisy environments. Deep neural networks (DNN) have shown promise in enhancing speech for…",
-          "authors": "Ludovic Boulanger, Sean U. N. Wood"
+          "summary": "Structured pruning uses surrogate objectives because direct task evaluation over every feasible mask is too expensive. Most evaluations report average surrogate error or rank correlation on broadly sampled masks. These summaries do not…",
+          "authors": "Hao Ye, Gaopeng Zhang"
         },
         {
-          "title": "Non-standard memory models with indexed retrieval",
-          "url": "https://arxiv.org/abs/2608.27479",
-          "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
+          "title": "Evolutionary Soups: Evolving Mixture-of-Experts for Multi-Objective LLM Alignment",
+          "url": "https://arxiv.org/abs/2608.29978",
+          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The standard memory models for neural networks are variants of the Hopfield network, where feature representations are stored as vectors in a matrix. Retrieval happens based on similarity between an input vector and the set of stored…",
-          "authors": "Gabriele Scheler, Martin L. Schumann, Johann Schumann"
+          "summary": "Large language models are increasingly required to generate responses that satisfy multiple competing objectives. Since optimal trade-offs depend on both user preferences and input prompts, controllable multi-objective generation must…",
+          "authors": "Lingxiao Kong, Steffen Staab, Cong Yang, Oya Beyan, Zeyd Boukhers"
         },
         {
-          "title": "Multiscale Community-Based Fingerprinting of Signed Functional Networks",
-          "url": "https://arxiv.org/abs/2608.27483",
-          "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
+          "title": "Multiclass Linear Perceptrons with Multiplicative Margins",
+          "url": "https://arxiv.org/abs/2608.30028",
+          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Objective: Recent studies demonstrate that functional connectomes contain subject-specific signatures, or \\textitfingerprints, that can identify individuals across repeated sessions and tasks. Existing methods mostly rely on edge-level…",
-          "authors": "Sema Athamnah, Selin Aviyente"
+          "summary": "This paper introduces a family of multiclass linear Perceptron classifiers with a multiplicative margin mechanism (MMPerc), as an alternative to standard margin-free and additive margin Perceptrons. The multiplicative formulation enforces…",
+          "authors": "Dmitri Rachkovskij, Evgeny Osipov, Olexander Volkov, Daswin De Silva, Denis Kleyko"
         },
         {
-          "title": "A weighted model of perception and decision-making between targets of finite size",
-          "url": "https://arxiv.org/abs/2608.27670",
-          "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
+          "title": "\"More Is Different'' in Neural Circuits: Algebraic Emergence of Effective Theories in Canonical Recurrent Motifs of Biological Neuronal Networks",
+          "url": "https://arxiv.org/abs/2608.30231",
+          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent research grounded in experiments has connected neural ring models of vision to how animals navigate a complex landscape of attractive targets. In this paper we investigate the mathematical and biological implications of a…",
-          "authors": "W. Christopher Strickland, Andrew J. Bernoff"
+          "summary": "Canonical neural circuit motifs are usually described functionally: divisive normalization rescales population activity by a pooled signal, and winner-take-all competition selects one pattern through recurrent excitation and shared…",
+          "authors": "Nima Dehghani"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
-      "items": [
-        {
-          "title": "Data-Aided Asynchronous OFDM Integrated Sensing and Communications: A Mean-Field Variational Bayes Approach",
-          "url": "https://arxiv.org/abs/2608.27739",
-          "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Integrated sensing and communication (ISAC) is regarded as a key technology for sixth-generation wireless networks, allowing sensing and communication operations to jointly utilize the same spectrum and hardware infrastructure. However, in…",
-          "authors": "Van-Chung Luu, Nuria González Prelcic, Duy H. N, Nguyen"
-        },
-        {
-          "title": "Alias-Free Oscillator Synchronization via Additive Synthesis",
-          "url": "https://arxiv.org/abs/2608.27648",
-          "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Oscillator synchronization is a widely used sound-synthesis technique, but straightforward digital implementations suffer from aliasing artifacts. This paper presents an alias-free method for digital emulation of oscillator synchronization…",
-          "authors": "Jonas Roth, Domenic Keller, Oscar Castañeda, Christoph Studer"
-        }
-      ]
+      "itemCount": 0,
+      "error": "no BCI-keyword match in fetched feed",
+      "items": []
     }
   }
 }
