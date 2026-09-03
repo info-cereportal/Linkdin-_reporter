@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T00:30:10.687Z",
+  "generatedAt": "2026-09-03T00:37:21.981Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "A large dataset of human EEG responses to short naturalistic videos for studying dynamic visual event processing",
-          "url": "https://arxiv.org/abs/2608.28768",
-          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
+          "title": "One Faithful Pass Over the Cuckoo's Nest",
+          "url": "https://arxiv.org/abs/2609.00383",
+          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Vision neuroscience has experienced a surge in the collection and use of large-scale datasets of brain responses to naturalistic images. However, static images lack the temporal dimension essential for understanding how vision is solved in…",
-          "authors": "Alessandro T. Gifford, Pablo Oyarzo, Anne W. Zonneveld, Christina Sartzetaki, Iris I. A. Groen, Radoslaw M. Cichy"
+          "summary": "Narrative theories of consciousness hold that conscious experience is (at least partly) constituted by a partially opaque inner narrative that does not perfectly track the underlying computation it narrates. I argue that the safety goal of…",
+          "authors": "Kristina \\vSekrst"
         },
         {
-          "title": "Structurally Informed Connectivity Disruptions in Cocaine Use Disorder",
-          "url": "https://arxiv.org/abs/2608.28892",
-          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
+          "title": "A distributed-delay Wilson-Cowan model of sleep-related rhythms in the corticothalamic system",
+          "url": "https://arxiv.org/abs/2609.00520",
+          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Cocaine Use Disorder (CUD) is associated with widespread alterations in large-scale functional brain networks, yet the mechanisms contributing to these changes and their relationship to clinical and cognitive outcomes remain poorly…",
-          "authors": "Seyed Majid Razavi, Saeed Tajik Hesarkuchak, Triet M. Tran, Mehdi Zaeifi, Amirhossein Arezoumand, Farnaz Zamani Esfahlani, Jason A. Oliver, Sina Khanmohammadi"
+          "summary": "The corticothalamic circuit supports rhythms with timescales that differ by orders of magnitude: sleep spindles, the sigma-band events of non-rapid-eye-movement (NREM) sleep, and infra-slow fluctuations near 0.02Hz that organize when…",
+          "authors": "Eva Kaslik, Anca Radulescu, Anca Stanoev"
         },
         {
-          "title": "Front-end and Back-end Computational Modeling of 40-Hz Auditory Steady-State Response Abnormalities in Schizophrenia",
-          "url": "https://arxiv.org/abs/2608.29104",
-          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
+          "title": "Temporally constraining source imaging estimates in an underdetermined neural system with eigenmodes of cortical geometry",
+          "url": "https://arxiv.org/abs/2609.00809",
+          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "40-Hz ASSR is reduced in schizophrenia, but it is unclear if this reflects altered auditory input or cortical E/I dynamics. We hypothesized that similar group differences could arise via distinct model mechanisms. EEG gamma% and ITPC from…",
-          "authors": "Wenjun Xia, Yan Xu, Zhengdi Zhang"
+          "summary": "Geometric eigenmodes provide a compact and biologically grounded representation of large-scale neural activity. Previous work demonstrated that they can mitigate the underdetermined nature of electroencephalographic (EEG) and…",
+          "authors": "Pok Him Siu, Philippa J. Karoly, Artemio Soto-Breceda, Mark J. Cook, David B. Grayden"
         },
         {
-          "title": "Rate-Coding Bundle Memory: A Unified Model of Memory and Control for Symbolic Computation in the Brain",
-          "url": "https://arxiv.org/abs/2608.29189",
-          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
+          "title": "Active Visual Semantics: A large-scale MEG and eye-tracking dataset for understanding visual intelligence in action",
+          "url": "https://arxiv.org/abs/2609.01055",
+          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We propose a neurobiologically plausible model of cognition that combines the advantages of connectionist and symbolic systems, and that can explain a wide range of cognitive phenomena. This model, called Rate-Coding Bundle Memory (RCBM),…",
-          "authors": "Teun van Gils, Rowan P. Sommers, Markus Ostarek, Peter Hagoort"
+          "summary": "Here we present the Active Visual Semantics (AVS) dataset, a large-scale collection of magnetoencephalography (MEG) and eye-tracking data recorded while five participants freely explored 4,080 natural scenes over 10 sessions each, yielding…",
+          "authors": "Philip Sulewski (Institute of Cognitive Science, Osnabrück University, Osnabrück, Germany, Vision and Computational Cognition Group, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany, Max Planck School of Cognition, Leipzig, Germany), Carmen Amme (Institute of Cognitive Science, Osnabrück University, Osnabrück, Germany), Peter König (Institute of Cognitive Science, Osnabrück University, Osnabrück, Germany, Department of Neurophysiology and Pathophysiology, Center of Experimental Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany), Martin N. Hebart (Vision and Computational Cognition Group, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany, Department of Medicine, Justus Liebig University Giessen, Giessen, Germany, Center for Mind, Brain and Behavior, Universities of Marburg, Giessen, and Darmstadt, Marburg, Germany), Tim C. Kietzmann (Institute of Cognitive Science, Osnabrück University, Osnabrück, Germany)"
         },
         {
-          "title": "Local connectivity balance shapes population dynamics in random recurrent networks",
-          "url": "https://arxiv.org/abs/2608.30008",
-          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
+          "title": "Backspace as a Natural Experiment: An Accelerated Failure Time Model of Selective Post-Error Motor Impairment in Parkinsons Disease",
+          "url": "https://arxiv.org/abs/2607.24796",
+          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Disordered dynamical systems comprising many interacting units, from ecological communities to neural circuits, are ubiquitous, and understanding how connectivity shapes their collective behavior is a central theoretical challenge. One…",
-          "authors": "Shotaro Takasu, Richard Gast, Ann Kennedy"
+          "summary": "Parkinson's disease (PD) selectively impairs distinct stages of motor control. Using backspace events as natural error-correction episodes in the public neuroQWERTY MIT-CSXPD dataset (n=57 subjects, 27 PD with UPDRS-III scores), we test…",
+          "authors": "Navin Bondade"
         },
         {
-          "title": "\"More Is Different'' in Neural Circuits: Algebraic Emergence of Effective Theories in Canonical Recurrent Motifs of Biological Neuronal Networks",
-          "url": "https://arxiv.org/abs/2608.30231",
-          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
+          "title": "Continual-learning rules shape representational drift",
+          "url": "https://arxiv.org/abs/2608.16141",
+          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Canonical neural circuit motifs are usually described functionally: divisive normalization rescales population activity by a pooled signal, and winner-take-all competition selects one pattern through recurrent excitation and shared…",
-          "authors": "Nima Dehghani"
+          "summary": "Lifelong learning requires acquiring new knowledge without erasing the old. Yet neural population codes for familiar stimuli and behaviors change over days and weeks. This coexistence of stable memory and changing internal codes may depend…",
+          "authors": "Yikai Si, Shanshan Qin"
         }
       ]
     },
@@ -62,6 +62,22 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Doctors groups release vaccination guidelines ahead of respiratory illness season",
+          "url": "https://www.statnews.com/2026/09/02/vaccine-integrity-project-fall-winter-guidelines-rsv-covid-flu-shots/?utm_campaign=rss",
+          "publishedDate": "Wed, 02 Sep 2026 14:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "Ahead of respiratory illness season, professional organizations have issued guidance on flu, Covid, and RSV vaccines.",
+          "authors": "Helen Branswell"
+        },
+        {
+          "title": "HHS spins a tale of a would-be content creator child",
+          "url": "https://www.statnews.com/2026/09/02/health-news-hhs-spins-a-tale-of-a-would-be-content-creator/?utm_campaign=rss",
+          "publishedDate": "Wed, 02 Sep 2026 11:59:16 +0000",
+          "source": "statnews.com",
+          "summary": "The next DSM and the algorithm, an unexpected discovery on alpha-gal syndrome, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney"
+        },
         {
           "title": "STAT+: ADA review of members’ expulsion denies group censored opinions, called in police",
           "url": "https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/?utm_campaign=rss",
@@ -93,22 +109,6 @@
           "source": "statnews.com",
           "summary": "“There has been a wealth of new treatment available” for migraine prevention, said a co-author of new guidelines released Monday.",
           "authors": "Isabella Cueto"
-        },
-        {
-          "title": "A winner, a loser, and a mid-stage signal from a major cardiology research conference",
-          "url": "https://www.statnews.com/2026/08/31/health-news-mid-stage-results-from-esc-2026-cardiology/?utm_campaign=rss",
-          "publishedDate": "Mon, 31 Aug 2026 12:25:18 +0000",
-          "source": "statnews.com",
-          "summary": "The mental health system after Lindsay Clancy, pushing boundaries for new radiopharmaceuticals, and more health news from Morning Rounds",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "STAT+: A Novartis drug cut inflammation. Can it improve heart outcomes?",
-          "url": "https://www.statnews.com/2026/08/29/novartis-pacibekitug-inflammation-il6-tourmaline-heart-disease/?utm_campaign=rss",
-          "publishedDate": "Sat, 29 Aug 2026 07:32:11 +0000",
-          "source": "statnews.com",
-          "summary": "A newly acquired Novartis drug cut signs of inflammation. The test will be whether that can improve people's heart health.",
-          "authors": "Andrew Joseph"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: House votes to temporarily block Trump plan to politicize federal grants",
-          "url": "https://www.statnews.com/2026/09/01/stopgap-spending-bill-contains-reprieve-nih-research-grant-control/?utm_campaign=rss",
-          "publishedDate": "Tue, 01 Sep 2026 18:09:57 +0000",
-          "source": "statnews.com",
-          "summary": "The House voted to pass a stopgap funding bill that, for now, blocks a White House proposal to give political appointees more control over research grants.",
-          "authors": "John Wilkerson and Anil Oza"
-        },
-        {
-          "title": "STAT+: 5 burning questions on Trump’s latest deals with drugmakers",
-          "url": "https://www.statnews.com/2026/09/01/trump-pharma-deals-analysis-latest-round-most-favored-nation-drug-pricing/?utm_campaign=rss",
-          "publishedDate": "Tue, 01 Sep 2026 14:51:22 +0000",
-          "source": "statnews.com",
-          "summary": "Here are some of the key questions about the agreements the Trump administration has reached with drugmakers on pricing.",
-          "authors": "Daniel Payne, Elaine Chen,and John Wilkerson"
-        },
-        {
-          "title": "Mindfulness may lower blood pressure in just 8 weeks",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm",
-          "publishedDate": "Tue, 01 Sep 2026 08:58:41 EDT",
+          "title": "“Broken heart syndrome” can look just like a heart attack. This test can tell them apart",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901070518.htm",
+          "publishedDate": "Wed, 02 Sep 2026 11:03:43 EDT",
           "source": "sciencedaily.com",
-          "summary": "Mindfulness, gratitude, and optimism training may improve blood pressure, inflammation, and other heart-health measures within just eight to 12 weeks. The strongest programs paired daily practice with regular reinforcement, suggesting that…",
+          "summary": "“Broken heart syndrome” can mimic a heart attack so closely that patients often need invasive testing to tell the difference. Researchers have now developed the BioTAK score, which combines biological sex with blood biomarkers to identify…",
           "authors": ""
         },
         {
-          "title": "Reaching 90 without dementia doesn’t mean you’re in the clear",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260829235953.htm",
-          "publishedDate": "Tue, 01 Sep 2026 08:09:42 EDT",
+          "title": "Alzheimer’s may leave a mark on the brain long before plaques appear",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260831015144.htm",
+          "publishedDate": "Wed, 02 Sep 2026 09:33:57 EDT",
           "source": "sciencedaily.com",
-          "summary": "A study of people over 90 found that dementia risk remains strongly shaped by sex, race and genetics, with women and black participants facing notably higher risks. Intriguingly, some people stayed cognitively healthy despite carrying…",
+          "summary": "Brain changes associated with Alzheimer’s may begin at least seven years before amyloid plaques become detectable with current PET scans. Researchers uncovered the signal by tracking healthy older adults with repeated brain imaging over…",
           "authors": ""
         },
         {
-          "title": "STAT+: Will House delay Trump plan to politicize NIH grants?",
-          "url": "https://www.statnews.com/2026/09/01/house-spending-bill-vote-grant-rule-trump-mfn-deals-dc-diagnois/?utm_campaign=rss",
-          "publishedDate": "Tue, 01 Sep 2026 12:03:04 +0000",
+          "title": "STAT+: The Ig Nobel Prizes, long held in the U.S., head to Europe due to Trump policies",
+          "url": "https://www.statnews.com/2026/09/02/ig-nobel-prizes-europe-trump-policies/?utm_campaign=rss",
+          "publishedDate": "Wed, 02 Sep 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "The federal spending bill has an important provision for researchers, and Trump announced more MFN deals with pharma firms.",
+          "summary": "For the first time since they began, the Ig Nobel Prizes, a satirical version of the Nobel prizes, is being held overseas.",
+          "authors": "Allyson Chiu — Boston Globe"
+        },
+        {
+          "title": "STAT+: How Trump’s latest pharma deals may undermine efforts to rein in drug costs",
+          "url": "https://www.statnews.com/2026/09/02/trump-most-favored-nation-drug-pricing-industry-analysts-skeptical/?utm_campaign=rss",
+          "publishedDate": "Wed, 02 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Analysts say private deals involve drugmakers agreeing to lower prices in Medicaid, where prices are low, in return for no price cuts in Medicare.",
           "authors": "John Wilkerson"
         },
         {
-          "title": "As MAHA champions nutrition, it’s ignoring the experts, dietitians say",
-          "url": "https://www.statnews.com/2026/09/01/maha-nutrition-makeover-hampered-dietitian-workforce-crisis/?utm_campaign=rss",
-          "publishedDate": "Tue, 01 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "A key aspect of the Make America Healthy Again agenda could be hampered by a shrinking and underpaid workforce of registered dietitians.",
-          "authors": "Lauren Chan and Isabella Cueto"
+          "title": "Too much coffee may weaken bones, study finds",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
+          "publishedDate": "Wed, 02 Sep 2026 02:04:39 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drinking more than five cups a day was…",
+          "authors": ""
+        },
+        {
+          "title": "Your neighborhood in your 20s may shape your heart decades later",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260830000009.htm",
+          "publishedDate": "Tue, 01 Sep 2026 23:02:37 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Where you live in early adulthood may quietly shape your heart health for decades. Researchers found that adverse neighborhood conditions were linked to a higher risk of coronary artery calcification in midlife, an early warning sign of…",
+          "authors": ""
         }
       ]
     },
@@ -173,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Event-Driven Language Models with Sparse Neural Activity for Neuromorphic Hardware",
-          "url": "https://arxiv.org/abs/2608.30439",
-          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
+          "title": "Research on Optimized Fuzzy PID Temperature Control Strategy Based on Improved Particle Swarm Optimization",
+          "url": "https://arxiv.org/abs/2609.00001",
+          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Inference with transformer-based large language models (LLMs) is often limited by the memory-bound KV cache and quadratic attention cost. State-space models (SSMs) mitigate this through linear attention and fixed-size recurrent states, but…",
-          "authors": "Simon Richter, Ruhai Lin, Jason Yik, Taylor Kergan, Rui-Jie Zhu, Farshad Moradi, Jason Eshraghian"
+          "summary": "Precise temperature control is critical in industrial automation, governing product quality in processes from chemical reactors to furnaces. However, high-order inertia, time delays, and parameter drift render traditional PID and manual…",
+          "authors": "Renjie Jin"
         },
         {
-          "title": "Conjoint Audio-to-Spikes Encoding and Processing for Efficient Neuromorphic Speech Recognition",
-          "url": "https://arxiv.org/abs/2608.30792",
-          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
+          "title": "ES-AHD: An Evolution Strategy Framework for Automatic Heuristic Design",
+          "url": "https://arxiv.org/abs/2609.00023",
+          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Obtaining data from neuromorphic sensors and processing it with Spiking Neural Networks is a promising solution to lower the energy cost of artificial intelligence. The current rarity of natively neuromorphic datasets promotes the…",
-          "authors": "Valentin M. Meunier, Amélie Gruel, Pierre Lewden, Adrien F. Vincent, Sylvain Saïghi"
+          "summary": "In this paper, we introduce ES-AHD, a novel framework that fundamentally integrates Evolution Strategy (ES) into Large Language Model (LLM)-driven Automatic Heuristic Design (AHD). Existing evolutionary approaches predominantly rely on…",
+          "authors": "Yutao Lai, Kezhao Lai, Hai-Lin Liu, Yuping Wang, Ping Guo"
         },
         {
-          "title": "PruneShift: A Framework for Evaluating Decision Reliability in Structured Pruning",
-          "url": "https://arxiv.org/abs/2608.29765",
-          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
+          "title": "Benchmarking spiking neural networks across sensing modalities on edge devices",
+          "url": "https://arxiv.org/abs/2609.00026",
+          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Structured pruning uses surrogate objectives because direct task evaluation over every feasible mask is too expensive. Most evaluations report average surrogate error or rank correlation on broadly sampled masks. These summaries do not…",
-          "authors": "Hao Ye, Gaopeng Zhang"
+          "summary": "Edge computing systems need to support diverse sensing workloads under tight energy and memory constraints, thereby motivating deployment-aware model selection. Spiking neural networks (SNNs) are a promising alternative to conventional…",
+          "authors": "Xin Du, Di Yu, Changze Lv, Yuqi Zhang, Zhuo Chen, Wentao Tong, Helin Zheng, Weisong Zhang, Xiaofan Zhao, Linshan Jiang, Shijie Ji, Hui Fang, Xiaoqing Zheng, Gang Pan, Shuiguang Deng"
         },
         {
-          "title": "Evolutionary Soups: Evolving Mixture-of-Experts for Multi-Objective LLM Alignment",
-          "url": "https://arxiv.org/abs/2608.29978",
-          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
+          "title": "Investigating Hyperparameter Optimization and Transferability for ES-HyperNEAT: A TPE Approach",
+          "url": "https://arxiv.org/abs/2609.00449",
+          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Large language models are increasingly required to generate responses that satisfy multiple competing objectives. Since optimal trade-offs depend on both user preferences and input prompts, controllable multi-objective generation must…",
-          "authors": "Lingxiao Kong, Steffen Staab, Cong Yang, Oya Beyan, Zeyd Boukhers"
+          "summary": "Neuroevolution of Augmenting Topologies (NEAT) and its advanced version, Evolvable-Substrate HyperNEAT (ES-HyperNEAT), have shown great potential in developing neural networks. However, their effectiveness heavily depends on the selection…",
+          "authors": "Romain Claret, Michael O'Neill, Paul Cotofrei, Kilian Stoffel"
         },
         {
-          "title": "Multiclass Linear Perceptrons with Multiplicative Margins",
-          "url": "https://arxiv.org/abs/2608.30028",
-          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
+          "title": "TPR-Attention for Combinatorial Generalization",
+          "url": "https://arxiv.org/abs/2608.30124",
+          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper introduces a family of multiclass linear Perceptron classifiers with a multiplicative margin mechanism (MMPerc), as an alternative to standard margin-free and additive margin Perceptrons. The multiplicative formulation enforces…",
-          "authors": "Dmitri Rachkovskij, Evgeny Osipov, Olexander Volkov, Daswin De Silva, Denis Kleyko"
+          "summary": "Systematic generalization remains a significant challenge in deep learning. In particular, combinatorial generalization - generalizing to new configurations of known factors of variation - is effortless for humans but difficult for…",
+          "authors": "Melisa Civeleko\\uglu, Isabeau Prémont-Schwarz"
         },
         {
-          "title": "\"More Is Different'' in Neural Circuits: Algebraic Emergence of Effective Theories in Canonical Recurrent Motifs of Biological Neuronal Networks",
-          "url": "https://arxiv.org/abs/2608.30231",
-          "publishedDate": "Tue, 01 Sep 2026 00:00:00 -0400",
+          "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+          "url": "https://arxiv.org/abs/2609.00004",
+          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Canonical neural circuit motifs are usually described functionally: divisive normalization rescales population activity by a pooled signal, and winner-take-all competition selects one pattern through recurrent excitation and shared…",
-          "authors": "Nima Dehghani"
+          "summary": "This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, while demand-arrival periods are stochastic. Each demand occurs once within a known time window and must be…",
+          "authors": "Léa Bayati, Mohamed Dahmoune, Melek Rodoplu"
         }
       ]
     },
