@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T00:37:21.981Z",
+  "generatedAt": "2026-09-04T00:24:36.051Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "One Faithful Pass Over the Cuckoo's Nest",
-          "url": "https://arxiv.org/abs/2609.00383",
-          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
+          "title": "Slow-Fast Brain-Computer Interfaces: Preventing Neuroadaptive Overfitting in AI-Mediated Neural Interfaces",
+          "url": "https://arxiv.org/abs/2609.01767",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Narrative theories of consciousness hold that conscious experience is (at least partly) constituted by a partially opaque inner narrative that does not perfectly track the underlying computation it narrates. I argue that the safety goal of…",
+          "summary": "Artificial intelligence (AI) is transforming brain-computer interfaces (BCIs) from task-specific neural decoders into adaptive systems that complete language, smooth movement, regulate rehabilitation support and adjust stimulation. These…",
+          "authors": "Aarthy Nagarajan"
+        },
+        {
+          "title": "Neural Logic, Invariance, and the Retina---McCulloch and Pitts",
+          "url": "https://arxiv.org/abs/2609.02183",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "This chapter reconstructs the McCulloch-Pitts program as a physics of neural computation rather than the familiar cartoon of a binary neuron. The 1943 logical calculus is developed in both directions: given a net, characterize the…",
+          "authors": "Nima Dehghani"
+        },
+        {
+          "title": "Mus siliconus: A Neuro-Musculoskeletal Digital Twin of the Mouse Integrating Neural Dynamics, Biomechanics, and Tactile Sensing",
+          "url": "https://arxiv.org/abs/2609.02243",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Digital twin technologies could transform neuroscience and biomedicine by creating predictive computational representations of living organisms. However, most animal digital twins model neural circuits, anatomy, or biomechanics separately…",
+          "authors": "Satoshi Oota, Hideo Yokota, Hiroki Mori"
+        },
+        {
+          "title": "Fungal Memory and Minimal Cognition",
+          "url": "https://arxiv.org/abs/2609.02345",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "This paper argues that fungal mycelial networks exhibit minimal cognition through memory-integrated adaptive regulation. Drawing on cybernetic and enactivist frameworks, I develop a non-representational account of memory as the organism's…",
           "authors": "Kristina \\vSekrst"
         },
         {
-          "title": "A distributed-delay Wilson-Cowan model of sleep-related rhythms in the corticothalamic system",
-          "url": "https://arxiv.org/abs/2609.00520",
-          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
+          "title": "Prediction emerges in RNNs trained for perception",
+          "url": "https://arxiv.org/abs/2609.02739",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The corticothalamic circuit supports rhythms with timescales that differ by orders of magnitude: sleep spindles, the sigma-band events of non-rapid-eye-movement (NREM) sleep, and infra-slow fluctuations near 0.02Hz that organize when…",
-          "authors": "Eva Kaslik, Anca Radulescu, Anca Stanoev"
+          "summary": "The brain is highly proficient at making sense of noisy and ambiguous sensory inputs. Predictive processing hypothesises that this ability relies on prediction. However, it is unclear why the brain would have evolved to predict the sensory…",
+          "authors": "Akanksha Gupta, Alejandro Tabas"
         },
         {
-          "title": "Temporally constraining source imaging estimates in an underdetermined neural system with eigenmodes of cortical geometry",
-          "url": "https://arxiv.org/abs/2609.00809",
-          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
+          "title": "Higher-order rich clubs and configuration models on general directed hypergraphs",
+          "url": "https://arxiv.org/abs/2609.01624",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Geometric eigenmodes provide a compact and biologically grounded representation of large-scale neural activity. Previous work demonstrated that they can mitigate the underdetermined nature of electroencephalographic (EEG) and…",
-          "authors": "Pok Him Siu, Philippa J. Karoly, Artemio Soto-Breceda, Mark J. Cook, David B. Grayden"
-        },
-        {
-          "title": "Active Visual Semantics: A large-scale MEG and eye-tracking dataset for understanding visual intelligence in action",
-          "url": "https://arxiv.org/abs/2609.01055",
-          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Here we present the Active Visual Semantics (AVS) dataset, a large-scale collection of magnetoencephalography (MEG) and eye-tracking data recorded while five participants freely explored 4,080 natural scenes over 10 sessions each, yielding…",
-          "authors": "Philip Sulewski (Institute of Cognitive Science, Osnabrück University, Osnabrück, Germany, Vision and Computational Cognition Group, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany, Max Planck School of Cognition, Leipzig, Germany), Carmen Amme (Institute of Cognitive Science, Osnabrück University, Osnabrück, Germany), Peter König (Institute of Cognitive Science, Osnabrück University, Osnabrück, Germany, Department of Neurophysiology and Pathophysiology, Center of Experimental Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany), Martin N. Hebart (Vision and Computational Cognition Group, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany, Department of Medicine, Justus Liebig University Giessen, Giessen, Germany, Center for Mind, Brain and Behavior, Universities of Marburg, Giessen, and Darmstadt, Marburg, Germany), Tim C. Kietzmann (Institute of Cognitive Science, Osnabrück University, Osnabrück, Germany)"
-        },
-        {
-          "title": "Backspace as a Natural Experiment: An Accelerated Failure Time Model of Selective Post-Error Motor Impairment in Parkinsons Disease",
-          "url": "https://arxiv.org/abs/2607.24796",
-          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Parkinson's disease (PD) selectively impairs distinct stages of motor control. Using backspace events as natural error-correction episodes in the public neuroQWERTY MIT-CSXPD dataset (n=57 subjects, 27 PD with UPDRS-III scores), we test…",
-          "authors": "Navin Bondade"
-        },
-        {
-          "title": "Continual-learning rules shape representational drift",
-          "url": "https://arxiv.org/abs/2608.16141",
-          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Lifelong learning requires acquiring new knowledge without erasing the old. Yet neural population codes for familiar stimuli and behaviors change over days and weeks. This coexistence of stable memory and changing internal codes may depend…",
-          "authors": "Yikai Si, Shanshan Qin"
+          "summary": "Detecting structure in complex networks, especially those arising from physical systems, is a central problem across the sciences. One approach is via rich club analysis, which identifies important vertices using a centrality metric and…",
+          "authors": "Jason P. Smith, Celia Hacker, J\\=anis Lazovskis, Florian Unger, Keith M. Smith, Daniela Egas Santander"
         }
       ]
     },
@@ -63,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Doctors groups release vaccination guidelines ahead of respiratory illness season",
-          "url": "https://www.statnews.com/2026/09/02/vaccine-integrity-project-fall-winter-guidelines-rsv-covid-flu-shots/?utm_campaign=rss",
-          "publishedDate": "Wed, 02 Sep 2026 14:00:00 +0000",
+          "title": "STAT+: Recipients of gene-edited pig kidneys successfully receive human organs",
+          "url": "https://www.statnews.com/2026/09/03/recipients-of-gene-edited-pig-kidneys-receive-human-organs/?utm_campaign=rss",
+          "publishedDate": "Thu, 03 Sep 2026 22:30:00 +0000",
           "source": "statnews.com",
-          "summary": "Ahead of respiratory illness season, professional organizations have issued guidance on flu, Covid, and RSV vaccines.",
-          "authors": "Helen Branswell"
+          "summary": "Two recipients of gene-edited pig kidneys have successfully received human organs, a milestone in the wider effort to advance xenografts.",
+          "authors": "Eric Boodman"
         },
         {
-          "title": "HHS spins a tale of a would-be content creator child",
-          "url": "https://www.statnews.com/2026/09/02/health-news-hhs-spins-a-tale-of-a-would-be-content-creator/?utm_campaign=rss",
-          "publishedDate": "Wed, 02 Sep 2026 11:59:16 +0000",
+          "title": "‘Tactical athletes’ get new guidance for cardiovascular fitness",
+          "url": "https://www.statnews.com/2026/09/03/tactical-athlete-health-risks-new-cardiovascular-guidelines-police-firefighters/?utm_campaign=rss",
+          "publishedDate": "Thu, 03 Sep 2026 18:00:00 +0000",
           "source": "statnews.com",
-          "summary": "The next DSM and the algorithm, an unexpected discovery on alpha-gal syndrome, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: ADA review of members’ expulsion denies group censored opinions, called in police",
-          "url": "https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/?utm_campaign=rss",
-          "publishedDate": "Tue, 01 Sep 2026 23:06:00 +0000",
-          "source": "statnews.com",
-          "summary": "A review of findings from a five-person committee is being sent to the ADA board for action, STAT has learned, but it appears unlikely to quiet the controversy.",
+          "summary": "Tactical athletes, a category of people first recognized in the early 2000s, also need distinct kinds of health care.",
           "authors": "Elizabeth Cooney"
         },
         {
-          "title": "Paxlovid did not help long Covid, study finds",
-          "url": "https://www.statnews.com/2026/09/01/health-news-paxlovid-did-not-help-long-covid-study-finds/?utm_campaign=rss",
-          "publishedDate": "Tue, 01 Sep 2026 13:08:31 +0000",
+          "title": "STAT+: Fauci speaks, and writes",
+          "url": "https://www.statnews.com/2026/09/03/anthony-fauci-vaccine-skeptics-book-trump-drug-pricing-deals-medicaid/?utm_campaign=rss",
+          "publishedDate": "Thu, 03 Sep 2026 14:11:34 +0000",
           "source": "statnews.com",
-          "summary": "New Trump drug pricing deals, weed edibles and driving research, and more health news from Morning Rounds",
+          "summary": "Anthony Fauci is working on a book, we unpack Trump's latest drug pricing deals, and more from STAT's D.C. Diagnosis newsletter.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "HHS flip-flops on disability lawsuit",
+          "url": "https://www.statnews.com/2026/09/03/health-news-hhs-flip-flops-on-disability-lawsuit-community-integration/?utm_campaign=rss",
+          "publishedDate": "Thu, 03 Sep 2026 13:21:58 +0000",
+          "source": "statnews.com",
+          "summary": "Drug overdose deaths decreasing, a path to patients for AI devices, and more health news from Morning Rounds",
           "authors": "Theresa Gaffney"
         },
         {
-          "title": "As MAHA champions nutrition, it’s ignoring the experts, dietitians say",
-          "url": "https://www.statnews.com/2026/09/01/maha-nutrition-makeover-hampered-dietitian-workforce-crisis/?utm_campaign=rss",
-          "publishedDate": "Tue, 01 Sep 2026 08:30:00 +0000",
+          "title": "The pediatricians who take in vaccine-skeptical parents others won&#8217;t",
+          "url": "https://www.statnews.com/2026/09/03/vaccine-hesitant-parents-how-pediatrician-builds-trust/?utm_campaign=rss",
+          "publishedDate": "Thu, 03 Sep 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "A key aspect of the Make America Healthy Again agenda could be hampered by a shrinking and underpaid workforce of registered dietitians.",
-          "authors": "Lauren Chan and Isabella Cueto"
+          "summary": "At a \"practice of last resort,\" pediatricians prioritize allaying parents' vaccine concerns without hardline dismissals.",
+          "authors": "Eric Boodman"
         },
         {
-          "title": "New guidelines on migraine prevention reflect increasing options for patients",
-          "url": "https://www.statnews.com/2026/08/31/migraine-prevention-medication-guidelines/?utm_campaign=rss",
-          "publishedDate": "Mon, 31 Aug 2026 20:00:00 +0000",
+          "title": "Why are drug overdose deaths declining?",
+          "url": "https://www.statnews.com/2026/09/03/drug-overdose-deaths-down-sharply-commonwealth-fund-study/?utm_campaign=rss",
+          "publishedDate": "Thu, 03 Sep 2026 04:01:00 +0000",
           "source": "statnews.com",
-          "summary": "“There has been a wealth of new treatment available” for migraine prevention, said a co-author of new guidelines released Monday.",
-          "authors": "Isabella Cueto"
+          "summary": "Naloxone and harm reduction measures may be helping to curb drug overdose deaths, a new report says.",
+          "authors": "Theresa Gaffney"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "“Broken heart syndrome” can look just like a heart attack. This test can tell them apart",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901070518.htm",
-          "publishedDate": "Wed, 02 Sep 2026 11:03:43 EDT",
-          "source": "sciencedaily.com",
-          "summary": "“Broken heart syndrome” can mimic a heart attack so closely that patients often need invasive testing to tell the difference. Researchers have now developed the BioTAK score, which combines biological sex with blood biomarkers to identify…",
-          "authors": ""
-        },
-        {
-          "title": "Alzheimer’s may leave a mark on the brain long before plaques appear",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260831015144.htm",
-          "publishedDate": "Wed, 02 Sep 2026 09:33:57 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Brain changes associated with Alzheimer’s may begin at least seven years before amyloid plaques become detectable with current PET scans. Researchers uncovered the signal by tracking healthy older adults with repeated brain imaging over…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: The Ig Nobel Prizes, long held in the U.S., head to Europe due to Trump policies",
-          "url": "https://www.statnews.com/2026/09/02/ig-nobel-prizes-europe-trump-policies/?utm_campaign=rss",
-          "publishedDate": "Wed, 02 Sep 2026 08:30:00 +0000",
+          "title": "STAT+: Fauci speaks, and writes",
+          "url": "https://www.statnews.com/2026/09/03/anthony-fauci-vaccine-skeptics-book-trump-drug-pricing-deals-medicaid/?utm_campaign=rss",
+          "publishedDate": "Thu, 03 Sep 2026 14:11:34 +0000",
           "source": "statnews.com",
-          "summary": "For the first time since they began, the Ig Nobel Prizes, a satirical version of the Nobel prizes, is being held overseas.",
-          "authors": "Allyson Chiu — Boston Globe"
-        },
-        {
-          "title": "STAT+: How Trump’s latest pharma deals may undermine efforts to rein in drug costs",
-          "url": "https://www.statnews.com/2026/09/02/trump-most-favored-nation-drug-pricing-industry-analysts-skeptical/?utm_campaign=rss",
-          "publishedDate": "Wed, 02 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Analysts say private deals involve drugmakers agreeing to lower prices in Medicaid, where prices are low, in return for no price cuts in Medicare.",
+          "summary": "Anthony Fauci is working on a book, we unpack Trump's latest drug pricing deals, and more from STAT's D.C. Diagnosis newsletter.",
           "authors": "John Wilkerson"
         },
         {
-          "title": "Too much coffee may weaken bones, study finds",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
-          "publishedDate": "Wed, 02 Sep 2026 02:04:39 EDT",
+          "title": "Bats carry dangerous viruses without getting sick. This may be why",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm",
+          "publishedDate": "Thu, 03 Sep 2026 07:56:01 EDT",
           "source": "sciencedaily.com",
-          "summary": "Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drinking more than five cups a day was…",
+          "summary": "Scientists discovered that more than 500 species of vesper bats possess two separate sets of antibody genes, an immune arrangement never before found in mammals. The surprising system could help explain how bats tolerate so many viruses…",
           "authors": ""
         },
         {
-          "title": "Your neighborhood in your 20s may shape your heart decades later",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260830000009.htm",
-          "publishedDate": "Tue, 01 Sep 2026 23:02:37 EDT",
+          "title": "One immune switch may help drive aging across the body",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
+          "publishedDate": "Thu, 03 Sep 2026 06:29:04 EDT",
           "source": "sciencedaily.com",
-          "summary": "Where you live in early adulthood may quietly shape your heart health for decades. Researchers found that adverse neighborhood conditions were linked to a higher risk of coronary artery calcification in midlife, an early warning sign of…",
+          "summary": "Aging may be partly fueled by immune cells losing their ability to clear away damaged, inflammation-promoting cells. Blocking a single receptor restored that cleanup process in mice, reducing inflammation and helping their organs, muscles,…",
+          "authors": ""
+        },
+        {
+          "title": "Why are drug overdose deaths declining?",
+          "url": "https://www.statnews.com/2026/09/03/drug-overdose-deaths-down-sharply-commonwealth-fund-study/?utm_campaign=rss",
+          "publishedDate": "Thu, 03 Sep 2026 04:01:00 +0000",
+          "source": "statnews.com",
+          "summary": "Naloxone and harm reduction measures may be helping to curb drug overdose deaths, a new report says.",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "ADHD may have a surprising creative advantage",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260831015150.htm",
+          "publishedDate": "Wed, 02 Sep 2026 23:44:06 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Some of the attention patterns that make ADHD challenging may also help spark creativity by allowing the brain to explore more ideas and unexpected connections. Researchers think creative activities could potentially channel this…",
+          "authors": ""
+        },
+        {
+          "title": "Each extra hour of prolonged sitting linked to 9% higher cancer death risk",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901070548.htm",
+          "publishedDate": "Wed, 02 Sep 2026 23:06:57 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Sitting for long, uninterrupted stretches may carry greater health risks than sitting the same amount of time in shorter bouts. Researchers found that each extra hour of prolonged sedentary behavior was associated with a 9% higher risk of…",
           "authors": ""
         }
       ]
@@ -173,61 +173,85 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Research on Optimized Fuzzy PID Temperature Control Strategy Based on Improved Particle Swarm Optimization",
-          "url": "https://arxiv.org/abs/2609.00001",
-          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
+          "title": "CircuitsDNA: Discovering Unconventional Multi-Accuracy Arithmetic Circuits via Evolutionary Synthesis",
+          "url": "https://arxiv.org/abs/2609.01735",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Precise temperature control is critical in industrial automation, governing product quality in processes from chemical reactors to furnaces. However, high-order inertia, time delays, and parameter drift render traditional PID and manual…",
-          "authors": "Renjie Jin"
+          "summary": "Emerging edge AI workloads increasingly require arithmetic units that can trade computational accuracy for efficiency on demand. However, existing approximate arithmetic circuits are typically fixed-accuracy or rely on predefined…",
+          "authors": "Ruichen Qi, Junyi Luo, Xinting Jiang, Quan Cheng, Gregory Kielian, Ben Laurie, Dennis Sylvester, Mehdi Saligane"
         },
         {
-          "title": "ES-AHD: An Evolution Strategy Framework for Automatic Heuristic Design",
-          "url": "https://arxiv.org/abs/2609.00023",
-          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
+          "title": "Reinforcement learning to choose optimizers",
+          "url": "https://arxiv.org/abs/2609.01811",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In this paper, we introduce ES-AHD, a novel framework that fundamentally integrates Evolution Strategy (ES) into Large Language Model (LLM)-driven Automatic Heuristic Design (AHD). Existing evolutionary approaches predominantly rely on…",
-          "authors": "Yutao Lai, Kezhao Lai, Hai-Lin Liu, Yuping Wang, Ping Guo"
+          "summary": "No single optimization method is uniformly best for all problems, and the most suitable optimizer choice can change during a run. Existing approaches that change optimizer during execution typically predetermine part of the strategy: the…",
+          "authors": "Martin van der Schelling, Deepesh Toshniwal, Miguel A. Bessa"
         },
         {
-          "title": "Benchmarking spiking neural networks across sensing modalities on edge devices",
-          "url": "https://arxiv.org/abs/2609.00026",
-          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
+          "title": "Memory as an Energy Landscape---Hopfield",
+          "url": "https://arxiv.org/abs/2609.02195",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Edge computing systems need to support diverse sensing workloads under tight energy and memory constraints, thereby motivating deployment-aware model selection. Spiking neural networks (SNNs) are a promising alternative to conventional…",
-          "authors": "Xin Du, Di Yu, Changze Lv, Yuqi Zhang, Zhuo Chen, Wentao Tong, Helin Zheng, Weisong Zhang, Xiaofan Zhao, Linshan Jiang, Shijie Ji, Hui Fang, Xiaoqing Zheng, Gang Pan, Shuiguang Deng"
+          "summary": "This chapter reconstructs the Hopfield network as a physical theory of memory rather than merely an early neural-network algorithm. It begins with the problem as it stood before 1982-threshold logic, Hebbian association, correlation…",
+          "authors": "Nima Dehghani"
         },
         {
-          "title": "Investigating Hyperparameter Optimization and Transferability for ES-HyperNEAT: A TPE Approach",
-          "url": "https://arxiv.org/abs/2609.00449",
-          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
+          "title": "LLM-Driven Joint Evolution of Coupled Heuristics Components for Routing Optimization",
+          "url": "https://arxiv.org/abs/2609.02353",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neuroevolution of Augmenting Topologies (NEAT) and its advanced version, Evolvable-Substrate HyperNEAT (ES-HyperNEAT), have shown great potential in developing neural networks. However, their effectiveness heavily depends on the selection…",
-          "authors": "Romain Claret, Michael O'Neill, Paul Cotofrei, Kilian Stoffel"
+          "summary": "Heuristic design for combinatorial optimization remains heavily reliant on expert knowledge, while existing large language model (LLM)-enhanced evolutionary methods typically evolve isolated algorithmic components, even when one determines…",
+          "authors": "Juntao Wei, Yangming Zhou, Zhibin Jiang, Shan Jiang"
         },
         {
-          "title": "TPR-Attention for Combinatorial Generalization",
-          "url": "https://arxiv.org/abs/2608.30124",
-          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
+          "title": "Semantics-Guided Automatic Tensorization for Multiobjective Evolutionary Algorithms: A Multi-Agent Framework",
+          "url": "https://arxiv.org/abs/2609.02387",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Systematic generalization remains a significant challenge in deep learning. In particular, combinatorial generalization - generalizing to new configurations of known factors of variation - is effortless for humans but difficult for…",
-          "authors": "Melisa Civeleko\\uglu, Isabeau Prémont-Schwarz"
+          "summary": "Multiobjective evolutionary algorithms (MOEAs) naturally expose population-level parallelism, but many mature implementations encode their computation in sequential program structures designed for central processing units. Exploiting…",
+          "authors": "Zhenyu Liang, Beichen Huang, Bowen Zheng, Ran Cheng"
         },
         {
-          "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
-          "url": "https://arxiv.org/abs/2609.00004",
-          "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
+          "title": "Model-Free Surrogate-Assisted Neural Architecture Search for Evolving Variable-Length Dense Blocks",
+          "url": "https://arxiv.org/abs/2609.02460",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, while demand-arrival periods are stochastic. Each demand occurs once within a known time window and must be…",
-          "authors": "Léa Bayati, Mohamed Dahmoune, Melek Rodoplu"
+          "summary": "Neural Architecture Search (NAS) has emerged as a powerful paradigm for automatically designing deep neural networks; however, its practical adoption is often limited by substantial computational cost. To alleviate expensive full-training…",
+          "authors": "Asif Ameer, Maryam Bashir, Irfan Younas, Muhammad Fayyaz"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 3,
+      "items": [
+        {
+          "title": "Slow-Fast Brain-Computer Interfaces: Preventing Neuroadaptive Overfitting in AI-Mediated Neural Interfaces",
+          "url": "https://arxiv.org/abs/2609.01767",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Artificial intelligence (AI) is transforming brain-computer interfaces (BCIs) from task-specific neural decoders into adaptive systems that complete language, smooth movement, regulate rehabilitation support and adjust stimulation. These…",
+          "authors": "Aarthy Nagarajan"
+        },
+        {
+          "title": "ARFT: A Synchronized Multimodal RF-Acoustic Dataset for Positioning in Distributed Environments",
+          "url": "https://arxiv.org/abs/2609.02657",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "This paper documents the acoustic-radio fusion in Techtile (ARFT) dataset, a synchronized measurement campaign for distributed wireless sensing and positioning in the Techtile testbed. Ultrasonic and radio frequency (RF) signals are…",
+          "authors": "Daan Delabie, Jarne Van Mulders, Bert Pyck, Gustav Nilsson Gisleskog, Gilles Callebaut"
+        },
+        {
+          "title": "A Dry-Contact Ear-EEG System With Continuous Electrode-Skin Impedance Mismatch Monitoring for Motion Artifact Cancellation Using DRL Stimulus",
+          "url": "https://arxiv.org/abs/2609.02777",
+          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Dry-contact ear-electroencephalography (Ear-EEG) enables wearable neural monitoring. However, motion induced electrode-skin impedance (ESI) mismatches between electrodes can severely degrade signal quality. To the best of our knowledge,…",
+          "authors": "Lohan Atapattu (Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka), Sajitha Madugalle (Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka), Imasha Nethmal (Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka), Erandee Jayathilaka (Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka), Avishka Herath (Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka), Kithmin Wickremasinghe (Department of Electrical and Computer Engineering, University of British Columbia, Canada), Simon L. Kappel (Department of Electrical and Computer Engineering, Aarhus University, Denmark), Nilan Udayanga (Cirtec Medical Corporation, USA), Chamira U. S. Edussooriya (Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka)"
+        }
+      ]
     }
   }
 }

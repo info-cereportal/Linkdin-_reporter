@@ -1,25 +1,26 @@
 {
-  "generatedAt": "2026-09-03T00:37:21.265Z",
-  "date": "2026-09-03",
-  "topic": "人工ニューラルネットワークと記憶",
-  "templateName": "paradigm-shift",
+  "generatedAt": "2026-09-04T00:24:34.806Z",
+  "date": "2026-09-04",
+  "topic": "神経ダイナミクスと計算論的神経科学",
+  "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "Active Visual Semantics: A large-scale MEG and eye-tracking dataset for understanding visual intelligence in action",
-  "paperLink": "https://arxiv.org/abs/2609.01055",
-  "formatted": "人工ニューラルネットワークと記憶に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 MEG(脳磁図) × 人工ニューラルネットワーク × 記憶 × 脳画像研究\n\n📊 注目すべきデータ：\n→ A semantic captioning task on 25% of the trials provides behavioural measures linking gaze to scene understanding and memory.\n→ Both in MEG sensor and source space this structure is validated by its robust alignment with ANN object-level representational geometry.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Active Visual Semantics: A large-scale MEG and eye-tracking dataset for understanding visual intelligence in action\n🔗 https://arxiv.org/abs/2609.01055\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #NeuralDecoding",
-  "summaryJP": "人工ニューラルネットワークと記憶 — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
-  "paperAuthors": "Philip Sulewski (Institute of Cognitive Science, Osnabrück University, Osnabrück, Germany, Vision and Computational Cognition Group, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany, Max Planck School of Cognition, Leipzig, Germany), Carmen Amme (Institute of Cognitive Science, Osnabrück University, Osnabrück, Germany), Peter König (Institute of Cognitive Science, Osnabrück University, Osnabrück, Germany, Department of Neurophysiology and Pathophysiology, Center of Experimental Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany), Martin N. Hebart (Vision and Computational Cognition Group, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany, Department of Medicine, Justus Liebig University Giessen, Giessen, Germany, Center for Mind, Brain and Behavior, Universities of Marburg, Giessen, and Darmstadt, Marburg, Germany), Tim C. Kietzmann (Institute of Cognitive Science, Osnabrück University, Osnabrück, Germany)",
-  "publishedDate": "Wed, 02 Sep 2026 00:00:00 -0400",
-  "paperId": "2609.01055",
+  "paperTitle": "Mus siliconus: A Neuro-Musculoskeletal Digital Twin of the Mouse Integrating Neural Dynamics, Biomechanics, and Tactile Sensing",
+  "paperLink": "https://arxiv.org/abs/2609.02243",
+  "figureUrl": "https://arxiv.org/html/2609.02243/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
+  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、神経ダイナミクスと計算論的神経科学の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 神経ダイナミクス × 計算論的神経科学 × 学習\n\n> Digital twin technologies could transform neuroscience and biomedicine by creating predictive computational representations of living organisms. However, most animal digital twins model neural circuits, anatomy, or biomechanics separately rather than integrating the processes...\n\nなぜこの数字が重要か。\n\n計算論的神経科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Mus siliconus: A Neuro-Musculoskeletal Digital Twin of the Mouse Integrating Neural Dynamics, Biomechanics, and Tactile Sensing\n🔗 https://arxiv.org/abs/2609.02243\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #神経科学 #計算論的神経科学 #ComputationalNeuroscience",
+  "summaryJP": "神経ダイナミクスと計算論的神経科学 — 数値で示された新事実（計算論的神経科学）",
+  "paperAuthors": "Satoshi Oota, Hideo Yokota, Hiroki Mori",
+  "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+  "paperId": "2609.02243",
   "paperSource": "arxiv",
-  "themeArea": "ニューロAI・計算論",
+  "themeArea": "計算論的神経科学",
   "jpKeywords": [
-    "MEG(脳磁図)",
-    "人工ニューラルネットワーク",
-    "記憶",
-    "脳画像研究",
-    "ECoG(皮質脳波)"
+    "神経ダイナミクス",
+    "計算論的神経科学",
+    "学習"
   ],
-  "abstractExcerpt": "Here we present the Active Visual Semantics (AVS) dataset, a large-scale collection of magnetoencephalography (MEG) and eye-tracking data recorded while five participants freely explored 4,080 natural scenes over 10 sessions each, yielding…",
-  "figureUrls": []
+  "abstractExcerpt": "Digital twin technologies could transform neuroscience and biomedicine by creating predictive computational representations of living organisms. However, most animal digital twins model neural circuits, anatomy, or biomechanics separately…",
+  "figureUrls": [
+    "https://arxiv.org/html/2609.02243/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
+  ]
 }
