@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-09-04T00:24:34.806Z",
-  "date": "2026-09-04",
-  "topic": "神経ダイナミクスと計算論的神経科学",
-  "templateName": "data-driven",
+  "generatedAt": "2026-09-05T00:21:46.681Z",
+  "date": "2026-09-05",
+  "topic": "コネクトーム",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Mus siliconus: A Neuro-Musculoskeletal Digital Twin of the Mouse Integrating Neural Dynamics, Biomechanics, and Tactile Sensing",
-  "paperLink": "https://arxiv.org/abs/2609.02243",
-  "figureUrl": "https://arxiv.org/html/2609.02243/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
-  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、神経ダイナミクスと計算論的神経科学の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 神経ダイナミクス × 計算論的神経科学 × 学習\n\n> Digital twin technologies could transform neuroscience and biomedicine by creating predictive computational representations of living organisms. However, most animal digital twins model neural circuits, anatomy, or biomechanics separately rather than integrating the processes...\n\nなぜこの数字が重要か。\n\n計算論的神経科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Mus siliconus: A Neuro-Musculoskeletal Digital Twin of the Mouse Integrating Neural Dynamics, Biomechanics, and Tactile Sensing\n🔗 https://arxiv.org/abs/2609.02243\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #神経科学 #計算論的神経科学 #ComputationalNeuroscience",
-  "summaryJP": "神経ダイナミクスと計算論的神経科学 — 数値で示された新事実（計算論的神経科学）",
-  "paperAuthors": "Satoshi Oota, Hideo Yokota, Hiroki Mori",
-  "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
-  "paperId": "2609.02243",
+  "paperTitle": "High-Order Triadic Functional Connectivity in the Brain and Beyond",
+  "paperLink": "https://arxiv.org/abs/2609.03987",
+  "figureUrl": "https://arxiv.org/html/2609.03987/2609.03987v1/pr0.jpg",
+  "formatted": "これを読んで、脳に対する見方が変わりました。\n\nこの研究から得られる3つの重要な示唆。\n\nコネクトームの最新成果を整理しました。\n\n🔬 コネクトーム\n\n> Here, we report high-order functional network connectivity as a promising way for studying the brain connectome. Traditional functional connectivity approaches capture only pairwise relationships between brain regions, overlooking complex multivariate dependencies that underlie...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nコネクトミクス・回路解析の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 High-Order Triadic Functional Connectivity in the Brain and Beyond\n🔗 https://arxiv.org/abs/2609.03987\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #NeuralDecoding",
+  "summaryJP": "コネクトーム — 注目すべき3つの示唆（コネクトミクス・回路解析）",
+  "paperAuthors": "Qiang Li, Masoud Seraji, Yu-Ping Wang, Godfrey D Pearlson, Vince D Calhoun",
+  "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
+  "paperId": "2609.03987",
   "paperSource": "arxiv",
-  "themeArea": "計算論的神経科学",
+  "themeArea": "コネクトミクス・回路解析",
   "jpKeywords": [
-    "神経ダイナミクス",
-    "計算論的神経科学",
-    "学習"
+    "コネクトーム"
   ],
-  "abstractExcerpt": "Digital twin technologies could transform neuroscience and biomedicine by creating predictive computational representations of living organisms. However, most animal digital twins model neural circuits, anatomy, or biomechanics separately…",
+  "abstractExcerpt": "Here, we report high-order functional network connectivity as a promising way for studying the brain connectome. Traditional functional connectivity approaches capture only pairwise relationships between brain regions, overlooking complex…",
   "figureUrls": [
-    "https://arxiv.org/html/2609.02243/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
+    "https://arxiv.org/html/2609.03987/2609.03987v1/pr0.jpg",
+    "https://arxiv.org/html/2609.03987/2609.03987v1/pr6.jpg",
+    "https://arxiv.org/html/2609.03987/2609.03987v1/pr1.jpg"
   ]
 }

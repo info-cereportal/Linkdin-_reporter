@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T00:24:36.051Z",
+  "generatedAt": "2026-09-05T00:21:47.258Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Slow-Fast Brain-Computer Interfaces: Preventing Neuroadaptive Overfitting in AI-Mediated Neural Interfaces",
-          "url": "https://arxiv.org/abs/2609.01767",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "title": "High-Order Triadic Functional Connectivity in the Brain and Beyond",
+          "url": "https://arxiv.org/abs/2609.03987",
+          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Artificial intelligence (AI) is transforming brain-computer interfaces (BCIs) from task-specific neural decoders into adaptive systems that complete language, smooth movement, regulate rehabilitation support and adjust stimulation. These…",
-          "authors": "Aarthy Nagarajan"
+          "summary": "Here, we report high-order functional network connectivity as a promising way for studying the brain connectome. Traditional functional connectivity approaches capture only pairwise relationships between brain regions, overlooking complex…",
+          "authors": "Qiang Li, Masoud Seraji, Yu-Ping Wang, Godfrey D Pearlson, Vince D Calhoun"
         },
         {
-          "title": "Neural Logic, Invariance, and the Retina---McCulloch and Pitts",
-          "url": "https://arxiv.org/abs/2609.02183",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "title": "Axonal delay dispersion decides whether a neuron detects an event or a sequence, and predicts cortical column diameter",
+          "url": "https://arxiv.org/abs/2609.04195",
+          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This chapter reconstructs the McCulloch-Pitts program as a physics of neural computation rather than the familiar cartoon of a binary neuron. The 1943 logical calculus is developed in both directions: given a net, characterize the…",
-          "authors": "Nima Dehghani"
+          "summary": "Cortical neurons fire sparsely -- often fewer than one spike per sensory window -- making rate coding insufficient and temporal coding a necessity. That conduction delays convert firing order into synchrony is long established. What…",
+          "authors": "Cheng Bi, Jipeng Sun"
         },
         {
-          "title": "Mus siliconus: A Neuro-Musculoskeletal Digital Twin of the Mouse Integrating Neural Dynamics, Biomechanics, and Tactile Sensing",
-          "url": "https://arxiv.org/abs/2609.02243",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "title": "Tensor-based Brain Surface Modeling and Analysis",
+          "url": "https://arxiv.org/abs/2609.03302",
+          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Digital twin technologies could transform neuroscience and biomedicine by creating predictive computational representations of living organisms. However, most animal digital twins model neural circuits, anatomy, or biomechanics separately…",
-          "authors": "Satoshi Oota, Hideo Yokota, Hiroki Mori"
+          "summary": "We present a unified computational approach to tensor-based morphometry in detecting the brain surface shape differences between two clinical groups based on magnetic resonance images. Our approach is novel in a sense that we combined…",
+          "authors": "Moo K. Chung, Keith J. Worsley, Steve Robbins, Alan C. Evans"
         },
         {
-          "title": "Fungal Memory and Minimal Cognition",
-          "url": "https://arxiv.org/abs/2609.02345",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "title": "Inferring Affective Consciousness in an Artificial Agent: A Case Study",
+          "url": "https://arxiv.org/abs/2609.03883",
+          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper argues that fungal mycelial networks exhibit minimal cognition through memory-integrated adaptive regulation. Drawing on cybernetic and enactivist frameworks, I develop a non-representational account of memory as the organism's…",
-          "authors": "Kristina \\vSekrst"
+          "summary": "Creatures that display 'hedonic place preference behaviour' are thought by many scientists to experience feelings, on the assumption that their attraction to pleasure-producing substances which lack nutritional value (e.g. cocaine,…",
+          "authors": "Mark Solms, St John Grimbly, Bruce Bassett, Evert Boonstra, Rowan Hodson, Nicolas Kuske, Kival Mahadew, Benjamin Rosman, Charel van Hoof, Jonathan Shock"
         },
         {
-          "title": "Prediction emerges in RNNs trained for perception",
-          "url": "https://arxiv.org/abs/2609.02739",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "title": "Prospective Coding Improves Learning in Deep Continuous-Time Recurrent Networks",
+          "url": "https://arxiv.org/abs/2609.04134",
+          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The brain is highly proficient at making sense of noisy and ambiguous sensory inputs. Predictive processing hypothesises that this ability relies on prediction. However, it is unclear why the brain would have evolved to predict the sensory…",
-          "authors": "Akanksha Gupta, Alejandro Tabas"
+          "summary": "Temporal integration gives continuous-time recurrent networks memory, but in deep stacks it also delays bottom-up signals and attenuates top-down errors. We develop Recursive Quadrature Filters (RQFs), biologically motivated complex-valued…",
+          "authors": "Shivang Rawat, Mirko Morello, Flaviano Morone, David J. Heeger"
         },
         {
-          "title": "Higher-order rich clubs and configuration models on general directed hypergraphs",
-          "url": "https://arxiv.org/abs/2609.01624",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "title": "Self-regulated emergence of heavy-tailed weight distributions in evolving complex network architectures",
+          "url": "https://arxiv.org/abs/2508.21445",
+          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Detecting structure in complex networks, especially those arising from physical systems, is a central problem across the sciences. One approach is via rich club analysis, which identifies important vertices using a centrality metric and…",
-          "authors": "Jason P. Smith, Celia Hacker, J\\=anis Lazovskis, Florian Unger, Keith M. Smith, Daniela Egas Santander"
+          "summary": "The nervous system continuously adjusts connection strengths and reorganizes its structure to form and maintain complex connectivity patterns with heavy-tailed weight distributions. We propose a parsimonious model in which structural and…",
+          "authors": "Jia Li, Cees van Leeuwen, Roman Bauer, Ilias Rentzeperis"
         }
       ]
     },
@@ -62,6 +62,22 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Disabled workers at greater risk of losing health insurance",
+          "url": "https://www.statnews.com/2026/09/04/health-news-disabled-workers-at-greater-risk-of-losing-insurance/?utm_campaign=rss",
+          "publishedDate": "Fri, 04 Sep 2026 13:08:15 +0000",
+          "source": "statnews.com",
+          "summary": "An organ transplant first, new details on ADA conference controversy, and more health news from Morning Rounds",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "STAT+: Lindsay Clancy case exposes dangers of fragmented U.S. health system, experts say",
+          "url": "https://www.statnews.com/2026/09/04/lindsay-clancy-health-care-silos-postpartum-care-failures/?utm_campaign=rss",
+          "publishedDate": "Fri, 04 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "In the months before killing her children, Lindsay Clancy repeatedly sought help for her deteriorating mental health.",
+          "authors": "Tara Bannow"
+        },
         {
           "title": "STAT+: Recipients of gene-edited pig kidneys successfully receive human organs",
           "url": "https://www.statnews.com/2026/09/03/recipients-of-gene-edited-pig-kidneys-receive-human-organs/?utm_campaign=rss",
@@ -93,22 +109,6 @@
           "source": "statnews.com",
           "summary": "Drug overdose deaths decreasing, a path to patients for AI devices, and more health news from Morning Rounds",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "The pediatricians who take in vaccine-skeptical parents others won&#8217;t",
-          "url": "https://www.statnews.com/2026/09/03/vaccine-hesitant-parents-how-pediatrician-builds-trust/?utm_campaign=rss",
-          "publishedDate": "Thu, 03 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "At a \"practice of last resort,\" pediatricians prioritize allaying parents' vaccine concerns without hardline dismissals.",
-          "authors": "Eric Boodman"
-        },
-        {
-          "title": "Why are drug overdose deaths declining?",
-          "url": "https://www.statnews.com/2026/09/03/drug-overdose-deaths-down-sharply-commonwealth-fund-study/?utm_campaign=rss",
-          "publishedDate": "Thu, 03 Sep 2026 04:01:00 +0000",
-          "source": "statnews.com",
-          "summary": "Naloxone and harm reduction measures may be helping to curb drug overdose deaths, a new report says.",
-          "authors": "Theresa Gaffney"
         }
       ]
     },
@@ -117,6 +117,38 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Stanford scientists discover a seafood that can reverse signs of aging",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
+          "publishedDate": "Fri, 04 Sep 2026 08:29:06 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the…",
+          "authors": ""
+        },
+        {
+          "title": "A longer exhale may push your brain toward bolder decisions",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
+          "publishedDate": "Fri, 04 Sep 2026 07:33:12 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists reveal the hidden instructions that build the human brain",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
+          "publishedDate": "Fri, 04 Sep 2026 02:04:06 EDT",
+          "source": "sciencedaily.com",
+          "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they…",
+          "authors": ""
+        },
+        {
+          "title": "New injectable treatment helps the brain rebuild after stroke",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm",
+          "publishedDate": "Thu, 03 Sep 2026 23:59:21 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the body’s own immune…",
+          "authors": ""
+        },
         {
           "title": "STAT+: Fauci speaks, and writes",
           "url": "https://www.statnews.com/2026/09/03/anthony-fauci-vaccine-skeptics-book-trump-drug-pricing-deals-medicaid/?utm_campaign=rss",
@@ -132,38 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "Scientists discovered that more than 500 species of vesper bats possess two separate sets of antibody genes, an immune arrangement never before found in mammals. The surprising system could help explain how bats tolerate so many viruses…",
           "authors": ""
-        },
-        {
-          "title": "One immune switch may help drive aging across the body",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
-          "publishedDate": "Thu, 03 Sep 2026 06:29:04 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Aging may be partly fueled by immune cells losing their ability to clear away damaged, inflammation-promoting cells. Blocking a single receptor restored that cleanup process in mice, reducing inflammation and helping their organs, muscles,…",
-          "authors": ""
-        },
-        {
-          "title": "Why are drug overdose deaths declining?",
-          "url": "https://www.statnews.com/2026/09/03/drug-overdose-deaths-down-sharply-commonwealth-fund-study/?utm_campaign=rss",
-          "publishedDate": "Thu, 03 Sep 2026 04:01:00 +0000",
-          "source": "statnews.com",
-          "summary": "Naloxone and harm reduction measures may be helping to curb drug overdose deaths, a new report says.",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "ADHD may have a surprising creative advantage",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260831015150.htm",
-          "publishedDate": "Wed, 02 Sep 2026 23:44:06 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Some of the attention patterns that make ADHD challenging may also help spark creativity by allowing the brain to explore more ideas and unexpected connections. Researchers think creative activities could potentially channel this…",
-          "authors": ""
-        },
-        {
-          "title": "Each extra hour of prolonged sitting linked to 9% higher cancer death risk",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901070548.htm",
-          "publishedDate": "Wed, 02 Sep 2026 23:06:57 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Sitting for long, uninterrupted stretches may carry greater health risks than sitting the same amount of time in shorter bouts. Researchers found that each extra hour of prolonged sedentary behavior was associated with a 9% higher risk of…",
-          "authors": ""
         }
       ]
     },
@@ -173,83 +173,67 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "CircuitsDNA: Discovering Unconventional Multi-Accuracy Arithmetic Circuits via Evolutionary Synthesis",
-          "url": "https://arxiv.org/abs/2609.01735",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "title": "Efficient Constant Optimization for Symbolic Regression with GPU-Accelerated Tree-Based Genetic Programming",
+          "url": "https://arxiv.org/abs/2609.03352",
+          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Emerging edge AI workloads increasingly require arithmetic units that can trade computational accuracy for efficiency on demand. However, existing approximate arithmetic circuits are typically fixed-accuracy or rely on predefined…",
-          "authors": "Ruichen Qi, Junyi Luo, Xinting Jiang, Quan Cheng, Gregory Kielian, Ben Laurie, Dennis Sylvester, Mehdi Saligane"
+          "summary": "Constant optimization refines the numerical coefficients of candidate expressions in tree-based genetic programming for symbolic regression. But its per-generation cost has led modern GPU-accelerated frameworks to omit it or restrict it to…",
+          "authors": "Hao Mao, Xu Tony Liu, Shuai Lu, Peng Zhao, Wenzheng Jiang, Yuntian Chen"
         },
         {
-          "title": "Reinforcement learning to choose optimizers",
-          "url": "https://arxiv.org/abs/2609.01811",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "title": "Genetic Algorithms for Tractable Bayesian Network Fusion via Pre-Fusion Edge Pruning",
+          "url": "https://arxiv.org/abs/2609.03724",
+          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "No single optimization method is uniformly best for all problems, and the most suitable optimizer choice can change during a run. Existing approaches that change optimizer during execution typically predetermine part of the strategy: the…",
-          "authors": "Martin van der Schelling, Deepesh Toshniwal, Miguel A. Bessa"
+          "summary": "Bayesian Network (BN) fusion combines multiple input networks into a single structure, balancing dependency preservation with computational tractability. While unrestricted fusion retains all dependencies, it often results in overly…",
+          "authors": "Pablo Torrijos, José A. Gámez, José M. Puerta, Juan A. Aledo"
         },
         {
-          "title": "Memory as an Energy Landscape---Hopfield",
-          "url": "https://arxiv.org/abs/2609.02195",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "title": "Understanding Autonomous Driving Datasets by Describing Differences between Image Subsets in Natural Language",
+          "url": "https://arxiv.org/abs/2609.03677",
+          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This chapter reconstructs the Hopfield network as a physical theory of memory rather than merely an early neural-network algorithm. It begins with the problem as it stood before 1982-threshold logic, Hebbian association, correlation…",
-          "authors": "Nima Dehghani"
+          "summary": "Understanding the composition of large-scale autonomous driving datasets is essential for safety, robustness, and reliable operation across domains. For example, domain shift between locations could lead to the operating environment being…",
+          "authors": "Julian Truetsch, Felix Hauser, Christoph Stiller, Frank Bieder"
         },
         {
-          "title": "LLM-Driven Joint Evolution of Coupled Heuristics Components for Routing Optimization",
-          "url": "https://arxiv.org/abs/2609.02353",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "title": "Prospective Coding Improves Learning in Deep Continuous-Time Recurrent Networks",
+          "url": "https://arxiv.org/abs/2609.04134",
+          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Heuristic design for combinatorial optimization remains heavily reliant on expert knowledge, while existing large language model (LLM)-enhanced evolutionary methods typically evolve isolated algorithmic components, even when one determines…",
-          "authors": "Juntao Wei, Yangming Zhou, Zhibin Jiang, Shan Jiang"
+          "summary": "Temporal integration gives continuous-time recurrent networks memory, but in deep stacks it also delays bottom-up signals and attenuates top-down errors. We develop Recursive Quadrature Filters (RQFs), biologically motivated complex-valued…",
+          "authors": "Shivang Rawat, Mirko Morello, Flaviano Morone, David J. Heeger"
         },
         {
-          "title": "Semantics-Guided Automatic Tensorization for Multiobjective Evolutionary Algorithms: A Multi-Agent Framework",
-          "url": "https://arxiv.org/abs/2609.02387",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "title": "Axonal delay dispersion decides whether a neuron detects an event or a sequence, and predicts cortical column diameter",
+          "url": "https://arxiv.org/abs/2609.04195",
+          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Multiobjective evolutionary algorithms (MOEAs) naturally expose population-level parallelism, but many mature implementations encode their computation in sequential program structures designed for central processing units. Exploiting…",
-          "authors": "Zhenyu Liang, Beichen Huang, Bowen Zheng, Ran Cheng"
+          "summary": "Cortical neurons fire sparsely -- often fewer than one spike per sensory window -- making rate coding insufficient and temporal coding a necessity. That conduction delays convert firing order into synchrony is long established. What…",
+          "authors": "Cheng Bi, Jipeng Sun"
         },
         {
-          "title": "Model-Free Surrogate-Assisted Neural Architecture Search for Evolving Variable-Length Dense Blocks",
-          "url": "https://arxiv.org/abs/2609.02460",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "title": "MeEvo: Metacognitive Evolution Combined with Natural Evolution for Automatic Heuristic Design",
+          "url": "https://arxiv.org/abs/2606.14202",
+          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neural Architecture Search (NAS) has emerged as a powerful paradigm for automatically designing deep neural networks; however, its practical adoption is often limited by substantial computational cost. To alleviate expensive full-training…",
-          "authors": "Asif Ameer, Maryam Bashir, Irfan Younas, Muhammad Fayyaz"
+          "summary": "Large Language Models (LLMs) have advanced Automatic Heuristic Design (AHD) by enabling heuristic generation through reasoning and code synthesis. In LLM-based AHD, the LLM reasons about algorithm design and generates executable heuristic…",
+          "authors": "Zishang Qiu, Xinan Chen, Rong Qu, Ruibin Bai"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 3,
+      "itemCount": 1,
       "items": [
         {
-          "title": "Slow-Fast Brain-Computer Interfaces: Preventing Neuroadaptive Overfitting in AI-Mediated Neural Interfaces",
-          "url": "https://arxiv.org/abs/2609.01767",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
+          "title": "Detecting Interbrain Synchronization in EEG Hyperscanning with MUSE-S EEG headban",
+          "url": "https://arxiv.org/abs/2609.03404",
+          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Artificial intelligence (AI) is transforming brain-computer interfaces (BCIs) from task-specific neural decoders into adaptive systems that complete language, smooth movement, regulate rehabilitation support and adjust stimulation. These…",
-          "authors": "Aarthy Nagarajan"
-        },
-        {
-          "title": "ARFT: A Synchronized Multimodal RF-Acoustic Dataset for Positioning in Distributed Environments",
-          "url": "https://arxiv.org/abs/2609.02657",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This paper documents the acoustic-radio fusion in Techtile (ARFT) dataset, a synchronized measurement campaign for distributed wireless sensing and positioning in the Techtile testbed. Ultrasonic and radio frequency (RF) signals are…",
-          "authors": "Daan Delabie, Jarne Van Mulders, Bert Pyck, Gustav Nilsson Gisleskog, Gilles Callebaut"
-        },
-        {
-          "title": "A Dry-Contact Ear-EEG System With Continuous Electrode-Skin Impedance Mismatch Monitoring for Motion Artifact Cancellation Using DRL Stimulus",
-          "url": "https://arxiv.org/abs/2609.02777",
-          "publishedDate": "Thu, 03 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Dry-contact ear-electroencephalography (Ear-EEG) enables wearable neural monitoring. However, motion induced electrode-skin impedance (ESI) mismatches between electrodes can severely degrade signal quality. To the best of our knowledge,…",
-          "authors": "Lohan Atapattu (Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka), Sajitha Madugalle (Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka), Imasha Nethmal (Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka), Erandee Jayathilaka (Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka), Avishka Herath (Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka), Kithmin Wickremasinghe (Department of Electrical and Computer Engineering, University of British Columbia, Canada), Simon L. Kappel (Department of Electrical and Computer Engineering, Aarhus University, Denmark), Nilan Udayanga (Cirtec Medical Corporation, USA), Chamira U. S. Edussooriya (Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka)"
+          "summary": "In this study preliminary results on the classification of EEG hyperscanning data acquired using MUSE-S consumer-level EEG headband are presented. Five pairs of subjects were involved and the recording protocol contained three two-person…",
+          "authors": "Tarmo Lipping, Ahmad Sharif, Matin Beiramvand, Jari Turunen"
         }
       ]
     }
