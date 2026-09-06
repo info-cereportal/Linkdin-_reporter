@@ -1,61 +1,12 @@
 {
-  "generatedAt": "2026-09-05T00:21:47.258Z",
+  "generatedAt": "2026-09-06T00:11:23.359Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "High-Order Triadic Functional Connectivity in the Brain and Beyond",
-          "url": "https://arxiv.org/abs/2609.03987",
-          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Here, we report high-order functional network connectivity as a promising way for studying the brain connectome. Traditional functional connectivity approaches capture only pairwise relationships between brain regions, overlooking complex…",
-          "authors": "Qiang Li, Masoud Seraji, Yu-Ping Wang, Godfrey D Pearlson, Vince D Calhoun"
-        },
-        {
-          "title": "Axonal delay dispersion decides whether a neuron detects an event or a sequence, and predicts cortical column diameter",
-          "url": "https://arxiv.org/abs/2609.04195",
-          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Cortical neurons fire sparsely -- often fewer than one spike per sensory window -- making rate coding insufficient and temporal coding a necessity. That conduction delays convert firing order into synchrony is long established. What…",
-          "authors": "Cheng Bi, Jipeng Sun"
-        },
-        {
-          "title": "Tensor-based Brain Surface Modeling and Analysis",
-          "url": "https://arxiv.org/abs/2609.03302",
-          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We present a unified computational approach to tensor-based morphometry in detecting the brain surface shape differences between two clinical groups based on magnetic resonance images. Our approach is novel in a sense that we combined…",
-          "authors": "Moo K. Chung, Keith J. Worsley, Steve Robbins, Alan C. Evans"
-        },
-        {
-          "title": "Inferring Affective Consciousness in an Artificial Agent: A Case Study",
-          "url": "https://arxiv.org/abs/2609.03883",
-          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Creatures that display 'hedonic place preference behaviour' are thought by many scientists to experience feelings, on the assumption that their attraction to pleasure-producing substances which lack nutritional value (e.g. cocaine,…",
-          "authors": "Mark Solms, St John Grimbly, Bruce Bassett, Evert Boonstra, Rowan Hodson, Nicolas Kuske, Kival Mahadew, Benjamin Rosman, Charel van Hoof, Jonathan Shock"
-        },
-        {
-          "title": "Prospective Coding Improves Learning in Deep Continuous-Time Recurrent Networks",
-          "url": "https://arxiv.org/abs/2609.04134",
-          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Temporal integration gives continuous-time recurrent networks memory, but in deep stacks it also delays bottom-up signals and attenuates top-down errors. We develop Recursive Quadrature Filters (RQFs), biologically motivated complex-valued…",
-          "authors": "Shivang Rawat, Mirko Morello, Flaviano Morone, David J. Heeger"
-        },
-        {
-          "title": "Self-regulated emergence of heavy-tailed weight distributions in evolving complex network architectures",
-          "url": "https://arxiv.org/abs/2508.21445",
-          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The nervous system continuously adjusts connection strengths and reorganizes its structure to form and maintain complex connectivity patterns with heavy-tailed weight distributions. We propose a parsimonious model in which structural and…",
-          "authors": "Jia Li, Cees van Leeuwen, Roman Bauer, Ilias Rentzeperis"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -170,70 +121,61 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Efficient Constant Optimization for Symbolic Regression with GPU-Accelerated Tree-Based Genetic Programming",
-          "url": "https://arxiv.org/abs/2609.03352",
-          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Constant optimization refines the numerical coefficients of candidate expressions in tree-based genetic programming for symbolic regression. But its per-generation cost has led modern GPU-accelerated frameworks to omit it or restrict it to…",
-          "authors": "Hao Mao, Xu Tony Liu, Shuai Lu, Peng Zhao, Wenzheng Jiang, Yuntian Chen"
-        },
-        {
-          "title": "Genetic Algorithms for Tractable Bayesian Network Fusion via Pre-Fusion Edge Pruning",
-          "url": "https://arxiv.org/abs/2609.03724",
-          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Bayesian Network (BN) fusion combines multiple input networks into a single structure, balancing dependency preservation with computational tractability. While unrestricted fusion retains all dependencies, it often results in overly…",
-          "authors": "Pablo Torrijos, José A. Gámez, José M. Puerta, Juan A. Aledo"
-        },
-        {
-          "title": "Understanding Autonomous Driving Datasets by Describing Differences between Image Subsets in Natural Language",
-          "url": "https://arxiv.org/abs/2609.03677",
-          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Understanding the composition of large-scale autonomous driving datasets is essential for safety, robustness, and reliable operation across domains. For example, domain shift between locations could lead to the operating environment being…",
-          "authors": "Julian Truetsch, Felix Hauser, Christoph Stiller, Frank Bieder"
-        },
-        {
-          "title": "Prospective Coding Improves Learning in Deep Continuous-Time Recurrent Networks",
-          "url": "https://arxiv.org/abs/2609.04134",
-          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Temporal integration gives continuous-time recurrent networks memory, but in deep stacks it also delays bottom-up signals and attenuates top-down errors. We develop Recursive Quadrature Filters (RQFs), biologically motivated complex-valued…",
-          "authors": "Shivang Rawat, Mirko Morello, Flaviano Morone, David J. Heeger"
-        },
-        {
-          "title": "Axonal delay dispersion decides whether a neuron detects an event or a sequence, and predicts cortical column diameter",
-          "url": "https://arxiv.org/abs/2609.04195",
-          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Cortical neurons fire sparsely -- often fewer than one spike per sensory window -- making rate coding insufficient and temporal coding a necessity. That conduction delays convert firing order into synchrony is long established. What…",
-          "authors": "Cheng Bi, Jipeng Sun"
-        },
-        {
-          "title": "MeEvo: Metacognitive Evolution Combined with Natural Evolution for Automatic Heuristic Design",
-          "url": "https://arxiv.org/abs/2606.14202",
-          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Large Language Models (LLMs) have advanced Automatic Heuristic Design (AHD) by enabling heuristic generation through reasoning and code synthesis. In LLM-based AHD, the LLM reasons about algorithm design and generates executable heuristic…",
-          "authors": "Zishang Qiu, Xinan Chen, Rong Qu, Ruibin Bai"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 1,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Detecting Interbrain Synchronization in EEG Hyperscanning with MUSE-S EEG headban",
-          "url": "https://arxiv.org/abs/2609.03404",
-          "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "In this study preliminary results on the classification of EEG hyperscanning data acquired using MUSE-S consumer-level EEG headband are presented. Five pairs of subjects were involved and the recording protocol contained three two-person…",
-          "authors": "Tarmo Lipping, Ahmad Sharif, Matin Beiramvand, Jari Turunen"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
+        },
+        {
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }

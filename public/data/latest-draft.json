@@ -1,26 +1,22 @@
 {
-  "generatedAt": "2026-09-05T00:21:46.681Z",
-  "date": "2026-09-05",
-  "topic": "コネクトーム",
-  "templateName": "three-insights",
+  "generatedAt": "2026-09-06T00:11:22.210Z",
+  "date": "2026-09-06",
+  "topic": "神経デコーディング",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "High-Order Triadic Functional Connectivity in the Brain and Beyond",
-  "paperLink": "https://arxiv.org/abs/2609.03987",
-  "figureUrl": "https://arxiv.org/html/2609.03987/2609.03987v1/pr0.jpg",
-  "formatted": "これを読んで、脳に対する見方が変わりました。\n\nこの研究から得られる3つの重要な示唆。\n\nコネクトームの最新成果を整理しました。\n\n🔬 コネクトーム\n\n> Here, we report high-order functional network connectivity as a promising way for studying the brain connectome. Traditional functional connectivity approaches capture only pairwise relationships between brain regions, overlooking complex multivariate dependencies that underlie...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nコネクトミクス・回路解析の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 High-Order Triadic Functional Connectivity in the Brain and Beyond\n🔗 https://arxiv.org/abs/2609.03987\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #NeuralDecoding",
-  "summaryJP": "コネクトーム — 注目すべき3つの示唆（コネクトミクス・回路解析）",
-  "paperAuthors": "Qiang Li, Masoud Seraji, Yu-Ping Wang, Godfrey D Pearlson, Vince D Calhoun",
-  "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-  "paperId": "2609.03987",
-  "paperSource": "arxiv",
-  "themeArea": "コネクトミクス・回路解析",
+  "paperTitle": "Late cross-modal biases in neural spatial representations revealed by EEG decoding.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42697719/",
+  "formatted": "これを読んで、脳に対する見方が変わりました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n神経デコーディングの最新研究です。\n\n🔬 EEG × 神経デコーディング\n\n📊 注目すべきデータ：\n→ Neural decoding revealed robust spatial representations for both modalities, with early unisensory encoding remaining unaffected by cross-modal input.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Late cross-modal biases in neural spatial representations revealed by EEG decoding.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42697719/\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #計算論的神経科学",
+  "summaryJP": "神経デコーディング — 次世代へ続く布石（神経デコーディング）",
+  "paperAuthors": "Zak Buhmann, Amanda K Robinson, Jason B Mattingley, Reuben Rideaux",
+  "publishedDate": "2026-09-04",
+  "paperId": "42697719",
+  "paperSource": "pubmed",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "コネクトーム"
+    "EEG",
+    "神経デコーディング"
   ],
-  "abstractExcerpt": "Here, we report high-order functional network connectivity as a promising way for studying the brain connectome. Traditional functional connectivity approaches capture only pairwise relationships between brain regions, overlooking complex…",
-  "figureUrls": [
-    "https://arxiv.org/html/2609.03987/2609.03987v1/pr0.jpg",
-    "https://arxiv.org/html/2609.03987/2609.03987v1/pr6.jpg",
-    "https://arxiv.org/html/2609.03987/2609.03987v1/pr1.jpg"
-  ]
+  "abstractExcerpt": "During audiovisual perception, spatial information from vision and audition is combined, often producing biases such as the ventriloquist effect. While these interactions are well documented behaviourally, it remains unclear when…",
+  "figureUrls": []
 }

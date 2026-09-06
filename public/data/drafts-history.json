@@ -1,5 +1,27 @@
 [
   {
+    "generatedAt": "2026-09-06T00:11:22.210Z",
+    "date": "2026-09-06",
+    "topic": "神経デコーディング",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Late cross-modal biases in neural spatial representations revealed by EEG decoding.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42697719/",
+    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n神経デコーディングの最新研究です。\n\n🔬 EEG × 神経デコーディング\n\n📊 注目すべきデータ：\n→ Neural decoding revealed robust spatial representations for both modalities, with early unisensory encoding remaining unaffected by cross-modal input.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Late cross-modal biases in neural spatial representations revealed by EEG decoding.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42697719/\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #計算論的神経科学",
+    "summaryJP": "神経デコーディング — 次世代へ続く布石（神経デコーディング）",
+    "paperAuthors": "Zak Buhmann, Amanda K Robinson, Jason B Mattingley, Reuben Rideaux",
+    "publishedDate": "2026-09-04",
+    "paperId": "42697719",
+    "paperSource": "pubmed",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "EEG",
+      "神経デコーディング"
+    ],
+    "abstractExcerpt": "During audiovisual perception, spatial information from vision and audition is combined, often producing biases such as the ventriloquist effect. While these interactions are well documented behaviourally, it remains unclear when…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-09-05T00:21:46.681Z",
     "date": "2026-09-05",
     "topic": "コネクトーム",
@@ -1255,28 +1277,6 @@
       "fMRI"
     ],
     "abstractExcerpt": "Anorexia Nervosa (AN) has been linked to altered self-regulatory control processes and maladaptive habitual avoidance behavior. Both goal-directed and habit systems may be relevant to AN, in which restrictive eating behavior can appear…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-07-17T23:31:03.126Z",
-    "date": "2026-07-17",
-    "topic": "クローズドループ制御と注意機構",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "A modular state-space model of human perception, cognition, and decision dynamics",
-    "paperLink": "https://arxiv.org/abs/2607.14078",
-    "formatted": "クローズドループ制御と注意機構に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 クローズドループ制御 × 注意機構\n\n> Human-centered adaptive systems require behavioral models that are both psychologically interpretable and mathematically analyzable. Many existing predictors either operate as black-box input-output mappings or provide limited access to latent internal dynamics.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nBCI・ニューラルインターフェースの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 A modular state-space model of human perception, cognition, and decision dynamics\n🔗 https://arxiv.org/abs/2607.14078\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #BCI",
-    "summaryJP": "クローズドループ制御と注意機構 — 通説を揺さぶる新たな知見（BCI・ニューラルインターフェース）",
-    "paperAuthors": "Sven Schoonebeek, Carlo Cenedese, Anahita Jamshidnejad",
-    "publishedDate": "Fri, 17 Jul 2026 00:00:00 -0400",
-    "paperId": "2607.14078",
-    "paperSource": "arxiv",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "クローズドループ制御",
-      "注意機構"
-    ],
-    "abstractExcerpt": "Human-centered adaptive systems require behavioral models that are both psychologically interpretable and mathematically analyzable. Many existing predictors either operate as black-box input-output mappings or provide limited access to…",
     "figureUrls": []
   }
 ]
