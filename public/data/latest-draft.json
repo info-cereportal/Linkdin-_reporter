@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-06T00:11:22.210Z",
-  "date": "2026-09-06",
-  "topic": "神経デコーディング",
-  "templateName": "future-vision",
+  "generatedAt": "2026-09-07T00:18:47.374Z",
+  "date": "2026-09-07",
+  "topic": "学習と深層学習",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Late cross-modal biases in neural spatial representations revealed by EEG decoding.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42697719/",
-  "formatted": "これを読んで、脳に対する見方が変わりました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n神経デコーディングの最新研究です。\n\n🔬 EEG × 神経デコーディング\n\n📊 注目すべきデータ：\n→ Neural decoding revealed robust spatial representations for both modalities, with early unisensory encoding remaining unaffected by cross-modal input.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Late cross-modal biases in neural spatial representations revealed by EEG decoding.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42697719/\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #計算論的神経科学",
-  "summaryJP": "神経デコーディング — 次世代へ続く布石（神経デコーディング）",
-  "paperAuthors": "Zak Buhmann, Amanda K Robinson, Jason B Mattingley, Reuben Rideaux",
-  "publishedDate": "2026-09-04",
-  "paperId": "42697719",
+  "paperTitle": "Quantitative generation of diffusion-weighted imaging from non-contrast CT in acute ischemic stroke: a multi-scanner deep-learning model with external validation.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42701528/",
+  "formatted": "これを読んで、脳に対する見方が変わりました。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習と深層学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習 × 深層学習\n\n> Acute ischemic stroke (AIS) is a leading cause of death and disability worldwide, where early diagnosis and treatment are crucial for effective management. Computed tomography (CT), particularly non-contrast CT, is widely used due to its speed and low cost; however, it has...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Quantitative generation of diffusion-weighted imaging from non-contrast CT in acute ischemic stroke: a multi-scanner deep-learning model with external validation.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42701528/\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #DeepLearning",
+  "summaryJP": "学習と深層学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+  "paperAuthors": "Zhihua Li, Mifang Li, Zixiang Chen, Yuxi Jin, Zhanli Hu, Wenmin Wang",
+  "publishedDate": "2026-09-06",
+  "paperId": "42701528",
   "paperSource": "pubmed",
-  "themeArea": "神経デコーディング",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "EEG",
-    "神経デコーディング"
+    "学習",
+    "深層学習"
   ],
-  "abstractExcerpt": "During audiovisual perception, spatial information from vision and audition is combined, often producing biases such as the ventriloquist effect. While these interactions are well documented behaviourally, it remains unclear when…",
+  "abstractExcerpt": "Acute ischemic stroke (AIS) is a leading cause of death and disability worldwide, where early diagnosis and treatment are crucial for effective management. Computed tomography (CT), particularly non-contrast CT, is widely used due to its…",
   "figureUrls": []
 }

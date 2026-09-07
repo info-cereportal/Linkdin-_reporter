@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T00:11:23.359Z",
+  "generatedAt": "2026-09-07T00:18:48.206Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -13,6 +13,14 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Not so fast: Diabetes association panel not done reviewing ejections from its June meeting",
+          "url": "https://www.statnews.com/2026/09/06/ada-diabetes-association-ejection-conference-review-not-final/?utm_campaign=rss",
+          "publishedDate": "Sun, 06 Sep 2026 23:07:31 +0000",
+          "source": "statnews.com",
+          "summary": "The American Diabetes Association “continues to move from crisis to crisis to crisis,” says one of five members ejected from June conference.",
+          "authors": "Elizabeth Cooney"
+        },
         {
           "title": "Disabled workers at greater risk of losing health insurance",
           "url": "https://www.statnews.com/2026/09/04/health-news-disabled-workers-at-greater-risk-of-losing-insurance/?utm_campaign=rss",
@@ -52,14 +60,6 @@
           "source": "statnews.com",
           "summary": "Anthony Fauci is working on a book, we unpack Trump's latest drug pricing deals, and more from STAT's D.C. Diagnosis newsletter.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "HHS flip-flops on disability lawsuit",
-          "url": "https://www.statnews.com/2026/09/03/health-news-hhs-flip-flops-on-disability-lawsuit-community-integration/?utm_campaign=rss",
-          "publishedDate": "Thu, 03 Sep 2026 13:21:58 +0000",
-          "source": "statnews.com",
-          "summary": "Drug overdose deaths decreasing, a path to patients for AI devices, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
         }
       ]
     },
@@ -69,51 +69,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Stanford scientists discover a seafood that can reverse signs of aging",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
-          "publishedDate": "Fri, 04 Sep 2026 08:29:06 EDT",
+          "title": "Popular brain supplement linked to shorter lifespan in men",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
+          "publishedDate": "Sun, 06 Sep 2026 17:21:25 EDT",
           "source": "sciencedaily.com",
-          "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the…",
+          "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could…",
           "authors": ""
         },
         {
-          "title": "A longer exhale may push your brain toward bolder decisions",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
-          "publishedDate": "Fri, 04 Sep 2026 07:33:12 EDT",
+          "title": "Scientists find breast cancer cells hiding behind protective “shields”",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000326.htm",
+          "publishedDate": "Sun, 06 Sep 2026 16:43:10 EDT",
           "source": "sciencedaily.com",
-          "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can…",
+          "summary": "Researchers have mapped breast tumors in striking detail and uncovered hidden pockets of dormant cancer cells that may help explain why cancer can return after treatment. Unlike rapidly dividing cells, these quiet cells can essentially…",
           "authors": ""
         },
         {
-          "title": "Scientists reveal the hidden instructions that build the human brain",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
-          "publishedDate": "Fri, 04 Sep 2026 02:04:06 EDT",
+          "title": "This lifestyle program improved cognition 55% more than basic health advice",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260903064246.htm",
+          "publishedDate": "Sun, 06 Sep 2026 13:07:44 EDT",
           "source": "sciencedaily.com",
-          "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they…",
+          "summary": "Older adults at risk of dementia improved their memory and thinking after following lifestyle programs combining exercise, healthy eating, cognitive training, and social engagement. Those who received regular coaching and structured…",
           "authors": ""
         },
         {
-          "title": "New injectable treatment helps the brain rebuild after stroke",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm",
-          "publishedDate": "Thu, 03 Sep 2026 23:59:21 EDT",
+          "title": "Scientists discover a hidden problem with this popular sugar substitute",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm",
+          "publishedDate": "Sun, 06 Sep 2026 11:44:48 EDT",
           "source": "sciencedaily.com",
-          "summary": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the body’s own immune…",
+          "summary": "Sorbitol, a sugar alcohol commonly used in sugar-free candy, gum, and other low-calorie foods, may not be as harmless as it seems. Researchers at Washington University in St. Louis found that the body can convert sorbitol into a form of…",
           "authors": ""
         },
         {
-          "title": "STAT+: Fauci speaks, and writes",
-          "url": "https://www.statnews.com/2026/09/03/anthony-fauci-vaccine-skeptics-book-trump-drug-pricing-deals-medicaid/?utm_campaign=rss",
-          "publishedDate": "Thu, 03 Sep 2026 14:11:34 +0000",
-          "source": "statnews.com",
-          "summary": "Anthony Fauci is working on a book, we unpack Trump's latest drug pricing deals, and more from STAT's D.C. Diagnosis newsletter.",
-          "authors": "John Wilkerson"
+          "title": "Scientists find a weak spot in one of the deadliest brain cancers",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm",
+          "publishedDate": "Sun, 06 Sep 2026 02:58:29 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers may have found a new way to weaken glioblastoma’s defenses against treatment. Blocking a protein called SET prevented tumors from forming in preclinical models, while targeting related proteins made cancer cells more vulnerable…",
+          "authors": ""
         },
         {
-          "title": "Bats carry dangerous viruses without getting sick. This may be why",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm",
-          "publishedDate": "Thu, 03 Sep 2026 07:56:01 EDT",
+          "title": "Heart disease and kidney disease can fuel each other. New guidelines aim to break the cycle",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260902234447.htm",
+          "publishedDate": "Sat, 05 Sep 2026 20:23:08 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists discovered that more than 500 species of vesper bats possess two separate sets of antibody genes, an immune arrangement never before found in mammals. The surprising system could help explain how bats tolerate so many viruses…",
+          "summary": "Heart disease and chronic kidney disease can accelerate one another, but new guidelines say simple screening and early treatment could substantially reduce the risks. Blood and urine tests, combined with proven heart and kidney therapies,…",
           "authors": ""
         }
       ]

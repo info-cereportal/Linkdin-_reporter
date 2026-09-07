@@ -1,5 +1,27 @@
 [
   {
+    "generatedAt": "2026-09-07T00:18:47.374Z",
+    "date": "2026-09-07",
+    "topic": "学習と深層学習",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Quantitative generation of diffusion-weighted imaging from non-contrast CT in acute ischemic stroke: a multi-scanner deep-learning model with external validation.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42701528/",
+    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習と深層学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習 × 深層学習\n\n> Acute ischemic stroke (AIS) is a leading cause of death and disability worldwide, where early diagnosis and treatment are crucial for effective management. Computed tomography (CT), particularly non-contrast CT, is widely used due to its speed and low cost; however, it has...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Quantitative generation of diffusion-weighted imaging from non-contrast CT in acute ischemic stroke: a multi-scanner deep-learning model with external validation.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42701528/\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #DeepLearning",
+    "summaryJP": "学習と深層学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+    "paperAuthors": "Zhihua Li, Mifang Li, Zixiang Chen, Yuxi Jin, Zhanli Hu, Wenmin Wang",
+    "publishedDate": "2026-09-06",
+    "paperId": "42701528",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "学習",
+      "深層学習"
+    ],
+    "abstractExcerpt": "Acute ischemic stroke (AIS) is a leading cause of death and disability worldwide, where early diagnosis and treatment are crucial for effective management. Computed tomography (CT), particularly non-contrast CT, is widely used due to its…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-09-06T00:11:22.210Z",
     "date": "2026-09-06",
     "topic": "神経デコーディング",
@@ -1255,28 +1277,6 @@
       "意思決定"
     ],
     "abstractExcerpt": "Automated rice seed vigor classification provides a non-invasive and scalable solution for improving agricultural decision-making. This study proposed an image-based framework to compare traditional machine learning and deep learning…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-07-18T23:33:14.211Z",
-    "date": "2026-07-18",
-    "topic": "学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Avoidance habit learning after recovery from anorexia nervosa: An fMRI study.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42469174/",
-    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習 × fMRI\n\n> Anorexia Nervosa (AN) has been linked to altered self-regulatory control processes and maladaptive habitual avoidance behavior. Both goal-directed and habit systems may be relevant to AN, in which restrictive eating behavior can appear highly deliberate and increasingly...\n\nなぜこの数字が重要か。\n\n脳情報科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Avoidance habit learning after recovery from anorexia nervosa: An fMRI study.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42469174/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #ニューロテック",
-    "summaryJP": "学習 — 数値で示された新事実",
-    "paperAuthors": "Clara M Breier, Julius Hennig, Joseph A King, Daniel Geisler, Arne Doose, Ilka Boehm",
-    "publishedDate": "2026-07-17",
-    "paperId": "42469174",
-    "paperSource": "pubmed",
-    "themeArea": "脳情報科学",
-    "jpKeywords": [
-      "学習",
-      "fMRI"
-    ],
-    "abstractExcerpt": "Anorexia Nervosa (AN) has been linked to altered self-regulatory control processes and maladaptive habitual avoidance behavior. Both goal-directed and habit systems may be relevant to AN, in which restrictive eating behavior can appear…",
     "figureUrls": []
   }
 ]
