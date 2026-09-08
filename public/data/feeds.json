@@ -1,12 +1,21 @@
 {
-  "generatedAt": "2026-09-07T00:18:48.206Z",
+  "generatedAt": "2026-09-08T00:39:21.030Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 1,
+      "items": [
+        {
+          "title": "A Roadmap for MEG Foundation Models",
+          "url": "https://arxiv.org/abs/2609.04461",
+          "publishedDate": "Mon, 07 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Foundation models are beginning to reshape brain-signal analysis by moving the field beyond task-specific decoding pipelines toward reusable models pretrained on broad neural datasets. Magnetoencephalography (MEG) is a compelling but still…",
+          "authors": "Philipp Thölke, Hamza Abdelhedi, Yorguin Mantilla-Ramos, Fouad Lbakali, Oumayma Gharbi, Catherine Duclos, Annalisa Pascarella, Vanessa Hadid, Oiwi Parker Jones, Karim Jerbi"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -121,61 +130,70 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Large Language Models with At Most One Spike per Neuron",
+          "url": "https://arxiv.org/abs/2609.05151",
+          "publishedDate": "Mon, 07 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Leveraging their inherent sparse event-driven computation, spiking neural networks (SNNs) offer a promising path toward energy-efficient large language models (LLMs). Time-to-first-spike (TTFS) coding generates at most one spike per neuron…",
+          "authors": "Zhuoya Zhao, Parsa Omidi, Aref Jafari, Richard Naud"
+        },
+        {
+          "title": "What Makes a Redundant Representation Remember? Lineage Isolation, Not Masking",
+          "url": "https://arxiv.org/abs/2609.05304",
+          "publishedDate": "Mon, 07 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Memory-based evolutionary algorithms for dynamic optimization often carry a redundant second copy of the genotype and expose only one copy to the objective, on the assumption that the shielded copy accumulates information about past…",
+          "authors": "Jia Huang, Yangjun Ou"
+        },
+        {
+          "title": "Towards Efficient Evaluation of Evolutionary Transfer Optimization: Case Studies on Task-Parameterized Applications",
+          "url": "https://arxiv.org/abs/2609.05040",
+          "publishedDate": "Mon, 07 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "As evolutionary transfer optimization (ETO) scales to larger collections of related tasks, problem evaluation can become a major source of runtime growth. This work studies problem-side evaluation scaling in task-parameterized applications…",
+          "authors": "Yanchen Li, Xiaoming Xue, Kay Chen Tan"
+        },
+        {
+          "title": "Quality-diversity in dissimilarity spaces",
+          "url": "https://arxiv.org/abs/2211.12337",
+          "publishedDate": "Mon, 07 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The theory of magnitude provides a mathematical framework for quantifying and maximizing diversity. We apply this framework to formulate quality-diversity algorithms in generic dissimilarity spaces. In particular, we instantiate and…",
+          "authors": "Steve Huntsman"
+        },
+        {
+          "title": "Small Molecule Optimization with Large Language Models",
+          "url": "https://arxiv.org/abs/2407.18897",
+          "publishedDate": "Mon, 07 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Molecular optimization, the process of designing molecules with desirable properties, represents a critical challenge in drug discovery. Recent advancements in large language models (LLMs) have opened new opportunities for their…",
+          "authors": "Philipp Guevorguian, Menua Bedrosian, Tigran Fahradyan, Gayane Chilingaryan, Armen Aghajanyan, Hrant Khachatrian"
+        },
+        {
+          "title": "OR-Agent: Bridging Evolutionary Search and Structured Research for Automated Heuristic Design",
+          "url": "https://arxiv.org/abs/2602.13769",
+          "publishedDate": "Mon, 07 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Automating heuristic design in complex, experiment-driven domains requires more than iterative mutation of solution algorithms. Current LLM-based evolutionary methods often rely on stochastic mutation loops that lack long-term strategic…",
+          "authors": "Qi Liu, Ruochen Hao, Can Li, Wanjing Ma"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 1,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
-        },
-        {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "Emotion Recognition from Physiological Signals Using Machine Learning Algorithms Under Controlled Emotional Stimuli",
+          "url": "https://arxiv.org/abs/2609.05256",
+          "publishedDate": "Mon, 07 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Emotion recognition using physiological signals plays a crucial role in well-being analysis, affective computing and human-computer interaction. This study investigates the performance of multiple machine learning models in classifying…",
+          "authors": "Aditi Site, Annariina Lohiranta, Tarmo Lipping"
         }
       ]
     }
