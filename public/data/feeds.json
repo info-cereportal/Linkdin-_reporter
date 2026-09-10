@@ -1,18 +1,83 @@
 {
-  "generatedAt": "2026-09-09T00:33:28.288Z",
+  "generatedAt": "2026-09-10T00:33:09.271Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Determinants of hyperparameter robustness in connectome reservoir computing",
+          "url": "https://arxiv.org/abs/2609.07355",
+          "publishedDate": "Wed, 09 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Reservoir computing provides a controlled setting for studying how recurrent network architectureshapes computation: input signals are projected into a high-dimensional state space by a fixed nonlinear dynamical system, and only the…",
+          "authors": "Miles Walter Churchland, Raul de Palma Aristides, Jordi Garcia-Ojalvo, Anna Ritz, Greg Anderson, Miguel C. Soriano"
+        },
+        {
+          "title": "Homeostasis Revisited and Reformulated Through Hidden Markov Model Control",
+          "url": "https://arxiv.org/abs/2609.07508",
+          "publishedDate": "Wed, 09 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "A common formalization of homeostasis is the free energy principle, a framework that defines a set of desired observation values, or critical states, that the agent should reach or remain close to. Under the free energy principle, an agent…",
+          "authors": "Rubén Moreno-Bote"
+        },
+        {
+          "title": "Fisher Information Metric as a model-free measure of proximity to criticality in neural systems",
+          "url": "https://arxiv.org/abs/2609.07624",
+          "publishedDate": "Wed, 09 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Critical phenomena are widespread across many disciplines and have recently become a topic of deep interest in the study of biological and artificial neural networks. A distinct signature of criticality is the emergence of avalanches with…",
+          "authors": "Yuewei Du, Alberto Liardi, Hardik Rajpal, Henrik Jeldtoft Jensen"
+        },
+        {
+          "title": "Fisher-Rao Distance Detects Shifts in Kinematic Profiles under Cognitive Load",
+          "url": "https://arxiv.org/abs/2609.07696",
+          "publishedDate": "Wed, 09 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Motor control research involves the study of movement kinematics derived from the positional trajectories that complex motions describe. In natural, unconstrained motions requiring cognitive and memory processes in real time, the temporal…",
+          "authors": "Joseph Vero, Elizabeth B Torres"
+        },
+        {
+          "title": "An Evidence-Aware Framework for EEG Microstate Analysis: Improved Sensitivity to Alzheimer's Disease and Ageing",
+          "url": "https://arxiv.org/abs/2609.08500",
+          "publishedDate": "Wed, 09 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Electroencephalography (EEG) microstate analysis commonly converts each scalp topography into a winner-take-all hard label and summarises the resulting sequence using duration, occurrence, coverage, transitions, and symbolic complexity.…",
+          "authors": "Kaidong Wu, Haili Ye, Ptolemaios G Sarrigiannis, Daniel J Blackburn, Fei He"
+        },
+        {
+          "title": "Hi-M imaging of chromatin architecture in adult Drosophila brain cryosections",
+          "url": "https://arxiv.org/abs/2609.08776",
+          "publishedDate": "Wed, 09 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Hi-M combines fluorescence in situ hybridization (FISH), automated microfluidics, sequential imaging, and computational chromatin tracing to measure the three-dimensional organization of selected genomic regions in single cells. This…",
+          "authors": "Christel Elkhoury Youhanna (CBS), Julie Garona (CBS), Marie Schaeffer (CBS), Christophe Houbron (CBS), Jean-Bernard Fiche (CBS), Olivier Messina (CBS), Marcelo Nollmann (CBS)"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak",
+          "url": "https://www.statnews.com/2026/09/09/coroner-details-infant-deaths-pennsylvania-measles-outbreak/?utm_campaign=rss",
+          "publishedDate": "Wed, 09 Sep 2026 21:44:07 +0000",
+          "source": "statnews.com",
+          "summary": "The two measles-related deaths in Pennsylvania last month involved infants, and the virus itself caused one of the deaths, a Pennsylvania coroner confirmed Wednesday.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "Telemedicine company offers GLP-1s for addiction",
+          "url": "https://www.statnews.com/2026/09/09/health-news-telemedicine-company-offers-glp-1s-for-addiction/?utm_campaign=rss",
+          "publishedDate": "Wed, 09 Sep 2026 11:53:36 +0000",
+          "source": "statnews.com",
+          "summary": "A CDC Covid restructuring, public trust in Fauci, and more health news from Morning Rounds",
+          "authors": "Theresa Gaffney and Helen Branswell"
+        },
         {
           "title": "STAT+: Health care features prominently in Democrats’ agenda",
           "url": "https://www.statnews.com/2026/09/08/democrats-agenda-midterms-health-care-medicaid-cuts-aca-subsidies/?utm_campaign=rss",
@@ -30,14 +95,6 @@
           "authors": "Theresa Gaffney"
         },
         {
-          "title": "A breakthrough pancreatic cancer drug won approval. They still struggle to access it",
-          "url": "https://www.statnews.com/2026/09/08/pancreatic-cancer-patients-caught-beween-fda-drug-approval-insurance-coverage/?utm_campaign=rss",
-          "publishedDate": "Tue, 08 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "When the FDA approved a new pancreatic cancer drug called Rasonque, researchers celebrated. But some patients hoping for quick access have been stymied.",
-          "authors": "Angus Chen"
-        },
-        {
           "title": "Reynolds is selling fruity new vapes unauthorized by FDA",
           "url": "https://www.statnews.com/2026/09/08/fda-guidance-reynolds-selling-fruity-new-vapes-unauthorized/?utm_campaign=rss",
           "publishedDate": "Tue, 08 Sep 2026 08:30:00 +0000",
@@ -46,20 +103,12 @@
           "authors": "Sarah Todd"
         },
         {
-          "title": "STAT+: Not so fast: Diabetes association panel not done reviewing ejections from its June meeting",
-          "url": "https://www.statnews.com/2026/09/06/ada-diabetes-association-ejection-conference-review-not-final/?utm_campaign=rss",
-          "publishedDate": "Sun, 06 Sep 2026 23:07:31 +0000",
+          "title": "A breakthrough pancreatic cancer drug won approval. They still struggle to access it",
+          "url": "https://www.statnews.com/2026/09/08/pancreatic-cancer-patients-caught-beween-fda-drug-approval-insurance-coverage/?utm_campaign=rss",
+          "publishedDate": "Tue, 08 Sep 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "The American Diabetes Association “continues to move from crisis to crisis to crisis,” says one of five members ejected from June conference.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "Disabled workers at greater risk of losing health insurance",
-          "url": "https://www.statnews.com/2026/09/04/health-news-disabled-workers-at-greater-risk-of-losing-insurance/?utm_campaign=rss",
-          "publishedDate": "Fri, 04 Sep 2026 13:08:15 +0000",
-          "source": "statnews.com",
-          "summary": "An organ transplant first, new details on ADA conference controversy, and more health news from Morning Rounds",
-          "authors": "O. Rose Broderick"
+          "summary": "When the FDA approved a new pancreatic cancer drug called Rasonque, researchers celebrated. But some patients hoping for quick access have been stymied.",
+          "authors": "Angus Chen"
         }
       ]
     },
@@ -68,6 +117,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Scientists find a bone-building switch that could fight osteoporosis",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
+          "publishedDate": "Wed, 09 Sep 2026 09:52:53 EDT",
+          "source": "sciencedaily.com",
+          "summary": "An experimental compound called AP503 significantly strengthened bones in mice by activating GPR133, a receptor that boosts bone formation while slowing bone loss. Because the same treatment has also been linked to stronger muscles,…",
+          "authors": ""
+        },
+        {
+          "title": "Ozempic and Wegovy linked to nearly 40% fewer asthma attacks",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260909005155.htm",
+          "publishedDate": "Wed, 09 Sep 2026 09:06:53 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Semaglutide, the drug found in Ozempic and Wegovy, was linked to nearly 40% fewer asthma attacks in a large real-world study. It was also associated with about 20% fewer COPD flare-ups. Researchers say GLP-1 drugs may offer respiratory…",
+          "authors": ""
+        },
+        {
+          "title": "Caffeine may flip an ancient cellular switch linked to slower aging",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
+          "publishedDate": "Tue, 08 Sep 2026 20:28:13 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists found that caffeine activates an ancient cellular energy system involved in stress resistance, DNA repair, and growth. The discovery could help explain caffeine’s links to healthier aging and may point toward new ways to target…",
+          "authors": ""
+        },
         {
           "title": "STAT+: FDA names acting heads of drug and vaccine centers to permanent roles",
           "url": "https://www.statnews.com/2026/09/08/fda-names-leaders-cder-cber-michael-davis-karim-mikhail/?utm_campaign=rss",
@@ -91,93 +164,70 @@
           "source": "statnews.com",
           "summary": "Democrats are sharpening their health care plans as the midterm elections near.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
-          "publishedDate": "Tue, 08 Sep 2026 09:54:56 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than…",
-          "authors": ""
-        },
-        {
-          "title": "Your personality may be more genetic than scientists realized",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260907201554.htm",
-          "publishedDate": "Tue, 08 Sep 2026 09:40:34 EDT",
-          "source": "sciencedaily.com",
-          "summary": "More than 1,200 genetic variants have been linked to the Big Five personality traits, and many of the same variants are also associated with health, longevity, careers, income, and everyday habits. The findings reveal a surprisingly wide…",
-          "authors": ""
-        },
-        {
-          "title": "Ozempic and Wegovy may have an unexpected mental health benefit",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm",
-          "publishedDate": "Tue, 08 Sep 2026 08:59:00 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Semaglutide, the drug behind Ozempic and Wegovy, may have benefits that extend well beyond weight loss and diabetes. In a large Swedish study of nearly 15,000 people with bipolar disorder, its use was linked to a 21% lower risk of…",
-          "authors": ""
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Optimizing Train Driving to Minimize the Electricity Cost of an Entire Railway Traffic Mesh using Evolutionary Algorithms",
+          "url": "https://arxiv.org/abs/2609.05493",
+          "publishedDate": "Wed, 09 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "This paper presents a procedure to optimize the way trains are driven, which pursues, in addition to fulfilling operational constraints such as admissible speeds or journey durations, the minimization of the cost related to supplying…",
+          "authors": "Eduardo Pilo de la Fuente, Sudip K. Mazumder, Maria Antonia Simon"
+        },
+        {
+          "title": "Programmable Cellular Automata",
+          "url": "https://arxiv.org/abs/2609.06102",
+          "publishedDate": "Wed, 09 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Cellular automata is a local computation paradigm where complex behavior can arise from local interactions between simple functions. This paradigm has been used to explain many systems such as biological processes, traffic simulation,…",
+          "authors": "Ahmed Khalifa, Muhammad Umair Nasir, Matthew Siper, Steve James, Julian Togelius"
+        },
+        {
+          "title": "Photonic reservoir computing with dimensionally compressed readout",
+          "url": "https://arxiv.org/abs/2609.07418",
+          "publishedDate": "Wed, 09 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "This work addresses a hardware constraint in reservoir computing: the limited size of the readout layer imposed by systems with a physical readout. We investigate a strategy to accommodate this constraint based on random projection, which…",
+          "authors": "Gerald Kobi, Mohab Abdalla, Miguel C. Soriano, Damien Rontani"
+        },
+        {
+          "title": "A Gradient-based yet Spike-Timing-Dependent Solution to the Feedback Learning Problem in Neural Microcircuits",
+          "url": "https://arxiv.org/abs/2609.08070",
+          "publishedDate": "Wed, 09 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The brain uses discrete spikes for dynamic computation, yet, how neural microcircuits (NMCs) solve temporal credit assignment using local spike timing remains a fundamental open question. Dominant spiking neural network (SNN) approaches…",
+          "authors": "Xiangnan Zhang, Jingxin Liu, Ranqi Lu, Jingyu Liu, Qunxi Dong, Fuze Tian, Lixian Zhu, Bin Hu, Björn W. Schuller"
+        },
+        {
+          "title": "A Heterogeneous General Model for Neuromorphic-Inspired Computation",
+          "url": "https://arxiv.org/abs/2609.05482",
+          "publishedDate": "Wed, 09 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "In recent years, both academia and industry have focused on the development of computational architectures inspired by the distributed, adaptive, and event-driven characteristics of biological neural systems, with the aim of reducing the…",
+          "authors": "Matteo Mirigliano"
+        },
+        {
+          "title": "Diffusion models for eye-gaze trajectory generation using position and velocity representations",
+          "url": "https://arxiv.org/abs/2609.05522",
+          "publishedDate": "Wed, 09 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Eye-tracking data are expensive to collect, requiring specialized hardware and controlled laboratory conditions, and difficult to share because of privacy constraints. We address this using two complementary denoising diffusion…",
+          "authors": "Laxman Basnet, Alexander Szorkovszky, Pedro G. Lind, Anis Yazidi, Shailendra Bhandari"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
-        },
-        {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
-        }
-      ]
+      "itemCount": 0,
+      "error": "no BCI-keyword match in fetched feed",
+      "items": []
     }
   }
 }
