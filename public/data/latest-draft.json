@@ -1,28 +1,27 @@
 {
-  "generatedAt": "2026-09-10T00:33:08.059Z",
-  "date": "2026-09-10",
-  "topic": "言語処理と情動",
-  "templateName": "data-driven",
+  "generatedAt": "2026-09-11T00:30:20.562Z",
+  "date": "2026-09-11",
+  "topic": "EEGとPET",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "EmoMind: Decoding Affective Captions from Human Brain fMRI",
-  "paperLink": "https://arxiv.org/abs/2605.16739",
-  "figureUrl": "https://arxiv.org/html/2605.16739/2605.16739v3/figures/figure1_pipeline.png",
-  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、言語処理と情動の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 fMRI × 言語処理 × 情動\n\n📊 注目すべきデータ：\n→ Across two independent emotion fMRI datasets, EmoMind significantly outperforms label-prompted GPT-4 on all three axes, with the largest gains on metrics that require...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 EmoMind: Decoding Affective Captions from Human Brain fMRI\n🔗 https://arxiv.org/abs/2605.16739\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #神経科学",
-  "summaryJP": "言語処理と情動 — 数値で示された新事実（神経デコーディング）",
-  "paperAuthors": "Bilal A. Mohammed, Lin Gu, Ruogu Fang",
-  "publishedDate": "Wed, 09 Sep 2026 00:00:00 -0400",
-  "paperId": "2605.16739",
+  "paperTitle": "EEGBind: Detecting Source-Level Interictal Epileptiform Discharges via EEG-Centric Multimodal Binding",
+  "paperLink": "https://arxiv.org/abs/2609.09728",
+  "figureUrl": "https://arxiv.org/html/2609.09728/2609.09728v1/task3overview.png",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\nEEGとPETの最新成果を整理しました。\n\n🔬 EEG × PET\n\n📊 注目すべきデータ：\n→ Instead of relying on early or overly strong multimodal fusion, which may perturb the source-sensitive EEG representation, EEGBind uses video context as auxiliary evidence for...\n→ On the NeuroMM 2026 Grand Challenge Track 3 NMM-Source-IED benchmark, EEGBind achieves 0.8395 on weighted-F1 and outperforms strong competitors.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 EEGBind: Detecting Source-Level Interictal Epileptiform Discharges via EEG-Centric Multimodal Binding\n🔗 https://arxiv.org/abs/2609.09728\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #脳情報",
+  "summaryJP": "EEGとPET — 注目すべき3つの示唆（神経デコーディング）",
+  "paperAuthors": "Muchen Li, Anglin Liu, Xuetian Gao, Ruijian Xu, Jintai Chen",
+  "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
+  "paperId": "2609.09728",
   "paperSource": "arxiv",
   "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "fMRI",
-    "言語処理",
-    "情動"
+    "EEG",
+    "PET"
   ],
-  "abstractExcerpt": "Decoding visual experience from brain activity has advanced substantially, but current brain-to-text systems largely recover semantic content while discarding affect. Additionally, language models can generate emotional text when prompted…",
+  "abstractExcerpt": "Source-level analysis of interictal epileptiform discharges (IEDs) is relevant to presurgical evaluation and treatment planning because it helps characterize where epileptiform activity is likely to arise. Beyond detecting whether an IED…",
   "figureUrls": [
-    "https://arxiv.org/html/2605.16739/2605.16739v3/figures/figure1_pipeline.png",
-    "https://arxiv.org/html/2605.16739/2605.16739v3/figures/figure2_architecture.png",
-    "https://arxiv.org/html/2605.16739/2605.16739v3/figures/figure4_qualitative.png"
+    "https://arxiv.org/html/2609.09728/2609.09728v1/task3overview.png",
+    "https://arxiv.org/html/2609.09728/2609.09728v1/task3_embedding_map.png",
+    "https://arxiv.org/html/2609.09728/2609.09728v1/task3_video_type_patterns.png"
   ]
 }
