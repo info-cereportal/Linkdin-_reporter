@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T00:30:21.646Z",
+  "generatedAt": "2026-09-12T00:35:40.233Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Revisiting the Aerts-Broekaert-Smets quantum model of the liar paradox",
-          "url": "https://arxiv.org/abs/2609.09228",
-          "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
+          "title": "Pulling Illusion in Individuals with Neurological Disorders",
+          "url": "https://arxiv.org/abs/2609.10566",
+          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The quantum model of the two-sentence liar paradox proposed by Aerts, Broekaert, and Smets is an early example of the use of quantum formalism to describe cognitive dynamics. Our reconstruction is primarily pedagogical in intent, but it…",
-          "authors": "Massimiliano Sassoli de Bianchi"
+          "summary": "The pulling illusion induced by asymmetric vibration stimuli has attracted attention for its potential applications in rehabilitation and sensory assessment. However, the underlying mechanism of the pulling illusion remains unclear. This…",
+          "authors": "Takeshi Tanabe, Satoshi Yamamoto, Toru Yamada, Daisuke Ishii, Yutaka Kohno"
         },
         {
-          "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
-          "url": "https://arxiv.org/abs/2609.09226",
-          "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
+          "title": "Cortical information transfer reveals conserved hemispherical network dynamics across human handedness",
+          "url": "https://arxiv.org/abs/2609.10870",
+          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This…",
-          "authors": "Haochen Li, Xinshuai Guo, Jingdong Ouyang, Wei Zhang, Leilei Shi"
+          "summary": "Whether human motor and brain lateralization arises from fundamentally distinct neural architectures or emerges from conserved network dynamics remains a central question at the intersection of network science and neurobiology.…",
+          "authors": "Yago Emanoel Ramos, José Garcia Vivas Miranda"
         },
         {
-          "title": "XAI-Refine: An Automated Explanation-Knowledge Loop for Brain-Age Prediction",
-          "url": "https://arxiv.org/abs/2609.09388",
-          "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
+          "title": "The Platonic brain bridge hypothesis: human brain networks as an architectural prior for omni models",
+          "url": "https://arxiv.org/abs/2609.10947",
+          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brain-age prediction models are commonly evaluated by predictive accuracy, yet accurate predictions alone do not establish that a model relies on reproducible or neurobiologically supported mechanisms. Post-hoc explanation methods can…",
-          "authors": "Yang Qiao, Junjie Wu, Deqiang Qiu, James J. Lah, Liang Zhao"
+          "summary": "We propose the Platonic brain bridge hypothesis: omni models, which process video, audio and text jointly like the brain, converge on brain-like representations, and the correspondence is bidirectional. From model to brain, brain-likeness…",
+          "authors": "Pengfei Zhang, Biao Tian, Xiangang Li, Li Liu"
         },
         {
-          "title": "Emergence of criticality in models of real neurons",
-          "url": "https://arxiv.org/abs/2609.09438",
-          "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
+          "title": "Degeneracy along the sensorimotor hierarchy: motor control within a framework larger than redundancy",
+          "url": "https://arxiv.org/abs/2609.11325",
+          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Critical systems sit near boundaries between qualitatively distinct behaviors. When inferring models of neural activity, this proximity to criticality is thought to require the precise tuning of parameters. Here, we show that as the number…",
-          "authors": "David P. Carcamo, Christopher W. Lynn"
+          "summary": "Motor control has described the surplus of solutions available to the nervous system as redundancy, a term that names duplication: interchangeable elements, robust to loss but incapable of differential adaptation. Biology has had a second…",
+          "authors": "Florent Paclet, Paul Duprat"
         },
         {
-          "title": "EEGBind: Detecting Source-Level Interictal Epileptiform Discharges via EEG-Centric Multimodal Binding",
-          "url": "https://arxiv.org/abs/2609.09728",
-          "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
+          "title": "pyAvalanches: A Python Package for Analyzing Spatiotemporal Propagation in Neuronal Avalanches",
+          "url": "https://arxiv.org/abs/2609.11530",
+          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Source-level analysis of interictal epileptiform discharges (IEDs) is relevant to presurgical evaluation and treatment planning because it helps characterize where epileptiform activity is likely to arise. Beyond detecting whether an IED…",
-          "authors": "Muchen Li, Anglin Liu, Xuetian Gao, Ruijian Xu, Jintai Chen"
+          "summary": "The analysis of neuronal avalanches offers insights into brain dynamics utilizing the framework of criticality, but the reproducibility and comparability of studies are limited by the use of fragmented, lab-specific scripts. To address…",
+          "authors": "M. Marzulli, A. Angiolelli, C. Mannino, M. Demuru, P. Sorrentino, M. -C. Corsi"
         },
         {
-          "title": "A Bio-Plausible Visual Neural Network for Locust-Inspired Collision Perception",
-          "url": "https://arxiv.org/abs/2609.10183",
-          "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
+          "title": "Discovering Subtypes of Neurodegenerative Progression with a Scalable Connectome-Constrained Dynamic Model",
+          "url": "https://arxiv.org/abs/2609.10890",
+          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Locust visual systems have long served as an important biological paradigm for studying looming perception and collision avoidance. Numerous computational models have successfully reproduced the selective responses of Lobula Giant Movement…",
-          "authors": "Qinbing Fu, Jiani Li, Jiajun Huang, Jigen Peng"
+          "summary": "Parkinson's disease is clinically and biologically heterogeneous, yet its spatiotemporal progression remains poorly characterized. We present a connectome-constrained disease progression model that jointly estimates subject-specific…",
+          "authors": "Daniel Semchin, Emile d'Angremont, Hao Ding, Alan Antar, Marco Lorenzi, Konstantinos Arfanakis, Ysbrand van der Werf, Paul Thompson, Boris Gutman"
         }
       ]
     },
@@ -62,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "U.S. officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown",
+          "url": "https://www.statnews.com/2026/09/11/cyclospora-outbreak-declared-over-origin-unknown/?utm_campaign=rss",
+          "publishedDate": "Fri, 11 Sep 2026 16:35:51 +0000",
+          "source": "statnews.com",
+          "summary": "The largest cyclospora food poisoning outbreak in U.S. history is over, U.S. health officials said, but questions remain over its origin.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "Medicaid will let states use ‘tiers’ to determine medical frailty",
+          "url": "https://www.statnews.com/2026/09/11/medicaid-work-requirements-new-tier-system-define-medical-frailty/?utm_campaign=rss",
+          "publishedDate": "Fri, 11 Sep 2026 15:10:36 +0000",
+          "source": "statnews.com",
+          "summary": "New Medicaid rules use allow use of tiers to determine work exemptions. Advocates fear complex guidelines could cause patients to lose insurance.",
+          "authors": "Isabella Cueto"
+        },
+        {
+          "title": "Boycott launched against American Diabetes Association includes journal",
+          "url": "https://www.statnews.com/2026/09/11/health-news-boycott-launched-against-ada-includes-journal/?utm_campaign=rss",
+          "publishedDate": "Fri, 11 Sep 2026 11:43:20 +0000",
+          "source": "statnews.com",
+          "summary": "Trump's $500 Obamacare promise, childhood cancer treatment with long-term risks, and more health news",
+          "authors": "Chelsea Cirruzzo, Helen Branswell,and Elizabeth Cooney"
+        },
+        {
+          "title": "STAT+: An AI tool aims to catch harder-to-detect heart attacks in EKGs",
+          "url": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/?utm_campaign=rss",
+          "publishedDate": "Fri, 11 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A newly approved AI tool can scan EKGs for severe heart attacks and, the company says, for rarer patterns indicating blocked arteries.",
+          "authors": "Katie Palmer"
+        },
         {
           "title": "Platinum-based chemotherapy in childhood causes mutations that age the liver",
           "url": "https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/?utm_campaign=rss",
@@ -77,38 +109,6 @@
           "source": "statnews.com",
           "summary": "Feds invest in AI for heart failure, vaccines and this year's midterms, and more health news from Morning Rounds",
           "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "STAT+: Five midterm races to watch that could be crucial for vaccine policy",
-          "url": "https://www.statnews.com/2026/09/10/2026-midterms-health-care-issues-analyzed-vaccine-policy/?utm_campaign=rss",
-          "publishedDate": "Thu, 10 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "GOP candidates in Iowa and Florida are embracing vaccine skepticism, while Democrats in Michigan and South Carolina are ready for a fight.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak",
-          "url": "https://www.statnews.com/2026/09/09/coroner-details-infant-deaths-pennsylvania-measles-outbreak/?utm_campaign=rss",
-          "publishedDate": "Wed, 09 Sep 2026 21:44:07 +0000",
-          "source": "statnews.com",
-          "summary": "The two measles-related deaths in Pennsylvania last month involved infants, and the virus itself caused one of the deaths, a Pennsylvania coroner confirmed Wednesday.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "Telemedicine company offers GLP-1s for addiction",
-          "url": "https://www.statnews.com/2026/09/09/health-news-telemedicine-company-offers-glp-1s-for-addiction/?utm_campaign=rss",
-          "publishedDate": "Wed, 09 Sep 2026 11:53:36 +0000",
-          "source": "statnews.com",
-          "summary": "A CDC Covid restructuring, public trust in Fauci, and more health news from Morning Rounds",
-          "authors": "Theresa Gaffney and Helen Branswell"
-        },
-        {
-          "title": "STAT+: Health care features prominently in Democrats’ agenda",
-          "url": "https://www.statnews.com/2026/09/08/democrats-agenda-midterms-health-care-medicaid-cuts-aca-subsidies/?utm_campaign=rss",
-          "publishedDate": "Tue, 08 Sep 2026 14:22:31 +0000",
-          "source": "statnews.com",
-          "summary": "Democrats are sharpening their health care plans as the midterm elections near.",
-          "authors": "John Wilkerson"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees",
-          "url": "https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss",
-          "publishedDate": "Thu, 10 Sep 2026 19:57:28 +0000",
-          "source": "statnews.com",
-          "summary": "The legal basis for the $500 checks, and who would get them, isn't entirely clear.",
-          "authors": "Bob Herman and Tara Bannow"
-        },
-        {
-          "title": "STAT+: Can AI save rural health care?",
-          "url": "https://www.statnews.com/2026/09/10/ai-rural-health-hospitals-chris-klomp-nicole-saphier-senate-hearings/?utm_campaign=rss",
-          "publishedDate": "Thu, 10 Sep 2026 14:53:06 +0000",
-          "source": "statnews.com",
-          "summary": "Nominees for top federal health roles to face Congress, and Trump officials are betting on AI to help save rural health care.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "Trump officials say AI will help save rural health care. Some leaders in the field don’t believe it",
-          "url": "https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/?utm_campaign=rss",
-          "publishedDate": "Thu, 10 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Rural health care providers have struggled for years. The Trump administration is pointing to a cutting-edge, if unproven way to save them: artificial intelligence.",
-          "authors": "Daniel Payne"
-        },
-        {
-          "title": "Opinion: John Fetterman’s post-stroke, politically problematic behaviors offer lessons about brain health on Capitol Hill",
-          "url": "https://www.statnews.com/2026/09/10/john-fetterman-post-stroke-behavior-experts-see-neurological-changes/?utm_campaign=rss",
-          "publishedDate": "Thu, 10 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "“Nothing in the recent reporting about John Fetterman is medically surprising,” write Michael P.H. Stanley and Isaiah Kletenik.",
-          "authors": "Michael P.H. Stanley and Isaiah Kletenik"
-        },
-        {
-          "title": "STAT+: Five midterm races to watch that could be crucial for vaccine policy",
-          "url": "https://www.statnews.com/2026/09/10/2026-midterms-health-care-issues-analyzed-vaccine-policy/?utm_campaign=rss",
-          "publishedDate": "Thu, 10 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "GOP candidates in Iowa and Florida are embracing vaccine skepticism, while Democrats in Michigan and South Carolina are ready for a fight.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Scientists find a bone-building switch that could fight osteoporosis",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
-          "publishedDate": "Wed, 09 Sep 2026 09:52:53 EDT",
+          "title": "The secret to longer life may be hidden in bat DNA",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
+          "publishedDate": "Fri, 11 Sep 2026 20:25:05 EDT",
           "source": "sciencedaily.com",
-          "summary": "An experimental compound called AP503 significantly strengthened bones in mice by activating GPR133, a receptor that boosts bone formation while slowing bone loss. Because the same treatment has also been linked to stronger muscles,…",
+          "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could eventually reveal…",
+          "authors": ""
+        },
+        {
+          "title": "Medicaid will let states use ‘tiers’ to determine medical frailty",
+          "url": "https://www.statnews.com/2026/09/11/medicaid-work-requirements-new-tier-system-define-medical-frailty/?utm_campaign=rss",
+          "publishedDate": "Fri, 11 Sep 2026 15:10:36 +0000",
+          "source": "statnews.com",
+          "summary": "New Medicaid rules use allow use of tiers to determine work exemptions. Advocates fear complex guidelines could cause patients to lose insurance.",
+          "authors": "Isabella Cueto"
+        },
+        {
+          "title": "Too much light at night may quietly reshape your heart",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911003847.htm",
+          "publishedDate": "Fri, 11 Sep 2026 08:33:38 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Nighttime light exposure was linked to thicker, stiffer heart chambers and early signs of reduced heart function in a study of more than 11,000 people. The findings suggest that keeping bedrooms darker could be an overlooked strategy for…",
+          "authors": ""
+        },
+        {
+          "title": "Your next prescription could be treating a side effect from the last one",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911003843.htm",
+          "publishedDate": "Fri, 11 Sep 2026 08:17:18 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A major Ontario study found 24 common medication chains in which one drug’s side effects can be mistaken for a new medical problem, leading to another prescription. Researchers say closer medication reviews, pharmacist involvement, and…",
+          "authors": ""
+        },
+        {
+          "title": "Study of 1.9 million people finds a striking link between ADHD and gut problems",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
+          "publishedDate": "Fri, 11 Sep 2026 07:26:08 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers analyzing data from more than 1.9 million people found that ADHD is associated with substantially higher rates of digestive problems. People with ADHD had nearly double the odds of constipation, 58% higher odds of irritable…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists find signs of extreme aging and youth in the same 117-year-old",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260909231800.htm",
+          "publishedDate": "Fri, 11 Sep 2026 00:27:25 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A remarkably detailed study of Maria Branyas, who lived past 117, reveals that extreme longevity may involve both intense aging and powerful biological protection at the same time. Researchers found signs of advanced aging, but also low…",
           "authors": ""
         }
       ]
@@ -173,67 +173,75 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "CompEvo: Competition-Induced Evolution for Multi-Agent in News-Driven Time Series Forecasting",
-          "url": "https://arxiv.org/abs/2609.09195",
-          "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
+          "title": "Threshold-Based Selection for Continuous Optimization: A Leaf-Abscission Instantiation",
+          "url": "https://arxiv.org/abs/2609.10588",
+          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "News-driven time series forecasting uses evolving textual events together with historical observations to predict future values, supporting applications such as market risk monitoring and resource scheduling. In multi-agent settings, two…",
-          "authors": "Yuxuan Zhang, Yangyang Feng, Yong Guan, Daifeng Li, Kexin Zhang, Junlan Chen, Bowen Deng, Jun Liu, Zehua Zeng"
+          "summary": "This paper formalizes threshold-based selection as an evaluation-gating architecture in which each incumbent is tested before variation and a replacement is generated and evaluated only when contextual pressure exceeds intrinsic strength.…",
+          "authors": "Nasser Khalili"
         },
         {
-          "title": "A Bio-Plausible Visual Neural Network for Locust-Inspired Collision Perception",
-          "url": "https://arxiv.org/abs/2609.10183",
-          "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
+          "title": "Breaking the Central Bias: Spatially Partitioned Experts for Coordinate-Based Neuroevolution",
+          "url": "https://arxiv.org/abs/2609.11518",
+          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Locust visual systems have long served as an important biological paradigm for studying looming perception and collision avoidance. Numerous computational models have successfully reproduced the selective responses of Lobula Giant Movement…",
-          "authors": "Qinbing Fu, Jiani Li, Jiajun Huang, Jigen Peng"
+          "summary": "Evolvable-Substrate HyperNEAT (ES-HyperNEAT), a bio-inspired indirect encoding that determines neuron placement and connection weights from spatial coordinates, exhibits a failure mode on MNIST as a diagnostic benchmark. Because input…",
+          "authors": "Romain Claret, Arthur Gygax, Michael O'Neill, Paul Cotofrei, Michael Palma Mendes, Pascal Felber"
         },
         {
-          "title": "Structural Fusion of Bayesian Networks with Limited Treewidth Using Genetic Algorithms",
-          "url": "https://arxiv.org/abs/2609.10276",
-          "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
+          "title": "Fractional-order hardware for neuromorphic computing: Is the order really the problem?",
+          "url": "https://arxiv.org/abs/2609.10882",
+          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper introduces an evolutionary computation approach for consensus in structural Bayesian Network (BN) fusion under the constraint of limited treewidth. The consensus BN aims to reconcile multiple input BNs into a single one that…",
-          "authors": "Pablo Torrijos, José A. Gámez, José M. Puerta"
+          "summary": "Does a neuromorphic system need a true power-law memory kernel, and if so, can anyone build one? Neuromorphic systems process signals spanning many timescales at once, from milliseconds to tens of seconds. Integer-order circuits buy each…",
+          "authors": "Christof Teuscher"
         },
         {
-          "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
-          "url": "https://arxiv.org/abs/2609.09306",
-          "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
+          "title": "Phases in a class of associative memories via hidden neurons",
+          "url": "https://arxiv.org/abs/2609.10976",
+          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal experience. It does so in an idealized world inhabited by neural…",
-          "authors": "David Balduzzi"
+          "summary": "Associative memory in the Hopfield network is attractor dynamics in a disordered many-body system, and higher-order and exponential extensions turn its retrieval update into softmax attention. The polynomial and exponential regimes have…",
+          "authors": "Toshihiro Ota, Masato Taki"
         },
         {
-          "title": "Robust Industrial Cyber Physical Classification Using Neuromorphic Temporal Embeddings and Hybrid SNN XGBoost Under Machine Unlearning Attacks",
-          "url": "https://arxiv.org/abs/2609.09564",
-          "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
+          "title": "Solving Few-Shot Multiobjective Multitask Optimization via Iterative Sequential Transfer",
+          "url": "https://arxiv.org/abs/2609.11228",
+          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The digitalisation of electrical distribution networks has increased the exposure of power-grid infrastructure to cyber attacks. Existing intrusion detection systems (IDSs), however, often rely on computationally expensive deep learning…",
-          "authors": "Ammar Kamoona, Sajad Koushkbaghi, Mahdi Jalili, Peter McTaggart, Xinghuo Yu"
+          "summary": "Applying knowledge transfer across multiple optimization tasks, multitask optimization (MTO) emerges as a promising approach to solving synergistic optimization tasks simultaneously. However, the development of effective knowledge transfer…",
+          "authors": "Tingyang Wei, Haofeng Wu, Ananda Phan Iman, Zhao Wei, Jiao Liu, Yew-Soon Ong"
         },
         {
-          "title": "Teacher Geometry Shapes Learnability in Teacher-Student Networks",
-          "url": "https://arxiv.org/abs/2609.09595",
-          "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
+          "title": "GeoTrussRover: Morphological Computation with Contact-Semantic Control Primitives",
+          "url": "https://arxiv.org/abs/2609.11361",
+          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Teacher-student systems, in which a teacher neural network generates training labels so that a student neural network can learn to implement the same function, are widely used as an abstract setting to study learning. However, the…",
-          "authors": "Kai J. Sandbrink, Flavio Martinelli, Alexander van Meegen, Wulfram Gerstner, Johanni Brea"
+          "summary": "Reconfigurable robots can change their contact geometry when a fixed body cannot negotiate an obstacle. A variable-geometry truss (VGT) distributes this shape change through a load-bearing structure, but coupling it to a mobile base…",
+          "authors": "Muyuan Ma, Yi Zhang, Yang Yang, Xuanyan Zheng, Ruiqi Hu, Boxuan Ke, Zhenyu Chen, Yicong Lin, Xin Hao Yang, Daliang Xiao, Zhinan Hou, Wanhao Niu, Yuan Sun, Yan Yang, Yue Xie"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 1,
+      "itemCount": 2,
       "items": [
         {
-          "title": "Robust Continuous Human Activity Recognition Using Deep Learning and Distributed Radar Sensors",
-          "url": "https://arxiv.org/abs/2609.10419",
-          "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
+          "title": "Differentially Private EEG Feature Anonymization: A Privacy-Utility Case Study in Clinical Neurophysiology",
+          "url": "https://arxiv.org/abs/2609.11777",
+          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Continuous human activity recognition (HAR) with distributed radar sensor networks is challenging because Doppler signatures depend strongly on aspect angle, the informativeness of individual radar views varies with motion direction, and…",
-          "authors": "Sohani Munteha Hiam, Mohammad Soleymani"
+          "summary": "Clinical electroencephalography (EEG) data are valuable for healthcare research and for developing artificial intelligence (AI)-based clinical decision-support systems, but EEG recordings and derived features may contain sensitive…",
+          "authors": "Noman Sadiq, Mohsen Toorani"
+        },
+        {
+          "title": "From Open RAN to Open Spectrum: A Programmable, Intelligent Architecture for Multi-Service Spectrum Coexistence",
+          "url": "https://arxiv.org/abs/2609.11843",
+          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Considering sharing or coexistence from the perspective of spectrum alone fails to recognize that any spectrum-enabled service also requires (i) radio and processing infrastructure and (ii) a protocol stack, including waveforms and signal…",
+          "authors": "Michele Polese, Minh Dat Nguyen, Paolo Testolina, Tommaso Melodia"
         }
       ]
     }
