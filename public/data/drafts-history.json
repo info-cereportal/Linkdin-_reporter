@@ -1,5 +1,27 @@
 [
   {
+    "generatedAt": "2026-09-13T00:16:15.021Z",
+    "date": "2026-09-13",
+    "topic": "深層学習と学習",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Predicting Conversion from Mild Cognitive Impairment to Alzheimer's Disease: A Systematic Review of Deep Learning Models for Early-Stage Disease Classification.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42727648/",
+    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n脳科学とAI——その境界線が消えつつある。\n\n深層学習と学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 深層学習 × 学習\n\n> Alzheimer's disease (AD) is a progressive neurodegenerative disorder for which early diagnosis-particularly the accurate prediction of conversion from mild cognitive impairment (MCI) to AD-is essential to enable timely and effective therapeutic interventions. Deep learning (DL)...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Predicting Conversion from Mild Cognitive Impairment to Alzheimer's Disease: A Systematic Review of Deep Learning Models for Early-Stage Disease Classification.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42727648/\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #BrainComputerInterface",
+    "summaryJP": "深層学習と学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+    "paperAuthors": "Mozhgan Ghasabi, Hadi Aghdasi, Mohammad-Reza Feizi-Derakhshi",
+    "publishedDate": "2026-09-11",
+    "paperId": "42727648",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "深層学習",
+      "学習"
+    ],
+    "abstractExcerpt": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder for which early diagnosis-particularly the accurate prediction of conversion from mild cognitive impairment (MCI) to AD-is essential to enable timely and effective…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-09-12T00:35:40.017Z",
     "date": "2026-09-12",
     "topic": "fMRI",
@@ -1248,31 +1270,5 @@
     ],
     "abstractExcerpt": "Glioblastoma (GB) remains one of the most aggressive brain tumors, with limited survival and high recurrence rates. In most cases, GB recurrence occurs locally, either on the residual tumor after surgery or within 2&#x202f;cm of the…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-07-24T23:38:42.593Z",
-    "date": "2026-07-24",
-    "topic": "脳情報科学の最新研究",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "The Influence of Width Ratios on Structural Beauty in Male Faces",
-    "paperLink": "https://arxiv.org/abs/2602.13368",
-    "figureUrl": "https://arxiv.org/html/2602.13368/2602.13368v3/x1.png",
-    "formatted": "この研究データ、知らないままでいいですか？\n\n数字が語る、脳情報科学の最新研究の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 脳情報科学\n\n> This study investigates the relationship between interocular distance relative to overall facial width (width ratio) and perceived subjective beauty in male faces. Building on the methodology of Pallett et al.\n\nなぜこの数字が重要か。\n\n計算論的神経科学において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 The Influence of Width Ratios on Structural Beauty in Male Faces\n🔗 https://arxiv.org/abs/2602.13368\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #NeuralDecoding",
-    "summaryJP": "脳情報科学の最新研究 — 数値で示された新事実（計算論的神経科学）",
-    "paperAuthors": "Theresa Tennstedt, Benjamin Knopp, Dominik Endres",
-    "publishedDate": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "paperId": "2602.13368",
-    "paperSource": "arxiv",
-    "themeArea": "計算論的神経科学",
-    "jpKeywords": [
-      "脳情報科学"
-    ],
-    "abstractExcerpt": "This study investigates the relationship between interocular distance relative to overall facial width (width ratio) and perceived subjective beauty in male faces. Building on the methodology of Pallett et al. (2010), who found that…",
-    "figureUrls": [
-      "https://arxiv.org/html/2602.13368/2602.13368v3/x1.png",
-      "https://arxiv.org/html/2602.13368/2602.13368v3/x2.png",
-      "https://arxiv.org/html/2602.13368/2602.13368v3/figures/avgimg_wr_low.png"
-    ]
   }
 ]

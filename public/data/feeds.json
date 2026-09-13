@@ -1,61 +1,12 @@
 {
-  "generatedAt": "2026-09-12T00:35:40.233Z",
+  "generatedAt": "2026-09-13T00:16:16.047Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Pulling Illusion in Individuals with Neurological Disorders",
-          "url": "https://arxiv.org/abs/2609.10566",
-          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The pulling illusion induced by asymmetric vibration stimuli has attracted attention for its potential applications in rehabilitation and sensory assessment. However, the underlying mechanism of the pulling illusion remains unclear. This…",
-          "authors": "Takeshi Tanabe, Satoshi Yamamoto, Toru Yamada, Daisuke Ishii, Yutaka Kohno"
-        },
-        {
-          "title": "Cortical information transfer reveals conserved hemispherical network dynamics across human handedness",
-          "url": "https://arxiv.org/abs/2609.10870",
-          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Whether human motor and brain lateralization arises from fundamentally distinct neural architectures or emerges from conserved network dynamics remains a central question at the intersection of network science and neurobiology.…",
-          "authors": "Yago Emanoel Ramos, José Garcia Vivas Miranda"
-        },
-        {
-          "title": "The Platonic brain bridge hypothesis: human brain networks as an architectural prior for omni models",
-          "url": "https://arxiv.org/abs/2609.10947",
-          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We propose the Platonic brain bridge hypothesis: omni models, which process video, audio and text jointly like the brain, converge on brain-like representations, and the correspondence is bidirectional. From model to brain, brain-likeness…",
-          "authors": "Pengfei Zhang, Biao Tian, Xiangang Li, Li Liu"
-        },
-        {
-          "title": "Degeneracy along the sensorimotor hierarchy: motor control within a framework larger than redundancy",
-          "url": "https://arxiv.org/abs/2609.11325",
-          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Motor control has described the surplus of solutions available to the nervous system as redundancy, a term that names duplication: interchangeable elements, robust to loss but incapable of differential adaptation. Biology has had a second…",
-          "authors": "Florent Paclet, Paul Duprat"
-        },
-        {
-          "title": "pyAvalanches: A Python Package for Analyzing Spatiotemporal Propagation in Neuronal Avalanches",
-          "url": "https://arxiv.org/abs/2609.11530",
-          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The analysis of neuronal avalanches offers insights into brain dynamics utilizing the framework of criticality, but the reproducibility and comparability of studies are limited by the use of fragmented, lab-specific scripts. To address…",
-          "authors": "M. Marzulli, A. Angiolelli, C. Mannino, M. Demuru, P. Sorrentino, M. -C. Corsi"
-        },
-        {
-          "title": "Discovering Subtypes of Neurodegenerative Progression with a Scalable Connectome-Constrained Dynamic Model",
-          "url": "https://arxiv.org/abs/2609.10890",
-          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Parkinson's disease is clinically and biologically heterogeneous, yet its spatiotemporal progression remains poorly characterized. We present a connectome-constrained disease progression model that jointly estimates subject-specific…",
-          "authors": "Daniel Semchin, Emile d'Angremont, Hao Ding, Alan Antar, Marco Lorenzi, Konstantinos Arfanakis, Ysbrand van der Werf, Paul Thompson, Boris Gutman"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -118,6 +69,30 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Who really needs a heart calcium scan?",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911214254.htm",
+          "publishedDate": "Sat, 12 Sep 2026 10:33:54 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A 10-year study of more than 6,000 adults found that popular coronary calcium scans may add little to standard heart disease risk estimates for many people. But for patients with borderline or intermediate risk, the scans could make a…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists find Ozempic may slow aging itself",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm",
+          "publishedDate": "Sat, 12 Sep 2026 09:52:50 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising the possibility…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists find a way to break pancreatic cancer’s protective shield",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911003856.htm",
+          "publishedDate": "Fri, 11 Sep 2026 22:34:24 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers found that blocking IL1RAP could disrupt a powerful inflammatory network that helps pancreatic cancer survive treatment. In preclinical experiments, the approach reduced tumor-protecting cells and fibrosis while boosting the…",
+          "authors": ""
+        },
+        {
           "title": "The secret to longer life may be hidden in bat DNA",
           "url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
           "publishedDate": "Fri, 11 Sep 2026 20:25:05 EDT",
@@ -140,108 +115,67 @@
           "source": "sciencedaily.com",
           "summary": "Nighttime light exposure was linked to thicker, stiffer heart chambers and early signs of reduced heart function in a study of more than 11,000 people. The findings suggest that keeping bedrooms darker could be an overlooked strategy for…",
           "authors": ""
-        },
-        {
-          "title": "Your next prescription could be treating a side effect from the last one",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911003843.htm",
-          "publishedDate": "Fri, 11 Sep 2026 08:17:18 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A major Ontario study found 24 common medication chains in which one drug’s side effects can be mistaken for a new medical problem, leading to another prescription. Researchers say closer medication reviews, pharmacist involvement, and…",
-          "authors": ""
-        },
-        {
-          "title": "Study of 1.9 million people finds a striking link between ADHD and gut problems",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
-          "publishedDate": "Fri, 11 Sep 2026 07:26:08 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers analyzing data from more than 1.9 million people found that ADHD is associated with substantially higher rates of digestive problems. People with ADHD had nearly double the odds of constipation, 58% higher odds of irritable…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists find signs of extreme aging and youth in the same 117-year-old",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909231800.htm",
-          "publishedDate": "Fri, 11 Sep 2026 00:27:25 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A remarkably detailed study of Maria Branyas, who lived past 117, reveals that extreme longevity may involve both intense aging and powerful biological protection at the same time. Researchers found signs of advanced aging, but also low…",
-          "authors": ""
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Threshold-Based Selection for Continuous Optimization: A Leaf-Abscission Instantiation",
-          "url": "https://arxiv.org/abs/2609.10588",
-          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This paper formalizes threshold-based selection as an evaluation-gating architecture in which each incumbent is tested before variation and a replacement is generated and evaluated only when contextual pressure exceeds intrinsic strength.…",
-          "authors": "Nasser Khalili"
-        },
-        {
-          "title": "Breaking the Central Bias: Spatially Partitioned Experts for Coordinate-Based Neuroevolution",
-          "url": "https://arxiv.org/abs/2609.11518",
-          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Evolvable-Substrate HyperNEAT (ES-HyperNEAT), a bio-inspired indirect encoding that determines neuron placement and connection weights from spatial coordinates, exhibits a failure mode on MNIST as a diagnostic benchmark. Because input…",
-          "authors": "Romain Claret, Arthur Gygax, Michael O'Neill, Paul Cotofrei, Michael Palma Mendes, Pascal Felber"
-        },
-        {
-          "title": "Fractional-order hardware for neuromorphic computing: Is the order really the problem?",
-          "url": "https://arxiv.org/abs/2609.10882",
-          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Does a neuromorphic system need a true power-law memory kernel, and if so, can anyone build one? Neuromorphic systems process signals spanning many timescales at once, from milliseconds to tens of seconds. Integer-order circuits buy each…",
-          "authors": "Christof Teuscher"
-        },
-        {
-          "title": "Phases in a class of associative memories via hidden neurons",
-          "url": "https://arxiv.org/abs/2609.10976",
-          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Associative memory in the Hopfield network is attractor dynamics in a disordered many-body system, and higher-order and exponential extensions turn its retrieval update into softmax attention. The polynomial and exponential regimes have…",
-          "authors": "Toshihiro Ota, Masato Taki"
-        },
-        {
-          "title": "Solving Few-Shot Multiobjective Multitask Optimization via Iterative Sequential Transfer",
-          "url": "https://arxiv.org/abs/2609.11228",
-          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Applying knowledge transfer across multiple optimization tasks, multitask optimization (MTO) emerges as a promising approach to solving synergistic optimization tasks simultaneously. However, the development of effective knowledge transfer…",
-          "authors": "Tingyang Wei, Haofeng Wu, Ananda Phan Iman, Zhao Wei, Jiao Liu, Yew-Soon Ong"
-        },
-        {
-          "title": "GeoTrussRover: Morphological Computation with Contact-Semantic Control Primitives",
-          "url": "https://arxiv.org/abs/2609.11361",
-          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Reconfigurable robots can change their contact geometry when a fixed body cannot negotiate an obstacle. A variable-geometry truss (VGT) distributes this shape change through a load-bearing structure, but coupling it to a mobile base…",
-          "authors": "Muyuan Ma, Yi Zhang, Yang Yang, Xuanyan Zheng, Ruiqi Hu, Boxuan Ke, Zhenyu Chen, Yicong Lin, Xin Hao Yang, Daliang Xiao, Zhinan Hou, Wanhao Niu, Yuan Sun, Yan Yang, Yue Xie"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Differentially Private EEG Feature Anonymization: A Privacy-Utility Case Study in Clinical Neurophysiology",
-          "url": "https://arxiv.org/abs/2609.11777",
-          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Clinical electroencephalography (EEG) data are valuable for healthcare research and for developing artificial intelligence (AI)-based clinical decision-support systems, but EEG recordings and derived features may contain sensitive…",
-          "authors": "Noman Sadiq, Mohsen Toorani"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
         },
         {
-          "title": "From Open RAN to Open Spectrum: A Programmable, Intelligent Architecture for Multi-Service Spectrum Coexistence",
-          "url": "https://arxiv.org/abs/2609.11843",
-          "publishedDate": "Fri, 11 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Considering sharing or coexistence from the perspective of spectrum alone fails to recognize that any spectrum-enabled service also requires (i) radio and processing infrastructure and (ii) a protocol stack, including waveforms and signal…",
-          "authors": "Michele Polese, Minh Dat Nguyen, Paolo Testolina, Tommaso Melodia"
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }
