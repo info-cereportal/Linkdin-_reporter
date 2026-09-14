@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T00:16:16.047Z",
+  "generatedAt": "2026-09-14T00:23:30.793Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,51 +69,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Who really needs a heart calcium scan?",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911214254.htm",
-          "publishedDate": "Sat, 12 Sep 2026 10:33:54 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A 10-year study of more than 6,000 adults found that popular coronary calcium scans may add little to standard heart disease risk estimates for many people. But for patients with borderline or intermediate risk, the scans could make a…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists find Ozempic may slow aging itself",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm",
-          "publishedDate": "Sat, 12 Sep 2026 09:52:50 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising the possibility…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists find a way to break pancreatic cancer’s protective shield",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911003856.htm",
-          "publishedDate": "Fri, 11 Sep 2026 22:34:24 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers found that blocking IL1RAP could disrupt a powerful inflammatory network that helps pancreatic cancer survive treatment. In preclinical experiments, the approach reduced tumor-protecting cells and fibrosis while boosting the…",
-          "authors": ""
-        },
-        {
-          "title": "The secret to longer life may be hidden in bat DNA",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
-          "publishedDate": "Fri, 11 Sep 2026 20:25:05 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could eventually reveal…",
-          "authors": ""
-        },
-        {
-          "title": "Medicaid will let states use ‘tiers’ to determine medical frailty",
-          "url": "https://www.statnews.com/2026/09/11/medicaid-work-requirements-new-tier-system-define-medical-frailty/?utm_campaign=rss",
-          "publishedDate": "Fri, 11 Sep 2026 15:10:36 +0000",
+          "title": "STAT+: Trump&#8217;s secretive pharma deals may undermine &#8216;most-favored nation&#8217; pricing, an analysis suggests",
+          "url": "https://www.statnews.com/pharmalot/2026/09/13/trump-secretive-pharma-deals-undermine-most-favored-nation-pricing/?utm_campaign=rss",
+          "publishedDate": "Sun, 13 Sep 2026 22:30:00 +0000",
           "source": "statnews.com",
-          "summary": "New Medicaid rules use allow use of tiers to determine work exemptions. Advocates fear complex guidelines could cause patients to lose insurance.",
-          "authors": "Isabella Cueto"
+          "summary": "The projected savings from Trump's \"most-favored nation\" pricing policy might be drastically reduced by secretive deals with pharma companies, a new analysis finds.",
+          "authors": "Ed Silverman"
         },
         {
-          "title": "Too much light at night may quietly reshape your heart",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911003847.htm",
-          "publishedDate": "Fri, 11 Sep 2026 08:33:38 EDT",
+          "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
+          "publishedDate": "Sun, 13 Sep 2026 09:56:06 EDT",
           "source": "sciencedaily.com",
-          "summary": "Nighttime light exposure was linked to thicker, stiffer heart chambers and early signs of reduced heart function in a study of more than 11,000 people. The findings suggest that keeping bedrooms darker could be an overlooked strategy for…",
+          "summary": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously underexplored layer of…",
+          "authors": ""
+        },
+        {
+          "title": "Most men don’t know dairy is linked to prostate cancer risk",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911214259.htm",
+          "publishedDate": "Sun, 13 Sep 2026 08:58:06 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Most men may be missing an important dietary clue about prostate cancer. A new survey found that only 20% knew research has linked dairy consumption with increased prostate cancer risk, while 66% said they would consider avoiding dairy…",
+          "authors": ""
+        },
+        {
+          "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+          "publishedDate": "Sun, 13 Sep 2026 06:46:19 EDT",
+          "source": "sciencedaily.com",
+          "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the…",
+          "authors": ""
+        },
+        {
+          "title": "A hidden compound in healthy foods may worsen IBD",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911214250.htm",
+          "publishedDate": "Sat, 12 Sep 2026 22:47:41 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A natural compound found in foods such as spinach, almonds, and sweet potatoes may aggravate gut inflammation in people with Crohn’s disease and ulcerative colitis because their intestines appear to handle it differently. Researchers say…",
+          "authors": ""
+        },
+        {
+          "title": "Ozempic and Wegovy may raise hair loss risk in some men",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911214241.htm",
+          "publishedDate": "Sat, 12 Sep 2026 22:18:14 EDT",
+          "source": "sciencedaily.com",
+          "summary": "GLP-1 drugs such as Ozempic, Wegovy, and Zepbound may increase hair-loss risk by 7% in men who are already genetically susceptible to male-pattern baldness. The findings suggest thinning hair may not be caused only by rapid weight loss and…",
           "authors": ""
         }
       ]
