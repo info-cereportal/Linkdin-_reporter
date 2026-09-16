@@ -1,51 +1,59 @@
 {
-  "generatedAt": "2026-09-15T00:52:09.111Z",
+  "generatedAt": "2026-09-16T00:45:53.397Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 5,
+      "itemCount": 6,
       "items": [
         {
-          "title": "The Computational Primitives of Adaptation",
-          "url": "https://arxiv.org/abs/2609.11989",
-          "publishedDate": "Mon, 14 Sep 2026 00:00:00 -0400",
+          "title": "Planning as Dynamics Relaxation: Hippocampal Recurrent Network Realizes Optimal Goal-Directed Navigation",
+          "url": "https://arxiv.org/abs/2609.13219",
+          "publishedDate": "Tue, 15 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Research on adaptive systems has traditionally focused on behavior (what organisms do) and mechanism (how their machinery works). This paper focuses on a third level, computation, which considers what adaptive systems must compute to…",
-          "authors": "Jonathan W. Page"
+          "summary": "Neural correlates of spatial cognitive map are well documented, yet exactly how neural circuits perform spatial navigation in complex environments - e.g., reaching a goal while avoiding obstacles - remains largely unclear. Here, we show…",
+          "authors": "Yuhang He, Junfeng Zuo, Tianhao Chu, Si Wu"
         },
         {
-          "title": "Stability and Wandering of Bumps in Neural Fields with Interneuron Subtypes",
-          "url": "https://arxiv.org/abs/2609.13074",
-          "publishedDate": "Mon, 14 Sep 2026 00:00:00 -0400",
+          "title": "Hierarchical emergence of network bursting in a four-cell central pattern generator model",
+          "url": "https://arxiv.org/abs/2609.13858",
+          "publishedDate": "Tue, 15 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The maintenance of continuous variable information in working memory is thought to rely on persistent patterns of cortical activity. In delayed-estimation tasks, neural activity can form localized activity peaks, or ``bumps,'' whose…",
-          "authors": "Bilal Ahmed, Heather Cihak, Gregory Handy"
+          "summary": "How can a neural circuit rhythmically burst when none of its constituent neurons can endogenously do so? We address this question through a bottom-up reconstruction of a 4-cell neural circuit modeled after the swim central pattern…",
+          "authors": "Krishna Pusuluri, Huiwen Wu, Andrey L. Shilnikov"
         },
         {
-          "title": "Direction and speed selectivity properties for spatio-temporal receptive fields according to the generalized Gaussian derivative model for visual receptive fields",
-          "url": "https://arxiv.org/abs/2511.08101",
-          "publishedDate": "Mon, 14 Sep 2026 00:00:00 -0400",
+          "title": "URCHIN: A Horizontal Spiking Language Model for Data-Constrained Pretraining",
+          "url": "https://arxiv.org/abs/2609.13899",
+          "publishedDate": "Tue, 15 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper gives an in-depth theoretical analysis of the direction and speed selectivity properties of idealized models of the spatio-temporal receptive fields of simple cells and complex cells, based on the generalized Gaussian derivative…",
-          "authors": "Tony Lindeberg"
+          "summary": "The BabyLM challenge measures how much language a model can learn from developmentally-plausible, child-scale data rather than internet-scale corpora, yet prior language models forgo the biological constraints of the neural circuitry that…",
+          "authors": "Po-Han Chiang"
         },
         {
-          "title": "Statistical Mechanics of Semantic Compression",
-          "url": "https://arxiv.org/abs/2503.00612",
-          "publishedDate": "Mon, 14 Sep 2026 00:00:00 -0400",
+          "title": "Nonlinear dynamics of random neural networks with second-order synaptic motifs",
+          "url": "https://arxiv.org/abs/2609.14251",
+          "publishedDate": "Tue, 15 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The basic problem of semantic compression is to minimize the length of a message while preserving its meaning. This differs from classical notions of compression in that the distortion is not measured directly at the level of bits, but…",
-          "authors": "Tankut Can"
+          "summary": "Classical theories of random neural networks typically assume independent connectivity, overlooking the local motif structures prevalent in biological circuits. Here, we investigate how four second-order synaptic motifs (chain, reciprocal,…",
+          "authors": "Jun Yang, Hannah Choi"
         },
         {
-          "title": "Diffusion learning reveals viable parameter manifolds and compensation geometry in biological dynamical systems",
-          "url": "https://arxiv.org/abs/2607.03671",
-          "publishedDate": "Mon, 14 Sep 2026 00:00:00 -0400",
+          "title": "When Teachers Smile or Frown: A Profile-Based Analysis of Achievement Emotions",
+          "url": "https://arxiv.org/abs/2609.15747",
+          "publishedDate": "Tue, 15 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Models of complex systems often have many parameters, yet are constrained by far fewer experimentally accessible observables; consequently, similar activity can emerge from coordinated parameter changes. We formalize these compatible…",
-          "authors": "Ruilin Zhang, Louis Tao, Zhuo-Cheng Xiao"
+          "summary": "Achievement emotions shape how students engage with and learn from academic tasks, yet most studies examine individual emotions rather than co-occurring affective profiles and their dynamics. We examined latent achievement-emotion profiles…",
+          "authors": "Rudra Mukhopadhyay, Satyaki Mazumder, Koel Das"
+        },
+        {
+          "title": "Mutual Information in Coupled Double Quantum Dots: A Simple Analytic Model for Potential Artificial Consciousness",
+          "url": "https://arxiv.org/abs/2006.16243",
+          "publishedDate": "Tue, 15 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The integrated information theory is thought to be a key clue towards the theoretical understanding of consciousness. In this study, we propose a simple numerical model comprising a set of coupled double quantum dots, where the…",
+          "authors": "Katsuaki Tanabe"
         }
       ]
     },
@@ -54,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "A fourth measles death is reported in Pennsylvania",
+          "url": "https://www.statnews.com/2026/09/15/fourth-measles-death-pennsylvania-acute-disseminated-encephalomyelitis/?utm_campaign=rss",
+          "publishedDate": "Tue, 15 Sep 2026 18:43:59 +0000",
+          "source": "statnews.com",
+          "summary": "Pennsylvania officials have reported a fourth measles-associated death within the past month, the latest in an unvaccinated 18-year-old.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "STAT+: RFK Jr. returns to his roots",
+          "url": "https://www.statnews.com/2026/09/15/rfk-childrens-health-defense-chris-klomp-hearings-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Tue, 15 Sep 2026 14:55:20 +0000",
+          "source": "statnews.com",
+          "summary": "Kennedy will keynote a Children's Health Defense event, and hospitals are disappointed by GOP's rural health fund.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Businesses can now apply for NIH funding",
+          "url": "https://www.statnews.com/2026/09/15/health-news-businesses-can-now-apply-for-nih-funding/?utm_campaign=rss",
+          "publishedDate": "Tue, 15 Sep 2026 12:03:33 +0000",
+          "source": "statnews.com",
+          "summary": "RFK Jr. to speak at Children's Health Defense conference, how to protect your heart in outer space, and more health news",
+          "authors": "Amanda Erickson, Anil Oza,and Elizabeth Cooney"
+        },
+        {
+          "title": "Exercise — and echocardiograms — in space protected astronauts’ hearts in study",
+          "url": "https://www.statnews.com/2026/09/15/heart-research-in-space-cardiovascular-health-nasa-astronauts-mars-mission/?utm_campaign=rss",
+          "publishedDate": "Tue, 15 Sep 2026 09:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "If humans journey to Mars in 2035, exercise will be critical to keeping their hearts strong in microgravity.",
+          "authors": "Elizabeth Cooney"
+        },
         {
           "title": "Abbott agrees to settlement over closure of largest baby formula plant in the U.S.",
           "url": "https://www.statnews.com/2026/09/14/abbott-settlement-closure-baby-formula-plant-shortages/?utm_campaign=rss",
@@ -69,38 +109,6 @@
           "source": "statnews.com",
           "summary": "RFK Jr. worked to distance himself from Children's Health Defense, the anti-vaccine group he once led. Now, he's delivering a keynote at CHD's conference.",
           "authors": "Isabella Cueto"
-        },
-        {
-          "title": "Pennsylvania officials report state&#8217;s third death involving measles",
-          "url": "https://www.statnews.com/2026/09/14/third-measles-related-death-pennsylvania-outbreak/?utm_campaign=rss",
-          "publishedDate": "Mon, 14 Sep 2026 14:34:20 +0000",
-          "source": "statnews.com",
-          "summary": "A Pennsylvania woman has died from complications associated with measles, the third death in the state this year involving the virus.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "Pennsylvania records third measles-related death amid outbreak",
-          "url": "https://www.statnews.com/2026/09/14/health-enws-pennsylvania-records-third-measles-related-death-amid-outbreak/?utm_campaign=rss",
-          "publishedDate": "Mon, 14 Sep 2026 11:49:09 +0000",
-          "source": "statnews.com",
-          "summary": "RSV season approaches, a federal judge pauses AAP challenge of RFK J.r vaccine charges, and more health news",
-          "authors": "Helen Branswell and Anil Oza"
-        },
-        {
-          "title": "The GOP’s $50 billion rural health fund is coming up short, hospital leaders say",
-          "url": "https://www.statnews.com/2026/09/14/rural-health-transformation-fund-skepticism-shortcomings-part-5-unraveled-series/?utm_campaign=rss",
-          "publishedDate": "Mon, 14 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Hospital leaders were excited about the Rural Health Transformation Fund until they saw the fine print.",
-          "authors": "Daniel Payne"
-        },
-        {
-          "title": "U.S. officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown",
-          "url": "https://www.statnews.com/2026/09/11/cyclospora-outbreak-declared-over-origin-unknown/?utm_campaign=rss",
-          "publishedDate": "Fri, 11 Sep 2026 16:35:51 +0000",
-          "source": "statnews.com",
-          "summary": "The largest cyclospora food poisoning outbreak in U.S. history is over, U.S. health officials said, but questions remain over its origin.",
-          "authors": "Associated Press"
         }
       ]
     },
@@ -110,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Kennedy to deliver keynote for anti-vaccine group he once led",
-          "url": "https://www.statnews.com/2026/09/14/rfk-speech-childrens-health-defense-conference-washington/?utm_campaign=rss",
-          "publishedDate": "Mon, 14 Sep 2026 17:37:34 +0000",
+          "title": "Smelling chocolate helped men complete more reps without feeling more tired",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260914102445.htm",
+          "publishedDate": "Tue, 15 Sep 2026 11:03:54 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Simply smelling chocolate helped men complete more leg extension repetitions without making the workout feel harder, with dark chocolate producing the strongest effect. The researchers think familiar food aromas may influence appetite and…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover a major brain shift between ages 50 and 75",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm",
+          "publishedDate": "Tue, 15 Sep 2026 10:28:38 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other neurodegenerative diseases. One…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: FDA takes applications for new program to shorten drug approval times",
+          "url": "https://www.statnews.com/2026/09/15/fda-launches-program-to-shorten-drug-approval-times/?utm_campaign=rss",
+          "publishedDate": "Tue, 15 Sep 2026 14:00:00 +0000",
           "source": "statnews.com",
-          "summary": "RFK Jr. worked to distance himself from Children's Health Defense, the anti-vaccine group he once led. Now, he's delivering a keynote at CHD's conference.",
-          "authors": "Isabella Cueto"
+          "summary": "The FDA is opening applications for a pilot program designed to shorten drug approval timelines and help the U.S. compete with countries like China and Australia.",
+          "authors": "Margaret Manto"
         },
         {
-          "title": "STAT+: How $500 explains Republican health policy, and the GLP-1 Rx wave",
-          "url": "https://www.statnews.com/2026/09/14/trump-cash-obamacare-plans-rural-hospitals-artificial-intelligence/?utm_campaign=rss",
-          "publishedDate": "Mon, 14 Sep 2026 16:02:55 +0000",
-          "source": "statnews.com",
-          "summary": "The one health care policy Republicans agree on, and a look at how rural providers are approaching AI.",
-          "authors": "Bob Herman"
-        },
-        {
-          "title": "Cancer is rising in younger adults. Faster biological aging may help explain why",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260913082200.htm",
-          "publishedDate": "Mon, 14 Sep 2026 10:47:07 EDT",
+          "title": "The U.S. Eradicated this flesh-eating parasite. Now it’s back",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260914102439.htm",
+          "publishedDate": "Tue, 15 Sep 2026 06:39:40 EDT",
           "source": "sciencedaily.com",
-          "summary": "Cancer rates are rising in adults under 55, and new research suggests accelerated biological aging may be one piece of the puzzle. Scientists found that people from more recent generations tended to have bodies that appeared biologically…",
+          "summary": "The flesh eating New World screwworm has returned to the United States, threatening livestock, wildlife, pets and potentially people as it spreads north. A new UC San Diego tracking system aims to predict where the parasite could strike…",
           "authors": ""
         },
         {
-          "title": "Hidden brain wiring may help keep the mind sharp as gray matter shrinks",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260913081921.htm",
-          "publishedDate": "Mon, 14 Sep 2026 10:23:40 EDT",
+          "title": "Nearly 10,000 patients reveal what works best for knee arthritis pain relief",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260913082208.htm",
+          "publishedDate": "Mon, 14 Sep 2026 23:57:43 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that the brain’s short-range wiring may help protect cognition even as gray matter shrinks with age. Healthier connections just beneath the brain’s surface were linked to better language skills and appeared to…",
+          "summary": "A major analysis of 139 clinical trials involving nearly 10,000 people suggests that some of the simplest treatments may work best for knee osteoarthritis. Knee braces ranked highest overall for reducing pain, stiffness, and mobility…",
           "authors": ""
         },
         {
-          "title": "Scientists find a hidden cause of high blood pressure that routine tests can miss",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260913081916.htm",
-          "publishedDate": "Mon, 14 Sep 2026 09:57:49 EDT",
+          "title": "Tiny cell “antennas” may help explain why some babies are born with heart defects",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912220103.htm",
+          "publishedDate": "Mon, 14 Sep 2026 23:20:52 EDT",
           "source": "sciencedaily.com",
-          "summary": "A wearable device has revealed nighttime hormone surges that may expose a frequently missed cause of high blood pressure. The discovery could help explain why primary aldosteronism often escapes standard blood tests and point toward a more…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover strange link between low vitamin D and pain",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260914042053.htm",
-          "publishedDate": "Mon, 14 Sep 2026 08:52:54 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Low vitamin D levels may make recovery from breast cancer surgery more painful, according to a study of 184 women undergoing mastectomy. Patients with vitamin D deficiency were three times more likely to experience moderate to severe pain…",
+          "summary": "A newly discovered communication system in the microscopic “antennae” of cells may help explain how some congenital heart defects develop. When genetic mutations disrupt this system, the effects may extend beyond the heart to organs…",
           "authors": ""
         }
       ]
@@ -165,83 +173,67 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Signed Sensitivity of Expected Hitting Time to Mutation Rate in the (1+1) EA: Per-State Sign Theorems and Verifiable Certificates for Non-Lumpable Families",
-          "url": "https://arxiv.org/abs/2609.12510",
-          "publishedDate": "Mon, 14 Sep 2026 00:00:00 -0400",
+          "title": "nBMS, a Neuromorphic Battery Management System with a Silicon-Validated Spiking State-of-Charge Core for eVTOL Aircraft",
+          "url": "https://arxiv.org/abs/2609.13506",
+          "publishedDate": "Tue, 15 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "For the (1+1) evolutionary algorithm with standard bit mutation, we study the sensitivity of the expected hitting time $H_p=\\mathbbE_x T$ to the mutation rate. We first point out an easily overlooked formalization pitfall: the improvement…",
-          "authors": "RenKai Wang"
+          "summary": "State-of-charge (SoC) estimation for electric vertical take-off and landing (eVTOL) aircraft must run on the vehicle under hard energy and certification budgets, on a duty cycle unlike anything in the automotive literature. In this study…",
+          "authors": "\\.Ismail Can Dikmen"
         },
         {
-          "title": "MAAPO:an innovative membrane algorithm based on artificial protozoa optimizer for multilevel threshold image segmentation",
-          "url": "https://arxiv.org/abs/2609.12756",
-          "publishedDate": "Mon, 14 Sep 2026 00:00:00 -0400",
+          "title": "Early-Stopping Thresholds for ES-HyperNEAT: A Data-Driven Approach from Fitness Dynamics",
+          "url": "https://arxiv.org/abs/2609.13533",
+          "publishedDate": "Tue, 15 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper proposes a novel membrane algorithm based on artificial protozoa optimizer (MAAPO) for global optimization problems. The artificial protozoa optimizer (APO) is adopted as the base meta-heuristic algorithm due to its novelty and…",
-          "authors": "Xiaopeng Wang, Vaclav Snasel, Seyedali Mirjalili, Jeng-Shyang Pan"
+          "summary": "Most hyperparameter configurations for Evolvable-Substrate HyperNEAT (ES-HyperNEAT) produce networks that stagnate at random-guessing performance, wasting computational resources. We frame early stopping as binary classification on early…",
+          "authors": "Romain Claret, Arthur Gygax, Michael O'Neill, Paul Cotofrei, Pascal Felber"
         },
         {
-          "title": "T-GADE: Thermodynamical Generative-AI-Driven Evolution of LLM Artifacts",
-          "url": "https://arxiv.org/abs/2609.12286",
-          "publishedDate": "Mon, 14 Sep 2026 00:00:00 -0400",
+          "title": "Surrogate-Assisted Genetic Programming with Phenotypic Characterisation in Dynamic Multi-Mode Project Scheduling",
+          "url": "https://arxiv.org/abs/2609.14418",
+          "publishedDate": "Tue, 15 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Integrating evolutionary computation and large language models (LLMs) requires control of population diversity as well as generative capability. Among LLM outputs, those with explicit structure, such as a description paired with code, are…",
-          "authors": "Kyoko Ogawa, Naoki Mori"
+          "summary": "Dynamic multi-mode resource-constrained project scheduling requires decisions to be made under precedence constraints, limited resources, multiple execution modes, and uncertain activity durations. Genetic programming (GP) can…",
+          "authors": "Yuan Tian, Yi Mei, Mengjie Zhang"
         },
         {
-          "title": "Dimension-Corrected Hitting Times for Heavy-Tailed Spectral Emergence in Neural Optimizer Dynamics",
-          "url": "https://arxiv.org/abs/2609.12994",
-          "publishedDate": "Mon, 14 Sep 2026 00:00:00 -0400",
+          "title": "A Memristive Synapse for Online STDP Learning and Inference in SNNs",
+          "url": "https://arxiv.org/abs/2609.15339",
+          "publishedDate": "Tue, 15 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Heavy-tailed empirical spectral densities of neural-network weight matrices are widely used as diagnostics of implicit self-regularization, but the step complexity of heavy-tail emergence remains poorly understood. We formulate spectral…",
-          "authors": "Zongmin Liu"
+          "summary": "This work presents a fully analog memristive synaptic circuit for online spike-timing-dependent plasticity (STDP) learning in spiking neural networks (SNNs). The proposed synapse integrates a local STDP circuit generating gradual…",
+          "authors": "Elia Mateu-Barriendos, Álvaro Gómez-Pau, Daniel Arumí, Rosa Rodríguez-Montañés, Salvador Manich"
         },
         {
-          "title": "PACEvolve: Enabling Progress-Aware Consistent Evolution",
-          "url": "https://arxiv.org/abs/2601.10657",
-          "publishedDate": "Mon, 14 Sep 2026 00:00:00 -0400",
+          "title": "Big Brains and Changing Environments: Cause or Consequence?",
+          "url": "https://arxiv.org/abs/2609.15569",
+          "publishedDate": "Tue, 15 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Self-evolving agents powered by Large Language Models (LLMs) have emerged as a promising direction across diverse domains, including code optimization and scientific discovery, yet their core failure modes remain underexplored. Through a…",
-          "authors": "Minghao Yan, Bo Peng, Benjamin Coleman, Ziqi Chen, Zhouhang Xie, Shuo Chen, Zhankui He, Noveen Sachdeva, Isabella Ye, Weili Wang, Chi Wang, Ed H. Chi, Fernando Pereira, Wang-Cheng Kang, Derek Zhiyuan Cheng, Beidou Wang"
+          "summary": "Large brains are metabolically costly, and associations with changing environments do not imply they evolved there, as the Cognitive Buffer Hypothesis (CBH) would suggest. They may instead evolve in stable conditions and later facilitate…",
+          "authors": "Sian Heesom-Green, Jonathan Shock, Geoff Nitschke"
         },
         {
-          "title": "Machine Learning-Based Classification of Jhana Advanced Concentrative Absorption Meditation Using 7 Tesla Functional Magnetic Resonance Imaging",
-          "url": "https://arxiv.org/abs/2602.13008",
-          "publishedDate": "Mon, 14 Sep 2026 00:00:00 -0400",
+          "title": "Complete Suffix Prediction for Recommendation via Latent Retrieval over Process Graphs",
+          "url": "https://arxiv.org/abs/2609.15692",
+          "publishedDate": "Tue, 15 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Introduction: Jhana advanced concentrative absorption meditation (ACAM-J) involves profound changes in consciousness, making its neural correlates important for understanding consciousness and well-being. Prior neuroimaging has relied on…",
-          "authors": "Puneet Kumar, Winson F. Z. Yang, Alakhsimar Singh, Xiaobai Li, Matthew D. Sacchet"
+          "summary": "Complete suffix prediction is challenging in sequential decision settings, where the same prefix can remain compatible with several plausible suffixes. We propose a graphbased metric-learning framework that reformulates complete suffix…",
+          "authors": "Sarra Madad (UTT, LIST3N - OPTI, QAD), Myriam Maumy (EHESP, LIST3N - OPTI, ARENES), Frédéric Bertrand (CEDRIC, LIST3N - OPTI), Yoann Valero (QAD)"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 3,
+      "itemCount": 1,
       "items": [
         {
-          "title": "FRIST: FMRI Representation Informed Shared-space Training Improves EEG-only Individual-Finger BCI Decoding",
-          "url": "https://arxiv.org/abs/2609.12298",
-          "publishedDate": "Mon, 14 Sep 2026 00:00:00 -0400",
+          "title": "HELENA for 5G NR LEO NTN Channel Estimation: A Comparative Evaluation",
+          "url": "https://arxiv.org/abs/2609.14735",
+          "publishedDate": "Tue, 15 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Finger-level motor decoding is important for naturalistic brain-computer interface (BCI) control, yet individual-finger decoding from scalp electroencephalography (EEG) remains challenging because finger representations are spatially close…",
-          "authors": "Jintao Zhang, Yidan Ding, Joshua Kosnoff, Maxim Karrenbach, Hanwen Wang, Bin He"
-        },
-        {
-          "title": "Theoretical framework of passive ME antenna arrays enabling in-vivo monitoring: A pathway to smart implants",
-          "url": "https://arxiv.org/abs/2509.23520",
-          "publishedDate": "Mon, 14 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "A new brain-computer interface (BCI) technology, deployed through minimally invasive surgery, is changing the way we think about treating severe neurological conditions. The central idea is to place a device called Stentrode in the brain's…",
-          "authors": "Kalpesh Jaykar, Prasanth Velvaluri, Nian X. Sun, Richard D. James"
-        },
-        {
-          "title": "BRIDGE-EEG: Bridging Self-Supervised Pretraining and Efficient Deployment for Cross-Dataset EEG Classification",
-          "url": "https://arxiv.org/abs/2609.12218",
-          "publishedDate": "Mon, 14 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The growing use of electroencephalography (EEG) motivates automated analysis that is accurate, transferable, and deployable on constrained hardware. Recent EEG foundation models learn general representations from large-scale pretraining,…",
-          "authors": "Meghna Roy Chowdhury, Chengwei Zhou, Haotian Yu, Gourav Datta, Shreyas Sen"
+          "summary": "Deep Learning (DL)-based channel estimation has shown high accuracy and low latency in terrestrial 5G NR, but Low Earth Orbit (LEO) Non-Terrestrial Networks (NTNs) introduce Doppler and synchronization impairments that may require…",
+          "authors": "Miguel Camelo Botero, Nina Slamnik-Krije\\vstorac, Johann Marquez-Barja"
         }
       ]
     }
