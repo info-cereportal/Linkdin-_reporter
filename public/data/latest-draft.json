@@ -1,27 +1,26 @@
 {
-  "generatedAt": "2026-09-17T00:51:47.977Z",
-  "date": "2026-09-17",
-  "topic": "学習とクローズドループ制御",
-  "templateName": "three-insights",
+  "generatedAt": "2026-09-18T00:45:29.024Z",
+  "date": "2026-09-18",
+  "topic": "脳情報科学の最新研究",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Learning Options for Compositional Motor Control with Adapter Banks",
-  "paperLink": "https://arxiv.org/abs/2609.17042",
-  "figureUrl": "https://arxiv.org/html/2609.17042/2609.17042v1/Figure1_TC_Neurips-1.png",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\n学習とクローズドループ制御の最新成果を整理しました。\n\n🔬 学習 × クローズドループ制御\n\n📊 注目すべきデータ：\n→ We translate this principle into a novel architecture for learning motor skills end-to-end: a shared recurrent core modulated by a bank of residual adapters, each selected by a...\n→ A simple high-level policy over the learned options, optimized while the whole network is frozen, sequences the low-rank adapters to produce novel out-of-distribution movements.\n→ We demonstrate the ability to generalize to novel motor sequences within the closed-loop control setting, improving on the generalization error of a task-input-conditioned...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nBCI・ニューラルインターフェースの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Learning Options for Compositional Motor Control with Adapter Banks\n🔗 https://arxiv.org/abs/2609.17042\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #脳情報",
-  "summaryJP": "学習とクローズドループ制御 — 注目すべき3つの示唆（BCI・ニューラルインターフェース）",
-  "paperAuthors": "Sreejan Kumar, Marcelo Mattar, Lea Duncker",
-  "publishedDate": "Wed, 16 Sep 2026 00:00:00 -0400",
-  "paperId": "2609.17042",
+  "paperTitle": "Neural noise enables accurate internal simulation of rare events",
+  "paperLink": "https://arxiv.org/abs/2609.18033",
+  "figureUrl": "https://arxiv.org/html/2609.18033/2609.18033v1/figures/figure1.png",
+  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n脳情報科学の最新研究の最新研究です。\n\n🔬 脳情報科学\n\n📊 注目すべきデータ：\n→ Moderate noise also broadens the range of parameter values that produce accurate replay, making the model more robust to parameter variation.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Neural noise enables accurate internal simulation of rare events\n🔗 https://arxiv.org/abs/2609.18033\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #NeuralDecoding",
+  "summaryJP": "脳情報科学の最新研究 — 次世代へ続く布石（計算論的神経科学）",
+  "paperAuthors": "Heng Zhang, Pawel Herman, Zenas C. Chao",
+  "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
+  "paperId": "2609.18033",
   "paperSource": "arxiv",
-  "themeArea": "BCI・ニューラルインターフェース",
+  "themeArea": "計算論的神経科学",
   "jpKeywords": [
-    "学習",
-    "クローズドループ制御"
+    "脳情報科学"
   ],
-  "abstractExcerpt": "Learning flexible motor primitives is a hallmark of skilled motor control. Recent neuroscience theory proposes that motor primitives may be implemented as low-rank perturbations of a shared recurrent network, but leaves open how such a…",
+  "abstractExcerpt": "The brain needs an accurate internal model of the world to generate predictions and guide behavior. However, it must estimate the statistical structure of the environment from limited experience. This is particularly difficult for rare…",
   "figureUrls": [
-    "https://arxiv.org/html/2609.17042/2609.17042v1/Figure1_TC_Neurips-1.png",
-    "https://arxiv.org/html/2609.17042/2609.17042v1/FIgure2_TC_NeurIPS-1.png",
-    "https://arxiv.org/html/2609.17042/2609.17042v1/Figure3_TC_NeurIPS.png"
+    "https://arxiv.org/html/2609.18033/2609.18033v1/figures/figure1.png",
+    "https://arxiv.org/html/2609.18033/2609.18033v1/figures/figure2.png",
+    "https://arxiv.org/html/2609.18033/2609.18033v1/figures/figure3.png"
   ]
 }

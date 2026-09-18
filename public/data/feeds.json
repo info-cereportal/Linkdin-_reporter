@@ -1,59 +1,35 @@
 {
-  "generatedAt": "2026-09-17T00:51:48.461Z",
+  "generatedAt": "2026-09-18T00:45:29.428Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
+      "itemCount": 3,
       "items": [
         {
-          "title": "A neural-astrocyte architecture implements a hybrid automaton for evidence accumulation",
-          "url": "https://arxiv.org/abs/2609.16217",
-          "publishedDate": "Wed, 16 Sep 2026 00:00:00 -0400",
+          "title": "Neural noise enables accurate internal simulation of rare events",
+          "url": "https://arxiv.org/abs/2609.18033",
+          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Astrocytes are non-neuronal glial cells that are receiving widespread attention due to their emerging role in neural computation. In this paper, we propose and study dynamical mechanisms by which astrocytes may augment the ability of…",
-          "authors": "Giacomo Vedovati, Ilya E. Monosov, Thomas J. Papouin, ShiNung Ching"
+          "summary": "The brain needs an accurate internal model of the world to generate predictions and guide behavior. However, it must estimate the statistical structure of the environment from limited experience. This is particularly difficult for rare…",
+          "authors": "Heng Zhang, Pawel Herman, Zenas C. Chao"
         },
         {
-          "title": "Predictor Construction Can Reverse Multimodal Neural Contrasts",
-          "url": "https://arxiv.org/abs/2609.16430",
-          "publishedDate": "Wed, 16 Sep 2026 00:00:00 -0400",
+          "title": "Detection of spiking motifs of arbitrary length in neural activity using bounded synaptic delays",
+          "url": "https://arxiv.org/abs/2511.15296",
+          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Foundation-model features are increasingly used to ask what information neural activity represents, often by comparing prediction gains between nested encoding models. We show that such multimodal contrasts can change sign when only the…",
-          "authors": "Lucas Nadolskis, Galen Pogoncheff, Michael Beyeler"
+          "summary": "In the context of spiking neural networks, the temporal coding hypothesis is increasingly preferred over the rate coding hypothesis due to its advantages in processing speed and energy efficiency. In temporal coding, synaptic delays are…",
+          "authors": "Thomas Kronland-Martinet (INT), Stéphane Viollet (ISM), Laurent U Perrinet (INT)"
         },
         {
-          "title": "Learning Options for Compositional Motor Control with Adapter Banks",
-          "url": "https://arxiv.org/abs/2609.17042",
-          "publishedDate": "Wed, 16 Sep 2026 00:00:00 -0400",
+          "title": "NeuroSketch: A Practical Design Recipe for Neural Decoding",
+          "url": "https://arxiv.org/abs/2512.09524",
+          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Learning flexible motor primitives is a hallmark of skilled motor control. Recent neuroscience theory proposes that motor primitives may be implemented as low-rank perturbations of a shared recurrent network, but leaves open how such a…",
-          "authors": "Sreejan Kumar, Marcelo Mattar, Lea Duncker"
-        },
-        {
-          "title": "A New Approach to Characterize Dynamics of ECG-Derived Skin Nerve Activity via Time-Varying Spectral Analysis",
-          "url": "https://arxiv.org/abs/2411.08308",
-          "publishedDate": "Wed, 16 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Assessment of the sympathetic nervous system (SNS) is one of the major approaches for studying affective states. Skin nerve activity (SKNA) derived from high-frequency components of electrocardiogram (ECG) signals has been a promising…",
-          "authors": "Youngsun Kong, Farnoush Baghestani, William D'Angelo, I-Ping Chen, Ki H. Chon"
-        },
-        {
-          "title": "Equivalence of approximation by networks of single- and multi-spike neurons",
-          "url": "https://arxiv.org/abs/2603.13478",
-          "publishedDate": "Wed, 16 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "In a spiking neural network, is it enough for each neuron to spike at most once? In recent work, approximation bounds for spiking neural networks have been derived, quantifying how well they can fit target functions. However, these results…",
-          "authors": "Dominik Dold, Philipp Christian Petersen"
-        },
-        {
-          "title": "Subject-Specific Analysis of Self-Initiated Attention Shifts from EEG with Controlled Internal and External Attention Conditions",
-          "url": "https://arxiv.org/abs/2605.18251",
-          "publishedDate": "Wed, 16 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Self-initiated attention shifts play a critical role in voluntary behavior but are difficult to study due to the absence of explicit temporal markers. While previous studies have examined their neural correlates, it remains unclear how…",
-          "authors": "Yuwen Zeng, Dengzhe Hou, Zhang Zhang, Sai Sun, Yongsong Huang, Chia-huei Tseng, Satoshi Shioiri"
+          "summary": "Neural decoding is fundamental to brain-computer interfaces, with growing applications in healthcare. Previous research has focused on leveraging signal processing and deep learning methods to enhance neural decoding performance. However,…",
+          "authors": "Gaorui Zhang, Zhizhang Yuan, Jialan Yang, Junru Chen, Fanqi Shen, Li Meng, Yang Yang"
         }
       ]
     },
@@ -63,52 +39,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: Senators highlight the power Chris Klomp wields at confirmation hearings",
-          "url": "https://www.statnews.com/2026/09/16/senators-highlight-chris-klomp-power-rfk-jr-second-in-command/?utm_campaign=rss",
-          "publishedDate": "Wed, 16 Sep 2026 19:17:40 +0000",
+          "title": "Kennedy renews attacks on vaccines at Children’s Health Defense conference",
+          "url": "https://www.statnews.com/2026/09/17/rfk-jr-anti-vaccination-activism-childrens-health-defense-conference/?utm_campaign=rss",
+          "publishedDate": "Thu, 17 Sep 2026 20:40:04 +0000",
           "source": "statnews.com",
-          "summary": "Chris Klomp has already played a major role in the Trump administration and its Make America Healthy Again agenda.",
-          "authors": "Chelsea Cirruzzo"
+          "summary": "Health secretary RFK Jr. returned to his roots in a keynote address at a conference hosted by the Children’s Health Defense, an anti-vaccine nonprofit he helped start.",
+          "authors": "Isabella Cueto"
         },
         {
-          "title": "WHO expresses cautious optimism about bid to control Ebola outbreak in DRC",
-          "url": "https://www.statnews.com/2026/09/16/ebola-outbreak-drc-who-cautious-optimism/?utm_campaign=rss",
-          "publishedDate": "Wed, 16 Sep 2026 16:29:10 +0000",
+          "title": "STAT+: Why do ‘never-smokers’ get lung cancer? In some cases, rare genetic variant may be a factor",
+          "url": "https://www.statnews.com/2026/09/17/rare-gene-variant-boosts-lung-cancer-risk-25-fold-in-non-smokers/?utm_campaign=rss",
+          "publishedDate": "Thu, 17 Sep 2026 18:00:00 +0000",
           "source": "statnews.com",
-          "summary": "There is reason to be cautiously optimistic about the trajectory of the current Ebola outbreak in the Democratic Republic of the Congo, the WHO says.",
-          "authors": "Helen Branswell"
+          "summary": "Researchers have identified a very rare genetic variant that is associated with higher odds of lung cancer in \"never smokers.\"",
+          "authors": "Andrew Joseph"
         },
         {
-          "title": "U.S. reaches highest number of measles deaths in decades",
-          "url": "https://www.statnews.com/2026/09/16/health-news-us-reaches-measles-death-high-in-decades/?utm_campaign=rss",
-          "publishedDate": "Wed, 16 Sep 2026 11:56:12 +0000",
+          "title": "Kennedy moves to revive preventive services panel with new members, after months of vacancies",
+          "url": "https://www.statnews.com/2026/09/17/kennedy-names-eight-new-members-uspstf-task-force/?utm_campaign=rss",
+          "publishedDate": "Thu, 17 Sep 2026 14:57:41 +0000",
           "source": "statnews.com",
-          "summary": "How the midterms could change health care, the sedative contaminating the fentanyl black market, and other health news from Morning Rounds",
-          "authors": "Theresa Gaffney"
+          "summary": "The influential panel hasn't met in more than a year, after Kennedy canceled its meeting.",
+          "authors": "Chelsea Cirruzzo, Elizabeth Cooney,and Sarah Todd"
         },
         {
-          "title": "A fourth measles death is reported in Pennsylvania",
-          "url": "https://www.statnews.com/2026/09/15/fourth-measles-death-pennsylvania-acute-disseminated-encephalomyelitis/?utm_campaign=rss",
-          "publishedDate": "Tue, 15 Sep 2026 18:43:59 +0000",
+          "title": "STAT+: FDA has too few staffers to hire more staff",
+          "url": "https://www.statnews.com/2026/09/17/fda-hiring-bottleneck-senate-hearings-chris-klomp-nicole-saphier/?utm_campaign=rss",
+          "publishedDate": "Thu, 17 Sep 2026 14:17:03 +0000",
           "source": "statnews.com",
-          "summary": "Pennsylvania officials have reported a fourth measles-associated death within the past month, the latest in an unvaccinated 18-year-old.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "STAT+: RFK Jr. returns to his roots",
-          "url": "https://www.statnews.com/2026/09/15/rfk-childrens-health-defense-chris-klomp-hearings-dc-diagnosis/?utm_campaign=rss",
-          "publishedDate": "Tue, 15 Sep 2026 14:55:20 +0000",
-          "source": "statnews.com",
-          "summary": "Kennedy will keynote a Children's Health Defense event, and hospitals are disappointed by GOP's rural health fund.",
+          "summary": "FDA's hiring bottleneck, Dems plan for health care oversight, and more from STAT's D.C. Diagnosis newsletter.",
           "authors": "John Wilkerson"
         },
         {
-          "title": "Businesses can now apply for NIH funding",
-          "url": "https://www.statnews.com/2026/09/15/health-news-businesses-can-now-apply-for-nih-funding/?utm_campaign=rss",
-          "publishedDate": "Tue, 15 Sep 2026 12:03:33 +0000",
+          "title": "Purer fentanyl won’t solve the U.S. overdose death crisis, study says",
+          "url": "https://www.statnews.com/2026/09/17/health-news-fentanyl-overdoses-fda-doge-morning-rounds/?utm_campaign=rss",
+          "publishedDate": "Thu, 17 Sep 2026 14:11:18 +0000",
           "source": "statnews.com",
-          "summary": "RFK Jr. to speak at Children's Health Defense conference, how to protect your heart in outer space, and more health news",
-          "authors": "Amanda Erickson, Anil Oza,and Elizabeth Cooney"
+          "summary": "Cautious optimism in the Ebola outbreak, FDA still stymied by DOGE cuts, and other health updates from the Morning Rounds newsletter.",
+          "authors": "O. Rose Broderick and Theresa Gaffney"
+        },
+        {
+          "title": "STAT+: The FDA’s rebuilding effort is running into a new challenge",
+          "url": "https://www.statnews.com/2026/09/17/fda-doge-cuts-new-hires-slowed-centralized-hiring-center-short-staffed/?utm_campaign=rss",
+          "publishedDate": "Thu, 17 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The FDA's plan to hire thousands of new workers is being slowed by an overwhelmed HR center.",
+          "authors": "Margaret Manto"
         }
       ]
     },
@@ -118,52 +94,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "New lawsuit argues NIH violated First Amendment rights of grant applicants",
-          "url": "https://www.statnews.com/2026/09/16/lawsuit-argues-nih-violated-researcher-first-amendment-rights-aclu/?utm_campaign=rss",
-          "publishedDate": "Thu, 17 Sep 2026 00:39:34 +0000",
+          "title": "Kennedy announces new effort to speed up autism diagnoses",
+          "url": "https://www.statnews.com/2026/09/17/kennedy-announces-new-research-fund-to-improve-autism-diagnoses/?utm_campaign=rss",
+          "publishedDate": "Thu, 17 Sep 2026 22:09:30 +0000",
           "source": "statnews.com",
-          "summary": "The lawsuit seeks to halt the process of searching grant applications for specific terms to determine if they should be rejected.",
-          "authors": "Anil Oza"
+          "summary": "Health secretary Kennedy announced a new effort to improve autism diagnoses, arguing that the current model is outdated",
+          "authors": "O. Rose Broderick"
         },
         {
-          "title": "STAT+: GOP aims to change Medicare adviser’s math so it&#8217;s more favorable to health insurers",
-          "url": "https://www.statnews.com/2026/09/16/medicare-advantage-overpayments-analysis-medpac-change-apples-to-apples-act/?utm_campaign=rss",
-          "publishedDate": "Wed, 16 Sep 2026 20:20:15 +0000",
+          "title": "Kennedy renews attacks on vaccines at Children’s Health Defense conference",
+          "url": "https://www.statnews.com/2026/09/17/rfk-jr-anti-vaccination-activism-childrens-health-defense-conference/?utm_campaign=rss",
+          "publishedDate": "Thu, 17 Sep 2026 20:40:04 +0000",
           "source": "statnews.com",
-          "summary": "The GOP bill directs MedPAC to study the topic of overpayments to Medicare Advantage plans in a manner that’s more favorable to insurers.",
+          "summary": "Health secretary RFK Jr. returned to his roots in a keynote address at a conference hosted by the Children’s Health Defense, an anti-vaccine nonprofit he helped start.",
+          "authors": "Isabella Cueto"
+        },
+        {
+          "title": "Kennedy moves to revive preventive services panel with new members, after months of vacancies",
+          "url": "https://www.statnews.com/2026/09/17/kennedy-names-eight-new-members-uspstf-task-force/?utm_campaign=rss",
+          "publishedDate": "Thu, 17 Sep 2026 14:57:41 +0000",
+          "source": "statnews.com",
+          "summary": "The influential panel hasn't met in more than a year, after Kennedy canceled its meeting.",
+          "authors": "Chelsea Cirruzzo, Elizabeth Cooney,and Sarah Todd"
+        },
+        {
+          "title": "This popular fermented food may help flush nanoplastics from the body",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917101058.htm",
+          "publishedDate": "Thu, 17 Sep 2026 10:42:52 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A kimchi-derived bacterium can bind to nanoplastics under gut-like conditions and may help carry them out of the body. In mice, the probiotic more than doubled the amount of nanoplastics detected in feces, pointing to a surprising…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: FDA has too few staffers to hire more staff",
+          "url": "https://www.statnews.com/2026/09/17/fda-hiring-bottleneck-senate-hearings-chris-klomp-nicole-saphier/?utm_campaign=rss",
+          "publishedDate": "Thu, 17 Sep 2026 14:17:03 +0000",
+          "source": "statnews.com",
+          "summary": "FDA's hiring bottleneck, Dems plan for health care oversight, and more from STAT's D.C. Diagnosis newsletter.",
           "authors": "John Wilkerson"
         },
         {
-          "title": "STAT+: Senators highlight the power Chris Klomp wields at confirmation hearings",
-          "url": "https://www.statnews.com/2026/09/16/senators-highlight-chris-klomp-power-rfk-jr-second-in-command/?utm_campaign=rss",
-          "publishedDate": "Wed, 16 Sep 2026 19:17:40 +0000",
-          "source": "statnews.com",
-          "summary": "Chris Klomp has already played a major role in the Trump administration and its Make America Healthy Again agenda.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Scientists find an immune “false alarm” that may drive rapid aging",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm",
-          "publishedDate": "Wed, 16 Sep 2026 10:05:35 EDT",
+          "title": "Scientists find a natural gut compound that helps heal the intestine",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260916232529.htm",
+          "publishedDate": "Thu, 17 Sep 2026 07:13:50 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that some severe genetic disorders linked to rapid aging may be driven not just by damaged DNA, but by the body’s overreaction to that damage. When broken DNA fragments leak into the wrong part of a cell, an…",
+          "summary": "A natural compound produced by gut bacteria after digesting foods such as pomegranates, walnuts, and berries may help repair and protect the intestinal lining. The discovery reveals a surprising beneficial side of an inflammatory pathway…",
           "authors": ""
-        },
-        {
-          "title": "Scientists find the whole grain “sweet spot” for better heart health",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260915232126.htm",
-          "publishedDate": "Wed, 16 Sep 2026 08:52:48 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Eating four to six servings of whole grains a day may deliver meaningful benefits for heart health, according to a large review of 87 clinical trials. Researchers found improvements in body weight, waist size, blood pressure, cholesterol,…",
-          "authors": ""
-        },
-        {
-          "title": "Opinion: STAT+: Dementia should be a campaign issue — not an insult",
-          "url": "https://www.statnews.com/2026/09/16/dementia-november-2026-midterm-elections-policy-privacy-caregivers-economy/?utm_campaign=rss",
-          "publishedDate": "Wed, 16 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "STAT’s Neurotransmissions columnist Jason Karlawish asks: What are the harms of the way politicians talk about dementia? What should they say instead?",
-          "authors": "Jason Karlawish"
         }
       ]
     },
@@ -173,52 +149,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Joint UAV Activation and Placement for Post-Disaster Wireless Restoration via a Hybrid Quantum-Inspired Evolutionary Framework",
-          "url": "https://arxiv.org/abs/2609.16019",
-          "publishedDate": "Wed, 16 Sep 2026 00:00:00 -0400",
+          "title": "BLADE: ReliaBle Dynamic Hardware-Aware SNN-ANN Boundary SeLection for Event-BAseD Object DEtection",
+          "url": "https://arxiv.org/abs/2609.17562",
+          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In post-disaster environments, the failure of terrestrial communication infrastructure necessitates the rapid deployment of unmanned aerial vehicles (UAVs) as aerial base stations to restore wireless connectivity. This paper addresses the…",
-          "authors": "Fatima Azzahraa Amarcha, Lahcen Hassine, Rachid Saadane, Mohamed Rahouti, Rachid Ahl Laamara, Abdallah Slaoui, Hany S. khalifa"
+          "summary": "Hybrid Spiking Neural Network (SNN)-Artificial Neural Network (ANN) architectures combine the energy efficiency of SNNs with the superior detection accuracy of ANNs for event-based object detection. Existing hybrid SNN--ANN networks,…",
+          "authors": "Mahdi Taheri, Alwin Paul"
         },
         {
-          "title": "Scaled Hippocampus-inspired Neural Networks on Neuromorphic Memristive Hardware",
-          "url": "https://arxiv.org/abs/2609.16429",
-          "publishedDate": "Wed, 16 Sep 2026 00:00:00 -0400",
+          "title": "Evolutionary Ensemble Search: Council-Guided Program Evolution with Persistent Memory",
+          "url": "https://arxiv.org/abs/2609.17590",
+          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The hippocampus, a key brain region for learning and memory, exhibits rich structural diversity, sparse communication, and robust dynamics with incredible energy efficiency. It offers promising insights for novel computing capabilities,…",
-          "authors": "Joseph A. Kilgore, Jeffrey D. Kopsick, Zahin Ahmed, Giorgio A. Ascoli, Gina C. Adam"
+          "summary": "Evolutionary Ensemble Search (EES) constructs machine-learning procedures through expert-guided program evolution. A role-specialized council turns task evidence and experimental results into structured search directions. An orchestrator…",
+          "authors": "Juan P. Madrigal-Cianci, Eshan Chordia"
         },
         {
-          "title": "LLMDE: A Large Language Model-Driven Differential Evolution Algorithm for Portfolio Optimization",
-          "url": "https://arxiv.org/abs/2609.16846",
-          "publishedDate": "Wed, 16 Sep 2026 00:00:00 -0400",
+          "title": "The Cost of Becoming: Developmental Encoding Increases Phenotypic Diversity but Reduces Locality and Recombination Robustness in Evolved Robots",
+          "url": "https://arxiv.org/abs/2609.17606",
+          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This study proposes a Large Language Model-Driven Differential Evolution (LLMDE) algorithm to reduce the reliance on handcrafted hyperparameter design. The proposed algorithm leverages a prompt engineering strategy, allowing large language…",
-          "authors": "Rong Chai, Vaclav Snasel, Xiaopeng Wang, Seyedali Mirjalili, Crina Grosan"
-        },
-        {
-          "title": "Bio-Inspired Palette Evolution in Indirectly Encoded Substrates: Timescale Compatibility Shapes Activation Function Discovery",
-          "url": "https://arxiv.org/abs/2609.17067",
-          "publishedDate": "Wed, 16 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Indirectly encoded neural networks can assign different activation functions to individual nodes, but the right functions are rarely known in advance. When the available set contains only standard monotonic functions, problems like parity…",
-          "authors": "Romain Claret, Michael O'Neill, Paul Cotofrei, Kilian Stoffel"
-        },
-        {
-          "title": "Machine Zygote: Causal Biparental Heredity Before Learning in a Germline--Soma Artificial Agent",
-          "url": "https://arxiv.org/abs/2609.17300",
-          "publishedDate": "Wed, 16 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Artificial ontogeny, developmental encodings, robot reproduction, and inherited controllers are established research directions, yet a narrower question remains: can a newborn artificial agent exhibit measurable biparental heredity before…",
+          "summary": "Developmental encodings are often motivated by the expectation that a structured genotype-to-phenotype process can improve evolvability, robustness, and adaptation. Yet an encoding that expands phenotypic variation may simultaneously make…",
           "authors": "Lyes Saad Saoud"
         },
         {
-          "title": "A Spatiotemporal Extension of the Neuromorphic DBSCAN Implementation",
-          "url": "https://arxiv.org/abs/2609.17357",
-          "publishedDate": "Wed, 16 Sep 2026 00:00:00 -0400",
+          "title": "Benchmarking Tabular Foundation Models as Surrogates in Expensive Evolutionary Optimization",
+          "url": "https://arxiv.org/abs/2609.18130",
+          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "DBSCAN is an algorithm that denoises and clusters data. In prior work, we implemented the DBSCAN algorithm neuromorphically, introducing two constructions termed ``flat'' and ``systolic''. The ``flat'' construction prioritizes throughput,…",
-          "authors": "Charles P. Rizzo, James S. Plank"
+          "summary": "Surrogate-assisted evolutionary algorithms (SAEAs) are effective methods for solving expensive optimization problems (EOPs), where surrogate models replace most expensive evaluations and critically influence the final optimization results.…",
+          "authors": "Lu Han, Jin Wang, Yuchen Li, Haoran Gu, Shulei Liu, Ziyang Shi, Wenao Lu, Handing Wang"
+        },
+        {
+          "title": "A Metaheuristic Optimization Framework for Discrete Optimization under Strict Time Limits",
+          "url": "https://arxiv.org/abs/2609.18702",
+          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Real-time applications often rely on optimization approaches that can find high-quality solutions to hard problems on the order of milliseconds. Metaheuristic optimization frameworks (MOFs) are useful tools for such tasks, as they provide…",
+          "authors": "Umut Çal\\iky\\ilmaz, Nitin Nayak, Sven Groppe"
+        },
+        {
+          "title": "Graph neural networks for exoplanet atmospheres",
+          "url": "https://arxiv.org/abs/2609.17894",
+          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Calculating disequilibrium chemistry in exoplanet atmospheres remains a significant computational bottleneck in atmospheric retrievals. The increasing observational precision from facilities such as JWST and the Ariel mission requires…",
+          "authors": "Antonia Vojtekova, Kai Hou Yip, Ingo P. Waldmann, Nikolaos Nikolaou, Olivia Venot, Ahmed Faris Al-Refaie, Bruno Merín"
         }
       ]
     },

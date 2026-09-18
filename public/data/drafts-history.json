@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-09-18T00:45:29.024Z",
+    "date": "2026-09-18",
+    "topic": "脳情報科学の最新研究",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Neural noise enables accurate internal simulation of rare events",
+    "paperLink": "https://arxiv.org/abs/2609.18033",
+    "figureUrl": "https://arxiv.org/html/2609.18033/2609.18033v1/figures/figure1.png",
+    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n脳情報科学の最新研究の最新研究です。\n\n🔬 脳情報科学\n\n📊 注目すべきデータ：\n→ Moderate noise also broadens the range of parameter values that produce accurate replay, making the model more robust to parameter variation.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Neural noise enables accurate internal simulation of rare events\n🔗 https://arxiv.org/abs/2609.18033\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #NeuralDecoding",
+    "summaryJP": "脳情報科学の最新研究 — 次世代へ続く布石（計算論的神経科学）",
+    "paperAuthors": "Heng Zhang, Pawel Herman, Zenas C. Chao",
+    "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
+    "paperId": "2609.18033",
+    "paperSource": "arxiv",
+    "themeArea": "計算論的神経科学",
+    "jpKeywords": [
+      "脳情報科学"
+    ],
+    "abstractExcerpt": "The brain needs an accurate internal model of the world to generate predictions and guide behavior. However, it must estimate the statistical structure of the environment from limited experience. This is particularly difficult for rare…",
+    "figureUrls": [
+      "https://arxiv.org/html/2609.18033/2609.18033v1/figures/figure1.png",
+      "https://arxiv.org/html/2609.18033/2609.18033v1/figures/figure2.png",
+      "https://arxiv.org/html/2609.18033/2609.18033v1/figures/figure3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-09-17T00:51:47.977Z",
     "date": "2026-09-17",
     "topic": "学習とクローズドループ制御",
@@ -1248,31 +1274,6 @@
       "https://arxiv.org/html/2604.09229/2604.09229v2/x1.png",
       "https://arxiv.org/html/2604.09229/2604.09229v2/x2.png",
       "https://arxiv.org/html/2604.09229/2604.09229v2/fig5_autism_bimodality.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-07-29T23:37:49.324Z",
-    "date": "2026-07-29",
-    "topic": "ブレイン・コンピュータ・インターフェース(BCI)と学習",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "More Electrodes, Faster Minds? Rethinking Bandwidth in Brain-Computer Interfaces",
-    "paperLink": "https://arxiv.org/abs/2607.24820",
-    "figureUrl": "https://arxiv.org/html/2607.24820/2607.24820v1/4a472f93-3e98-49e3-a036-d098df0881eb.png",
-    "formatted": "ブレイン・コンピュータ・インターフェース(BCI)と学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × 学習\n\n> High-bandwidth brain--computer interfaces (BCIs) can bypass damaged pathways, reduce motor costs, and improve communication and control. They also inspire visions of accelerated thought output, mind reading, and instant skill acquisition.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nBCI・ニューラルインターフェースの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 More Electrodes, Faster Minds? Rethinking Bandwidth in Brain-Computer Interfaces\n🔗 https://arxiv.org/abs/2607.24820\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #認知科学",
-    "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)と学習 — 通説を揺さぶる新たな知見（BCI・ニューラルインターフェース）",
-    "paperAuthors": "Boxuan Jiang",
-    "publishedDate": "Wed, 29 Jul 2026 00:00:00 -0400",
-    "paperId": "2607.24820",
-    "paperSource": "arxiv",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "ブレイン・コンピュータ・インターフェース(BCI)",
-      "学習"
-    ],
-    "abstractExcerpt": "High-bandwidth brain--computer interfaces (BCIs) can bypass damaged pathways, reduce motor costs, and improve communication and control. They also inspire visions of accelerated thought output, mind reading, and instant skill acquisition.…",
-    "figureUrls": [
-      "https://arxiv.org/html/2607.24820/2607.24820v1/4a472f93-3e98-49e3-a036-d098df0881eb.png"
     ]
   }
 ]
