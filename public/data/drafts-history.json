@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-09-19T00:36:02.474Z",
+    "date": "2026-09-19",
+    "topic": "セロトニンとドーパミン",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "A Regional Dopamine-Serotonin Control Model of Conscious State",
+    "paperLink": "https://arxiv.org/abs/2507.02614",
+    "figureUrl": "https://arxiv.org/html/2507.02614/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
+    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n脳科学とAI——その境界線が消えつつある。\n\nセロトニンとドーパミンに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 セロトニン × ドーパミン × 睡眠\n\n📊 注目すべきデータ：\n→ A formulation contrast gives +1.220 minutes per 100 mg/day LEDD substitution at fixed total levodopa LEDD (95% interval 0.425 to 2.014, Holm-adjusted p = 0.0546 across six tests).\n→ A regional motor comparison in 254 participants finds an uncertain incremental prediction gain from a regional imaging response term (log-score difference $-7.38\\times10^-5$, 95%...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n脳情報科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 A Regional Dopamine-Serotonin Control Model of Conscious State\n🔗 https://arxiv.org/abs/2507.02614\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #計算論的神経科学",
+    "summaryJP": "セロトニンとドーパミン — 脳科学とAIをつなぐ研究",
+    "paperAuthors": "Diogo Sousa",
+    "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
+    "paperId": "2507.02614",
+    "paperSource": "arxiv",
+    "themeArea": "脳情報科学",
+    "jpKeywords": [
+      "セロトニン",
+      "ドーパミン",
+      "睡眠"
+    ],
+    "abstractExcerpt": "This article proposes a dopamine-serotonin theory of conscious state control. Regional dopamine signaling controls a candidate intensity coordinate and serotonergic signaling changes a candidate coordinate of felt complexity and…",
+    "figureUrls": [
+      "https://arxiv.org/html/2507.02614/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
+    ]
+  },
+  {
     "generatedAt": "2026-09-18T00:45:29.024Z",
     "date": "2026-09-18",
     "topic": "脳情報科学の最新研究",
@@ -1246,34 +1272,6 @@
       "https://arxiv.org/html/2607.28601/2607.28601v1/x1.png",
       "https://arxiv.org/html/2607.28601/2607.28601v1/figures/model_figure_final.png",
       "https://arxiv.org/html/2607.28601/2607.28601v1/figures/observation_steps_model_vs_human_pooled_exp1234.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-07-30T23:37:04.394Z",
-    "date": "2026-07-30",
-    "topic": "前帯状皮質と社会的認知",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "The Fast Lane Hypothesis: Von Economo Neurons Implement a Biological Speed-Accuracy Tradeoff",
-    "paperLink": "https://arxiv.org/abs/2604.09229",
-    "figureUrl": "https://arxiv.org/html/2604.09229/2604.09229v2/x1.png",
-    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、前帯状皮質と社会的認知の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 前帯状皮質 × 社会的認知 × 意思決定\n\n📊 注目すべきデータ：\n→ Networks are evaluated under three clinically motivated conditions across 10 independent random seeds: typical (2% VENs), autism-like (0.4% VENs), and FTD-like (post-training VEN...\n→ All configurations achieve equivalent asymptotic classification accuracy (~99.4%), consistent with the prediction that VENs modulate decision speed rather than representational...\n→ At a fixed decision threshold of theta=3, the typical condition is significantly faster than FTD-like (t=-23.31, p<0.0001), while the autism-like condition is intermediate (mean...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 The Fast Lane Hypothesis: Von Economo Neurons Implement a Biological Speed-Accuracy Tradeoff\n🔗 https://arxiv.org/abs/2604.09229\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #神経科学",
-    "summaryJP": "前帯状皮質と社会的認知 — 数値で示された新事実（神経デコーディング）",
-    "paperAuthors": "Esila Keskin",
-    "publishedDate": "Thu, 30 Jul 2026 00:00:00 -0400",
-    "paperId": "2604.09229",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "前帯状皮質",
-      "社会的認知",
-      "意思決定"
-    ],
-    "abstractExcerpt": "von Economo neurons (VENs) are large bipolar projection neurons found exclusively in the anterior cingulate cortex (ACC) and frontal insula of species with complex social cognition, including humans, great apes, cetaceans, and elephants.…",
-    "figureUrls": [
-      "https://arxiv.org/html/2604.09229/2604.09229v2/x1.png",
-      "https://arxiv.org/html/2604.09229/2604.09229v2/x2.png",
-      "https://arxiv.org/html/2604.09229/2604.09229v2/fig5_autism_bimodality.png"
     ]
   }
 ]

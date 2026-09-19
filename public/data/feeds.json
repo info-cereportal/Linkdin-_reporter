@@ -1,35 +1,43 @@
 {
-  "generatedAt": "2026-09-18T00:45:29.428Z",
+  "generatedAt": "2026-09-19T00:36:03.111Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 3,
+      "itemCount": 4,
       "items": [
         {
-          "title": "Neural noise enables accurate internal simulation of rare events",
-          "url": "https://arxiv.org/abs/2609.18033",
-          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
+          "title": "A Mathematical Model of Motivated Emotional Mind - Cognitive Embodied System",
+          "url": "https://arxiv.org/abs/2609.20437",
+          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The brain needs an accurate internal model of the world to generate predictions and guide behavior. However, it must estimate the statistical structure of the environment from limited experience. This is particularly difficult for rare…",
-          "authors": "Heng Zhang, Pawel Herman, Zenas C. Chao"
+          "summary": "This article presents a mathematical model of the Motivated Emotional Mind cognitive architecture developed for embodied intelligent systems. Such a system learns to maintain its homeostasis through a generalized form of reinforcement…",
+          "authors": "Wiesław L. Galus, Janusz A. Starzyk"
         },
         {
-          "title": "Detection of spiking motifs of arbitrary length in neural activity using bounded synaptic delays",
-          "url": "https://arxiv.org/abs/2511.15296",
-          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
+          "title": "Intact-to-Amputee Transfer in Surface-EMG Gesture Decoding: Training Source and Calibration Budget",
+          "url": "https://arxiv.org/abs/2609.20297",
+          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In the context of spiking neural networks, the temporal coding hypothesis is increasingly preferred over the rate coding hypothesis due to its advantages in processing speed and energy efficiency. In temporal coding, synaptic delays are…",
-          "authors": "Thomas Kronland-Martinet (INT), Stéphane Viollet (ISM), Laurent U Perrinet (INT)"
+          "summary": "A recogniser trained on one person rarely transfers to the next, and useful performance usually demands a fresh round of labelled calibration from the end user. A systematic review of 1077 studies quantifies where the evidence is thin:…",
+          "authors": "Jethro Odeyemi, W. J. Zhang"
         },
         {
-          "title": "NeuroSketch: A Practical Design Recipe for Neural Decoding",
-          "url": "https://arxiv.org/abs/2512.09524",
-          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
+          "title": "Neural Langevin Machine: a local asymmetric learning rule can be creative",
+          "url": "https://arxiv.org/abs/2506.23546",
+          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neural decoding is fundamental to brain-computer interfaces, with growing applications in healthcare. Previous research has focused on leveraging signal processing and deep learning methods to enhance neural decoding performance. However,…",
-          "authors": "Gaorui Zhang, Zhizhang Yuan, Jialan Yang, Junru Chen, Fanqi Shen, Li Meng, Yang Yang"
+          "summary": "Fixed points of recurrent neural networks can be leveraged to store and generate information. These fixed points are captured by the Boltzmann-Gibbs measure, which leads to neural Langevin dynamics that relax to those fixed points for…",
+          "authors": "Zhendong Yu, Weizhong Huang, Haiping Huang"
+        },
+        {
+          "title": "A Regional Dopamine-Serotonin Control Model of Conscious State",
+          "url": "https://arxiv.org/abs/2507.02614",
+          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "This article proposes a dopamine-serotonin theory of conscious state control. Regional dopamine signaling controls a candidate intensity coordinate and serotonergic signaling changes a candidate coordinate of felt complexity and…",
+          "authors": "Diogo Sousa"
         }
       ]
     },
@@ -38,6 +46,30 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Who supports policies for &#8216;health equity&#8217;? It depends on how you&#8217;re asking",
+          "url": "https://www.statnews.com/2026/09/18/health-news-who-supports-health-equity-policy-in-america/?utm_campaign=rss",
+          "publishedDate": "Fri, 18 Sep 2026 12:11:48 +0000",
+          "source": "statnews.com",
+          "summary": "Kennedy speaks at the Children's Health Defense, medical facilities under attack in Sudan, and more health news from Morning Rounds",
+          "authors": "Anil Oza"
+        },
+        {
+          "title": "In Sudan, attacks on hospitals force patients to make dangerous journeys",
+          "url": "https://www.statnews.com/2026/09/18/sudan-civil-war-cancer-treatment-wartime-tom-catena-mother-mercy-hospital/?utm_campaign=rss",
+          "publishedDate": "Fri, 18 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Amid a civil war in Sudan, it’s now difficult for people with cancer and other long-term illnesses to receive treatment that was once readily available",
+          "authors": "Sophie Neiman"
+        },
+        {
+          "title": "Opinion: Doctors should educate patients about ‘Asian glow’ and drinking risks",
+          "url": "https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss",
+          "publishedDate": "Fri, 18 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "It wasn’t until he started medical school, Brian Zhang writes, that he realized ‘Asian glow’ from drinking was a sign of something important.",
+          "authors": "Brian Zhang"
+        },
         {
           "title": "Kennedy renews attacks on vaccines at Children’s Health Defense conference",
           "url": "https://www.statnews.com/2026/09/17/rfk-jr-anti-vaccination-activism-childrens-health-defense-conference/?utm_campaign=rss",
@@ -61,30 +93,6 @@
           "source": "statnews.com",
           "summary": "The influential panel hasn't met in more than a year, after Kennedy canceled its meeting.",
           "authors": "Chelsea Cirruzzo, Elizabeth Cooney,and Sarah Todd"
-        },
-        {
-          "title": "STAT+: FDA has too few staffers to hire more staff",
-          "url": "https://www.statnews.com/2026/09/17/fda-hiring-bottleneck-senate-hearings-chris-klomp-nicole-saphier/?utm_campaign=rss",
-          "publishedDate": "Thu, 17 Sep 2026 14:17:03 +0000",
-          "source": "statnews.com",
-          "summary": "FDA's hiring bottleneck, Dems plan for health care oversight, and more from STAT's D.C. Diagnosis newsletter.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "Purer fentanyl won’t solve the U.S. overdose death crisis, study says",
-          "url": "https://www.statnews.com/2026/09/17/health-news-fentanyl-overdoses-fda-doge-morning-rounds/?utm_campaign=rss",
-          "publishedDate": "Thu, 17 Sep 2026 14:11:18 +0000",
-          "source": "statnews.com",
-          "summary": "Cautious optimism in the Ebola outbreak, FDA still stymied by DOGE cuts, and other health updates from the Morning Rounds newsletter.",
-          "authors": "O. Rose Broderick and Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: The FDA’s rebuilding effort is running into a new challenge",
-          "url": "https://www.statnews.com/2026/09/17/fda-doge-cuts-new-hires-slowed-centralized-hiring-center-short-staffed/?utm_campaign=rss",
-          "publishedDate": "Thu, 17 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The FDA's plan to hire thousands of new workers is being slowed by an overwhelmed HR center.",
-          "authors": "Margaret Manto"
         }
       ]
     },
@@ -94,52 +102,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Trump touts pharma deals to offer cheaper drugs to state Medicaid programs",
+          "url": "https://www.statnews.com/2026/09/18/trump-touts-state-participation-generous-medicaid-drug-discount-program/?utm_campaign=rss",
+          "publishedDate": "Fri, 18 Sep 2026 20:22:36 +0000",
+          "source": "statnews.com",
+          "summary": "Every state will participate in the GENEROUS program, but many of the details are unknown.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Scientists discover cells that cheat death and rebuild damaged tissue",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm",
+          "publishedDate": "Fri, 18 Sep 2026 08:30:43 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists discovered a population of cells that can start the process of programmed cell death, survive it, and then help rapidly rebuild damaged tissue. Their descendants become far more resistant to future damage, revealing a mechanism…",
+          "authors": ""
+        },
+        {
+          "title": "These blood thinners may have an unexpected benefit for Alzheimer’s patients",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003732.htm",
+          "publishedDate": "Fri, 18 Sep 2026 05:48:31 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive function than those using warfarin or…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists restore a brain protein and reverse signs of aging in mice",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
+          "publishedDate": "Fri, 18 Sep 2026 00:25:45 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring Menin reversed several age-related…",
+          "authors": ""
+        },
+        {
+          "title": "Ozempic can change your body. Can it change your life?",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003728.htm",
+          "publishedDate": "Thu, 17 Sep 2026 23:52:09 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Ozempic and other GLP-1 medications can improve blood sugar, weight, and cardiovascular health, but researchers found little evidence that they also improve mental health, employment, marriage, or overall well-being. The findings suggest…",
+          "authors": ""
+        },
+        {
           "title": "Kennedy announces new effort to speed up autism diagnoses",
           "url": "https://www.statnews.com/2026/09/17/kennedy-announces-new-research-fund-to-improve-autism-diagnoses/?utm_campaign=rss",
           "publishedDate": "Thu, 17 Sep 2026 22:09:30 +0000",
           "source": "statnews.com",
           "summary": "Health secretary Kennedy announced a new effort to improve autism diagnoses, arguing that the current model is outdated",
           "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "Kennedy renews attacks on vaccines at Children’s Health Defense conference",
-          "url": "https://www.statnews.com/2026/09/17/rfk-jr-anti-vaccination-activism-childrens-health-defense-conference/?utm_campaign=rss",
-          "publishedDate": "Thu, 17 Sep 2026 20:40:04 +0000",
-          "source": "statnews.com",
-          "summary": "Health secretary RFK Jr. returned to his roots in a keynote address at a conference hosted by the Children’s Health Defense, an anti-vaccine nonprofit he helped start.",
-          "authors": "Isabella Cueto"
-        },
-        {
-          "title": "Kennedy moves to revive preventive services panel with new members, after months of vacancies",
-          "url": "https://www.statnews.com/2026/09/17/kennedy-names-eight-new-members-uspstf-task-force/?utm_campaign=rss",
-          "publishedDate": "Thu, 17 Sep 2026 14:57:41 +0000",
-          "source": "statnews.com",
-          "summary": "The influential panel hasn't met in more than a year, after Kennedy canceled its meeting.",
-          "authors": "Chelsea Cirruzzo, Elizabeth Cooney,and Sarah Todd"
-        },
-        {
-          "title": "This popular fermented food may help flush nanoplastics from the body",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260917101058.htm",
-          "publishedDate": "Thu, 17 Sep 2026 10:42:52 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A kimchi-derived bacterium can bind to nanoplastics under gut-like conditions and may help carry them out of the body. In mice, the probiotic more than doubled the amount of nanoplastics detected in feces, pointing to a surprising…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: FDA has too few staffers to hire more staff",
-          "url": "https://www.statnews.com/2026/09/17/fda-hiring-bottleneck-senate-hearings-chris-klomp-nicole-saphier/?utm_campaign=rss",
-          "publishedDate": "Thu, 17 Sep 2026 14:17:03 +0000",
-          "source": "statnews.com",
-          "summary": "FDA's hiring bottleneck, Dems plan for health care oversight, and more from STAT's D.C. Diagnosis newsletter.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "Scientists find a natural gut compound that helps heal the intestine",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260916232529.htm",
-          "publishedDate": "Thu, 17 Sep 2026 07:13:50 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A natural compound produced by gut bacteria after digesting foods such as pomegranates, walnuts, and berries may help repair and protect the intestinal lining. The discovery reveals a surprising beneficial side of an inflammatory pathway…",
-          "authors": ""
         }
       ]
     },
@@ -149,61 +157,77 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "BLADE: ReliaBle Dynamic Hardware-Aware SNN-ANN Boundary SeLection for Event-BAseD Object DEtection",
-          "url": "https://arxiv.org/abs/2609.17562",
-          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
+          "title": "Position Paper: Neurotransmitters as a Missing Dimension in Artificial Neural Networks",
+          "url": "https://arxiv.org/abs/2609.20083",
+          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Hybrid Spiking Neural Network (SNN)-Artificial Neural Network (ANN) architectures combine the energy efficiency of SNNs with the superior detection accuracy of ANNs for event-based object detection. Existing hybrid SNN--ANN networks,…",
-          "authors": "Mahdi Taheri, Alwin Paul"
+          "summary": "Artificial neural networks (ANNs), as core components of modern deep learning (DL) systems, lack the adaptive flexibility and long-term stability exhibited by biological systems. This limitation largely stems from the fact that…",
+          "authors": "Yupei Li, Manuel Milling, Berrak Sisman, Björn Schuller"
         },
         {
-          "title": "Evolutionary Ensemble Search: Council-Guided Program Evolution with Persistent Memory",
-          "url": "https://arxiv.org/abs/2609.17590",
-          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
+          "title": "Self-Replicating Neural Cellular Automata: Quantifying Emergent Phenotypic and Genotypic Diversity in an OpenEnded Substrate",
+          "url": "https://arxiv.org/abs/2609.19902",
+          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Evolutionary Ensemble Search (EES) constructs machine-learning procedures through expert-guided program evolution. A role-specialized council turns task evidence and experimental results into structured search directions. An orchestrator…",
-          "authors": "Juan P. Madrigal-Cianci, Eshan Chordia"
+          "summary": "We study an in-silico substrate in which every pixel of a two-channel cellular-automata grid carries a tiny neural network (an agent) that senses its Moore neighborhood. A cell persists only by self-replication: a living neighbor is cloned…",
+          "authors": "Sanyam Jain, Felix Simon Reimers, Stefano Nichele"
         },
         {
-          "title": "The Cost of Becoming: Developmental Encoding Increases Phenotypic Diversity but Reduces Locality and Recombination Robustness in Evolved Robots",
-          "url": "https://arxiv.org/abs/2609.17606",
-          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
+          "title": "NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference",
+          "url": "https://arxiv.org/abs/2511.05215",
+          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Developmental encodings are often motivated by the expectation that a structured genotype-to-phenotype process can improve evolvability, robustness, and adaptation. Yet an encoding that expands phenotypic variation may simultaneously make…",
-          "authors": "Lyes Saad Saoud"
+          "summary": "Sparse DNN accelerators specialize in ANN or SNN execution, leaving energy or latency on the table when workload characteristics vary within a layer. Hybrid accelerator designs that switch modes at layer or tile granularity suffer from low…",
+          "authors": "Varun Manjunath, Pranav Ramesh, Gopalakrishnan Srinivasan"
         },
         {
-          "title": "Benchmarking Tabular Foundation Models as Surrogates in Expensive Evolutionary Optimization",
-          "url": "https://arxiv.org/abs/2609.18130",
-          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
+          "title": "Quantization robustness from dense representations of sparse functions in high-capacity kernel associative memory",
+          "url": "https://arxiv.org/abs/2604.20333",
+          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Surrogate-assisted evolutionary algorithms (SAEAs) are effective methods for solving expensive optimization problems (EOPs), where surrogate models replace most expensive evaluations and critically influence the final optimization results.…",
-          "authors": "Lu Han, Jin Wang, Yuchen Li, Haoran Gu, Shulei Liu, Ziyang Shi, Wenao Lu, Handing Wang"
+          "summary": "High-capacity associative memories based on Kernel Logistic Regression (KLR) achieve strong retrieval performance but typically require substantial computational resources. This paper investigates the compressibility of KLR Hopfield…",
+          "authors": "Akira Tamamori"
         },
         {
-          "title": "A Metaheuristic Optimization Framework for Discrete Optimization under Strict Time Limits",
-          "url": "https://arxiv.org/abs/2609.18702",
-          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
+          "title": "Genetic algorithm vs. gradient descent for training a neural network architecture dedicated to low data regimes in small medical datasets",
+          "url": "https://arxiv.org/abs/2605.27411",
+          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Real-time applications often rely on optimization approaches that can find high-quality solutions to hard problems on the order of milliseconds. Metaheuristic optimization frameworks (MOFs) are useful tools for such tasks, as they provide…",
-          "authors": "Umut Çal\\iky\\ilmaz, Nitin Nayak, Sven Groppe"
+          "summary": "Aim/Introduction: Distance-encoding biomorphic-informational neural network (DEBI-NN) is a recently proposed architecture in which connection weights are defined by the distances between neurons positioned in a Euclidian space. This…",
+          "authors": "Amine Boukhari, Boglarka Ecsedi, Laszlo Papp, Mathieu Hatt"
         },
         {
-          "title": "Graph neural networks for exoplanet atmospheres",
-          "url": "https://arxiv.org/abs/2609.17894",
-          "publishedDate": "Thu, 17 Sep 2026 00:00:00 -0400",
+          "title": "Neural Langevin Machine: a local asymmetric learning rule can be creative",
+          "url": "https://arxiv.org/abs/2506.23546",
+          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Calculating disequilibrium chemistry in exoplanet atmospheres remains a significant computational bottleneck in atmospheric retrievals. The increasing observational precision from facilities such as JWST and the Ariel mission requires…",
-          "authors": "Antonia Vojtekova, Kai Hou Yip, Ingo P. Waldmann, Nikolaos Nikolaou, Olivia Venot, Ahmed Faris Al-Refaie, Bruno Merín"
+          "summary": "Fixed points of recurrent neural networks can be leveraged to store and generate information. These fixed points are captured by the Boltzmann-Gibbs measure, which leads to neural Langevin dynamics that relax to those fixed points for…",
+          "authors": "Zhendong Yu, Weizhong Huang, Haiping Huang"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 2,
+      "items": [
+        {
+          "title": "Phase-Coherent Doppler-Only Sensing for D-MIMO ISAC",
+          "url": "https://arxiv.org/abs/2609.19401",
+          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "This paper studies phase-coherent Doppler-only sensing for bandwidth-limited sub-6 GHz D-MIMO ISAC. We consider a multistatic system with one transmitter and multiple synchronized single-antenna receivers, and develop noncoherent and…",
+          "authors": "Silan Karadag, Musa Furkan Keskin, Navid Amani, Nikita Lyamin, Annelie Wyholt, Henk Wymeersch"
+        },
+        {
+          "title": "Practical flow state detection: Entropy-based EEG classification from portable EEG headbands",
+          "url": "https://arxiv.org/abs/2609.19737",
+          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Flow state, characterized by deep engagement and immersion during challenging activities, represents a valuable mental state with significant implications for learning, performance, and rehabilitation outcomes. While flow has been…",
+          "authors": "Matin Beiramvand, Reijo Koivula, Tarmo Lipping"
+        }
+      ]
     }
   }
 }
