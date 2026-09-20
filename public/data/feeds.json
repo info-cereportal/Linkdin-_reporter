@@ -1,51 +1,26 @@
 {
-  "generatedAt": "2026-09-19T00:36:03.111Z",
+  "generatedAt": "2026-09-20T00:21:50.202Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 4,
-      "items": [
-        {
-          "title": "A Mathematical Model of Motivated Emotional Mind - Cognitive Embodied System",
-          "url": "https://arxiv.org/abs/2609.20437",
-          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This article presents a mathematical model of the Motivated Emotional Mind cognitive architecture developed for embodied intelligent systems. Such a system learns to maintain its homeostasis through a generalized form of reinforcement…",
-          "authors": "Wiesław L. Galus, Janusz A. Starzyk"
-        },
-        {
-          "title": "Intact-to-Amputee Transfer in Surface-EMG Gesture Decoding: Training Source and Calibration Budget",
-          "url": "https://arxiv.org/abs/2609.20297",
-          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "A recogniser trained on one person rarely transfers to the next, and useful performance usually demands a fresh round of labelled calibration from the end user. A systematic review of 1077 studies quantifies where the evidence is thin:…",
-          "authors": "Jethro Odeyemi, W. J. Zhang"
-        },
-        {
-          "title": "Neural Langevin Machine: a local asymmetric learning rule can be creative",
-          "url": "https://arxiv.org/abs/2506.23546",
-          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Fixed points of recurrent neural networks can be leveraged to store and generate information. These fixed points are captured by the Boltzmann-Gibbs measure, which leads to neural Langevin dynamics that relax to those fixed points for…",
-          "authors": "Zhendong Yu, Weizhong Huang, Haiping Huang"
-        },
-        {
-          "title": "A Regional Dopamine-Serotonin Control Model of Conscious State",
-          "url": "https://arxiv.org/abs/2507.02614",
-          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This article proposes a dopamine-serotonin theory of conscious state control. Regional dopamine signaling controls a candidate intensity coordinate and serotonergic signaling changes a candidate coordinate of felt complexity and…",
-          "authors": "Diogo Sousa"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Jehovah’s Witnesses allow blood-derived products but keep ban on whole-blood transfusions",
+          "url": "https://www.statnews.com/2026/09/19/jehovahs-witnesses-blood-derived-products-transfusions/?utm_campaign=rss",
+          "publishedDate": "Sat, 19 Sep 2026 14:13:11 +0000",
+          "source": "statnews.com",
+          "summary": "The Jehovah’s Witnesses have partly eased their longstanding prohibition on the medical use of donated blood.",
+          "authors": "Associated Press"
+        },
         {
           "title": "Who supports policies for &#8216;health equity&#8217;? It depends on how you&#8217;re asking",
           "url": "https://www.statnews.com/2026/09/18/health-news-who-supports-health-equity-policy-in-america/?utm_campaign=rss",
@@ -85,14 +60,6 @@
           "source": "statnews.com",
           "summary": "Researchers have identified a very rare genetic variant that is associated with higher odds of lung cancer in \"never smokers.\"",
           "authors": "Andrew Joseph"
-        },
-        {
-          "title": "Kennedy moves to revive preventive services panel with new members, after months of vacancies",
-          "url": "https://www.statnews.com/2026/09/17/kennedy-names-eight-new-members-uspstf-task-force/?utm_campaign=rss",
-          "publishedDate": "Thu, 17 Sep 2026 14:57:41 +0000",
-          "source": "statnews.com",
-          "summary": "The influential panel hasn't met in more than a year, after Kennedy canceled its meeting.",
-          "authors": "Chelsea Cirruzzo, Elizabeth Cooney,and Sarah Todd"
         }
       ]
     },
@@ -154,78 +121,61 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Position Paper: Neurotransmitters as a Missing Dimension in Artificial Neural Networks",
-          "url": "https://arxiv.org/abs/2609.20083",
-          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Artificial neural networks (ANNs), as core components of modern deep learning (DL) systems, lack the adaptive flexibility and long-term stability exhibited by biological systems. This limitation largely stems from the fact that…",
-          "authors": "Yupei Li, Manuel Milling, Berrak Sisman, Björn Schuller"
-        },
-        {
-          "title": "Self-Replicating Neural Cellular Automata: Quantifying Emergent Phenotypic and Genotypic Diversity in an OpenEnded Substrate",
-          "url": "https://arxiv.org/abs/2609.19902",
-          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We study an in-silico substrate in which every pixel of a two-channel cellular-automata grid carries a tiny neural network (an agent) that senses its Moore neighborhood. A cell persists only by self-replication: a living neighbor is cloned…",
-          "authors": "Sanyam Jain, Felix Simon Reimers, Stefano Nichele"
-        },
-        {
-          "title": "NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference",
-          "url": "https://arxiv.org/abs/2511.05215",
-          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Sparse DNN accelerators specialize in ANN or SNN execution, leaving energy or latency on the table when workload characteristics vary within a layer. Hybrid accelerator designs that switch modes at layer or tile granularity suffer from low…",
-          "authors": "Varun Manjunath, Pranav Ramesh, Gopalakrishnan Srinivasan"
-        },
-        {
-          "title": "Quantization robustness from dense representations of sparse functions in high-capacity kernel associative memory",
-          "url": "https://arxiv.org/abs/2604.20333",
-          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "High-capacity associative memories based on Kernel Logistic Regression (KLR) achieve strong retrieval performance but typically require substantial computational resources. This paper investigates the compressibility of KLR Hopfield…",
-          "authors": "Akira Tamamori"
-        },
-        {
-          "title": "Genetic algorithm vs. gradient descent for training a neural network architecture dedicated to low data regimes in small medical datasets",
-          "url": "https://arxiv.org/abs/2605.27411",
-          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Aim/Introduction: Distance-encoding biomorphic-informational neural network (DEBI-NN) is a recently proposed architecture in which connection weights are defined by the distances between neurons positioned in a Euclidian space. This…",
-          "authors": "Amine Boukhari, Boglarka Ecsedi, Laszlo Papp, Mathieu Hatt"
-        },
-        {
-          "title": "Neural Langevin Machine: a local asymmetric learning rule can be creative",
-          "url": "https://arxiv.org/abs/2506.23546",
-          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Fixed points of recurrent neural networks can be leveraged to store and generate information. These fixed points are captured by the Boltzmann-Gibbs measure, which leads to neural Langevin dynamics that relax to those fixed points for…",
-          "authors": "Zhendong Yu, Weizhong Huang, Haiping Huang"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Phase-Coherent Doppler-Only Sensing for D-MIMO ISAC",
-          "url": "https://arxiv.org/abs/2609.19401",
-          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "This paper studies phase-coherent Doppler-only sensing for bandwidth-limited sub-6 GHz D-MIMO ISAC. We consider a multistatic system with one transmitter and multiple synchronized single-antenna receivers, and develop noncoherent and…",
-          "authors": "Silan Karadag, Musa Furkan Keskin, Navid Amani, Nikita Lyamin, Annelie Wyholt, Henk Wymeersch"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
         },
         {
-          "title": "Practical flow state detection: Entropy-based EEG classification from portable EEG headbands",
-          "url": "https://arxiv.org/abs/2609.19737",
-          "publishedDate": "Fri, 18 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Flow state, characterized by deep engagement and immersion during challenging activities, represents a valuable mental state with significant implications for learning, performance, and rehabilitation outcomes. While flow has been…",
-          "authors": "Matin Beiramvand, Reijo Koivula, Tarmo Lipping"
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }
