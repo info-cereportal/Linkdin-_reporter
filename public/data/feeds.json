@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T00:21:50.202Z",
+  "generatedAt": "2026-09-21T00:28:19.944Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,52 +69,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "8 common food additives linked to high blood pressure and heart disease",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
+          "publishedDate": "Sun, 20 Sep 2026 08:43:41 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Common preservatives hiding in processed foods may carry unexpected heart risks, with heavy consumption linked to substantially higher rates of high blood pressure and cardiovascular disease. Researchers identified eight widely used…",
+          "authors": ""
+        },
+        {
+          "title": "Ancient DNA reveals how plague kept returning for 400 years after the Black Death",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260919031025.htm",
+          "publishedDate": "Sun, 20 Sep 2026 02:46:18 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Ancient DNA reveals that plague repeatedly returned to Europe for more than 400 years after the Black Death, evolving into new lineages and spreading through trade, migration, and war. Researchers also developed a method to date ancient…",
+          "authors": ""
+        },
+        {
+          "title": "Hidden gut defect that may explain why IBD keeps coming back",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918024814.htm",
+          "publishedDate": "Sat, 19 Sep 2026 23:41:48 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers have uncovered a hidden molecular warning sign of inflammatory bowel disease (IBD) that can linger even when patients feel well and appear to be in remission. By studying around 900 human gut biopsies and patient-derived…",
+          "authors": ""
+        },
+        {
+          "title": "A deadly ebola relative is surging after years in the shadows",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260919031042.htm",
+          "publishedDate": "Sat, 19 Sep 2026 22:26:36 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A growing Bundibugyo virus outbreak is showing how a little-known relative of Ebola can become a major threat when diagnosis and treatment options are limited. Experts warn that preparing only for familiar pathogens could leave the world…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists solve a 50-year mystery and discover a new human blood group",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
+          "publishedDate": "Sat, 19 Sep 2026 06:14:15 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have identified the genetic cause behind the mysterious AnWj blood group antigen, solving a puzzle that began in 1972 and establishing a new blood group system called MAL. The discovery could make it much easier to find…",
+          "authors": ""
+        },
+        {
           "title": "STAT+: Trump touts pharma deals to offer cheaper drugs to state Medicaid programs",
           "url": "https://www.statnews.com/2026/09/18/trump-touts-state-participation-generous-medicaid-drug-discount-program/?utm_campaign=rss",
           "publishedDate": "Fri, 18 Sep 2026 20:22:36 +0000",
           "source": "statnews.com",
           "summary": "Every state will participate in the GENEROUS program, but many of the details are unknown.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "Scientists discover cells that cheat death and rebuild damaged tissue",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm",
-          "publishedDate": "Fri, 18 Sep 2026 08:30:43 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists discovered a population of cells that can start the process of programmed cell death, survive it, and then help rapidly rebuild damaged tissue. Their descendants become far more resistant to future damage, revealing a mechanism…",
-          "authors": ""
-        },
-        {
-          "title": "These blood thinners may have an unexpected benefit for Alzheimer’s patients",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260917003732.htm",
-          "publishedDate": "Fri, 18 Sep 2026 05:48:31 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive function than those using warfarin or…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists restore a brain protein and reverse signs of aging in mice",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
-          "publishedDate": "Fri, 18 Sep 2026 00:25:45 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring Menin reversed several age-related…",
-          "authors": ""
-        },
-        {
-          "title": "Ozempic can change your body. Can it change your life?",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260917003728.htm",
-          "publishedDate": "Thu, 17 Sep 2026 23:52:09 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Ozempic and other GLP-1 medications can improve blood sugar, weight, and cardiovascular health, but researchers found little evidence that they also improve mental health, employment, marriage, or overall well-being. The findings suggest…",
-          "authors": ""
-        },
-        {
-          "title": "Kennedy announces new effort to speed up autism diagnoses",
-          "url": "https://www.statnews.com/2026/09/17/kennedy-announces-new-research-fund-to-improve-autism-diagnoses/?utm_campaign=rss",
-          "publishedDate": "Thu, 17 Sep 2026 22:09:30 +0000",
-          "source": "statnews.com",
-          "summary": "Health secretary Kennedy announced a new effort to improve autism diagnoses, arguing that the current model is outdated",
-          "authors": "O. Rose Broderick"
         }
       ]
     },

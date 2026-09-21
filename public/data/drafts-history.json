@@ -1,5 +1,29 @@
 [
   {
+    "generatedAt": "2026-09-21T00:28:18.542Z",
+    "date": "2026-09-21",
+    "topic": "情動と注意機構",
+    "templateName": "paradigm-shift",
+    "riskScore": 0,
+    "paperTitle": "Exploiting frontotemporal asymmetry in low-channel EEG emotion recognition via spectral fusion network.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42763501/",
+    "formatted": "情動と注意機構に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 情動 × ECoG(皮質脳波) × EEG × 注意機構\n\n📊 注目すべきデータ：\n→ Experiments on SEED and a self-collected dataset demonstrate STSANet's superior performance, achieving accuracies of 86.80% and 87.43%, respectively.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nBCI・ニューラルインターフェースの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Exploiting frontotemporal asymmetry in low-channel EEG emotion recognition via spectral fusion network.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42763501/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #BCI",
+    "summaryJP": "情動と注意機構 — 通説を揺さぶる新たな知見（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Xindong Huang, Ling Li, Xingen Gao, Shiqi Chen, Chao Feng, Zhenzhe Zhong",
+    "publishedDate": "2026-09-20",
+    "paperId": "42763501",
+    "paperSource": "pubmed",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "情動",
+      "ECoG(皮質脳波)",
+      "EEG",
+      "注意機構"
+    ],
+    "abstractExcerpt": "Portable EEG devices hold promise for pervasive affective computing, yet sparse channel counts limit the resolution for capturing global cortical dynamics of emotional processing. To address this, we propose the Spatiotemporal Spectral…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-09-20T00:21:49.977Z",
     "date": "2026-09-20",
     "topic": "神経振動と神経ダイナミクス",
@@ -1243,31 +1267,6 @@
       "学習"
     ],
     "abstractExcerpt": "Identification of peptide immunogens in a pathogen proteome can help to develop diagnostic kits, therapeutics, and preventive vaccines. Traditional methods for identifying such peptides are often laborious, time-consuming, and resource…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-08-01T23:35:22.825Z",
-    "date": "2026-08-01",
-    "topic": "深層学習と学習",
-    "templateName": "future-vision",
-    "riskScore": 0,
-    "paperTitle": "EXPRESS: Adulteration Detection for Poria Cocos Based on Near-Infrared Two-Dimensional Correlation Spectroscopy and Deep Learning.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42538889/",
-    "formatted": "この研究データ、知らないままでいいですか？\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n深層学習と学習の最新研究です。\n\n🔬 深層学習 × 学習 × 畳み込みニューラルネットワーク(CNN) × 注意機構\n\n📊 注目すべきデータ：\n→ As a traditional Chinese medicinal material, the quality of Poria cocos (PC) significantly affects its pharmacological efficacy.\n→ NIR spectra in the range of 960-1600&#x2005;nm are collected from pure PC and samples adulterated with 5 common adulterants at concentration gradients of 5%.\n→ Compared with experiments involving convolutional neural network (CNN), gated recurrent unit (GRU), long short-term memory (LSTM), and bidirectional LSTM (BiLSTM) models, the...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 EXPRESS: Adulteration Detection for Poria Cocos Based on Near-Infrared Two-Dimensional Correlation Spectroscopy and Deep Learning.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42538889/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #計算論的神経科学",
-    "summaryJP": "深層学習と学習 — 次世代へ続く布石（ニューロAI・計算論）",
-    "paperAuthors": "Rongzhen Mao, Jing Liang, Mingyue Huang, Bin Wang, Xiaoxuan Xu, Jing Xu",
-    "publishedDate": "2026-08-01",
-    "paperId": "42538889",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "深層学習",
-      "学習",
-      "畳み込みニューラルネットワーク(CNN)",
-      "注意機構",
-      "記憶"
-    ],
-    "abstractExcerpt": "As a traditional Chinese medicinal material, the quality of Poria cocos (PC) significantly affects its pharmacological efficacy. However, adulteration of PC in the market has been frequently observed. Adulterated PC not only compromises…",
     "figureUrls": []
   }
 ]
