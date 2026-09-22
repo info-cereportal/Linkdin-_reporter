@@ -1,12 +1,37 @@
 {
-  "generatedAt": "2026-09-21T00:28:19.944Z",
+  "generatedAt": "2026-09-22T01:07:04.841Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 3,
+      "items": [
+        {
+          "title": "Identifying Neural State Changes due to Gain versus Off-Manifold Displacement",
+          "url": "https://arxiv.org/abs/2609.21272",
+          "publishedDate": "Mon, 21 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Memory segmentation is thought to arise from rapid decorrelation in neural activity, often quantified by Euclidean distance or cosine angle. Although these metrics detect a transition, they do not reveal how the new state relates to the…",
+          "authors": "Sam McKenzie"
+        },
+        {
+          "title": "BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings",
+          "url": "https://arxiv.org/abs/2609.22064",
+          "publishedDate": "Mon, 21 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Advances in large-scale neural recording have made it possible to collect data across many animals and distributed brain regions, raising the question of whether this scale can be exploited to learn general-purpose neural representations…",
+          "authors": "Alexandre Andre, Shivashriganesh P. Mahato, Vinam Arora, Keshav Balaji, Divyansha Lachi, Nanda H. Krishna, Jingyun Xiao, Yizi Zhang, Ximeng Mao, Wenrui Ma, Han Yu, International Brain Laboratory, Daniel Birman, Niccolò Bonacchi, Gaelle A. Chapuis, Joana A. Catarino, Felicia Davatolhagh, Mayo Faulkner, Laura Freitas-Silva, Fei Hu, Julia M. Huntenburg, Anup Khanal, Inês Laranjeira, Petrina Lau, Guido T. Meijer, Nathaniel J. Miska, Jean-Paul Noel, Alejandro Pan-Vazquez, Georg Raiser, Cyrille Rossant, Karolina Z. Socha, Anne E. Urai, Miles J. Wells, Steven J. West, Olivier Winter, Blake Richards, Guillaume Lajoie, Cole Hurwitz, Mehdi Azabou, Matthew R. Whiteway, Liam Paninski, Eva L. Dyer"
+        },
+        {
+          "title": "A Brief AI Literacy Intervention Does Not Significantly Reduce Over-Reliance and Increases Under-Reliance on ChatGPT: A Randomized Study",
+          "url": "https://arxiv.org/abs/2503.10556",
+          "publishedDate": "Mon, 21 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "In this study, we examined whether a brief AI literacy intervention influences high school students' reliance on recommendations from large language models (LLMs). In a randomized experiment, students were assigned to either a control…",
+          "authors": "Brett Puppart, Jaan Aru"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -14,52 +39,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: What a vote on Grail’s cancer detection test could mean for the company, patients, and regulators",
+          "url": "https://www.statnews.com/2026/09/21/grail-galleri-fda-advisory-committee-meeting-documents/?utm_campaign=rss",
+          "publishedDate": "Mon, 21 Sep 2026 17:58:51 +0000",
+          "source": "statnews.com",
+          "summary": "Shares in Grail, the company developing a blood test for cancer, surged Monday after the FDA posted documents ahead of an advisory committee meeting.",
+          "authors": "Matthew Herper"
+        },
+        {
+          "title": "President Trump&#8217;s newest vaccine &#8216;demands&#8217; repeat old misinformation",
+          "url": "https://www.statnews.com/2026/09/21/health-news-trump-newest-vaccine-demands-repeat-old-misinformation/?utm_campaign=rss",
+          "publishedDate": "Mon, 21 Sep 2026 12:03:49 +0000",
+          "source": "statnews.com",
+          "summary": "A day after health secretary Robert F. Kennedy Jr. promised that parents concerned about vaccines had a “friend” in the White House, President Trump said he’ll be “demanding” that drug&#8230;",
+          "authors": "Amanda Erickson"
+        },
+        {
+          "title": "Opinion: ClinicalTrials.gov needs a pregnancy and lactation checkbox",
+          "url": "https://www.statnews.com/2026/09/21/clinical-trials-website-pregnant-lactating-patients-checkbox/?utm_campaign=rss",
+          "publishedDate": "Mon, 21 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "It’s hard to identify which clinical trials pregnant and lactating patients can join. Here’s one fix, experts write.",
+          "authors": "Alyssa Bilinski, Haley Sullivan,and Anne C.C. Lee"
+        },
+        {
+          "title": "Addiction clinics see rising cases of kratom and 7-OH withdrawal",
+          "url": "https://www.statnews.com/2026/09/21/kratom-withdrawal-addiction-centers-report-surge/?utm_campaign=rss",
+          "publishedDate": "Mon, 21 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Addiction clinics are seeing a surge in patients dependent on potent kratom and 7-OH products.",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "Skeptical about modern medicine? I know the feeling — and want to listen",
+          "url": "https://www.statnews.com/2026/09/21/trust-in-science-nick-florko-on-understanding-growing-scientific-mistrust/?utm_campaign=rss",
+          "publishedDate": "Mon, 21 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "\"I know what it means to be searching for an explanation to what ails you, and a way to fix it,\" writes STAT's new trust-in-science reporter, Nicholas Florko.",
+          "authors": "Nicholas Florko"
+        },
+        {
           "title": "Jehovah’s Witnesses allow blood-derived products but keep ban on whole-blood transfusions",
           "url": "https://www.statnews.com/2026/09/19/jehovahs-witnesses-blood-derived-products-transfusions/?utm_campaign=rss",
           "publishedDate": "Sat, 19 Sep 2026 14:13:11 +0000",
           "source": "statnews.com",
           "summary": "The Jehovah’s Witnesses have partly eased their longstanding prohibition on the medical use of donated blood.",
           "authors": "Associated Press"
-        },
-        {
-          "title": "Who supports policies for &#8216;health equity&#8217;? It depends on how you&#8217;re asking",
-          "url": "https://www.statnews.com/2026/09/18/health-news-who-supports-health-equity-policy-in-america/?utm_campaign=rss",
-          "publishedDate": "Fri, 18 Sep 2026 12:11:48 +0000",
-          "source": "statnews.com",
-          "summary": "Kennedy speaks at the Children's Health Defense, medical facilities under attack in Sudan, and more health news from Morning Rounds",
-          "authors": "Anil Oza"
-        },
-        {
-          "title": "In Sudan, attacks on hospitals force patients to make dangerous journeys",
-          "url": "https://www.statnews.com/2026/09/18/sudan-civil-war-cancer-treatment-wartime-tom-catena-mother-mercy-hospital/?utm_campaign=rss",
-          "publishedDate": "Fri, 18 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Amid a civil war in Sudan, it’s now difficult for people with cancer and other long-term illnesses to receive treatment that was once readily available",
-          "authors": "Sophie Neiman"
-        },
-        {
-          "title": "Opinion: Doctors should educate patients about ‘Asian glow’ and drinking risks",
-          "url": "https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss",
-          "publishedDate": "Fri, 18 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "It wasn’t until he started medical school, Brian Zhang writes, that he realized ‘Asian glow’ from drinking was a sign of something important.",
-          "authors": "Brian Zhang"
-        },
-        {
-          "title": "Kennedy renews attacks on vaccines at Children’s Health Defense conference",
-          "url": "https://www.statnews.com/2026/09/17/rfk-jr-anti-vaccination-activism-childrens-health-defense-conference/?utm_campaign=rss",
-          "publishedDate": "Thu, 17 Sep 2026 20:40:04 +0000",
-          "source": "statnews.com",
-          "summary": "Health secretary RFK Jr. returned to his roots in a keynote address at a conference hosted by the Children’s Health Defense, an anti-vaccine nonprofit he helped start.",
-          "authors": "Isabella Cueto"
-        },
-        {
-          "title": "STAT+: Why do ‘never-smokers’ get lung cancer? In some cases, rare genetic variant may be a factor",
-          "url": "https://www.statnews.com/2026/09/17/rare-gene-variant-boosts-lung-cancer-risk-25-fold-in-non-smokers/?utm_campaign=rss",
-          "publishedDate": "Thu, 17 Sep 2026 18:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "Researchers have identified a very rare genetic variant that is associated with higher odds of lung cancer in \"never smokers.\"",
-          "authors": "Andrew Joseph"
         }
       ]
     },
@@ -69,113 +94,122 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "8 common food additives linked to high blood pressure and heart disease",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
-          "publishedDate": "Sun, 20 Sep 2026 08:43:41 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Common preservatives hiding in processed foods may carry unexpected heart risks, with heavy consumption linked to substantially higher rates of high blood pressure and cardiovascular disease. Researchers identified eight widely used…",
-          "authors": ""
-        },
-        {
-          "title": "Ancient DNA reveals how plague kept returning for 400 years after the Black Death",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260919031025.htm",
-          "publishedDate": "Sun, 20 Sep 2026 02:46:18 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Ancient DNA reveals that plague repeatedly returned to Europe for more than 400 years after the Black Death, evolving into new lineages and spreading through trade, migration, and war. Researchers also developed a method to date ancient…",
-          "authors": ""
-        },
-        {
-          "title": "Hidden gut defect that may explain why IBD keeps coming back",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260918024814.htm",
-          "publishedDate": "Sat, 19 Sep 2026 23:41:48 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers have uncovered a hidden molecular warning sign of inflammatory bowel disease (IBD) that can linger even when patients feel well and appear to be in remission. By studying around 900 human gut biopsies and patient-derived…",
-          "authors": ""
-        },
-        {
-          "title": "A deadly ebola relative is surging after years in the shadows",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260919031042.htm",
-          "publishedDate": "Sat, 19 Sep 2026 22:26:36 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A growing Bundibugyo virus outbreak is showing how a little-known relative of Ebola can become a major threat when diagnosis and treatment options are limited. Experts warn that preparing only for familiar pathogens could leave the world…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists solve a 50-year mystery and discover a new human blood group",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
-          "publishedDate": "Sat, 19 Sep 2026 06:14:15 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have identified the genetic cause behind the mysterious AnWj blood group antigen, solving a puzzle that began in 1972 and establishing a new blood group system called MAL. The discovery could make it much easier to find…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Trump touts pharma deals to offer cheaper drugs to state Medicaid programs",
-          "url": "https://www.statnews.com/2026/09/18/trump-touts-state-participation-generous-medicaid-drug-discount-program/?utm_campaign=rss",
-          "publishedDate": "Fri, 18 Sep 2026 20:22:36 +0000",
+          "title": "STAT+: Members of Congress push back on plan to create a commission of political appointees to review NIH grants",
+          "url": "https://www.statnews.com/2026/09/21/trump-plan-for-commission-to-review-nih-grants-push-back/?utm_campaign=rss",
+          "publishedDate": "Mon, 21 Sep 2026 22:17:21 +0000",
           "source": "statnews.com",
-          "summary": "Every state will participate in the GENEROUS program, but many of the details are unknown.",
-          "authors": "John Wilkerson"
+          "summary": "Several members of Congress voiced strong opposition about a reported plan to create a panel of political appointees to sign off on NIH grants",
+          "authors": "Anil Oza and Chelsea Cirruzzo"
+        },
+        {
+          "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm",
+          "publishedDate": "Mon, 21 Sep 2026 08:25:22 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new needle-thin brain implant can record neural activity, deliver drugs, and stimulate multiple brain regions using a single flexible fiber. Successful tests in mice suggest it could give scientists a more precise, less invasive way to…",
+          "authors": ""
+        },
+        {
+          "title": "Chronic stress may be quietly reshaping your heart",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260920222354.htm",
+          "publishedDate": "Mon, 21 Sep 2026 07:35:13 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Chronic inflammation tied to stress, lifestyle, mental health, and socioeconomic conditions may silently change the heart for years before any symptoms appear. People with the highest inflammation levels faced a 43% greater risk of heart…",
+          "authors": ""
+        },
+        {
+          "title": "Stanford scientists discover the human brain may actually be two separate organs",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm",
+          "publishedDate": "Mon, 21 Sep 2026 06:12:51 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have found that the human brain develops from two distinct cellular systems, suggesting that evolution fused together two ancient nervous systems with very different jobs. The discovery also allowed researchers to grow human…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: Can RFK Jr. help GOP win the midterms? Iowa is a test",
+          "url": "https://www.statnews.com/2026/09/21/rfk-jr-maha-movement-gop-midterm-candidates/?utm_campaign=rss",
+          "publishedDate": "Mon, 21 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "How one state's governor's race is a test of whether Robert F. Kennedy Jr.'s MAHA movement has an enduring political draw.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "Opinion: STAT+: The NIH budget should be $100 billion per year",
+          "url": "https://www.statnews.com/2026/09/21/nih-budget-double-100-billion-reed-jobs/?utm_campaign=rss",
+          "publishedDate": "Mon, 21 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "“We should be strengthening our investment in the NIH, not dismantling it,” writes Reed Jobs.",
+          "authors": "Reed Jobs"
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Emergent Intelligence: Resonant Oscillators Produce Proactive Adaptive Behavior",
+          "url": "https://arxiv.org/abs/2609.21161",
+          "publishedDate": "Mon, 21 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Most artificial neural systems are built to map given inputs to outputs. Adaptive agents face a prior problem: they must act without enough evidence, seek encounters with the world, and revise behavior when evidence appears. We propose…",
+          "authors": "Alex Fedosov (FoundAItion Inc), Maxim Yakimenko (FoundAItion Inc), Sander Stepanov (FoundAItion Inc)"
+        },
+        {
+          "title": "A Confidence-Driven Evolutionary Algorithm for Noisy Optimization with Joint Chance Constraints",
+          "url": "https://arxiv.org/abs/2609.21318",
+          "publishedDate": "Mon, 21 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Many real-world optimization problems involve noisy objective evaluations and probabilistic constraints, particularly in the form of joint chance constraints, which are computationally expensive to evaluate. In this work, we propose…",
+          "authors": "Enrico Halim, Hemant Singh, Tapabrata Ray"
+        },
+        {
+          "title": "Predictive Suppression Layers for Communication-Efficient Spiking Neural Networks",
+          "url": "https://arxiv.org/abs/2609.21583",
+          "publishedDate": "Mon, 21 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Feedforward Spiking Neural Networks (SNNs) typically propagate every generated spike indiscriminately, disregarding whether the information is redundant from an information-theoretic perspective. This lack of selectivity induces high…",
+          "authors": "Aidin Attar, Michele Rossi"
+        },
+        {
+          "title": "Continuous Spiking Graph Neural Networks",
+          "url": "https://arxiv.org/abs/2404.01897",
+          "publishedDate": "Mon, 21 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Continuous graph neural networks (CGNNs) have garnered significant attention due to their ability to generalize existing discrete graph neural networks (GNNs) by introducing continuous dynamics. They typically draw inspiration from…",
+          "authors": "Shiqi Fan, Zeqing Zhang, Nan Yin, Tong Li, Hongyi Nie, Die Hu, Wen Hua"
+        },
+        {
+          "title": "Set-Based Value Function Characterization and Neural Approximation of Stabilization Domains for Input-Constrained Discrete-Time Systems",
+          "url": "https://arxiv.org/abs/2604.00305",
+          "publishedDate": "Mon, 21 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Analyzing nonlinear systems with stabilizable controlled invariant sets (CISs) requires accurate estimation of their domains of stabilization (DOS) together with associated stabilizing controllers. Despite extensive research, estimating…",
+          "authors": "Mohamed Serry, S. Sivaranjani, Jun Liu"
+        },
+        {
+          "title": "Identifying Neural State Changes due to Gain versus Off-Manifold Displacement",
+          "url": "https://arxiv.org/abs/2609.21272",
+          "publishedDate": "Mon, 21 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Memory segmentation is thought to arise from rapid decorrelation in neural activity, often quantified by Euclidean distance or cosine angle. Although these metrics detect a transition, they do not reveal how the new state relates to the…",
+          "authors": "Sam McKenzie"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 1,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
-        },
-        {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "WiFi based Multi user Activity Recognition via User Conditioned Spatial Attention",
+          "url": "https://arxiv.org/abs/2609.21530",
+          "publishedDate": "Mon, 21 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "WiFi-based human activity recognition has achieved high accuracy under the single-user scene. Recognizing activities performed by multiple concurrent users remains challenging, because their body-reflected propagation paths superimpose in…",
+          "authors": "Chenhan Yuan, Ruijing Liu, Cunhua Pan"
         }
       ]
     }

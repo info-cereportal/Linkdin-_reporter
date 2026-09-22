@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-09-22T01:07:04.428Z",
+    "date": "2026-09-22",
+    "topic": "ニューラルマニフォールドと学習",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Identifying Neural State Changes due to Gain versus Off-Manifold Displacement",
+    "paperLink": "https://arxiv.org/abs/2609.21272",
+    "figureUrl": "https://arxiv.org/html/2609.21272/2609.21272v1/media/image1.png",
+    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n数字が語る、ニューラルマニフォールドと学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 ニューラルマニフォールド × 学習 × 記憶\n\n> Memory segmentation is thought to arise from rapid decorrelation in neural activity, often quantified by Euclidean distance or cosine angle. Although these metrics detect a transition, they do not reveal how the new state relates to the repertoire represented by the neural...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Identifying Neural State Changes due to Gain versus Off-Manifold Displacement\n🔗 https://arxiv.org/abs/2609.21272\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #NeuralDecoding",
+    "summaryJP": "ニューラルマニフォールドと学習 — 数値で示された新事実（神経デコーディング）",
+    "paperAuthors": "Sam McKenzie",
+    "publishedDate": "Mon, 21 Sep 2026 00:00:00 -0400",
+    "paperId": "2609.21272",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "ニューラルマニフォールド",
+      "学習",
+      "記憶"
+    ],
+    "abstractExcerpt": "Memory segmentation is thought to arise from rapid decorrelation in neural activity, often quantified by Euclidean distance or cosine angle. Although these metrics detect a transition, they do not reveal how the new state relates to the…",
+    "figureUrls": [
+      "https://arxiv.org/html/2609.21272/2609.21272v1/media/image1.png",
+      "https://arxiv.org/html/2609.21272/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
+    ]
+  },
+  {
     "generatedAt": "2026-09-21T00:28:18.542Z",
     "date": "2026-09-21",
     "topic": "情動と注意機構",
@@ -1244,29 +1271,5 @@
       "https://arxiv.org/html/2607.29093/2607.29093v1/structure.png",
       "https://arxiv.org/html/2607.29093/2607.29093v1/validation_main.png"
     ]
-  },
-  {
-    "generatedAt": "2026-08-02T23:36:30.695Z",
-    "date": "2026-08-02",
-    "topic": "畳み込みニューラルネットワーク(CNN)と深層学習",
-    "templateName": "neuro-ai-bridge",
-    "riskScore": 0,
-    "paperTitle": "MHCmet: A neural network based epitope prediction tool for orthohantaviruses.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42541863/",
-    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n脳科学とAI——その境界線が消えつつある。\n\n畳み込みニューラルネットワーク(CNN)と深層学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 畳み込みニューラルネットワーク(CNN) × 深層学習 × 注意機構 × 学習\n\n📊 注目すべきデータ：\n→ Given the extensive size and diversity of viral proteomes, the use of state-of-the-art computational tools has become essential for identifying immunogenic fragments.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 MHCmet: A neural network based epitope prediction tool for orthohantaviruses.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42541863/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #脳情報",
-    "summaryJP": "畳み込みニューラルネットワーク(CNN)と深層学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
-    "paperAuthors": "Devanshi Sharma, Rishabh Dhenkawat, Snehal Saini, Garima Goyal, Rahul Upadhyay, Vinay Kumar",
-    "publishedDate": "2026-08-01",
-    "paperId": "42541863",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "畳み込みニューラルネットワーク(CNN)",
-      "深層学習",
-      "注意機構",
-      "学習"
-    ],
-    "abstractExcerpt": "Identification of peptide immunogens in a pathogen proteome can help to develop diagnostic kits, therapeutics, and preventive vaccines. Traditional methods for identifying such peptides are often laborious, time-consuming, and resource…",
-    "figureUrls": []
   }
 ]

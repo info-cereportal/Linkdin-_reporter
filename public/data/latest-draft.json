@@ -1,24 +1,27 @@
 {
-  "generatedAt": "2026-09-21T00:28:18.542Z",
-  "date": "2026-09-21",
-  "topic": "情動と注意機構",
-  "templateName": "paradigm-shift",
+  "generatedAt": "2026-09-22T01:07:04.428Z",
+  "date": "2026-09-22",
+  "topic": "ニューラルマニフォールドと学習",
+  "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "Exploiting frontotemporal asymmetry in low-channel EEG emotion recognition via spectral fusion network.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42763501/",
-  "formatted": "情動と注意機構に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 情動 × ECoG(皮質脳波) × EEG × 注意機構\n\n📊 注目すべきデータ：\n→ Experiments on SEED and a self-collected dataset demonstrate STSANet's superior performance, achieving accuracies of 86.80% and 87.43%, respectively.\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nBCI・ニューラルインターフェースの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Exploiting frontotemporal asymmetry in low-channel EEG emotion recognition via spectral fusion network.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42763501/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #BCI",
-  "summaryJP": "情動と注意機構 — 通説を揺さぶる新たな知見（BCI・ニューラルインターフェース）",
-  "paperAuthors": "Xindong Huang, Ling Li, Xingen Gao, Shiqi Chen, Chao Feng, Zhenzhe Zhong",
-  "publishedDate": "2026-09-20",
-  "paperId": "42763501",
-  "paperSource": "pubmed",
-  "themeArea": "BCI・ニューラルインターフェース",
+  "paperTitle": "Identifying Neural State Changes due to Gain versus Off-Manifold Displacement",
+  "paperLink": "https://arxiv.org/abs/2609.21272",
+  "figureUrl": "https://arxiv.org/html/2609.21272/2609.21272v1/media/image1.png",
+  "formatted": "これを読んで、脳に対する見方が変わりました。\n\n数字が語る、ニューラルマニフォールドと学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 ニューラルマニフォールド × 学習 × 記憶\n\n> Memory segmentation is thought to arise from rapid decorrelation in neural activity, often quantified by Euclidean distance or cosine angle. Although these metrics detect a transition, they do not reveal how the new state relates to the repertoire represented by the neural...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Identifying Neural State Changes due to Gain versus Off-Manifold Displacement\n🔗 https://arxiv.org/abs/2609.21272\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #NeuralDecoding",
+  "summaryJP": "ニューラルマニフォールドと学習 — 数値で示された新事実（神経デコーディング）",
+  "paperAuthors": "Sam McKenzie",
+  "publishedDate": "Mon, 21 Sep 2026 00:00:00 -0400",
+  "paperId": "2609.21272",
+  "paperSource": "arxiv",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "情動",
-    "ECoG(皮質脳波)",
-    "EEG",
-    "注意機構"
+    "ニューラルマニフォールド",
+    "学習",
+    "記憶"
   ],
-  "abstractExcerpt": "Portable EEG devices hold promise for pervasive affective computing, yet sparse channel counts limit the resolution for capturing global cortical dynamics of emotional processing. To address this, we propose the Spatiotemporal Spectral…",
-  "figureUrls": []
+  "abstractExcerpt": "Memory segmentation is thought to arise from rapid decorrelation in neural activity, often quantified by Euclidean distance or cosine angle. Although these metrics detect a transition, they do not reveal how the new state relates to the…",
+  "figureUrls": [
+    "https://arxiv.org/html/2609.21272/2609.21272v1/media/image1.png",
+    "https://arxiv.org/html/2609.21272/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
+  ]
 }
