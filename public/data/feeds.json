@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T00:54:06.503Z",
+  "generatedAt": "2026-09-24T00:51:33.212Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Exploring the robustness of permutation entropy analysis to differentiate between closed-eyes and open-eyes resting states",
-          "url": "https://arxiv.org/abs/2609.22265",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
+          "title": "A theory of plasticity: capacity for change as inverse configurational constraint",
+          "url": "https://arxiv.org/abs/2609.25312",
+          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Electroencephalography (EEG) is a noninvasive technology that is widely used to monitor brain states, and many efforts are focused on developing reliable and efficient data analysis methods for EEG recordings. Here, we apply ordinal…",
-          "authors": "Juan Gancio, Natalia López López, Antonio J. Pons, Giulio Tirabassi, Cristina Masoller"
+          "summary": "Plasticity is invoked across the sciences to explain how systems can change, yet it is inferred from the very change it is meant to explain. A system may have many alternatives, realize none and still be plastic. Another may be driven far…",
+          "authors": "Igor Branchi"
         },
         {
-          "title": "Chaotic Dynamics-Regulated Topological Learning for Patient-Specific Preictal State Identification",
-          "url": "https://arxiv.org/abs/2609.23317",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
+          "title": "Physics-constrained inference of somatic dynamics from dendritic recordings with sparse somatic supervision in weakly coupled two-compartment neuron model",
+          "url": "https://arxiv.org/abs/2609.25436",
+          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Epileptic seizures arise from complex, nonlinear interactions within brain networks, yet reliable electroencephalographic (EEG) prediction remains challenging due to the nonstationary and heterogeneous nature of neural dynamics. Existing…",
-          "authors": "Zihan Wang, Daixin Li, Guilin Wang, Mushal Zia, Xiaoqi Wei, Xiang Xiang Wang, Jian Jiang"
+          "summary": "Somatic membrane potential is the primary determinant of neuronal output, yet it remains inaccessible in many experimental setups where only dendritic recordings are available. Reconstructing somatic dynamics from distal measurements is a…",
+          "authors": "Abdeltif Oujbara, Benjamin Ambrosio, M. A. Aziz-Alaoui"
         },
         {
-          "title": "From Biological Precursors to Artificial Cognition: Consciousness, Embodiment, and the MEM Architecture",
-          "url": "https://arxiv.org/abs/2609.23828",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
+          "title": "Deep Learning in Infant Functional Neuroimaging: Challenges, Advances, and Future Directions",
+          "url": "https://arxiv.org/abs/2609.26688",
+          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This article asks under what conditions artificial intelligence could warrant a rational attribution of consciousness. Linguistic ability, multimodality, memory, planning, action control, and humanoid embodiment are not sufficient evidence…",
-          "authors": "Janusz A. Starzyk, Wiesław L. Galus"
+          "summary": "Infancy is a critical developmental window characterized by rapid functional brain reorganization, during which large-scale networks emerge, individualized connectome signatures continue to form, and early deviations may shape long-term…",
+          "authors": "Dan Hu, Jiale Cheng, Weiran Xia, Kangfu Han, Matthew Wu, Li Wang, Weili Lin, Gang Li"
         },
         {
-          "title": "Binding-Motivated Contextuality: A Cross-Domain Cyclic Test in Perception and Judgment",
-          "url": "https://arxiv.org/abs/2609.23977",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
+          "title": "A Deep Neural Network for Predicting Continuous Human EEG Across the Auditory Pathway in Response to Sound",
+          "url": "https://arxiv.org/abs/2609.20595",
+          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Perceptual binding and the contextuality of judgment are studied apart, in psychophysics and decision research. We argue they share one obstruction: a nonzero class in $H^1$ of a presheaf with no global section -- though only contextuality…",
-          "authors": "Adam Y. Shavit"
+          "summary": "Computational models of auditory physiology commonly target specific responses or stages of the auditory pathway, limiting their ability to integrate findings across experimental paradigms and neural timescales. We present a foundation…",
+          "authors": "Thomas J Stoll, Ross K Maddox"
         },
         {
-          "title": "Learning Dynamic Neural Evidence Representations for Time-Adaptive Brain-Computer Interfaces",
-          "url": "https://arxiv.org/abs/2609.22088",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
+          "title": "Only what exists can cause: An intrinsic powers view of free will",
+          "url": "https://arxiv.org/abs/2206.02069",
+          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brain-computer interfaces (BCIs) decode neural activity into commands, yet most existing systems rely on fixed-window decoding that may result in redundant observation or unreliable predictions due to insufficient evidence. Adaptive…",
-          "authors": "Beining Cao, Ziyi Zhao, Xiaowei Jiang, Daniel Leong, Yingtao Ren, Thomas Do, Yu-Cheng Fred Chang, Chin-Teng Lin"
+          "summary": "This essay addresses the implications of integrated information theory (IIT) for free will. IIT is a theory of what consciousness is and of how its presence and quality can be accounted for in physical terms. According to IIT, the presence…",
+          "authors": "Giulio Tononi, Larissa Albantakis, Melanie Boly, Chiara Cirelli, Matteo Grasso, Christof Koch"
         },
         {
-          "title": "Testing Two-State Access in Brain and Language Model: Human EEG Reproduction, Simulation Audit, and a Proposed Model Assay",
-          "url": "https://arxiv.org/abs/2609.22300",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
+          "title": "Seeing the imagined: latent functional alignment in visual imagery decoding from fMRI data",
+          "url": "https://arxiv.org/abs/2604.15374",
+          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brains and the hardware of artificial neural networks are both organized ordinary matter, and whether an artificial system's organization can support consciousness remains open. This paper examines one proposed mechanism, access to a…",
-          "authors": "Pieter van Rooyen"
+          "summary": "Recent progress in visual brain decoding from fMRI has been enabled by large-scale datasets such as the Natural Scenes Dataset (NSD) and powerful diffusion-based generative models. While current pipelines are primarily optimized for…",
+          "authors": "Fabrizio Spera, Tommaso Boccato, Michal Olak, Nicola Toschi, Matteo Ferrante"
         }
       ]
     },
@@ -63,20 +63,28 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: FDA advisory panel endorses Grail blood test for cancer, saying benefits outweigh risks",
+          "url": "https://www.statnews.com/2026/09/23/fda-advisory-panel-recommends-approval-grail-galleri-multi-cancer-blood-test/?utm_campaign=rss",
+          "publishedDate": "Wed, 23 Sep 2026 21:47:58 +0000",
+          "source": "statnews.com",
+          "summary": "An FDA advisory panel has endorsed Galleri, a blood test designed by the biotech firm Grail to screen for multiple types of cancer.",
+          "authors": "Matthew Herper"
+        },
+        {
+          "title": "The latest in the legal saga for youth gender-affirming care in the U.S.",
+          "url": "https://www.statnews.com/2026/09/23/health-news-legal-saga-for-youth-gender-affirming-care-in-the-us/?utm_campaign=rss",
+          "publishedDate": "Wed, 23 Sep 2026 11:51:43 +0000",
+          "source": "statnews.com",
+          "summary": "The chilling effect of the Trump administration's dogged offensive against transgender health care has been swift, with dozens of hospitals across the U.S. ending care, even if they haven't been&#8230;",
+          "authors": "Theresa Gaffney"
+        },
+        {
           "title": "New federal autism committee head has financial ties to leucovorin",
           "url": "https://www.statnews.com/2026/09/22/health-news-federal-autism-committee-head-has-financial-ties-to-leucovorin/?utm_campaign=rss",
           "publishedDate": "Tue, 22 Sep 2026 11:54:41 +0000",
           "source": "statnews.com",
           "summary": "RFK Jr. has installed John Gaitanis, a pediatric neurologist, as the new chair of the Interagency Autism Coordinating Committee, which helps the federal government decide how to allocate roughly $2 billion&#8230;",
           "authors": "Amanda Erickson"
-        },
-        {
-          "title": "STAT+: Ohio governor’s race is a battle over Covid, health costs, and trust in science",
-          "url": "https://www.statnews.com/2026/09/22/ohio-governor-election-health-care-policy-acton-ramaswamy/?utm_campaign=rss",
-          "publishedDate": "Tue, 22 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The race between Amy Acton and Vivek Ramaswamy could be the election’s most direct test of where the heartland stands on health care and the pandemic.",
-          "authors": "Sarah Todd"
         },
         {
           "title": "STAT+: Why an influential GOP health policy expert still backs the Medicaid cuts — and which policy target is next",
@@ -87,28 +95,20 @@
           "authors": "Daniel Payne"
         },
         {
+          "title": "STAT+: Ohio governor’s race is a battle over Covid, health costs, and trust in science",
+          "url": "https://www.statnews.com/2026/09/22/ohio-governor-election-health-care-policy-acton-ramaswamy/?utm_campaign=rss",
+          "publishedDate": "Tue, 22 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The race between Amy Acton and Vivek Ramaswamy could be the election’s most direct test of where the heartland stands on health care and the pandemic.",
+          "authors": "Sarah Todd"
+        },
+        {
           "title": "STAT+: What a vote on Grail’s cancer detection test could mean for the company, patients, and regulators",
           "url": "https://www.statnews.com/2026/09/21/grail-galleri-fda-advisory-committee-meeting-documents/?utm_campaign=rss",
           "publishedDate": "Mon, 21 Sep 2026 17:58:51 +0000",
           "source": "statnews.com",
           "summary": "Shares in Grail, the company developing a blood test for cancer, surged Monday after the FDA posted documents ahead of an advisory committee meeting.",
           "authors": "Matthew Herper"
-        },
-        {
-          "title": "President Trump&#8217;s newest vaccine &#8216;demands&#8217; repeat old misinformation",
-          "url": "https://www.statnews.com/2026/09/21/health-news-trump-newest-vaccine-demands-repeat-old-misinformation/?utm_campaign=rss",
-          "publishedDate": "Mon, 21 Sep 2026 12:03:49 +0000",
-          "source": "statnews.com",
-          "summary": "A day after health secretary Robert F. Kennedy Jr. promised that parents concerned about vaccines had a “friend” in the White House, President Trump said he’ll be “demanding” that drug&#8230;",
-          "authors": "Amanda Erickson"
-        },
-        {
-          "title": "Opinion: ClinicalTrials.gov needs a pregnancy and lactation checkbox",
-          "url": "https://www.statnews.com/2026/09/21/clinical-trials-website-pregnant-lactating-patients-checkbox/?utm_campaign=rss",
-          "publishedDate": "Mon, 21 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "It’s hard to identify which clinical trials pregnant and lactating patients can join. Here’s one fix, experts write.",
-          "authors": "Alyssa Bilinski, Haley Sullivan,and Anne C.C. Lee"
         }
       ]
     },
@@ -117,6 +117,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "White House plan to increase control of NIH grants appears &#8216;dead&#8217;",
+          "url": "https://www.statnews.com/2026/09/23/nih-grants-political-control-executive-order-bipartisan-pushback/?utm_campaign=rss",
+          "publishedDate": "Wed, 23 Sep 2026 23:26:01 +0000",
+          "source": "statnews.com",
+          "summary": "A planned EO that would have greatly enhanced White House influence over grants at the NIH is “looking dead,” a source said.",
+          "authors": "Anil Oza and Chelsea Cirruzzo"
+        },
+        {
+          "title": "STAT+: Nominee to lead FDA aims to speed up medical research, combat China’s rise",
+          "url": "https://www.statnews.com/2026/09/23/heidi-overton-fda-nominee-opening-statement-senate-hearing-clinical-trials/?utm_campaign=rss",
+          "publishedDate": "Wed, 23 Sep 2026 22:14:37 +0000",
+          "source": "statnews.com",
+          "summary": "Exclusive: Heidi Overton plans to tell senators she will speed up biomedical research, working with FDA staff.",
+          "authors": "Margaret Manto"
+        },
+        {
+          "title": "This new drug could break cancer’s resistance to treatment",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260921081112.htm",
+          "publishedDate": "Tue, 22 Sep 2026 21:27:00 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A new experimental drug called CS18 may help break through cancer drug resistance by disabling several of the defenses tumors use to survive treatment. It strengthened existing therapies, restored drug sensitivity in resistant lung cancer…",
+          "authors": ""
+        },
         {
           "title": "Opinion: Former FDA commissioners: Heidi Overton has an opportunity to strengthen the FDA",
           "url": "https://www.statnews.com/2026/09/22/heidi-overton-fda-commissioner-confirmation-hearing/?utm_campaign=rss",
@@ -140,30 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "A minimally invasive procedure called genicular artery embolization could offer a new middle ground between conservative treatments and knee replacement for osteoarthritis. By blocking tiny blood vessels associated with inflammation, GAE…",
           "authors": ""
-        },
-        {
-          "title": "STAT+: Why an influential GOP health policy expert still backs the Medicaid cuts — and which policy target is next",
-          "url": "https://www.statnews.com/2026/09/22/brian-blase-paragon-health-institute-gop-aca-medicaid-reforms/?utm_campaign=rss",
-          "publishedDate": "Tue, 22 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Why an influential GOP health policy expert still backs $1 trillion in Medicaid cuts — and which policy target is next.",
-          "authors": "Daniel Payne"
-        },
-        {
-          "title": "STAT+: Ohio governor’s race is a battle over Covid, health costs, and trust in science",
-          "url": "https://www.statnews.com/2026/09/22/ohio-governor-election-health-care-policy-acton-ramaswamy/?utm_campaign=rss",
-          "publishedDate": "Tue, 22 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The race between Amy Acton and Vivek Ramaswamy could be the election’s most direct test of where the heartland stands on health care and the pandemic.",
-          "authors": "Sarah Todd"
-        },
-        {
-          "title": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
-          "publishedDate": "Mon, 21 Sep 2026 23:48:58 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers have found evidence that long COVID may damage dopamine releasing neurons in the brain, potentially explaining persistent fatigue, low motivation, slowed movement, and memory difficulties. The discovery could lead to new…",
-          "authors": ""
         }
       ]
     },
@@ -173,109 +173,61 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Artificial Neural Networks as Surrogate Models in Black Box Optimization",
-          "url": "https://arxiv.org/abs/2609.22329",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
+          "title": "Online Automated Algorithm Design with Large Language Models",
+          "url": "https://arxiv.org/abs/2609.25325",
+          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Black-Box Optimization (BBO) is often applied in several engineering fields and can utilize an advancement of numerical measure- ments and simulation technologies. It deals with the optimization func- tions, where an analytical description…",
-          "authors": "Md Khadimul Islam Zim (Czech Academy of Sciences, Institute of Computer Science, Prague, Czech Republic), Martin Hole\\vna (Czech Academy of Sciences, Institute of Computer Science, Prague, Czech Republic)"
+          "summary": "Large language models (LLMs) enable automated algorithm design (AAD) through reasoning and code synthesis. However, most existing LLM-based AAD methods separate algorithm design from target optimization, deploying a fixed design even as…",
+          "authors": "Zhiyao Zhang, Yichen Li, Xingyu Wu, Liang Feng, Kay Chen Tan"
         },
         {
-          "title": "Sensing to Intelligence: Principles for Neuromorphic Circuits and Systems",
-          "url": "https://arxiv.org/abs/2609.22838",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
+          "title": "Universal Fractal Natural Language Decision Map: Real-Time Edge Triage Across Heterogeneous Domains",
+          "url": "https://arxiv.org/abs/2609.25498",
+          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neuromorphic engineering began with the idea that the physical behavior of a system could itself be used for computation, taking inspiration from the way nervous systems sense, adapt, and evolve in time. The field has since expanded far…",
-          "authors": "Saptarshi Maiti, Chetan Singh Thakur"
+          "summary": "Deploying Large Language Models for runtime operational triage incurs prohibitive latency (>100-500 ms), high VRAM requirements (>4-8 GB), and excessive energy dissipation. Extending Mandelbrot Fractal Neural Synthesis (Dagli et al.,…",
+          "authors": "Volkan Da\\ugl\\i, Zerrin Da\\ugl\\i, Da\\ughan Da\\ugl\\i"
         },
         {
-          "title": "Genetic Programming with Behaviour-based Niching for Learning Guided Local Search in Vehicle Routing Problems",
-          "url": "https://arxiv.org/abs/2609.24104",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
+          "title": "Rethinking Pairwise Token Interaction in Spiking Transformers",
+          "url": "https://arxiv.org/abs/2609.26297",
+          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Genetic Programming Guided Local Search (GPGLS) learns utility functions that guide local search for vehicle routing. Its evolving programs can have similar fitness while inducing different search behaviour, making fitness alone an…",
-          "authors": "Saining Liu, Yi Mei, Mengjie Zhang"
+          "summary": "Spiking Transformers inherit token interaction mechanisms from conventional Transformers, yet their sparse binary representations fundamentally alter how token-to-token communication is established. In particular, spike-based query-key…",
+          "authors": "Sicheng Shen, Dongcheng Zhao, Zhiyuan Li, Jinyan Yu, Qian Zhang, Dengpeng Xing, Zhitong Zhang, Tielin Zhang"
         },
         {
-          "title": "DCL-GPGLS: Dynamic Curriculum Learning for Genetic Programming Guided Local Search in Large-Scale Vehicle Routing",
-          "url": "https://arxiv.org/abs/2609.24105",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
+          "title": "In-Context Guidance: Learning Inter-Task Synergies via Numerical Foundational Models for Few-Shot Multitask Optimization",
+          "url": "https://arxiv.org/abs/2609.25836",
+          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Genetic Programming Guided Local Search (GPGLS) uses genetic programming to evolve utility functions for guided local search in large-scale vehicle routing problems (LSVRPs). Evaluating every GP individual on every training instance at…",
-          "authors": "Saining Liu, Yi Mei, Mengjie Zhang"
+          "summary": "Multi-task optimization (MTO) addresses a set of optimization tasks simultaneously, often suffering from inaccurate inter-task relationship estimation under limited evaluation budgets, leading to negative transfer. This paper introduces…",
+          "authors": "Tingyang Wei, Haofeng Wu, Jiao Liu, Zhao Wei, Puay Siew Tan, Yew-Soon Ong"
         },
         {
-          "title": "EvoRank: LLM-Guided Evolution of Multi-Objective Learning-to-Rank Pipelines",
-          "url": "https://arxiv.org/abs/2609.22196",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
+          "title": "Activation-Energy Pruning for Spiking Neural Networks: Unsupervised Personalization via Spike-Count Saliency",
+          "url": "https://arxiv.org/abs/2609.26167",
+          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We present EvoRank, an open autonomous ranking engineer: an LLM-guided evolutionary loop that discovers complete Learning-to-Rank pipelines (features, models, losses, ensembles) for multi-objective e-commerce search. On the Expedia ICDM…",
-          "authors": "Rayhan Patel, Shabaz Patel"
+          "summary": "Activation-energy pruning -- removing weights whose product of magnitude and cumulative pre-synaptic spike count falls below a threshold -- was established as an effective unsupervised personalization strategy for conventional deep neural…",
+          "authors": "Joseph Bingham"
         },
         {
-          "title": "Trust-Aware Output Management for Physical Neural Network in Cloud-Continuum Systems",
-          "url": "https://arxiv.org/abs/2609.22443",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
+          "title": "When Recursive Models Finish Computing",
+          "url": "https://arxiv.org/abs/2609.26487",
+          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Physical Neural Networks (PNNs) introduce new opportunities for cloud continuum computing, but their outputs may be affected by noise, drift, delay, and incomplete reliability information. Existing substrate-management approaches mainly…",
-          "authors": "Maliheh Hariri, Stefan Fischer"
+          "summary": "Recursive models can continue updating their latent states beyond their nominal inference budget, so an incorrect output at that budget does not show whether computation is unfinished or has entered a persistently unsuccessful regime. We…",
+          "authors": "Hare Krishna, Shubham Singh, Stephen Ebert, Hao-Yu Sun"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Learning Dynamic Neural Evidence Representations for Time-Adaptive Brain-Computer Interfaces",
-          "url": "https://arxiv.org/abs/2609.22088",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Brain-computer interfaces (BCIs) decode neural activity into commands, yet most existing systems rely on fixed-window decoding that may result in redundant observation or unreliable predictions due to insufficient evidence. Adaptive…",
-          "authors": "Beining Cao, Ziyi Zhao, Xiaowei Jiang, Daniel Leong, Yingtao Ren, Thomas Do, Yu-Cheng Fred Chang, Chin-Teng Lin"
-        },
-        {
-          "title": "An Implant-to-Wearable IR-UWB Transmitter-Receiver Architecture and Layered Protocol for High-Density Brain-Computer Interfaces",
-          "url": "https://arxiv.org/abs/2609.22207",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "High-rate neural telemetry requires an implant-towearable link whose circuit partition, waveform mapping, packet processing, and failure semantics are mutually consistent. This paper specifies a chip-oriented, one-way impulse-radio…",
-          "authors": "G. D. Su, Y. Mo"
-        },
-        {
-          "title": "Leakage-Safe Empirical Benchmarking of EEG-Based Machine Learning Pipelines for Dementia Classification",
-          "url": "https://arxiv.org/abs/2609.22092",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Electroencephalography (EEG) is a low-cost and non-invasive signal source for dementia screening, yet existing EEG-based studies remain difficult to compare because preprocessing, EEG segmentation, feature design, classifier choice, and…",
-          "authors": "Haitian Wang, Chamara Madarasingha, Redowan Mahmud, Aneesh Krishna, Ryu Takechi"
-        },
-        {
-          "title": "Graph Learning for Cross-Subject, Cross-Population EEG Emotion Decoding and Model-Derived Spatial-Spectral Neural Signatures",
-          "url": "https://arxiv.org/abs/2609.22103",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Electroencephalography (EEG) provides a noninvasive means of capturing emotion-related neural dynamics, yet reliable EEG emotion decoding lacks models that can both generalize to unseen individuals and populations while preserving neural…",
-          "authors": "Dongyi He, Bin Jiang, Xiangkai Wang, Yun Zhao, Hongjie Yan, Wai Ting Siok, Nizhuan Wang"
-        },
-        {
-          "title": "Attention-Enhanced Dual-Branch ConvNeXt-BiLSTM Network for Subject-Independent EEG Seizure Detection",
-          "url": "https://arxiv.org/abs/2609.22141",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Automated seizure detection from scalp electroencephalography (EEG) is difficult because seizure morphology varies among patients and seizure samples are substantially outnumbered by non-seizure samples. This paper presents an…",
-          "authors": "Maimuna Chowdhury, Sk. Imran Hossain"
-        },
-        {
-          "title": "SleepEffFormer: Efficient CNN-Transformer with Transition-Aware Smoothing for Single-Channel EEG Sleep Stage Classification",
-          "url": "https://arxiv.org/abs/2609.22148",
-          "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Automated sleep stage classification based on single-channel EEG is a promising pathway to large-scale sleep monitoring outside the polysomnographic lab. This paper proposes SleepEffFormer TAS, an efficient and interpretable system that…",
-          "authors": "Nishi Kanta Paul, Md Shihabul Islam Shovo, Israt Jerin Esha, Adrita Rahman"
-        }
-      ]
+      "itemCount": 0,
+      "error": "no BCI-keyword match in fetched feed",
+      "items": []
     }
   }
 }
