@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T00:51:33.212Z",
+  "generatedAt": "2026-09-25T00:46:20.620Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "A theory of plasticity: capacity for change as inverse configurational constraint",
-          "url": "https://arxiv.org/abs/2609.25312",
-          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
+          "title": "AI-Driven Neural Surrogates for In Silico Design of Cognitive-Affective Neuromodulation Targets",
+          "url": "https://arxiv.org/abs/2609.27729",
+          "publishedDate": "Thu, 24 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Plasticity is invoked across the sciences to explain how systems can change, yet it is inferred from the very change it is meant to explain. A system may have many alternatives, realize none and still be plastic. Another may be driven far…",
-          "authors": "Igor Branchi"
+          "summary": "In neuropsychiatry, the primary goal is often not only to decode brain activity but to change it, for example to lessen a negative affective bias or an overly salient memory. Motivated by control theory, we develop an AI-driven…",
+          "authors": "Marco Rothermel, Madleen Stenger, Soroush Daftarian, Svenja Jule Francke, Bita Shariatpanahi, José C. García Alanis, Mohammad-Ali Nikouei Mahani, Stefan G. Hofmann, Tim Hahn, Hamidreza Jamalabadi"
         },
         {
-          "title": "Physics-constrained inference of somatic dynamics from dendritic recordings with sparse somatic supervision in weakly coupled two-compartment neuron model",
-          "url": "https://arxiv.org/abs/2609.25436",
-          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
+          "title": "The Computational Value of Sensory-Aligned Receptive Fields Depends on Neuronal Expressivity",
+          "url": "https://arxiv.org/abs/2609.26940",
+          "publishedDate": "Thu, 24 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Somatic membrane potential is the primary determinant of neuronal output, yet it remains inaccessible in many experimental setups where only dendritic recordings are available. Reconstructing somatic dynamics from distal measurements is a…",
-          "authors": "Abdeltif Oujbara, Benjamin Ambrosio, M. A. Aziz-Alaoui"
+          "summary": "Biological sensory neurons have selective receptive fields organized along meaningful stimulus coordinates, such as frequency, motion direction, or retinotopic position. Such structure may arise from efficient coding and biological…",
+          "authors": "Agnese Adorante, Aaron Spieler, Anna Levina"
         },
         {
-          "title": "Deep Learning in Infant Functional Neuroimaging: Challenges, Advances, and Future Directions",
-          "url": "https://arxiv.org/abs/2609.26688",
-          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
+          "title": "Differences in Neurovascular Coupling in Patients with Major Depressive Disorder: Evidence from Simultaneous Resting-State EEG-fNIRS",
+          "url": "https://arxiv.org/abs/2506.11634",
+          "publishedDate": "Thu, 24 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Infancy is a critical developmental window characterized by rapid functional brain reorganization, during which large-scale networks emerge, individualized connectome signatures continue to form, and early deviations may shape long-term…",
-          "authors": "Dan Hu, Jiale Cheng, Weiran Xia, Kangfu Han, Matthew Wu, Li Wang, Weili Lin, Gang Li"
+          "summary": "Neurovascular coupling (NVC), the relationship between neural activity and cerebral hemodynamic responses, remains poorly understood in major depressive disorder (MDD). To investigate alterations in NVC associated with depressive symptom…",
+          "authors": "Feng Yan, Xiaobin Wang, Yao Zhao, Shuyi Yang, Zhiren Wang"
         },
         {
-          "title": "A Deep Neural Network for Predicting Continuous Human EEG Across the Auditory Pathway in Response to Sound",
-          "url": "https://arxiv.org/abs/2609.20595",
-          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
+          "title": "Functional Connectivity-Guided Band Selection for Motor Imagery Brain-Computer Interfaces",
+          "url": "https://arxiv.org/abs/2605.00746",
+          "publishedDate": "Thu, 24 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Computational models of auditory physiology commonly target specific responses or stages of the auditory pathway, limiting their ability to integrate findings across experimental paradigms and neural timescales. We present a foundation…",
-          "authors": "Thomas J Stoll, Ross K Maddox"
+          "summary": "Reliable control in motor imagery brain-computer interfaces (MI-BCIs) requires the precise decoding of user-specific neural rhythms, which vary significantly across individuals. The Common Spatial Pattern (CSP) algorithm is a cornerstone…",
+          "authors": "Natália Araújo do Carmo, Aarthy Nagarajan"
         },
         {
-          "title": "Only what exists can cause: An intrinsic powers view of free will",
-          "url": "https://arxiv.org/abs/2206.02069",
-          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
+          "title": "Critical Flicker Fusion Frequency As An Experience-Restricted Constraint On Visual Temporal Resolution: What Does And Does Not Change It",
+          "url": "https://arxiv.org/abs/2607.29068",
+          "publishedDate": "Thu, 24 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This essay addresses the implications of integrated information theory (IIT) for free will. IIT is a theory of what consciousness is and of how its presence and quality can be accounted for in physical terms. According to IIT, the presence…",
-          "authors": "Giulio Tononi, Larissa Albantakis, Melanie Boly, Chiara Cirelli, Matteo Grasso, Christof Koch"
+          "summary": "Experience-dependent plasticity is fundamental to adaptive behaviour, yet the conditions under which basic sensory timing can be modified in adulthood remain poorly specified. Critical flicker fusion frequency (CFFF), the threshold at…",
+          "authors": "Natalia D. Rydzenska, Pawel J. Winklewski, Michal W. Blaszczyk-Niezgoda, Anna B. Marcinkowska"
         },
         {
-          "title": "Seeing the imagined: latent functional alignment in visual imagery decoding from fMRI data",
-          "url": "https://arxiv.org/abs/2604.15374",
-          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
+          "title": "Calibration and transfer in indicator-based assessments of artificial consciousness",
+          "url": "https://arxiv.org/abs/2603.27597",
+          "publishedDate": "Thu, 24 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent progress in visual brain decoding from fMRI has been enabled by large-scale datasets such as the Natural Scenes Dataset (NSD) and powerful diffusion-based generative models. While current pipelines are primarily optimized for…",
-          "authors": "Fabrizio Spera, Tommaso Boccato, Michal Olak, Nicola Toschi, Matteo Ferrante"
+          "summary": "Research on artificial consciousness increasingly shifts evaluation from behaviour to internal architecture. Theory-based indicators are used to update probability assignments. This improves on behavioural tests but raises two distinct…",
+          "authors": "Florentin Koch"
         }
       ]
     },
@@ -62,6 +62,14 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "One of the most contagious diseases on the planet is having its worst U.S. outbreak since 1991",
+          "url": "https://www.statnews.com/2026/09/24/health-news-measles-contagious-outbreak-u-s-deaths-1991/?utm_campaign=rss",
+          "publishedDate": "Thu, 24 Sep 2026 11:52:28 +0000",
+          "source": "statnews.com",
+          "summary": "The CDC has added a single measles death to its online counter. In the last few weeks, four unvaccinated people have died from measles in Pennsylvania, according to state officials.&#8230;",
+          "authors": "O. Rose Broderick"
+        },
         {
           "title": "STAT+: FDA advisory panel endorses Grail blood test for cancer, saying benefits outweigh risks",
           "url": "https://www.statnews.com/2026/09/23/fda-advisory-panel-recommends-approval-grail-galleri-multi-cancer-blood-test/?utm_campaign=rss",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "The race between Amy Acton and Vivek Ramaswamy could be the election’s most direct test of where the heartland stands on health care and the pandemic.",
           "authors": "Sarah Todd"
-        },
-        {
-          "title": "STAT+: What a vote on Grail’s cancer detection test could mean for the company, patients, and regulators",
-          "url": "https://www.statnews.com/2026/09/21/grail-galleri-fda-advisory-committee-meeting-documents/?utm_campaign=rss",
-          "publishedDate": "Mon, 21 Sep 2026 17:58:51 +0000",
-          "source": "statnews.com",
-          "summary": "Shares in Grail, the company developing a blood test for cancer, surged Monday after the FDA posted documents ahead of an advisory committee meeting.",
-          "authors": "Matthew Herper"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "White House plan to increase control of NIH grants appears &#8216;dead&#8217;",
-          "url": "https://www.statnews.com/2026/09/23/nih-grants-political-control-executive-order-bipartisan-pushback/?utm_campaign=rss",
-          "publishedDate": "Wed, 23 Sep 2026 23:26:01 +0000",
+          "title": "STAT+: FDA commissioner nominee Heidi Overton keeps opinions to herself in Senate hearing",
+          "url": "https://www.statnews.com/2026/09/24/fda-commissioner-nominee-heidi-overton-senate-hearing-dodges-questions/?utm_campaign=rss",
+          "publishedDate": "Thu, 24 Sep 2026 20:21:32 +0000",
           "source": "statnews.com",
-          "summary": "A planned EO that would have greatly enhanced White House influence over grants at the NIH is “looking dead,” a source said.",
-          "authors": "Anil Oza and Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: Nominee to lead FDA aims to speed up medical research, combat China’s rise",
-          "url": "https://www.statnews.com/2026/09/23/heidi-overton-fda-nominee-opening-statement-senate-hearing-clinical-trials/?utm_campaign=rss",
-          "publishedDate": "Wed, 23 Sep 2026 22:14:37 +0000",
-          "source": "statnews.com",
-          "summary": "Exclusive: Heidi Overton plans to tell senators she will speed up biomedical research, working with FDA staff.",
+          "summary": "Senators focused on asking Overton about vaccines, abortion, and vapes.",
           "authors": "Margaret Manto"
         },
         {
-          "title": "This new drug could break cancer’s resistance to treatment",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260921081112.htm",
-          "publishedDate": "Tue, 22 Sep 2026 21:27:00 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new experimental drug called CS18 may help break through cancer drug resistance by disabling several of the defenses tumors use to survive treatment. It strengthened existing therapies, restored drug sensitivity in resistant lung cancer…",
-          "authors": ""
-        },
-        {
-          "title": "Opinion: Former FDA commissioners: Heidi Overton has an opportunity to strengthen the FDA",
-          "url": "https://www.statnews.com/2026/09/22/heidi-overton-fda-commissioner-confirmation-hearing/?utm_campaign=rss",
-          "publishedDate": "Tue, 22 Sep 2026 17:49:03 +0000",
+          "title": "Senate finance committee backs Chris Klomp, advancing him to full Senate vote",
+          "url": "https://www.statnews.com/2026/09/24/chris-klomp-vote-senate-finance-committee-hhs-deputy-secretary/?utm_campaign=rss",
+          "publishedDate": "Thu, 24 Sep 2026 16:38:12 +0000",
           "source": "statnews.com",
-          "summary": "Two former FDA commissioners: Heidi Overton is the right pick in a difficult moment.",
-          "authors": "Scott Gottlieb and Mark B. McClellan"
+          "summary": "Klomp, a behind-the-scenes HHS power player, is likely to be confirmed as second-in-command to RFK Jr.",
+          "authors": "Chelsea Cirruzzo and John Wilkerson"
         },
         {
-          "title": "Coffee doesn’t have to keep you awake to disrupt your sleep",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
-          "publishedDate": "Tue, 22 Sep 2026 09:42:49 EDT",
+          "title": "Scientists thought they knew how this 70-year-old leukemia drug worked",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260923035932.htm",
+          "publishedDate": "Thu, 24 Sep 2026 08:47:28 EDT",
           "source": "sciencedaily.com",
-          "summary": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep. Individual sensitivity varies…",
+          "summary": "A 70-year-old leukemia drug is still revealing new secrets. Researchers found that removing a protein called NUDT5 protected cells from the drug, even though simply blocking the protein had little effect. The unexpected result points to a…",
           "authors": ""
         },
         {
-          "title": "This emerging treatment could help people avoid knee replacement surgery",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260922052030.htm",
-          "publishedDate": "Tue, 22 Sep 2026 09:31:54 EDT",
+          "title": "Aging muscles may be losing strength for a reason scientists missed",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260923035924.htm",
+          "publishedDate": "Thu, 24 Sep 2026 08:25:18 EDT",
           "source": "sciencedaily.com",
-          "summary": "A minimally invasive procedure called genicular artery embolization could offer a new middle ground between conservative treatments and knee replacement for osteoarthritis. By blocking tiny blood vessels associated with inflammation, GAE…",
+          "summary": "A newly identified breakdown in communication between nerves and muscles could help explain why people lose strength as they age. Researchers were able to improve muscle strength in an animal model by targeting a key protein, raising hopes…",
           "authors": ""
+        },
+        {
+          "title": "STAT+: Trump boast on drug pricing policy overstated state-level interest in federal program",
+          "url": "https://www.statnews.com/2026/09/24/trump-medicaid-generous-model-state-interest/?utm_campaign=rss",
+          "publishedDate": "Thu, 24 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "President Trump and his aides boasted that every U.S. state wanted to participate in a drug pricing initiative through Medicaid. Several states said they weren't sure yet.",
+          "authors": "Daniel Payne"
+        },
+        {
+          "title": "STAT+: Momentum is building for a big change to how doctors get paid",
+          "url": "https://www.statnews.com/2026/09/24/patients-first-act-congress-moves-on-doctor-pay-medicare-reform/?utm_campaign=rss",
+          "publishedDate": "Thu, 24 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Congress is considering linking doctor payment rates to medical inflation under the proposed Patients First Act.",
+          "authors": "John Wilkerson"
         }
       ]
     },
@@ -173,61 +173,69 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Online Automated Algorithm Design with Large Language Models",
-          "url": "https://arxiv.org/abs/2609.25325",
-          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
+          "title": "NeuroRule: Making Black-Box Neural Networks Explainable through Rule-set Evolution",
+          "url": "https://arxiv.org/abs/2609.26841",
+          "publishedDate": "Thu, 24 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Large language models (LLMs) enable automated algorithm design (AAD) through reasoning and code synthesis. However, most existing LLM-based AAD methods separate algorithm design from target optimization, deploying a fixed design even as…",
-          "authors": "Zhiyao Zhang, Yichen Li, Xingyu Wu, Liang Feng, Kay Chen Tan"
+          "summary": "High-capacity neural network models have achieved state-of-the-art performance across diverse classification tasks, yet they frequently operate as black-box models, lacking the transparency necessary for critical decision-making. Such…",
+          "authors": "Tapaswini Kodavanti, Hormoz Shahrzad, Risto Miikkulainen"
         },
         {
-          "title": "Universal Fractal Natural Language Decision Map: Real-Time Edge Triage Across Heterogeneous Domains",
-          "url": "https://arxiv.org/abs/2609.25498",
-          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
+          "title": "The Computational Value of Sensory-Aligned Receptive Fields Depends on Neuronal Expressivity",
+          "url": "https://arxiv.org/abs/2609.26940",
+          "publishedDate": "Thu, 24 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Deploying Large Language Models for runtime operational triage incurs prohibitive latency (>100-500 ms), high VRAM requirements (>4-8 GB), and excessive energy dissipation. Extending Mandelbrot Fractal Neural Synthesis (Dagli et al.,…",
-          "authors": "Volkan Da\\ugl\\i, Zerrin Da\\ugl\\i, Da\\ughan Da\\ugl\\i"
+          "summary": "Biological sensory neurons have selective receptive fields organized along meaningful stimulus coordinates, such as frequency, motion direction, or retinotopic position. Such structure may arise from efficient coding and biological…",
+          "authors": "Agnese Adorante, Aaron Spieler, Anna Levina"
         },
         {
-          "title": "Rethinking Pairwise Token Interaction in Spiking Transformers",
-          "url": "https://arxiv.org/abs/2609.26297",
-          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
+          "title": "Combining LLMs and Genetic Search for ARC-AGI-2",
+          "url": "https://arxiv.org/abs/2609.27242",
+          "publishedDate": "Thu, 24 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking Transformers inherit token interaction mechanisms from conventional Transformers, yet their sparse binary representations fundamentally alter how token-to-token communication is established. In particular, spike-based query-key…",
-          "authors": "Sicheng Shen, Dongcheng Zhao, Zhiyuan Li, Jinyan Yu, Qian Zhang, Dengpeng Xing, Zhitong Zhang, Tielin Zhang"
+          "summary": "LLMs can generate programs for ARC-AGI-2 tasks, but the provided compute only allows a small number of attempts to generate, debug and validate solutions. Genetic algorithms can search and test many more programs, but random search rarely…",
+          "authors": "Val Dyachenko"
         },
         {
-          "title": "In-Context Guidance: Learning Inter-Task Synergies via Numerical Foundational Models for Few-Shot Multitask Optimization",
-          "url": "https://arxiv.org/abs/2609.25836",
-          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
+          "title": "An Unbounded Archive-based Transfer Strategy for Dynamic Multi-Objective Optimization with a Changing Number of Objectives",
+          "url": "https://arxiv.org/abs/2609.27430",
+          "publishedDate": "Thu, 24 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Multi-task optimization (MTO) addresses a set of optimization tasks simultaneously, often suffering from inaccurate inter-task relationship estimation under limited evaluation budgets, leading to negative transfer. This paper introduces…",
-          "authors": "Tingyang Wei, Haofeng Wu, Jiao Liu, Zhao Wei, Puay Siew Tan, Yew-Soon Ong"
+          "summary": "Dynamic multi-objective optimization with a variable number of objectives is difficult because objective-dimensional variations may significantly change the Pareto front and degrade algorithm adaptability. This paper proposes an unbounded…",
+          "authors": "Zhiyun Xiao, Ke Shang, Yajun Liu, Jianguo Li, Shaojiang Wang, Wei Sun"
         },
         {
-          "title": "Activation-Energy Pruning for Spiking Neural Networks: Unsupervised Personalization via Spike-Count Saliency",
-          "url": "https://arxiv.org/abs/2609.26167",
-          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
+          "title": "Spiking Neural Network Predicting Sequence of the External Worlds States in Model-Based Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2609.27459",
+          "publishedDate": "Thu, 24 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Activation-energy pruning -- removing weights whose product of magnitude and cumulative pre-synaptic spike count falls below a threshold -- was established as an effective unsupervised personalization strategy for conventional deep neural…",
-          "authors": "Joseph Bingham"
+          "summary": "This paper presents a spiking neural network (SNN) designed to predict the sequence of the external world states starting from the current world state. This SNN does not create the world dynamics model - instead it incorporates the SNN…",
+          "authors": "Mikhail Kiselev"
         },
         {
-          "title": "When Recursive Models Finish Computing",
-          "url": "https://arxiv.org/abs/2609.26487",
-          "publishedDate": "Wed, 23 Sep 2026 00:00:00 -0400",
+          "title": "LexLattice: Multilingual Extractive Summarization via Neural Cellular Automata on Document Hierarchies",
+          "url": "https://arxiv.org/abs/2609.27032",
+          "publishedDate": "Thu, 24 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recursive models can continue updating their latent states beyond their nominal inference budget, so an incorrect output at that budget does not show whether computation is unfinished or has entered a persistently unsuccessful regime. We…",
-          "authors": "Hare Krishna, Shubham Singh, Stephen Ebert, Hao-Yu Sun"
+          "summary": "Faithfulness is a central concern in legal text summarization, which motivates extractive approaches that select verbatim content traceable to its source. Such methods typically rank paragraphs or other structural units in isolation, yet…",
+          "authors": "Sujay Uday Rittikar, Sheela Ramanna"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 1,
+      "items": [
+        {
+          "title": "Electromagnetic-Twin Channel Estimation: From Sparse Pilots to Persistent CSI",
+          "url": "https://arxiv.org/abs/2609.27894",
+          "publishedDate": "Thu, 24 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Each repeated pilot block is typically treated as a separate channel-estimation problem, although much of the angle--delay state persists across updates. This paper defines an electromagnetic twin (ET) as a recursively synchronized…",
+          "authors": "Tuo Wu, K. C. Ho"
+        }
+      ]
     }
   }
 }

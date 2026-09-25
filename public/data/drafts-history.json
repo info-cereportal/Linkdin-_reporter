@@ -1,5 +1,29 @@
 [
   {
+    "generatedAt": "2026-09-25T00:46:20.061Z",
+    "date": "2026-09-25",
+    "topic": "前頭前皮質",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Differences in Neurovascular Coupling in Patients with Major Depressive Disorder: Evidence from Simultaneous Resting-State EEG-fNIRS",
+    "paperLink": "https://arxiv.org/abs/2506.11634",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n脳科学とAI——その境界線が消えつつある。\n\n前頭前皮質に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 fNIRS(近赤外分光法) × EEG × 前頭前皮質 × 脳画像研究\n\n📊 注目すべきデータ：\n→ We found that age significantly enhances the NVC consistency (p < 0.05), whereas this relationship was altered in patients with MDD during both the oxygen-consumption phase and...\n→ Furthermore, among patients with MDD, the strength of this consistency decreased more significantly with greater illness severity (partial r = -0.336, p = 0.0601).\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n臨床・精神医学応用の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Differences in Neurovascular Coupling in Patients with Major Depressive Disorder: Evidence from Simultaneous Resting-State EEG-fNIRS\n🔗 https://arxiv.org/abs/2506.11634\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #NeuroAI",
+    "summaryJP": "前頭前皮質 — 脳科学とAIをつなぐ研究（臨床・精神医学応用）",
+    "paperAuthors": "Feng Yan, Xiaobin Wang, Yao Zhao, Shuyi Yang, Zhiren Wang",
+    "publishedDate": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "paperId": "2506.11634",
+    "paperSource": "arxiv",
+    "themeArea": "臨床・精神医学応用",
+    "jpKeywords": [
+      "fNIRS(近赤外分光法)",
+      "EEG",
+      "前頭前皮質",
+      "脳画像研究"
+    ],
+    "abstractExcerpt": "Neurovascular coupling (NVC), the relationship between neural activity and cerebral hemodynamic responses, remains poorly understood in major depressive disorder (MDD). To investigate alterations in NVC associated with depressive symptom…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-09-24T00:51:32.604Z",
     "date": "2026-09-24",
     "topic": "脳情報デコーディング",
@@ -1240,35 +1264,6 @@
       "https://arxiv.org/html/2605.00865/2605.00865v2/x1.png",
       "https://arxiv.org/html/2605.00865/2605.00865v2/x2.png",
       "https://arxiv.org/html/2605.00865/2605.00865v2/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-08-05T23:34:15.444Z",
-    "date": "2026-08-05",
-    "topic": "大規模言語モデル(LLM)と学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Do VLMs Align Better with Humans than LLMs during Natural Reading?",
-    "paperLink": "https://arxiv.org/abs/2605.28818",
-    "figureUrl": "https://arxiv.org/html/2605.28818/2605.28818v2/overall_framework.png",
-    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、大規模言語モデル(LLM)と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 大規模言語モデル(LLM) × 学習 × 言語処理 × fMRI\n\n> Large language models have become increasingly useful computational models of human language processing, but it remains open whether vision-language learning makes text representations more human-like during natural reading. We address this question by comparing matched LLM and...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Do VLMs Align Better with Humans than LLMs during Natural Reading?\n🔗 https://arxiv.org/abs/2605.28818\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #DeepLearning",
-    "summaryJP": "大規模言語モデル(LLM)と学習 — 数値で示された新事実（神経デコーディング）",
-    "paperAuthors": "Jinzhou Wu, Zhengwu Ma, Jixing Li, Baoping Tang, Zitong Lu",
-    "publishedDate": "Wed, 05 Aug 2026 00:00:00 -0400",
-    "paperId": "2605.28818",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "大規模言語モデル(LLM)",
-      "学習",
-      "言語処理",
-      "fMRI"
-    ],
-    "abstractExcerpt": "Large language models have become increasingly useful computational models of human language processing, but it remains open whether vision-language learning makes text representations more human-like during natural reading. We address…",
-    "figureUrls": [
-      "https://arxiv.org/html/2605.28818/2605.28818v2/overall_framework.png",
-      "https://arxiv.org/html/2605.28818/2605.28818v2/saccade_combined_num.png",
-      "https://arxiv.org/html/2605.28818/2605.28818v2/fmri_alignment.png"
     ]
   }
 ]
