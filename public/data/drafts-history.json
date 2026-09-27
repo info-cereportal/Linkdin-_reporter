@@ -1,5 +1,29 @@
 [
   {
+    "generatedAt": "2026-09-27T00:50:26.025Z",
+    "date": "2026-09-27",
+    "topic": "ブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御",
+    "templateName": "paradigm-shift",
+    "riskScore": 0,
+    "paperTitle": "From Signal Stacking to Dynamic Coupling: A Critical Review of Wearable EEG-EMG Fusion Brain-Computer Interfaces for Stroke Rehabilitation.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42796132/",
+    "formatted": "ブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × EEG × クローズドループ制御 × 学習\n\n> This structured critical review examines wearable brain-computer interface (BCI) systems that integrate electroencephalographic (EEG) and electromyographic (EMG) signals for post-stroke motor rehabilitation. The central engineering problem is the spatio-temporal heterogeneity...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nBCI・ニューラルインターフェースの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 From Signal Stacking to Dynamic Coupling: A Critical Review of Wearable EEG-EMG Fusion Brain-Computer Interfaces for Stroke Rehabilitation.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42796132/\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #計算論的神経科学",
+    "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御 — 通説を揺さぶる新たな知見（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Mengna Dai, Mingke Jiao, Yuheng Wang",
+    "publishedDate": "2026-09-26",
+    "paperId": "42796132",
+    "paperSource": "pubmed",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "ブレイン・コンピュータ・インターフェース(BCI)",
+      "EEG",
+      "クローズドループ制御",
+      "学習"
+    ],
+    "abstractExcerpt": "This structured critical review examines wearable brain-computer interface (BCI) systems that integrate electroencephalographic (EEG) and electromyographic (EMG) signals for post-stroke motor rehabilitation. The central engineering problem…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-09-26T00:50:44.870Z",
     "date": "2026-09-26",
     "topic": "学習とシナプス可塑性",
@@ -1239,33 +1263,5 @@
     ],
     "abstractExcerpt": "With the rapid proliferation of internet-based applications, the volume of user-generated reviews has grown dramatically. Effectively extracting users' perspectives and emotional dispositions from this massive, heterogeneous text data…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-08-07T23:15:05.059Z",
-    "date": "2026-08-07",
-    "topic": "学習と生物学的妥当性",
-    "templateName": "future-vision",
-    "riskScore": 0,
-    "paperTitle": "From Local Learning to Global Prediction Through Layered Surprise Cascades",
-    "paperLink": "https://arxiv.org/abs/2608.05481",
-    "figureUrl": "https://arxiv.org/html/2608.05481/2608.05481v1/x1.png",
-    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n学習と生物学的妥当性の最新研究です。\n\n🔬 学習 × 生物学的妥当性 × 予測符号化\n\n> Hierarchical predictive coding proposes a compelling hypothesis of brain computation, suggesting that the cortex builds layered predictions to minimize surprise. Yet most models rely on error-coding neurons or generative modeling of unclear biological plausibility.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 From Local Learning to Global Prediction Through Layered Surprise Cascades\n🔗 https://arxiv.org/abs/2608.05481\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #NeuralDecoding",
-    "summaryJP": "学習と生物学的妥当性 — 次世代へ続く布石（ニューロAI・計算論）",
-    "paperAuthors": "Andrew L. Smith, Linxing Preston Jiang, Jason K. Eshraghian, Matthew S. Bull, Stefano Recanatesi",
-    "publishedDate": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "paperId": "2608.05481",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "学習",
-      "生物学的妥当性",
-      "予測符号化"
-    ],
-    "abstractExcerpt": "Hierarchical predictive coding proposes a compelling hypothesis of brain computation, suggesting that the cortex builds layered predictions to minimize surprise. Yet most models rely on error-coding neurons or generative modeling of…",
-    "figureUrls": [
-      "https://arxiv.org/html/2608.05481/2608.05481v1/x1.png",
-      "https://arxiv.org/html/2608.05481/2608.05481v1/x2.png",
-      "https://arxiv.org/html/2608.05481/2608.05481v1/x3.png"
-    ]
   }
 ]
