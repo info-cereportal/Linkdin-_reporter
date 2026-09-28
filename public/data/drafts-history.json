@@ -1,5 +1,30 @@
 [
   {
+    "generatedAt": "2026-09-28T01:09:45.840Z",
+    "date": "2026-09-28",
+    "topic": "ニューロモデュレーションと深層学習",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Advanced non-invasive brain neuromodulation: a comprehensive review of electric, magnetic, ultrasonic, and optical modalities.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42800998/",
+    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、ニューロモデュレーションと深層学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 ニューロモデュレーション × 深層学習 × クローズドループ制御 × 学習\n\n> Non-invasive brain neuromodulation has emerged as a transformative frontier in neuroscience and clinical medicine, offering the ability to modulate neuronal excitability and network connectivity without the risks associated with surgical intervention. As the neurological and...\n\nなぜこの数字が重要か。\n\nBCI・ニューラルインターフェースにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Advanced non-invasive brain neuromodulation: a comprehensive review of electric, magnetic, ultrasonic, and optical modalities.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42800998/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #BrainComputerInterface",
+    "summaryJP": "ニューロモデュレーションと深層学習 — 数値で示された新事実（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Kyungsik Eom, Kyung Min Byun",
+    "publishedDate": "2026-09-27",
+    "paperId": "42800998",
+    "paperSource": "pubmed",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "ニューロモデュレーション",
+      "深層学習",
+      "クローズドループ制御",
+      "学習",
+      "脳画像研究"
+    ],
+    "abstractExcerpt": "Non-invasive brain neuromodulation has emerged as a transformative frontier in neuroscience and clinical medicine, offering the ability to modulate neuronal excitability and network connectivity without the risks associated with surgical…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-09-27T00:50:26.025Z",
     "date": "2026-09-27",
     "topic": "ブレイン・コンピュータ・インターフェース(BCI)とクローズドループ制御",
@@ -1239,29 +1264,6 @@
       "注意機構"
     ],
     "abstractExcerpt": "Accurate forecasting of viral disease outbreaks is crucial for guiding public health responses and preventing widespread loss of life. Recently, Physics-Informed Neural Networks (PINNs) have emerged as a promising framework for capturing…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-08-08T23:01:14.590Z",
-    "date": "2026-08-08",
-    "topic": "注意機構と意思決定",
-    "templateName": "neuro-ai-bridge",
-    "riskScore": 0,
-    "paperTitle": "Entropy-aware filtering and hierarchical attention: A hybrid neural framework for fine-grained user satisfaction modeling.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42566801/",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n注意機構と意思決定に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 注意機構 × 意思決定 × 情動\n\n📊 注目すべきデータ：\n→ Effectively extracting users' perspectives and emotional dispositions from this massive, heterogeneous text data poses significant challenges.\n→ This paper presents a novel multi-dimensional satisfaction analysis framework that integrates sentiment analysis with fuzzy decision-making.\n→ Extensive experiments on 18,559 user reviews from mobility travel service systems (MTSS) demonstrate that the model outperforms 12 baselines by 1.4%-5.6% across accuracy,...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n認知・意思決定の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Entropy-aware filtering and hierarchical attention: A hybrid neural framework for fine-grained user satisfaction modeling.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42566801/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #ニューロテック",
-    "summaryJP": "注意機構と意思決定 — 脳科学とAIをつなぐ研究（認知・意思決定）",
-    "paperAuthors": "Huiran Liu, Zheng Wang, Zhiming Fang",
-    "publishedDate": "2026-08-07",
-    "paperId": "42566801",
-    "paperSource": "pubmed",
-    "themeArea": "認知・意思決定",
-    "jpKeywords": [
-      "注意機構",
-      "意思決定",
-      "情動"
-    ],
-    "abstractExcerpt": "With the rapid proliferation of internet-based applications, the volume of user-generated reviews has grown dramatically. Effectively extracting users' perspectives and emotional dispositions from this massive, heterogeneous text data…",
     "figureUrls": []
   }
 ]

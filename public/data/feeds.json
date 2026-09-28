@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T00:50:26.543Z",
+  "generatedAt": "2026-09-28T01:09:46.156Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,52 +69,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
+          "publishedDate": "Sun, 27 Sep 2026 09:53:39 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal…",
+          "authors": ""
+        },
+        {
+          "title": "Atrial fibrillation patients saw 69% lower risk with common blood thinners",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260925005439.htm",
+          "publishedDate": "Sun, 27 Sep 2026 09:41:36 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Direct oral anticoagulants cut the risk of serious clinical events by 69% in atrial fibrillation patients with an intermediate risk of stroke, according to the randomized SINGLE-AF trial. The benefit was driven mainly by fewer ischemic…",
+          "authors": ""
+        },
+        {
+          "title": "One CRISPR treatment cut “bad” cholesterol in half for a full year",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
+          "publishedDate": "Sun, 27 Sep 2026 09:15:21 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A single dose of an experimental CRISPR therapy cut LDL cholesterol and triglycerides by about half in patients with difficult-to-treat lipid disorders. The reductions were still present one year later, with the highest dose lowering LDL…",
+          "authors": ""
+        },
+        {
+          "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
+          "publishedDate": "Sun, 27 Sep 2026 06:49:13 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms. Researchers say identifying these hidden drivers…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists say house cats could help unlock better cancer treatments for humans",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260924231826.htm",
+          "publishedDate": "Sat, 26 Sep 2026 22:01:42 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have mapped the genetics of cat cancer on an unprecedented scale and found surprising similarities with tumors in humans. The findings could help bring precision cancer treatments to cats while also revealing new clues about how…",
+          "authors": ""
+        },
+        {
           "title": "A major risk of breast cancer screening may have been overestimated for decades",
           "url": "https://www.sciencedaily.com/releases/2026/09/260924020351.htm",
           "publishedDate": "Sat, 26 Sep 2026 11:25:30 EDT",
           "source": "sciencedaily.com",
           "summary": "A new analysis suggests mammograms may lead to far less breast cancer overdiagnosis than some earlier studies indicated. Researchers reexamined all eight major randomized screening trials and accounted for differences in follow-up time,…",
           "authors": ""
-        },
-        {
-          "title": "That fresh cleaning smell could be filling your home with nanoparticles",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260925093152.htm",
-          "publishedDate": "Sat, 26 Sep 2026 10:49:45 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers found that scented cleaners can react with ozone indoors to create billions or trillions of invisible nanoparticles that can penetrate deep into the lungs. The pollution forms within minutes and, in some cases, may produce an…",
-          "authors": ""
-        },
-        {
-          "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
-          "publishedDate": "Sat, 26 Sep 2026 08:31:07 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding could help explain the drug’s powerful…",
-          "authors": ""
-        },
-        {
-          "title": "Don’t toss cannabis leaves: They may contain rare compounds with medical potential",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260924231711.htm",
-          "publishedDate": "Fri, 25 Sep 2026 21:25:10 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists discovered rare flavoalkaloids in Cannabis leaves for the first time, along with dozens of other phenolic compounds that had never been reported in the plant. The findings suggest that Cannabis leaves, often discarded as waste,…",
-          "authors": ""
-        },
-        {
-          "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
-          "url": "https://www.statnews.com/2026/09/25/trump-administration-cancel-spending-hhs-programs/?utm_campaign=rss",
-          "publishedDate": "Sat, 26 Sep 2026 01:03:38 +0000",
-          "source": "statnews.com",
-          "summary": "President Trump is canceling nearly $1 billion in spending approved by Congress, and most of the cuts are focused on HHS programs that serve refugees and unaccompanied minors.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "Opinion: FDA commissioner nominee Heidi Overton is ignoring the science on abortion drug",
-          "url": "https://www.statnews.com/2026/09/25/heidi-overton-confirmation-hearing-mifepristone-abortion-evasive/?utm_campaign=rss",
-          "publishedDate": "Fri, 25 Sep 2026 14:39:38 +0000",
-          "source": "statnews.com",
-          "summary": "“With this latest appointment, mifepristone has a new boss but an old problem,” writes Julie F. Kay, founder and CEO of Reproductive Futures.",
-          "authors": "Julie F. Kay"
         }
       ]
     },
