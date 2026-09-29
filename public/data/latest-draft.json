@@ -1,25 +1,26 @@
 {
-  "generatedAt": "2026-09-28T01:09:45.840Z",
-  "date": "2026-09-28",
-  "topic": "ニューロモデュレーションと深層学習",
-  "templateName": "data-driven",
+  "generatedAt": "2026-09-29T02:16:30.232Z",
+  "date": "2026-09-29",
+  "topic": "脳情報科学の最新研究",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Advanced non-invasive brain neuromodulation: a comprehensive review of electric, magnetic, ultrasonic, and optical modalities.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42800998/",
-  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、ニューロモデュレーションと深層学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 ニューロモデュレーション × 深層学習 × クローズドループ制御 × 学習\n\n> Non-invasive brain neuromodulation has emerged as a transformative frontier in neuroscience and clinical medicine, offering the ability to modulate neuronal excitability and network connectivity without the risks associated with surgical intervention. As the neurological and...\n\nなぜこの数字が重要か。\n\nBCI・ニューラルインターフェースにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Advanced non-invasive brain neuromodulation: a comprehensive review of electric, magnetic, ultrasonic, and optical modalities.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42800998/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #BrainComputerInterface",
-  "summaryJP": "ニューロモデュレーションと深層学習 — 数値で示された新事実（BCI・ニューラルインターフェース）",
-  "paperAuthors": "Kyungsik Eom, Kyung Min Byun",
-  "publishedDate": "2026-09-27",
-  "paperId": "42800998",
-  "paperSource": "pubmed",
-  "themeArea": "BCI・ニューラルインターフェース",
+  "paperTitle": "Grid-cell firing fields lack local sixfold symmetry",
+  "paperLink": "https://arxiv.org/abs/2609.31145",
+  "figureUrl": "https://arxiv.org/html/2609.31145/2609.31145v1/Figure1.png",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\n脳情報科学の最新研究の最新成果を整理しました。\n\n🔬 脳情報科学\n\n> The firing fields of a grid cell form a hexagonal lattice, yet each field's intrinsic geometric structure remains unclear: Are individual grid fields radially symmetric or do they exhibit (weak) sixfold modulation inherited from the global lattice? To address this question, we...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n脳情報科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Grid-cell firing fields lack local sixfold symmetry\n🔗 https://arxiv.org/abs/2609.31145\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #BrainComputerInterface",
+  "summaryJP": "脳情報科学の最新研究 — 注目すべき3つの示唆",
+  "paperAuthors": "Anian Kerscher",
+  "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+  "paperId": "2609.31145",
+  "paperSource": "arxiv",
+  "themeArea": "脳情報科学",
   "jpKeywords": [
-    "ニューロモデュレーション",
-    "深層学習",
-    "クローズドループ制御",
-    "学習",
-    "脳画像研究"
+    "脳情報科学"
   ],
-  "abstractExcerpt": "Non-invasive brain neuromodulation has emerged as a transformative frontier in neuroscience and clinical medicine, offering the ability to modulate neuronal excitability and network connectivity without the risks associated with surgical…",
-  "figureUrls": []
+  "abstractExcerpt": "The firing fields of a grid cell form a hexagonal lattice, yet each field's intrinsic geometric structure remains unclear: Are individual grid fields radially symmetric or do they exhibit (weak) sixfold modulation inherited from the global…",
+  "figureUrls": [
+    "https://arxiv.org/html/2609.31145/2609.31145v1/Figure1.png",
+    "https://arxiv.org/html/2609.31145/2609.31145v1/Figure2.png",
+    "https://arxiv.org/html/2609.31145/2609.31145v1/FigureS1.png"
+  ]
 }

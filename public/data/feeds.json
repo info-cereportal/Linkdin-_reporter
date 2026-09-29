@@ -1,12 +1,37 @@
 {
-  "generatedAt": "2026-09-28T01:09:46.156Z",
+  "generatedAt": "2026-09-29T02:16:30.818Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 3,
+      "items": [
+        {
+          "title": "Grid-cell firing fields lack local sixfold symmetry",
+          "url": "https://arxiv.org/abs/2609.31145",
+          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The firing fields of a grid cell form a hexagonal lattice, yet each field's intrinsic geometric structure remains unclear: Are individual grid fields radially symmetric or do they exhibit (weak) sixfold modulation inherited from the global…",
+          "authors": "Anian Kerscher"
+        },
+        {
+          "title": "Learning a non-linguistic code for inferred rules from reward",
+          "url": "https://arxiv.org/abs/2609.31192",
+          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "How can a rule inferred from examples reach someone who never saw them, without a shared code? Patients with severe aphasia do it by gesture or sketch. One network sees worked examples and emits eight invented symbols; a second, blind to…",
+          "authors": "Cristiano Capone"
+        },
+        {
+          "title": "FlatClip: A Geometry-Aware Surface-Level Baseline for fMRI Representation Learning",
+          "url": "https://arxiv.org/abs/2609.31204",
+          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Recent fMRI foundation models differ substantially in the spatial scale at which they represent brain activity. ROI- and connectivity-based models are efficient but coarse, whereas voxel-level models preserve fine-grained spatial structure…",
+          "authors": "Mo Wang, Wenhao Ye, Zihan Ning, Jiayu Zuo, Junfeng Xia, Hongkai Wen, Quanying Liu"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -14,28 +39,36 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Risk from toxic metals can persist months after wildfires, Maui study finds",
+          "url": "https://www.statnews.com/2026/09/28/hawaii-wildfire-air-quality-risk-study/?utm_campaign=rss",
+          "publishedDate": "Mon, 28 Sep 2026 21:07:09 +0000",
+          "source": "statnews.com",
+          "summary": "Post-wildfire air quality needs to be monitored long term, suggests a study finding Maui residents had high levels of toxic metals months later.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "Trump administration asks Supreme Court to allow transgender medical care restrictions in prison",
+          "url": "https://www.statnews.com/2026/09/28/trump-administration-supreme-court-transgender-medical-care-restrictions-prison/?utm_campaign=rss",
+          "publishedDate": "Mon, 28 Sep 2026 17:55:51 +0000",
+          "source": "statnews.com",
+          "summary": "The Trump administration asked the Supreme Court on Monday to let it enforce, for now, restrictions on gender-affirming care in federal prison.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "Trump uses ‘contested’ power to cut more funding to HHS",
+          "url": "https://www.statnews.com/2026/09/28/health-news-trump-uses-contested-power-to-cut-more-funding-to-hhs/?utm_campaign=rss",
+          "publishedDate": "Mon, 28 Sep 2026 12:22:37 +0000",
+          "source": "statnews.com",
+          "summary": "Late Friday night, the Trump administration clawed back nearly $1 billion in spending approved by Congress, targeting several HHS programs focused on immigrants and diversity",
+          "authors": "Amanda Erickson and Brittany Trang"
+        },
+        {
           "title": "Federal judge rolls back landmark disability protections",
           "url": "https://www.statnews.com/2026/09/25/health-news-federal-judge-rolls-back-landmark-disability-protections/?utm_campaign=rss",
           "publishedDate": "Fri, 25 Sep 2026 12:53:55 +0000",
           "source": "statnews.com",
           "summary": "The Justice Department said in June that it would no longer enforce laws that prioritized people with disabilities living and receiving services in their communities, rather than in nursing homes&#8230;",
           "authors": "Chelsea Cirruzzo, Anil Oza, Elizabeth Cooney,and O. Rose Broderick"
-        },
-        {
-          "title": "STAT+: The head of Kennedy&#8217;s new autism project has roots in Iraq War, Sesame Street",
-          "url": "https://www.statnews.com/2026/09/25/russell-shilling-leads-arpa-h-spectra-initiative-autism-care/?utm_campaign=rss",
-          "publishedDate": "Fri, 25 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Advanced Research Projects Agency for Health is planning a total-lifespan research project on autism: A Q&#038;A with its leader, Russell Shilling.",
-          "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "At least five candidates vie to become the next WHO leader, as questions over U.S. role loom",
-          "url": "https://www.statnews.com/2026/09/25/world-health-organization-candidates-for-next-director-general/?utm_campaign=rss",
-          "publishedDate": "Fri, 25 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "At least five candidates are in the running to become the next director-general of the WHO, a job that will come with extraordinary challenges.",
-          "authors": "Helen Branswell"
         },
         {
           "title": "How Big Tobacco flooded the FDA with public comments to kill a menthol cigarette ban",
@@ -46,20 +79,12 @@
           "authors": "Jason McLure — The Examination"
         },
         {
-          "title": "One of the most contagious diseases on the planet is having its worst U.S. outbreak since 1991",
-          "url": "https://www.statnews.com/2026/09/24/health-news-measles-contagious-outbreak-u-s-deaths-1991/?utm_campaign=rss",
-          "publishedDate": "Thu, 24 Sep 2026 11:52:28 +0000",
+          "title": "STAT+: The head of Kennedy&#8217;s new autism project has roots in Iraq War, Sesame Street",
+          "url": "https://www.statnews.com/2026/09/25/russell-shilling-leads-arpa-h-spectra-initiative-autism-care/?utm_campaign=rss",
+          "publishedDate": "Fri, 25 Sep 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "The CDC has added a single measles death to its online counter. In the last few weeks, four unvaccinated people have died from measles in Pennsylvania, according to state officials.&#8230;",
+          "summary": "Advanced Research Projects Agency for Health is planning a total-lifespan research project on autism: A Q&#038;A with its leader, Russell Shilling.",
           "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "STAT+: FDA advisory panel endorses Grail blood test for cancer, saying benefits outweigh risks",
-          "url": "https://www.statnews.com/2026/09/23/fda-advisory-panel-recommends-approval-grail-galleri-multi-cancer-blood-test/?utm_campaign=rss",
-          "publishedDate": "Wed, 23 Sep 2026 21:47:58 +0000",
-          "source": "statnews.com",
-          "summary": "An FDA advisory panel has endorsed Galleri, a blood test designed by the biotech firm Grail to screen for multiple types of cancer.",
-          "authors": "Matthew Herper"
         }
       ]
     },
@@ -69,51 +94,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
-          "publishedDate": "Sun, 27 Sep 2026 09:53:39 EDT",
+          "title": "Trump administration asks Supreme Court to allow transgender medical care restrictions in prison",
+          "url": "https://www.statnews.com/2026/09/28/trump-administration-supreme-court-transgender-medical-care-restrictions-prison/?utm_campaign=rss",
+          "publishedDate": "Mon, 28 Sep 2026 17:55:51 +0000",
+          "source": "statnews.com",
+          "summary": "The Trump administration asked the Supreme Court on Monday to let it enforce, for now, restrictions on gender-affirming care in federal prison.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "STAT+: It really is bleak out there, and list prices matter",
+          "url": "https://www.statnews.com/2026/09/28/health-insurance-premiums-soar-2027-quorum-health-nonprofit-conversion/?utm_campaign=rss",
+          "publishedDate": "Mon, 28 Sep 2026 14:55:21 +0000",
+          "source": "statnews.com",
+          "summary": "Health insurance premiums are skyrocketing, private equity hospital chain goes nonprofit, and more from STAT's Health Care Inc.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "Diabetes study finds keeping blood sugar too steady may come at a price",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260927225019.htm",
+          "publishedDate": "Mon, 28 Sep 2026 09:53:25 EDT",
           "source": "sciencedaily.com",
-          "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal…",
+          "summary": "People with diabetes reported better quality of life after days when their glucose stayed largely within a healthy range, even when levels fluctuated more than usual. The unexpected finding suggests that pursuing extremely tight glucose…",
           "authors": ""
         },
         {
-          "title": "Atrial fibrillation patients saw 69% lower risk with common blood thinners",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260925005439.htm",
-          "publishedDate": "Sun, 27 Sep 2026 09:41:36 EDT",
+          "title": "Scientists just discovered what coffee really does to your gut and brain",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
+          "publishedDate": "Mon, 28 Sep 2026 09:37:05 EDT",
           "source": "sciencedaily.com",
-          "summary": "Direct oral anticoagulants cut the risk of serious clinical events by 69% in atrial fibrillation patients with an intermediate risk of stroke, according to the randomized SINGLE-AF trial. The benefit was driven mainly by fewer ischemic…",
+          "summary": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable…",
           "authors": ""
         },
         {
-          "title": "One CRISPR treatment cut “bad” cholesterol in half for a full year",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
-          "publishedDate": "Sun, 27 Sep 2026 09:15:21 EDT",
+          "title": "Blood tests reveal why astronauts get constipated in space",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
+          "publishedDate": "Mon, 28 Sep 2026 08:49:59 EDT",
           "source": "sciencedaily.com",
-          "summary": "A single dose of an experimental CRISPR therapy cut LDL cholesterol and triglycerides by about half in patients with difficult-to-treat lipid disorders. The reductions were still present one year later, with the highest dose lowering LDL…",
+          "summary": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have wider effects on…",
           "authors": ""
         },
         {
-          "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
-          "publishedDate": "Sun, 27 Sep 2026 06:49:13 EDT",
+          "title": "Pomegranate compound improves heart function by up to 80% in study",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260925093157.htm",
+          "publishedDate": "Mon, 28 Sep 2026 06:49:22 EDT",
           "source": "sciencedaily.com",
-          "summary": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms. Researchers say identifying these hidden drivers…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists say house cats could help unlock better cancer treatments for humans",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260924231826.htm",
-          "publishedDate": "Sat, 26 Sep 2026 22:01:42 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have mapped the genetics of cat cancer on an unprecedented scale and found surprising similarities with tumors in humans. The findings could help bring precision cancer treatments to cats while also revealing new clues about how…",
-          "authors": ""
-        },
-        {
-          "title": "A major risk of breast cancer screening may have been overestimated for decades",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260924020351.htm",
-          "publishedDate": "Sat, 26 Sep 2026 11:25:30 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new analysis suggests mammograms may lead to far less breast cancer overdiagnosis than some earlier studies indicated. Researchers reexamined all eight major randomized screening trials and accounted for differences in follow-up time,…",
+          "summary": "A compound the body can make after eating pomegranates, walnuts, and some berries improved measures of heart function by up to 80% in animal models of a difficult-to-treat form of heart failure. Urolithin A helped stiff heart tissue relax…",
           "authors": ""
         }
       ]
@@ -121,61 +146,94 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Structured Bayesian Modeling of Dynamic Receptive1 Fields in Salamander Retinal Ganglion Cells",
+          "url": "https://arxiv.org/abs/2609.30731",
+          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Neurons in the visual system are selective for specific spatial and temporal stimulus features, described by their \\emphreceptive field. Estimating one means a coefficient per pixel per time bin from few trials -- a high-dimensional…",
+          "authors": "Alokesh Manna"
+        },
+        {
+          "title": "Landscape Limits of Quantum-Inspired Evolutionary Optimization across 256 continuous functions",
+          "url": "https://arxiv.org/abs/2609.30938",
+          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Quantum-inspired evolutionary optimization (QIEO) represents design variables as a set of qubits and searches a continuous, multi-dimensional landscape through rotation of the qubit's amplitude pair. Every generation rotates those…",
+          "authors": "Rishi Govind, Ferdin Sagai Don Bosco, Kasturi Venkata Srikanth, Aman Mittal, Abhishek Singh, Aditya Singh, Abhishek Chopra"
+        },
+        {
+          "title": "Modeling quantum neural network gradient with reinforcement learning",
+          "url": "https://arxiv.org/abs/2609.31066",
+          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Training quantum neural networks (QNNs) on near-term hardware remains hampered by two compounding difficulties: the exponential vanishing of gradient variance known as the barren plateau, and the $\\mathcalO(L \\cdot 2^n)$ time and memory…",
+          "authors": "Nhan Trong Luu, Duong Trung Luu, Nam Ngoc Pham, Thang Cong Truong"
+        },
+        {
+          "title": "Purin: A Biology-inspired Mechanism for Artificial Neural Networks",
+          "url": "https://arxiv.org/abs/2609.31235",
+          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Artificial neural networks (ANNs) usually represent neural transmission with fixed trainable weights during a training batch, which omits short-term changes in synaptic efficacy. In addition, the discrete time-step simulation requires…",
+          "authors": "Zishu Liu, Chunbo Luo, Christos Grecos"
+        },
+        {
+          "title": "Common-Mode Collapse and Recovery in Direct Feedback Alignment",
+          "url": "https://arxiv.org/abs/2609.31589",
+          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Direct feedback alignment (DFA) trains hidden layers through fixed random projections of output error. With tanh hidden units and independent sigmoid outputs, plain stochastic gradient descent can stall near the loss of a constant…",
+          "authors": "Varun Reddy, Bernardo L. Sabatini, Houman Safaai"
+        },
+        {
+          "title": "Genetic Algorithms with Optimization Guided Operators",
+          "url": "https://arxiv.org/abs/2606.12279",
+          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Recent work in ML applies genetic algorithms at inference time to iteratively improve solutions to optimization problems. The basic mutation and recombination operators involved are qualitatively different from those studied classically.…",
+          "authors": "Anna Brandenberger, Ilan Doron-Arad, Elchanan Mossel"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 4,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
+          "title": "Differential Attention Unlocks Complementary EEG and Speech Fusion for Emotion Recognition",
+          "url": "https://arxiv.org/abs/2609.31399",
+          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Multimodal emotion recognition (MER) increasingly pairs EEG with speech, treating internal neural signals and external vocal expression as informative views of affect. In practice, naive fusion underperforms the stronger single modality,…",
+          "authors": "Philip H. Lee, Shreeram Suresh Chandra, John H. L. Hansen"
         },
         {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
+          "title": "Coordinate-conditioned detector-atom network for montage-agnostic EEG channel completion: zero-shot transfer and a regime map",
+          "url": "https://arxiv.org/abs/2609.30582",
+          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "EEG electrode layouts differ across devices, from consumer headsets to 128-channel nets, and learned methods for completing missing electrodes assume a fixed layout and within-dataset training, so they cannot be applied to unseen devices.…",
+          "authors": "Hiroshi Higashi"
         },
         {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
+          "title": "Automated Artifact Removal in EEG Age Prediction: A systematic comparison",
+          "url": "https://arxiv.org/abs/2609.31195",
+          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Automated EEG artifact removal may improve downstream analysis but can also alter predictive information. We benchmarked nine automated artifact removal methods against a common no-artifact-removal baseline for cross-dataset EEG age…",
+          "authors": "Davoud Hajhassani, Paul-Adrien Graignic, Bruno Aristimunha, Apolline Mellot, Tom Mariani, Clément Nober, Bruna J. Lopes, Léo Burgund, Lionel Kusch, Thomas Semah, Arnault H. Caillet"
         },
         {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "AFA-Net: A Differential Attention Approach for Auditory Attention Detection",
+          "url": "https://arxiv.org/abs/2609.31402",
+          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Auditory Attention Detection (AAD) utilizes electroencephalographic (EEG) signals to identify a target speaker in a multi-speaker environment. Despite considerable progress, existing deep learning architectures often lack explicit…",
+          "authors": "Philip H. Lee, Shreeram Suresh Chandra, Karan Thakkar, John H. L. Hansen"
         }
       ]
     }
