@@ -1,26 +1,23 @@
 {
-  "generatedAt": "2026-09-29T02:16:30.232Z",
-  "date": "2026-09-29",
-  "topic": "脳情報科学の最新研究",
-  "templateName": "three-insights",
+  "generatedAt": "2026-09-30T01:30:59.392Z",
+  "date": "2026-09-30",
+  "topic": "睡眠と学習",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Grid-cell firing fields lack local sixfold symmetry",
-  "paperLink": "https://arxiv.org/abs/2609.31145",
-  "figureUrl": "https://arxiv.org/html/2609.31145/2609.31145v1/Figure1.png",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\n脳情報科学の最新研究の最新成果を整理しました。\n\n🔬 脳情報科学\n\n> The firing fields of a grid cell form a hexagonal lattice, yet each field's intrinsic geometric structure remains unclear: Are individual grid fields radially symmetric or do they exhibit (weak) sixfold modulation inherited from the global lattice? To address this question, we...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n脳情報科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Grid-cell firing fields lack local sixfold symmetry\n🔗 https://arxiv.org/abs/2609.31145\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #BrainComputerInterface",
-  "summaryJP": "脳情報科学の最新研究 — 注目すべき3つの示唆",
-  "paperAuthors": "Anian Kerscher",
-  "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
-  "paperId": "2609.31145",
+  "paperTitle": "What your brain activity says about you: A review of neuropsychiatric disorders identified in resting-state and sleep EEG data",
+  "paperLink": "https://arxiv.org/abs/2510.04984",
+  "formatted": "この研究データ、知らないままでいいですか？\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n睡眠と学習の最新研究です。\n\n🔬 睡眠 × EEG × 学習\n\n📊 注目すべきデータ：\n→ In resting state EEG, various disorders including Autism Spectrum Disorder, Parkinson's disease, and alcohol use disorder have been classified with high classification accuracy,...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 What your brain activity says about you: A review of neuropsychiatric disorders identified in resting-state and sleep EEG data\n🔗 https://arxiv.org/abs/2510.04984\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #BCI",
+  "summaryJP": "睡眠と学習 — 次世代へ続く布石（神経デコーディング）",
+  "paperAuthors": "J. E. M. Scanlon, A. Pelzer, M. Gharleghi, K. C. Fuhrmeister, T. Köllmer, P. Aichroth, R. Göder, C. Hansen, K. I. Wolf",
+  "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
+  "paperId": "2510.04984",
   "paperSource": "arxiv",
-  "themeArea": "脳情報科学",
+  "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "脳情報科学"
+    "睡眠",
+    "EEG",
+    "学習"
   ],
-  "abstractExcerpt": "The firing fields of a grid cell form a hexagonal lattice, yet each field's intrinsic geometric structure remains unclear: Are individual grid fields radially symmetric or do they exhibit (weak) sixfold modulation inherited from the global…",
-  "figureUrls": [
-    "https://arxiv.org/html/2609.31145/2609.31145v1/Figure1.png",
-    "https://arxiv.org/html/2609.31145/2609.31145v1/Figure2.png",
-    "https://arxiv.org/html/2609.31145/2609.31145v1/FigureS1.png"
-  ]
+  "abstractExcerpt": "Electroencephalogram monitoring devices and online data repositories hold large amounts of data from individuals participating in research and medical studies without direct reference to personal identifiers. This paper explores what types…",
+  "figureUrls": []
 }

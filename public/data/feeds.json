@@ -1,35 +1,59 @@
 {
-  "generatedAt": "2026-09-29T02:16:30.818Z",
+  "generatedAt": "2026-09-30T01:31:00.080Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 3,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Grid-cell firing fields lack local sixfold symmetry",
-          "url": "https://arxiv.org/abs/2609.31145",
-          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "title": "From Signals to Trajectories: A Primer on Low-Dimensional Dynamics in Human EEG and MEG",
+          "url": "https://arxiv.org/abs/2609.32315",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The firing fields of a grid cell form a hexagonal lattice, yet each field's intrinsic geometric structure remains unclear: Are individual grid fields radially symmetric or do they exhibit (weak) sixfold modulation inherited from the global…",
-          "authors": "Anian Kerscher"
+          "summary": "Neural activity unfolds not as a set of independent signals, but as a coordinated dynamical process that can be described as a point moving through a high-dimensional state space. This perspective has contributed substantially to recent…",
+          "authors": "Vanessa Hadid, Hamza Abdelhedi, Annalisa Pascarella, Sara A. Solla, Paul Cisek, Karim Jerbi"
         },
         {
-          "title": "Learning a non-linguistic code for inferred rules from reward",
-          "url": "https://arxiv.org/abs/2609.31192",
-          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "title": "Space versus Context: Competition for limited neural resources determines engram cell allocation in the hippocampus",
+          "url": "https://arxiv.org/abs/2609.32620",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "How can a rule inferred from examples reach someone who never saw them, without a shared code? Patients with severe aphasia do it by gesture or sketch. One network sees worked examples and emits eight invented symbols; a second, blind to…",
-          "authors": "Cristiano Capone"
+          "summary": "Engram cells in hippocampal CA1 represent contextual information associated with events experienced by animals and constitute a cellular substrate of episodic memory. Recent experiments have shown that a subset of hippocampal place cells…",
+          "authors": "Kensuke Chiba, Jun-nosuke Teramae"
         },
         {
-          "title": "FlatClip: A Geometry-Aware Surface-Level Baseline for fMRI Representation Learning",
-          "url": "https://arxiv.org/abs/2609.31204",
-          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "title": "Pre-registered spectral and certified mixing analysis of the male Drosophila central nervous system connectome",
+          "url": "https://arxiv.org/abs/2609.33054",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent fMRI foundation models differ substantially in the spatial scale at which they represent brain activity. ROI- and connectivity-based models are efficient but coarse, whereas voxel-level models preserve fine-grained spatial structure…",
-          "authors": "Mo Wang, Wenhao Ye, Zihan Ning, Jiayu Zuo, Junfeng Xia, Hongkai Wen, Quanying Liu"
+          "summary": "We report a pre-registered test of five hypotheses about the synapse-flow random walk on the connectome of the male Drosophila central nervous system (166,700 neurons, 124 million synapses), in which a walker moves to a postsynaptic…",
+          "authors": "Eran Kopel"
+        },
+        {
+          "title": "Towards a full-stack functionalist theory of consciousness: Identifying its functional profile",
+          "url": "https://arxiv.org/abs/2609.33366",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "If consciousness is functional, a basic question is what awareness of a content actually changes in how a system operates on it. We ask, for a particular content X and mental or bodily process Y, whether awareness of X changes whether, or…",
+          "authors": "Sushrut Thorat, Paras Chopra"
+        },
+        {
+          "title": "Explainable Deep Learning of Resting-State Functional Connectomes Reveals Network Biomarkers of Adolescent Intelligence",
+          "url": "https://arxiv.org/abs/2609.33422",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Mapping resting-state brain organization to individual differences in cognitive ability remains a major challenge in population neuroinformatics. Although deep learning enables flexible modeling of brain connectivity, limited…",
+          "authors": "Md. Tanvir Rahman, Nabil Anan Orka, Asaduzzaman Khan, Mohammad Ali Moni"
+        },
+        {
+          "title": "Automatic Generation of Expert-Level Neuron Segmentation Masks from Fluorescence Microscopy Images for Non-Invasive Deep Learning Analysis of Phase-Contrast Images",
+          "url": "https://arxiv.org/abs/2609.34464",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Background & Objective Accurate segmentation of neurons in microscopy images of neuronal cultures is crucial for research on neurodegenerative diseases and neurotoxicity. Manual annotation of such images is time-consuming, subjective, and…",
+          "authors": "Gerard Villarroya-Piqué, Víctor M. González, Esther Serrano-Pertierra, M. Teresa Fernandez-Sanchez, Antonello Novelli, Angel Rio-Alvarez"
         }
       ]
     },
@@ -38,6 +62,30 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Overton won’t get a vote before midterms",
+          "url": "https://www.statnews.com/2026/09/29/heidi-overton-fda-commissioner-vote-midterms-health-care-policy/?utm_campaign=rss",
+          "publishedDate": "Tue, 29 Sep 2026 16:14:43 +0000",
+          "source": "statnews.com",
+          "summary": "Health department nominees await Senate votes, and we map out what the elections mean for healthy policy.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Researchers slow neurodegeneration in mice by barring T cells from the brain",
+          "url": "https://www.statnews.com/2026/09/29/health-news-researchers-slow-neurodegeneration-in-mice-t-cells/?utm_campaign=rss",
+          "publishedDate": "Tue, 29 Sep 2026 12:02:41 +0000",
+          "source": "statnews.com",
+          "summary": "A new study in mice led by Washington University in St. Louis researchers suggests that stopping certain immune cells from entering the brain could limit neurodegeneration.",
+          "authors": "Amanda Erickson and Jonathan Wosen"
+        },
+        {
+          "title": "She&#8217;s spent two decades talking to parents who don&#8217;t vaccinate their children. Here&#8217;s what she&#8217;s learned",
+          "url": "https://www.statnews.com/2026/09/29/understanding-vaccine-skepticism-in-parents/?utm_campaign=rss",
+          "publishedDate": "Tue, 29 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Jennifer Reich has spent two decades speaking to families about their immunization decisions. In an interview, she unpacks what she's learned.",
+          "authors": "Nicholas Florko"
+        },
         {
           "title": "Risk from toxic metals can persist months after wildfires, Maui study finds",
           "url": "https://www.statnews.com/2026/09/28/hawaii-wildfire-air-quality-risk-study/?utm_campaign=rss",
@@ -61,30 +109,6 @@
           "source": "statnews.com",
           "summary": "Late Friday night, the Trump administration clawed back nearly $1 billion in spending approved by Congress, targeting several HHS programs focused on immigrants and diversity",
           "authors": "Amanda Erickson and Brittany Trang"
-        },
-        {
-          "title": "Federal judge rolls back landmark disability protections",
-          "url": "https://www.statnews.com/2026/09/25/health-news-federal-judge-rolls-back-landmark-disability-protections/?utm_campaign=rss",
-          "publishedDate": "Fri, 25 Sep 2026 12:53:55 +0000",
-          "source": "statnews.com",
-          "summary": "The Justice Department said in June that it would no longer enforce laws that prioritized people with disabilities living and receiving services in their communities, rather than in nursing homes&#8230;",
-          "authors": "Chelsea Cirruzzo, Anil Oza, Elizabeth Cooney,and O. Rose Broderick"
-        },
-        {
-          "title": "How Big Tobacco flooded the FDA with public comments to kill a menthol cigarette ban",
-          "url": "https://www.statnews.com/2026/09/25/fake-grassroots-campaign-jama-study-rutgers-researchers-fda-menthol-ban/?utm_campaign=rss",
-          "publishedDate": "Fri, 25 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Virtually all of the 175,000 public comments on a 2022 FDA proposal to ban menthol cigarettes were form letters, most echoing tobacco industry talking points.",
-          "authors": "Jason McLure — The Examination"
-        },
-        {
-          "title": "STAT+: The head of Kennedy&#8217;s new autism project has roots in Iraq War, Sesame Street",
-          "url": "https://www.statnews.com/2026/09/25/russell-shilling-leads-arpa-h-spectra-initiative-autism-care/?utm_campaign=rss",
-          "publishedDate": "Fri, 25 Sep 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Advanced Research Projects Agency for Health is planning a total-lifespan research project on autism: A Q&#038;A with its leader, Russell Shilling.",
-          "authors": "O. Rose Broderick"
         }
       ]
     },
@@ -94,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Trump administration asks Supreme Court to allow transgender medical care restrictions in prison",
-          "url": "https://www.statnews.com/2026/09/28/trump-administration-supreme-court-transgender-medical-care-restrictions-prison/?utm_campaign=rss",
-          "publishedDate": "Mon, 28 Sep 2026 17:55:51 +0000",
+          "title": "STAT+: At MAHA Summit, a grassroots movement goes corporate",
+          "url": "https://www.statnews.com/2026/09/29/maha-summit-washington-dc-2026-corporate-interests-swamp-grassroots/?utm_campaign=rss",
+          "publishedDate": "Tue, 29 Sep 2026 22:46:45 +0000",
           "source": "statnews.com",
-          "summary": "The Trump administration asked the Supreme Court on Monday to let it enforce, for now, restrictions on gender-affirming care in federal prison.",
-          "authors": "Associated Press"
+          "summary": "Federal officials and health care executives rubbed elbows at the ritzy MAHA Summit, causing some supporters to question what MAHA has become.",
+          "authors": "Isabella Cueto and Daniel Payne"
         },
         {
-          "title": "STAT+: It really is bleak out there, and list prices matter",
-          "url": "https://www.statnews.com/2026/09/28/health-insurance-premiums-soar-2027-quorum-health-nonprofit-conversion/?utm_campaign=rss",
-          "publishedDate": "Mon, 28 Sep 2026 14:55:21 +0000",
+          "title": "STAT+: PhRMA taps Eric Cantor as new CEO",
+          "url": "https://www.statnews.com/2026/09/29/eric-cantor-named-phrma-ceo/?utm_campaign=rss",
+          "publishedDate": "Tue, 29 Sep 2026 17:56:29 +0000",
           "source": "statnews.com",
-          "summary": "Health insurance premiums are skyrocketing, private equity hospital chain goes nonprofit, and more from STAT's Health Care Inc.",
-          "authors": "Bob Herman"
+          "summary": "Eric Cantor, a former GOP House majority leader, is taking the helm of PhRMA at a challenging time for the industry.",
+          "authors": "John Wilkerson"
         },
         {
-          "title": "Diabetes study finds keeping blood sugar too steady may come at a price",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260927225019.htm",
-          "publishedDate": "Mon, 28 Sep 2026 09:53:25 EDT",
-          "source": "sciencedaily.com",
-          "summary": "People with diabetes reported better quality of life after days when their glucose stayed largely within a healthy range, even when levels fluctuated more than usual. The unexpected finding suggests that pursuing extremely tight glucose…",
-          "authors": ""
+          "title": "STAT+: Overton won’t get a vote before midterms",
+          "url": "https://www.statnews.com/2026/09/29/heidi-overton-fda-commissioner-vote-midterms-health-care-policy/?utm_campaign=rss",
+          "publishedDate": "Tue, 29 Sep 2026 16:14:43 +0000",
+          "source": "statnews.com",
+          "summary": "Health department nominees await Senate votes, and we map out what the elections mean for healthy policy.",
+          "authors": "John Wilkerson"
         },
         {
-          "title": "Scientists just discovered what coffee really does to your gut and brain",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
-          "publishedDate": "Mon, 28 Sep 2026 09:37:05 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable…",
-          "authors": ""
+          "title": "STAT+: Drug pricing, Medicaid, and research funding: The key policy issues at stake in the midterms",
+          "url": "https://www.statnews.com/2026/09/29/healthcare-industry-midterm-elections-analysis/?utm_campaign=rss",
+          "publishedDate": "Tue, 29 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Big shifts in health care policy could emerge depending on who wins the midterms, affecting hospitals and pharma companies.",
+          "authors": "Daniel Payne"
         },
         {
-          "title": "Blood tests reveal why astronauts get constipated in space",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
-          "publishedDate": "Mon, 28 Sep 2026 08:49:59 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have wider effects on…",
-          "authors": ""
+          "title": "Why MAHA wants to make health data much more accessible",
+          "url": "https://www.statnews.com/2026/09/29/why-maha-wants-to-make-health-data-much-more-accessible/?utm_campaign=rss",
+          "publishedDate": "Tue, 29 Sep 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "At a MAHA Institute event, Kennedy and others argued that health data should be more accessible to researchers can study vaccines, chronic diseases, and autism",
+          "authors": "Brittany Trang"
         },
         {
-          "title": "Pomegranate compound improves heart function by up to 80% in study",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260925093157.htm",
-          "publishedDate": "Mon, 28 Sep 2026 06:49:22 EDT",
+          "title": "Hidden stem cells may be fueling spinal stenosis",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260927225017.htm",
+          "publishedDate": "Mon, 28 Sep 2026 22:36:52 EDT",
           "source": "sciencedaily.com",
-          "summary": "A compound the body can make after eating pomegranates, walnuts, and some berries improved measures of heart function by up to 80% in animal models of a difficult-to-treat form of heart failure. Urolithin A helped stiff heart tissue relax…",
+          "summary": "Scientists have discovered a stem cell that appears to serve as a master source for tendon and ligament cells throughout the body. In lumbar spinal stenosis, these cells become unusually active and may drive the ligament overgrowth that…",
           "authors": ""
         }
       ]
@@ -149,91 +173,83 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Structured Bayesian Modeling of Dynamic Receptive1 Fields in Salamander Retinal Ganglion Cells",
-          "url": "https://arxiv.org/abs/2609.30731",
-          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "title": "From Hand-Crafted to LLM-Based Variation Operators in Metaheuristics: A Tutorial",
+          "url": "https://arxiv.org/abs/2609.31649",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neurons in the visual system are selective for specific spatial and temporal stimulus features, described by their \\emphreceptive field. Estimating one means a coefficient per pixel per time bin from few trials -- a high-dimensional…",
-          "authors": "Alokesh Manna"
+          "summary": "Large language models (LLMs) are increasingly being employed as variation operators in metaheuristics, generating or modifying candidate solutions, heuristics, or programs inside iterative search loops. This shift reframes variation as a…",
+          "authors": "Camilo Chacón Sartori, Guillem Rodríguez-Corominas, Christian Blum"
         },
         {
-          "title": "Landscape Limits of Quantum-Inspired Evolutionary Optimization across 256 continuous functions",
-          "url": "https://arxiv.org/abs/2609.30938",
-          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "title": "SNIP++: Fine-Grained Symbolic-Numerical Alignment for Symbolic Regression",
+          "url": "https://arxiv.org/abs/2609.31965",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Quantum-inspired evolutionary optimization (QIEO) represents design variables as a set of qubits and searches a continuous, multi-dimensional landscape through rotation of the qubit's amplitude pair. Every generation rotates those…",
-          "authors": "Rishi Govind, Ferdin Sagai Don Bosco, Kasturi Venkata Srikanth, Aman Mittal, Abhishek Singh, Aditya Singh, Abhishek Chopra"
+          "summary": "Mathematical expressions and the numerical behavior they produce are two views of the same underlying function, and connecting them is central to scientific discovery. Symbolic Regression (SR) relies on this connection directly: it…",
+          "authors": "Benjamin Léger, Shubham Gupta, Samy Mammeri, Kazem Meidani, Cem Subakan, Christian Gagné"
         },
         {
-          "title": "Modeling quantum neural network gradient with reinforcement learning",
-          "url": "https://arxiv.org/abs/2609.31066",
-          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "title": "All On-Board: Fully On-Chip Neuromorphic Q-Learning with Embedded CartPole Simulation",
+          "url": "https://arxiv.org/abs/2609.32317",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Training quantum neural networks (QNNs) on near-term hardware remains hampered by two compounding difficulties: the exponential vanishing of gradient variance known as the barren plateau, and the $\\mathcalO(L \\cdot 2^n)$ time and memory…",
-          "authors": "Nhan Trong Luu, Duong Trung Luu, Nam Ngoc Pham, Thang Cong Truong"
+          "summary": "As AI models grow in size and usage, their energy demands increase dramatically, raising sustainability and economic concerns. Neuromorphic hardware, inspired by the energy efficiency of the brain, seeks to address this challenge by…",
+          "authors": "Steven C. Nesbit, Giovanni T. Michel, Gerd J. Kunde, Edward Kim, Andrew T. Sornborger"
         },
         {
-          "title": "Purin: A Biology-inspired Mechanism for Artificial Neural Networks",
-          "url": "https://arxiv.org/abs/2609.31235",
-          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "title": "ADPTNet: Adaptive with Prescriptive Timescales Non-Linear SSM for Sequence Modelling",
+          "url": "https://arxiv.org/abs/2609.34034",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Artificial neural networks (ANNs) usually represent neural transmission with fixed trainable weights during a training batch, which omits short-term changes in synaptic efficacy. In addition, the discrete time-step simulation requires…",
-          "authors": "Zishu Liu, Chunbo Luo, Christos Grecos"
+          "summary": "A central aim of neuromorphic computing is to provide a viable alternative to highly energy-intensive Transformer-based AI. However, efficient alternatives struggle to capture the set of qualities that have secured the Transformer's status…",
+          "authors": "Matei-Ioan Stan, Oliver Rhodes"
         },
         {
-          "title": "Common-Mode Collapse and Recovery in Direct Feedback Alignment",
-          "url": "https://arxiv.org/abs/2609.31589",
-          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "title": "CMDO: A Cognitive Memory-Driven Optimization Algorithm for Adaptive Population-Based Search",
+          "url": "https://arxiv.org/abs/2609.35657",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Direct feedback alignment (DFA) trains hidden layers through fixed random projections of output error. With tanh hidden units and independent sigmoid outputs, plain stochastic gradient descent can stall near the loss of a constant…",
-          "authors": "Varun Reddy, Bernardo L. Sabatini, Houman Safaai"
+          "summary": "Population-based optimization methods often use previous search information through successful solutions, parameter adaptation, or operator performance, but they rarely retain the context in which a search behavior succeeded or failed. We…",
+          "authors": "Mohammed Yusuf Mujawar, Shahram Rahimi, Noorbakhsh Amiri Golilarz"
         },
         {
-          "title": "Genetic Algorithms with Optimization Guided Operators",
-          "url": "https://arxiv.org/abs/2606.12279",
-          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "title": "Replay in the Silent Degrees of Freedom: Continual Learning Without an Offline Phase",
+          "url": "https://arxiv.org/abs/2609.31630",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent work in ML applies genetic algorithms at inference time to iteratively improve solutions to optimization problems. The basic mutation and recombination operators involved are qualitatively different from those studied classically.…",
-          "authors": "Anna Brandenberger, Ilan Doron-Arad, Elchanan Mossel"
+          "summary": "Replay-based continual learning almost always consolidates in a dedicated offline phase or by interleaving replayed samples with the input stream, whereas brains also consolidate during wakefulness through local sleep, brief use-dependent…",
+          "authors": "Zhang Yanhai"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 4,
+      "itemCount": 3,
       "items": [
         {
-          "title": "Differential Attention Unlocks Complementary EEG and Speech Fusion for Emotion Recognition",
-          "url": "https://arxiv.org/abs/2609.31399",
-          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "title": "EEG-Based Motor Imagery BCI Algorithms and Technologies: A Review",
+          "url": "https://arxiv.org/abs/2609.32930",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Multimodal emotion recognition (MER) increasingly pairs EEG with speech, treating internal neural signals and external vocal expression as informative views of affect. In practice, naive fusion underperforms the stronger single modality,…",
-          "authors": "Philip H. Lee, Shreeram Suresh Chandra, John H. L. Hansen"
+          "summary": "Brain-computer interfaces (BCIs) have emerged as transformative technologies that enable direct communication between the brain and external devices. Among various BCI paradigms, EEG-based motor imagery (MI) has gained prominence due to…",
+          "authors": "Mohammad Hossein Koohi Ghamsari, Seyede Fatemeh Ghamkhari, Siavash Bayat, Ahmed Hemani"
         },
         {
-          "title": "Coordinate-conditioned detector-atom network for montage-agnostic EEG channel completion: zero-shot transfer and a regime map",
-          "url": "https://arxiv.org/abs/2609.30582",
-          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "title": "Curv-Tail: Lightweight Long-Tailed Encrypted Traffic Classification with Discrete Packet-Length Encoding and Lorentz Prototypes",
+          "url": "https://arxiv.org/abs/2609.32242",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "EEG electrode layouts differ across devices, from consumer headsets to 128-channel nets, and learned methods for completing missing electrodes assume a fixed layout and within-dataset training, so they cannot be applied to unseen devices.…",
-          "authors": "Hiroshi Higashi"
+          "summary": "Long-tailed encrypted traffic classification requires accurate recognition of infrequent classes under limited computational budgets. We propose Curv-Tail, a lightweight, end-to-end packet--byte framework trained without a separate…",
+          "authors": "Yankun Wang, Jun-Jie Huang, Lin Liu, Xiaodong Lei, Yi Chen, Yeqing Yan, Lin Liu, Jiangyong Shi, Yongjun Wang"
         },
         {
-          "title": "Automated Artifact Removal in EEG Age Prediction: A systematic comparison",
-          "url": "https://arxiv.org/abs/2609.31195",
-          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
+          "title": "Unified Target-Speaker ASR with Text and Enrollment Speech Cues",
+          "url": "https://arxiv.org/abs/2609.33853",
+          "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Automated EEG artifact removal may improve downstream analysis but can also alter predictive information. We benchmarked nine automated artifact removal methods against a common no-artifact-removal baseline for cross-dataset EEG age…",
-          "authors": "Davoud Hajhassani, Paul-Adrien Graignic, Bruno Aristimunha, Apolline Mellot, Tom Mariani, Clément Nober, Bruna J. Lopes, Léo Burgund, Lionel Kusch, Thomas Semah, Arnault H. Caillet"
-        },
-        {
-          "title": "AFA-Net: A Differential Attention Approach for Auditory Attention Detection",
-          "url": "https://arxiv.org/abs/2609.31402",
-          "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Auditory Attention Detection (AAD) utilizes electroencephalographic (EEG) signals to identify a target speaker in a multi-speaker environment. Despite considerable progress, existing deep learning architectures often lack explicit…",
-          "authors": "Philip H. Lee, Shreeram Suresh Chandra, Karan Thakkar, John H. L. Hansen"
+          "summary": "Target-speaker automatic speech recognition (TS-ASR) aims to recognize a designated speaker while suppressing interfering speech in multi-talker environments. Conventional TS-ASR typically relies on an enrollment utterance, whereas…",
+          "authors": "Yuxiang Mei, Yuchen Yan, Dongxing Xu, Jiaen Liang, Yanhua Long"
         }
       ]
     }
