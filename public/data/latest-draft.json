@@ -1,23 +1,28 @@
 {
-  "generatedAt": "2026-09-30T01:30:59.392Z",
-  "date": "2026-09-30",
-  "topic": "睡眠と学習",
-  "templateName": "future-vision",
+  "generatedAt": "2026-10-01T01:31:29.652Z",
+  "date": "2026-10-01",
+  "topic": "脳型",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "What your brain activity says about you: A review of neuropsychiatric disorders identified in resting-state and sleep EEG data",
-  "paperLink": "https://arxiv.org/abs/2510.04984",
-  "formatted": "この研究データ、知らないままでいいですか？\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n睡眠と学習の最新研究です。\n\n🔬 睡眠 × EEG × 学習\n\n📊 注目すべきデータ：\n→ In resting state EEG, various disorders including Autism Spectrum Disorder, Parkinson's disease, and alcohol use disorder have been classified with high classification accuracy,...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 What your brain activity says about you: A review of neuropsychiatric disorders identified in resting-state and sleep EEG data\n🔗 https://arxiv.org/abs/2510.04984\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #BCI",
-  "summaryJP": "睡眠と学習 — 次世代へ続く布石（神経デコーディング）",
-  "paperAuthors": "J. E. M. Scanlon, A. Pelzer, M. Gharleghi, K. C. Fuhrmeister, T. Köllmer, P. Aichroth, R. Göder, C. Hansen, K. I. Wolf",
-  "publishedDate": "Tue, 29 Sep 2026 00:00:00 -0400",
-  "paperId": "2510.04984",
+  "paperTitle": "Neural Structural Reasoner: A Brain-inspired Architecture for Reasoning over Structured Knowledge",
+  "paperLink": "https://arxiv.org/abs/2609.36620",
+  "figureUrl": "https://arxiv.org/html/2609.36620/2609.36620v1/Figures/NSR_architecture_fullv2.png",
+  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n脳科学とAI——その境界線が消えつつある。\n\n脳型に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 脳型 × ECoG(皮質脳波) × PET\n\n> Structural reasoning, the ability to recognize and make inferences over the relational structure between objects and concepts, is a hallmark of human cognition, yet prevailing methods often collapse relational topology into flat embeddings, cannot discover hidden structure and...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Neural Structural Reasoner: A Brain-inspired Architecture for Reasoning over Structured Knowledge\n🔗 https://arxiv.org/abs/2609.36620\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #NeuralDecoding",
+  "summaryJP": "脳型 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+  "paperAuthors": "Zixing Jia, Yuhang Pan, Ni Ji",
+  "publishedDate": "Wed, 30 Sep 2026 00:00:00 -0400",
+  "paperId": "2609.36620",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "睡眠",
-    "EEG",
-    "学習"
+    "脳型",
+    "ECoG(皮質脳波)",
+    "PET"
   ],
-  "abstractExcerpt": "Electroencephalogram monitoring devices and online data repositories hold large amounts of data from individuals participating in research and medical studies without direct reference to personal identifiers. This paper explores what types…",
-  "figureUrls": []
+  "abstractExcerpt": "Structural reasoning, the ability to recognize and make inferences over the relational structure between objects and concepts, is a hallmark of human cognition, yet prevailing methods often collapse relational topology into flat…",
+  "figureUrls": [
+    "https://arxiv.org/html/2609.36620/2609.36620v1/Figures/NSR_architecture_fullv2.png",
+    "https://arxiv.org/html/2609.36620/2609.36620v1/Figures/traceable_path_inverse_final_edit.png",
+    "https://arxiv.org/html/2609.36620/2609.36620v1/Figures/Learned_Relations.png"
+  ]
 }

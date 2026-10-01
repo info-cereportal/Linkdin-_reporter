@@ -1,5 +1,33 @@
 [
   {
+    "generatedAt": "2026-10-01T01:31:29.652Z",
+    "date": "2026-10-01",
+    "topic": "脳型",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Neural Structural Reasoner: A Brain-inspired Architecture for Reasoning over Structured Knowledge",
+    "paperLink": "https://arxiv.org/abs/2609.36620",
+    "figureUrl": "https://arxiv.org/html/2609.36620/2609.36620v1/Figures/NSR_architecture_fullv2.png",
+    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n脳科学とAI——その境界線が消えつつある。\n\n脳型に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 脳型 × ECoG(皮質脳波) × PET\n\n> Structural reasoning, the ability to recognize and make inferences over the relational structure between objects and concepts, is a hallmark of human cognition, yet prevailing methods often collapse relational topology into flat embeddings, cannot discover hidden structure and...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Neural Structural Reasoner: A Brain-inspired Architecture for Reasoning over Structured Knowledge\n🔗 https://arxiv.org/abs/2609.36620\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuroAI #NeuralDecoding",
+    "summaryJP": "脳型 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+    "paperAuthors": "Zixing Jia, Yuhang Pan, Ni Ji",
+    "publishedDate": "Wed, 30 Sep 2026 00:00:00 -0400",
+    "paperId": "2609.36620",
+    "paperSource": "arxiv",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "脳型",
+      "ECoG(皮質脳波)",
+      "PET"
+    ],
+    "abstractExcerpt": "Structural reasoning, the ability to recognize and make inferences over the relational structure between objects and concepts, is a hallmark of human cognition, yet prevailing methods often collapse relational topology into flat…",
+    "figureUrls": [
+      "https://arxiv.org/html/2609.36620/2609.36620v1/Figures/NSR_architecture_fullv2.png",
+      "https://arxiv.org/html/2609.36620/2609.36620v1/Figures/traceable_path_inverse_final_edit.png",
+      "https://arxiv.org/html/2609.36620/2609.36620v1/Figures/Learned_Relations.png"
+    ]
+  },
+  {
     "generatedAt": "2026-09-30T01:30:59.392Z",
     "date": "2026-09-30",
     "topic": "睡眠と学習",
@@ -1234,33 +1262,6 @@
       "https://arxiv.org/html/2109.13445/2109.13445v3/x1.png",
       "https://arxiv.org/html/2109.13445/2109.13445v3/Figures/Datasets/ThreeCategoriesV2.png",
       "https://arxiv.org/html/2109.13445/2109.13445v3/x3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-08-11T23:21:20.039Z",
-    "date": "2026-08-11",
-    "topic": "神経デコーディングと深層学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "SPD Learn: A Geometric Deep Learning Python Library for Neural Decoding Through Trivialization",
-    "paperLink": "https://arxiv.org/abs/2602.22895",
-    "figureUrl": "https://arxiv.org/html/2602.22895/2602.22895v2/figures/litmap_spd_learn.png",
-    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n数字が語る、神経デコーディングと深層学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 神経デコーディング × 深層学習 × 学習 × 脳画像研究\n\n> Implementations of symmetric positive definite (SPD) matrix-based neural networks for neural decoding remain fragmented across research codebases and Python packages. Existing implementations often employ ad hoc handling of manifold constraints and non-unified training setups,...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 SPD Learn: A Geometric Deep Learning Python Library for Neural Decoding Through Trivialization\n🔗 https://arxiv.org/abs/2602.22895\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #ニューロテック",
-    "summaryJP": "神経デコーディングと深層学習 — 数値で示された新事実（ニューロAI・計算論）",
-    "paperAuthors": "Bruno Aristimunha, Ce Ju, Antoine Collas, Florent Bouchard, Ammar Mian, Bertrand Thirion, Sylvain Chevallier, Reinmar Kobler",
-    "publishedDate": "Tue, 11 Aug 2026 00:00:00 -0400",
-    "paperId": "2602.22895",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "神経デコーディング",
-      "深層学習",
-      "学習",
-      "脳画像研究"
-    ],
-    "abstractExcerpt": "Implementations of symmetric positive definite (SPD) matrix-based neural networks for neural decoding remain fragmented across research codebases and Python packages. Existing implementations often employ ad hoc handling of manifold…",
-    "figureUrls": [
-      "https://arxiv.org/html/2602.22895/2602.22895v2/figures/litmap_spd_learn.png"
     ]
   }
 ]
