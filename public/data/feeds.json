@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T01:48:08.667Z",
+  "generatedAt": "2026-10-03T01:24:09.009Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Does Global Neuronal Workspace Theory Explain Phenomenal Consciousness? The Motivated Emotional Mind Challenge",
-          "url": "https://arxiv.org/abs/2609.38495",
-          "publishedDate": "Thu, 01 Oct 2026 00:00:00 -0400",
+          "title": "Field closure, ice neurons, and when a dendrite is a motif",
+          "url": "https://arxiv.org/abs/2610.00184",
+          "publishedDate": "Fri, 02 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Global Neuronal Workspace Theory (GNWT) is one of the most extensively developed empirical research programmes on access consciousness. By contrast, the Motivated Emotional Mind (MEM) model proposes an embodied, semi-hierarchical…",
-          "authors": "Wiesław L. Galus, Janusz A. Starzyk"
+          "summary": "Dendritic silhouettes are cheap. Pond ice neurons, diffusion-limited aggregates, wiring-minimizing arbors, and biological neurons can share a branching statistic because they share a growth instability, not because they are functionally…",
+          "authors": "Nima Dehghani"
         },
         {
-          "title": "Association profile conditioning in a set-temporal transformer for cross-session intracortical motor decoding",
-          "url": "https://arxiv.org/abs/2609.39080",
-          "publishedDate": "Thu, 01 Oct 2026 00:00:00 -0400",
+          "title": "Stochastic dynamics and synchronization in motif-based neuronal networks",
+          "url": "https://arxiv.org/abs/2610.00597",
+          "publishedDate": "Fri, 02 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Intracortical motor decoders degrade across sessions because the set of recorded units changes and persisting units can alter how their firing relates to behavior. Most existing methods update network weights on each new session or rely on…",
-          "authors": "Xinyuan Zhang, Handong Mo, Pengfei Wen, Shuang Liang, Jichang Yang, Yan Zeng, Zhongrui Wang, Han Wang"
+          "summary": "Neuronal networks exhibit complex dynamics shaped by connectivity and stochastic input. Empirical studies show that neuronal networks contain recurring subgraphs, or motifs, but the collective influence of different motif types after…",
+          "authors": "Gurpreet Jagdev, Yifei Lu, Richard Bertram, Na Yu"
         },
         {
-          "title": "Belief-Based Maximum Occupancy Principle and Active Inference",
-          "url": "https://arxiv.org/abs/2609.39342",
-          "publishedDate": "Thu, 01 Oct 2026 00:00:00 -0400",
+          "title": "Stochastic Dynamics of Large-Scale Motif-Embedded Spiking Neuronal Networks",
+          "url": "https://arxiv.org/abs/2610.00616",
+          "publishedDate": "Fri, 02 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Intrinsic motivation plays a central role in adaptive and goal-directed behavior by conferring agents reward-independent objectives and biases useful to act in noisy and uncertain environments. Active Inference addresses the problem of…",
-          "authors": "Manolis Mylonas, Rubén Moreno Bote"
+          "summary": "We examine how local motif structure and global network topology jointly shape spiking dynamics in stochastic neuronal networks. Using networks of Izhikevich neurons with Erd\\Hos-Rényi (ER) and scale-free (SF) background connectivity, we…",
+          "authors": "Gurpreet Jagdev, Richard Bertram, Na Yu"
         },
         {
-          "title": "Attraction to hierarchical feature memory explains orientation bias",
-          "url": "https://arxiv.org/abs/2609.40204",
-          "publishedDate": "Thu, 01 Oct 2026 00:00:00 -0400",
+          "title": "Synaptic placement reflects shared input in Drosophila descending neurons",
+          "url": "https://arxiv.org/abs/2610.00690",
+          "publishedDate": "Fri, 02 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "When recalling the orientation of recent stimuli, observers are systematically biased away from the cardinal axes. The prevailing explanation is that this ''anti-cardinal bias'' arises because cardinal orientations are encoded with greater…",
-          "authors": "Kira Michaela Düsterwald, Peter Vincent, Ana Kapros, Athena Akrami, Maneesh Sahani"
+          "summary": "Network topology describes connections between neurons, whereas synaptic placement specifies how those connections are arranged within individual cells. How these levels of organization correspond remains incompletely understood. Here we…",
+          "authors": "Xizhe Zhang"
         },
         {
-          "title": "Embodiment-aware control by inference over the operator: a simulation study",
-          "url": "https://arxiv.org/abs/2609.38437",
-          "publishedDate": "Thu, 01 Oct 2026 00:00:00 -0400",
+          "title": "MEG-Mamba: A Scalable State-Space Foundation Model for Magnetoencephalography",
+          "url": "https://arxiv.org/abs/2610.00746",
+          "publishedDate": "Fri, 02 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Teleoperation systems are tuned for channel fidelity, while whether the operator experiences the device as part of the body, the Sense of Embodiment (SoE), is measured only afterwards, by questionnaire. Predictive-processing accounts…",
-          "authors": "Sara Falcone"
+          "summary": "Magnetoencephalography (MEG) is an imaging technique that offers a non-invasive, millisecond-resolution view of human brain activity. The increasing availability of MEG data presents an opportunity to take advantage of a recent advance in…",
+          "authors": "Chetan Gohil, SungJun Cho, Oiwi Parker Jones, Mark Woolrich"
         },
         {
-          "title": "TERRA: Terrain-Aware Reconstruction, Retargeting and Control for Musculoskeletal Locomotion",
-          "url": "https://arxiv.org/abs/2609.38653",
-          "publishedDate": "Thu, 01 Oct 2026 00:00:00 -0400",
+          "title": "One Inference, Four Failure Modes: Formal Models of Why Pain Location Fails",
+          "url": "https://arxiv.org/abs/2610.00866",
+          "publishedDate": "Fri, 02 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent advances in musculoskeletal modeling and reinforcement learning have enabled muscle-actuated agents to reproduce increasingly complex human motions. Yet these capabilities remain largely confined to flat ground, in part because…",
-          "authors": "Merkourios Simos, Chengkun Li, Bianca Ziliotto, Alexander Mathis"
+          "summary": "Patient-reported pain location is diagnostically decisive for some presentations and nearly uninformative for others. A companion paper argues this is not one gradient of diagnostic utility but three distinct failures of localization. This…",
+          "authors": "Adam Y. Shavit"
         }
       ]
     },
@@ -62,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "NIH rolling out streamlined website to help public find information more easily",
+          "url": "https://www.statnews.com/2026/10/02/nih-launching-streamlined-website-to-help-public-find-information/?utm_campaign=rss",
+          "publishedDate": "Fri, 02 Oct 2026 19:59:07 +0000",
+          "source": "statnews.com",
+          "summary": "The redesign is intended to streamline what was a sprawling and fractured information ecosystem, requiring users to understand NIH's organizational structure",
+          "authors": "Megan Molteni"
+        },
+        {
+          "title": "Access to addiction meds for young people has improved — but retention hasn’t",
+          "url": "https://www.statnews.com/2026/10/02/youth-opioid-treatment-retention-study-barriers-to-care/?utm_campaign=rss",
+          "publishedDate": "Fri, 02 Oct 2026 15:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "Only a small fraction of young people with opioid use disorder receive addiction medications, and few stay on them for long, a study finds.",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
+          "url": "https://www.statnews.com/2026/10/02/ebola-outbreak-congo-4000-deaths/?utm_campaign=rss",
+          "publishedDate": "Fri, 02 Oct 2026 14:25:00 +0000",
+          "source": "statnews.com",
+          "summary": "Congo's Ebola outbreak has killed more than 4,000 people, authorities said, as they struggle to contain what has become the fastest-growing Ebola outbreak in history.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "How big is Pennsylvania&#8217;s measles outbreak?",
+          "url": "https://www.statnews.com/2026/10/02/health-news-how-big-is-pennsylvania-measles-outbreak/?utm_campaign=rss",
+          "publishedDate": "Fri, 02 Oct 2026 11:53:43 +0000",
+          "source": "statnews.com",
+          "summary": "News of a fifth measles death in Pennsylvania underscores a longstanding issue about the disease. The full scope of the outbreak — in the state and in the country —&#8230;",
+          "authors": "Sarah Todd, Helen Branswell,and O. Rose Broderick"
+        },
         {
           "title": "Top journal&#8217;s special issue on women&#8217;s health casts spotlight on menopause and pain",
           "url": "https://www.statnews.com/2026/10/01/womens-health-issues-academic-journal-science-special-edition/?utm_campaign=rss",
@@ -77,38 +109,6 @@
           "source": "statnews.com",
           "summary": "Proposed changes to the federal government’s health survey would undercount Americans with disabilities, advocates say.",
           "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "Trump administration appeals ruling blocking limits on international student visas",
-          "url": "https://www.statnews.com/2026/10/01/health-news-trump-administration-appeals-ruling-blocking-student-visa-limits/?utm_campaign=rss",
-          "publishedDate": "Thu, 01 Oct 2026 11:50:22 +0000",
-          "source": "statnews.com",
-          "summary": "DHS has appealed a court ruling blocking it from restricting how long international students and postdoctoral researchers can remain in the U.S.",
-          "authors": "O. Rose Broderick and Jonathan Wosen"
-        },
-        {
-          "title": "U.S. poised to boot legal immigrants from Medicaid, including refugees and sex-trafficking victims",
-          "url": "https://www.statnews.com/2026/09/30/legal-immigrants-risk-losing-medicaid-coverage-trump/?utm_campaign=rss",
-          "publishedDate": "Wed, 30 Sep 2026 15:50:06 +0000",
-          "source": "statnews.com",
-          "summary": "Hundreds of thousands of immigrants with legal status, including refugees and sex-trafficking victims, are at risk of losing government health coverage starting Oct. 1.",
-          "authors": "Phil Galewitz, Andrew Jones,and and Claudia Boyd-Barrett — KFF Health News"
-        },
-        {
-          "title": "Rural MAHA followers say Trump hasn&#8217;t improved health of their communities, poll finds",
-          "url": "https://www.statnews.com/2026/09/30/rural-maha-followers-poll-trump-hasnt-improved-community-health/?utm_campaign=rss",
-          "publishedDate": "Wed, 30 Sep 2026 14:12:49 +0000",
-          "source": "statnews.com",
-          "summary": "About half of rural voters identify with MAHA movement, but most said President Trump’s health care policies have not benefited their communities, according to a new poll.",
-          "authors": "Ali Swenson, Sarah Jane Tribble,and and Linley Sanders — Associated Press and KFF Health News"
-        },
-        {
-          "title": "CDC measles death count still lags Pennsylvania’s",
-          "url": "https://www.statnews.com/2026/09/30/health-news-cdc-measles-death-count-still-lags-pennsylvania/?utm_campaign=rss",
-          "publishedDate": "Wed, 30 Sep 2026 11:59:12 +0000",
-          "source": "statnews.com",
-          "summary": "Pennsylvania officials count four measles-related deaths this year. The CDC only counts two.",
-          "authors": "Theresa Gaffney"
         }
       ]
     },
@@ -117,6 +117,14 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: NIH awarded all its grant funding, but delayed and opaque decisions stymied researchers",
+          "url": "https://www.statnews.com/2026/10/02/nih-grant-funding-fy2026-analysis/?utm_campaign=rss",
+          "publishedDate": "Fri, 02 Oct 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The NIH continued reducing grants involving health disparities, race, and ethnicity but made little progress toward other administration priorities in the 2026 fiscal year.",
+          "authors": "Anil Oza, Jonathan Wosen,and J. Emory Parker"
+        },
         {
           "title": "STAT+: Medicare Advantage plans shift more costs onto seniors in 2027",
           "url": "https://www.statnews.com/2026/10/01/medicare-advantage-plans-have-higher-deductibles-fewer-benefits-in-2027/?utm_campaign=rss",
@@ -156,14 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "More than half of 16,000 apparently healthy adults had signs of atherosclerosis, with arterial plaques already detectable in about 1 in 13 people ages 18 to 29. Researchers say directly imaging the arteries could reveal hidden…",
           "authors": ""
-        },
-        {
-          "title": "STAT+: Two key Senate health committees face major shake-ups",
-          "url": "https://www.statnews.com/2026/10/01/midterm-election-health-care-policy-impact-senate-republican-turnover/?utm_campaign=rss",
-          "publishedDate": "Thu, 01 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Senate committees that handle important health care matters are about to see major GOP turnover. Here's what that means.",
-          "authors": "John Wilkerson"
         }
       ]
     },
@@ -173,75 +173,67 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Simulating Synchrony Loop Networks in the Open Source RISP Neuroprocessor",
-          "url": "https://arxiv.org/abs/2609.38432",
-          "publishedDate": "Thu, 01 Oct 2026 00:00:00 -0400",
+          "title": "Multi-Behavioral Evolved Substrates Through Neuromodulation and Activation Selection",
+          "url": "https://arxiv.org/abs/2610.00148",
+          "publishedDate": "Fri, 02 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neuromorphic spiking neural networks (SNNs) offer a promising alternative to conventional deep neural networks for tasks with computational resource or data constraints. However, their practical applications have been limited by…",
-          "authors": "Jackson Mowry, Patrick Abbs"
+          "summary": "Open-ended artificial life systems must acquire diverse competencies from a single evolving genotype. Biological brains combine neuromodulation, which reconfigures circuits without changing connections, with diverse neuron types matched to…",
+          "authors": "Romain Claret, Michael O'Neill, Paul Cotofrei, Kilian Stoffel"
         },
         {
-          "title": "How much of fly walking is written in the wiring?",
-          "url": "https://arxiv.org/abs/2609.38665",
-          "publishedDate": "Thu, 01 Oct 2026 00:00:00 -0400",
+          "title": "Per-Node Activation Function Evolution in Indirectly Encoded Substrates: Solvability, Limits, and Emergent Diversity",
+          "url": "https://arxiv.org/abs/2610.00149",
+          "publishedDate": "Fri, 02 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Connectome models of the fly nerve cord generate walking-like motor rhythms, but oscillation alone does not show that the specific wiring matters. Here we provide, to our knowledge, the first test of which features of motor output depend…",
-          "authors": "Isabel Guan, Yuntian Zhao, Dingyuan Zhang, Shipeng Lyu, I-Ming Chen"
+          "summary": "Biological neurons achieve computational diversity through specialized types: tonic, bursting, adapting, and fast-spiking cells coexist within the same circuit. Artificial neural networks, by contrast, apply a single activation function…",
+          "authors": "Romain Claret, Michael O'Neill, Paul Cotofrei, Kilian Stoffel"
         },
         {
-          "title": "Null-model treatment of the sensory-motor boundary changes an evolutionary connectome comparison",
-          "url": "https://arxiv.org/abs/2609.39248",
-          "publishedDate": "Thu, 01 Oct 2026 00:00:00 -0400",
+          "title": "Neuromorphic Pseudo-Random Number Generators with a Low Power Hardware Implementation",
+          "url": "https://arxiv.org/abs/2610.00719",
+          "publishedDate": "Fri, 02 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Randomised copies of a connectome are the usual baseline for asking whether measured wiring matters, and the answer depends on what the randomisation preserves. We evolved embodied foraging agents whose brains are a compressed adult…",
-          "authors": "Gyujeong Park"
+          "summary": "Pseudo-random number generation often requires trade-offs among quality, power consumption, and bandwidth to produce unpredictable sequences of numbers. The brain, on the other hand, efficiently generates unpredictable output complex…",
+          "authors": "Jafar Shamsi, Navid Akbari, Sonia Sennik, Aaron Gruber, Wilten Nicola"
         },
         {
-          "title": "An Island-Based Parallel Biased Random-Key Genetic Algorithm for the Three-Dimensional Trailer Loading Problem",
-          "url": "https://arxiv.org/abs/2609.39272",
-          "publishedDate": "Thu, 01 Oct 2026 00:00:00 -0400",
+          "title": "Inherited Learning in an Artificial Ecology: How Controls and Update Allocation Shape Benefits",
+          "url": "https://arxiv.org/abs/2610.01232",
+          "publishedDate": "Fri, 02 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The Three-Dimensional Trailer Loading Problem (3D-TLP) involves determining the optimal placement and orientation of heterogeneous items within the confined space of a trailer while maximizing volume utilization and satisfying a wide range…",
-          "authors": "A. del Río, L. Díaz, L. C. de Vicente, J. Cameselle, B. Fernández"
+          "summary": "Learning can improve an individual's behavior, yet a population risks losing that experience whenever individuals die and are replaced. Inheriting learned preferences offers a way to preserve useful behavior across generations, raising a…",
+          "authors": "Xuening Wu, Lei Li, Shan Yu"
         },
         {
-          "title": "Large Language Model-Guided Evolutionary Discovery of Native Neural Architectures for Spiking Sequence Modeling",
-          "url": "https://arxiv.org/abs/2609.40258",
-          "publishedDate": "Thu, 01 Oct 2026 00:00:00 -0400",
+          "title": "LESS: Lightweight Evolutionary Supernet Search in Minutes",
+          "url": "https://arxiv.org/abs/2610.01468",
+          "publishedDate": "Fri, 02 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking neural networks (SNNs) offer low-energy sequence modeling through sparse, event-driven computation. However, interactions among spike encoding, neuronal dynamics, and information propagation complicate architecture design. Existing…",
-          "authors": "Ruoyu Zhao, Jiaqi Wu, Chenyu Zhu, Zhichao Lu"
+          "summary": "Low-cost NAS must both explore high-performing architectures and identify them reliably, yet reducing evaluation cost often weakens the fidelity of candidate comparisons. Training-free methods reduce evaluation cost by replacing learned…",
+          "authors": "Aviral Gandhi, Jinglue Xu, Jialong Li, Hitoshi Iba"
         },
         {
-          "title": "Beyond Missing Rates: Rethinking Incomplete Multi-View Clustering with Protocol Divergence",
-          "url": "https://arxiv.org/abs/2606.04857",
-          "publishedDate": "Thu, 01 Oct 2026 00:00:00 -0400",
+          "title": "Controllable Stochastic Quantization Encoding for Adversarially Robust Spiking Neural Networks",
+          "url": "https://arxiv.org/abs/2610.01558",
+          "publishedDate": "Fri, 02 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Incomplete multi-view clustering (IMVC) is typically evaluated by retraining separate models under different missing-view configurations. Evaluations indexed only by nominal missing rate can overlook differences in observation structure…",
-          "authors": "Haolu Liu, Xiyue Wang, Xuanting Xie, Liangjian Wen, Zhao Kang"
+          "summary": "Spiking Neural Networks (SNNs) have attracted increasing attention due to their impressive temporal dynamics, energy efficiency, and brain-inspired mechanisms. Although SNNs have demonstrated promising performance in image classification…",
+          "authors": "Yujia Liu, Peiyu Liu, Yajing Zheng, Tiejun Huang"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 1,
       "items": [
         {
-          "title": "Estimates of neural health using cochlear implant digital twins correlate with speech recognition",
-          "url": "https://arxiv.org/abs/2609.38634",
-          "publishedDate": "Thu, 01 Oct 2026 00:00:00 -0400",
+          "title": "Lunar Surface Receiver Clock Synchronization Using GNSS and Satellite Nadir Angle",
+          "url": "https://arxiv.org/abs/2610.01018",
+          "publishedDate": "Fri, 02 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The cochlear implant is a neural prosthetic that uses an array of electrodes to directly stimulate auditory nerve fibers with electrical impulses. One factor that is known to impact outcomes is the quality of the electro-neural interface.…",
-          "authors": "Erin L. Bratu, Andrea J. DeFreese, Katelyn A. Berg, Margaret Wilson, Aaron C. Moberly, Robert F. Labadie, Jack H. Noble"
-        },
-        {
-          "title": "Reliable Doppler Estimation in Asynchronous Moving ISAC Devices via IMU Integration",
-          "url": "https://arxiv.org/abs/2609.39576",
-          "publishedDate": "Thu, 01 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We present an Integrated Sensing And Communication (ISAC) framework for the joint estimation of the Doppler frequency of a passive mobile target in a bistatic scenario with clock-asynchronous nodes and where the Receiver (RX) is static but…",
-          "authors": "Zaman Bhalli, Jacopo Pegoraro, Gianmaria Ventura, Paolo Casari, Michele Rossi"
+          "summary": "The use of signals from Earth-orbiting Global Navigation Satellite System (GNSS) constellations for positioning, navigation, and timing on the lunar surface was recently demonstrated by the Lunar GNSS Receiver Experiment (LuGRE) aboard…",
+          "authors": "Minju Han, Seunghyeon Park, Joon Hyo Rhee"
         }
       ]
     }
