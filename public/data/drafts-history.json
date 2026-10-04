@@ -1,5 +1,28 @@
 [
   {
+    "generatedAt": "2026-10-04T01:58:20.489Z",
+    "date": "2026-10-04",
+    "topic": "睡眠と畳み込みニューラルネットワーク(CNN)",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Dense temporal sleep apnea profiling from single-channel PPG with downstream AHI estimation: a large-scale retrospective feasibility study.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42826756/",
+    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n数字が語る、睡眠と畳み込みニューラルネットワーク(CNN)の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 睡眠 × 畳み込みニューラルネットワーク(CNN) × 学習\n\n📊 注目すべきデータ：\n→ Models were trained and evaluated on 2029 polysomnography studies from the Multi-Ethnic Study of Atherosclerosis.&#xD;Main results: Fine-grained discrimination between respiratory...\n→ In the PPG-only setting, AHI estimation explained 76% of variance; inclusion of an auxiliary SpO&#x2082;-derived desaturation feature improved this to 83%.\n→ SpO&#x2082; assisted SA severity classification achieved Macro F1 of 0.71, with only 1.18% of apnea cases misclassified as non-apneic.&#xD;Significance: These findings support the...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Dense temporal sleep apnea profiling from single-channel PPG with downstream AHI estimation: a large-scale retrospective feasibility study.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42826756/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #BCI",
+    "summaryJP": "睡眠と畳み込みニューラルネットワーク(CNN) — 数値で示された新事実（神経デコーディング）",
+    "paperAuthors": "Filippos Ioannis Katsaridis, Sotirios Fouzas, Ilias Theodorakopoulos",
+    "publishedDate": "2026-10-02",
+    "paperId": "42826756",
+    "paperSource": "pubmed",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "睡眠",
+      "畳み込みニューラルネットワーク(CNN)",
+      "学習"
+    ],
+    "abstractExcerpt": "Sleep apnea (SA) diagnosis remains challenging due to the cost and limited accessibility of polysomnography. Most automated screening approaches estimate the Apnea-Hypopnea Index (AHI) from oximetry-derived features and do not provide…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-10-03T01:24:08.508Z",
     "date": "2026-10-03",
     "topic": "表現学習と学習",
@@ -1238,31 +1261,6 @@
       "注意機構"
     ],
     "abstractExcerpt": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition with a broad spectrum of symptoms, which makes timely and accurate diagnosis challenging. The development of machine learning (ML) and deep learning (DL) has created…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-08-14T22:55:48.161Z",
-    "date": "2026-08-14",
-    "topic": "大規模言語モデル(LLM)と言語処理",
-    "templateName": "neuro-ai-bridge",
-    "riskScore": 0,
-    "paperTitle": "From Observation to Intervention: Memory in Brains and Large Language Models",
-    "paperLink": "https://arxiv.org/abs/2608.12377",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n大規模言語モデル(LLM)と言語処理に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 大規模言語モデル(LLM) × 言語処理 × 記憶 × エピソード記憶\n\n> Brains and large language models (LLMs) are fundamentally different memory systems, but they can be compared through shared functional questions: where memory-related information is represented, how partial cues recover broader associations, how new information is written or...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nコネクトミクス・回路解析の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 From Observation to Intervention: Memory in Brains and Large Language Models\n🔗 https://arxiv.org/abs/2608.12377\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #認知科学",
-    "summaryJP": "大規模言語モデル(LLM)と言語処理 — 脳科学とAIをつなぐ研究（コネクトミクス・回路解析）",
-    "paperAuthors": "Morteza Salehjahromi, Shayan A. Zadegan, Amgad Muneer, Jia Wu",
-    "publishedDate": "Fri, 14 Aug 2026 00:00:00 -0400",
-    "paperId": "2608.12377",
-    "paperSource": "arxiv",
-    "themeArea": "コネクトミクス・回路解析",
-    "jpKeywords": [
-      "大規模言語モデル(LLM)",
-      "言語処理",
-      "記憶",
-      "エピソード記憶",
-      "学習"
-    ],
-    "abstractExcerpt": "Brains and large language models (LLMs) are fundamentally different memory systems, but they can be compared through shared functional questions: where memory-related information is represented, how partial cues recover broader…",
     "figureUrls": []
   }
 ]
