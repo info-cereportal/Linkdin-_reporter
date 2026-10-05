@@ -1,23 +1,22 @@
 {
-  "generatedAt": "2026-10-04T01:58:20.489Z",
-  "date": "2026-10-04",
-  "topic": "睡眠と畳み込みニューラルネットワーク(CNN)",
-  "templateName": "data-driven",
+  "generatedAt": "2026-10-05T01:14:29.472Z",
+  "date": "2026-10-05",
+  "topic": "記憶と神経ダイナミクス",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Dense temporal sleep apnea profiling from single-channel PPG with downstream AHI estimation: a large-scale retrospective feasibility study.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42826756/",
-  "formatted": "研究者もエンジニアも、この論文は必読です。\n\n数字が語る、睡眠と畳み込みニューラルネットワーク(CNN)の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 睡眠 × 畳み込みニューラルネットワーク(CNN) × 学習\n\n📊 注目すべきデータ：\n→ Models were trained and evaluated on 2029 polysomnography studies from the Multi-Ethnic Study of Atherosclerosis.&#xD;Main results: Fine-grained discrimination between respiratory...\n→ In the PPG-only setting, AHI estimation explained 76% of variance; inclusion of an auxiliary SpO&#x2082;-derived desaturation feature improved this to 83%.\n→ SpO&#x2082; assisted SA severity classification achieved Macro F1 of 0.71, with only 1.18% of apnea cases misclassified as non-apneic.&#xD;Significance: These findings support the...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Dense temporal sleep apnea profiling from single-channel PPG with downstream AHI estimation: a large-scale retrospective feasibility study.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42826756/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #BCI",
-  "summaryJP": "睡眠と畳み込みニューラルネットワーク(CNN) — 数値で示された新事実（神経デコーディング）",
-  "paperAuthors": "Filippos Ioannis Katsaridis, Sotirios Fouzas, Ilias Theodorakopoulos",
-  "publishedDate": "2026-10-02",
-  "paperId": "42826756",
+  "paperTitle": "Enhancing astrocytic GAT-3 in zona incerta diminishes fear memory generalization through remodeling neural network.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42829032/",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\n記憶と神経ダイナミクスの最新成果を整理しました。\n\n🔬 記憶 × 神経ダイナミクス\n\n> Subpopulations within the zona incerta (ZI) have been implicated in the encoding of post-traumatic stress disorder (PTSD)-associated phenotypes, including fear response and fear memory generalization. However, its neural integration mechanism underlying ZI-mediated regulation of...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Enhancing astrocytic GAT-3 in zona incerta diminishes fear memory generalization through remodeling neural network.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42829032/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #計算論的神経科学",
+  "summaryJP": "記憶と神経ダイナミクス — 注目すべき3つの示唆（神経デコーディング）",
+  "paperAuthors": "Kun Tong, Si-Qi Jing, Hao Jin, Zhong-Hao Gan, Pei Zhang, Lei Jin",
+  "publishedDate": "2026-10-03",
+  "paperId": "42829032",
   "paperSource": "pubmed",
   "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "睡眠",
-    "畳み込みニューラルネットワーク(CNN)",
-    "学習"
+    "記憶",
+    "神経ダイナミクス"
   ],
-  "abstractExcerpt": "Sleep apnea (SA) diagnosis remains challenging due to the cost and limited accessibility of polysomnography. Most automated screening approaches estimate the Apnea-Hypopnea Index (AHI) from oximetry-derived features and do not provide…",
+  "abstractExcerpt": "Subpopulations within the zona incerta (ZI) have been implicated in the encoding of post-traumatic stress disorder (PTSD)-associated phenotypes, including fear response and fear memory generalization. However, its neural integration…",
   "figureUrls": []
 }
