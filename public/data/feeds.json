@@ -1,18 +1,75 @@
 {
-  "generatedAt": "2026-10-05T01:14:30.047Z",
+  "generatedAt": "2026-10-06T02:29:01.253Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Existence of an infinite family of substrates satisfying all the postulates of integrated information theory, exclusion included, with arbitrarily large integrated information",
+          "url": "https://arxiv.org/abs/2610.02219",
+          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "For infinitely many sizes we exhibit a cycle of binary units, each taking the exclusive-or of itself and its two clockwise neighbours, that is a complex in every state, no proper subsystem being more integrated, and whose integrated…",
+          "authors": "A. Mayeux"
+        },
+        {
+          "title": "Clustering without clusters: the meta-criterion and centroid reliability mistake continuous dynamics for discrete states",
+          "url": "https://arxiv.org/abs/2610.02220",
+          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Microstate analysis starts with clustering and the meta-criterion is a heuristic to find an optimum cluster number. We address the following questions: (i) what number is found for non-cluster-forming dynamical systems, (ii) do centroids…",
+          "authors": "Frederic von Wegner, Gesine Hermann"
+        },
+        {
+          "title": "Causal discovery identifies pathways linking physical activity to dementia risk in the UK BioBank",
+          "url": "https://arxiv.org/abs/2610.02221",
+          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Physical Activity (PA) is consistently associated with lower risk of dementia, yet the mechanism linking PA to dementia prevention remain incomopletely understood. Here, we integrate large language model (LLM)-guided causal discovery with…",
+          "authors": "Wasif Khan, Panayiotis V. Benos, Joshua K. Wong, Ruogu Fang"
+        },
+        {
+          "title": "Contrastive Neural Embeddings Reveal Individual Traits Beyond Conversational Role",
+          "url": "https://arxiv.org/abs/2610.03410",
+          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Contrastive representation learning is increasingly used to recover low-dimensional structure from neural recordings, but its output is typically validated by decoding accuracy rather than by the geometry of the manifold it produces. We…",
+          "authors": "Hubert Huang, Michelle McCleod, Brendan Ames, Evie Malaia"
+        },
+        {
+          "title": "Autoregressive Frontier Expansion: Growing Trees with Graph Machine Learning",
+          "url": "https://arxiv.org/abs/2609.38506",
+          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Tree-like branching structures are common in nature, from botanical trees to neurons, blood vessels and respiratory trees. Their branching shape often reflects function, making structural modelling central to understanding how these…",
+          "authors": "Umer Gupta, Saku Peltonen, Martin Ritzert"
+        },
+        {
+          "title": "NeuroLens: Learning Latent Embeddings of Neural Semantics from Chronic Recordings",
+          "url": "https://arxiv.org/abs/2610.02864",
+          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Understanding how neural activity represents higher-order cognition and how these representations evolve over time has long been a central pursuit in neuroscience. However, current analytical tools cannot easily distinguish…",
+          "authors": "Hanrui Lyu, Baiyuan Chen, Tianshu Tan, Matthew R. Whiteway, Maxwell D. Melin, Ji Xia, Linyang He, Bradly C. Stadie, Anne Churchland, Liam Paninski, Yizi Zhang"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Could we one day vaccinate against every cancer?",
+          "url": "https://www.statnews.com/2026/10/05/health-news-could-we-one-day-vaccinate-against-every-cancer/?utm_campaign=rss",
+          "publishedDate": "Mon, 05 Oct 2026 12:00:51 +0000",
+          "source": "statnews.com",
+          "summary": "What science says so far about which cancers can be beat by vaccines — and which will require more creative approaches.",
+          "authors": "Amanda Erickson"
+        },
         {
           "title": "NIH rolling out streamlined website to help public find information more easily",
           "url": "https://www.statnews.com/2026/10/02/nih-launching-streamlined-website-to-help-public-find-information/?utm_campaign=rss",
@@ -52,14 +109,6 @@
           "source": "statnews.com",
           "summary": "\"Highlighting a ton of open questions\": Top journal's special issue on women's health examines the latest discoveries on chronic pain and menopause.",
           "authors": "Annalisa Merelli"
-        },
-        {
-          "title": "As CDC redesigns annual health survey, it removes questions about disabilities",
-          "url": "https://www.statnews.com/2026/10/01/cdc-health-survey-redesign-removes-questions-about-disabilities/?utm_campaign=rss",
-          "publishedDate": "Thu, 01 Oct 2026 16:15:16 +0000",
-          "source": "statnews.com",
-          "summary": "Proposed changes to the federal government’s health survey would undercount Americans with disabilities, advocates say.",
-          "authors": "O. Rose Broderick"
         }
       ]
     },
@@ -69,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Trump announces $90 payments for seniors&#8217; Medicare premium costs ahead of midterm elections",
-          "url": "https://www.statnews.com/2026/10/04/trump-announces-90-dollar-payments-for-medicare-premiums/?utm_campaign=rss",
-          "publishedDate": "Sun, 04 Oct 2026 16:58:12 +0000",
+          "title": "STAT+: Judges skewer HHS arguments in hearing over Medicare Advantage audits lawsuit",
+          "url": "https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/?utm_campaign=rss",
+          "publishedDate": "Mon, 05 Oct 2026 20:13:42 +0000",
           "source": "statnews.com",
-          "summary": "President Trump is promising more payments to voters just ahead of the Nov. 3 midterm elections — this time for seniors' Medicare Part B premiums",
-          "authors": "Associated Press"
+          "summary": "Federal judges pushed back against the government's arguments in a Medicare Advantage case.",
+          "authors": "Tara Bannow"
         },
         {
-          "title": "Your gut bacteria may reveal how fast your brain is aging",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
-          "publishedDate": "Sun, 04 Oct 2026 07:28:03 EDT",
+          "title": "STAT+: New Trump regulations would clean up health care pricing disclosures",
+          "url": "https://www.statnews.com/2026/10/05/trump-kennedy-transparency-in-coverage-regulations-health-care-prices-disclosure/?utm_campaign=rss",
+          "publishedDate": "Mon, 05 Oct 2026 18:33:57 +0000",
+          "source": "statnews.com",
+          "summary": "The Trump administration is continuing its effort to bring more transparency to the cost of health care.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "STAT+: Prices, prices, prices",
+          "url": "https://www.statnews.com/2026/10/05/health-care-prices-make-care-insurance-expensive-health-care-inc/?utm_campaign=rss",
+          "publishedDate": "Mon, 05 Oct 2026 16:38:08 +0000",
+          "source": "statnews.com",
+          "summary": "Why is health insurance so expensive? Read the latest stort in STAT's \"Out of Pocket, Out of Reach\" series to find out.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "Scientists reveal what seven days of fasting does to the human body",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm",
+          "publishedDate": "Mon, 05 Oct 2026 08:26:03 EDT",
           "source": "sciencedaily.com",
-          "summary": "A UCLA study links faster brain aging to specific gut bacteria and chemical byproducts, with older-looking brains also associated with poorer memory, focus, and mood. The findings suggest that biological signs of brain aging may appear…",
+          "summary": "Scientists found that prolonged fasting triggers major changes throughout the body, but many of the most interesting effects only appeared after about three days without food. The results suggest fasting may influence health in ways that…",
           "authors": ""
         },
         {
-          "title": "This common vitamin could help fight one of the deadliest brain cancers",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261001095423.htm",
-          "publishedDate": "Sun, 04 Oct 2026 06:09:00 EDT",
+          "title": "Scientists just found a way to fight lung cancer and muscle wasting at the same time",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261001214129.htm",
+          "publishedDate": "Mon, 05 Oct 2026 07:11:21 EDT",
           "source": "sciencedaily.com",
-          "summary": "High-dose vitamin B3 is showing intriguing early promise as an addition to standard glioblastoma treatment, with 82% of patients in a small trial remaining progression-free after six months. Researchers believe niacin may help revive…",
+          "summary": "A new nanoparticle therapy reduced lung tumors in mice while also targeting cachexia, the severe muscle wasting that can accompany cancer. By delivering follistatin mRNA directly to tumors, the approach could eventually offer a way to…",
           "authors": ""
         },
         {
-          "title": "Vitamin D drug may help crack pancreatic cancer’s protective shield",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260930225501.htm",
-          "publishedDate": "Sat, 03 Oct 2026 23:10:23 EDT",
+          "title": "Scientists discover a human brain gene that can jump through DNA",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261002080013.htm",
+          "publishedDate": "Mon, 05 Oct 2026 06:06:28 EDT",
           "source": "sciencedaily.com",
-          "summary": "A vitamin D analog may help break down pancreatic cancer’s protective defenses, potentially making tumors more vulnerable to chemotherapy and immune attack. A small clinical trial found encouraging responses, especially in patients whose…",
-          "authors": ""
-        },
-        {
-          "title": "Diet drinks work as well as water for weight loss, major trial finds",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm",
-          "publishedDate": "Sat, 03 Oct 2026 22:10:59 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A two-year randomized clinical trial involving 493 adults with overweight or obesity found that diet soft drinks were essentially as effective as water for long-term weight loss and weight maintenance. Participants drinking beverages…",
-          "authors": ""
-        },
-        {
-          "title": "This protective enzyme could help stop fatty liver disease from getting worse",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
-          "publishedDate": "Sat, 03 Oct 2026 09:46:11 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps liver cells clear away damaged…",
+          "summary": "Scientists have discovered a human gene with a remarkable double life: it appears to play an important role in brain cells while still retaining the ability to jump around the genome. Called BC200, the gene evolved millions of years ago…",
           "authors": ""
         }
       ]
@@ -121,63 +170,64 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "SEDIMA: Cross-Run Hierarchical Insight Memory for Evolutionary Search Agents",
+          "url": "https://arxiv.org/abs/2610.02361",
+          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Large language model (LLM)-driven evolutionary search is a powerful paradigm for automated program and algorithm discovery, yet existing systems are largely memoryless: each run explores from scratch, so agents repeatedly rediscover the…",
+          "authors": "Amirhossein Abaskohi, Mahdi Mostajabdaveh, Zirui Zhou"
+        },
+        {
+          "title": "Evolutionary Computation for Trustworthy AI: From Attacks and Defenses to Self-Evolving Era",
+          "url": "https://arxiv.org/abs/2610.02996",
+          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "As Artificial Intelligence (AI) has evolved from task-specific models to foundation models and agents, the scope of trustworthy AI has expanded from model-level robustness to the reliability and safety of broader AI systems. This evolution…",
+          "authors": "Junhao Dong, Chenkai Wang, Xuanhui Lin, Mingrong Gong, Siyu Wang, Yuqing Wen, Jiao Liu, Catherine Huang, Gary G. Yen, Xin Yao, Yew-Soon Ong"
+        },
+        {
+          "title": "Small universal multiset reaction systems",
+          "url": "https://arxiv.org/abs/2610.03021",
+          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "This paper presents a construction of a small universal machine within the framework of Multi-set Reaction Systems. We encode the machine state using elements that represent registers and instruction labels, and we enforce sequential…",
+          "authors": "Andrei Paun, Annemarie-Beatrix Messner"
+        },
+        {
+          "title": "Learning While Inferring: Local and Parallel Learning for Edge SNNs across Sensing Modalities",
+          "url": "https://arxiv.org/abs/2610.03149",
+          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Edge intelligence requires models to sense continuously in real time and to keep adapting on-device, all under tight compute, energy, and memory budgets. Although spiking neural networks (SNNs) enable efficient event-driven inference,…",
+          "authors": "Yanxun Zhang, Yifei Wang, Changze Lv, Jingwen Xu, Yiyang Lu, Xiaohua Wang, Di Yu, Xin Du, Xiaoqing Zheng"
+        },
+        {
+          "title": "Aggregate accuracy conceals concentrated temporal vulnerability in a spiking speech classifier",
+          "url": "https://arxiv.org/abs/2610.03155",
+          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Aggregate accuracy cannot reveal which utterances are locally vulnerable or how internal activity changes when labels remain stable. We retain every prediction for 725,070 adjacent-bin, one-count changes around 100 validation utterances of…",
+          "authors": "\\.Ismail Can Dikmen"
+        },
+        {
+          "title": "Evolving Hybrid Quantum-Classical Architectures for Image Classification",
+          "url": "https://arxiv.org/abs/2610.03220",
+          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Hybrid quantum classical neural networks integrate parameterized quantum circuits (PQCs) with established deep learning architectures, but their performance depends strongly on the choice of quantum circuit architecture, a choice that…",
+          "authors": "Devroop Kar, Daniel Krutz, Travis Desell"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
-        },
-        {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
-        }
-      ]
+      "itemCount": 0,
+      "error": "no BCI-keyword match in fetched feed",
+      "items": []
     }
   }
 }

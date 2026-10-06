@@ -1,22 +1,26 @@
 {
-  "generatedAt": "2026-10-05T01:14:29.472Z",
-  "date": "2026-10-05",
-  "topic": "記憶と神経ダイナミクス",
-  "templateName": "three-insights",
+  "generatedAt": "2026-10-06T02:29:00.752Z",
+  "date": "2026-10-06",
+  "topic": "表現学習と学習",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "Enhancing astrocytic GAT-3 in zona incerta diminishes fear memory generalization through remodeling neural network.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42829032/",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\n記憶と神経ダイナミクスの最新成果を整理しました。\n\n🔬 記憶 × 神経ダイナミクス\n\n> Subpopulations within the zona incerta (ZI) have been implicated in the encoding of post-traumatic stress disorder (PTSD)-associated phenotypes, including fear response and fear memory generalization. However, its neural integration mechanism underlying ZI-mediated regulation of...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Enhancing astrocytic GAT-3 in zona incerta diminishes fear memory generalization through remodeling neural network.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42829032/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #計算論的神経科学",
-  "summaryJP": "記憶と神経ダイナミクス — 注目すべき3つの示唆（神経デコーディング）",
-  "paperAuthors": "Kun Tong, Si-Qi Jing, Hao Jin, Zhong-Hao Gan, Pei Zhang, Lei Jin",
-  "publishedDate": "2026-10-03",
-  "paperId": "42829032",
-  "paperSource": "pubmed",
+  "paperTitle": "Contrastive Neural Embeddings Reveal Individual Traits Beyond Conversational Role",
+  "paperLink": "https://arxiv.org/abs/2610.03410",
+  "figureUrl": "https://arxiv.org/html/2610.03410/2610.03410v1/figures/individual_aq_lonlat.png",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n表現学習と学習の最新研究です。\n\n🔬 表現学習 × 学習 × EEG\n\n📊 注目すべきデータ：\n→ However, the two permutation controls have notable differences in results: permuting labels over a frozen embedding yields p = 0.001, whereas retraining the encoder under each...\n→ However, participant-level model does separate from its identity-aware null (p = 0.0099) while speaker-versus-listener role analysis performs at chance in the same embedding,...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Contrastive Neural Embeddings Reveal Individual Traits Beyond Conversational Role\n🔗 https://arxiv.org/abs/2610.03410\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #神経科学",
+  "summaryJP": "表現学習と学習 — 次世代へ続く布石（神経デコーディング）",
+  "paperAuthors": "Hubert Huang, Michelle McCleod, Brendan Ames, Evie Malaia",
+  "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+  "paperId": "2610.03410",
+  "paperSource": "arxiv",
   "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "記憶",
-    "神経ダイナミクス"
+    "表現学習",
+    "学習",
+    "EEG"
   ],
-  "abstractExcerpt": "Subpopulations within the zona incerta (ZI) have been implicated in the encoding of post-traumatic stress disorder (PTSD)-associated phenotypes, including fear response and fear memory generalization. However, its neural integration…",
-  "figureUrls": []
+  "abstractExcerpt": "Contrastive representation learning is increasingly used to recover low-dimensional structure from neural recordings, but its output is typically validated by decoding accuracy rather than by the geometry of the manifold it produces. We…",
+  "figureUrls": [
+    "https://arxiv.org/html/2610.03410/2610.03410v1/figures/individual_aq_lonlat.png"
+  ]
 }

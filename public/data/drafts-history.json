@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-10-06T02:29:00.752Z",
+    "date": "2026-10-06",
+    "topic": "表現学習と学習",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Contrastive Neural Embeddings Reveal Individual Traits Beyond Conversational Role",
+    "paperLink": "https://arxiv.org/abs/2610.03410",
+    "figureUrl": "https://arxiv.org/html/2610.03410/2610.03410v1/figures/individual_aq_lonlat.png",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n表現学習と学習の最新研究です。\n\n🔬 表現学習 × 学習 × EEG\n\n📊 注目すべきデータ：\n→ However, the two permutation controls have notable differences in results: permuting labels over a frozen embedding yields p = 0.001, whereas retraining the encoder under each...\n→ However, participant-level model does separate from its identity-aware null (p = 0.0099) while speaker-versus-listener role analysis performs at chance in the same embedding,...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Contrastive Neural Embeddings Reveal Individual Traits Beyond Conversational Role\n🔗 https://arxiv.org/abs/2610.03410\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #神経科学",
+    "summaryJP": "表現学習と学習 — 次世代へ続く布石（神経デコーディング）",
+    "paperAuthors": "Hubert Huang, Michelle McCleod, Brendan Ames, Evie Malaia",
+    "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+    "paperId": "2610.03410",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "表現学習",
+      "学習",
+      "EEG"
+    ],
+    "abstractExcerpt": "Contrastive representation learning is increasingly used to recover low-dimensional structure from neural recordings, but its output is typically validated by decoding accuracy rather than by the geometry of the manifold it produces. We…",
+    "figureUrls": [
+      "https://arxiv.org/html/2610.03410/2610.03410v1/figures/individual_aq_lonlat.png"
+    ]
+  },
+  {
     "generatedAt": "2026-10-05T01:14:29.472Z",
     "date": "2026-10-05",
     "topic": "記憶と神経ダイナミクス",
@@ -1234,29 +1260,5 @@
       "https://arxiv.org/html/2604.16875/2604.16875v3/rsa_comparison_cnn.png",
       "https://arxiv.org/html/2604.16875/2604.16875v3/hierarchy_cnn.png"
     ]
-  },
-  {
-    "generatedAt": "2026-08-16T22:53:33.156Z",
-    "date": "2026-08-16",
-    "topic": "深層学習と学習",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "Single-channel gamma burst dynamics and adaptive deep learning for robust EEG motor state decoding.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42603935/",
-    "formatted": "深層学習と学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 深層学習 × 学習 × EEG × PET\n\n📊 注目すべきデータ：\n→ Experiments on the WAY-EEG-GAL dataset show that the proposed approach achieves competitive performance under a strict single-channel constraint and significantly improves...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nBCI・ニューラルインターフェースの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Single-channel gamma burst dynamics and adaptive deep learning for robust EEG motor state decoding.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42603935/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #DeepLearning",
-    "summaryJP": "深層学習と学習 — 通説を揺さぶる新たな知見（BCI・ニューラルインターフェース）",
-    "paperAuthors": "Ravi Suppiah, Noori Kim",
-    "publishedDate": "2026-08-16",
-    "paperId": "42603935",
-    "paperSource": "pubmed",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "深層学習",
-      "学習",
-      "EEG",
-      "PET"
-    ],
-    "abstractExcerpt": "Reliable motor decoding from single-channel EEG remains challenging due to low signal quality and strong inter-session variability. Traditional ERD/ERS features overlook transient high-frequency events that reflect key motor processes.…",
-    "figureUrls": []
   }
 ]
