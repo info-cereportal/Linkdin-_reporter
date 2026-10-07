@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T02:29:01.253Z",
+  "generatedAt": "2026-10-07T01:47:05.222Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Existence of an infinite family of substrates satisfying all the postulates of integrated information theory, exclusion included, with arbitrarily large integrated information",
-          "url": "https://arxiv.org/abs/2610.02219",
-          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "title": "Nonequivalence of expected free energy and revised system integrated information in noisy permutation networks",
+          "url": "https://arxiv.org/abs/2610.03735",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "For infinitely many sizes we exhibit a cycle of binary units, each taking the exclusive-or of itself and its two clockwise neighbours, that is a complex in every state, no proper subsystem being more integrated, and whose integrated…",
-          "authors": "A. Mayeux"
+          "summary": "The free-energy principle (FEP) and active inference describe adaptive systems through probabilistic generative models and free-energy functionals, whereas integrated information theory (IIT) characterizes intrinsic cause-effect…",
+          "authors": "Katsuaki Tanabe"
         },
         {
-          "title": "Clustering without clusters: the meta-criterion and centroid reliability mistake continuous dynamics for discrete states",
-          "url": "https://arxiv.org/abs/2610.02220",
-          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "title": "Stability of Phase-locked States of Weakly Coupled Izhikevich Neurons",
+          "url": "https://arxiv.org/abs/2610.04025",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Microstate analysis starts with clustering and the meta-criterion is a heuristic to find an optimum cluster number. We address the following questions: (i) what number is found for non-cluster-forming dynamical systems, (ii) do centroids…",
-          "authors": "Frederic von Wegner, Gesine Hermann"
+          "summary": "The Izhikevich model is a computationally efficient neuron model that can exhibit a wide range of firing patterns observed in the brain. However, it is a discontinuous dynamical system, which means the methods for applying weakly coupled…",
+          "authors": "XinYe Cheng, Sue Ann Campbell"
         },
         {
-          "title": "Causal discovery identifies pathways linking physical activity to dementia risk in the UK BioBank",
-          "url": "https://arxiv.org/abs/2610.02221",
-          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "title": "MEM as an Extension of Recurrent Processing Theory: Toward a Motivational Account of Consciousness",
+          "url": "https://arxiv.org/abs/2610.04057",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Physical Activity (PA) is consistently associated with lower risk of dementia, yet the mechanism linking PA to dementia prevention remain incomopletely understood. Here, we integrate large language model (LLM)-guided causal discovery with…",
-          "authors": "Wasif Khan, Panayiotis V. Benos, Joshua K. Wong, Ruogu Fang"
+          "summary": "Victor Lamme's Recurrent Processing Theory (RPT) proposes that the feedforward sweep (FFS) can extract and categorize visual features unconsciously, while conscious vision emerges through recurrent processing and feedback interactions…",
+          "authors": "Wiesław L. Galus, Janusz A. Starzyk"
         },
         {
-          "title": "Contrastive Neural Embeddings Reveal Individual Traits Beyond Conversational Role",
-          "url": "https://arxiv.org/abs/2610.03410",
-          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "title": "Multimodal Physiological Decoding Reveals Individualized Arousal Dynamics in Closed-Loop Neurofeedback",
+          "url": "https://arxiv.org/abs/2610.04113",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Contrastive representation learning is increasingly used to recover low-dimensional structure from neural recordings, but its output is typically validated by decoding accuracy rather than by the geometry of the manifold it produces. We…",
-          "authors": "Hubert Huang, Michelle McCleod, Brendan Ames, Evie Malaia"
+          "summary": "Most arousal-based brain-computer interfaces (BCIs) use EEG to decode cognitive state. But arousal is an autonomic process. We examined if peripheral physiological signals give a better decode of task-related arousal. We used a public…",
+          "authors": "Anirudh Natarajan, Paul Sajda"
         },
         {
-          "title": "Autoregressive Frontier Expansion: Growing Trees with Graph Machine Learning",
-          "url": "https://arxiv.org/abs/2609.38506",
-          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "title": "Beyond Completion Time: A Multimodal Approach to Characterizing Eye-Hand Coordination During the Nine-Hole Peg Test in Multiple Sclerosis",
+          "url": "https://arxiv.org/abs/2610.04145",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Tree-like branching structures are common in nature, from botanical trees to neurons, blood vessels and respiratory trees. Their branching shape often reflects function, making structural modelling central to understanding how these…",
-          "authors": "Umer Gupta, Saku Peltonen, Martin Ritzert"
+          "summary": "Multiple sclerosis (MS) can impair upper-extremity function through motor, sensory, cognitive, and visual deficits. Although the Nine-Hole Peg Test (9-HPT) is widely used to assess dexterity, completion time alone provides limited insight…",
+          "authors": "Mahya Beheshti, Rajvardhan Gadde, Diana Maloku, Danae S. Manta, Bethany Lum, Silvana L. Costa, Todd E. Hudson, John-Ross Rizzo"
         },
         {
-          "title": "NeuroLens: Learning Latent Embeddings of Neural Semantics from Chronic Recordings",
-          "url": "https://arxiv.org/abs/2610.02864",
-          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "title": "Heterarchy in the Brain: Control as a Spectrum, Not a Chain of Command",
+          "url": "https://arxiv.org/abs/2610.04643",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Understanding how neural activity represents higher-order cognition and how these representations evolve over time has long been a central pursuit in neuroscience. However, current analytical tools cannot easily distinguish…",
-          "authors": "Hanrui Lyu, Baiyuan Chen, Tianshu Tan, Matthew R. Whiteway, Maxwell D. Melin, Ji Xia, Linyang He, Bradly C. Stadie, Anne Churchland, Liam Paninski, Yizi Zhang"
+          "summary": "Neuroscience treats the brain as a control hierarchy, with cortical systems governing subcortical mechanisms. We argue that this mistakes a configuration for an architecture. Local asymmetries of influence are real, but control is…",
+          "authors": "Luiz Pessoa, Andrea Gambarotto"
         }
       ]
     },
@@ -62,6 +62,30 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Deciding when to get your flu shot? Consider these factors",
+          "url": "https://www.statnews.com/2026/10/06/health-news-consider-these-factors-to-decide-when-to-get-flu-shot/?utm_campaign=rss",
+          "publishedDate": "Tue, 06 Oct 2026 11:36:10 +0000",
+          "source": "statnews.com",
+          "summary": "When’s the best time to be vaccinated? Here are some thoughts that may help you make your decision.",
+          "authors": "Amanda Erickson"
+        },
+        {
+          "title": "In this hospital, pulse oximeters went from overestimating to underestimating blood oxygen. Why?",
+          "url": "https://www.statnews.com/2026/10/06/pulse-oximeters-overestimate-and-underestimate-blood-oxygen-study/?utm_campaign=rss",
+          "publishedDate": "Tue, 06 Oct 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Researchers found pulse oximeters went from overestimating blood oxygen levels to underestimating them; inaccuracies were worse in patients of color.",
+          "authors": "Anil Oza"
+        },
+        {
+          "title": "STAT+: Can you live longer for $5,500? Longevity clinics are the buzzy new trend at nonprofit hospitals",
+          "url": "https://www.statnews.com/2026/10/06/hospitals-longevity-clinics-healthy-aging-wellness-trend/?utm_campaign=rss",
+          "publishedDate": "Tue, 06 Oct 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Longevity clinics promise personalized health advice and cutting-edge tests. Now major hospitals are entering the business, at costs reaching $45,000 a year.",
+          "authors": "Sarah Todd"
+        },
         {
           "title": "Could we one day vaccinate against every cancer?",
           "url": "https://www.statnews.com/2026/10/05/health-news-could-we-one-day-vaccinate-against-every-cancer/?utm_campaign=rss",
@@ -85,30 +109,6 @@
           "source": "statnews.com",
           "summary": "Only a small fraction of young people with opioid use disorder receive addiction medications, and few stay on them for long, a study finds.",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
-          "url": "https://www.statnews.com/2026/10/02/ebola-outbreak-congo-4000-deaths/?utm_campaign=rss",
-          "publishedDate": "Fri, 02 Oct 2026 14:25:00 +0000",
-          "source": "statnews.com",
-          "summary": "Congo's Ebola outbreak has killed more than 4,000 people, authorities said, as they struggle to contain what has become the fastest-growing Ebola outbreak in history.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "How big is Pennsylvania&#8217;s measles outbreak?",
-          "url": "https://www.statnews.com/2026/10/02/health-news-how-big-is-pennsylvania-measles-outbreak/?utm_campaign=rss",
-          "publishedDate": "Fri, 02 Oct 2026 11:53:43 +0000",
-          "source": "statnews.com",
-          "summary": "News of a fifth measles death in Pennsylvania underscores a longstanding issue about the disease. The full scope of the outbreak — in the state and in the country —&#8230;",
-          "authors": "Sarah Todd, Helen Branswell,and O. Rose Broderick"
-        },
-        {
-          "title": "Top journal&#8217;s special issue on women&#8217;s health casts spotlight on menopause and pain",
-          "url": "https://www.statnews.com/2026/10/01/womens-health-issues-academic-journal-science-special-edition/?utm_campaign=rss",
-          "publishedDate": "Thu, 01 Oct 2026 18:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "\"Highlighting a ton of open questions\": Top journal's special issue on women's health examines the latest discoveries on chronic pain and menopause.",
-          "authors": "Annalisa Merelli"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: Judges skewer HHS arguments in hearing over Medicare Advantage audits lawsuit",
-          "url": "https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/?utm_campaign=rss",
-          "publishedDate": "Mon, 05 Oct 2026 20:13:42 +0000",
+          "title": "STAT+: Are stem cell treatments about to have their day?",
+          "url": "https://www.statnews.com/2026/10/06/trump-medicare-checks-stem-cell-treatments-fda-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Tue, 06 Oct 2026 14:30:00 +0000",
           "source": "statnews.com",
-          "summary": "Federal judges pushed back against the government's arguments in a Medicare Advantage case.",
-          "authors": "Tara Bannow"
+          "summary": "Stem cells might be the next peptides, and how Trump's $90 checks will play out after the election.",
+          "authors": "John Wilkerson"
         },
         {
-          "title": "STAT+: New Trump regulations would clean up health care pricing disclosures",
-          "url": "https://www.statnews.com/2026/10/05/trump-kennedy-transparency-in-coverage-regulations-health-care-prices-disclosure/?utm_campaign=rss",
-          "publishedDate": "Mon, 05 Oct 2026 18:33:57 +0000",
-          "source": "statnews.com",
-          "summary": "The Trump administration is continuing its effort to bring more transparency to the cost of health care.",
-          "authors": "Bob Herman"
-        },
-        {
-          "title": "STAT+: Prices, prices, prices",
-          "url": "https://www.statnews.com/2026/10/05/health-care-prices-make-care-insurance-expensive-health-care-inc/?utm_campaign=rss",
-          "publishedDate": "Mon, 05 Oct 2026 16:38:08 +0000",
-          "source": "statnews.com",
-          "summary": "Why is health insurance so expensive? Read the latest stort in STAT's \"Out of Pocket, Out of Reach\" series to find out.",
-          "authors": "Bob Herman"
-        },
-        {
-          "title": "Scientists reveal what seven days of fasting does to the human body",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm",
-          "publishedDate": "Mon, 05 Oct 2026 08:26:03 EDT",
+          "title": "Colorectal cancer is rising in young people and often found too late",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261003234019.htm",
+          "publishedDate": "Tue, 06 Oct 2026 09:20:15 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists found that prolonged fasting triggers major changes throughout the body, but many of the most interesting effects only appeared after about three days without food. The results suggest fasting may influence health in ways that…",
+          "summary": "Colorectal cancer in young people is often diagnosed at an advanced stage, with researchers finding most patients age 21 or younger already had Stage III or IV disease. Because symptoms like rectal bleeding, weight loss, abdominal pain,…",
           "authors": ""
         },
         {
-          "title": "Scientists just found a way to fight lung cancer and muscle wasting at the same time",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261001214129.htm",
-          "publishedDate": "Mon, 05 Oct 2026 07:11:21 EDT",
+          "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
+          "publishedDate": "Tue, 06 Oct 2026 09:03:47 EDT",
           "source": "sciencedaily.com",
-          "summary": "A new nanoparticle therapy reduced lung tumors in mice while also targeting cachexia, the severe muscle wasting that can accompany cancer. By delivering follistatin mRNA directly to tumors, the approach could eventually offer a way to…",
+          "summary": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent osteoarthritis after…",
           "authors": ""
         },
         {
-          "title": "Scientists discover a human brain gene that can jump through DNA",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261002080013.htm",
-          "publishedDate": "Mon, 05 Oct 2026 06:06:28 EDT",
+          "title": "Scientists say this simple habit could strengthen your marriage",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261004001843.htm",
+          "publishedDate": "Tue, 06 Oct 2026 08:23:37 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered a human gene with a remarkable double life: it appears to play an important role in brain cells while still retaining the ability to jump around the genome. Called BC200, the gene evolved millions of years ago…",
+          "summary": "Couples who exercise together report better communication, healthier conflict resolution, and lower marital stress than those who work out alone. Even something as simple as taking a walk together may create valuable opportunities to talk,…",
+          "authors": ""
+        },
+        {
+          "title": "One simple addition to postpartum care made a major difference",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261003234017.htm",
+          "publishedDate": "Tue, 06 Oct 2026 07:25:14 EDT",
+          "source": "sciencedaily.com",
+          "summary": "New mothers paired with patient navigators were much more likely to receive postpartum care, depression screening, preventive testing, and ongoing primary care. By helping with barriers such as transportation, childcare, scheduling, and…",
+          "authors": ""
+        },
+        {
+          "title": "A few drops of this Japanese tree oil may help you sleep more soundly",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261002080030.htm",
+          "publishedDate": "Tue, 06 Oct 2026 00:33:58 EDT",
+          "source": "sciencedaily.com",
+          "summary": "In a small study, sleeping near the scent of Hinoki root essential oil was linked to fewer nighttime awakenings, better morning alertness, and brain-wave changes associated with smoother sleep onset. The findings suggest an overlooked…",
           "authors": ""
         }
       ]
@@ -173,61 +173,85 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "SEDIMA: Cross-Run Hierarchical Insight Memory for Evolutionary Search Agents",
-          "url": "https://arxiv.org/abs/2610.02361",
-          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "title": "Evolutionary Giant Tour for CVRP using NSE and ML Heuristic]{Evolutionary Giant Tour approach for CVRP using Node Shift Encoding and Machine Learning repair heuristic",
+          "url": "https://arxiv.org/abs/2610.03816",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Large language model (LLM)-driven evolutionary search is a powerful paradigm for automated program and algorithm discovery, yet existing systems are largely memoryless: each run explores from scratch, so agents repeatedly rediscover the…",
-          "authors": "Amirhossein Abaskohi, Mahdi Mostajabdaveh, Zirui Zhou"
+          "summary": "The Capacitated Vehicle Routing Problem (CVRP) remains a central concern in logistics research, as route optimisation under rigid capacity and fleet restrictions directly affects operational performance. Genetic Algorithms are widely used…",
+          "authors": "Souad Abdoune, Menouar Boulif"
         },
         {
-          "title": "Evolutionary Computation for Trustworthy AI: From Attacks and Defenses to Self-Evolving Era",
-          "url": "https://arxiv.org/abs/2610.02996",
-          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "title": "Distribution Matching Evolutionary Algorithms for Rare Event Sampling",
+          "url": "https://arxiv.org/abs/2610.03833",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "As Artificial Intelligence (AI) has evolved from task-specific models to foundation models and agents, the scope of trustworthy AI has expanded from model-level robustness to the reliability and safety of broader AI systems. This evolution…",
-          "authors": "Junhao Dong, Chenkai Wang, Xuanhui Lin, Mingrong Gong, Siyu Wang, Yuqing Wen, Jiao Liu, Catherine Huang, Gary G. Yen, Xin Yao, Yew-Soon Ong"
+          "summary": "A novel discovery is one which is both useful and surprising: a generative model's output is a useful discovery if it has a low probability of being generated (it's surprising) and a high reward (it's useful). Global optimization can…",
+          "authors": "Yonatan Gideoni, Yarin Gal"
         },
         {
-          "title": "Small universal multiset reaction systems",
-          "url": "https://arxiv.org/abs/2610.03021",
-          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "title": "Adaptive Operator Selection in Bilevel Large Neighborhood Search for Electric Autonomous Dial-a-Ride Problem under Uncertainty",
+          "url": "https://arxiv.org/abs/2610.04219",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper presents a construction of a small universal machine within the framework of Multi-set Reaction Systems. We encode the machine state using elements that represent registers and instruction labels, and we enforce sequential…",
-          "authors": "Andrei Paun, Annemarie-Beatrix Messner"
+          "summary": "The electric autonomous dial-a-ride problem (EADARP) extends the classical dial-a-ride problem by incorporating battery and charging constraints for electric vehicles. In practice, travel-time uncertainty can cause violations of…",
+          "authors": "Ishara Hewa Pathiranange, Aneta Neumann"
         },
         {
-          "title": "Learning While Inferring: Local and Parallel Learning for Edge SNNs across Sensing Modalities",
-          "url": "https://arxiv.org/abs/2610.03149",
-          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "title": "Chance-Constrained Bi-Objective Evolutionary Optimization for the Open-Pit Mining Operational Planning Problem",
+          "url": "https://arxiv.org/abs/2610.04227",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Edge intelligence requires models to sense continuously in real time and to keep adapting on-device, all under tight compute, energy, and memory budgets. Although spiking neural networks (SNNs) enable efficient event-driven inference,…",
-          "authors": "Yanxun Zhang, Yifei Wang, Changze Lv, Jingwen Xu, Yiyang Lu, Xiaohua Wang, Di Yu, Xin Du, Xiaoqing Zheng"
+          "summary": "Open-pit mining operational planning involves allocating limited resources while satisfying production, equipment, and ore-quality requirements. Existing approaches often assume deterministic ore grades or rely on simulation-based…",
+          "authors": "Ishara Hewa Pathiranage, Aneta Neumann"
         },
         {
-          "title": "Aggregate accuracy conceals concentrated temporal vulnerability in a spiking speech classifier",
-          "url": "https://arxiv.org/abs/2610.03155",
-          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "title": "Robust Optimization of Spring Design under Variable Manufacturing Tolerances",
+          "url": "https://arxiv.org/abs/2610.04656",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Aggregate accuracy cannot reveal which utterances are locally vulnerable or how internal activity changes when labels remain stable. We retain every prediction for 725,070 adjacent-bin, one-count changes around 100 validation utterances of…",
-          "authors": "\\.Ismail Can Dikmen"
+          "summary": "A reliable assessment of an optimizer robustness requires tracking controlled changes in parameters to identify sources of algorithmic weakness. Such an approach was applied to the problem of designing tension/compression springs with…",
+          "authors": "Grzegorz Sroka, Slawomir T. Wierzchon"
         },
         {
-          "title": "Evolving Hybrid Quantum-Classical Architectures for Image Classification",
-          "url": "https://arxiv.org/abs/2610.03220",
-          "publishedDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+          "title": "A Flexible and Generic Approach for Explainable Landscape Analysis and the pyXla Toolbox",
+          "url": "https://arxiv.org/abs/2610.06359",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Hybrid quantum classical neural networks integrate parameterized quantum circuits (PQCs) with established deep learning architectures, but their performance depends strongly on the choice of quantum circuit architecture, a choice that…",
-          "authors": "Devroop Kar, Daniel Krutz, Travis Desell"
+          "summary": "Landscape analysis has been successfully applied to understand complex optimisation problems, gain insights into algorithm behaviour, and automate algorithm selection and configuration. Although many landscape analysis techniques have been…",
+          "authors": "Tony Ombaso, Anna S. Bosman, Arnaud Liefooghe, Katherine M. Malan, Sébastien Verel"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 3,
+      "items": [
+        {
+          "title": "RF-Agent: Hierarchical Language-Agent Control for Instruction-Conditioned Active Spectrum Sensing",
+          "url": "https://arxiv.org/abs/2610.05485",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Active radio-frequency (RF) sensing must acquire evidence under receiver limits while following confirmation, recovery, and stopping instructions. \\newhlWe propose RF-Agent, a closed-loop architecture combining language supervision,…",
+          "authors": "Hao Zhang, Dongfang Xu, Hang Zou, Anis Bara, Brahim Mefgouda, Lina Bariah, Yuzhi Yang, Fuhui Zhou, Qihui Wu, Merouane Debbah"
+        },
+        {
+          "title": "Minimizing Energy Consumption based on Waste Factor in Multi-user Multi-relay Systems",
+          "url": "https://arxiv.org/abs/2610.04630",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The escalating energy demands of modern wireless networks make energy-efficient system design a central challenge for future 6G deployments. Relay-assisted communication has long been recognized as a powerful tool for improving coverage…",
+          "authors": "Nurullah Sevim, Mostafa Ibrahim, Sabit Ekin, Theodore S. Rappaport"
+        },
+        {
+          "title": "Adaptive Hybrid Optical RF Transmission Based on Deep Reinforcement Learning for Ultra-Reliable Low Latency Communication",
+          "url": "https://arxiv.org/abs/2610.04728",
+          "publishedDate": "Tue, 06 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Ultra Reliable Low-Latency Communication (URLLC) demands submillisecond latency and reliability above 99.999%, which are difficult to guarantee under dynamic wireless and atmospheric conditions. Although free space optical (FSO) links…",
+          "authors": "Stella N. Arinze, Isidore U. Uche, Augustine O. Nwajana"
+        }
+      ]
     }
   }
 }
