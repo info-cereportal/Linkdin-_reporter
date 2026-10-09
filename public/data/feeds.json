@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T02:14:42.644Z",
+  "generatedAt": "2026-10-09T02:32:20.277Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Neural networks as decision trees: an analytical solution for learning and neural selectivity",
-          "url": "https://arxiv.org/abs/2610.08228",
-          "publishedDate": "Wed, 07 Oct 2026 00:00:00 -0400",
+          "title": "Scaling subjects in cross-modal alignment: video decoding with EEG foundation model",
+          "url": "https://arxiv.org/abs/2610.09287",
+          "publishedDate": "Thu, 08 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Nonlinear neural networks develop structured internal representations, yet how their geometry is determined by the tasks being learned remains poorly understood. Here, we develop an analytical framework for piecewise-linear feedforward and…",
-          "authors": "Hugo Tissot, Jonas Ranft, Yves Boubenec"
+          "summary": "Naturalistic visual decoding from EEG has long been constrained by cohort size: existing scaling literature caps out at a few dozen subjects, leading prior work to conclude that scaling subject cohorts yields minimal performance gains.…",
+          "authors": "Dung Truong, Kuntal Kokate, Arnaud Delorme"
         },
         {
-          "title": "A Time-Resolved Framework for Quantifying Neuronal Network State Transitions",
-          "url": "https://arxiv.org/abs/2610.08392",
-          "publishedDate": "Wed, 07 Oct 2026 00:00:00 -0400",
+          "title": "Connectome-Based Modeling of Mutation-Specific Amyloid-$\\beta$ Aggregation in Familial Alzheimer's Disease",
+          "url": "https://arxiv.org/abs/2610.09583",
+          "publishedDate": "Thu, 08 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Electrophysiological recordings provide powerful tools for characterizing the dynamics of neuronal networks. In vitro neuronal cultures offer a controlled setting for investigating network responses to diverse interventions, including…",
-          "authors": "Ilya Auslender, Yasaman Heydari, Asiye Malkoç, Clara Zaccaria, Yuri Bozzi, Lorenzo Pavesi"
+          "summary": "Familial amyloid-$\\beta$ (A$\\beta$) variants alter aggregation kinetics, but their interaction with structural brain connectivity remains incompletely understood. We developed a mutation-aware mechanistic model coupling a coarse-grained…",
+          "authors": "Mohammad Alamgir Chowdhury, Hina Shaheen"
         },
         {
-          "title": "CANDLE: Cortical Null-Space Decomposition for Noninvasive Brain Source Imaging",
-          "url": "https://arxiv.org/abs/2610.07824",
-          "publishedDate": "Wed, 07 Oct 2026 00:00:00 -0400",
+          "title": "Feedback to the primary visual cortex is highly concentrated on the central visual field representation",
+          "url": "https://arxiv.org/abs/2610.09983",
+          "publishedDate": "Thu, 08 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Electrophysiological source imaging (ESI) aims to estimate cortical source activity from noninvasive electrophysiological measurements such as electroencephalogram (EEG). However, ESI is fundamentally ill-posed because source activity is…",
-          "authors": "Shuntaro Suzuki, Yuiga Wada, Komei Sugiura"
+          "summary": "Retrograde tracer injections in marmoset monkeys revealed a striking feature of neural circuitry in primate visual system: among neurons projecting to the primary visual cortex (striate cortex, V1), the proportion of extrastriate feedback…",
+          "authors": "Piotr Majka, Emmanuel K L Cho, Karolina Łabuszewska, Thuy Vy Nguyen, Marcin Syc, Tomasz Walkiewicz, Katrina H Worthy, Li Zhaoping, Marcello Rosa"
         },
         {
-          "title": "ReGraph: A Computational Account of Emergent Generalization in the \"what\" and \"where\" Dual Visual Streams",
-          "url": "https://arxiv.org/abs/2610.07962",
-          "publishedDate": "Wed, 07 Oct 2026 00:00:00 -0400",
+          "title": "Structure alone supports efficient visual computation in the Drosophila visual system",
+          "url": "https://arxiv.org/abs/2610.10023",
+          "publishedDate": "Thu, 08 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Where generalization capacity--the ability to extract context-invariant relational structures--first emerges remains a central question in AI and neuroscience. The foundation for this capacity lies upstream of the hippocampus, within the…",
-          "authors": "Hyewon Kang, Jungmin Lee, Ilgyu Lee, Seok-Jun Hong"
+          "summary": "Understanding the extent to which measured synaptic wiring determines computation remains a central challenge. Here, we couple the proofread adult Drosophila melanogaster connectome to an anatomically faithful model of its eye. Visual…",
+          "authors": "Eudald Correig-Fraga, Roger Guimerà, Marta Sales-Pardo"
         },
         {
-          "title": "Confidence-Ordering Reversal under Contextual Priors in Neural Decoding",
-          "url": "https://arxiv.org/abs/2610.08229",
-          "publishedDate": "Wed, 07 Oct 2026 00:00:00 -0400",
+          "title": "A Connectome Test of the Fly Hashing Algorithm",
+          "url": "https://arxiv.org/abs/2610.09114",
+          "publishedDate": "Thu, 08 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Contextual priors improve neural-to-language decoding by reshaping candidate scores. However, confidence is read from the same reshaped scores, so the errors a prior leaves behind can become more confident with no change in accuracy to…",
-          "authors": "Xinyu Zhang, Sichao Liu"
+          "summary": "Dasgupta, Stevens and Navlakha (2017) showed that the Drosophila olfactory circuit, modelled as a random sparse projection followed by winner-take-all, is a locality-sensitive hash that beats classical LSH. The projection was random…",
+          "authors": "Sebastian Senge"
         },
         {
-          "title": "From the Drosophila Visual Connectome to General-Purpose Computer Vision",
-          "url": "https://arxiv.org/abs/2610.08418",
-          "publishedDate": "Wed, 07 Oct 2026 00:00:00 -0400",
+          "title": "MovieSTAGE: Scene, Transition, and Global Encoding for Movie-fMRI ADHD Classification",
+          "url": "https://arxiv.org/abs/2610.09306",
+          "publishedDate": "Thu, 08 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Biological connectomes encode structured solutions to visual computation that may provide reusable inductive biases for artificial vision. We develop ConnectomeX around FlyVision, a trainable architecture that preserves parallel ON/OFF…",
-          "authors": "Zongyu Li, Akito Yamauchi, Huaizhi Liu, Vishwanatha Rao, Jia Guo, for the Frontotemporal Lobar Degeneration Neuroimaging Initiative, for the Alzheimer's Disease Neuroimaging Initiative"
+          "summary": "Naturalistic movie-fMRI provides a shared, temporally structured probe of brain dynamics, yet predictive models commonly rely on whole-run functional connectivity (FC) or temporally generic representations that are not aligned with…",
+          "authors": "Boseong Kim, Haejun Chung, Ikbeom Jang"
         }
       ]
     },
@@ -62,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "FDA says its safety review of abortion pill will continue into next year",
+          "url": "https://www.statnews.com/2026/10/08/fda-mifepristone-abortion-pill-safety-review-continue-into-2027/?utm_campaign=rss",
+          "publishedDate": "Thu, 08 Oct 2026 15:02:53 +0000",
+          "source": "statnews.com",
+          "summary": "The FDA says its ongoing safety review of the nation's main abortion pill will continue into next year, a timeline that was quickly condemned by abortion opponents.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "The Nobel boys club (again)",
+          "url": "https://www.statnews.com/2026/10/08/health-news-nobel-boys-club-again-2026-winners/?utm_campaign=rss",
+          "publishedDate": "Thu, 08 Oct 2026 11:53:27 +0000",
+          "source": "statnews.com",
+          "summary": "All six Nobel awardees in physiology or medicine, physics, and chemistry this year were men. Women make up 4% of laureates since the award’s inception.",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "A mother-daughter quest to find fellow members of an ultra-rare genetic community",
+          "url": "https://www.statnews.com/2026/10/08/rare-disease-nicolaides-baraitser-syndrome-history-ncbrs-researchers/?utm_campaign=rss",
+          "publishedDate": "Thu, 08 Oct 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "“Don’t google,” the pediatric geneticist warned. It took me five years to disobey.",
+          "authors": "Deepa Fernandes"
+        },
+        {
+          "title": "Breast cancer can behave differently in older women. This physician is making more tailored treatments a reality",
+          "url": "https://www.statnews.com/2026/10/08/breast-cancer-research-older-women-neil-carleton-stat-wunderkind/?utm_campaign=rss",
+          "publishedDate": "Thu, 08 Oct 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "There’s increasing evidence that older women with breast cancer could benefit from more tailored treatments. STAT Wunderkind Neil Carleton is working to make that a reality.",
+          "authors": "Allessandra DiCorato"
+        },
         {
           "title": "STAT+: In small trial, optogenetics restores some vision lost to retinitis pigmentosa",
           "url": "https://www.statnews.com/2026/10/07/optogenetics-restores-some-vision-retinitis-pigmentosa/?utm_campaign=rss",
@@ -77,38 +109,6 @@
           "source": "statnews.com",
           "summary": "A new study found that visits by people born outside of the U.S. to three LA emergency rooms dropped precipitously after ICE raids increased last year.",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: Democrats plot a midterms push for MAHA voters",
-          "url": "https://www.statnews.com/2026/10/07/democrats-focus-on-food-toxins-win-maha-voters-midterm-elections/?utm_campaign=rss",
-          "publishedDate": "Wed, 07 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Key Democrats are meeting with MAHA activists and rolling out food and environmental plans to entice them.",
-          "authors": "Daniel Payne"
-        },
-        {
-          "title": "STAT+: In Duchenne muscular dystrophy, a promising therapy is available to a fortunate few",
-          "url": "https://www.statnews.com/2026/10/07/muscular-dystrophy-exon-skipping-drugs-novartis-dyne/?utm_campaign=rss",
-          "publishedDate": "Wed, 07 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Exon-skipping drugs present a critical test for the FDA’s goal of encouraging treatments for rare disease.",
-          "authors": "Jason Mast"
-        },
-        {
-          "title": "Deciding when to get your flu shot? Consider these factors",
-          "url": "https://www.statnews.com/2026/10/06/health-news-consider-these-factors-to-decide-when-to-get-flu-shot/?utm_campaign=rss",
-          "publishedDate": "Tue, 06 Oct 2026 11:36:10 +0000",
-          "source": "statnews.com",
-          "summary": "When’s the best time to be vaccinated? Here are some thoughts that may help you make your decision.",
-          "authors": "Amanda Erickson"
-        },
-        {
-          "title": "In this hospital, pulse oximeters went from overestimating to underestimating blood oxygen. Why?",
-          "url": "https://www.statnews.com/2026/10/06/pulse-oximeters-overestimate-and-underestimate-blood-oxygen-study/?utm_campaign=rss",
-          "publishedDate": "Tue, 06 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Researchers found pulse oximeters went from overestimating blood oxygen levels to underestimating them; inaccuracies were worse in patients of color.",
-          "authors": "Anil Oza"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Trump administration proposes $70,000 fee for popular international student work program",
-          "url": "https://www.statnews.com/2026/10/07/trump-administration-proposes-fee-targeting-interational-students-optional-practical-training/?utm_campaign=rss",
-          "publishedDate": "Wed, 07 Oct 2026 19:41:16 +0000",
+          "title": "Trump administration investigates 9 universities for alleged visa fraud",
+          "url": "https://www.statnews.com/2026/10/08/trump-administration-investigates-universities-j1-visa-fraud/?utm_campaign=rss",
+          "publishedDate": "Thu, 08 Oct 2026 23:09:27 +0000",
           "source": "statnews.com",
-          "summary": "The Trump administration has proposed a $70,000 fee for a popular work authorization program meant to give students professional experience",
+          "summary": "This story has been updated. The Trump administration announced Thursday that it is investigating nine universities for alleged fraud related to visas commonly used by postdoctoral researchers, a core part&#8230;",
           "authors": "Jonathan Wosen"
         },
         {
-          "title": "STAT+: PhRMA sues over Trump policy mandating lower drug prices in Medicare",
-          "url": "https://www.statnews.com/2026/10/07/phrma-sues-over-drug-pricing-model-globe/?utm_campaign=rss",
-          "publishedDate": "Wed, 07 Oct 2026 16:58:32 +0000",
+          "title": "STAT+: House Democrat seeks to scrap No Surprises Act’s costly arbitration process",
+          "url": "https://www.statnews.com/2026/10/08/house-democrat-proposes-change-to-no-surprises-act-arbitration-process/?utm_campaign=rss",
+          "publishedDate": "Thu, 08 Oct 2026 21:44:05 +0000",
           "source": "statnews.com",
-          "summary": "The brand drug industry’s main trade group is suing the Trump administration over a pilot program tying Medicare drug prices to those in peer countries.",
+          "summary": "A new proposal in Congress to scrap a surprise billing ban’s controversial arbitration system will need to to survive an onslaught of attacks from provider groups.",
+          "authors": "Tara Bannow"
+        },
+        {
+          "title": "FDA says its safety review of abortion pill will continue into next year",
+          "url": "https://www.statnews.com/2026/10/08/fda-mifepristone-abortion-pill-safety-review-continue-into-2027/?utm_campaign=rss",
+          "publishedDate": "Thu, 08 Oct 2026 15:02:53 +0000",
+          "source": "statnews.com",
+          "summary": "The FDA says its ongoing safety review of the nation's main abortion pill will continue into next year, a timeline that was quickly condemned by abortion opponents.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm",
+          "publishedDate": "Thu, 08 Oct 2026 09:52:56 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Researchers at Yale have identified a promising new approach to osteoarthritis that could do more than simply ease pain. The epilepsy drug lacosamide appears to block a protein involved in both pain signaling and cartilage destruction,…",
+          "authors": ""
+        },
+        {
+          "title": "Just 7 days of strength training started shrinking fat cells in mice",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261006234509.htm",
+          "publishedDate": "Thu, 08 Oct 2026 04:33:40 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Just seven strength-training sessions helped obese mice shrink visceral fat cells and reactivate molecular pathways involved in burning stored fat, despite no change in overall body weight. The findings suggest some benefits of resistance…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: Dozens of Democrats vie for slots on key House health committees",
+          "url": "https://www.statnews.com/2026/10/08/midterm-election-democrats-vie-for-roles-house-health-care-committees/?utm_campaign=rss",
+          "publishedDate": "Thu, 08 Oct 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Power House health committees could get a lot of new members after the midterms.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "Taking antibiotics? Sugar may be making the damage worse",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261007042059.htm",
-          "publishedDate": "Wed, 07 Oct 2026 09:06:21 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Eating more sugar while taking antibiotics was linked to greater disruption of the gut microbiome and increased growth of potentially harmful bacteria. Researchers say temporarily cutting back on sweets during and after antibiotic…",
-          "authors": ""
-        },
-        {
-          "title": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm",
-          "publishedDate": "Wed, 07 Oct 2026 08:13:35 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Blocking a receptor called P2X7 significantly reduced inflammation in human brain tissue, revealing a potential new treatment strategy for neurological and psychiatric disorders. The discovery could help researchers repurpose existing…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists reprogram immune cells inside the body to fight cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261005071532.htm",
-          "publishedDate": "Wed, 07 Oct 2026 05:50:16 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists at UC San Francisco have developed a way to create cancer-fighting CAR-T cells directly inside the body, potentially avoiding the slow and extremely expensive process of removing, engineering, and reinfusing a patient’s immune…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Democrats plot a midterms push for MAHA voters",
-          "url": "https://www.statnews.com/2026/10/07/democrats-focus-on-food-toxins-win-maha-voters-midterm-elections/?utm_campaign=rss",
-          "publishedDate": "Wed, 07 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Key Democrats are meeting with MAHA activists and rolling out food and environmental plans to entice them.",
-          "authors": "Daniel Payne"
         }
       ]
     },
@@ -173,75 +173,67 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Simplified Swarm Optimization for Surrogate-Assisted Reliability Design of Insulated-Gate Bipolar Transistor Power Modules Using an Open-Source Process Finite-Element Model",
-          "url": "https://arxiv.org/abs/2610.07412",
-          "publishedDate": "Wed, 07 Oct 2026 00:00:00 -0400",
+          "title": "A Connectome Test of the Fly Hashing Algorithm",
+          "url": "https://arxiv.org/abs/2610.09114",
+          "publishedDate": "Thu, 08 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Process-induced warpage, ceramic stress and solder strain limit the reliability of insulated-gate bipolar transistor (IGBT) modules on direct-bonded copper (DBC) substrates. Surrogate-assisted design studies train regression models on…",
-          "authors": "Wei-Chang Yeh"
+          "summary": "Dasgupta, Stevens and Navlakha (2017) showed that the Drosophila olfactory circuit, modelled as a random sparse projection followed by winner-take-all, is a locality-sensitive hash that beats classical LSH. The projection was random…",
+          "authors": "Sebastian Senge"
         },
         {
-          "title": "Common-Mode Errors Limit Low-Timestep Deep Spiking Q-Networks",
-          "url": "https://arxiv.org/abs/2610.07808",
-          "publishedDate": "Wed, 07 Oct 2026 00:00:00 -0400",
+          "title": "Relocating Nonlinearity: How a Downstream Learner Reshapes What Genetic Programming Must Evolve",
+          "url": "https://arxiv.org/abs/2610.09347",
+          "publishedDate": "Thu, 08 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking neural networks (SNNs) offer sparse and event-driven computation, making them attractive for energy-constrained reinforcement learning (RL) on edge devices. In value-based RL, deep spiking Q-networks (DSQNs) combine such efficiency…",
-          "authors": "Zijie Xu, Bingrui Guo, Yiding Sun, Yiting Dong, Zhile Yang, Zhaofei Yu"
+          "summary": "Genetic programming was conceived as a way of evolving solutions: the program is the answer, and fitness is the error of its own output. A substantial line of work instead makes the program an input to a separate learner, so fitness…",
+          "authors": "Nam H. Le"
         },
         {
-          "title": "Forecast Accuracy Is Not Trading Profit: Evolving Small Recurrent Networks for Stock Return Prediction",
-          "url": "https://arxiv.org/abs/2610.07825",
-          "publishedDate": "Wed, 07 Oct 2026 00:00:00 -0400",
+          "title": "The Modular CMA-ES: A Framework for Modern Evolution Strategies",
+          "url": "https://arxiv.org/abs/2610.09699",
+          "publishedDate": "Thu, 08 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Time series forecasting models are typically compared on pointwise error, which scores a prediction in isolation from the decision it is produced for, and a lower forecast error does not imply a better decision downstream. A parallel…",
-          "authors": "Jonathan Chang, Zimeng Lyu"
+          "summary": "Since their introduction, modern evolution strategies, such as the Covariance Matrix Adaptation Evolution Strategy (CMA-ES), have become established as powerful methods for continuous black-box optimization. This success has led to a wide…",
+          "authors": "Jacob de Nobel, Diederick Vermetten, Anna V. Kononova, Carola Doerr, Thomas Bäck"
         },
         {
-          "title": "ReGraph: A Computational Account of Emergent Generalization in the \"what\" and \"where\" Dual Visual Streams",
-          "url": "https://arxiv.org/abs/2610.07962",
-          "publishedDate": "Wed, 07 Oct 2026 00:00:00 -0400",
+          "title": "Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2",
+          "url": "https://arxiv.org/abs/2610.10496",
+          "publishedDate": "Thu, 08 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Where generalization capacity--the ability to extract context-invariant relational structures--first emerges remains a central question in AI and neuroscience. The foundation for this capacity lies upstream of the hippocampus, within the…",
-          "authors": "Hyewon Kang, Jungmin Lee, Ilgyu Lee, Seok-Jun Hong"
+          "summary": "Small tabular datasets with expert-designed spectral features are the norm in operational Earth observation, and the networks applied to them are typically hand-designed. We revisit one such published model -- a Sentinel-2 algal bloom…",
+          "authors": "Kursat Komurcu, Linas Petkevicius"
         },
         {
-          "title": "From Search to Signal: Online Post-Training in Automatic Heuristic Design",
-          "url": "https://arxiv.org/abs/2609.39383",
-          "publishedDate": "Wed, 07 Oct 2026 00:00:00 -0400",
+          "title": "HCPN-GCN: Scaling Hierarchical Prototype Networks with Cone Geometry for Continual Graph Learning",
+          "url": "https://arxiv.org/abs/2610.08823",
+          "publishedDate": "Thu, 08 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Large language model (LLM)-based automatic heuristic design (AHD) iteratively proposes and refines heuristics, pairing design rationales with executable code. Task-specific evaluators assess programs; execution outcomes and performance…",
-          "authors": "Yilun Yuan, Tianyu Zhou, Zhenzhou Tang"
+          "summary": "Continual Graph Learning (CGL) aims to incrementally learn from graph-structured data while preserving knowledge acquired from previous tasks. A major challenge in this setting is catastrophic forgetting, where learning new tasks degrades…",
+          "authors": "Sammuel R. Silva, Vander L. S. Freitas, Gladston Moreira, Eduardo J. S. Luz, Rodrigo Silva"
         },
         {
-          "title": "Synapse Loss Estimation for the BrainScaleS Wafer-scale Neuromorphic System",
-          "url": "https://arxiv.org/abs/2610.07321",
-          "publishedDate": "Wed, 07 Oct 2026 00:00:00 -0400",
+          "title": "Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation",
+          "url": "https://arxiv.org/abs/2610.09280",
+          "publishedDate": "Thu, 08 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neuromorphic hardware combines memory (synapses) and computation (neurons) into the same silicon substrate to avoid the von-Neumann bottleneck. This way, neuromorphic computing aims to make computational neuroscience simulations and AI…",
-          "authors": "Bernhard Vogginger, Christian Mayr"
+          "summary": "This work examines the transfer of a co-evolved communication mechanism between two robotic agents from a discrete two-dimensional (2D) simulator to a three-dimensional simulator with real physics (3D). The study focuses on whether a…",
+          "authors": "Fernando Montes-Gonzalez"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 1,
       "items": [
         {
-          "title": "Benchmarking Label-Revealed Online Updates for EEG BCI Decoding",
-          "url": "https://arxiv.org/abs/2610.07420",
-          "publishedDate": "Wed, 07 Oct 2026 00:00:00 -0400",
+          "title": "A Proof-of-Concept Study of Weakly Supervised Labeling of Fine-Grained EEG Components for Artifact Attenuation",
+          "url": "https://arxiv.org/abs/2610.09792",
+          "publishedDate": "Thu, 08 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Electroencephalography (EEG) signals drift over time, which can cause static brain-computer interface (BCI) models to degrade in practice. We present a benchmark for online adaptation and compare two widely used pipeline families, Common…",
-          "authors": "Bogdan Kozyrskiy, Artem Grachev, Abraham I. Camelo Guerrero"
-        },
-        {
-          "title": "CANDLE: Cortical Null-Space Decomposition for Noninvasive Brain Source Imaging",
-          "url": "https://arxiv.org/abs/2610.07824",
-          "publishedDate": "Wed, 07 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Electrophysiological source imaging (ESI) aims to estimate cortical source activity from noninvasive electrophysiological measurements such as electroencephalogram (EEG). However, ESI is fundamentally ill-posed because source activity is…",
-          "authors": "Shuntaro Suzuki, Yuiga Wada, Komei Sugiura"
+          "summary": "Electroencephalography (EEG) is highly susceptible to electromyographic (EMG) artifacts, whose temporal heterogeneity and spatial-spectral overlap with neural activity can leave mixed sources after blind source separation. Existing…",
+          "authors": "Lu Wang-Nöth, Hai Huang, Philipp Heiler, Shuqiong Wu, Liyun Zhang, Helmut Mayer"
         }
       ]
     }
