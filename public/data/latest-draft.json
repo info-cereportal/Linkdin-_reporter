@@ -1,27 +1,28 @@
 {
-  "generatedAt": "2026-10-09T02:32:19.543Z",
-  "date": "2026-10-09",
-  "topic": "fMRIとPET",
-  "templateName": "paradigm-shift",
+  "generatedAt": "2026-10-10T01:53:49.479Z",
+  "date": "2026-10-10",
+  "topic": "表現学習と神経ダイナミクス",
+  "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "MovieSTAGE: Scene, Transition, and Global Encoding for Movie-fMRI ADHD Classification",
-  "paperLink": "https://arxiv.org/abs/2610.09306",
-  "figureUrl": "https://arxiv.org/html/2610.09306/2610.09306v1/main_figure_V2.png",
-  "formatted": "fMRIとPETに関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 fMRI × PET\n\n📊 注目すべきデータ：\n→ MovieSTAGE achieved AUROCs of 0.69, 0.73, and 0.75 and balanced accuracies of 67.6%, 69.8%, and 58.3%, respectively, yielding the highest mean point estimates among the evaluated...\n→ On the three-class task, the full model outperformed all two-branch variants, the HGNN scene encoder outperformed MLP, GAT, and BNT alternatives under matched settings, and the...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\n神経デコーディングの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 MovieSTAGE: Scene, Transition, and Global Encoding for Movie-fMRI ADHD Classification\n🔗 https://arxiv.org/abs/2610.09306\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #認知科学",
-  "summaryJP": "fMRIとPET — 通説を揺さぶる新たな知見（神経デコーディング）",
-  "paperAuthors": "Boseong Kim, Haejun Chung, Ikbeom Jang",
-  "publishedDate": "Thu, 08 Oct 2026 00:00:00 -0400",
-  "paperId": "2610.09306",
+  "paperTitle": "Cross-species representation learning aligns mouse and human neural dynamics and tracks clinical drug efficacy",
+  "paperLink": "https://arxiv.org/abs/2610.11222",
+  "figureUrl": "https://arxiv.org/html/2610.11222/2610.11222v1/figures/fig1.png",
+  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、表現学習と神経ダイナミクスの新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 表現学習 × 神経ダイナミクス × 学習\n\n> Preclinical models poorly predict human drug efficacy, particularly in neurological disorders. Neural activity offers a uniquely rich source of translational information because it captures high-dimensional variation in nervous-system function that can be measured in both...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Cross-species representation learning aligns mouse and human neural dynamics and tracks clinical drug efficacy\n🔗 https://arxiv.org/abs/2610.11222\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #NeuroAI",
+  "summaryJP": "表現学習と神経ダイナミクス — 数値で示された新事実（神経デコーディング）",
+  "paperAuthors": "Marko Tvrdic, Justin Richmond Domingo, Jae Ann Buenaluz, Jydell Ashley Palomo Penollar, Edmayelle Villavicencio Alforja, Jobi Fallaeria Subosa, Gabriel Ocana-Santero",
+  "publishedDate": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "paperId": "2610.11222",
   "paperSource": "arxiv",
   "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "fMRI",
-    "PET"
+    "表現学習",
+    "神経ダイナミクス",
+    "学習"
   ],
-  "abstractExcerpt": "Naturalistic movie-fMRI provides a shared, temporally structured probe of brain dynamics, yet predictive models commonly rely on whole-run functional connectivity (FC) or temporally generic representations that are not aligned with…",
+  "abstractExcerpt": "Preclinical models poorly predict human drug efficacy, particularly in neurological disorders. Neural activity offers a uniquely rich source of translational information because it captures high-dimensional variation in nervous-system…",
   "figureUrls": [
-    "https://arxiv.org/html/2610.09306/2610.09306v1/main_figure_V2.png",
-    "https://arxiv.org/html/2610.09306/2610.09306v1/Interpretability_Analysis_V8.png",
-    "https://arxiv.org/html/2610.09306/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
+    "https://arxiv.org/html/2610.11222/2610.11222v1/figures/fig1.png",
+    "https://arxiv.org/html/2610.11222/2610.11222v1/figures/fig2.png",
+    "https://arxiv.org/html/2610.11222/2610.11222v1/figures/fig3.png"
   ]
 }

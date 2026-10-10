@@ -1,5 +1,33 @@
 [
   {
+    "generatedAt": "2026-10-10T01:53:49.479Z",
+    "date": "2026-10-10",
+    "topic": "表現学習と神経ダイナミクス",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Cross-species representation learning aligns mouse and human neural dynamics and tracks clinical drug efficacy",
+    "paperLink": "https://arxiv.org/abs/2610.11222",
+    "figureUrl": "https://arxiv.org/html/2610.11222/2610.11222v1/figures/fig1.png",
+    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、表現学習と神経ダイナミクスの新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 表現学習 × 神経ダイナミクス × 学習\n\n> Preclinical models poorly predict human drug efficacy, particularly in neurological disorders. Neural activity offers a uniquely rich source of translational information because it captures high-dimensional variation in nervous-system function that can be measured in both...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Cross-species representation learning aligns mouse and human neural dynamics and tracks clinical drug efficacy\n🔗 https://arxiv.org/abs/2610.11222\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #NeuroAI",
+    "summaryJP": "表現学習と神経ダイナミクス — 数値で示された新事実（神経デコーディング）",
+    "paperAuthors": "Marko Tvrdic, Justin Richmond Domingo, Jae Ann Buenaluz, Jydell Ashley Palomo Penollar, Edmayelle Villavicencio Alforja, Jobi Fallaeria Subosa, Gabriel Ocana-Santero",
+    "publishedDate": "Fri, 09 Oct 2026 00:00:00 -0400",
+    "paperId": "2610.11222",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "表現学習",
+      "神経ダイナミクス",
+      "学習"
+    ],
+    "abstractExcerpt": "Preclinical models poorly predict human drug efficacy, particularly in neurological disorders. Neural activity offers a uniquely rich source of translational information because it captures high-dimensional variation in nervous-system…",
+    "figureUrls": [
+      "https://arxiv.org/html/2610.11222/2610.11222v1/figures/fig1.png",
+      "https://arxiv.org/html/2610.11222/2610.11222v1/figures/fig2.png",
+      "https://arxiv.org/html/2610.11222/2610.11222v1/figures/fig3.png"
+    ]
+  },
+  {
     "generatedAt": "2026-10-09T02:32:19.543Z",
     "date": "2026-10-09",
     "topic": "fMRIとPET",
@@ -1230,35 +1258,6 @@
       "https://arxiv.org/html/2608.20186/2608.20186v1/figures/figure_01_paradigm_and_pipeline.png",
       "https://arxiv.org/html/2608.20186/2608.20186v1/figures/figure_02_evaluation_regimes.png",
       "https://arxiv.org/html/2608.20186/2608.20186v1/figures/figure_03_decomposition.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-08-20T22:59:36.105Z",
-    "date": "2026-08-20",
-    "topic": "視覚野と学習",
-    "templateName": "neuro-ai-bridge",
-    "riskScore": 0,
-    "paperTitle": "Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field",
-    "paperLink": "https://arxiv.org/abs/2607.19316",
-    "figureUrl": "https://arxiv.org/html/2607.19316/2607.19316v2/figs/model_diagram/fig1_resnet18_simclr_600dpi.png",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n視覚野と学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 視覚野 × 学習 × fMRI × ECoG(皮質脳波)\n\n> In the primate visual system, center-preferring cortical populations have higher spatial resolution and overlap face- and word-selective regions while periphery-preferring populations have lower spatial resolution and overlap scene-selective regions. This \"eccentricity bias\" may...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field\n🔗 https://arxiv.org/abs/2607.19316\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #計算論的神経科学",
-    "summaryJP": "視覚野と学習 — 脳科学とAIをつなぐ研究（神経デコーディング）",
-    "paperAuthors": "Dylan M. Diaz, Margaret M. Henderson",
-    "publishedDate": "Thu, 20 Aug 2026 00:00:00 -0400",
-    "paperId": "2607.19316",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "視覚野",
-      "学習",
-      "fMRI",
-      "ECoG(皮質脳波)"
-    ],
-    "abstractExcerpt": "In the primate visual system, center-preferring cortical populations have higher spatial resolution and overlap face- and word-selective regions while periphery-preferring populations have lower spatial resolution and overlap…",
-    "figureUrls": [
-      "https://arxiv.org/html/2607.19316/2607.19316v2/figs/model_diagram/fig1_resnet18_simclr_600dpi.png",
-      "https://arxiv.org/html/2607.19316/2607.19316v2/figs/curves/Curves_Combined_All.png",
-      "https://arxiv.org/html/2607.19316/2607.19316v2/figs/fmri/EncModel_R2All.png"
     ]
   }
 ]
