@@ -1,28 +1,21 @@
 {
-  "generatedAt": "2026-10-10T01:53:49.479Z",
-  "date": "2026-10-10",
-  "topic": "表現学習と神経ダイナミクス",
-  "templateName": "data-driven",
+  "generatedAt": "2026-10-11T01:13:16.450Z",
+  "date": "2026-10-11",
+  "topic": "注意機構",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Cross-species representation learning aligns mouse and human neural dynamics and tracks clinical drug efficacy",
-  "paperLink": "https://arxiv.org/abs/2610.11222",
-  "figureUrl": "https://arxiv.org/html/2610.11222/2610.11222v1/figures/fig1.png",
-  "formatted": "脳科学の最前線から、衝撃の一報です。\n\n数字が語る、表現学習と神経ダイナミクスの新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 表現学習 × 神経ダイナミクス × 学習\n\n> Preclinical models poorly predict human drug efficacy, particularly in neurological disorders. Neural activity offers a uniquely rich source of translational information because it captures high-dimensional variation in nervous-system function that can be measured in both...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Cross-species representation learning aligns mouse and human neural dynamics and tracks clinical drug efficacy\n🔗 https://arxiv.org/abs/2610.11222\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #NeuroAI",
-  "summaryJP": "表現学習と神経ダイナミクス — 数値で示された新事実（神経デコーディング）",
-  "paperAuthors": "Marko Tvrdic, Justin Richmond Domingo, Jae Ann Buenaluz, Jydell Ashley Palomo Penollar, Edmayelle Villavicencio Alforja, Jobi Fallaeria Subosa, Gabriel Ocana-Santero",
-  "publishedDate": "Fri, 09 Oct 2026 00:00:00 -0400",
-  "paperId": "2610.11222",
-  "paperSource": "arxiv",
+  "paperTitle": "STSC-GNN: A sequence-derived topology-aware graph neural network for solvent-conditioned prediction of peptide structural composition.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42854309/",
+  "formatted": "研究者もエンジニアも、この論文は必読です。\n\nこの研究から得られる3つの重要な示唆。\n\n注意機構の最新成果を整理しました。\n\n🔬 注意機構\n\n📊 注目すべきデータ：\n→ Three graph neural network backbones, GCN, GAT, and GIN, were evaluated on the Test set using MAE and Accuracy at a tolerance of 0.10, with performance assessed across five...\n→ GIN achieved the lowest Test MAE and highest Test Accuracy among the evaluated STSC-GNN variants on the independent Test set, with an MAE of 0.0977&#x202f;&#xb1;&#x202f;0.0005 and...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 STSC-GNN: A sequence-derived topology-aware graph neural network for solvent-conditioned prediction of peptide structural composition.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42854309/\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #BCI",
+  "summaryJP": "注意機構 — 注目すべき3つの示唆（神経デコーディング）",
+  "paperAuthors": "Hasnain Ali",
+  "publishedDate": "2026-10-09",
+  "paperId": "42854309",
+  "paperSource": "pubmed",
   "themeArea": "神経デコーディング",
   "jpKeywords": [
-    "表現学習",
-    "神経ダイナミクス",
-    "学習"
+    "注意機構"
   ],
-  "abstractExcerpt": "Preclinical models poorly predict human drug efficacy, particularly in neurological disorders. Neural activity offers a uniquely rich source of translational information because it captures high-dimensional variation in nervous-system…",
-  "figureUrls": [
-    "https://arxiv.org/html/2610.11222/2610.11222v1/figures/fig1.png",
-    "https://arxiv.org/html/2610.11222/2610.11222v1/figures/fig2.png",
-    "https://arxiv.org/html/2610.11222/2610.11222v1/figures/fig3.png"
-  ]
+  "abstractExcerpt": "Peptide structural composition is strongly influenced by the surrounding solvent environment, making environment-dependent structural prediction important for understanding peptide conformational behavior and structural plasticity.…",
+  "figureUrls": []
 }
