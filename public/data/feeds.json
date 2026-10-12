@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T01:13:17.192Z",
+  "generatedAt": "2026-10-12T01:44:01.321Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,51 +69,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Americans trust science more than peers around the world, survey shows",
-          "url": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
-          "publishedDate": "Sat, 10 Oct 2026 23:01:00 +0000",
-          "source": "statnews.com",
-          "summary": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.",
-          "authors": "Nicholas Florko"
-        },
-        {
-          "title": "Loneliness may steal nearly 6 years of good health",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
-          "publishedDate": "Sat, 10 Oct 2026 14:57:02 EDT",
+          "title": "The eye has a hidden cleanup system scientists never knew existed",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
+          "publishedDate": "Sun, 11 Oct 2026 02:01:54 EDT",
           "source": "sciencedaily.com",
-          "summary": "A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health. Men experiencing both lost about 5.8 years free from depression and anxiety, while women lost roughly…",
+          "summary": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma,…",
           "authors": ""
         },
         {
-          "title": "Bowel cancer “melted away” after immunotherapy, then stayed away",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261007042115.htm",
-          "publishedDate": "Sat, 10 Oct 2026 14:42:35 EDT",
+          "title": "Eating olive oil before carbs has a surprising effect on blood sugar",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008102700.htm",
+          "publishedDate": "Sun, 11 Oct 2026 00:32:03 EDT",
           "source": "sciencedaily.com",
-          "summary": "A short course of immunotherapy before surgery may offer remarkably durable protection for some patients with stage two or three bowel cancer. In the NEOPRISM-CRC trial, 32 patients with a specific genetic form of bowel cancer received…",
+          "summary": "A simple change in the order you eat your food could help prevent blood sugar spikes. Scientists discovered that giving mice olive oil before carbohydrates slowed digestion and activated a surprising combination of hormones and nerve…",
           "authors": ""
         },
         {
-          "title": "Scientists may have found why diabetic wounds refuse to heal",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261006234534.htm",
-          "publishedDate": "Fri, 09 Oct 2026 23:00:35 EDT",
+          "title": "A plastic once thought harmless may be fueling fatty liver disease",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm",
+          "publishedDate": "Sat, 10 Oct 2026 20:47:05 EDT",
           "source": "sciencedaily.com",
-          "summary": "Chronic diabetic wounds may fail to heal because immune cells remain locked in damaging inflammatory states instead of transitioning toward tissue repair. Researchers are exploring treatments that reprogram these immune responses, raising…",
+          "summary": "One of the world&#039;s most common plastics may pose a hidden threat to liver health. Texas A&M researchers discovered that polyethylene microplastics can contribute to fatty liver disease, with potentially worse effects when combined…",
           "authors": ""
         },
         {
-          "title": "STAT+: Biotech leader, leading lab leak theorist no longer in consideration for top infectious disease role",
-          "url": "https://www.statnews.com/2026/10/09/steven-quay-no-longer-in-consideration-for-top-infectious-disease-role/?utm_campaign=rss",
-          "publishedDate": "Fri, 09 Oct 2026 21:03:52 +0000",
-          "source": "statnews.com",
-          "summary": "Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.",
-          "authors": "Chelsea Cirruzzo and Anil Oza"
+          "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
+          "publishedDate": "Sat, 10 Oct 2026 20:45:37 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Neanderthals may have used a sticky substance made from birch bark to treat wounds thousands of years before antibiotics existed. Researchers recreated ancient birch tar production techniques and discovered that every sample could inhibit…",
+          "authors": ""
         },
         {
-          "title": "Scientists discover 5 hidden brain patterns behind depression",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
-          "publishedDate": "Fri, 09 Oct 2026 14:34:02 EDT",
+          "title": "Scientists created a tiny device that can control your nerves to treat chronic pain",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008005253.htm",
+          "publishedDate": "Sat, 10 Oct 2026 20:23:19 EDT",
           "source": "sciencedaily.com",
-          "summary": "Depression may not be one biological condition, but several distinct patterns of brain activity hiding under the same diagnosis. Researchers studying 263 people with depression identified five brain profiles, each showing different…",
+          "summary": "Scientists have developed a tiny, injectable device that can control nerve activity without surgery, batteries, or wires, potentially transforming treatment for chronic pain and movement disorders. Powered wirelessly from outside the body,…",
+          "authors": ""
+        },
+        {
+          "title": "A surprisingly simple way to relieve knee arthritis pain without pills or surgery",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261009025434.htm",
+          "publishedDate": "Sat, 10 Oct 2026 20:00:24 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A surprisingly simple change in how you walk could help relieve knee arthritis pain and even slow joint damage. In a year-long clinical trial, researchers found that adjusting the angle of a person&#039;s foot while walking reduced…",
           "authors": ""
         }
       ]

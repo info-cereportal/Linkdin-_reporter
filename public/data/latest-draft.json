@@ -1,21 +1,22 @@
 {
-  "generatedAt": "2026-10-11T01:13:16.450Z",
-  "date": "2026-10-11",
-  "topic": "注意機構",
-  "templateName": "three-insights",
+  "generatedAt": "2026-10-12T01:44:00.627Z",
+  "date": "2026-10-12",
+  "topic": "神経伝達物質とコネクトーム",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "STSC-GNN: A sequence-derived topology-aware graph neural network for solvent-conditioned prediction of peptide structural composition.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42854309/",
-  "formatted": "研究者もエンジニアも、この論文は必読です。\n\nこの研究から得られる3つの重要な示唆。\n\n注意機構の最新成果を整理しました。\n\n🔬 注意機構\n\n📊 注目すべきデータ：\n→ Three graph neural network backbones, GCN, GAT, and GIN, were evaluated on the Test set using MAE and Accuracy at a tolerance of 0.10, with performance assessed across five...\n→ GIN achieved the lowest Test MAE and highest Test Accuracy among the evaluated STSC-GNN variants on the independent Test set, with an MAE of 0.0977&#x202f;&#xb1;&#x202f;0.0005 and...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 STSC-GNN: A sequence-derived topology-aware graph neural network for solvent-conditioned prediction of peptide structural composition.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42854309/\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #BCI",
-  "summaryJP": "注意機構 — 注目すべき3つの示唆（神経デコーディング）",
-  "paperAuthors": "Hasnain Ali",
-  "publishedDate": "2026-10-09",
-  "paperId": "42854309",
+  "paperTitle": "Patient-specific functional networks track early cognitive alterations and minor hallucinations in Parkinson's disease.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42859526/",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n神経伝達物質とコネクトームの最新研究です。\n\n🔬 神経伝達物質 × コネクトーム\n\n📊 注目すべきデータ：\n→ Minor hallucinations (MHs) affect up to 40% of patients with Parkinson's disease (PD) and are early indicators of cognitive decline.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Patient-specific functional networks track early cognitive alterations and minor hallucinations in Parkinson's disease.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42859526/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #計算論的神経科学",
+  "summaryJP": "神経伝達物質とコネクトーム — 次世代へ続く布石（コネクトミクス・回路解析）",
+  "paperAuthors": "Sara Stampacchia, Fosco Bernasconi, Dimitri Van De Ville, Enrico Amico, Lada Kohoutov&#xe1;, John-Paul Taylor",
+  "publishedDate": "2026-10-11",
+  "paperId": "42859526",
   "paperSource": "pubmed",
-  "themeArea": "神経デコーディング",
+  "themeArea": "コネクトミクス・回路解析",
   "jpKeywords": [
-    "注意機構"
+    "神経伝達物質",
+    "コネクトーム"
   ],
-  "abstractExcerpt": "Peptide structural composition is strongly influenced by the surrounding solvent environment, making environment-dependent structural prediction important for understanding peptide conformational behavior and structural plasticity.…",
+  "abstractExcerpt": "Minor hallucinations (MHs) affect up to 40% of patients with Parkinson's disease (PD) and are early indicators of cognitive decline. Unlike previous group-level studies, connectome-based brain fingerprinting enables the capture of…",
   "figureUrls": []
 }
