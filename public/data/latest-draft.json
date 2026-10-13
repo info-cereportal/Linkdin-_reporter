@@ -1,22 +1,21 @@
 {
-  "generatedAt": "2026-10-12T01:44:00.627Z",
-  "date": "2026-10-12",
-  "topic": "神経伝達物質とコネクトーム",
-  "templateName": "future-vision",
+  "generatedAt": "2026-10-13T03:09:38.332Z",
+  "date": "2026-10-13",
+  "topic": "情動",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Patient-specific functional networks track early cognitive alterations and minor hallucinations in Parkinson's disease.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42859526/",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n神経伝達物質とコネクトームの最新研究です。\n\n🔬 神経伝達物質 × コネクトーム\n\n📊 注目すべきデータ：\n→ Minor hallucinations (MHs) affect up to 40% of patients with Parkinson's disease (PD) and are early indicators of cognitive decline.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Patient-specific functional networks track early cognitive alterations and minor hallucinations in Parkinson's disease.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42859526/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #計算論的神経科学",
-  "summaryJP": "神経伝達物質とコネクトーム — 次世代へ続く布石（コネクトミクス・回路解析）",
-  "paperAuthors": "Sara Stampacchia, Fosco Bernasconi, Dimitri Van De Ville, Enrico Amico, Lada Kohoutov&#xe1;, John-Paul Taylor",
-  "publishedDate": "2026-10-11",
-  "paperId": "42859526",
-  "paperSource": "pubmed",
-  "themeArea": "コネクトミクス・回路解析",
+  "paperTitle": "Cultural evolution shaped human's uniquely sensitive disgust avoidance",
+  "paperLink": "https://arxiv.org/abs/2008.13211",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n脳科学とAI——その境界線が消えつつある。\n\n情動に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 情動\n\n> Disgust is an emotion that serves to avoid contaminants, and is central to the behavioural immune system. While disgust-motivated avoidance occurs in bonobos and chimpanzees, humans show uniquely high levels of contamination sensitivity.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n脳情報科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Cultural evolution shaped human's uniquely sensitive disgust avoidance\n🔗 https://arxiv.org/abs/2008.13211\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #ニューロテック",
+  "summaryJP": "情動 — 脳科学とAIをつなぐ研究",
+  "paperAuthors": "Edwin S. Dalmaijer, Thomas Armstrong",
+  "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
+  "paperId": "2008.13211",
+  "paperSource": "arxiv",
+  "themeArea": "脳情報科学",
   "jpKeywords": [
-    "神経伝達物質",
-    "コネクトーム"
+    "情動"
   ],
-  "abstractExcerpt": "Minor hallucinations (MHs) affect up to 40% of patients with Parkinson's disease (PD) and are early indicators of cognitive decline. Unlike previous group-level studies, connectome-based brain fingerprinting enables the capture of…",
+  "abstractExcerpt": "Disgust is an emotion that serves to avoid contaminants, and is central to the behavioural immune system. While disgust-motivated avoidance occurs in bonobos and chimpanzees, humans show uniquely high levels of contamination sensitivity.…",
   "figureUrls": []
 }

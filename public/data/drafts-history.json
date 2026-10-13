@@ -1,5 +1,26 @@
 [
   {
+    "generatedAt": "2026-10-13T03:09:38.332Z",
+    "date": "2026-10-13",
+    "topic": "情動",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Cultural evolution shaped human's uniquely sensitive disgust avoidance",
+    "paperLink": "https://arxiv.org/abs/2008.13211",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n脳科学とAI——その境界線が消えつつある。\n\n情動に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 情動\n\n> Disgust is an emotion that serves to avoid contaminants, and is central to the behavioural immune system. While disgust-motivated avoidance occurs in bonobos and chimpanzees, humans show uniquely high levels of contamination sensitivity.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n脳情報科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Cultural evolution shaped human's uniquely sensitive disgust avoidance\n🔗 https://arxiv.org/abs/2008.13211\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #DeepLearning #ニューロテック",
+    "summaryJP": "情動 — 脳科学とAIをつなぐ研究",
+    "paperAuthors": "Edwin S. Dalmaijer, Thomas Armstrong",
+    "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
+    "paperId": "2008.13211",
+    "paperSource": "arxiv",
+    "themeArea": "脳情報科学",
+    "jpKeywords": [
+      "情動"
+    ],
+    "abstractExcerpt": "Disgust is an emotion that serves to avoid contaminants, and is central to the behavioural immune system. While disgust-motivated avoidance occurs in bonobos and chimpanzees, humans show uniquely high levels of contamination sensitivity.…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-10-12T01:44:00.627Z",
     "date": "2026-10-12",
     "topic": "神経伝達物質とコネクトーム",
@@ -1226,27 +1247,5 @@
       "https://arxiv.org/html/2608.09222/2608.09222v2/vi-action.png",
       "https://arxiv.org/html/2608.09222/2608.09222v2/vi-effort.png"
     ]
-  },
-  {
-    "generatedAt": "2026-08-23T22:54:22.918Z",
-    "date": "2026-08-23",
-    "topic": "意思決定と神経ダイナミクス",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Risk attitude and choice consistency identify robust behavioral profiles in decision-making under risk.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42632447/",
-    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n数字が語る、意思決定と神経ダイナミクスの新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 意思決定 × 神経ダイナミクス\n\n📊 注目すべきデータ：\n→ After robust trial-level response-time (RT) outlier screening, psychometric choice functions yielded two risk-attitude descriptors-overall risk attitude and context-dependent...\n→ RT outliers represented 8.7% of analyzed trials and decreased across blocks.\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Risk attitude and choice consistency identify robust behavioral profiles in decision-making under risk.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42632447/\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #神経科学 #BrainComputerInterface",
-    "summaryJP": "意思決定と神経ダイナミクス — 数値で示された新事実（神経デコーディング）",
-    "paperAuthors": "Alessandra Lintas, Alessandro E P Villa",
-    "publishedDate": "2026-08-22",
-    "paperId": "42632447",
-    "paperSource": "pubmed",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "意思決定",
-      "神経ダイナミクス"
-    ],
-    "abstractExcerpt": "Individual differences in risky decision-making may reflect both risk attitude and the consistency with which preferences are expressed. We examined whether complementary behavioral descriptors could identify reproducible participant…",
-    "figureUrls": []
   }
 ]
