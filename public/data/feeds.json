@@ -1,67 +1,34 @@
 {
-  "generatedAt": "2026-10-13T03:09:39.482Z",
+  "generatedAt": "2026-10-14T01:22:01.823Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "FlyHack: Stress-Testing Mechanistic Claims in a Connectome-Constrained Visual Model",
-          "url": "https://arxiv.org/abs/2610.13018",
-          "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Connectome-constrained neural networks make biological components directly accessible to intervention, but their mechanistic conclusions can still depend on the comparison model, intervention, circuit representation and trained solution.…",
-          "authors": "Aashish Dhawan"
-        },
-        {
-          "title": "Excitability across scales: a unifying EI model",
-          "url": "https://arxiv.org/abs/2610.13275",
-          "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Neuronal excitability is commonly modeled using different principles at the cellular and population scales, making it difficult to study how microscopic mechanisms shape macroscopic activity. We introduce a spatiotemporal…",
-          "authors": "Thomas S. J. Burger, Rodolphe Sepulchre"
-        },
-        {
-          "title": "Beyond Anxiety and Avoidance: A Dynamic Feedback-Regulation Framework for Adult Romantic Attachment",
-          "url": "https://arxiv.org/abs/2610.13312",
-          "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Adult attachment is commonly represented by attachment anxiety and avoidance, but these person-level dimensions do not by themselves specify how momentary relational conditions are perceived, compared with desired conditions, translated…",
-          "authors": "Mateusz Pomianek"
-        },
-        {
-          "title": "EEG Entrainment to Non-Speech Rhythmic Patterns Associated with Dimensions of Language Performance",
-          "url": "https://arxiv.org/abs/2610.13419",
-          "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Developmental dyslexia (DLX) affects 5-12% of the global population and impairs learning to read. Its biological basis, particularly the difficulties observed in oral phonological tasks, remains debated. Entrainment, the coupling of brain…",
-          "authors": "Francisco J. Martínez-Murcia, Nicolás J. Gallego-Molina, Marco A. Formoso, Andrés Ortiz"
-        },
-        {
-          "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
-          "url": "https://arxiv.org/abs/2610.13918",
-          "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Clinical sleep medicine repeatedly documents profound divergences between objective sleep duration and subjective daytime impairment, notably exemplified by sleep state misperception in paradoxical insomnia and boundary instability in…",
-          "authors": "Daniel Szelogowski"
-        },
-        {
-          "title": "Decoding Alignment without Encoding Alignment: A critique of similarity analysis in neuroscience",
-          "url": "https://arxiv.org/abs/2605.05907",
-          "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "RSA and CKA are standard metrics for comparing neural representations across brain regions, organisms, and deep learning models. We demonstrate a fundamental weakness: these decoding-based metrics are insensitive to encoding manifold…",
-          "authors": "Johannes Bertram, Luciano Dyballa, T. Anderson Keller, Savik Kinger, Steven W. Zucker"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69",
+          "url": "https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss",
+          "publishedDate": "Tue, 13 Oct 2026 18:11:36 +0000",
+          "source": "statnews.com",
+          "summary": "Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.",
+          "authors": "Andrew Joseph"
+        },
+        {
+          "title": "How many ways can the Trump administration clamp down on international researchers?",
+          "url": "https://www.statnews.com/2026/10/13/health-news-trump-admin-clamps-down-on-international-researchers/?utm_campaign=rss",
+          "publishedDate": "Tue, 13 Oct 2026 11:46:54 +0000",
+          "source": "statnews.com",
+          "summary": "In the span of two days last week, the Trump administration issued two sweeping announcements meant to crack down on international students and scholars, who make up a sizable portion&#8230;",
+          "authors": "Amanda Erickson, Theresa Gaffney,and Jonathan Wosen"
+        },
         {
           "title": "Americans trust science more than peers around the world, survey shows",
           "url": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
@@ -93,22 +60,6 @@
           "source": "statnews.com",
           "summary": "With research on abortion access barriers, STAT Wunderkind Betsy Pleasants is defining a framework for using AI tools without losing sight of the people behind the data.",
           "authors": "Justin Chen"
-        },
-        {
-          "title": "FDA says its safety review of abortion pill will continue into next year",
-          "url": "https://www.statnews.com/2026/10/08/fda-mifepristone-abortion-pill-safety-review-continue-into-2027/?utm_campaign=rss",
-          "publishedDate": "Thu, 08 Oct 2026 15:02:53 +0000",
-          "source": "statnews.com",
-          "summary": "The FDA says its ongoing safety review of the nation's main abortion pill will continue into next year, a timeline that was quickly condemned by abortion opponents.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "The Nobel boys club (again)",
-          "url": "https://www.statnews.com/2026/10/08/health-news-nobel-boys-club-again-2026-winners/?utm_campaign=rss",
-          "publishedDate": "Thu, 08 Oct 2026 11:53:27 +0000",
-          "source": "statnews.com",
-          "summary": "All six Nobel awardees in physiology or medicine, physics, and chemistry this year were men. Women make up 4% of laureates since the award’s inception.",
-          "authors": "O. Rose Broderick"
         }
       ]
     },
@@ -118,51 +69,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Popular weight loss drugs linked to a surprising fingernail problem",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261011211604.htm",
-          "publishedDate": "Mon, 12 Oct 2026 05:34:48 EDT",
+          "title": "Scientists discover a surprising paradox in how our cells age",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185009.htm",
+          "publishedDate": "Tue, 13 Oct 2026 07:01:38 EDT",
           "source": "sciencedaily.com",
-          "summary": "Popular GLP-1 weight loss drugs, such as Ozempic and Wegovy, have been linked to unexpectedly high rates of nail detachment, hair loss, and scalp inflammation, with some problems occurring several times more frequently among users.…",
+          "summary": "Scientists have discovered that the body&#039;s cellular recycling system behaves very differently during aging than previously believed, with higher activity sometimes linked to worse physical health. A small study suggests that even…",
           "authors": ""
         },
         {
-          "title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
-          "publishedDate": "Mon, 12 Oct 2026 05:23:55 EDT",
+          "title": "Scientists uncover a hidden map of the brain with 539 distinct regions",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
+          "publishedDate": "Tue, 13 Oct 2026 01:00:55 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists discovered that declining levels of a protein called Menin may help drive aging, and restoring it in older mice reversed several age-related changes in just 30 days. Even more surprisingly, supplementing with a simple amino acid…",
+          "summary": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication. By analyzing millions of measurements from…",
           "authors": ""
         },
         {
-          "title": "Scientists discover vanilla’s hidden healing potential",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
-          "publishedDate": "Mon, 12 Oct 2026 00:34:24 EDT",
+          "title": "Scientists just gave the powerhouses of our cells a high-tech upgrade",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm",
+          "publishedDate": "Mon, 12 Oct 2026 21:33:58 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that vanillin, the compound that gives vanilla its distinctive flavor, has powerful properties that could help fight infections, reduce inflammation, and promote wound healing. The inexpensive, widely available…",
+          "summary": "Scientists have created a new coating for mitochondria that preserves their ability to produce energy, potentially opening the door to new treatments for diseases involving these tiny cellular powerhouses. The technology could one day help…",
           "authors": ""
         },
         {
-          "title": "Just 10 minutes of daily exercise could unlock deeper sleep",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
-          "publishedDate": "Sun, 11 Oct 2026 20:51:31 EDT",
+          "title": "After 30 years, scientists finally have a drug for a deadly brain disease",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261007042111.htm",
+          "publishedDate": "Mon, 12 Oct 2026 20:43:43 EDT",
           "source": "sciencedaily.com",
-          "summary": "Getting better sleep might be as simple as moving a little more every day. Researchers at The University of Texas at Austin found that people who exercised more frequently experienced more deep, restorative sleep, which is essential for…",
+          "summary": "The FDA has approved the first drug that directly targets Alexander disease, a devastating neurological disorder affecting fewer than one in a million people. Developed through decades of research, Zanvastro showed promising results in…",
           "authors": ""
         },
         {
-          "title": "The hidden math of Alzheimer&#039;s could point to new treatments",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261008102714.htm",
-          "publishedDate": "Sun, 11 Oct 2026 15:24:25 EDT",
+          "title": "Scientists find a hidden problem with endless smartphone scrolling",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261011211611.htm",
+          "publishedDate": "Mon, 12 Oct 2026 18:25:50 EDT",
           "source": "sciencedaily.com",
-          "summary": "Mathematics may hold unexpected clues to understanding Alzheimer’s disease. Scientists have developed a model showing how common metals like copper and zinc may influence the buildup of proteins associated with the disease, while also…",
+          "summary": "Excessive smartphone use may be taking a hidden toll on the brain and body, with heavy scrolling linked to poorer memory, reduced attention, disrupted sleep, and potential balance problems. Researchers found that weak self-control and fear…",
           "authors": ""
         },
         {
-          "title": "New injection makes fat cells self-destruct",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261008102713.htm",
-          "publishedDate": "Sun, 11 Oct 2026 11:08:28 EDT",
+          "title": "Your gut bacteria could be changing how many calories you absorb",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261011211613.htm",
+          "publishedDate": "Mon, 12 Oct 2026 17:44:16 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have developed an experimental injection that destroys fat cells and significantly reduces dangerous belly fat, potentially opening a new path to treating obesity. Early research also suggests it could help prevent the weight…",
+          "summary": "Scientists have developed a model showing that gut bacteria play a surprisingly important role in how many calories we absorb, meaning food labels may not tell the full story. In a controlled study, people eating a high-fiber diet absorbed…",
           "authors": ""
         }
       ]
@@ -170,78 +121,61 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Neuromorphic Satellite Intelligence: A Formal Framework for Event-Driven Architectures, Spike-Based Algorithms, and Quantitative Energy-Accuracy Trade-offs",
-          "url": "https://arxiv.org/abs/2610.12471",
-          "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Satellite onboard computing faces an irreducible tension: mission intelligence requirements grow monotonically while power, mass, and radiation budgets remain fixed. This paper advances the state of the art on three fronts. First, we…",
-          "authors": "Suresh Kumar TP, Vikas Agnihotri"
-        },
-        {
-          "title": "Energy-Efficient Spiking Neural Networks for Sensing-Aided Beam Prediction",
-          "url": "https://arxiv.org/abs/2610.12507",
-          "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Sensing-aided beam prediction can reduce the beam-training overhead of millimeter-wave (mmWave) systems by leveraging environmental information from complementary modalities such as vision and position. However, the resulting sensing and…",
-          "authors": "Nhan Thanh Nguyen, Phuong Nam Tran, Mengyuan Ma, Huy T. Nguyen, Ahmed Alkhateeb, Markku Juntti"
-        },
-        {
-          "title": "REMBGO for Evaluation-Limited Optimization: CEC2022 Benchmarking and EAF-STATCOM Generalization",
-          "url": "https://arxiv.org/abs/2610.13471",
-          "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Metaheuristic comparisons are often reported at evaluation budgets far larger than an expensive engineering simulation can afford. This paper presents REMBGO, an evaluation-budget-aware refinement of EMBGO. Its contribution is not any…",
-          "authors": "Vikram Chekuri, Narapareddy Ramarao, Prashanth N A"
-        },
-        {
-          "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
-          "url": "https://arxiv.org/abs/2610.13918",
-          "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Clinical sleep medicine repeatedly documents profound divergences between objective sleep duration and subjective daytime impairment, notably exemplified by sleep state misperception in paradoxical insomnia and boundary instability in…",
-          "authors": "Daniel Szelogowski"
-        },
-        {
-          "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
-          "url": "https://arxiv.org/abs/2610.12536",
-          "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solutions to guide new proposals, edits of existing solutions, and remixes of several…",
-          "authors": "Stuart Farmer"
-        },
-        {
-          "title": "The value of information and the emergence of communication in evolved e-puck robots",
-          "url": "https://arxiv.org/abs/2610.13118",
-          "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We study when communication emerges between autonomous agents and what role an innate action selection architecture plays. Two e-puck robots, reconstructed in PyBullet from their Webots model and validated against it, must find a feeding…",
-          "authors": "Fernando Montes-Gonzalez"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Blind and Asynchronous Initial Beam Acquisition and Clock-Assisted Re-Acquisition in Standalone Mobile MIMO-OFDM Systems",
-          "url": "https://arxiv.org/abs/2610.13436",
-          "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Building upon our preliminary study, this paper proposes a standalone beam-management framework for mobile MIMO-OFDM systems that integrates Blind Initial Beam Acquisition (BIBA) with Clock-Assisted Re-Acquisition (CARA). BIBA is a blind…",
-          "authors": "Ali Abdi, Firooz B. Saghezchi, Haris Gacanin"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
         },
         {
-          "title": "Expert-level detection of low-voltage intervals in EEG as a robust biomarker of neonatal encephalopathy",
-          "url": "https://arxiv.org/abs/2610.12680",
-          "publishedDate": "Mon, 12 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Background: Discontinuity in neonatal EEG is a critical marker of brain dysfunction but can be difficult to quantify visually. Inter-burst intervals (IBIs) are a key characteristic of discontinuity, yet their definition does not easily…",
-          "authors": "John M. O'Toole, Sean R. Mathieson, Aurel Luca, Soraia Ventura, Sean Griffin, Geraldine B. Boylan, Robert Hogan"
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }

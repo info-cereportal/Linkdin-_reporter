@@ -1,5 +1,28 @@
 [
   {
+    "generatedAt": "2026-10-14T01:22:00.741Z",
+    "date": "2026-10-14",
+    "topic": "ブレイン・コンピュータ・インターフェース(BCI)とニューラルインターフェース",
+    "templateName": "provocative-question",
+    "riskScore": 0,
+    "paperTitle": "Terahertz liquid networks: a mesoscopic passive architecture for circumventing physical deadlocks in brain-computer interfaces.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42866037/",
+    "formatted": "ブレイン・コンピュータ・インターフェース(BCI)とニューラルインターフェースについて、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × ニューラルインターフェース × ニューロモデュレーション\n\n📊 注目すべきデータ：\n→ This transition grants the system superior biocompatibility and endows it with disease-modifying potential targeting underlying pathologies, establishing a trajectory for...\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかしBCI・ニューラルインターフェースの文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Terahertz liquid networks: a mesoscopic passive architecture for circumventing physical deadlocks in brain-computer interfaces.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42866037/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #認知科学",
+    "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)とニューラルインターフェース — 常識への問題提起（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Chenyan Zhou, Xinran Ding, Jiamin Zhao, Xuanhao Gu, Zhengyang Xu",
+    "publishedDate": "2026-10-13",
+    "paperId": "42866037",
+    "paperSource": "pubmed",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "ブレイン・コンピュータ・インターフェース(BCI)",
+      "ニューラルインターフェース",
+      "ニューロモデュレーション"
+    ],
+    "abstractExcerpt": "Brain-computer interfaces (BCIs) for major neurological disorders face physical and physiological limitations. Mechanical mismatch in rigid microelectrode arrays precipitates chronic immune rejection and irreversible central nervous system…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-10-13T03:09:38.332Z",
     "date": "2026-10-13",
     "topic": "情動",
@@ -1220,32 +1243,6 @@
       "https://arxiv.org/html/2608.21814/2608.21814v1/input_driven_overview.png",
       "https://arxiv.org/html/2608.21814/2608.21814v1/weight_kernel_evolution.png",
       "https://arxiv.org/html/2608.21814/2608.21814v1/basic_replay.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-08-24T22:57:52.645Z",
-    "date": "2026-08-24",
-    "topic": "言語処理",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Reading Cognition as Decisions Unfold in Words: A Factorized Inverse Decision Model",
-    "paperLink": "https://arxiv.org/abs/2608.09222",
-    "figureUrl": "https://arxiv.org/html/2608.09222/2608.09222v2/fig1-5.png",
-    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\nこの研究から得られる3つの重要な示唆。\n\n言語処理の最新成果を整理しました。\n\n🔬 言語処理\n\n> Inverse decision modeling infers latent properties of decision processes from observed behavior, but existing formulations rely primarily on action trajectories. In verbalized cognitive tasks, task execution also produces response dynamics that action-only formulations leave...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Reading Cognition as Decisions Unfold in Words: A Factorized Inverse Decision Model\n🔗 https://arxiv.org/abs/2608.09222\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #ニューロテック",
-    "summaryJP": "言語処理 — 注目すべき3つの示唆（神経デコーディング）",
-    "paperAuthors": "Jiawen Kang, Dongrui Han, Xixin Wu, Helen Meng",
-    "publishedDate": "Mon, 24 Aug 2026 00:00:00 -0400",
-    "paperId": "2608.09222",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "言語処理"
-    ],
-    "abstractExcerpt": "Inverse decision modeling infers latent properties of decision processes from observed behavior, but existing formulations rely primarily on action trajectories. In verbalized cognitive tasks, task execution also produces response dynamics…",
-    "figureUrls": [
-      "https://arxiv.org/html/2608.09222/2608.09222v2/fig1-5.png",
-      "https://arxiv.org/html/2608.09222/2608.09222v2/vi-action.png",
-      "https://arxiv.org/html/2608.09222/2608.09222v2/vi-effort.png"
     ]
   }
 ]
