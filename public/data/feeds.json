@@ -1,18 +1,75 @@
 {
-  "generatedAt": "2026-10-14T01:22:01.823Z",
+  "generatedAt": "2026-10-15T00:49:13.284Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Energy, Information, and the Limits of Neuropsychiatric Classification",
+          "url": "https://arxiv.org/abs/2610.14095",
+          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Importance: The search for reliable neuroimaging biomarkers of mental disorders has remained elusive despite decades of research. Why clinically consequential disorders yield weak neuroimaging separability remains unresolved. Drawing on…",
+          "authors": "Farbod Khodadadi, Mina Kheirkhah, Bita Shariatpanahi, Sarah Alizadeh, Madleen Stenger, Amaia Zurinaga Gutierrez, Shakiba Bakhshian, José C. García Alanis, Nils R. Winter, FOR2107 Consortium, Frank Bremmer, Stefan G. Hofmann, Udo Dannlowski, Tilo Kircher, Sharmili Edwin Thanarajah, Igor Nenadić, Tim Hahn, Hamidreza Jamalabadi"
+        },
+        {
+          "title": "Full Lyapunov Spectra of Random Neural Networks, Part I: Finite-Time and Asymptotic Theory",
+          "url": "https://arxiv.org/abs/2610.14922",
+          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We develop a dynamical mean-field framework for the full finite-time and stationary asymptotic Lyapunov spectra of random recurrent neural networks. At finite observation time, an exact log-determinant representation of tangent-propagator…",
+          "authors": "Haoyu Albert Wang, Wei P. Dai"
+        },
+        {
+          "title": "Predicting Cognitive Tasks from Single-Channel EEG through Task-Semantic Alignment",
+          "url": "https://arxiv.org/abs/2610.15104",
+          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Studies of data scaling in electroencephalography (EEG) and related noninvasive recordings suggest that simple wearable devices could eventually reveal more about cognitive states. However, publicly available EEG data are difficult to…",
+          "authors": "Ryota Kanai"
+        },
+        {
+          "title": "Simple model of neurogliovascular unit activity with noradrenaline leading force",
+          "url": "https://arxiv.org/abs/2610.15263",
+          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "In this work we present a model of a neuroglivascular unit associated with a neuronal ensemble. We combine calcium dynamics in the astrocyte, the cascade of synthesis of arachidonic acid and its derivatives, as well as the activity of the…",
+          "authors": "Andrey Yu. Verisokin, Darya V. Verveyko, Alexey R. Brazhe, Stanislav V. Lagosha"
+        },
+        {
+          "title": "Rethinking World Models for Biosignals",
+          "url": "https://arxiv.org/abs/2610.17510",
+          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "World models promise to learn how systems evolve and respond to actions, enabling simulation, planning and decision-making. Bringing this promise to biosignals requires more than accurate prediction of physiological recordings. We examine…",
+          "authors": "Xianglong Bao, Bosong Huang, Xiaoda Wang, Keqi Han, Carl Yang, Ming Jin, Shirui Pan"
+        },
+        {
+          "title": "Rewiring of adult neural networks - learning from structural plasticity across multiple scales",
+          "url": "https://arxiv.org/abs/2610.18024",
+          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Synaptic connections are continuously formed and eliminated even in adult neuronal networks. This process - called structural plasticity - allows networks to change their topology to learn and adapt to their environment or compensate for…",
+          "authors": "Michael Fauth, Han Lu, Jannik Luboeinski, Johanna Senk, Simone Albani, Valentina Armuzza, Paolo Carloni, Richmond L. Crisostomo, Hermann Cuntz, Ulrich Egert, Eugenio F. Fornasiero, Tobias Gemmeke, Claus C. Hilgetag, Sabine M. Hölter, Patrick Inoue, Björn Kampa, James C. Knight, Susanne Kunkel, Thomas Nowotny, Samora Okujeni, Nicola Palomero-Gallagher, Mariia Popova, Petra Ritter, Giulia Rossetti, Michael Schirner, Marc Spehr, Leon Stefanovski, Gaia Tavosanis, Agata Witkowska, Felix Wolf, Willem Wybo, Sandra Diaz-Pier, Maximilian Lenz, Abigail Morrison, Florian Röhrbein, Stefan Rotter, Johannes Schemmel, Christian Tetzlaff, Andreas Vlachos"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
+          "url": "https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss",
+          "publishedDate": "Wed, 14 Oct 2026 11:53:49 +0000",
+          "source": "statnews.com",
+          "summary": "A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results. A new trial announced&#8230;",
+          "authors": "Theresa Gaffney"
+        },
         {
           "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69",
           "url": "https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss",
@@ -52,14 +109,6 @@
           "source": "statnews.com",
           "summary": "The Trump administration wants to make three big changes to the U.S. Census, including eliminating questions about race, ethnicity, and sexual orientation and excluding anyone who is not a citizen&#8230;",
           "authors": "Sarah Todd"
-        },
-        {
-          "title": "The fall of Roe dramatically changed abortion access. This researcher used Reddit to capture how",
-          "url": "https://www.statnews.com/2026/10/09/betsy-pleasants-stat-wunderkind-abortion-access-reddit-nlp/?utm_campaign=rss",
-          "publishedDate": "Fri, 09 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "With research on abortion access barriers, STAT Wunderkind Betsy Pleasants is defining a framework for using AI tools without losing sight of the people behind the data.",
-          "authors": "Justin Chen"
         }
       ]
     },
@@ -69,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Scientists discover a surprising paradox in how our cells age",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261012185009.htm",
-          "publishedDate": "Tue, 13 Oct 2026 07:01:38 EDT",
+          "title": "Former FDA officials blast DOGE as ‘one of the biggest disasters in American history’",
+          "url": "https://www.statnews.com/2026/10/14/former-fda-commissioners-say-recruit-defend-support-agency-workforce/?utm_campaign=rss",
+          "publishedDate": "Wed, 14 Oct 2026 23:23:20 +0000",
+          "source": "statnews.com",
+          "summary": "Three former FDA chiefs criticized the DOGE cuts to the agency, saying they robbed the FDA of institutional knowledge that will take years to restore.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university",
+          "url": "https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss",
+          "publishedDate": "Wed, 14 Oct 2026 22:13:33 +0000",
+          "source": "statnews.com",
+          "summary": "White House planned shift of research funding from universities to industry risks creating a drought in basic research, science leaders say",
+          "authors": "Megan Molteni"
+        },
+        {
+          "title": "Scientists reveal why some workout recovery tricks can backfire",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
+          "publishedDate": "Wed, 14 Oct 2026 08:04:20 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that the body&#039;s cellular recycling system behaves very differently during aging than previously believed, with higher activity sometimes linked to worse physical health. A small study suggests that even…",
+          "summary": "Ice baths, massages, compression garments, and recovery supplements promise faster muscle recovery, but research suggests their benefits are often overstated, and some techniques may even undermine long-term gains. Scientists say the most…",
           "authors": ""
         },
         {
-          "title": "Scientists uncover a hidden map of the brain with 539 distinct regions",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
-          "publishedDate": "Tue, 13 Oct 2026 01:00:55 EDT",
+          "title": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
+          "publishedDate": "Wed, 14 Oct 2026 07:56:22 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication. By analyzing millions of measurements from…",
+          "summary": "Two unusually long-legged cats have helped scientists uncover the first genetically confirmed cases of Marfan syndrome in domestic felines. Researchers at Cornell University discovered that the brothers carried two altered copies of a gene…",
           "authors": ""
         },
         {
-          "title": "Scientists just gave the powerhouses of our cells a high-tech upgrade",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm",
-          "publishedDate": "Mon, 12 Oct 2026 21:33:58 EDT",
+          "title": "The secret to easier exercise as an adult may start in childhood",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm",
+          "publishedDate": "Wed, 14 Oct 2026 07:36:23 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have created a new coating for mitochondria that preserves their ability to produce energy, potentially opening the door to new treatments for diseases involving these tiny cellular powerhouses. The technology could one day help…",
+          "summary": "Exercise during childhood could have a surprising lifelong benefit, potentially making physical activity less exhausting in adulthood. In a study involving guinea fowl, researchers discovered that birds accustomed to carrying weights while…",
           "authors": ""
         },
         {
-          "title": "After 30 years, scientists finally have a drug for a deadly brain disease",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261007042111.htm",
-          "publishedDate": "Mon, 12 Oct 2026 20:43:43 EDT",
+          "title": "Scientists may have overlooked a hidden Alzheimer&#039;s culprit for decades",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
+          "publishedDate": "Wed, 14 Oct 2026 07:06:19 EDT",
           "source": "sciencedaily.com",
-          "summary": "The FDA has approved the first drug that directly targets Alexander disease, a devastating neurological disorder affecting fewer than one in a million people. Developed through decades of research, Zanvastro showed promising results in…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists find a hidden problem with endless smartphone scrolling",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261011211611.htm",
-          "publishedDate": "Mon, 12 Oct 2026 18:25:50 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Excessive smartphone use may be taking a hidden toll on the brain and body, with heavy scrolling linked to poorer memory, reduced attention, disrupted sleep, and potential balance problems. Researchers found that weak self-control and fear…",
-          "authors": ""
-        },
-        {
-          "title": "Your gut bacteria could be changing how many calories you absorb",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261011211613.htm",
-          "publishedDate": "Mon, 12 Oct 2026 17:44:16 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have developed a model showing that gut bacteria play a surprisingly important role in how many calories we absorb, meaning food labels may not tell the full story. In a controlled study, people eating a high-fiber diet absorbed…",
+          "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at UC Santa Cruz are…",
           "authors": ""
         }
       ]
@@ -121,63 +170,64 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Bias Robustness of Genetic Multi-Criteria Sorting versus Learned Rankers under Proxy Skew and Label Contamination",
+          "url": "https://arxiv.org/abs/2610.14015",
+          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Learning-to-rank (LTR) models can align rankings with undesignated signals when those signals appear as features or leak into training labels. We compare label-free genetic multi-criteria sorting (open Pikaia strategy variants), which…",
+          "authors": "Vladyslav Shevchuk, Carlos Uziel Pérez Malla, Philipp Wissgott"
+        },
+        {
+          "title": "CoFlu-Brain: An fMRI Connectivity Foundation Model with Cofluctuation-Based Pretraining",
+          "url": "https://arxiv.org/abs/2610.15450",
+          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Functional magnetic resonance imaging (fMRI) commonly characterizes large-scale brain organization through functional connectivity (FC). However, an observed FC matrix is not a fixed brain graph but a statistical estimate determined by the…",
+          "authors": "Ziteng Sui, Junfeng Xia, Wenhao Ye, Mo Wang, Quanying Liu"
+        },
+        {
+          "title": "Where Polanyi Meets Galois: Tacit Knowing as an Algebro-Deterministic Operation, Toward Re-rooting AI-Generated Science",
+          "url": "https://arxiv.org/abs/2610.16102",
+          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We argue that tacit knowing is better modelled as an operating regime of one memory substrate than as a kind of content. The substrate is VaCoAl, an algebro-deterministic XOR-and-shift hyperdimensional memory over GF(2), realized as CASRAM…",
+          "authors": "Hiroyuki Chuma, Kanji Otsuka, Yoichi Sato, Kodo Yamauchi"
+        },
+        {
+          "title": "CIPHEUR: LLM-Guided Structural Search Control for Conflict-Graph Optimization",
+          "url": "https://arxiv.org/abs/2610.16158",
+          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Conflict-graph search can stagnate despite effective operators when interventions fail to address the conflicts blocking progress. A disruptive intervention may also require further search before its value emerges. We propose CIPHEUR, a…",
+          "authors": "Yuqing Cheng, Yan Jia, Yanjie Song, Xiaolu Liu, Lining Xing, Feng Yao"
+        },
+        {
+          "title": "naspaclust: A hybridisation of spatial fuzzy clustering with nature-inspired optimisation",
+          "url": "https://arxiv.org/abs/2610.16356",
+          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We present an overview of R package called \\textttnaspaclust, a tool for spatial fuzzy clustering improvement by hybridising the Fuzzy Geographically Weighted Clustering (FGWC) with nature-inspired optimisation algorithms. There are seven…",
+          "authors": "Bahrul Ilmi Nasution, Rezzy Eko Caraka, Robert Kurniawan"
+        },
+        {
+          "title": "Time Window Optimization for Motor Imagery Classification via Temporal Structure Embedded Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2610.16921",
+          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Online motor imagery-based brain-computer interfaces (MI-BCIs) typically decode continuous EEG using fixed-length sliding windows that may be misaligned with neural events. Existing window optimization methods often evaluate windows…",
+          "authors": "Huan Luo, Na Lu, Xiaopeng Wang, Ziyang Shang"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
-        },
-        {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
-        }
-      ]
+      "itemCount": 0,
+      "error": "no BCI-keyword match in fetched feed",
+      "items": []
     }
   }
 }
