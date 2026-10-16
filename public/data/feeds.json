@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:49:13.284Z",
+  "generatedAt": "2026-10-16T00:42:52.467Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Energy, Information, and the Limits of Neuropsychiatric Classification",
-          "url": "https://arxiv.org/abs/2610.14095",
-          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "title": "Simulating Alzheimer's amyloid-like pathology on a fly central nervous system connectome",
+          "url": "https://arxiv.org/abs/2610.19153",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Importance: The search for reliable neuroimaging biomarkers of mental disorders has remained elusive despite decades of research. Why clinically consequential disorders yield weak neuroimaging separability remains unresolved. Drawing on…",
-          "authors": "Farbod Khodadadi, Mina Kheirkhah, Bita Shariatpanahi, Sarah Alizadeh, Madleen Stenger, Amaia Zurinaga Gutierrez, Shakiba Bakhshian, José C. García Alanis, Nils R. Winter, FOR2107 Consortium, Frank Bremmer, Stefan G. Hofmann, Udo Dannlowski, Tilo Kircher, Sharmili Edwin Thanarajah, Igor Nenadić, Tim Hahn, Hamidreza Jamalabadi"
+          "summary": "In Alzheimer's disease, the amount of pathology in the brain is an imperfect predictor of how much function is lost. Pathology leads to that loss through neural circuits, but these cannot be observed neuron by neuron in patients. This…",
+          "authors": "Taeho Jo"
         },
         {
-          "title": "Full Lyapunov Spectra of Random Neural Networks, Part I: Finite-Time and Asymptotic Theory",
-          "url": "https://arxiv.org/abs/2610.14922",
-          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "title": "Effects of cortisol time-scales in a model of emotion regulation",
+          "url": "https://arxiv.org/abs/2610.19282",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We develop a dynamical mean-field framework for the full finite-time and stationary asymptotic Lyapunov spectra of random recurrent neural networks. At finite observation time, an exact log-determinant representation of tangent-propagator…",
-          "authors": "Haoyu Albert Wang, Wei P. Dai"
+          "summary": "Stress reshapes cortico-limbic dynamics across multiple timescales, with important consequences for healthy and pathological arousal responses. We develop and analyze a Wilson-Cowan model of prefrontal-amygdala circuitry, incorporating…",
+          "authors": "Michael Buccino, Joshua Ginart, Eva Kaslik, Anca Radulescu"
         },
         {
-          "title": "Predicting Cognitive Tasks from Single-Channel EEG through Task-Semantic Alignment",
-          "url": "https://arxiv.org/abs/2610.15104",
-          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "title": "How Long Is the Coast of a Neuron? Resolution-Dependent Interaction Order and Computational Capacity",
+          "url": "https://arxiv.org/abs/2610.19487",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Studies of data scaling in electroencephalography (EEG) and related noninvasive recordings suggest that simple wearable devices could eventually reveal more about cognitive states. However, publicly available EEG data are difficult to…",
-          "authors": "Ryota Kanai"
+          "summary": "Mandlebrot's coastline paradox reframes measurement as a joint property of an object and its ruler. Here we ask how observational resolution shapes the apparent structure of neural computation. We introduce a scale-indexed decomposition…",
+          "authors": "Nima Dehghani"
         },
         {
-          "title": "Simple model of neurogliovascular unit activity with noradrenaline leading force",
-          "url": "https://arxiv.org/abs/2610.15263",
-          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "title": "Reciprocity coordinates a three-way trade-off in recurrent neural circuits",
+          "url": "https://arxiv.org/abs/2610.19949",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In this work we present a model of a neuroglivascular unit associated with a neuronal ensemble. We combine calcium dynamics in the astrocyte, the cascade of synthesis of arachidonic acid and its derivatives, as well as the activity of the…",
-          "authors": "Andrey Yu. Verisokin, Darya V. Verveyko, Alexey R. Brazhe, Stanislav V. Lagosha"
+          "summary": "Biological neural circuits contain both unidirectional and reciprocal connections, but how reciprocity affects circuit computation remains unclear. We varied reciprocity \\rho across 21 levels in recurrent-network simulations while holding…",
+          "authors": "Xiaoyu Zhang, Mingyi Huang, Yixuan Cui, Xin Lu, Yuguo Yu"
         },
         {
-          "title": "Rethinking World Models for Biosignals",
-          "url": "https://arxiv.org/abs/2610.17510",
-          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "title": "EEG Correlates of Verbal and Perceptual Reasoning",
+          "url": "https://arxiv.org/abs/2610.19979",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "World models promise to learn how systems evolve and respond to actions, enabling simulation, planning and decision-making. Bringing this promise to biosignals requires more than accurate prediction of physiological recordings. We examine…",
-          "authors": "Xianglong Bao, Bosong Huang, Xiaoda Wang, Keqi Han, Carl Yang, Ming Jin, Shirui Pan"
+          "summary": "Identifying the neural underpinnings of intelligence is one of the major goals of modern intelligence research. However, few imaging studies explore the high extremes of intelligence, and most use only a single composite IQ score. This…",
+          "authors": "Gwyneth Rolph"
         },
         {
-          "title": "Rewiring of adult neural networks - learning from structural plasticity across multiple scales",
-          "url": "https://arxiv.org/abs/2610.18024",
-          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "title": "State Space Models Naturally Produce Time Cell and Oscillatory Behaviors and Scale to Abstract Cognitive Functions",
+          "url": "https://arxiv.org/abs/2507.13638",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Synaptic connections are continuously formed and eliminated even in adult neuronal networks. This process - called structural plasticity - allows networks to change their topology to learn and adapt to their environment or compensate for…",
-          "authors": "Michael Fauth, Han Lu, Jannik Luboeinski, Johanna Senk, Simone Albani, Valentina Armuzza, Paolo Carloni, Richmond L. Crisostomo, Hermann Cuntz, Ulrich Egert, Eugenio F. Fornasiero, Tobias Gemmeke, Claus C. Hilgetag, Sabine M. Hölter, Patrick Inoue, Björn Kampa, James C. Knight, Susanne Kunkel, Thomas Nowotny, Samora Okujeni, Nicola Palomero-Gallagher, Mariia Popova, Petra Ritter, Giulia Rossetti, Michael Schirner, Marc Spehr, Leon Stefanovski, Gaia Tavosanis, Agata Witkowska, Felix Wolf, Willem Wybo, Sandra Diaz-Pier, Maximilian Lenz, Abigail Morrison, Florian Röhrbein, Stefan Rotter, Johannes Schemmel, Christian Tetzlaff, Andreas Vlachos"
+          "summary": "A grand challenge in modern neuroscience is bridging the gap between the microscale neural circuits and cognitive functions. While extensive knowledge exists about neuronal connectivity and biophysics, how low-level phenomena give rise to…",
+          "authors": "Sen Lu, Xiaoyu Zhang, Mingtao Hu, Eric Yeu-Jer Lee, Soohyeon Kim, Wei D. Lu"
         }
       ]
     },
@@ -62,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success",
+          "url": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss",
+          "publishedDate": "Thu, 15 Oct 2026 19:58:35 +0000",
+          "source": "statnews.com",
+          "summary": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.",
+          "authors": "Jason Mast"
+        },
+        {
+          "title": "After a melanoma diagnosis, mRNA cancer vaccine delivered a patient hope — and a path forward",
+          "url": "https://www.statnews.com/2026/10/15/melanoma-diagnosis-mrna-cancer-vaccine-stat-summit-boston-2026/?utm_campaign=rss",
+          "publishedDate": "Thu, 15 Oct 2026 15:25:08 +0000",
+          "source": "statnews.com",
+          "summary": "A schoolteacher diagnosed with melanoma provides an inside look at what it was like to be treated with a cancer vaccine developed by Merck and Moderna.",
+          "authors": "STAT Staff"
+        },
+        {
+          "title": "Kenya reports second Ebola case",
+          "url": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss",
+          "publishedDate": "Thu, 15 Oct 2026 11:55:17 +0000",
+          "source": "statnews.com",
+          "summary": "Kenya reports a second Ebola case. Meanwhile, the situation in Congo is still quite dire. Authorities have confirmed more than 4,000 deaths and 9,000 cases as officials have struggled to&#8230;",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "Forty percent of high school students report binge eating in new CDC survey",
+          "url": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss",
+          "publishedDate": "Thu, 15 Oct 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "About 40% of high school students reported binge-eating in the past month in a new CDC survey, highlighting how widespread this form of disordered eating is among young people.",
+          "authors": "Sarah Todd"
+        },
         {
           "title": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
           "url": "https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss",
@@ -77,38 +109,6 @@
           "source": "statnews.com",
           "summary": "Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.",
           "authors": "Andrew Joseph"
-        },
-        {
-          "title": "How many ways can the Trump administration clamp down on international researchers?",
-          "url": "https://www.statnews.com/2026/10/13/health-news-trump-admin-clamps-down-on-international-researchers/?utm_campaign=rss",
-          "publishedDate": "Tue, 13 Oct 2026 11:46:54 +0000",
-          "source": "statnews.com",
-          "summary": "In the span of two days last week, the Trump administration issued two sweeping announcements meant to crack down on international students and scholars, who make up a sizable portion&#8230;",
-          "authors": "Amanda Erickson, Theresa Gaffney,and Jonathan Wosen"
-        },
-        {
-          "title": "Americans trust science more than peers around the world, survey shows",
-          "url": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
-          "publishedDate": "Sat, 10 Oct 2026 23:01:00 +0000",
-          "source": "statnews.com",
-          "summary": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.",
-          "authors": "Nicholas Florko"
-        },
-        {
-          "title": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
-          "url": "https://www.statnews.com/2026/10/09/hospitals-sue-to-halt-340b-rebate-pilot-trump/?utm_campaign=rss",
-          "publishedDate": "Fri, 09 Oct 2026 20:27:27 +0000",
-          "source": "statnews.com",
-          "summary": "The AHA is once again suing the Trump administration over its plan to revamp a federal drug discount program into one that provides after-the-fact rebates instead of upfront discounts.",
-          "authors": "Tara Bannow"
-        },
-        {
-          "title": "How these census changes could threaten public health",
-          "url": "https://www.statnews.com/2026/10/09/health-news-census-changes-threaten-public-data-collection/?utm_campaign=rss",
-          "publishedDate": "Fri, 09 Oct 2026 13:23:29 +0000",
-          "source": "statnews.com",
-          "summary": "The Trump administration wants to make three big changes to the U.S. Census, including eliminating questions about race, ethnicity, and sexual orientation and excluding anyone who is not a citizen&#8230;",
-          "authors": "Sarah Todd"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Former FDA officials blast DOGE as ‘one of the biggest disasters in American history’",
-          "url": "https://www.statnews.com/2026/10/14/former-fda-commissioners-say-recruit-defend-support-agency-workforce/?utm_campaign=rss",
-          "publishedDate": "Wed, 14 Oct 2026 23:23:20 +0000",
+          "title": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
+          "url": "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss",
+          "publishedDate": "Thu, 15 Oct 2026 20:46:09 +0000",
           "source": "statnews.com",
-          "summary": "Three former FDA chiefs criticized the DOGE cuts to the agency, saying they robbed the FDA of institutional knowledge that will take years to restore.",
-          "authors": "Chelsea Cirruzzo"
+          "summary": "U.S. health officials are moving ahead with a plan to allow specialty pharmacies to produce certain peptides, a class of largely unregulated injections favored by health secretary Robert F. Kennedy&#8230;",
+          "authors": "Associated Press"
         },
         {
-          "title": "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university",
-          "url": "https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss",
-          "publishedDate": "Wed, 14 Oct 2026 22:13:33 +0000",
+          "title": "The Trump administration is doubling down on health care fraud investigations",
+          "url": "https://www.statnews.com/2026/10/15/healthcare-fraud-new-doj-policy-rewards-self-disclosure/?utm_campaign=rss",
+          "publishedDate": "Thu, 15 Oct 2026 18:09:18 +0000",
           "source": "statnews.com",
-          "summary": "White House planned shift of research funding from universities to industry risks creating a drought in basic research, science leaders say",
-          "authors": "Megan Molteni"
+          "summary": "At the STAT Summit, the Department of Justice offered up a warning for health care executives: Don’t be another Theranos.",
+          "authors": "Isabella Cueto"
         },
         {
-          "title": "Scientists reveal why some workout recovery tricks can backfire",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
-          "publishedDate": "Wed, 14 Oct 2026 08:04:20 EDT",
+          "title": "Mass. lawmaker Auchincloss favors boosting U.S. biotech over targeting China",
+          "url": "https://www.statnews.com/2026/10/15/auchincloss-us-biotech-vs-china-protectionism/?utm_campaign=rss",
+          "publishedDate": "Thu, 15 Oct 2026 17:19:50 +0000",
+          "source": "statnews.com",
+          "summary": "Rep. Jake Auchincloss (D-Mass.) has some advice for fellow lawmakers: unapologetically support the biotech industry.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Eating late at night linked to up to 30% higher risk of liver disease",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014015503.htm",
+          "publishedDate": "Thu, 15 Oct 2026 08:26:16 EDT",
           "source": "sciencedaily.com",
-          "summary": "Ice baths, massages, compression garments, and recovery supplements promise faster muscle recovery, but research suggests their benefits are often overstated, and some techniques may even undermine long-term gains. Scientists say the most…",
+          "summary": "Eating late at night could be putting your liver at risk, according to a large study led by Oregon Health & Science University. Researchers analyzed data from nearly 200,000 people and found that those who regularly ate after dinner or…",
           "authors": ""
         },
         {
-          "title": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
-          "publishedDate": "Wed, 14 Oct 2026 07:56:22 EDT",
+          "title": "Scientists discover a surprising danger in smaller cancer cells",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261013015835.htm",
+          "publishedDate": "Thu, 15 Oct 2026 07:27:40 EDT",
           "source": "sciencedaily.com",
-          "summary": "Two unusually long-legged cats have helped scientists uncover the first genetically confirmed cases of Marfan syndrome in domestic felines. Researchers at Cornell University discovered that the brothers carried two altered copies of a gene…",
+          "summary": "Scientists have discovered that unusually small cancer cells carrying extra chromosomes can be far more aggressive than larger ones, growing faster, spreading more readily, and resisting common treatments. The surprising finding could help…",
           "authors": ""
         },
         {
-          "title": "The secret to easier exercise as an adult may start in childhood",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm",
-          "publishedDate": "Wed, 14 Oct 2026 07:36:23 EDT",
+          "title": "Rare study reveals a striking divide inside an Alzheimer’s patient’s brain",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261013015814.htm",
+          "publishedDate": "Thu, 15 Oct 2026 06:05:24 EDT",
           "source": "sciencedaily.com",
-          "summary": "Exercise during childhood could have a surprising lifelong benefit, potentially making physical activity less exhausting in adulthood. In a study involving guinea fowl, researchers discovered that birds accustomed to carrying weights while…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists may have overlooked a hidden Alzheimer&#039;s culprit for decades",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
-          "publishedDate": "Wed, 14 Oct 2026 07:06:19 EDT",
-          "source": "sciencedaily.com",
-          "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at UC Santa Cruz are…",
+          "summary": "A rare examination of an Alzheimer’s patient’s brain revealed that regions cleared of amyloid plaques had remarkably little of the harmful tau buildup associated with memory loss, while neighboring areas showed extensive damage. The…",
           "authors": ""
         }
       ]
@@ -173,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Bias Robustness of Genetic Multi-Criteria Sorting versus Learned Rankers under Proxy Skew and Label Contamination",
-          "url": "https://arxiv.org/abs/2610.14015",
-          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "title": "Design and Analysis of Temporal Representations in Neural Networks",
+          "url": "https://arxiv.org/abs/2610.19730",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Learning-to-rank (LTR) models can align rankings with undesignated signals when those signals appear as features or leak into training labels. We compare label-free genetic multi-criteria sorting (open Pikaia strategy variants), which…",
-          "authors": "Vladyslav Shevchuk, Carlos Uziel Pérez Malla, Philipp Wissgott"
+          "summary": "The ability to represent temporal information is often hypothesized to underlie the efficiency and learning capabilities of biological neural networks. This motivates the development of spiking neural networks. However, it remains unclear…",
+          "authors": "Alban Colas-Gattepaille (I3S), Alexandre Muzy (ILLS)"
         },
         {
-          "title": "CoFlu-Brain: An fMRI Connectivity Foundation Model with Cofluctuation-Based Pretraining",
-          "url": "https://arxiv.org/abs/2610.15450",
-          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "title": "Controlling the latency in temporal coded spiking models for neuromorphic datasets",
+          "url": "https://arxiv.org/abs/2610.19732",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Functional magnetic resonance imaging (fMRI) commonly characterizes large-scale brain organization through functional connectivity (FC). However, an observed FC matrix is not a fixed brain graph but a statistical estimate determined by the…",
-          "authors": "Ziteng Sui, Junfeng Xia, Wenhao Ye, Mo Wang, Quanying Liu"
+          "summary": "Exploiting temporal information in datasets with high temporal dependencies (such as spoken keyword recognition) by spiking models is still an open problem. Promising frameworks include Time-To-First coding (TTFS) and the inclusion of…",
+          "authors": "Alban Gattepaille (I3S), Alexandre Muzy (ILLS)"
         },
         {
-          "title": "Where Polanyi Meets Galois: Tacit Knowing as an Algebro-Deterministic Operation, Toward Re-rooting AI-Generated Science",
-          "url": "https://arxiv.org/abs/2610.16102",
-          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "title": "Riding the Fixed-Point Curve: Image Classification in the Continuous Thought Machine",
+          "url": "https://arxiv.org/abs/2610.19220",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We argue that tacit knowing is better modelled as an operating regime of one memory substrate than as a kind of content. The substrate is VaCoAl, an algebro-deterministic XOR-and-shift hyperdimensional memory over GF(2), realized as CASRAM…",
-          "authors": "Hiroyuki Chuma, Kanji Otsuka, Yoichi Sato, Kodo Yamauchi"
+          "summary": "The Continuous Thought Machine (CTM) is a recurrent network that attends to inputs and makes predictions based on the synchronization between its neurons. On tasks spanning many domains, it displays emergent thought processes that have not…",
+          "authors": "Thomas Hannagan"
         },
         {
-          "title": "CIPHEUR: LLM-Guided Structural Search Control for Conflict-Graph Optimization",
-          "url": "https://arxiv.org/abs/2610.16158",
-          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "title": "How Long Is the Coast of a Neuron? Resolution-Dependent Interaction Order and Computational Capacity",
+          "url": "https://arxiv.org/abs/2610.19487",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Conflict-graph search can stagnate despite effective operators when interventions fail to address the conflicts blocking progress. A disruptive intervention may also require further search before its value emerges. We propose CIPHEUR, a…",
-          "authors": "Yuqing Cheng, Yan Jia, Yanjie Song, Xiaolu Liu, Lining Xing, Feng Yao"
+          "summary": "Mandlebrot's coastline paradox reframes measurement as a joint property of an object and its ruler. Here we ask how observational resolution shapes the apparent structure of neural computation. We introduce a scale-indexed decomposition…",
+          "authors": "Nima Dehghani"
         },
         {
-          "title": "naspaclust: A hybridisation of spatial fuzzy clustering with nature-inspired optimisation",
-          "url": "https://arxiv.org/abs/2610.16356",
-          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
+          "url": "https://arxiv.org/abs/2606.11245",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We present an overview of R package called \\textttnaspaclust, a tool for spatial fuzzy clustering improvement by hybridising the Fuzzy Geographically Weighted Clustering (FGWC) with nature-inspired optimisation algorithms. There are seven…",
-          "authors": "Bahrul Ilmi Nasution, Rezzy Eko Caraka, Robert Kurniawan"
+          "summary": "Large Language Models (LLMs) have demonstrated remarkable capabilities across various tasks, raising expectations for Artificial General Intelligence (AGI). This position paper argues that integrating explicit memory is the cornerstone for…",
+          "authors": "Sangjun Park"
         },
         {
-          "title": "Time Window Optimization for Motor Imagery Classification via Temporal Structure Embedded Reinforcement Learning",
-          "url": "https://arxiv.org/abs/2610.16921",
-          "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
+          "title": "Simulating Alzheimer's amyloid-like pathology on a fly central nervous system connectome",
+          "url": "https://arxiv.org/abs/2610.19153",
+          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Online motor imagery-based brain-computer interfaces (MI-BCIs) typically decode continuous EEG using fixed-length sliding windows that may be misaligned with neural events. Existing window optimization methods often evaluate windows…",
-          "authors": "Huan Luo, Na Lu, Xiaopeng Wang, Ziyang Shang"
+          "summary": "In Alzheimer's disease, the amount of pathology in the brain is an imperfect predictor of how much function is lost. Pathology leads to that loss through neural circuits, but these cannot be observed neuron by neuron in patients. This…",
+          "authors": "Taeho Jo"
         }
       ]
     },

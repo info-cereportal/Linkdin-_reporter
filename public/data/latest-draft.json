@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-15T00:49:12.600Z",
-  "date": "2026-10-15",
-  "topic": "脳情報科学の最新研究",
-  "templateName": "paradigm-shift",
+  "generatedAt": "2026-10-16T00:42:52.150Z",
+  "date": "2026-10-16",
+  "topic": "学習",
+  "templateName": "data-driven",
   "riskScore": 0,
-  "paperTitle": "Neural Evidence and Behavioural Welfare Economics: When Can Neuroeconomics Inform Policy?",
-  "paperLink": "https://arxiv.org/abs/2511.19548",
-  "formatted": "脳情報科学の最新研究に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 脳情報科学\n\n> Neuroeconomics appears to offer welfare economics an evidential supplement, since neural data may help distinguish choices that express genuine preferences from choices distorted by addiction, framing or self-control failure. This paper asks when such evidence can legitimately...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\n神経デコーディングの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Neural Evidence and Behavioural Welfare Economics: When Can Neuroeconomics Inform Policy?\n🔗 https://arxiv.org/abs/2511.19548\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #計算論的神経科学",
-  "summaryJP": "脳情報科学の最新研究 — 通説を揺さぶる新たな知見（神経デコーディング）",
-  "paperAuthors": "Louis Yiven Zhu",
-  "publishedDate": "Wed, 14 Oct 2026 00:00:00 -0400",
-  "paperId": "2511.19548",
+  "paperTitle": "State Space Models Naturally Produce Time Cell and Oscillatory Behaviors and Scale to Abstract Cognitive Functions",
+  "paperLink": "https://arxiv.org/abs/2507.13638",
+  "formatted": "この研究データ、知らないままでいいですか？\n\n数字が語る、学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習\n\n> A grand challenge in modern neuroscience is bridging the gap between the microscale neural circuits and cognitive functions. While extensive knowledge exists about neuronal connectivity and biophysics, how low-level phenomena give rise to abstract behaviors remains largely...\n\nなぜこの数字が重要か。\n\nコネクトミクス・回路解析において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 State Space Models Naturally Produce Time Cell and Oscillatory Behaviors and Scale to Abstract Cognitive Functions\n🔗 https://arxiv.org/abs/2507.13638\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #DeepLearning",
+  "summaryJP": "学習 — 数値で示された新事実（コネクトミクス・回路解析）",
+  "paperAuthors": "Sen Lu, Xiaoyu Zhang, Mingtao Hu, Eric Yeu-Jer Lee, Soohyeon Kim, Wei D. Lu",
+  "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
+  "paperId": "2507.13638",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "コネクトミクス・回路解析",
   "jpKeywords": [
-    "脳情報科学"
+    "学習"
   ],
-  "abstractExcerpt": "Neuroeconomics appears to offer welfare economics an evidential supplement, since neural data may help distinguish choices that express genuine preferences from choices distorted by addiction, framing or self-control failure. This paper…",
+  "abstractExcerpt": "A grand challenge in modern neuroscience is bridging the gap between the microscale neural circuits and cognitive functions. While extensive knowledge exists about neuronal connectivity and biophysics, how low-level phenomena give rise to…",
   "figureUrls": []
 }
