@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:42:52.467Z",
+  "generatedAt": "2026-10-17T00:45:14.129Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Simulating Alzheimer's amyloid-like pathology on a fly central nervous system connectome",
-          "url": "https://arxiv.org/abs/2610.19153",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
+          "title": "Two dissociable axes of brain hierarchical dynamics track universal and population-specific effects of mindfulness",
+          "url": "https://arxiv.org/abs/2610.20854",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In Alzheimer's disease, the amount of pathology in the brain is an imperfect predictor of how much function is lost. Pathology leads to that loss through neural circuits, but these cannot be observed neuron by neuron in patients. This…",
-          "authors": "Taeho Jo"
+          "summary": "How mental training reshapes the temporal architecture of large-scale brain dynamics and how these mechanisms differ between healthy and clinically vulnerable populations remains poorly understood. Time-averaged neural measures collapse…",
+          "authors": "Victor Oswald, David Zarka, Riku Johannes Ihalainen, Gulshan Kumar, Rikkert Hindriks, Auretta Sonia Kummar, Helen Correia, Hakuei Fujiyama, Saketh Malipeddi, Ravindra P Nagendra, Arun Sasidharan, Bindu M Kutty, Steven Laureys, Prejaas K. B. Tewarie"
         },
         {
-          "title": "Effects of cortisol time-scales in a model of emotion regulation",
-          "url": "https://arxiv.org/abs/2610.19282",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
+          "title": "Awakening as a Trait-Level Transformation of Consciousness",
+          "url": "https://arxiv.org/abs/2610.20856",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Stress reshapes cortico-limbic dynamics across multiple timescales, with important consequences for healthy and pathological arousal responses. We develop and analyze a Wilson-Cowan model of prefrontal-amygdala circuitry, incorporating…",
-          "authors": "Michael Buccino, Joshua Ginart, Eva Kaslik, Anca Radulescu"
+          "summary": "Awakening is reported across contemplative traditions yet remains poorly defined in science, where it is often conflated with transient states induced by meditation or psychedelics, obscuring its significance for theories of consciousness…",
+          "authors": "Riku Ihalainen, Victor Oswald, Gulshan Kumar, Genevieve Major, Balachundhar Subramaniam, Steven Laureys, Prejaas K. B. Tewarie"
         },
         {
-          "title": "How Long Is the Coast of a Neuron? Resolution-Dependent Interaction Order and Computational Capacity",
-          "url": "https://arxiv.org/abs/2610.19487",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
+          "title": "Statistical Mechanics of Spike Trains: Self-Consistent Activity Ensembles and Phase Transitions",
+          "url": "https://arxiv.org/abs/2610.20971",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Mandlebrot's coastline paradox reframes measurement as a joint property of an object and its ruler. Here we ask how observational resolution shapes the apparent structure of neural computation. We introduce a scale-indexed decomposition…",
-          "authors": "Nima Dehghani"
+          "summary": "We introduce a statistical-mechanical framework for spiking neuronal systems in which entire spike trains, defined as spatiotemporal configurations of discrete events, are treated as microstates of the system. Instead of modeling explicit…",
+          "authors": "Jan Pyrzowski, Laura Messio, Guillaume Marrelec, Marcin Markiewicz"
         },
         {
-          "title": "Reciprocity coordinates a three-way trade-off in recurrent neural circuits",
-          "url": "https://arxiv.org/abs/2610.19949",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
+          "title": "Neural Computation Runs on Dissipative Structures Under Cyclic Calibration: A Systems Perspective on Sleep",
+          "url": "https://arxiv.org/abs/2610.21486",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Biological neural circuits contain both unidirectional and reciprocal connections, but how reciprocity affects circuit computation remains unclear. We varied reciprocity \\rho across 21 levels in recurrent-network simulations while holding…",
-          "authors": "Xiaoyu Zhang, Mingyi Huang, Yixuan Cui, Xin Lu, Yuguo Yu"
+          "summary": "Biological function operates far from thermodynamic equilibrium, sustained by metastable structures that continuously cycle through synthesis, function execution, and degradation--consuming energy and exporting entropy in the process.…",
+          "authors": "Javier Diaz"
         },
         {
-          "title": "EEG Correlates of Verbal and Perceptual Reasoning",
-          "url": "https://arxiv.org/abs/2610.19979",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
+          "title": "Transferable conditional brain charts link cortico-subcortical structure to Alzheimer's disease progression",
+          "url": "https://arxiv.org/abs/2610.21660",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Identifying the neural underpinnings of intelligence is one of the major goals of modern intelligence research. However, few imaging studies explore the high extremes of intelligence, and most use only a single composite IQ score. This…",
-          "authors": "Gwyneth Rolph"
+          "summary": "Normative models chart how brain measures vary across the lifespan, expressing each individual as a deviation from a healthy reference. However, most regional models of cortical thickness disregard dependencies between cortical and…",
+          "authors": "Nitin Sharma, Sicheng Dai, Francesco A. Mallus, Atharva Kand, Marc Lemnitzer, Minh-Hieu Nguyen, Mebin Muhammed Hamzakoya Sulaikha, Jijia Xing, Mariam Zabihi, Gülce Lale, Gokul Perumbayil Vijayakrishnan, Elias Schreiner, Madhumitha Sivakumar Punitha, Paul Buttkus, Ça\\ugatay Y\\ild\\iz, Poornima Kumar, Thomas Grote, Esten Leonardsen, Francesco Sammarco, Vinod Kumar Jangir, Sarah Sobotta, Barbora Rehák Bu\\vcková, Augustijn A. A. de Boer, Konstantinos Tsilimparis, Christian Gaser, Charlotte Fraza, Saige Rutherford, Seyed Mostafa Kia, Andre F. Marquand, Yanwu Yang, Richard Dinga, Thomas Wolfers"
         },
         {
-          "title": "State Space Models Naturally Produce Time Cell and Oscillatory Behaviors and Scale to Abstract Cognitive Functions",
-          "url": "https://arxiv.org/abs/2507.13638",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
+          "title": "Semantic Alignment of EEG and Text: A Contrastive Learning Framework for Decoding Imagined Speech",
+          "url": "https://arxiv.org/abs/2610.20766",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "A grand challenge in modern neuroscience is bridging the gap between the microscale neural circuits and cognitive functions. While extensive knowledge exists about neuronal connectivity and biophysics, how low-level phenomena give rise to…",
-          "authors": "Sen Lu, Xiaoyu Zhang, Mingtao Hu, Eric Yeu-Jer Lee, Soohyeon Kim, Wei D. Lu"
+          "summary": "Imagined speech decoding from EEG offers a promising route toward naturalistic brain-computer interfaces. Traditional closed-set classifiers treat semantic categories as independent labels and do not explicitly exploit relationships among…",
+          "authors": "Shahryar G. Namdari, Francesco Iacomi, Riccardo Barbieri, Luca Mainardi"
         }
       ]
     },
@@ -62,6 +62,14 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "What to read before you go see that new documentary on Elizabeth Holmes",
+          "url": "https://www.statnews.com/2026/10/16/health-news-what-to-read-before-elizabeth-holmes-you-can-see-everything/?utm_campaign=rss",
+          "publishedDate": "Fri, 16 Oct 2026 12:34:03 +0000",
+          "source": "statnews.com",
+          "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022&#8230;",
+          "authors": "Jonathan Wosen, Meghana Keshavan, Angus Chen,and O. Rose Broderick"
+        },
         {
           "title": "Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success",
           "url": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results. A new trial announced&#8230;",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69",
-          "url": "https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss",
-          "publishedDate": "Tue, 13 Oct 2026 18:11:36 +0000",
-          "source": "statnews.com",
-          "summary": "Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.",
-          "authors": "Andrew Joseph"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
+          "publishedDate": "Fri, 16 Oct 2026 08:46:50 EDT",
+          "source": "sciencedaily.com",
+          "summary": "USC scientists have discovered a way to create a potentially renewable supply of genetically engineered immune cells that can attack cancer and strengthen the body&#039;s natural defenses. By growing and modifying immature immune cells…",
+          "authors": ""
+        },
+        {
+          "title": "Yale scientists discover how stress changes the brain to make memories stronger",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014015517.htm",
+          "publishedDate": "Fri, 16 Oct 2026 07:55:35 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Yale scientists have uncovered how the stress hormone cortisol helps the brain turn emotional experiences into stronger, longer-lasting memories. The discovery reveals that stress can reshape communication between brain networks involved…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: In DOGE’s aftermath, federal health workers bristle at new performance reviews",
+          "url": "https://www.statnews.com/2026/10/16/federal-performance-reviews-health-agency-employees-wary-after-doge/?utm_campaign=rss",
+          "publishedDate": "Fri, 16 Oct 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Changes to the annual performance review process are the latest flashpoint in tensions between federal workers across the Department of Health and Human Services and the Trump administration, federal employees&#8230;",
+          "authors": "Margaret Manto"
+        },
+        {
+          "title": "A protein that fuels cancer could also be the key to fighting it",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015073203.htm",
+          "publishedDate": "Fri, 16 Oct 2026 00:51:38 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have discovered how to turn a protein that normally fuels cancer growth into a weapon against it. By activating PPARD in immune cells, researchers made them better at burning fat and attacking tumors, slowing or stopping cancer…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover how exercise reverses muscle aging",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015003550.htm",
+          "publishedDate": "Thu, 15 Oct 2026 20:41:45 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a hidden biological mechanism that helps explain how exercise can reverse some of the damage caused by muscle aging. The key is a gene called DEAF1, which becomes overactive with age and interferes with the…",
+          "authors": ""
+        },
+        {
           "title": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
           "url": "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss",
           "publishedDate": "Thu, 15 Oct 2026 20:46:09 +0000",
           "source": "statnews.com",
           "summary": "U.S. health officials are moving ahead with a plan to allow specialty pharmacies to produce certain peptides, a class of largely unregulated injections favored by health secretary Robert F. Kennedy&#8230;",
           "authors": "Associated Press"
-        },
-        {
-          "title": "The Trump administration is doubling down on health care fraud investigations",
-          "url": "https://www.statnews.com/2026/10/15/healthcare-fraud-new-doj-policy-rewards-self-disclosure/?utm_campaign=rss",
-          "publishedDate": "Thu, 15 Oct 2026 18:09:18 +0000",
-          "source": "statnews.com",
-          "summary": "At the STAT Summit, the Department of Justice offered up a warning for health care executives: Don’t be another Theranos.",
-          "authors": "Isabella Cueto"
-        },
-        {
-          "title": "Mass. lawmaker Auchincloss favors boosting U.S. biotech over targeting China",
-          "url": "https://www.statnews.com/2026/10/15/auchincloss-us-biotech-vs-china-protectionism/?utm_campaign=rss",
-          "publishedDate": "Thu, 15 Oct 2026 17:19:50 +0000",
-          "source": "statnews.com",
-          "summary": "Rep. Jake Auchincloss (D-Mass.) has some advice for fellow lawmakers: unapologetically support the biotech industry.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "Eating late at night linked to up to 30% higher risk of liver disease",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261014015503.htm",
-          "publishedDate": "Thu, 15 Oct 2026 08:26:16 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Eating late at night could be putting your liver at risk, according to a large study led by Oregon Health & Science University. Researchers analyzed data from nearly 200,000 people and found that those who regularly ate after dinner or…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover a surprising danger in smaller cancer cells",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261013015835.htm",
-          "publishedDate": "Thu, 15 Oct 2026 07:27:40 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that unusually small cancer cells carrying extra chromosomes can be far more aggressive than larger ones, growing faster, spreading more readily, and resisting common treatments. The surprising finding could help…",
-          "authors": ""
-        },
-        {
-          "title": "Rare study reveals a striking divide inside an Alzheimer’s patient’s brain",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261013015814.htm",
-          "publishedDate": "Thu, 15 Oct 2026 06:05:24 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A rare examination of an Alzheimer’s patient’s brain revealed that regions cleared of amyloid plaques had remarkably little of the harmful tau buildup associated with memory loss, while neighboring areas showed extensive damage. The…",
-          "authors": ""
         }
       ]
     },
@@ -173,61 +173,93 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Design and Analysis of Temporal Representations in Neural Networks",
-          "url": "https://arxiv.org/abs/2610.19730",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
+          "title": "First Mathematical Runtime Analyses of Evolutionary Multitask Multi-Objective Optimization",
+          "url": "https://arxiv.org/abs/2610.21311",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The ability to represent temporal information is often hypothesized to underlie the efficiency and learning capabilities of biological neural networks. This motivates the development of spiking neural networks. However, it remains unclear…",
-          "authors": "Alban Colas-Gattepaille (I3S), Alexandre Muzy (ILLS)"
+          "summary": "To facilitate the solving of complex problems, evolutionary multitask optimization is regarded as a promising technique due to its capacity for cross-task knowledge transfer. In contrast to empirical evidences, no mathematical runtime…",
+          "authors": "Danyang Zhang, Weijie Zheng"
         },
         {
-          "title": "Controlling the latency in temporal coded spiking models for neuromorphic datasets",
-          "url": "https://arxiv.org/abs/2610.19732",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
+          "title": "Beyond the Hamming Cliff: Compact Spatial Encodings Preserving Semantic Distance in Spiking Neural Networks",
+          "url": "https://arxiv.org/abs/2610.22083",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Exploiting temporal information in datasets with high temporal dependencies (such as spoken keyword recognition) by spiking models is still an open problem. Promising frameworks include Time-To-First coding (TTFS) and the inclusion of…",
-          "authors": "Alban Gattepaille (I3S), Alexandre Muzy (ILLS)"
+          "summary": "By pre-processing input signals with Gray, Thermometer, Johnson and hybrid encodings before passing them to spiking neural networks running on SpiNNaker hardware, Davies et al.(2025) address the semantic-spatial disparity that causes the…",
+          "authors": "Sergio Davies, Muhammad Aitsam, Morgan-Tyler Stone, Alessandro Di Nuovo, Liangxiu Han"
         },
         {
-          "title": "Riding the Fixed-Point Curve: Image Classification in the Continuous Thought Machine",
-          "url": "https://arxiv.org/abs/2610.19220",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
+          "title": "A restart rule for genetic algorithms based on Schnabel census",
+          "url": "https://arxiv.org/abs/2610.22211",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The Continuous Thought Machine (CTM) is a recurrent network that attends to inputs and makes predictions based on the synchronization between its neurons. On tasks spanning many domains, it displays emergent thought processes that have not…",
-          "authors": "Thomas Hannagan"
+          "summary": "A new adaptive restart rule for Genetic Algorithms (GAs) is considered. The rule is based on the Schnabel Census method, originally developed for statistical estimation of a size of animal population. In this paper, the Schnabel Census…",
+          "authors": "Anton Eremeev, Yulia Zakharova"
         },
         {
-          "title": "How Long Is the Coast of a Neuron? Resolution-Dependent Interaction Order and Computational Capacity",
-          "url": "https://arxiv.org/abs/2610.19487",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
+          "title": "Approaching Backpropagation Accuracy with Weight Perturbation on MNIST",
+          "url": "https://arxiv.org/abs/2610.21665",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Mandlebrot's coastline paradox reframes measurement as a joint property of an object and its ruler. Here we ask how observational resolution shapes the apparent structure of neural computation. We introduce a scale-indexed decomposition…",
-          "authors": "Nima Dehghani"
+          "summary": "Weight perturbation (WP) estimates learning directions from random parameter perturbations and a scalar change in loss, without backpropagating derivatives. We examine how batch size, training duration, and estimator stabilization affect…",
+          "authors": "Patrick Inoue"
         },
         {
-          "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
-          "url": "https://arxiv.org/abs/2606.11245",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
+          "title": "Attention over noisy examples: generalization and memorization in the exponential Hopfield network",
+          "url": "https://arxiv.org/abs/2610.22191",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Large Language Models (LLMs) have demonstrated remarkable capabilities across various tasks, raising expectations for Artificial General Intelligence (AGI). This position paper argues that integrating explicit memory is the cornerstone for…",
-          "authors": "Sangjun Park"
+          "summary": "In Hebbian learning from examples a Hopfield network of $N$ neurons is not supplied with the $K$ archetypes it has to retrieve but with $M$ blurred examples of each, of quality $r$, and whether it can infer them depends on the load…",
+          "authors": "Francesco Alemanno"
         },
         {
-          "title": "Simulating Alzheimer's amyloid-like pathology on a fly central nervous system connectome",
-          "url": "https://arxiv.org/abs/2610.19153",
-          "publishedDate": "Thu, 15 Oct 2026 00:00:00 -0400",
+          "title": "T-GADE: Thermodynamical Generative-AI-Driven Evolution of LLM Artifacts",
+          "url": "https://arxiv.org/abs/2609.12286",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In Alzheimer's disease, the amount of pathology in the brain is an imperfect predictor of how much function is lost. Pathology leads to that loss through neural circuits, but these cannot be observed neuron by neuron in patients. This…",
-          "authors": "Taeho Jo"
+          "summary": "Introducing large language models (LLMs) into evolutionary computation enables semantic generation of candidates, but the classical problem of maintaining population diversity remains. Inspired by the thermodynamical genetic algorithm…",
+          "authors": "Kyoko Ogawa, Naoki Mori"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 4,
+      "items": [
+        {
+          "title": "Dual-Purpose SSB Design for Joint Time-Frequency Synchronization Using Relocated DMRS",
+          "url": "https://arxiv.org/abs/2610.21617",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The synchronization signal block (SSB) is designed to synchronize a capable user-equipment (UE) with the base-station (BS) in recent cellular networks. However, the same SSB cannot be utilized by a narrowband, low-complexity, and low-power…",
+          "authors": "Sadiq Iqbal (Department of Electrical and Electronics Engineering, Istanbul Medipol University, Istanbul, 34810, Turkey), Abdelali Arous (Department of Electrical and Electronics Engineering, Istanbul Medipol University, Istanbul, 34810, Turkey), Huseyin Arslan (Department of Electrical and Electronics Engineering, Istanbul Medipol University, Istanbul, 34810, Turkey)"
+        },
+        {
+          "title": "How large an effect would we have seen? Positive controls, detection floors and dataset pitfalls in scalp-EEG speech decoding",
+          "url": "https://arxiv.org/abs/2610.20942",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Objective. Studies that decode imagined speech from scalp electroencephalography (EEG) commonly validate their pipelines with a positive control, usually overt speech, and report null results without stating what effect size the pipeline…",
+          "authors": "Blessing Isoyiza Adeika, Onyema Osuagwu"
+        },
+        {
+          "title": "Cross-subject decoding of imagined speech from scalp EEG: a leakage-controlled evaluation on three public corpora",
+          "url": "https://arxiv.org/abs/2610.20954",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Objective. A decoder of imagined speech that works for a new user without calibration would make a non-invasive speech interface practical. We tested whether imagined-speech content recorded with scalp electroencephalography (EEG)…",
+          "authors": "Blessing Isoyiza Adeika, Onyema Osuagwu"
+        },
+        {
+          "title": "A hidden Markov model for unsupervised EEG-based tracking of auditory attention to a single voice",
+          "url": "https://arxiv.org/abs/2610.21691",
+          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Objective: Absolute auditory attention decoding (aAAD) aims to track how strongly a listener attends to a single speech source using electroencephalography (EEG). Unlike selective auditory attention decoding, aAAD lacks a competing speech…",
+          "authors": "Tianyi Li, Simon Geirnaert, Davina Van den Broek, Elien Bellon, Bert De Smedt, Alexander Bertrand"
+        }
+      ]
     }
   }
 }
