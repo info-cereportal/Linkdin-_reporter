@@ -1,61 +1,12 @@
 {
-  "generatedAt": "2026-10-17T00:45:14.129Z",
+  "generatedAt": "2026-10-18T00:15:18.373Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Two dissociable axes of brain hierarchical dynamics track universal and population-specific effects of mindfulness",
-          "url": "https://arxiv.org/abs/2610.20854",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "How mental training reshapes the temporal architecture of large-scale brain dynamics and how these mechanisms differ between healthy and clinically vulnerable populations remains poorly understood. Time-averaged neural measures collapse…",
-          "authors": "Victor Oswald, David Zarka, Riku Johannes Ihalainen, Gulshan Kumar, Rikkert Hindriks, Auretta Sonia Kummar, Helen Correia, Hakuei Fujiyama, Saketh Malipeddi, Ravindra P Nagendra, Arun Sasidharan, Bindu M Kutty, Steven Laureys, Prejaas K. B. Tewarie"
-        },
-        {
-          "title": "Awakening as a Trait-Level Transformation of Consciousness",
-          "url": "https://arxiv.org/abs/2610.20856",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Awakening is reported across contemplative traditions yet remains poorly defined in science, where it is often conflated with transient states induced by meditation or psychedelics, obscuring its significance for theories of consciousness…",
-          "authors": "Riku Ihalainen, Victor Oswald, Gulshan Kumar, Genevieve Major, Balachundhar Subramaniam, Steven Laureys, Prejaas K. B. Tewarie"
-        },
-        {
-          "title": "Statistical Mechanics of Spike Trains: Self-Consistent Activity Ensembles and Phase Transitions",
-          "url": "https://arxiv.org/abs/2610.20971",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "We introduce a statistical-mechanical framework for spiking neuronal systems in which entire spike trains, defined as spatiotemporal configurations of discrete events, are treated as microstates of the system. Instead of modeling explicit…",
-          "authors": "Jan Pyrzowski, Laura Messio, Guillaume Marrelec, Marcin Markiewicz"
-        },
-        {
-          "title": "Neural Computation Runs on Dissipative Structures Under Cyclic Calibration: A Systems Perspective on Sleep",
-          "url": "https://arxiv.org/abs/2610.21486",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Biological function operates far from thermodynamic equilibrium, sustained by metastable structures that continuously cycle through synthesis, function execution, and degradation--consuming energy and exporting entropy in the process.…",
-          "authors": "Javier Diaz"
-        },
-        {
-          "title": "Transferable conditional brain charts link cortico-subcortical structure to Alzheimer's disease progression",
-          "url": "https://arxiv.org/abs/2610.21660",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Normative models chart how brain measures vary across the lifespan, expressing each individual as a deviation from a healthy reference. However, most regional models of cortical thickness disregard dependencies between cortical and…",
-          "authors": "Nitin Sharma, Sicheng Dai, Francesco A. Mallus, Atharva Kand, Marc Lemnitzer, Minh-Hieu Nguyen, Mebin Muhammed Hamzakoya Sulaikha, Jijia Xing, Mariam Zabihi, Gülce Lale, Gokul Perumbayil Vijayakrishnan, Elias Schreiner, Madhumitha Sivakumar Punitha, Paul Buttkus, Ça\\ugatay Y\\ild\\iz, Poornima Kumar, Thomas Grote, Esten Leonardsen, Francesco Sammarco, Vinod Kumar Jangir, Sarah Sobotta, Barbora Rehák Bu\\vcková, Augustijn A. A. de Boer, Konstantinos Tsilimparis, Christian Gaser, Charlotte Fraza, Saige Rutherford, Seyed Mostafa Kia, Andre F. Marquand, Yanwu Yang, Richard Dinga, Thomas Wolfers"
-        },
-        {
-          "title": "Semantic Alignment of EEG and Text: A Contrastive Learning Framework for Decoding Imagined Speech",
-          "url": "https://arxiv.org/abs/2610.20766",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Imagined speech decoding from EEG offers a promising route toward naturalistic brain-computer interfaces. Traditional closed-set classifiers treat semantic categories as independent labels and do not explicitly exploit relationships among…",
-          "authors": "Shahryar G. Namdari, Francesco Iacomi, Riccardo Barbieri, Luca Mainardi"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -118,6 +69,38 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "New drug reverses severe fatty liver disease by repairing the gut",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261016080912.htm",
+          "publishedDate": "Sat, 17 Oct 2026 09:45:06 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have discovered that a potential new drug can reverse severe fatty liver disease in animal models by restoring gut health and blocking harmful substances from reaching the liver. The breakthrough could pave the way for new…",
+          "authors": ""
+        },
+        {
+          "title": "Brain cells meant to protect us may be fueling cognitive decline",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
+          "publishedDate": "Sat, 17 Oct 2026 08:44:22 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a surprising cause of age-related cognitive decline involving brain cells previously thought to be entirely beneficial. As these cells become dysfunctional, they can produce abnormal amounts of myelin, disrupting…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
+          "publishedDate": "Sat, 17 Oct 2026 01:14:50 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor sleep harms metabolism…",
+          "authors": ""
+        },
+        {
+          "title": "Stanford’s new microscope reveals living cells like never before",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015073231.htm",
+          "publishedDate": "Fri, 16 Oct 2026 21:06:05 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Stanford scientists have developed a revolutionary microscope that reveals the hidden inner workings of living cells in real time, without the fluorescent labels that can interfere with observations. The breakthrough could provide new…",
+          "authors": ""
+        },
+        {
           "title": "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
           "url": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
           "publishedDate": "Fri, 16 Oct 2026 08:46:50 EDT",
@@ -132,132 +115,67 @@
           "source": "sciencedaily.com",
           "summary": "Yale scientists have uncovered how the stress hormone cortisol helps the brain turn emotional experiences into stronger, longer-lasting memories. The discovery reveals that stress can reshape communication between brain networks involved…",
           "authors": ""
-        },
-        {
-          "title": "STAT+: In DOGE’s aftermath, federal health workers bristle at new performance reviews",
-          "url": "https://www.statnews.com/2026/10/16/federal-performance-reviews-health-agency-employees-wary-after-doge/?utm_campaign=rss",
-          "publishedDate": "Fri, 16 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Changes to the annual performance review process are the latest flashpoint in tensions between federal workers across the Department of Health and Human Services and the Trump administration, federal employees&#8230;",
-          "authors": "Margaret Manto"
-        },
-        {
-          "title": "A protein that fuels cancer could also be the key to fighting it",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261015073203.htm",
-          "publishedDate": "Fri, 16 Oct 2026 00:51:38 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have discovered how to turn a protein that normally fuels cancer growth into a weapon against it. By activating PPARD in immune cells, researchers made them better at burning fat and attacking tumors, slowing or stopping cancer…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover how exercise reverses muscle aging",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261015003550.htm",
-          "publishedDate": "Thu, 15 Oct 2026 20:41:45 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a hidden biological mechanism that helps explain how exercise can reverse some of the damage caused by muscle aging. The key is a gene called DEAF1, which becomes overactive with age and interferes with the…",
-          "authors": ""
-        },
-        {
-          "title": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
-          "url": "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss",
-          "publishedDate": "Thu, 15 Oct 2026 20:46:09 +0000",
-          "source": "statnews.com",
-          "summary": "U.S. health officials are moving ahead with a plan to allow specialty pharmacies to produce certain peptides, a class of largely unregulated injections favored by health secretary Robert F. Kennedy&#8230;",
-          "authors": "Associated Press"
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "First Mathematical Runtime Analyses of Evolutionary Multitask Multi-Objective Optimization",
-          "url": "https://arxiv.org/abs/2610.21311",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "To facilitate the solving of complex problems, evolutionary multitask optimization is regarded as a promising technique due to its capacity for cross-task knowledge transfer. In contrast to empirical evidences, no mathematical runtime…",
-          "authors": "Danyang Zhang, Weijie Zheng"
-        },
-        {
-          "title": "Beyond the Hamming Cliff: Compact Spatial Encodings Preserving Semantic Distance in Spiking Neural Networks",
-          "url": "https://arxiv.org/abs/2610.22083",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "By pre-processing input signals with Gray, Thermometer, Johnson and hybrid encodings before passing them to spiking neural networks running on SpiNNaker hardware, Davies et al.(2025) address the semantic-spatial disparity that causes the…",
-          "authors": "Sergio Davies, Muhammad Aitsam, Morgan-Tyler Stone, Alessandro Di Nuovo, Liangxiu Han"
-        },
-        {
-          "title": "A restart rule for genetic algorithms based on Schnabel census",
-          "url": "https://arxiv.org/abs/2610.22211",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "A new adaptive restart rule for Genetic Algorithms (GAs) is considered. The rule is based on the Schnabel Census method, originally developed for statistical estimation of a size of animal population. In this paper, the Schnabel Census…",
-          "authors": "Anton Eremeev, Yulia Zakharova"
-        },
-        {
-          "title": "Approaching Backpropagation Accuracy with Weight Perturbation on MNIST",
-          "url": "https://arxiv.org/abs/2610.21665",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Weight perturbation (WP) estimates learning directions from random parameter perturbations and a scalar change in loss, without backpropagating derivatives. We examine how batch size, training duration, and estimator stabilization affect…",
-          "authors": "Patrick Inoue"
-        },
-        {
-          "title": "Attention over noisy examples: generalization and memorization in the exponential Hopfield network",
-          "url": "https://arxiv.org/abs/2610.22191",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "In Hebbian learning from examples a Hopfield network of $N$ neurons is not supplied with the $K$ archetypes it has to retrieve but with $M$ blurred examples of each, of quality $r$, and whether it can infer them depends on the load…",
-          "authors": "Francesco Alemanno"
-        },
-        {
-          "title": "T-GADE: Thermodynamical Generative-AI-Driven Evolution of LLM Artifacts",
-          "url": "https://arxiv.org/abs/2609.12286",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Introducing large language models (LLMs) into evolutionary computation enables semantic generation of candidates, but the classical problem of maintaining population diversity remains. Inspired by the thermodynamical genetic algorithm…",
-          "authors": "Kyoko Ogawa, Naoki Mori"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 4,
+      "itemCount": 6,
       "items": [
         {
-          "title": "Dual-Purpose SSB Design for Joint Time-Frequency Synchronization Using Relocated DMRS",
-          "url": "https://arxiv.org/abs/2610.21617",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The synchronization signal block (SSB) is designed to synchronize a capable user-equipment (UE) with the base-station (BS) in recent cellular networks. However, the same SSB cannot be utilized by a narrowband, low-complexity, and low-power…",
-          "authors": "Sadiq Iqbal (Department of Electrical and Electronics Engineering, Istanbul Medipol University, Istanbul, 34810, Turkey), Abdelali Arous (Department of Electrical and Electronics Engineering, Istanbul Medipol University, Istanbul, 34810, Turkey), Huseyin Arslan (Department of Electrical and Electronics Engineering, Istanbul Medipol University, Istanbul, 34810, Turkey)"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
         },
         {
-          "title": "How large an effect would we have seen? Positive controls, detection floors and dataset pitfalls in scalp-EEG speech decoding",
-          "url": "https://arxiv.org/abs/2610.20942",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Objective. Studies that decode imagined speech from scalp electroencephalography (EEG) commonly validate their pipelines with a positive control, usually overt speech, and report null results without stating what effect size the pipeline…",
-          "authors": "Blessing Isoyiza Adeika, Onyema Osuagwu"
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
         },
         {
-          "title": "Cross-subject decoding of imagined speech from scalp EEG: a leakage-controlled evaluation on three public corpora",
-          "url": "https://arxiv.org/abs/2610.20954",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Objective. A decoder of imagined speech that works for a new user without calibration would make a non-invasive speech interface practical. We tested whether imagined-speech content recorded with scalp electroencephalography (EEG)…",
-          "authors": "Blessing Isoyiza Adeika, Onyema Osuagwu"
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
         },
         {
-          "title": "A hidden Markov model for unsupervised EEG-based tracking of auditory attention to a single voice",
-          "url": "https://arxiv.org/abs/2610.21691",
-          "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Objective: Absolute auditory attention decoding (aAAD) aims to track how strongly a listener attends to a single speech source using electroencephalography (EEG). Unlike selective auditory attention decoding, aAAD lacks a competing speech…",
-          "authors": "Tianyi Li, Simon Geirnaert, Davina Van den Broek, Elien Bellon, Bert De Smedt, Alexander Bertrand"
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }

@@ -1,29 +1,23 @@
 {
-  "generatedAt": "2026-10-17T00:45:13.440Z",
-  "date": "2026-10-17",
-  "topic": "表現学習と学習",
-  "templateName": "three-insights",
+  "generatedAt": "2026-10-18T00:15:17.842Z",
+  "date": "2026-10-18",
+  "topic": "深層学習と注意機構",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "FlatClip: Reusing Image Foundation Models for fMRI Representation Learning via Cortical Flatmaps",
-  "paperLink": "https://arxiv.org/abs/2609.31204",
-  "figureUrl": "https://arxiv.org/html/2609.31204/2609.31204v2/motivation.png",
-  "formatted": "これを読んで、脳に対する見方が変わりました。\n\nこの研究から得られる3つの重要な示唆。\n\n表現学習と学習の最新成果を整理しました。\n\n🔬 表現学習 × 学習 × fMRI × ECoG(皮質脳波)\n\n📊 注目すべきデータ：\n→ Across four resting-state benchmarks, FlatClip outperforms the evaluated ROI-level baselines on HCP and ADNI, but is weaker on PPMI and below the strongest voxel-level models...\n→ Spatial perturbations reduce performance with both retrained and fixed readouts, and anatomy-linked arrangements outperform cortical-pixel permutations across three colormaps.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 FlatClip: Reusing Image Foundation Models for fMRI Representation Learning via Cortical Flatmaps\n🔗 https://arxiv.org/abs/2609.31204\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #NeuroAI",
-  "summaryJP": "表現学習と学習 — 注目すべき3つの示唆（神経デコーディング）",
-  "paperAuthors": "Mo Wang, Wenhao Ye, Zihan Ning, Jiayu Zuo, Junfeng Xia, Hongkai Wen, Quanying Liu",
-  "publishedDate": "Fri, 16 Oct 2026 00:00:00 -0400",
-  "paperId": "2609.31204",
-  "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "paperTitle": "A Deep Learning Framework for Accurate lncRNA-Protein Interaction Prediction via Multi-Kernel Graph Embeddings and Self-Attention.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42888322/",
+  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n深層学習と注意機構の最新研究です。\n\n🔬 深層学習 × 注意機構 × 学習\n\n📊 注目すべきデータ：\n→ To address these challenges, we propose MAKGLPIN (Multi-Architecture, Multi-Kernel Graph-based LPI Network), a novel deep learning framework that integrates sequence features,...\n→ Extensive evaluations demonstrate that MAKGLPIN outperforms existing methods in robustness, generalizability, and predictive precision across benchmark datasets.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 A Deep Learning Framework for Accurate lncRNA-Protein Interaction Prediction via Multi-Kernel Graph Embeddings and Self-Attention.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42888322/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #DeepLearning",
+  "summaryJP": "深層学習と注意機構 — 次世代へ続く布石（ニューロAI・計算論）",
+  "paperAuthors": "Shivani Saxena, Ahsan Z Rizvi",
+  "publishedDate": "2026-10-16",
+  "paperId": "42888322",
+  "paperSource": "pubmed",
+  "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "表現学習",
-    "学習",
-    "fMRI",
-    "ECoG(皮質脳波)"
+    "深層学習",
+    "注意機構",
+    "学習"
   ],
-  "abstractExcerpt": "Can the spatial organization of cortical activity help transfer frozen image representations to fMRI prediction? We introduce FlatClip, which renders cortical activity as anatomy-linked flatmaps and extracts features with a frozen SigLIP2…",
-  "figureUrls": [
-    "https://arxiv.org/html/2609.31204/2609.31204v2/motivation.png",
-    "https://arxiv.org/html/2609.31204/2609.31204v2/figs/pipeline.png",
-    "https://arxiv.org/html/2609.31204/2609.31204v2/nsdimage.png"
-  ]
+  "abstractExcerpt": "Long non-coding RNAs (lncRNAs) play a pivotal role in regulating biological processes, primarily through lncRNA-Protein Interactions (LPI), which are crucial for understanding disease mechanisms and cellular functions. While computational…",
+  "figureUrls": []
 }
