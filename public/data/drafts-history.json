@@ -1,5 +1,28 @@
 [
   {
+    "generatedAt": "2026-10-19T00:27:05.411Z",
+    "date": "2026-10-19",
+    "topic": "表現学習と深層学習",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "AI-bioinformatics synergy for precision medicine in brain diseases: integrating radiomics and multi-omics data.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42893563/",
+    "formatted": "この研究データ、知らないままでいいですか？\n\n脳科学とAI——その境界線が消えつつある。\n\n表現学習と深層学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 表現学習 × 深層学習 × 学習\n\n> The convergence of artificial intelligence (AI) and bioinformatics is reshaping the landscape of precision medicine in brain diseases, particularly in neurological diseases and brain tumors. Despite advances in both fields, the combined application of radiomics and multi-omics...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nニューロAI・計算論の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 AI-bioinformatics synergy for precision medicine in brain diseases: integrating radiomics and multi-omics data.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42893563/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #NeuralDecoding",
+    "summaryJP": "表現学習と深層学習 — 脳科学とAIをつなぐ研究（ニューロAI・計算論）",
+    "paperAuthors": "Bekir Altas, Polymnia Georgiou, Anna Onisiforou",
+    "publishedDate": "2026-10-18",
+    "paperId": "42893563",
+    "paperSource": "pubmed",
+    "themeArea": "ニューロAI・計算論",
+    "jpKeywords": [
+      "表現学習",
+      "深層学習",
+      "学習"
+    ],
+    "abstractExcerpt": "The convergence of artificial intelligence (AI) and bioinformatics is reshaping the landscape of precision medicine in brain diseases, particularly in neurological diseases and brain tumors. Despite advances in both fields, the combined…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-10-18T00:15:17.842Z",
     "date": "2026-10-18",
     "topic": "深層学習と注意機構",
@@ -1214,29 +1237,6 @@
       "クローズドループ制御"
     ],
     "abstractExcerpt": "Memory prosthetics, closed-loop brain-computer interfaces that decode hippocampal activity and deliver adaptive stimulation, are transitioning from animal proof-of-concept to first-in-human trials. Realizing chronically implantable systems…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-08-30T00:39:22.460Z",
-    "date": "2026-08-30",
-    "topic": "深層学習と学習",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Explainable Deep Learning of Transcriptomes Prioritizes Candidate Biomarkers With Preferential Performance in Gastric Cardia Cancer Cohorts.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42667125/",
-    "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n深層学習と学習の最新成果を整理しました。\n\n🔬 深層学習 × 学習 × 注意機構\n\n📊 注目すべきデータ：\n→ The Asian Cancer Research Group SuperSeries GSE66229 (300 tumors and 100 patient-matched non-tumor tissues) underwent robust multi-array average preprocessing and quality control.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Explainable Deep Learning of Transcriptomes Prioritizes Candidate Biomarkers With Preferential Performance in Gastric Cardia Cancer Cohorts.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42667125/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #ニューロテック",
-    "summaryJP": "深層学習と学習 — 注目すべき3つの示唆（ニューロAI・計算論）",
-    "paperAuthors": "Jinling Xu, Chunfeng Li",
-    "publishedDate": "2026-08-29",
-    "paperId": "42667125",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "深層学習",
-      "学習",
-      "注意機構"
-    ],
-    "abstractExcerpt": "Gastric cardia adenocarcinoma is biologically distinct from distal disease, but deployable molecular markers remain scarce. We investigated whether explainable deep learning applied to public transcriptomes could nominate diagnostic and…",
     "figureUrls": []
   }
 ]
