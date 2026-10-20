@@ -1,18 +1,83 @@
 {
-  "generatedAt": "2026-10-19T00:27:06.097Z",
+  "generatedAt": "2026-10-20T01:13:59.071Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Alignment of visual brain encoding models with individual perceptual similarity judgments",
+          "url": "https://arxiv.org/abs/2610.22569",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Encoding models that predict brain activation responses to images have traditionally been trained to maximize accuracy when predicting observed brain data. However, their internal representations may not reflect individual human…",
+          "authors": "Daniel Chong, Haomiao Chen, Keith W Jamison, Raja Marjieh, Ilia Sucholutsky, Nori Jacoby, Amy Kuceyeski"
+        },
+        {
+          "title": "EEG Lempel-Ziv Complexity vis-à-vis Autocorrelation Function",
+          "url": "https://arxiv.org/abs/2610.23231",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Measures of signal complexity have become increasingly popular in electroencephalography (EEG), where they are often interpreted as indicators of neural information processing, dynamical richness, or conscious state. In contrast, classical…",
+          "authors": "Pedro Montoya, Ignacio Cifre, José Luis Rosselló Sanz, Dante R. Chialvo"
+        },
+        {
+          "title": "Distributional signatures of computation: inferring mechanisms from computation time distributions",
+          "url": "https://arxiv.org/abs/2610.23607",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Computational complexity theory provides a framework for analysing abstract models of computation, whereas computational systems operate as finite physical implementations whose behaviour is shaped by their architecture and physical…",
+          "authors": "Céline van Valkenhoef, Catherine Schuman, Nikolaus Kriegeskorte, Philip Walther"
+        },
+        {
+          "title": "Upper bounds on the number of causal pieces in spiking neural networks",
+          "url": "https://arxiv.org/abs/2610.22484",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The input space of single-spike neural networks decomposes into causal pieces, and the number of causal pieces has been shown to provide a lower bound on the approximation error for some spiking neural networks. While this decomposition is…",
+          "authors": "Dominik Dold, Dennis Elbrächter, Philipp Petersen"
+        },
+        {
+          "title": "Brain-Aligned Multimodal LLMs for Social and Emotional Understanding of Cartoon Movies",
+          "url": "https://arxiv.org/abs/2610.22706",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Multimodal large language models (MLLMs) offer scalable annotations of social and affective content, but their temporal agreement with human judgments and neural predictive value require further evaluation. We compared diffusion-based and…",
+          "authors": "Yiran Huang, Zeyong Zhang, Bharat Biswal, Xin Di, Mengjia Xu"
+        },
+        {
+          "title": "What Shapes Brain Alignment of Large Language Models during Dialogue? Insights from Language Production and Comprehension",
+          "url": "https://arxiv.org/abs/2610.22961",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Brain alignment of large language models (LLMs) offers a way to investigate representational similarities between LLMs and the human brain during language processing. While previous studies have mainly focused on passive language…",
+          "authors": "Yuko Nakagi, Yuya Chiba, Yasue Kishino"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Trump orders creation of NIH division, task force on women’s health",
+          "url": "https://www.statnews.com/2026/10/19/executive-order-melania-trump-nih-division-on-womens-health/?utm_campaign=rss",
+          "publishedDate": "Mon, 19 Oct 2026 17:42:45 +0000",
+          "source": "statnews.com",
+          "summary": "Melania Trump said a new research and policy initiative will set “a new standard for women’s health.”",
+          "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "Two former Republican lawmakers say the GOP’s vaccine position is a liability",
+          "url": "https://www.statnews.com/2026/10/19/health-news-two-former-republican-congressmen-against-gop-vaccine-liability/?utm_campaign=rss",
+          "publishedDate": "Mon, 19 Oct 2026 13:39:28 +0000",
+          "source": "statnews.com",
+          "summary": "The Republican party’s confusing messaging on vaccines is going to hurt candidates in the midterms, two former GOP congressmen argue.",
+          "authors": "Amanda Erickson"
+        },
         {
           "title": "What to read before you go see that new documentary on Elizabeth Holmes",
           "url": "https://www.statnews.com/2026/10/16/health-news-what-to-read-before-elizabeth-holmes-you-can-see-everything/?utm_campaign=rss",
@@ -44,22 +109,6 @@
           "source": "statnews.com",
           "summary": "Kenya reports a second Ebola case. Meanwhile, the situation in Congo is still quite dire. Authorities have confirmed more than 4,000 deaths and 9,000 cases as officials have struggled to&#8230;",
           "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "Forty percent of high school students report binge eating in new CDC survey",
-          "url": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss",
-          "publishedDate": "Thu, 15 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "About 40% of high school students reported binge-eating in the past month in a new CDC survey, highlighting how widespread this form of disordered eating is among young people.",
-          "authors": "Sarah Todd"
-        },
-        {
-          "title": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
-          "url": "https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss",
-          "publishedDate": "Wed, 14 Oct 2026 11:53:49 +0000",
-          "source": "statnews.com",
-          "summary": "A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results. A new trial announced&#8230;",
-          "authors": "Theresa Gaffney"
         }
       ]
     },
@@ -69,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Scientists discover a natural compound that could protect the brain from too much salt",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
-          "publishedDate": "Sun, 18 Oct 2026 09:46:34 EDT",
+          "title": "Trump orders creation of NIH division, task force on women’s health",
+          "url": "https://www.statnews.com/2026/10/19/executive-order-melania-trump-nih-division-on-womens-health/?utm_campaign=rss",
+          "publishedDate": "Mon, 19 Oct 2026 17:42:45 +0000",
+          "source": "statnews.com",
+          "summary": "Melania Trump said a new research and policy initiative will set “a new standard for women’s health.”",
+          "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "STAT+: The umpires getting rich off surprise medical bills, and MLB job lock",
+          "url": "https://www.statnews.com/2026/10/19/no-surprises-act-arbitrators-getting-rich-jake-bauers-health-insurance/?utm_campaign=rss",
+          "publishedDate": "Mon, 19 Oct 2026 15:43:35 +0000",
+          "source": "statnews.com",
+          "summary": "We dig into trust, prices, and a bit of baseball in this week's Health Care Inc. newsletter.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
+          "publishedDate": "Mon, 19 Oct 2026 08:57:02 EDT",
           "source": "sciencedaily.com",
-          "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging…",
+          "summary": "Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new…",
           "authors": ""
         },
         {
-          "title": "Eating blueberries every day may have a surprising effect on your mood",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261017230028.htm",
-          "publishedDate": "Sun, 18 Oct 2026 09:22:24 EDT",
+          "title": "Scientists discover why some people still can’t taste food after COVID-19",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261018205033.htm",
+          "publishedDate": "Mon, 19 Oct 2026 08:03:02 EDT",
           "source": "sciencedaily.com",
-          "summary": "Eating blueberries every day could have surprising effects on mood, according to a small study that found greater reductions in depressive symptoms among older adults who consumed the fruit for three months. Researchers also detected…",
+          "summary": "Scientists have uncovered a possible explanation for why some people struggle to taste food more than a year after recovering from COVID-19. By examining taste buds from patients with lingering symptoms, researchers discovered molecular…",
           "authors": ""
         },
         {
-          "title": "Scientists link a strange sugar in red meat to a 63% higher diabetes risk",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261017230031.htm",
-          "publishedDate": "Sun, 18 Oct 2026 09:09:01 EDT",
+          "title": "Just 3,000 steps a day may help slow Alzheimer&#039;s, scientists find",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
+          "publishedDate": "Mon, 19 Oct 2026 07:23:26 EDT",
           "source": "sciencedaily.com",
-          "summary": "A study of nearly 90,000 adults found that people consuming the most of a little-known sugar found in red meat had a 63% higher risk of developing type 2 diabetes. Scientists suspect the sugar may trigger chronic inflammation, potentially…",
+          "summary": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half the cognitive and…",
           "authors": ""
         },
         {
-          "title": "Magic mushroom ingredient takes the fight out of aggressive fish",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm",
-          "publishedDate": "Sun, 18 Oct 2026 08:52:13 EDT",
+          "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
+          "publishedDate": "Mon, 19 Oct 2026 06:02:32 EDT",
           "source": "sciencedaily.com",
-          "summary": "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish. Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in mangrove rivulus fish…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists uncover 3 key brain pathways linked to lasting depression relief",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261017230021.htm",
-          "publishedDate": "Sun, 18 Oct 2026 08:19:08 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe, treatment-resistant depression. They also discovered that patients who failed to improve after two years…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover that male and female skin play by different rules",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261017230020.htm",
-          "publishedDate": "Sun, 18 Oct 2026 06:52:51 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a surprising difference in how male and female skin repairs and renews itself. By tracking individual skin stem cells in living mice for five months, researchers discovered that female cells work together in a…",
+          "summary": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light. The revolutionary technique has already helped researchers activate memories and is opening new…",
           "authors": ""
         }
       ]
@@ -121,61 +170,102 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "When the implementation matters more than the algorithm: NSGA-II and other multi-objective optimizers in engineering design tools",
+          "url": "https://arxiv.org/abs/2610.22397",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Engineering design tools increasingly embed optimizers as ready-made components that users select by algorithm name, while operator settings and bound, integer and duplicate handling stay fixed inside each tool. This study tests whether…",
+          "authors": "Luciano Ambrosini"
+        },
+        {
+          "title": "Upper bounds on the number of causal pieces in spiking neural networks",
+          "url": "https://arxiv.org/abs/2610.22484",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "The input space of single-spike neural networks decomposes into causal pieces, and the number of causal pieces has been shown to provide a lower bound on the approximation error for some spiking neural networks. While this decomposition is…",
+          "authors": "Dominik Dold, Dennis Elbrächter, Philipp Petersen"
+        },
+        {
+          "title": "SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks",
+          "url": "https://arxiv.org/abs/2610.23046",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "On neuromorphic chips, spiking neural networks (SNNs) consume far less energy than artificial neural networks (ANNs), but the limited memory of these chips requires low-bit synaptic weights and membrane potentials. Existing post-training…",
+          "authors": "Kai Sun, Peibo Duan, Zhanglu Yan, Guowei Zhang, Yongsheng Huang, Levin Kuhlmann"
+        },
+        {
+          "title": "Wavelength Diversity Expands the Expressive Power of Optical Computing",
+          "url": "https://arxiv.org/abs/2610.23070",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Universal function approximation underpins neural networks' capacity to represent nonlinear relationships, but realizing this capability in optical hardware requires engineering the computational features encoded in light. Here, we show…",
+          "authors": "Shiqi Chen, Che-Yung Shen, Parnian Ghapandar Kashani, Yongkang Cheng, Aydogan Ozcan"
+        },
+        {
+          "title": "Algorithm Modelization: Transforming Optimization Algorithms into Evolvable Intelligence",
+          "url": "https://arxiv.org/abs/2610.23161",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Can algorithms be learned and evolved as models, rather than repeatedly redesigned as programs? We explore this question by introducing Algorithm Modelization, a new paradigm that turns iterative algorithms into trainable models. Its…",
+          "authors": "Jian Yao, Zhiyao Zhang, Yichen Li, Xingyu Wu, Kay Chen Tan"
+        },
+        {
+          "title": "QD-Rec: Open-Ended Evolution of Recommendations via Quality-Diversity",
+          "url": "https://arxiv.org/abs/2610.23470",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Open-ended search combined with foundation models has produced advances such as faster algorithms, new results on open mathematical problems, and self-improving agents. We extend this paradigm to recommendation for decision-making,…",
+          "authors": "Takashi Ishida, Taro Makino, Issa Sugiura"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 5,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
+          "title": "Asynchronous Cell-Free Wireless Networks",
+          "url": "https://arxiv.org/abs/2610.22641",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "This paper introduces intentional symbol-level asynchronicity as an interference-management mechanism for the uplink of cell-free networks. Rather than treating timing offsets as impairments, user-specific delays are deliberately assigned…",
+          "authors": "Hossein Maleki, Angel Lozano, Hamid Jafarkhani"
         },
         {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
+          "title": "Entropy-Based Wireless Technology Recognition",
+          "url": "https://arxiv.org/abs/2610.23158",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Wireless Technology Recognition (WTR) enables identifying wireless technologies from received radio signals and is important for spectrum monitoring and management systems. Existing approaches either rely on handcrafted signal features…",
+          "authors": "Mohammad Alhellani, Eli De Poorter, Mamoun Guenach, Adnan Shahid"
         },
         {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
+          "title": "Temporal vs Spectral Resolution in CSI Reporting for Wi-Fi ISAC",
+          "url": "https://arxiv.org/abs/2610.23422",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "CSI feedback is fundamental to proposed uses of Wi-Fi sensing such as human activity recognition (HAR); but it also constitutes significant overhead as resources must be allocated away from data communications. Wi-Fi CSI extraction can be…",
+          "authors": "Abolfazl Zakeri, Sumit Roy, Nhan Thanh Nguyen, Markku Juntti"
         },
         {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
+          "title": "A Smaller Subspace is All You Need: Efficient ISAC Beamforming via Dimensionality Reduction",
+          "url": "https://arxiv.org/abs/2610.23462",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Integrated sensing and communication (ISAC) has been recognized as a critical technology for the sixth generation (6G) wireless networks. Under monostatic sensing mode, achieving a balance between communication and sensing performance via…",
+          "authors": "Ruiqi Liu, Yuanshuo Gang, Tianqi Mao, Qingqing Wu"
         },
         {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "VesperCSI: A High-Performance and Extensible CSI Acquisition Framework for Edge Wi-Fi Sensing",
+          "url": "https://arxiv.org/abs/2610.22581",
+          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Channel State Information (CSI) captures fine-grained changes in Wi-Fi channel propagation and provides a foundation for device-free sensing applications such as activity recognition, localization, and occupancy detection. The development…",
+          "authors": "Kaan Baydemir, Sajjad Baghaee, Ilkay Ulusoy"
         }
       ]
     }
