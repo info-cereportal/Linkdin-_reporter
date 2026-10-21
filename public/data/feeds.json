@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T01:13:59.071Z",
+  "generatedAt": "2026-10-21T00:52:46.186Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Alignment of visual brain encoding models with individual perceptual similarity judgments",
-          "url": "https://arxiv.org/abs/2610.22569",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "Spaceflight-associated Motion Sickness in Commercial Crew Astronauts",
+          "url": "https://arxiv.org/abs/2610.24216",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Encoding models that predict brain activation responses to images have traditionally been trained to maximize accuracy when predicting observed brain data. However, their internal representations may not reflect individual human…",
-          "authors": "Daniel Chong, Haomiao Chen, Keith W Jamison, Raja Marjieh, Ilia Sucholutsky, Nori Jacoby, Amy Kuceyeski"
+          "summary": "Spaceflight-associated motion sickness, including space motion sickness (SMS) and terrestrial readaptation motion sickness (TRMS), has presented as the most operationally limiting effect on the human in the days following a gravity…",
+          "authors": "Torin K. Clark, Aaron A. Allred, Jaime Mateus, Marissa Rosenberg"
         },
         {
-          "title": "EEG Lempel-Ziv Complexity vis-à-vis Autocorrelation Function",
-          "url": "https://arxiv.org/abs/2610.23231",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "Longitudinal fMRI reveals multi-network reconfiguration and a recurrent frontoparietal shift across rest and task states during adult aging",
+          "url": "https://arxiv.org/abs/2610.24433",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Measures of signal complexity have become increasingly popular in electroencephalography (EEG), where they are often interpreted as indicators of neural information processing, dynamical richness, or conscious state. In contrast, classical…",
-          "authors": "Pedro Montoya, Ignacio Cifre, José Luis Rosselló Sanz, Dante R. Chialvo"
+          "summary": "Functional connectivity changes across adult aging, but most evidence is cross-sectional, and covariance-based connectivity depends on blood oxygenation level dependent (BOLD) fluctuation amplitude. Covariance decline can reflect changing…",
+          "authors": "Tingshan Liu, Wanxin Dong, Hairong Zheng, Dong Liang, Zhanli Hu, Guanxun Cheng, Na Zhang"
         },
         {
-          "title": "Distributional signatures of computation: inferring mechanisms from computation time distributions",
-          "url": "https://arxiv.org/abs/2610.23607",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "Spontaneous brain-wide rotational dynamics constrain cue-evoked behavior",
+          "url": "https://arxiv.org/abs/2610.25061",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Computational complexity theory provides a framework for analysing abstract models of computation, whereas computational systems operate as finite physical implementations whose behaviour is shaped by their architecture and physical…",
-          "authors": "Céline van Valkenhoef, Catherine Schuman, Nikolaus Kriegeskorte, Philip Walther"
+          "summary": "Uncovering low-dimensional representations of brain-wide neural dynamics and their relationship to behavior remains a central challenge. Here, we show that spontaneous brain-wide rotational dynamics constrain cue-evoked behavior and…",
+          "authors": "Sihan Chen, Yunlong Xu, Doruk Efe Gökmen, Michel Fruchart, Brent Doiron, Vincenzo Vitelli"
         },
         {
-          "title": "Upper bounds on the number of causal pieces in spiking neural networks",
-          "url": "https://arxiv.org/abs/2610.22484",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "PyGPLA: A Python Package for Generalized Phase Locking Analysis",
+          "url": "https://arxiv.org/abs/2610.26304",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The input space of single-spike neural networks decomposes into causal pieces, and the number of causal pieces has been shown to provide a lower bound on the approximation error for some spiking neural networks. While this decomposition is…",
-          "authors": "Dominik Dold, Dennis Elbrächter, Philipp Petersen"
+          "summary": "Spike-field couplings measure the links between neuronal spiking and local field potential (LFP) and provide a tool to study how neural populations coordinate activity across spatial and temporal scales. While modern high-density…",
+          "authors": "Amir Khani, Christian Beste, Shervin Safavi"
         },
         {
-          "title": "Brain-Aligned Multimodal LLMs for Social and Emotional Understanding of Cartoon Movies",
-          "url": "https://arxiv.org/abs/2610.22706",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "Affective Valence as the Interoceptive Rate of Change of Jacobian Scale",
+          "url": "https://arxiv.org/abs/2610.26350",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Multimodal large language models (MLLMs) offer scalable annotations of social and affective content, but their temporal agreement with human judgments and neural predictive value require further evaluation. We compared diffusion-based and…",
-          "authors": "Yiran Huang, Zeyong Zhang, Bharat Biswal, Xin Di, Mengjia Xu"
+          "summary": "Affect is widely held to depend on interoception. This paper proposes that valence is the rate at which interoception moves a self-sustaining system's responsiveness relative to its terminal set (roughly, death). Responsiveness is…",
+          "authors": "David Balduzzi"
         },
         {
-          "title": "What Shapes Brain Alignment of Large Language Models during Dialogue? Insights from Language Production and Comprehension",
-          "url": "https://arxiv.org/abs/2610.22961",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "Simulating Infant Senses with Age-Tuned Networks",
+          "url": "https://arxiv.org/abs/2610.25377",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Brain alignment of large language models (LLMs) offers a way to investigate representational similarities between LLMs and the human brain during language processing. While previous studies have mainly focused on passive language…",
-          "authors": "Yuko Nakagi, Yuya Chiba, Yasue Kishino"
+          "summary": "What a newborn sees, hears and feels, and how this changes month by month, has been measured sense by sense, with different methods and in different units. We bring these measurements together for the first two years of life and ask…",
+          "authors": "Somesh Mohapatra"
         }
       ]
     },
@@ -63,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: He’s slashing quality at nursing homes. This state is letting it happen",
+          "url": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/?utm_campaign=rss",
+          "publishedDate": "Tue, 20 Oct 2026 21:22:26 +0000",
+          "source": "statnews.com",
+          "summary": "The Boston Globe Spotlight Team found Eli Mirlis made grim cuts to resident care while steering millions of dollars from his nursing homes’ revenue into a constellation of real estate&#8230;",
+          "authors": "Kay Lazar, Neena Hagen,and and Tricia L. Nadolny — Boston Globe"
+        },
+        {
+          "title": "STAT+: State regulators move to seize licenses from nursing home chain that was focus of Boston Globe investigation",
+          "url": "https://www.statnews.com/2026/10/20/massachusetts-regulators-move-to-seize-regal-care-nursing-home-licenses-boston-globe-investigation/?utm_campaign=rss",
+          "publishedDate": "Tue, 20 Oct 2026 20:14:29 +0000",
+          "source": "statnews.com",
+          "summary": "A Boston Globe investigation found that RegalCare acquired nursing homes across Massachusetts, then gutted the quality of care.",
+          "authors": "Kay Lazar and Gordon Russell — Boston Globe"
+        },
+        {
+          "title": "How voters feel about trans rights and abortion access will soon be put to the test",
+          "url": "https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/?utm_campaign=rss",
+          "publishedDate": "Tue, 20 Oct 2026 12:55:52 +0000",
+          "source": "statnews.com",
+          "summary": "How do voters feel about trans students participating in school sports teams? Or abortion access? The U.S. is about to find out.",
+          "authors": "Amanda Erickson and O. Rose Broderick"
+        },
+        {
+          "title": "STAT+: Dana-Farber, Beth Israel to begin construction of new $1.68 billion cancer hospital",
+          "url": "https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/?utm_campaign=rss",
+          "publishedDate": "Tue, 20 Oct 2026 12:37:18 +0000",
+          "source": "statnews.com",
+          "summary": "Dana-Farber Cancer Institute and Beth Israel Lahey Health are starting work on a $1.68 billion cancer hospital in Boston, marking a new phase in their competition with Mass General Brigham.",
+          "authors": "Marin Wolf — Boston Globe"
+        },
+        {
+          "title": "STAT+: The key health care ballot measures we’re watching in the midterms",
+          "url": "https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss",
+          "publishedDate": "Tue, 20 Oct 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "State fights over issues like transgender rights and Medicaid offer clues to where Americans stand on contentious health matters.",
+          "authors": "Theresa Gaffney and Isabella Cueto"
+        },
+        {
           "title": "Trump orders creation of NIH division, task force on women’s health",
           "url": "https://www.statnews.com/2026/10/19/executive-order-melania-trump-nih-division-on-womens-health/?utm_campaign=rss",
           "publishedDate": "Mon, 19 Oct 2026 17:42:45 +0000",
           "source": "statnews.com",
           "summary": "Melania Trump said a new research and policy initiative will set “a new standard for women’s health.”",
           "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "Two former Republican lawmakers say the GOP’s vaccine position is a liability",
-          "url": "https://www.statnews.com/2026/10/19/health-news-two-former-republican-congressmen-against-gop-vaccine-liability/?utm_campaign=rss",
-          "publishedDate": "Mon, 19 Oct 2026 13:39:28 +0000",
-          "source": "statnews.com",
-          "summary": "The Republican party’s confusing messaging on vaccines is going to hurt candidates in the midterms, two former GOP congressmen argue.",
-          "authors": "Amanda Erickson"
-        },
-        {
-          "title": "What to read before you go see that new documentary on Elizabeth Holmes",
-          "url": "https://www.statnews.com/2026/10/16/health-news-what-to-read-before-elizabeth-holmes-you-can-see-everything/?utm_campaign=rss",
-          "publishedDate": "Fri, 16 Oct 2026 12:34:03 +0000",
-          "source": "statnews.com",
-          "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022&#8230;",
-          "authors": "Jonathan Wosen, Meghana Keshavan, Angus Chen,and O. Rose Broderick"
-        },
-        {
-          "title": "Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success",
-          "url": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss",
-          "publishedDate": "Thu, 15 Oct 2026 19:58:35 +0000",
-          "source": "statnews.com",
-          "summary": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.",
-          "authors": "Jason Mast"
-        },
-        {
-          "title": "After a melanoma diagnosis, mRNA cancer vaccine delivered a patient hope — and a path forward",
-          "url": "https://www.statnews.com/2026/10/15/melanoma-diagnosis-mrna-cancer-vaccine-stat-summit-boston-2026/?utm_campaign=rss",
-          "publishedDate": "Thu, 15 Oct 2026 15:25:08 +0000",
-          "source": "statnews.com",
-          "summary": "A schoolteacher diagnosed with melanoma provides an inside look at what it was like to be treated with a cancer vaccine developed by Merck and Moderna.",
-          "authors": "STAT Staff"
-        },
-        {
-          "title": "Kenya reports second Ebola case",
-          "url": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss",
-          "publishedDate": "Thu, 15 Oct 2026 11:55:17 +0000",
-          "source": "statnews.com",
-          "summary": "Kenya reports a second Ebola case. Meanwhile, the situation in Congo is still quite dire. Authorities have confirmed more than 4,000 deaths and 9,000 cases as officials have struggled to&#8230;",
-          "authors": "O. Rose Broderick"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Trump orders creation of NIH division, task force on women’s health",
-          "url": "https://www.statnews.com/2026/10/19/executive-order-melania-trump-nih-division-on-womens-health/?utm_campaign=rss",
-          "publishedDate": "Mon, 19 Oct 2026 17:42:45 +0000",
+          "title": "STAT+: State regulators move to seize licenses from nursing home chain that was focus of Boston Globe investigation",
+          "url": "https://www.statnews.com/2026/10/20/massachusetts-regulators-move-to-seize-regal-care-nursing-home-licenses-boston-globe-investigation/?utm_campaign=rss",
+          "publishedDate": "Tue, 20 Oct 2026 20:14:29 +0000",
           "source": "statnews.com",
-          "summary": "Melania Trump said a new research and policy initiative will set “a new standard for women’s health.”",
-          "authors": "Elizabeth Cooney"
+          "summary": "A Boston Globe investigation found that RegalCare acquired nursing homes across Massachusetts, then gutted the quality of care.",
+          "authors": "Kay Lazar and Gordon Russell — Boston Globe"
         },
         {
-          "title": "STAT+: The umpires getting rich off surprise medical bills, and MLB job lock",
-          "url": "https://www.statnews.com/2026/10/19/no-surprises-act-arbitrators-getting-rich-jake-bauers-health-insurance/?utm_campaign=rss",
-          "publishedDate": "Mon, 19 Oct 2026 15:43:35 +0000",
+          "title": "Scientists finally uncover why statins can cause muscle pain",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
+          "publishedDate": "Tue, 20 Oct 2026 09:00:56 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a surprising reason why statins, the widely prescribed cholesterol-lowering drugs that help prevent heart attacks and strokes, can sometimes cause muscle pain, weakness, and even severe muscle damage. Using…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover a way to kill dangerous gut bacteria without killing the good",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261019093353.htm",
+          "publishedDate": "Tue, 20 Oct 2026 08:07:49 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have discovered a natural compound that targets dangerous C. difficile bacteria without wiping out the gut&#039;s beneficial microbes. Successful early tests suggest it could lead to a gentler, more effective treatment for…",
+          "authors": ""
+        },
+        {
+          "title": "Your aging brain may be trading memory for something more valuable",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261019093357.htm",
+          "publishedDate": "Tue, 20 Oct 2026 07:31:22 EDT",
+          "source": "sciencedaily.com",
+          "summary": "The aging brain may be undergoing a remarkable transformation rather than simply losing its abilities, shifting its focus from remembering details to understanding the bigger picture. Scientists suggest this change could be an evolutionary…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261019093355.htm",
+          "publishedDate": "Tue, 20 Oct 2026 05:52:35 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have found a promising way to protect the brain from Alzheimer’s-related damage by blocking immune cells that contribute to the destruction of neurons. In mice, the treatment preserved roughly 40% more tissue in memory centers…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: The key health care ballot measures we’re watching in the midterms",
+          "url": "https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss",
+          "publishedDate": "Tue, 20 Oct 2026 08:30:00 +0000",
           "source": "statnews.com",
-          "summary": "We dig into trust, prices, and a bit of baseball in this week's Health Care Inc. newsletter.",
-          "authors": "Bob Herman"
-        },
-        {
-          "title": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
-          "publishedDate": "Mon, 19 Oct 2026 08:57:02 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover why some people still can’t taste food after COVID-19",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261018205033.htm",
-          "publishedDate": "Mon, 19 Oct 2026 08:03:02 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a possible explanation for why some people struggle to taste food more than a year after recovering from COVID-19. By examining taste buds from patients with lingering symptoms, researchers discovered molecular…",
-          "authors": ""
-        },
-        {
-          "title": "Just 3,000 steps a day may help slow Alzheimer&#039;s, scientists find",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
-          "publishedDate": "Mon, 19 Oct 2026 07:23:26 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half the cognitive and…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
-          "publishedDate": "Mon, 19 Oct 2026 06:02:32 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light. The revolutionary technique has already helped researchers activate memories and is opening new…",
-          "authors": ""
+          "summary": "State fights over issues like transgender rights and Medicaid offer clues to where Americans stand on contentious health matters.",
+          "authors": "Theresa Gaffney and Isabella Cueto"
         }
       ]
     },
@@ -173,99 +173,91 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "When the implementation matters more than the algorithm: NSGA-II and other multi-objective optimizers in engineering design tools",
-          "url": "https://arxiv.org/abs/2610.22397",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "LLM Evolutionary Search Strategies Should be Compared by Tokens",
+          "url": "https://arxiv.org/abs/2610.23977",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Engineering design tools increasingly embed optimizers as ready-made components that users select by algorithm name, while operator settings and bound, integer and duplicate handling stay fixed inside each tool. This study tests whether…",
-          "authors": "Luciano Ambrosini"
+          "summary": "LLM evolutionary search is currently evaluated by counting proposals (candidate programs). We demonstrate this metric hides the true cost of search, and redo the comparison using tokens. By replaying 600 logged runs across 5 tasks and 3…",
+          "authors": "Tal Oved, Roi Pony, Oshri Naparstek, Udi Barzelay"
         },
         {
-          "title": "Upper bounds on the number of causal pieces in spiking neural networks",
-          "url": "https://arxiv.org/abs/2610.22484",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "A Time-Variant Spiking Neuron from a Unified State-Dynamics Perspective",
+          "url": "https://arxiv.org/abs/2610.23981",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The input space of single-spike neural networks decomposes into causal pieces, and the number of causal pieces has been shown to provide a lower bound on the approximation error for some spiking neural networks. While this decomposition is…",
-          "authors": "Dominik Dold, Dennis Elbrächter, Philipp Petersen"
+          "summary": "Spiking neural networks (SNNs) have increasingly incorporated rich neuronal dynamics to enhance temporal processing. However, richer dynamics do not necessarily enable neurons to adapt how information is processed over time. To examine…",
+          "authors": "Jing Yang, Qianhui Liu, Gang Pan, Zhanglu Yan"
         },
         {
-          "title": "SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks",
-          "url": "https://arxiv.org/abs/2610.23046",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "IWOO: Wave Optics Optimizer Improved with Hybrid Strategies for Numerical Optimization and Engineering Applications",
+          "url": "https://arxiv.org/abs/2610.23994",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "On neuromorphic chips, spiking neural networks (SNNs) consume far less energy than artificial neural networks (ANNs), but the limited memory of these chips requires low-bit synaptic weights and membrane potentials. Existing post-training…",
-          "authors": "Kai Sun, Peibo Duan, Zhanglu Yan, Guowei Zhang, Yongsheng Huang, Levin Kuhlmann"
+          "summary": "The Wave Optics Optimizer (WOO) incorporates optical diffraction and interference into numerical optimization and has shown competitive performance in benchmarks and engineering applications. However, it can converge slowly, become trapped…",
+          "authors": "Rui Du, Yaming Zhang, Yongpeng Wen, Linghong Cai, Nanqing Liu"
         },
         {
-          "title": "Wavelength Diversity Expands the Expressive Power of Optical Computing",
-          "url": "https://arxiv.org/abs/2610.23070",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "Length-Independent Stability and $L_2$-Gain Certificates for Chains of Delayed Neural Modules",
+          "url": "https://arxiv.org/abs/2610.25147",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Universal function approximation underpins neural networks' capacity to represent nonlinear relationships, but realizing this capability in optical hardware requires engineering the computational features encoded in light. Here, we show…",
-          "authors": "Shiqi Chen, Che-Yung Shen, Parnian Ghapandar Kashani, Yongkang Cheng, Aydogan Ozcan"
+          "summary": "Networks of repeated neural modules with delayed neighbour coupling need stability guarantees for every number of modules, but delay-dependent criteria certify one network at a time and grow with its size. This paper derives stability and…",
+          "authors": "Ömer Faruk \\.I\\cscanl\\i"
         },
         {
-          "title": "Algorithm Modelization: Transforming Optimization Algorithms into Evolvable Intelligence",
-          "url": "https://arxiv.org/abs/2610.23161",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "Small-scale neural simulation of Caenorhabditis elegans on Loihi-2 using NeuroML2Loihi",
+          "url": "https://arxiv.org/abs/2610.25424",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Can algorithms be learned and evolved as models, rather than repeatedly redesigned as programs? We explore this question by introducing Algorithm Modelization, a new paradigm that turns iterative algorithms into trainable models. Its…",
-          "authors": "Jian Yao, Zhiyao Zhang, Yichen Li, Xingyu Wu, Kay Chen Tan"
+          "summary": "Neural simulation is an essential methodology for studying biological nervous systems, but it remains limited by the computational costs of repeatedly updating neural and synaptic states over many timesteps. Neuromorphic hardware is a…",
+          "authors": "Danny Rosen (Virginia Tech, Institute for Advanced Computing), Ramashish Gaurav (Virginia Tech, Institute for Advanced Computing), Yang Yi (Virginia Tech, Institute for Advanced Computing)"
         },
         {
-          "title": "QD-Rec: Open-Ended Evolution of Recommendations via Quality-Diversity",
-          "url": "https://arxiv.org/abs/2610.23470",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "Let Them Sleep: Recursive Self-Pruning Memory for Long-Horizon LLM Agents",
+          "url": "https://arxiv.org/abs/2610.25561",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Open-ended search combined with foundation models has produced advances such as faster algorithms, new results on open mathematical problems, and self-improving agents. We extend this paradigm to recommendation for decision-making,…",
-          "authors": "Takashi Ishida, Taro Makino, Issa Sugiura"
+          "summary": "Agents that run for a long time have a memory problem, and it is not the one most systems optimize for. Storing every trace and retrieving the nearest neighbors works early and quietly stops working later: the store fills up with failures…",
+          "authors": "Kargi Chauhan, Sadiba Nusrat Nur, Pratibha Revankar, Kyle Montgomery, Chenguang Wang"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 5,
+      "itemCount": 4,
       "items": [
         {
-          "title": "Asynchronous Cell-Free Wireless Networks",
-          "url": "https://arxiv.org/abs/2610.22641",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "A Mathematical Framework for EEG Functional Connectivity: Taxonomy, Measure Relationships, Identifiability, and Analytical Bounds",
+          "url": "https://arxiv.org/abs/2610.24732",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper introduces intentional symbol-level asynchronicity as an interference-management mechanism for the uplink of cell-free networks. Rather than treating timing offsets as impairments, user-specific delays are deliberately assigned…",
-          "authors": "Hossein Maleki, Angel Lozano, Hamid Jafarkhani"
+          "summary": "Electroencephalographic (EEG) functional connectivity is quantified using diverse measures of statistical dependence, spectral coupling, phase synchronization, information transfer, directed interactions, cross-frequency coupling, and…",
+          "authors": "Jerrin Thomas Panachakel"
         },
         {
-          "title": "Entropy-Based Wireless Technology Recognition",
-          "url": "https://arxiv.org/abs/2610.23158",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "Is User Calibration Still Necessary for Continuous Myoelectric Control? A Closed-Loop Comparison of Calibration-Free Controllers",
+          "url": "https://arxiv.org/abs/2610.24802",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Wireless Technology Recognition (WTR) enables identifying wireless technologies from received radio signals and is important for spectrum monitoring and management systems. Existing approaches either rely on handcrafted signal features…",
-          "authors": "Mohammad Alhellani, Eli De Poorter, Mamoun Guenach, Adnan Shahid"
+          "summary": "The need for user-specific calibration remains an often-cited barrier to widespread adoption of myoelectric control. Cross-user models trained on large multi-user datasets can now recognize gestures from unseen users without calibration,…",
+          "authors": "Amir Reza Hariri, Kevin B. Englehart, Erik Scheme"
         },
         {
-          "title": "Temporal vs Spectral Resolution in CSI Reporting for Wi-Fi ISAC",
-          "url": "https://arxiv.org/abs/2610.23422",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "Learning When to Listen: Physics-Informed Synchronization in Molecular Channels",
+          "url": "https://arxiv.org/abs/2610.24181",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "CSI feedback is fundamental to proposed uses of Wi-Fi sensing such as human activity recognition (HAR); but it also constitutes significant overhead as resources must be allocated away from data communications. Wi-Fi CSI extraction can be…",
-          "authors": "Abolfazl Zakeri, Sumit Roy, Nhan Thanh Nguyen, Markku Juntti"
+          "summary": "Recent advances in chemical computing create new opportunities to realize biocompatible communication devices for application in precision medicine. Implanted microscopic transmitters and receivers can exchange information using molecules…",
+          "authors": "Osman Tugay Basaran, Saswati Pal, Falko Dressler, Jorge Torres Gómez"
         },
         {
-          "title": "A Smaller Subspace is All You Need: Efficient ISAC Beamforming via Dimensionality Reduction",
-          "url": "https://arxiv.org/abs/2610.23462",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
+          "title": "Target Sensing in Full-Dimensional MIMO-OFDM ISAC Systems Via Coupled Tensor Decomposition",
+          "url": "https://arxiv.org/abs/2610.24651",
+          "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Integrated sensing and communication (ISAC) has been recognized as a critical technology for the sixth generation (6G) wireless networks. Under monostatic sensing mode, achieving a balance between communication and sensing performance via…",
-          "authors": "Ruiqi Liu, Yuanshuo Gang, Tianqi Mao, Qingqing Wu"
-        },
-        {
-          "title": "VesperCSI: A High-Performance and Extensible CSI Acquisition Framework for Edge Wi-Fi Sensing",
-          "url": "https://arxiv.org/abs/2610.22581",
-          "publishedDate": "Mon, 19 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Channel State Information (CSI) captures fine-grained changes in Wi-Fi channel propagation and provides a foundation for device-free sensing applications such as activity recognition, localization, and occupancy detection. The development…",
-          "authors": "Kaan Baydemir, Sajjad Baghaee, Ilkay Ulusoy"
+          "summary": "Integrated sensing and communication (ISAC) has been recognized as a key enabler for future wireless communication systems. However, existing ISAC designs based on MIMO-OFDM generally fail to fully exploit the spatial degrees of freedom…",
+          "authors": "Ruoyu Zhang, Tingjie Yang, Tianyu Zhao, Lei Cheng, Shuai Wang, Wen Wu, Hüseyin Arslan"
         }
       ]
     }

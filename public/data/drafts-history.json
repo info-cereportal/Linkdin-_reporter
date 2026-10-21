@@ -1,5 +1,36 @@
 [
   {
+    "generatedAt": "2026-10-21T00:52:45.615Z",
+    "date": "2026-10-21",
+    "topic": "注意機構と学習",
+    "templateName": "paradigm-shift",
+    "riskScore": 0,
+    "paperTitle": "Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG",
+    "paperLink": "https://arxiv.org/abs/2602.23410",
+    "figureUrl": "https://arxiv.org/html/2602.23410/2602.23410v4/Figures/architecture.png",
+    "formatted": "注意機構と学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 fMRI × EEG × MEG(脳磁図) × 注意機構\n\n📊 注目すべきデータ：\n→ Brain-OF is pretrained on a large-scale corpus comprising around 40 datasets and demonstrates superior performance across diverse downstream tasks, highlighting the benefits of...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\n神経デコーディングの研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG\n🔗 https://arxiv.org/abs/2602.23410\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #NeuralDecoding",
+    "summaryJP": "注意機構と学習 — 通説を揺さぶる新たな知見（神経デコーディング）",
+    "paperAuthors": "Hanning Guo, Hanwen Bi, Farah Abdellatif, Andrei Galbenus, Jon. N. Shah, Abigail Morrison, Jürgen Dammers",
+    "publishedDate": "Tue, 20 Oct 2026 00:00:00 -0400",
+    "paperId": "2602.23410",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "fMRI",
+      "EEG",
+      "MEG(脳磁図)",
+      "注意機構",
+      "学習",
+      "脳画像研究"
+    ],
+    "abstractExcerpt": "Brain foundation models have achieved remarkable advances across a wide range of neuroscience tasks. However, most existing models are limited to a single functional modality, restricting their ability to exploit complementary…",
+    "figureUrls": [
+      "https://arxiv.org/html/2602.23410/2602.23410v4/Figures/architecture.png",
+      "https://arxiv.org/html/2602.23410/2602.23410v4/Figures/modality_importance_analysis.png",
+      "https://arxiv.org/html/2602.23410/2602.23410v4/Figures/explanation.png"
+    ]
+  },
+  {
     "generatedAt": "2026-10-20T01:13:58.341Z",
     "date": "2026-10-20",
     "topic": "EEG",
@@ -1210,32 +1241,5 @@
     ],
     "abstractExcerpt": "We propose a neurobiologically plausible model of cognition that combines the advantages of connectionist and symbolic systems, and that can explain a wide range of cognitive phenomena. This model, called Rate-Coding Bundle Memory (RCBM),…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-09-01T01:22:53.295Z",
-    "date": "2026-09-01",
-    "topic": "神経ダイナミクス",
-    "templateName": "neuro-ai-bridge",
-    "riskScore": 0,
-    "paperTitle": "Leveraging a Foundation Model for the EEG-Based Diagnosis of Alzheimer's Disease",
-    "paperLink": "https://arxiv.org/abs/2608.27719",
-    "figureUrl": "https://arxiv.org/html/2608.27719/2608.27719v1/pipeline.png",
-    "formatted": "脳科学の最前線から、衝撃の一報です。\n\n脳科学とAI——その境界線が消えつつある。\n\n神経ダイナミクスに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG × 神経ダイナミクス\n\n📊 注目すべきデータ：\n→ By integrating these high-dimensional latent embeddings with a non-linear Random Forest classifier, our approach effectively isolates robust disease markers.\n→ Under a rigorous subject-independent 5-fold cross-validation protocol, the method achieves an ROC-AUC of 89.36% +/- 3.49%, PR AUC of 81.45% +/- 4.43%, and Balanced Accuracy of...\n→ Notably, this performance uses only 8-second EEG segments, surpassing traditional spectral baselines, including band-power and parameterized oscillatory features (FOOOF).\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Leveraging a Foundation Model for the EEG-Based Diagnosis of Alzheimer's Disease\n🔗 https://arxiv.org/abs/2608.27719\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #NeuroAI",
-    "summaryJP": "神経ダイナミクス — 脳科学とAIをつなぐ研究（神経デコーディング）",
-    "paperAuthors": "Maggie Lin, Chung-Lin Hou, Tzyy-Ping Jung",
-    "publishedDate": "Mon, 31 Aug 2026 00:00:00 -0400",
-    "paperId": "2608.27719",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "EEG",
-      "神経ダイナミクス"
-    ],
-    "abstractExcerpt": "Biological heterogeneity in Alzheimer's Disease (AD) poses a critical diagnostic challenge, particularly for traditional linear methods that fail to capture non-linear neural dynamics. To address this, we propose a diagnostic framework…",
-    "figureUrls": [
-      "https://arxiv.org/html/2608.27719/2608.27719v1/pipeline.png",
-      "https://arxiv.org/html/2608.27719/2608.27719v1/PSD.png",
-      "https://arxiv.org/html/2608.27719/2608.27719v1/new_confusion_matrix.png"
-    ]
   }
 ]
