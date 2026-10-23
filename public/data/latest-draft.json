@@ -1,26 +1,21 @@
 {
-  "generatedAt": "2026-10-22T00:51:54.198Z",
-  "date": "2026-10-22",
-  "topic": "fMRI",
-  "templateName": "data-driven",
+  "generatedAt": "2026-10-23T00:54:16.887Z",
+  "date": "2026-10-23",
+  "topic": "脳情報科学の最新研究",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Alignment of visual brain encoding models with individual perceptual similarity judgments",
-  "paperLink": "https://arxiv.org/abs/2610.22569",
-  "figureUrl": "https://arxiv.org/html/2610.22569/2610.22569v2/figures/images/Figure1.png",
-  "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、fMRIの新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 fMRI\n\n> Encoding models that predict brain activation responses to images have traditionally been trained to maximize accuracy when predicting observed brain data. However, their internal representations may not reflect individual human perception.\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Alignment of visual brain encoding models with individual perceptual similarity judgments\n🔗 https://arxiv.org/abs/2610.22569\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #神経科学",
-  "summaryJP": "fMRI — 数値で示された新事実（神経デコーディング）",
-  "paperAuthors": "Daniel Chong, Haomiao Chen, Keith W Jamison, Raja Marjieh, Ilia Sucholutsky, Nori Jacoby, Amy Kuceyeski",
-  "publishedDate": "Wed, 21 Oct 2026 00:00:00 -0400",
-  "paperId": "2610.22569",
+  "paperTitle": "Bootstrapping Life-Inspired Machine Intelligence: The Biological Route from Chemistry to Cognition and Creativity",
+  "paperLink": "https://arxiv.org/abs/2602.08079",
+  "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\n脳情報科学の最新研究の最新成果を整理しました。\n\n🔬 脳情報科学\n\n> Achieving advanced machine intelligence remains a central challenge in AI research, often approached through scaling neural architectures and generative models. However, biological systems offer a broader repertoire of strategies for adaptive, goal-directed behavior - strategies...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n脳情報科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Bootstrapping Life-Inspired Machine Intelligence: The Biological Route from Chemistry to Cognition and Creativity\n🔗 https://arxiv.org/abs/2602.08079\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #BrainComputerInterface",
+  "summaryJP": "脳情報科学の最新研究 — 注目すべき3つの示唆",
+  "paperAuthors": "Giovanni Pezzulo, Michael Levin",
+  "publishedDate": "Thu, 22 Oct 2026 00:00:00 -0400",
+  "paperId": "2602.08079",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "脳情報科学",
   "jpKeywords": [
-    "fMRI"
+    "脳情報科学"
   ],
-  "abstractExcerpt": "Encoding models that predict brain activation responses to images have traditionally been trained to maximize accuracy when predicting observed brain data. However, their internal representations may not reflect individual human…",
-  "figureUrls": [
-    "https://arxiv.org/html/2610.22569/2610.22569v2/figures/images/Figure1.png",
-    "https://arxiv.org/html/2610.22569/2610.22569v2/figures/images/Figure2.png",
-    "https://arxiv.org/html/2610.22569/2610.22569v2/figures/images/Figure3.png"
-  ]
+  "abstractExcerpt": "Achieving advanced machine intelligence remains a central challenge in AI research, often approached through scaling neural architectures and generative models. However, biological systems offer a broader repertoire of strategies for…",
+  "figureUrls": []
 }

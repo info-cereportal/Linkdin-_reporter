@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T00:51:54.915Z",
+  "generatedAt": "2026-10-23T00:54:17.440Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Multilingual Brain Decoding Reveals Shared Cortical Semantic Geometry",
-          "url": "https://arxiv.org/abs/2610.26927",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 -0400",
+          "title": "Vagus nerve stimulation strengthens beta- and gamma-rate auditory steady-state responses in rat cortex",
+          "url": "https://arxiv.org/abs/2610.29042",
+          "publishedDate": "Thu, 22 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Human languages differ markedly in lexical and syntactic form yet can convey similar semantic content. The neural basis of this cross-language semantic commonality remains unclear. Here we developed a multilingual brain decoding framework…",
-          "authors": "Yi Guo, Yong Hu, Michael Kwok-Po Ng, Shuqiang Wang"
+          "summary": "Background: Gamma entrainment using sensory stimulation (GENUS) is under study as a treatment for neurological disease, but cortical engagement is variable. Vagus nerve stimulation (VNS) modulates cortical state and sound-evoked beta-gamma…",
+          "authors": "Shinichi Kumagai, Tomoyo Isoguchi Shiramatsu, Karin Oshima, Yohei Ishishita, Kenji Ibayashi, Yoshiyuki Onuki, Naoto Kunii, Kensuke Kawai, Hirokazu Takahashi"
         },
         {
-          "title": "Does a Flux-Defined Markov Blanket Screen Self-Replicating Gray--Scott Spots? A Computational Test of a Blanket Condition from the Free Energy Principle",
-          "url": "https://arxiv.org/abs/2610.27235",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 -0400",
+          "title": "A Reverse-Gold Theorem: Positive-Data Identification by Substrate-Bounded Contrastive Learners",
+          "url": "https://arxiv.org/abs/2610.28747",
+          "publishedDate": "Thu, 22 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Friston's free energy principle holds that a system separated from its environment by a Markov blanket---a boundary whose states statistically screen its interior from its exterior---can be treated as performing approximate Bayesian…",
-          "authors": "John E Pearson"
+          "summary": "Gold's theorem shows that no learner can identify an arbitrary language in a superfinite class from positive presentations alone. We prove a positive result of a different shape. Fix an innate \\emphrecursive contrast operator $R$ mapping…",
+          "authors": "Rakesh Sengupta"
         },
         {
-          "title": "What I Disbelieve: Quantifying Belief With Negative Ranking Functions",
-          "url": "https://arxiv.org/abs/2610.28357",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 -0400",
+          "title": "Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition",
+          "url": "https://arxiv.org/abs/2610.29720",
+          "publishedDate": "Thu, 22 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "A challenge in exploring the psychology of human uncertainty is its measurement and quantification. Prior work has focused almost exclusively on probability, while the formal theories developed in philosophy are rarely tested. We tested…",
-          "authors": "Hanbin Go, Britt Anderson"
+          "summary": "Spiking Neural Networks (SNNs) promise energy-efficient inference through sparse, event-driven computation, yet remain constrained on continuous, context-dependent tasks such as automatic speech recognition (ASR). A key bottleneck is the…",
+          "authors": "Pavlos Poulos, Katelyn Sadorf, Themos Stafylakis, Costas A. Anastassiou"
         },
         {
-          "title": "Ontic state recovery through prediction",
-          "url": "https://arxiv.org/abs/2610.27139",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 -0400",
+          "title": "Population Neuroscience 3.0: Bridging large-N and small-N paradigms in brain-wide association studies",
+          "url": "https://arxiv.org/abs/2212.04195",
+          "publishedDate": "Thu, 22 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We encounter a system through its responses, yet its state concerns how the system is. Predicting further responses promises knowledge beyond what is immediately observed. What that knowledge tells us about the system's state depends on…",
-          "authors": "Ping Zhang, Quang-Huy Nguyen, Yingtie Lei, Wei-Lun Chao"
+          "summary": "Brain-wide association studies (BWAS) leveraging large datasets, have led to divergent and sometimes opposing views on research practices and priorities. The debates span multiple dimensions, including large-N vs.\\ small-N sampling,…",
+          "authors": "Zi-Xuan Zhou, Xi-Nian Zuo"
         },
         {
-          "title": "Representing short-term movement to reveal animal identity and learning progress",
-          "url": "https://arxiv.org/abs/2610.27140",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 -0400",
+          "title": "Interpretable Embeddings of Speech Enhance and Explain Brain Encoding Performance of Audio Models",
+          "url": "https://arxiv.org/abs/2507.16080",
+          "publishedDate": "Thu, 22 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "How learning progresses over time and varies across individuals is a longstanding question in cognitive and behavioral science. However, a major challenge is identifying observable behavioral measures that faithfully capture learning…",
-          "authors": "Ping Zhang, Quang-Huy Nguyen, Yingtie Lei, Sameera Shridhar, Zachary Leveroni, Ellie Quattrocchi, Jai Y Yu, Wei-Lun Chao"
+          "summary": "Speech foundation models (SFMs) are increasingly hailed as powerful computational models of human speech perception. However, since their representations are inherently black-box, it remains unclear what drives their alignment with brain…",
+          "authors": "Riki Shimizu, Richard J. Antonello, Chandan Singh, Nima Mesgarani"
         },
         {
-          "title": "Cross-disorder Learning of Imaging-derived Joint Mophometric Markers in Alzheimer's and Parkinson's Diseases",
-          "url": "https://arxiv.org/abs/2610.27150",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 -0400",
+          "title": "Bootstrapping Life-Inspired Machine Intelligence: The Biological Route from Chemistry to Cognition and Creativity",
+          "url": "https://arxiv.org/abs/2602.08079",
+          "publishedDate": "Thu, 22 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "As two most prevalent neurodegenerative diseases (NDDs), Alzheimer's disease (AD) and Parkinson's disease (PD) shared commonalities both in symptomology and pathophysiology. However, to what extent and in what way these two distinct…",
-          "authors": "Yuji Zhao, Boris Gutman"
+          "summary": "Achieving advanced machine intelligence remains a central challenge in AI research, often approached through scaling neural architectures and generative models. However, biological systems offer a broader repertoire of strategies for…",
+          "authors": "Giovanni Pezzulo, Michael Levin"
         }
       ]
     },
@@ -62,6 +62,30 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Nutrition experts press White House to release ultra-processed food definition",
+          "url": "https://www.statnews.com/2026/10/22/ultra-processed-food-definition-maha-white-house/?utm_campaign=rss",
+          "publishedDate": "Thu, 22 Oct 2026 18:04:47 +0000",
+          "source": "statnews.com",
+          "summary": "MAHA allies and nutrition experts want the Trump administration to act on ultra-processed foods before the elections.",
+          "authors": "Sarah Todd"
+        },
+        {
+          "title": "STAT+: Crackdowns loom, from China to New York",
+          "url": "https://www.statnews.com/2026/10/22/china-biotech-coins-act-rule-health-insurance-costs-rise/?utm_campaign=rss",
+          "publishedDate": "Thu, 22 Oct 2026 15:06:28 +0000",
+          "source": "statnews.com",
+          "summary": "Speaking on the economy, the vice president told a crowd in Ohio that, “You don’t turn the Titanic around overnight.” Send news tips and bad metaphors to John.Wilkerson@statnews.com or John_Wilkerson.07&#8230;",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Health insurance premiums jump 9%, and more Americans don’t have access to coverage",
+          "url": "https://www.statnews.com/2026/10/22/health-news-insurance-premiums-jump-more-americans-lose-coverage/?utm_campaign=rss",
+          "publishedDate": "Thu, 22 Oct 2026 12:22:12 +0000",
+          "source": "statnews.com",
+          "summary": "Working-age U.S. adults without health insurance rose in 2026. Half of all uninsured people did not seek needed care because of cost concerns, according to a new survey.",
+          "authors": "O. Rose Broderick and Elizabeth Cooney"
+        },
         {
           "title": "STAT+: CMS extends fraud crackdown to New York’s adult day care program",
           "url": "https://www.statnews.com/2026/10/21/cms-medicaid-fraud-nyc-adult-daycare-operators/?utm_campaign=rss",
@@ -85,30 +109,6 @@
           "source": "statnews.com",
           "summary": "Nigeria has confirmed an imported Ebola case tied to the ongoing outbreak centered in the Democratic Republic of the Congo, becoming the fifth country to identify a related infection, health&#8230;",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: Mark Cuban wants to crack open the market for rare disease treatments",
-          "url": "https://www.statnews.com/2026/10/21/mark-cuban-cost-plus-drugs-rare-disease-medicines/?utm_campaign=rss",
-          "publishedDate": "Wed, 21 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Mark Cuban's Cost Plus Drugs says it can reduce manufacturing costs for custom rare disease drugs and n-of-1 gene therapies.",
-          "authors": "Jason Mast"
-        },
-        {
-          "title": "A counterintuitive way to build trust in measles vaccines and public health",
-          "url": "https://www.statnews.com/2026/10/21/measles-vaccination-uptake-experts-suggest-messaging-change/?utm_campaign=rss",
-          "publishedDate": "Wed, 21 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Some experts say public health messaging would be more credible if it focused less on measles deaths and acknowledged that most children survive.",
-          "authors": "Nicholas Florko"
-        },
-        {
-          "title": "STAT+: He’s slashing quality at nursing homes. This state is letting it happen",
-          "url": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/?utm_campaign=rss",
-          "publishedDate": "Tue, 20 Oct 2026 21:22:26 +0000",
-          "source": "statnews.com",
-          "summary": "The Boston Globe Spotlight Team found Eli Mirlis made grim cuts to resident care while steering millions of dollars from his nursing homes’ revenue into a constellation of real estate&#8230;",
-          "authors": "Kay Lazar, Neena Hagen,and and Tricia L. Nadolny — Boston Globe"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: CMS extends fraud crackdown to New York’s adult day care program",
-          "url": "https://www.statnews.com/2026/10/21/cms-medicaid-fraud-nyc-adult-daycare-operators/?utm_campaign=rss",
-          "publishedDate": "Wed, 21 Oct 2026 21:38:41 +0000",
+          "title": "STAT+: Nutrition experts press White House to release ultra-processed food definition",
+          "url": "https://www.statnews.com/2026/10/22/ultra-processed-food-definition-maha-white-house/?utm_campaign=rss",
+          "publishedDate": "Thu, 22 Oct 2026 18:04:47 +0000",
           "source": "statnews.com",
-          "summary": "CMS is cracking down on adult day cares in New York, part of a broader focus on alleged health care fraud.",
-          "authors": "Tara Bannow"
+          "summary": "MAHA allies and nutrition experts want the Trump administration to act on ultra-processed foods before the elections.",
+          "authors": "Sarah Todd"
         },
         {
-          "title": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261020085014.htm",
-          "publishedDate": "Wed, 21 Oct 2026 09:22:17 EDT",
+          "title": "Top MAHA adviser Calley Means resigns from White House days ahead of midterms",
+          "url": "https://www.statnews.com/2026/10/22/calley-means-resigns-white-house-adviser-maha-movement/?utm_campaign=rss",
+          "publishedDate": "Thu, 22 Oct 2026 17:52:09 +0000",
+          "source": "statnews.com",
+          "summary": "The surprising departure of Calley Means comes just before an election that may serve as a referendum on the MAHA movement.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "STAT+: Crackdowns loom, from China to New York",
+          "url": "https://www.statnews.com/2026/10/22/china-biotech-coins-act-rule-health-insurance-costs-rise/?utm_campaign=rss",
+          "publishedDate": "Thu, 22 Oct 2026 15:06:28 +0000",
+          "source": "statnews.com",
+          "summary": "Speaking on the economy, the vice president told a crowd in Ohio that, “You don’t turn the Titanic around overnight.” Send news tips and bad metaphors to John.Wilkerson@statnews.com or John_Wilkerson.07&#8230;",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Millions take fish oil for brain health. A two-year study found no benefit",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
+          "publishedDate": "Thu, 22 Oct 2026 08:46:24 EDT",
           "source": "sciencedaily.com",
-          "summary": "A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed meat was linked to higher cancer…",
+          "summary": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer&#039;s-related brain shrinkage. Researchers suspect that getting…",
           "authors": ""
         },
         {
-          "title": "Too much RNA can starve cells of energy, scientists discover",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
-          "publishedDate": "Wed, 21 Oct 2026 09:02:34 EDT",
+          "title": "Oxford scientists discover how viruses build themselves without a blueprint",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
+          "publishedDate": "Thu, 22 Oct 2026 07:42:05 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally essential messenger RNA (mRNA), can…",
+          "summary": "Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery uncovers a crucial…",
           "authors": ""
         },
         {
-          "title": "Astronauts’ hearts just passed a surprising test for Mars",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
-          "publishedDate": "Wed, 21 Oct 2026 07:59:14 EDT",
+          "title": "A revolutionary new microscope could reveal the hidden machinery of life",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
+          "publishedDate": "Thu, 22 Oct 2026 07:30:49 EDT",
           "source": "sciencedaily.com",
-          "summary": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts&#039; hearts adapted to months…",
-          "authors": ""
-        },
-        {
-          "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
-          "publishedDate": "Wed, 21 Oct 2026 07:03:52 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new way to investigate…",
-          "authors": ""
-        },
-        {
-          "title": "Just 4 minutes a day can dramatically improve strength after 65",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261020085025.htm",
-          "publishedDate": "Wed, 21 Oct 2026 05:52:28 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new Penn State study suggests that just four minutes of daily strength training can significantly improve mobility and physical function in older adults. After 12 weeks, participants showed meaningful gains in balance, leg strength, and…",
+          "summary": "Researchers have developed a revolutionary microscope that uses an incredibly powerful laser to make previously invisible cellular structures easier to see. The technology dramatically improves image clarity, allowing scientists to examine…",
           "authors": ""
         }
       ]
@@ -173,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Migrate Computation, Not Data: Fault Recovery in Neuromorphic Many-Core Systems",
-          "url": "https://arxiv.org/abs/2610.26985",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 -0400",
+          "title": "Reconstruction differences rival individual differences in the fly compass connectome and break trained circuit models",
+          "url": "https://arxiv.org/abs/2610.29205",
+          "publishedDate": "Thu, 22 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "As neuromorphic systems scale to thousands of near-memory cores, aging-induced permanent faults in neuron-update datapaths become an important obstacle to long-term deployment. Existing online recovery methods typically retire a faulty…",
-          "authors": "Muyang Cao, Di Yu, Peiling Zhu, Linshan Jiang, Xin Du, Shuiguang Deng, Gang Pan"
+          "summary": "Neural network models are increasingly constructed from synapse-resolution connectomes, and the same circuit is now available in reconstructions from other animals and pipelines. We do not know whether such models are dependent on the…",
+          "authors": "Md Ali Ashraf Yad, Nazifa Tabassum Nabila"
         },
         {
-          "title": "Multi-Objective Evolutionary Semi-Supervised Learning for Resource-Aware Smart City Classification",
-          "url": "https://arxiv.org/abs/2610.27703",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 -0400",
+          "title": "Probing Spatial and Spectral Grounding in EEG Foundation Models",
+          "url": "https://arxiv.org/abs/2610.29367",
+          "publishedDate": "Thu, 22 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Smart-city applications often combine scarce labeled data with abundant unlabeled observations. Semi-supervised learning (SSL) exploits both labeled and unlabeled data to improve classification under limited supervision. This article…",
-          "authors": "Francisco José Sedeño, Jamal Toutouh"
+          "summary": "EEG foundation models are advancing at an unprecedented pace, yet their evaluation is driven by downstream accuracy, which reveals little about whether their predictions rely on physiologically interpretable signal structure. We introduce…",
+          "authors": "Kleanthis Avramidis, Ivan Tashev, Dimitra Emmanouilidou"
         },
         {
-          "title": "One-shot learning of paired association navigation with biologically plausible schemas",
-          "url": "https://arxiv.org/abs/2106.03580",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 -0400",
+          "title": "Unit-Aware Differentially Private Quantum Machine Learning for Clinical and Wearable Health Data",
+          "url": "https://arxiv.org/abs/2610.28968",
+          "publishedDate": "Thu, 22 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "After learning a multiple paired-association (MPA) navigation task, rodents can rapidly learn new cue-location associations after a single exposure, a phenomenon proposed to be facilitated by cognitive schemas. However, it remains unclear…",
-          "authors": "M Ganesh Kumar, Cheston Tan, Camilo Libedinsky, Shih-Cheng Yen, Andrew Yong-Yi Tan"
+          "summary": "Clinical registries and wearable sensors support early health-risk assessment, yet models trained on these records may leak sensitive information when released. Differential privacy (DP) bounds this leakage by injecting noise whose total…",
+          "authors": "Md Khalid Syfullah, Alvi Ataur Khalil"
         },
         {
-          "title": "Predator-Prey Model: Driven Hunt for Accelerated Grokking",
-          "url": "https://arxiv.org/abs/2509.10562",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 -0400",
+          "title": "Gate Initialisation versus Recurrent Dropout and Zoneout in Learning Long Dependencies: A Controlled Study of LSTM and GRU Networks on Synthetic Tasks",
+          "url": "https://arxiv.org/abs/2610.29034",
+          "publishedDate": "Thu, 22 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "A machine learning method is proposed using two agents (representing two coupled replicas of the model parameters) that simulate the biological behavior of a predator and a prey. In this method, the two agents interact with each other via…",
-          "authors": "I. A. Lopatin, S. V. Kozyrev, A. N. Pechen"
+          "summary": "Dropout and zoneout are routinely added to long short-term memory (LSTM) and gated recurrent unit (GRU) networks, but, to our knowledge, their placements have not been crossed with gate initialisation in a factorial design, and it is not…",
+          "authors": "Oleksandr Kholodniak, Oleksandr Prokhorov"
         },
         {
-          "title": "Reinforced Linear Genetic Programming",
-          "url": "https://arxiv.org/abs/2601.09736",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 -0400",
+          "title": "BrainCodes: A Lightweight EEG Foundation Model over Discrete Neural Codes",
+          "url": "https://arxiv.org/abs/2610.29320",
+          "publishedDate": "Thu, 22 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Linear Genetic Programming (LGP) is a powerful technique that allows for a variety of problems to be solved using a linear representation of programs. However, there still exists some limitations to the technique, such as the need for…",
-          "authors": "Urmzd Mukhammadnaim"
+          "summary": "Recent electroencephalography (EEG) foundation models increasingly emphasize model scale, potentially limiting their deployment on resource-constrained devices and in everyday environments. We argue that transferable EEG features can…",
+          "authors": "Kleanthis Avramidis, Ivan Tashev, Dimitra Emmanouilidou"
         },
         {
-          "title": "Taskonomy: Disentangling Task Transfer Learning",
-          "url": "https://arxiv.org/abs/1804.08328",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 -0400",
+          "title": "Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition",
+          "url": "https://arxiv.org/abs/2610.29720",
+          "publishedDate": "Thu, 22 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Do visual tasks have a relationship, or are they unrelated? For instance, could having surface normals simplify estimating the depth of an image? Intuition answers these questions positively, implying existence of a structure among visual…",
-          "authors": "Amir Zamir, Alexander Sax, William Shen, Leonidas Guibas, Jitendra Malik, Silvio Savarese"
+          "summary": "Spiking Neural Networks (SNNs) promise energy-efficient inference through sparse, event-driven computation, yet remain constrained on continuous, context-dependent tasks such as automatic speech recognition (ASR). A key bottleneck is the…",
+          "authors": "Pavlos Poulos, Katelyn Sadorf, Themos Stafylakis, Costas A. Anastassiou"
         }
       ]
     },
@@ -228,12 +228,12 @@
       "itemCount": 1,
       "items": [
         {
-          "title": "How Much of Cross-Subject EEG Emotion Recognition Is Stimulus Memorization?",
-          "url": "https://arxiv.org/abs/2610.28422",
-          "publishedDate": "Wed, 21 Oct 2026 00:00:00 -0400",
+          "title": "Control-Field and Quasi-Cyclic Code Recovery in Starlink Downlink Signals",
+          "url": "https://arxiv.org/abs/2610.29387",
+          "publishedDate": "Thu, 22 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Cross-subject EEG emotion recognition now reports accuracies above 90% on stimulus-defined benchmarks such as SEED, and the field has examined several ways in which such numbers can be inflated, attributing inflation to subject identity,…",
-          "authors": "Haiyan Xu, Konstantinos N. Plataniotis"
+          "summary": "Public descriptions of the Starlink downlink specify synchronization sequences, edge pilots, and predictable symbol templates, but leave the coded control fields and explicit payload-code representations largely unresolved. We examine one…",
+          "authors": "Haoyan Liu, Yichuan Ma, Min Yang, Chengguang Li"
         }
       ]
     }
