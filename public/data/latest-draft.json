@@ -1,29 +1,24 @@
 {
-  "generatedAt": "2026-10-24T01:01:11.070Z",
-  "date": "2026-10-24",
-  "topic": "計算論的神経科学と深層学習",
-  "templateName": "future-vision",
+  "generatedAt": "2026-10-25T00:29:59.393Z",
+  "date": "2026-10-25",
+  "topic": "学習と情動",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Gate-Based Feature Importance in Simulation-Based Inference for EEG: A Cautionary Tale",
-  "paperLink": "https://arxiv.org/abs/2610.30364",
-  "figureUrl": "https://arxiv.org/html/2610.30364/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
-  "formatted": "これを読んで、脳に対する見方が変わりました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n計算論的神経科学と深層学習の最新研究です。\n\n🔬 EEG × 計算論的神経科学 × 深層学習 × 注意機構\n\n📊 注目すべきデータ：\n→ It could therefore benefit from robust and inexpensive interpretability methods.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Gate-Based Feature Importance in Simulation-Based Inference for EEG: A Cautionary Tale\n🔗 https://arxiv.org/abs/2610.30364\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #神経科学 #計算論的神経科学 #ComputationalNeuroscience",
-  "summaryJP": "計算論的神経科学と深層学習 — 次世代へ続く布石（ニューロAI・計算論）",
-  "paperAuthors": "Shrivatsa Deshmukh, Sasha Brenner, Thomas R. Knösche, Nico Scherf",
-  "publishedDate": "Fri, 23 Oct 2026 00:00:00 -0400",
-  "paperId": "2610.30364",
-  "paperSource": "arxiv",
-  "themeArea": "ニューロAI・計算論",
+  "paperTitle": "A robust adversarial learning framework for EEG emotion recognition.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42920480/",
+  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習と情動に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習 × 情動 × ECoG(皮質脳波) × EEG\n\n> Electroencephalography (EEG) provides an objective means of capturing neural patterns associated with emotion, but substantial inter-subject variability limits the ability of existing models to generalize to unseen subjects.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n脳情報科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 A robust adversarial learning framework for EEG emotion recognition.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42920480/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #BrainComputerInterface",
+  "summaryJP": "学習と情動 — 脳科学とAIをつなぐ研究",
+  "paperAuthors": "Hao Yang, Li Chen, Jianyong Gao, Junqiang Zhang, Jianfeng Zhang",
+  "publishedDate": "2026-10-24",
+  "paperId": "42920480",
+  "paperSource": "pubmed",
+  "themeArea": "脳情報科学",
   "jpKeywords": [
-    "EEG",
-    "計算論的神経科学",
-    "深層学習",
-    "注意機構",
     "学習",
-    "言語処理"
+    "情動",
+    "ECoG(皮質脳波)",
+    "EEG"
   ],
-  "abstractExcerpt": "Simulation-based inference (SBI) provides a powerful way to fit mechanistic models to data, but offers little insight into which information in the data shapes the inferred parameter values. It could therefore benefit from robust and…",
-  "figureUrls": [
-    "https://arxiv.org/html/2610.30364/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
-  ]
+  "abstractExcerpt": "Electroencephalography (EEG) provides an objective means of capturing neural patterns associated with emotion, but substantial inter-subject variability limits the ability of existing models to generalize to unseen subjects.",
+  "figureUrls": []
 }

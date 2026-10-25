@@ -1,5 +1,29 @@
 [
   {
+    "generatedAt": "2026-10-25T00:29:59.393Z",
+    "date": "2026-10-25",
+    "topic": "学習と情動",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "A robust adversarial learning framework for EEG emotion recognition.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42920480/",
+    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習と情動に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習 × 情動 × ECoG(皮質脳波) × EEG\n\n> Electroencephalography (EEG) provides an objective means of capturing neural patterns associated with emotion, but substantial inter-subject variability limits the ability of existing models to generalize to unseen subjects.\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n脳情報科学の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 A robust adversarial learning framework for EEG emotion recognition.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42920480/\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #BrainComputerInterface",
+    "summaryJP": "学習と情動 — 脳科学とAIをつなぐ研究",
+    "paperAuthors": "Hao Yang, Li Chen, Jianyong Gao, Junqiang Zhang, Jianfeng Zhang",
+    "publishedDate": "2026-10-24",
+    "paperId": "42920480",
+    "paperSource": "pubmed",
+    "themeArea": "脳情報科学",
+    "jpKeywords": [
+      "学習",
+      "情動",
+      "ECoG(皮質脳波)",
+      "EEG"
+    ],
+    "abstractExcerpt": "Electroencephalography (EEG) provides an objective means of capturing neural patterns associated with emotion, but substantial inter-subject variability limits the ability of existing models to generalize to unseen subjects.",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-10-24T01:01:11.070Z",
     "date": "2026-10-24",
     "topic": "計算論的神経科学と深層学習",
@@ -1217,31 +1241,5 @@
     ],
     "abstractExcerpt": "During audiovisual perception, spatial information from vision and audition is combined, often producing biases such as the ventriloquist effect. While these interactions are well documented behaviourally, it remains unclear when…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-09-05T00:21:46.681Z",
-    "date": "2026-09-05",
-    "topic": "コネクトーム",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "High-Order Triadic Functional Connectivity in the Brain and Beyond",
-    "paperLink": "https://arxiv.org/abs/2609.03987",
-    "figureUrl": "https://arxiv.org/html/2609.03987/2609.03987v1/pr0.jpg",
-    "formatted": "これを読んで、脳に対する見方が変わりました。\n\nこの研究から得られる3つの重要な示唆。\n\nコネクトームの最新成果を整理しました。\n\n🔬 コネクトーム\n\n> Here, we report high-order functional network connectivity as a promising way for studying the brain connectome. Traditional functional connectivity approaches capture only pairwise relationships between brain regions, overlooking complex multivariate dependencies that underlie...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nコネクトミクス・回路解析の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 High-Order Triadic Functional Connectivity in the Brain and Beyond\n🔗 https://arxiv.org/abs/2609.03987\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #NeuralDecoding",
-    "summaryJP": "コネクトーム — 注目すべき3つの示唆（コネクトミクス・回路解析）",
-    "paperAuthors": "Qiang Li, Masoud Seraji, Yu-Ping Wang, Godfrey D Pearlson, Vince D Calhoun",
-    "publishedDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-    "paperId": "2609.03987",
-    "paperSource": "arxiv",
-    "themeArea": "コネクトミクス・回路解析",
-    "jpKeywords": [
-      "コネクトーム"
-    ],
-    "abstractExcerpt": "Here, we report high-order functional network connectivity as a promising way for studying the brain connectome. Traditional functional connectivity approaches capture only pairwise relationships between brain regions, overlooking complex…",
-    "figureUrls": [
-      "https://arxiv.org/html/2609.03987/2609.03987v1/pr0.jpg",
-      "https://arxiv.org/html/2609.03987/2609.03987v1/pr6.jpg",
-      "https://arxiv.org/html/2609.03987/2609.03987v1/pr1.jpg"
-    ]
   }
 ]
