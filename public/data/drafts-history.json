@@ -1,5 +1,27 @@
 [
   {
+    "generatedAt": "2026-10-26T00:42:05.643Z",
+    "date": "2026-10-26",
+    "topic": "コネクトミクスとコネクトーム",
+    "templateName": "provocative-question",
+    "riskScore": 0,
+    "paperTitle": "Membrane targeted rabies virus labeling system: Brain-wide single-neuron mapping of target-specific and intersectionally defined neuronal circuits.",
+    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42927475/",
+    "formatted": "コネクトミクスとコネクトームについて、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 コネクトミクス × コネクトーム\n\n📊 注目すべきデータ：\n→ Validation in the mouse primary somatosensory cortex barrel field confirms robust full-morphology labeling and faithful reconstruction of brain-wide input neurons, revealing...\n→ Overall, this work delivers a robust, versatile toolkit for brain-wide single-neuron mapping of target-specific and intersectionally defined neuronal circuits, with strong...\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかしコネクトミクス・回路解析の文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 Membrane targeted rabies virus labeling system: Brain-wide single-neuron mapping of target-specific and intersectionally defined neuronal circuits.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42927475/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #BCI",
+    "summaryJP": "コネクトミクスとコネクトーム — 常識への問題提起（コネクトミクス・回路解析）",
+    "paperAuthors": "Xinyu Yuan, Jianchao Zhang, Yunmiao Liu, Lin Jin, Lin Song, Yuxing Lan",
+    "publishedDate": "2026-10-25",
+    "paperId": "42927475",
+    "paperSource": "pubmed",
+    "themeArea": "コネクトミクス・回路解析",
+    "jpKeywords": [
+      "コネクトミクス",
+      "コネクトーム"
+    ],
+    "abstractExcerpt": "Elucidating neural circuit organization at single-neuron resolution is a core goal of modern neuroscience. Brain-wide input connectivity maps underpin the mammalian connectome, but systematic and comprehensive whole-brain input mapping…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-10-25T00:29:59.393Z",
     "date": "2026-10-25",
     "topic": "学習と情動",
@@ -1218,28 +1240,6 @@
       "深層学習"
     ],
     "abstractExcerpt": "Acute ischemic stroke (AIS) is a leading cause of death and disability worldwide, where early diagnosis and treatment are crucial for effective management. Computed tomography (CT), particularly non-contrast CT, is widely used due to its…",
-    "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-09-06T00:11:22.210Z",
-    "date": "2026-09-06",
-    "topic": "神経デコーディング",
-    "templateName": "future-vision",
-    "riskScore": 0,
-    "paperTitle": "Late cross-modal biases in neural spatial representations revealed by EEG decoding.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42697719/",
-    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n神経デコーディングの最新研究です。\n\n🔬 EEG × 神経デコーディング\n\n📊 注目すべきデータ：\n→ Neural decoding revealed robust spatial representations for both modalities, with early unisensory encoding remaining unaffected by cross-modal input.\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Late cross-modal biases in neural spatial representations revealed by EEG decoding.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42697719/\n\n---\n\nこの研究に衝撃を受けたのは私だけでしょうか？コメントで教えてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #計算論的神経科学",
-    "summaryJP": "神経デコーディング — 次世代へ続く布石（神経デコーディング）",
-    "paperAuthors": "Zak Buhmann, Amanda K Robinson, Jason B Mattingley, Reuben Rideaux",
-    "publishedDate": "2026-09-04",
-    "paperId": "42697719",
-    "paperSource": "pubmed",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "EEG",
-      "神経デコーディング"
-    ],
-    "abstractExcerpt": "During audiovisual perception, spatial information from vision and audition is combined, often producing biases such as the ventriloquist effect. While these interactions are well documented behaviourally, it remains unclear when…",
     "figureUrls": []
   }
 ]
