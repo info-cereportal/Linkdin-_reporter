@@ -1,18 +1,91 @@
 {
-  "generatedAt": "2026-10-26T00:42:06.213Z",
+  "generatedAt": "2026-10-27T01:36:19.975Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Phase-based Edge Coupling: Modeling Overlapping Functional Architectures and High-Order Edge-to-Edge Interactions in EEG Networks",
+          "url": "https://arxiv.org/abs/2610.32286",
+          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Network neuroscience has traditionally relied on node-centric approaches, which are inherently limited in capturing the brain's overlapping functional architectures and higher-order edge-to-edge interactions. The emerging edge-centric…",
+          "authors": "Chengcheng Wu, Zichen Shi, Jiayang Xu, Shanbao Tong, Xiaoli Guo"
+        },
+        {
+          "title": "From Heterogeneity to Function: Enhanced Modular Dynamic Range in Hierarchical Brain Networks",
+          "url": "https://arxiv.org/abs/2610.32328",
+          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Hierarchical and modular organization defines brain architecture, yet how it supports flexible computation and functional specialization remains unclear. Although dynamic range is a hallmark of efficient information processing, its…",
+          "authors": "Filipe V. Torres, Mauro Copelli, Leonardo L. Gollo"
+        },
+        {
+          "title": "Estimation of the Cyclopean Eye from Binocular Free Visual Explorations",
+          "url": "https://arxiv.org/abs/2610.32564",
+          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Binocular video-oculography records separate signals for each eye, yet human visual processing and oculomotor control operate relative to a single, virtual cyclopean eye. This study addresses the estimation of the cyclopean eye during…",
+          "authors": "Maria F. Alcala-Durand, J. Camilo Puerta-Acevedo, Julián D. Arias-Londoño, Elisa Luque-Buzo, Francisco J. Grandas-Pérez, Juan I. Godino-Llorente"
+        },
+        {
+          "title": "A Mathematical Theory of the Jacobian Lens",
+          "url": "https://arxiv.org/abs/2610.31955",
+          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Recent work from Anthropic introduced a new interpretability tool, called the Jacobian lens (J-lens, Gurnee et al., 2026). This method identified linear directions in the hidden states of frontier language models that had properties…",
+          "authors": "Mitchell Ostrow, Daoyuan Qian, Toni Liu, Ila Fiete"
+        },
+        {
+          "title": "Virtual Placebo: a scoping review of control conditions in randomized controlled trials of psychological immersive virtual reality interventions",
+          "url": "https://arxiv.org/abs/2610.32232",
+          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Research on immersive virtual reality (IVR) as a therapeutic tool is growing rapidly, with randomized controlled trials (RCTs) now commonplace. Yet the control conditions in many of these studies that claim strong specific IVR effects vary…",
+          "authors": "Madis Vasser, Mary-Ann Kubre, Kadi Tulver, Jaan Aru"
+        },
+        {
+          "title": "ZENO: Nonlinear filtering with Zakai Equation Neural Operators",
+          "url": "https://arxiv.org/abs/2610.32926",
+          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "State inference and parameter learning for nonlinear filters is a core computation for scientific machine learning with varied applications in engineering and neuroscience. The unnormalized filtering distribution is governed by the Zakai…",
+          "authors": "Aaditya Prasad, Steven W. Flavell, Brian DePasquale"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "A virus that afflicts cows makes the jump to a human",
+          "url": "https://www.statnews.com/2026/10/26/health-news-virus-afflicting-cows-makes-the-jump-to-humans/?utm_campaign=rss",
+          "publishedDate": "Mon, 26 Oct 2026 13:26:15 +0000",
+          "source": "statnews.com",
+          "summary": "For the first time, a human has been infected with the Shamonda virus, according to French officials. The World Health Organization says broader transmission is unlikely.",
+          "authors": "Amanda Erickson"
+        },
+        {
+          "title": "The 4 stages of women’s heart health: New framework for doctors and patients",
+          "url": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss",
+          "publishedDate": "Mon, 26 Oct 2026 09:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "New guidance is intended to help girls and women — and their doctors — recognize four distinct phases in heart health.",
+          "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "STAT+: NIH’s new vaccine injury center has broad goals beyond RFK Jr.’s focus on shots",
+          "url": "https://www.statnews.com/2026/10/26/nih-vaccine-injury-center-probes-post-infection-illness/?utm_campaign=rss",
+          "publishedDate": "Mon, 26 Oct 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The center will study the long-term impact of infections, in addition to RFK Jr.'s focus on vaccines.",
+          "authors": "Chelsea Cirruzzo"
+        },
         {
           "title": "STAT+: Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear",
           "url": "https://www.statnews.com/2026/10/23/ada-new-orleans-convention-new-report-on-controversial-june-ejections/?utm_campaign=rss",
@@ -30,36 +103,12 @@
           "authors": "Anil Oza"
         },
         {
-          "title": "One family’s story of a life-extending medicine for pancreatic cancer",
-          "url": "https://www.statnews.com/2026/10/23/patient-story-pancreatic-cancer-drug-daraxonrasib-rasonque/?utm_campaign=rss",
-          "publishedDate": "Fri, 23 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Bobby Senaha was among the first patients to use daraxonrasib, a new life-extending drug for pancreatic cancer. His wife shares what those extra months meant to his family.",
-          "authors": "STAT Staff"
-        },
-        {
-          "title": "How a targeted drug kept one patient alive 15 years — but failed to save her friends",
-          "url": "https://www.statnews.com/2026/10/23/lung-cancer-patient-ros1-mutation-on-crizotinib/?utm_campaign=rss",
-          "publishedDate": "Fri, 23 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "A lung cancer patient speaks out about her cutting-edge treatment: “Research is big on tracking survival stats, but quality of life for survivors — not so much.”",
-          "authors": "STAT Staff"
-        },
-        {
           "title": "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes",
           "url": "https://www.statnews.com/2026/10/23/state-medicaid-officials-prepare-for-new-work-requirements/?utm_campaign=rss",
           "publishedDate": "Fri, 23 Oct 2026 08:30:00 +0000",
           "source": "statnews.com",
           "summary": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference.",
           "authors": "O. Rose Broderick and Isabella Cueto"
-        },
-        {
-          "title": "STAT+: Alnylam says Huntington’s drug shows promise in early study",
-          "url": "https://www.statnews.com/2026/10/23/huntingtons-alnylam-gene-silencing-brezosiran/?utm_campaign=rss",
-          "publishedDate": "Fri, 23 Oct 2026 07:45:00 +0000",
-          "source": "statnews.com",
-          "summary": "It’s yet to be seen whether Alnylam’s drug will actually slow progression of Huntington’s, but the field is lively.",
-          "authors": "Jason Mast and Elaine Chen"
         }
       ]
     },
@@ -69,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: Rising premiums, a sad Medicaid gathering, and a new fraud crackdown",
+          "url": "https://www.statnews.com/2026/10/26/health-insurance-costs-medicaid-challenges-cms-fraud-crackdown-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Mon, 26 Oct 2026 14:38:28 +0000",
+          "source": "statnews.com",
+          "summary": "The cost of health insurance is surging, and CMS presses ahead with a new fraud crackdown.",
+          "authors": "Tara Bannow"
+        },
+        {
+          "title": "Exercise doesn&#039;t just strengthen your heart. It rewires it",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
+          "publishedDate": "Mon, 26 Oct 2026 07:35:53 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.",
+          "authors": ""
+        },
+        {
+          "title": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
+          "publishedDate": "Mon, 26 Oct 2026 05:25:21 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A powerful new AI system could help doctors detect pancreatic cancer years before it becomes visible on conventional scans. The technology, called REDMOD, identified hidden warning signs an average of 475 days before diagnosis and was…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: NIH’s new vaccine injury center has broad goals beyond RFK Jr.’s focus on shots",
+          "url": "https://www.statnews.com/2026/10/26/nih-vaccine-injury-center-probes-post-infection-illness/?utm_campaign=rss",
+          "publishedDate": "Mon, 26 Oct 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The center will study the long-term impact of infections, in addition to RFK Jr.'s focus on vaccines.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "A simple liquid can stop cavities without drilling, major study confirms",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
+          "publishedDate": "Sun, 25 Oct 2026 22:41:13 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful…",
+          "authors": ""
+        },
+        {
           "title": "Scientists reveal the hidden danger of missing blood pressure medication",
           "url": "https://www.sciencedaily.com/releases/2026/10/261024222028.htm",
           "publishedDate": "Sun, 25 Oct 2026 08:34:35 EDT",
           "source": "sciencedaily.com",
           "summary": "Missing blood pressure medication could mean losing much of its protection against heart attacks and strokes, according to an analysis of more than 91,000 people. Patients who consistently took their medication experienced an 11% reduction…",
-          "authors": ""
-        },
-        {
-          "title": "Just two drinks a day may be far riskier than you think",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261024222030.htm",
-          "publishedDate": "Sun, 25 Oct 2026 08:18:13 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A major new study reveals that drinking just two alcoholic beverages a day is associated with a 1 in 25 lifetime risk of death from alcohol-related causes, challenging the idea that moderate drinking is harmless. Researchers also found no…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
-          "publishedDate": "Sun, 25 Oct 2026 07:00:25 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment. In laboratory experiments, blocking a key gene reversed some of these dangerous…",
-          "authors": ""
-        },
-        {
-          "title": "Low-dose aspirin linked to 70% lower dementia risk, but there&#039;s a catch",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
-          "publishedDate": "Sun, 25 Oct 2026 06:21:48 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though…",
-          "authors": ""
-        },
-        {
-          "title": "Popular cannabis sleep gummies may have a hidden dark side",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261024221952.htm",
-          "publishedDate": "Sun, 25 Oct 2026 01:08:39 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A cannabis-derived ingredient commonly found in sleep gummies may be more habit-forming than previously thought, with new research showing that repeated exposure caused tolerance and withdrawal symptoms in mice. Scientists warn that CBN…",
-          "authors": ""
-        },
-        {
-          "title": "Mediterranean diet may boost tiny proteins that protect the heart and brain",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261023003337.htm",
-          "publishedDate": "Sat, 24 Oct 2026 21:38:38 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a surprising new clue to why the Mediterranean diet is so good for the heart, brain, and healthy aging. Researchers at USC found that older adults who closely followed the diet had higher levels of two tiny…",
           "authors": ""
         }
       ]
@@ -121,61 +170,70 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "ENCL: Enabling Efficient Neuromorphic Continual Learning with Local Learning Rule and Sub-Network Freezing Strategy",
+          "url": "https://arxiv.org/abs/2610.31927",
+          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Continual learning (CL) in neural networks is a promising learning approach for updating the knowledge of deployed systems based on new data encountered at run time, that have not been learned during the offline training phase. To enable…",
+          "authors": "Rachmad Vidya Wicaksana Putra, Shuochen Zhou, Hassan Raza, Muhammad Shafique"
+        },
+        {
+          "title": "RobustNCL: Robustifying Neuromorphic Continual Learning under Transient Faults with Lightweight Detect-and-Cure Strategy",
+          "url": "https://arxiv.org/abs/2610.31954",
+          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "In neural networks, continual learning (CL) is a prominent approach for enabling deployed systems to adapt to dynamic operational environments by effectively learning from new unseen data at runtime. Recently, the neuromorphic continual…",
+          "authors": "Rachmad Vidya Wicaksana Putra, Shuochen Zhou, Muhammad Shafique"
+        },
+        {
+          "title": "A Resource-Efficient and Precision-Scalable FPGA Accelerator for Spiking Neural Networks Using Minifloat Arithmetic",
+          "url": "https://arxiv.org/abs/2610.32052",
+          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Spiking neural networks (SNNs) are well suited to event-driven edge intelligence, but the arithmetic complexity, memory footprint, and power consumption associated with conventional floating-point implementations can limit their deployment…",
+          "authors": "Ali Mehrabi, Philip C. Jose"
+        },
+        {
+          "title": "PAFS: Perturbation-Aware Firing Scaffolds for Robust Event-Based SNNs",
+          "url": "https://arxiv.org/abs/2610.32409",
+          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Event-based spiking neural networks (SNNs) encode information through temporal firing dynamics, but the same stateful computation makes their predictions sensitive to event loss, timestamp jitter, and speed variation. These perturbations…",
+          "authors": "Ning Liu, Jun Sun, Hao Guo, Sen Shen, Xiangfei Yang, Jie Yang, Lan Wu, Shangke Lyu, Thomas Bräunl"
+        },
+        {
+          "title": "Searching with Sparse Histories: Cross-Task Architecture Search from Incomplete Search Logs and Zero-Cost Proxies",
+          "url": "https://arxiv.org/abs/2610.32179",
+          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Neural architecture search (NAS) is expensive, but cross-task transfer can reduce costs by reusing knowledge from previous tasks. However, existing methods struggle with sparse search histories and task-specific transfer failures. We…",
+          "authors": "Yuefeng Xu, Jun Yu"
+        },
+        {
+          "title": "On Orthogonal Recurrent Neural Networks Quantization",
+          "url": "https://arxiv.org/abs/2402.04012",
+          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "In recent years, Orthogonal Recurrent Neural Networks (ORNNs) have gained popularity due to their ability to manage tasks involving long-term dependencies, such as the Copy-task, and their linear complexity. However, existing ORNNs utilize…",
+          "authors": "Armand Foucault (IMT), Franck Mamalet (Comue de Toulouse), François Malgouyres (IMT)"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 1,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
-        },
-        {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "U-NeXt: General-purpose event detection for neonatal EEG",
+          "url": "https://arxiv.org/abs/2610.32811",
+          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "We developed U-NeXt, a general framework for neonatal electroencephalography (EEG) event detection based on semantic segmentation. Its convolutional encoder-decoder directly segments individual channels using long input segments to…",
+          "authors": "Robert Hogan, Sean R. Mathieson, Aurel Luca, Soraia Ventura, Sean Griffin, Geraldine B. Boylan, John M. O'Toole"
         }
       ]
     }
