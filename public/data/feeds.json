@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:36:19.975Z",
+  "generatedAt": "2026-10-28T01:39:49.441Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Phase-based Edge Coupling: Modeling Overlapping Functional Architectures and High-Order Edge-to-Edge Interactions in EEG Networks",
-          "url": "https://arxiv.org/abs/2610.32286",
-          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "title": "Sensorimotor behaviour from an untrained brain-and-nerve-cord connectome",
+          "url": "https://arxiv.org/abs/2610.33881",
+          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Network neuroscience has traditionally relied on node-centric approaches, which are inherently limited in capturing the brain's overlapping functional architectures and higher-order edge-to-edge interactions. The emerging edge-centric…",
-          "authors": "Chengcheng Wu, Zichen Shi, Jiayang Xu, Shanbao Tong, Xiaoli Guo"
+          "summary": "Connectomes now map the neurons and synapses of an adult fly's brain and nerve cord, but how much of behaviour follows from the wiring is unknown. Here we turn one such connectome into a spiking network of 172,433 neurons with a published…",
+          "authors": "John R. Minnick, Jesus Gonzalez-Ferrer, Jinghui Geng, Jason K. Eshraghian, Mohammed A. Mostajo-Radji, David Haussler, Mircea Teodorescu"
         },
         {
-          "title": "From Heterogeneity to Function: Enhanced Modular Dynamic Range in Hierarchical Brain Networks",
-          "url": "https://arxiv.org/abs/2610.32328",
-          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "title": "New developments in the geometry and topology of 3D head-direction coding",
+          "url": "https://arxiv.org/abs/2610.34106",
+          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Hierarchical and modular organization defines brain architecture, yet how it supports flexible computation and functional specialization remains unclear. Although dynamic range is a hallmark of efficient information processing, its…",
-          "authors": "Filipe V. Torres, Mauro Copelli, Leonardo L. Gollo"
+          "summary": "The head-direction (HD) system is a neuronal compass that represents head orientation in 3D. Its encoding of 3D head orientation can be decomposed into a multiplexed representation of 2D head tilt relative to gravity and 1D head…",
+          "authors": "Jean Laurens"
         },
         {
-          "title": "Estimation of the Cyclopean Eye from Binocular Free Visual Explorations",
-          "url": "https://arxiv.org/abs/2610.32564",
-          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "title": "The dominance of feedback mechanisms for perception in the central visual field: the flip tilt illusion by backward masking and the Feedforward-Feedback-Verify-reWeight algorithm",
+          "url": "https://arxiv.org/abs/2610.34455",
+          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Binocular video-oculography records separate signals for each eye, yet human visual processing and oculomotor control operate relative to a single, virtual cyclopean eye. This study addresses the estimation of the cyclopean eye during…",
-          "authors": "Maria F. Alcala-Durand, J. Camilo Puerta-Acevedo, Julián D. Arias-Londoño, Elisa Luque-Buzo, Francisco J. Grandas-Pérez, Juan I. Godino-Llorente"
+          "summary": "The flip tilt illusion is the misperception of the orientation of the alignment between a pair of dots by 90 degrees. It occurs when the dot-pair contains one black dot and one white dot, is typically visible only in the peripheral visual…",
+          "authors": "Li Zhaoping"
         },
         {
-          "title": "A Mathematical Theory of the Jacobian Lens",
-          "url": "https://arxiv.org/abs/2610.31955",
-          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "title": "Analysis of Biomarkers from Visual Explorations in Individuals Suspected to Be in the Prodromal Phase of Parkinson's Disease",
+          "url": "https://arxiv.org/abs/2610.34524",
+          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Recent work from Anthropic introduced a new interpretability tool, called the Jacobian lens (J-lens, Gurnee et al., 2026). This method identified linear directions in the hidden states of frontier language models that had properties…",
-          "authors": "Mitchell Ostrow, Daoyuan Qian, Toni Liu, Ila Fiete"
+          "summary": "Identifying prodromal Parkinson's Disease is a precondition for any future treatment that modifies the course of the disease, since such therapies would ideally act on the initial pathogenic events, early enough to delay the clinical onset…",
+          "authors": "Maria F. Alcala-Durand, J. Camilo Puerta-Acevedo, Valle Pérez del Olmo, Elisa Luque-Buzo, Julián D. Arias-Londoño, Francisco J. Grandas-Pérez, Juan I. Godino-Llorente"
         },
         {
-          "title": "Virtual Placebo: a scoping review of control conditions in randomized controlled trials of psychological immersive virtual reality interventions",
-          "url": "https://arxiv.org/abs/2610.32232",
-          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "title": "Intrinsic Goals for Autonomous Agents: Hierarchical Exploration Captures Future Volitional Action in Drosophila",
+          "url": "https://arxiv.org/abs/2610.34638",
+          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Research on immersive virtual reality (IVR) as a therapeutic tool is growing rapidly, with randomized controlled trials (RCTs) now commonplace. Yet the control conditions in many of these studies that claim strong specific IVR effects vary…",
-          "authors": "Madis Vasser, Mary-Ann Kubre, Kadi Tulver, Jaan Aru"
+          "summary": "Animals have a remarkable capacity for autonomy---driven by intrinsic motivation---without external sensory cues or extrinsic objectives, yet the computational mechanisms behind this ability largely remain a mystery. We combine whole-brain…",
+          "authors": "Declan Kutscher, Reece Keller, Alyn Kirsch, Felix Pei, Aran Nayebi"
         },
         {
-          "title": "ZENO: Nonlinear filtering with Zakai Equation Neural Operators",
-          "url": "https://arxiv.org/abs/2610.32926",
-          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "title": "Retrieval-Augmented Parkinson's Disease Classification from Resting-State Functional Connectivity",
+          "url": "https://arxiv.org/abs/2610.35107",
+          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "State inference and parameter learning for nonlinear filters is a core computation for scientific machine learning with varied applications in engineering and neuroscience. The unnormalized filtering distribution is governed by the Zakai…",
-          "authors": "Aaditya Prasad, Steven W. Flavell, Brian DePasquale"
+          "summary": "Altered resting-state functional connectivity (FC) is a candidate marker for the diagnosis of Parkinson's disease (PD). Publicly available PD datasets, however, are small and fragmented across sites, scanners and clinical criteria.…",
+          "authors": "Tara Niknam, Sana Hassan Imam, Daniel Kristanto"
         }
       ]
     },
@@ -62,6 +62,30 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: RFK Jr. goes for broke in Iowa",
+          "url": "https://www.statnews.com/2026/10/27/rfk-jr-campaigns-zach-lahn-iowa-coins-binsa-china-biotech-rules/?utm_campaign=rss",
+          "publishedDate": "Tue, 27 Oct 2026 15:45:21 +0000",
+          "source": "statnews.com",
+          "summary": "Kennedy on the campaign trail for MAHA, and new rules loom for U.S. investments in Chinese biotech.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "A possible treatment for brain-eating amoebas, found in the sea",
+          "url": "https://www.statnews.com/2026/10/27/health-news-possible-treatment-for-brain-eating-amoebas-found-in-sea/?utm_campaign=rss",
+          "publishedDate": "Tue, 27 Oct 2026 12:22:28 +0000",
+          "source": "statnews.com",
+          "summary": "Brain-eating amoebas are hard to treat and nearly always fatal. But researchers have isolated a compound that could help stop the disease.",
+          "authors": "Amanda Erickson"
+        },
+        {
+          "title": "STAT+: Pennsylvania Dutch country, tired of waiting for biopharma, builds drug company of its own",
+          "url": "https://www.statnews.com/2026/10/27/gene-therapy-cow-rare-disease-amish-mennonite-patients-waiting/?utm_campaign=rss",
+          "publishedDate": "Tue, 27 Oct 2026 08:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A small community tests if it can solve a crisis no one else could, for the simple reason that they have no other choice.",
+          "authors": "Jason Mast"
+        },
         {
           "title": "A virus that afflicts cows makes the jump to a human",
           "url": "https://www.statnews.com/2026/10/26/health-news-virus-afflicting-cows-makes-the-jump-to-humans/?utm_campaign=rss",
@@ -85,30 +109,6 @@
           "source": "statnews.com",
           "summary": "The center will study the long-term impact of infections, in addition to RFK Jr.'s focus on vaccines.",
           "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear",
-          "url": "https://www.statnews.com/2026/10/23/ada-new-orleans-convention-new-report-on-controversial-june-ejections/?utm_campaign=rss",
-          "publishedDate": "Fri, 23 Oct 2026 19:16:37 +0000",
-          "source": "statnews.com",
-          "summary": "The American Diabetes Association has issued two explanations, two reviews and an apology over its June convention. A Friday report adds new twists.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "Anxiety builds over Medicaid work requirements",
-          "url": "https://www.statnews.com/2026/10/23/medicaid-work-requirements-anxiety-morning-rounds-health-news/?utm_campaign=rss",
-          "publishedDate": "Fri, 23 Oct 2026 14:47:21 +0000",
-          "source": "statnews.com",
-          "summary": "As a Boston judge heard a challenge to Medicaid work requirements, state Medicaid directors gathered in Maryland to figure out how to implement those sweeping changes.",
-          "authors": "Anil Oza"
-        },
-        {
-          "title": "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes",
-          "url": "https://www.statnews.com/2026/10/23/state-medicaid-officials-prepare-for-new-work-requirements/?utm_campaign=rss",
-          "publishedDate": "Fri, 23 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference.",
-          "authors": "O. Rose Broderick and Isabella Cueto"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: Rising premiums, a sad Medicaid gathering, and a new fraud crackdown",
-          "url": "https://www.statnews.com/2026/10/26/health-insurance-costs-medicaid-challenges-cms-fraud-crackdown-dc-diagnosis/?utm_campaign=rss",
-          "publishedDate": "Mon, 26 Oct 2026 14:38:28 +0000",
+          "title": "STAT+: FDA offers new details on quicker approval pathway for personalized gene therapies",
+          "url": "https://www.statnews.com/2026/10/27/fda-personalized-gene-therapy-guidance-individualized-feature-space/?utm_campaign=rss",
+          "publishedDate": "Tue, 27 Oct 2026 16:17:33 +0000",
           "source": "statnews.com",
-          "summary": "The cost of health insurance is surging, and CMS presses ahead with a new fraud crackdown.",
-          "authors": "Tara Bannow"
+          "summary": "Rare disease advocates applauded the FDA's move to speed access to treatments.",
+          "authors": "Margaret Manto"
         },
         {
-          "title": "Exercise doesn&#039;t just strengthen your heart. It rewires it",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
-          "publishedDate": "Mon, 26 Oct 2026 07:35:53 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.",
-          "authors": ""
-        },
-        {
-          "title": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
-          "publishedDate": "Mon, 26 Oct 2026 05:25:21 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A powerful new AI system could help doctors detect pancreatic cancer years before it becomes visible on conventional scans. The technology, called REDMOD, identified hidden warning signs an average of 475 days before diagnosis and was…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: NIH’s new vaccine injury center has broad goals beyond RFK Jr.’s focus on shots",
-          "url": "https://www.statnews.com/2026/10/26/nih-vaccine-injury-center-probes-post-infection-illness/?utm_campaign=rss",
-          "publishedDate": "Mon, 26 Oct 2026 08:30:00 +0000",
+          "title": "STAT+: RFK Jr. goes for broke in Iowa",
+          "url": "https://www.statnews.com/2026/10/27/rfk-jr-campaigns-zach-lahn-iowa-coins-binsa-china-biotech-rules/?utm_campaign=rss",
+          "publishedDate": "Tue, 27 Oct 2026 15:45:21 +0000",
           "source": "statnews.com",
-          "summary": "The center will study the long-term impact of infections, in addition to RFK Jr.'s focus on vaccines.",
-          "authors": "Chelsea Cirruzzo"
+          "summary": "Kennedy on the campaign trail for MAHA, and new rules loom for U.S. investments in Chinese biotech.",
+          "authors": "John Wilkerson"
         },
         {
-          "title": "A simple liquid can stop cavities without drilling, major study confirms",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
-          "publishedDate": "Sun, 25 Oct 2026 22:41:13 EDT",
+          "title": "The secret to slower aging may be hiding in your gut",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
+          "publishedDate": "Tue, 27 Oct 2026 07:53:24 EDT",
           "source": "sciencedaily.com",
-          "summary": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful…",
+          "summary": "The secret to aging more slowly may be hiding in your gut. Scientists discovered that certain gut bacteria are strongly linked to how quickly the body ages, with microbial differences accounting for about 15% of the variation in biological…",
           "authors": ""
         },
         {
-          "title": "Scientists reveal the hidden danger of missing blood pressure medication",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261024222028.htm",
-          "publishedDate": "Sun, 25 Oct 2026 08:34:35 EDT",
+          "title": "Low testosterone may make sugar far more harmful to your liver",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
+          "publishedDate": "Tue, 27 Oct 2026 07:18:37 EDT",
           "source": "sciencedaily.com",
-          "summary": "Missing blood pressure medication could mean losing much of its protection against heart attacks and strokes, according to an analysis of more than 91,000 people. Patients who consistently took their medication experienced an 11% reduction…",
+          "summary": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction, revealing a potential new…",
+          "authors": ""
+        },
+        {
+          "title": "Common drugs may help dangerous viruses spread through the body",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+          "publishedDate": "Tue, 27 Oct 2026 06:46:21 EDT",
+          "source": "sciencedaily.com",
+          "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
+          "publishedDate": "Tue, 27 Oct 2026 00:02:26 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Researchers discovered that…",
           "authors": ""
         }
       ]
@@ -173,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "ENCL: Enabling Efficient Neuromorphic Continual Learning with Local Learning Rule and Sub-Network Freezing Strategy",
-          "url": "https://arxiv.org/abs/2610.31927",
-          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "title": "Organon : From Evolutionary Search to Recursive Self-Improving Agents for Scientific Discovery",
+          "url": "https://arxiv.org/abs/2610.33046",
+          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Continual learning (CL) in neural networks is a promising learning approach for updating the knowledge of deployed systems based on new data encountered at run time, that have not been learned during the offline training phase. To enable…",
-          "authors": "Rachmad Vidya Wicaksana Putra, Shuochen Zhou, Hassan Raza, Muhammad Shafique"
+          "summary": "Scientific discovery does not follow a single fixed methodology: research methods vary across domains and evolve through experimentation as investigations unfold. Although LLM-guided evolutionary search has advanced automated discovery,…",
+          "authors": "Cheikh Ahmed, Zhiyu Zhang, Kun Mao, Yong Zhang, Zirui Zhou"
         },
         {
-          "title": "RobustNCL: Robustifying Neuromorphic Continual Learning under Transient Faults with Lightweight Detect-and-Cure Strategy",
-          "url": "https://arxiv.org/abs/2610.31954",
-          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "title": "Evaluating Spiking MoveNet Deployability for Near-Future Onboard Spiking Satellite Pose Estimation",
+          "url": "https://arxiv.org/abs/2610.33061",
+          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In neural networks, continual learning (CL) is a prominent approach for enabling deployed systems to adapt to dynamic operational environments by effectively learning from new unseen data at runtime. Recently, the neuromorphic continual…",
-          "authors": "Rachmad Vidya Wicaksana Putra, Shuochen Zhou, Muhammad Shafique"
+          "summary": "SNNs are attracting interest due to their potential for energy efficiency and event-driven processing. However, neuromorphic hardware is not yet mature enough to enable embedded deployment of complex spiking network architectures. In this…",
+          "authors": "Jonathan Courtois, Christophe Marabotto, Benoit Miramond, Alain Pegatoquet"
         },
         {
-          "title": "A Resource-Efficient and Precision-Scalable FPGA Accelerator for Spiking Neural Networks Using Minifloat Arithmetic",
-          "url": "https://arxiv.org/abs/2610.32052",
-          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "title": "MOSHO: A Native Discrete Shark-Inspired Metaheuristic for Hardware-Aware Neural Architecture Search",
+          "url": "https://arxiv.org/abs/2610.33358",
+          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Spiking neural networks (SNNs) are well suited to event-driven edge intelligence, but the arithmetic complexity, memory footprint, and power consumption associated with conventional floating-point implementations can limit their deployment…",
-          "authors": "Ali Mehrabi, Philip C. Jose"
+          "summary": "Hardware-aware neural architecture search (NAS) requires jointly optimizing predictive accuracy and device-specific latency over discrete search spaces. While multi-objective swarm optimizers show promise, continuous formulations such as…",
+          "authors": "Nazim Abdeerhmane Aouni, Zakaria Soualah Mohammed, Maroua Ogab, Nour El Imane Elbar, Rayane Rahmat Errahmane Smara, Billel Moussous, Adriane Anis Khaled, Malika Bessedik, Fatima Benbouzid Si Tayeb, Hadjer Benmeziane"
         },
         {
-          "title": "PAFS: Perturbation-Aware Firing Scaffolds for Robust Event-Based SNNs",
-          "url": "https://arxiv.org/abs/2610.32409",
-          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "title": "Freezing Mechanism and Topology Dependence of Information Flow Structure in Small-Scale Particle Swarm Optimization",
+          "url": "https://arxiv.org/abs/2610.33421",
+          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Event-based spiking neural networks (SNNs) encode information through temporal firing dynamics, but the same stateful computation makes their predictions sensitive to event loss, timestamp jitter, and speed variation. These perturbations…",
-          "authors": "Ning Liu, Jun Sun, Hao Guo, Sen Shen, Xiangfei Yang, Jie Yang, Lan Wu, Shangke Lyu, Thomas Bräunl"
+          "summary": "The neighborhood topology of particle swarm optimization (PSO) determines information propagation and regulates the exploration-exploitation balance. However, existing evaluation methods based on fitness and spatial diversity fail to…",
+          "authors": "Zhenglong Xiang, Hongrun Wu, Yu Xue, Fei Yu, Yuanxiang Li"
         },
         {
-          "title": "Searching with Sparse Histories: Cross-Task Architecture Search from Incomplete Search Logs and Zero-Cost Proxies",
-          "url": "https://arxiv.org/abs/2610.32179",
-          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "title": "Optimal Connectivity of Random Boolean Networks for Reservoir Computing",
+          "url": "https://arxiv.org/abs/2610.33498",
+          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Neural architecture search (NAS) is expensive, but cross-task transfer can reduce costs by reusing knowledge from previous tasks. However, existing methods struggle with sparse search histories and task-specific transfer failures. We…",
-          "authors": "Yuefeng Xu, Jun Yu"
+          "summary": "Reservoir computing shifts the focus from training a system's internal dynamics to designing dynamics that expose useful computational capabilities via linear projection. We study random Boolean networks as reservoirs: cellular automata…",
+          "authors": "Christopher Michael Skeide Vibe, Aliaksandr Hubin, Stefano Nichele"
         },
         {
-          "title": "On Orthogonal Recurrent Neural Networks Quantization",
-          "url": "https://arxiv.org/abs/2402.04012",
-          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "title": "A Dynamic Decomposition Strategy for the MOEA/D With Proven Performance Guarantees",
+          "url": "https://arxiv.org/abs/2610.35334",
+          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "In recent years, Orthogonal Recurrent Neural Networks (ORNNs) have gained popularity due to their ability to manage tasks involving long-term dependencies, such as the Copy-task, and their linear complexity. However, existing ORNNs utilize…",
-          "authors": "Armand Foucault (IMT), Franck Mamalet (Comue de Toulouse), François Malgouyres (IMT)"
+          "summary": "The MOEA/D is one of the most successful multi-objective evolutionary algorithms. It operates by decomposing the optimization problem into single-objective subproblems, which are then solved in a co-evolutionary manner. The performance of…",
+          "authors": "Benjamin Doerr, Martin S. Krejca, Noé Weeks"
         }
       ]
     },
@@ -228,12 +228,12 @@
       "itemCount": 1,
       "items": [
         {
-          "title": "U-NeXt: General-purpose event detection for neonatal EEG",
-          "url": "https://arxiv.org/abs/2610.32811",
-          "publishedDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+          "title": "Impact of Synchronization Offsets and CSI Feedback Delays on Coherent Joint Transmission in Distributed MIMO-OFDM",
+          "url": "https://arxiv.org/abs/2610.33181",
+          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "We developed U-NeXt, a general framework for neonatal electroencephalography (EEG) event detection based on semantic segmentation. Its convolutional encoder-decoder directly segments individual channels using long input segments to…",
-          "authors": "Robert Hogan, Sean R. Mathieson, Aurel Luca, Soraia Ventura, Sean Griffin, Geraldine B. Boylan, John M. O'Toole"
+          "summary": "This paper studies the impact of synchronization offsets and CSI feedback delay on coherent joint transmission (CJT) in distributed MIMO-OFDM systems. Unlike conventional co-located MIMO, distributed CJT is highly sensitive to…",
+          "authors": "Kumar Sai Bondada, Daniel J. Jakubisin, R. Michael Buehrer"
         }
       ]
     }

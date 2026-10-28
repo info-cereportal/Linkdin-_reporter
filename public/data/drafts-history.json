@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-10-28T01:39:48.811Z",
+    "date": "2026-10-28",
+    "topic": "リカレントニューラルネットワーク(RNN)と学習",
+    "templateName": "data-driven",
+    "riskScore": 0,
+    "paperTitle": "Multitask Interactions in Recurrent Dynamics across 100 Cognitive Tasks",
+    "paperLink": "https://arxiv.org/abs/2610.33926",
+    "figureUrl": "https://arxiv.org/html/2610.33926/2610.33926v1/figures/fig1_vmagma.png",
+    "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、リカレントニューラルネットワーク(RNN)と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 リカレントニューラルネットワーク(RNN) × 学習\n\n📊 注目すべきデータ：\n→ On this task battery, performance improves with both nonlinear capacity and task-feature dimensionality, with the joint hierarchical model outperforming both individually trained...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Multitask Interactions in Recurrent Dynamics across 100 Cognitive Tasks\n🔗 https://arxiv.org/abs/2610.33926\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #神経科学",
+    "summaryJP": "リカレントニューラルネットワーク(RNN)と学習 — 数値で示された新事実（神経デコーディング）",
+    "paperAuthors": "Sílvia García-Hernández, Leema Hamid, Manuel Brenner",
+    "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "paperId": "2610.33926",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "リカレントニューラルネットワーク(RNN)",
+      "学習"
+    ],
+    "abstractExcerpt": "The brain continually learns tasks with very different computational demands. Recurrent neural networks (RNNs) have been used as dynamical surrogates for studying task solutions, with recent work extending this approach to joint training…",
+    "figureUrls": [
+      "https://arxiv.org/html/2610.33926/2610.33926v1/figures/fig1_vmagma.png",
+      "https://arxiv.org/html/2610.33926/2610.33926v1/figures/test_accuracy_training_time.png",
+      "https://arxiv.org/html/2610.33926/2610.33926v1/figures/magma_version.png"
+    ]
+  },
+  {
     "generatedAt": "2026-10-27T01:36:19.268Z",
     "date": "2026-10-27",
     "topic": "fMRI",
@@ -1218,32 +1245,5 @@
     ],
     "abstractExcerpt": "Inferring ocean dynamics remains challenging due to the complexity of multiscale nonlinear interactions, sparsity of observations, and limitations of numerical models. Deep learning (DL) has emerged as a powerful data-driven framework that…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-09-08T00:39:19.730Z",
-    "date": "2026-09-08",
-    "topic": "言語処理",
-    "templateName": "provocative-question",
-    "riskScore": 0,
-    "paperTitle": "A Roadmap for MEG Foundation Models",
-    "paperLink": "https://arxiv.org/abs/2609.04461",
-    "figureUrl": "https://arxiv.org/html/2609.04461/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==",
-    "formatted": "言語処理について、\n私たちの理解は10年後「完全に間違っていた」\nと言われるかもしれない。\n\n🔬 MEG(脳磁図) × 言語処理 × fMRI × EEG\n\n> Foundation models are beginning to reshape brain-signal analysis by moving the field beyond task-specific decoding pipelines toward reusable models pretrained on broad neural datasets. Magnetoencephalography (MEG) is a compelling but still underdeveloped target for this shift:...\n\nこの研究が示唆する方向性は、\n現在の主流パラダイムとは異なる道を指している。\n\nもちろん、一つの研究で全てが変わるわけではない。\nしかし神経デコーディングの文脈で俯瞰すると、\nパラダイムシフトの予兆が確実に見えてくる。\n\nこの研究が転換点だったと\n後から振り返る日が来るかもしれない。\n\n📄 A Roadmap for MEG Foundation Models\n🔗 https://arxiv.org/abs/2609.04461\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #計算論的神経科学",
-    "summaryJP": "言語処理 — 常識への問題提起（神経デコーディング）",
-    "paperAuthors": "Philipp Thölke, Hamza Abdelhedi, Yorguin Mantilla-Ramos, Fouad Lbakali, Oumayma Gharbi, Catherine Duclos, Annalisa Pascarella, Vanessa Hadid, Oiwi Parker Jones, Karim Jerbi",
-    "publishedDate": "Mon, 07 Sep 2026 00:00:00 -0400",
-    "paperId": "2609.04461",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "MEG(脳磁図)",
-      "言語処理",
-      "fMRI",
-      "EEG"
-    ],
-    "abstractExcerpt": "Foundation models are beginning to reshape brain-signal analysis by moving the field beyond task-specific decoding pipelines toward reusable models pretrained on broad neural datasets. Magnetoencephalography (MEG) is a compelling but still…",
-    "figureUrls": [
-      "https://arxiv.org/html/2609.04461/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
-    ]
   }
 ]
