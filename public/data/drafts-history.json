@@ -1,5 +1,31 @@
 [
   {
+    "generatedAt": "2026-10-29T01:56:05.856Z",
+    "date": "2026-10-29",
+    "topic": "ブレイン・コンピュータ・インターフェース(BCI)とリカレントニューラルネットワーク(RNN)",
+    "templateName": "three-insights",
+    "riskScore": 0,
+    "paperTitle": "The geometry of cognition: from neural populations to neurotechnology",
+    "paperLink": "https://arxiv.org/abs/2610.36541",
+    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\nこの研究から得られる3つの重要な示唆。\n\nブレイン・コンピュータ・インターフェース(BCI)とリカレントニューラルネットワーク(RNN)の最新成果を整理しました。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × リカレントニューラルネットワーク(RNN) × ニューラルマニフォールド × 意思決定\n\n> Cognition is implemented by distributed neural populations whose collective activity evolves through structured, low-dimensional state spaces. In this review, we survey the analytical and conceptual tools used to study latent population dynamics in biological neural networks.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nBCI・ニューラルインターフェースの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 The geometry of cognition: from neural populations to neurotechnology\n🔗 https://arxiv.org/abs/2610.36541\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #DeepLearning",
+    "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)とリカレントニューラルネットワーク(RNN) — 注目すべき3つの示唆（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Lucas Bayones, Devika Narain, Roman Rossi-Pool",
+    "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
+    "paperId": "2610.36541",
+    "paperSource": "arxiv",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "ブレイン・コンピュータ・インターフェース(BCI)",
+      "リカレントニューラルネットワーク(RNN)",
+      "ニューラルマニフォールド",
+      "意思決定",
+      "ワーキングメモリ",
+      "言語処理"
+    ],
+    "abstractExcerpt": "Cognition is implemented by distributed neural populations whose collective activity evolves through structured, low-dimensional state spaces. In this review, we survey the analytical and conceptual tools used to study latent population…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-10-28T01:39:48.811Z",
     "date": "2026-10-28",
     "topic": "リカレントニューラルネットワーク(RNN)と学習",
@@ -1223,27 +1249,5 @@
       "https://arxiv.org/html/2605.16739/2605.16739v3/figures/figure2_architecture.png",
       "https://arxiv.org/html/2605.16739/2605.16739v3/figures/figure4_qualitative.png"
     ]
-  },
-  {
-    "generatedAt": "2026-09-09T00:33:27.486Z",
-    "date": "2026-09-09",
-    "topic": "深層学習と学習",
-    "templateName": "paradigm-shift",
-    "riskScore": 0,
-    "paperTitle": "Deep Learning to Infer Ocean Dynamics.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42710032/",
-    "formatted": "深層学習と学習に関する「常識」が、\nこの研究で大きく揺らいでいます。\n\n🔬 深層学習 × 学習\n\n> Inferring ocean dynamics remains challenging due to the complexity of multiscale nonlinear interactions, sparsity of observations, and limitations of numerical models. Deep learning (DL) has emerged as a powerful data-driven framework that exploits nonlinear dependencies across...\n\nこれまでの定説では説明しきれない現象が、\nデータで裏付けられ始めている。\n\nニューロAI・計算論の研究が示す方向性は明確です。\n従来のモデルの限界を認め、\n新しいフレームワークを構築すべきフェーズに入っている。\n\nこの知見はAIアーキテクチャの設計にも\n直接的な示唆を与えると考えています。\n\n📄 Deep Learning to Infer Ocean Dynamics.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42710032/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #NeuralDecoding",
-    "summaryJP": "深層学習と学習 — 通説を揺さぶる新たな知見（ニューロAI・計算論）",
-    "paperAuthors": "Georgy E Manucharyan, Scott A Martin, Dhruv Balwada, Jinbo Wang",
-    "publishedDate": "2026-09-08",
-    "paperId": "42710032",
-    "paperSource": "pubmed",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "深層学習",
-      "学習"
-    ],
-    "abstractExcerpt": "Inferring ocean dynamics remains challenging due to the complexity of multiscale nonlinear interactions, sparsity of observations, and limitations of numerical models. Deep learning (DL) has emerged as a powerful data-driven framework that…",
-    "figureUrls": []
   }
 ]

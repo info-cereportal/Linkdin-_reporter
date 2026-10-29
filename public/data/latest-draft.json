@@ -1,27 +1,26 @@
 {
-  "generatedAt": "2026-10-28T01:39:48.811Z",
-  "date": "2026-10-28",
-  "topic": "リカレントニューラルネットワーク(RNN)と学習",
-  "templateName": "data-driven",
+  "generatedAt": "2026-10-29T01:56:05.856Z",
+  "date": "2026-10-29",
+  "topic": "ブレイン・コンピュータ・インターフェース(BCI)とリカレントニューラルネットワーク(RNN)",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Multitask Interactions in Recurrent Dynamics across 100 Cognitive Tasks",
-  "paperLink": "https://arxiv.org/abs/2610.33926",
-  "figureUrl": "https://arxiv.org/html/2610.33926/2610.33926v1/figures/fig1_vmagma.png",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、リカレントニューラルネットワーク(RNN)と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 リカレントニューラルネットワーク(RNN) × 学習\n\n📊 注目すべきデータ：\n→ On this task battery, performance improves with both nonlinear capacity and task-feature dimensionality, with the joint hierarchical model outperforming both individually trained...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Multitask Interactions in Recurrent Dynamics across 100 Cognitive Tasks\n🔗 https://arxiv.org/abs/2610.33926\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #神経科学",
-  "summaryJP": "リカレントニューラルネットワーク(RNN)と学習 — 数値で示された新事実（神経デコーディング）",
-  "paperAuthors": "Sílvia García-Hernández, Leema Hamid, Manuel Brenner",
-  "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
-  "paperId": "2610.33926",
+  "paperTitle": "The geometry of cognition: from neural populations to neurotechnology",
+  "paperLink": "https://arxiv.org/abs/2610.36541",
+  "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\nこの研究から得られる3つの重要な示唆。\n\nブレイン・コンピュータ・インターフェース(BCI)とリカレントニューラルネットワーク(RNN)の最新成果を整理しました。\n\n🔬 ブレイン・コンピュータ・インターフェース(BCI) × リカレントニューラルネットワーク(RNN) × ニューラルマニフォールド × 意思決定\n\n> Cognition is implemented by distributed neural populations whose collective activity evolves through structured, low-dimensional state spaces. In this review, we survey the analytical and conceptual tools used to study latent population dynamics in biological neural networks.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nBCI・ニューラルインターフェースの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 The geometry of cognition: from neural populations to neurotechnology\n🔗 https://arxiv.org/abs/2610.36541\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #DeepLearning",
+  "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)とリカレントニューラルネットワーク(RNN) — 注目すべき3つの示唆（BCI・ニューラルインターフェース）",
+  "paperAuthors": "Lucas Bayones, Devika Narain, Roman Rossi-Pool",
+  "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
+  "paperId": "2610.36541",
   "paperSource": "arxiv",
-  "themeArea": "神経デコーディング",
+  "themeArea": "BCI・ニューラルインターフェース",
   "jpKeywords": [
+    "ブレイン・コンピュータ・インターフェース(BCI)",
     "リカレントニューラルネットワーク(RNN)",
-    "学習"
+    "ニューラルマニフォールド",
+    "意思決定",
+    "ワーキングメモリ",
+    "言語処理"
   ],
-  "abstractExcerpt": "The brain continually learns tasks with very different computational demands. Recurrent neural networks (RNNs) have been used as dynamical surrogates for studying task solutions, with recent work extending this approach to joint training…",
-  "figureUrls": [
-    "https://arxiv.org/html/2610.33926/2610.33926v1/figures/fig1_vmagma.png",
-    "https://arxiv.org/html/2610.33926/2610.33926v1/figures/test_accuracy_training_time.png",
-    "https://arxiv.org/html/2610.33926/2610.33926v1/figures/magma_version.png"
-  ]
+  "abstractExcerpt": "Cognition is implemented by distributed neural populations whose collective activity evolves through structured, low-dimensional state spaces. In this review, we survey the analytical and conceptual tools used to study latent population…",
+  "figureUrls": []
 }

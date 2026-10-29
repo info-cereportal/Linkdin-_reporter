@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T01:39:49.441Z",
+  "generatedAt": "2026-10-29T01:56:06.385Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Sensorimotor behaviour from an untrained brain-and-nerve-cord connectome",
-          "url": "https://arxiv.org/abs/2610.33881",
-          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
+          "title": "Temporal smoothness constraints on efficient neurobiological codes imply temporal specialization",
+          "url": "https://arxiv.org/abs/2610.36272",
+          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Connectomes now map the neurons and synapses of an adult fly's brain and nerve cord, but how much of behaviour follows from the wiring is unknown. Here we turn one such connectome into a spiking network of 172,433 neurons with a published…",
-          "authors": "John R. Minnick, Jesus Gonzalez-Ferrer, Jinghui Geng, Jason K. Eshraghian, Mohammed A. Mostajo-Radji, David Haussler, Mircea Teodorescu"
+          "summary": "Neurobiological circuits may be energy efficient in part because there is a division of labor: different subsystems compute or represent different things. In light of this, it is interesting that a major difference between subsystems is…",
+          "authors": "John J. Vastola, Samuel J. Gershman"
         },
         {
-          "title": "New developments in the geometry and topology of 3D head-direction coding",
-          "url": "https://arxiv.org/abs/2610.34106",
-          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
+          "title": "The geometry of cognition: from neural populations to neurotechnology",
+          "url": "https://arxiv.org/abs/2610.36541",
+          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The head-direction (HD) system is a neuronal compass that represents head orientation in 3D. Its encoding of 3D head orientation can be decomposed into a multiplexed representation of 2D head tilt relative to gravity and 1D head…",
-          "authors": "Jean Laurens"
+          "summary": "Cognition is implemented by distributed neural populations whose collective activity evolves through structured, low-dimensional state spaces. In this review, we survey the analytical and conceptual tools used to study latent population…",
+          "authors": "Lucas Bayones, Devika Narain, Roman Rossi-Pool"
         },
         {
-          "title": "The dominance of feedback mechanisms for perception in the central visual field: the flip tilt illusion by backward masking and the Feedforward-Feedback-Verify-reWeight algorithm",
-          "url": "https://arxiv.org/abs/2610.34455",
-          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
+          "title": "Neuronal Identity as an Organizational Basis for Analyzing Neural Population Dynamics",
+          "url": "https://arxiv.org/abs/2610.36745",
+          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The flip tilt illusion is the misperception of the orientation of the alignment between a pair of dots by 90 degrees. It occurs when the dot-pair contains one black dot and one white dot, is typically visible only in the peripheral visual…",
-          "authors": "Li Zhaoping"
+          "summary": "Individual neurons exhibit diverse molecular, morphological, and electrophysiological properties that shape their distinct roles in neural circuits. While these multimodal features are largely shared across individuals, they remain an…",
+          "authors": "Seungjae Han, Joshua Yedam You, Soi Kim, Minho Eom, Jinho Park, Seunghee Park, Byeongwook Lee, Young-Gyu Yoon"
         },
         {
-          "title": "Analysis of Biomarkers from Visual Explorations in Individuals Suspected to Be in the Prodromal Phase of Parkinson's Disease",
-          "url": "https://arxiv.org/abs/2610.34524",
-          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
+          "title": "Exploring Neural Dynamics with Time Delays: A Numerical and Bifurcation Analysis Approach",
+          "url": "https://arxiv.org/abs/2610.36920",
+          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Identifying prodromal Parkinson's Disease is a precondition for any future treatment that modifies the course of the disease, since such therapies would ideally act on the initial pathogenic events, early enough to delay the clinical onset…",
-          "authors": "Maria F. Alcala-Durand, J. Camilo Puerta-Acevedo, Valle Pérez del Olmo, Elisa Luque-Buzo, Julián D. Arias-Londoño, Francisco J. Grandas-Pérez, Juan I. Godino-Llorente"
+          "summary": "The Wilson-Cowan model is a classic example of a ``neural mass model'' - a simplified yet powerful way to describe the activity of large networks of neurons. It is particularly interesting because, even in its relatively simple form, it…",
+          "authors": "Martin R Nelson, Jonathan J Crofts"
         },
         {
-          "title": "Intrinsic Goals for Autonomous Agents: Hierarchical Exploration Captures Future Volitional Action in Drosophila",
-          "url": "https://arxiv.org/abs/2610.34638",
-          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
+          "title": "Local learning is all you need: brain-aligned predictive coding networks",
+          "url": "https://arxiv.org/abs/2610.37327",
+          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Animals have a remarkable capacity for autonomy---driven by intrinsic motivation---without external sensory cues or extrinsic objectives, yet the computational mechanisms behind this ability largely remain a mystery. We combine whole-brain…",
-          "authors": "Declan Kutscher, Reece Keller, Alyn Kirsch, Felix Pei, Aran Nayebi"
+          "summary": "Predictive Coding (PC) is an influential account of how brain representations emerge through hierarchical, local, self-supervised prediction-based learning, without requiring globally propagated error signals. Despite extensive evidence…",
+          "authors": "Dirk Gütlin, Ryszard Auksztulewicz, Adrien Doerig"
         },
         {
-          "title": "Retrieval-Augmented Parkinson's Disease Classification from Resting-State Functional Connectivity",
-          "url": "https://arxiv.org/abs/2610.35107",
-          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
+          "title": "Sufficiency Theorem and Closed-Form Posterior for a Windowed Change Point Detection Task",
+          "url": "https://arxiv.org/abs/2610.37486",
+          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Altered resting-state functional connectivity (FC) is a candidate marker for the diagnosis of Parkinson's disease (PD). Publicly available PD datasets, however, are small and fragmented across sites, scanners and clinical criteria.…",
-          "authors": "Tara Niknam, Sana Hassan Imam, Daniel Kristanto"
+          "summary": "To function effectively in a changing world, agents must detect changes and act on them in a timely fashion. We study this in the context of a change point detection task in which clicks arrive from a Poisson process whose rate changes at…",
+          "authors": "Payton Hanks, Rishidev Chaudhuri, Timothy D. Hanks"
         }
       ]
     },
@@ -62,6 +62,22 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "What has actually caused the decline in drug overdose deaths?",
+          "url": "https://www.statnews.com/2026/10/28/health-news-why-are-overdose-deaths-declining/?utm_campaign=rss",
+          "publishedDate": "Wed, 28 Oct 2026 12:01:13 +0000",
+          "source": "statnews.com",
+          "summary": "After years of steep increases, especially amid the pandemic, U.S. overdose deaths decreased 27% in 2024, and preliminary data from 2025 show another meaningful drop.",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "STAT+: Lilly says ‘triple-G’ drug beat Novo’s Ozempic in diabetes study",
+          "url": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/?utm_campaign=rss",
+          "publishedDate": "Wed, 28 Oct 2026 10:45:00 +0000",
+          "source": "statnews.com",
+          "summary": "Data add to expectations that the drug will be one of Lilly’s greatest growth drivers.",
+          "authors": "Elaine Chen"
+        },
         {
           "title": "STAT+: RFK Jr. goes for broke in Iowa",
           "url": "https://www.statnews.com/2026/10/27/rfk-jr-campaigns-zach-lahn-iowa-coins-binsa-china-biotech-rules/?utm_campaign=rss",
@@ -93,22 +109,6 @@
           "source": "statnews.com",
           "summary": "For the first time, a human has been infected with the Shamonda virus, according to French officials. The World Health Organization says broader transmission is unlikely.",
           "authors": "Amanda Erickson"
-        },
-        {
-          "title": "The 4 stages of women’s heart health: New framework for doctors and patients",
-          "url": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss",
-          "publishedDate": "Mon, 26 Oct 2026 09:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "New guidance is intended to help girls and women — and their doctors — recognize four distinct phases in heart health.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "STAT+: NIH’s new vaccine injury center has broad goals beyond RFK Jr.’s focus on shots",
-          "url": "https://www.statnews.com/2026/10/26/nih-vaccine-injury-center-probes-post-infection-illness/?utm_campaign=rss",
-          "publishedDate": "Mon, 26 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The center will study the long-term impact of infections, in addition to RFK Jr.'s focus on vaccines.",
-          "authors": "Chelsea Cirruzzo"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: FDA offers new details on quicker approval pathway for personalized gene therapies",
-          "url": "https://www.statnews.com/2026/10/27/fda-personalized-gene-therapy-guidance-individualized-feature-space/?utm_campaign=rss",
-          "publishedDate": "Tue, 27 Oct 2026 16:17:33 +0000",
+          "title": "STAT+: HHS moves to allow compounding of some unapproved peptides",
+          "url": "https://www.statnews.com/2026/10/28/hhs-enforcement-discretion-policy-allows-peptide-compounding/?utm_campaign=rss",
+          "publishedDate": "Wed, 28 Oct 2026 16:35:03 +0000",
           "source": "statnews.com",
-          "summary": "Rare disease advocates applauded the FDA's move to speed access to treatments.",
+          "summary": "Kennedy and his MAHA movement have embraced peptides, though there's little evidence for many of the wellness compounds.",
           "authors": "Margaret Manto"
         },
         {
-          "title": "STAT+: RFK Jr. goes for broke in Iowa",
-          "url": "https://www.statnews.com/2026/10/27/rfk-jr-campaigns-zach-lahn-iowa-coins-binsa-china-biotech-rules/?utm_campaign=rss",
-          "publishedDate": "Tue, 27 Oct 2026 15:45:21 +0000",
+          "title": "STAT+: Senate candidate El-Sayed wants to &#8216;grill&#8217; RFK Jr., calls him the &#8216;most incompetent HHS secretary ever’",
+          "url": "https://www.statnews.com/2026/10/28/abdul-el-sayed-profile-midterm-policy-issues-health-care/?utm_campaign=rss",
+          "publishedDate": "Wed, 28 Oct 2026 15:14:49 +0000",
           "source": "statnews.com",
-          "summary": "Kennedy on the campaign trail for MAHA, and new rules loom for U.S. investments in Chinese biotech.",
-          "authors": "John Wilkerson"
+          "summary": "Abdul El-Sayed has made headlines for his progressive politics and stance on Israel. But some supporters consider his public health background critical.",
+          "authors": "Anil Oza"
         },
         {
-          "title": "The secret to slower aging may be hiding in your gut",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
-          "publishedDate": "Tue, 27 Oct 2026 07:53:24 EDT",
+          "title": "Scientists discover a hidden reason why muscles weaken with age",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
+          "publishedDate": "Wed, 28 Oct 2026 09:04:55 EDT",
           "source": "sciencedaily.com",
-          "summary": "The secret to aging more slowly may be hiding in your gut. Scientists discovered that certain gut bacteria are strongly linked to how quickly the body ages, with microbial differences accounting for about 15% of the variation in biological…",
+          "summary": "Scientists have uncovered a hidden defense mechanism in aging muscles that sacrifices strength to protect cells from damage. In mice, partially restoring a crucial molecule reversed signs of muscle wasting and prevented premature death,…",
           "authors": ""
         },
         {
-          "title": "Low testosterone may make sugar far more harmful to your liver",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
-          "publishedDate": "Tue, 27 Oct 2026 07:18:37 EDT",
+          "title": "A single sauna session sends immune cells surging through your body",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027231021.htm",
+          "publishedDate": "Wed, 28 Oct 2026 08:37:31 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction, revealing a potential new…",
+          "summary": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect threats. The surprising response…",
           "authors": ""
         },
         {
-          "title": "Common drugs may help dangerous viruses spread through the body",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
-          "publishedDate": "Tue, 27 Oct 2026 06:46:21 EDT",
+          "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+          "publishedDate": "Wed, 28 Oct 2026 06:29:36 EDT",
           "source": "sciencedaily.com",
-          "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory…",
+          "summary": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation…",
           "authors": ""
         },
         {
-          "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
-          "publishedDate": "Tue, 27 Oct 2026 00:02:26 EDT",
+          "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
+          "publishedDate": "Tue, 27 Oct 2026 23:56:09 EDT",
           "source": "sciencedaily.com",
-          "summary": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Researchers discovered that…",
+          "summary": "A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the benefits may be…",
           "authors": ""
         }
       ]
@@ -173,67 +173,75 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Organon : From Evolutionary Search to Recursive Self-Improving Agents for Scientific Discovery",
-          "url": "https://arxiv.org/abs/2610.33046",
-          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
+          "title": "Characterizing Privacy Leakage in Spiking Neural Networks: A Systematic Analysis of Temporal Dynamics, Stochasticity, Neuronal Dynamics and Learning Mechanisms",
+          "url": "https://arxiv.org/abs/2610.36243",
+          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Scientific discovery does not follow a single fixed methodology: research methods vary across domains and evolve through experimentation as investigations unfold. Although LLM-guided evolutionary search has advanced automated discovery,…",
-          "authors": "Cheikh Ahmed, Zhiyu Zhang, Kun Mao, Yong Zhang, Zirui Zhou"
+          "summary": "Spiking neural networks (SNNs) encode information not only in whether neurons fire but also in when they fire, and this temporal dimension shapes what a trained network reveals about its training data. Biologically inspired firing patterns…",
+          "authors": "Ayana Moshruba, Maryam Parsa"
         },
         {
-          "title": "Evaluating Spiking MoveNet Deployability for Near-Future Onboard Spiking Satellite Pose Estimation",
-          "url": "https://arxiv.org/abs/2610.33061",
-          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
+          "title": "GNBG-C: A Unified and Configurable Benchmark Generator for Constrained Continuous Optimization",
+          "url": "https://arxiv.org/abs/2610.37590",
+          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "SNNs are attracting interest due to their potential for energy efficiency and event-driven processing. However, neuromorphic hardware is not yet mature enough to enable embedded deployment of complex spiking network architectures. In this…",
-          "authors": "Jonathan Courtois, Christophe Marabotto, Benoit Miramond, Alain Pegatoquet"
+          "summary": "Many real-world optimization tasks are governed not only by what should be optimized, but also by what is allowed: a solution must first satisfy physical, operational, safety, budgetary, or structural requirements before its objective…",
+          "authors": "Ali Ghasemzadeh, Erfan Babakhani, Armin Khosravi, Pariya Ghasemzadeh, Yong-Hong Kuo, Seyedali Mirjalili, Amir H. Gandomi"
         },
         {
-          "title": "MOSHO: A Native Discrete Shark-Inspired Metaheuristic for Hardware-Aware Neural Architecture Search",
-          "url": "https://arxiv.org/abs/2610.33358",
-          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
+          "title": "Dynamical coarse-graining of neural-network training",
+          "url": "https://arxiv.org/abs/2610.36180",
+          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Hardware-aware neural architecture search (NAS) requires jointly optimizing predictive accuracy and device-specific latency over discrete search spaces. While multi-objective swarm optimizers show promise, continuous formulations such as…",
-          "authors": "Nazim Abdeerhmane Aouni, Zakaria Soualah Mohammed, Maroua Ogab, Nour El Imane Elbar, Rayane Rahmat Errahmane Smara, Billel Moussous, Adriane Anis Khaled, Malika Bessedik, Fatima Benbouzid Si Tayeb, Hadjer Benmeziane"
+          "summary": "Dynamical coarse-graining of neural networks gives macroscopic observables and enables training to be predicted, and controlled in a state space far smaller than the parameter space. In this paper, we first define the learning operator…",
+          "authors": "Lin-Juan Wang, Da Li, Huiling Duan, Jianxiang Wang"
         },
         {
-          "title": "Freezing Mechanism and Topology Dependence of Information Flow Structure in Small-Scale Particle Swarm Optimization",
-          "url": "https://arxiv.org/abs/2610.33421",
-          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
+          "title": "Physiology-Informed Audio Quality and Listening Effort Estimation",
+          "url": "https://arxiv.org/abs/2610.36865",
+          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The neighborhood topology of particle swarm optimization (PSO) determines information propagation and regulates the exploration-exploitation balance. However, existing evaluation methods based on fitness and spatial diversity fail to…",
-          "authors": "Zhenglong Xiang, Hongrun Wu, Yu Xue, Fei Yu, Yuanxiang Li"
+          "summary": "Audio systems aim to maximise the listener's perceived quality, traditionally evaluated through mean opinion scoring (MOS), a subjective process that is slow, costly, and collected only after playback. Machine learning now predicts MOS…",
+          "authors": "Niall McGuire, Dimitra Emmanouilidou"
         },
         {
-          "title": "Optimal Connectivity of Random Boolean Networks for Reservoir Computing",
-          "url": "https://arxiv.org/abs/2610.33498",
-          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
+          "title": "Where Should the Evaluation Budget Go in LLM-Driven Agent Scaffold Evolution?",
+          "url": "https://arxiv.org/abs/2610.37276",
+          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "Reservoir computing shifts the focus from training a system's internal dynamics to designing dynamics that expose useful computational capabilities via linear projection. We study random Boolean networks as reservoirs: cellular automata…",
-          "authors": "Christopher Michael Skeide Vibe, Aliaksandr Hubin, Stefano Nichele"
+          "summary": "Large language model (LLM)-driven agent scaffold evolution improves agent workflows through iterative candidate generation and evaluation. Evaluation both guides subsequent search and determines the final scaffold, but evaluating every…",
+          "authors": "Sichun Luo, Yi Huang, Mukai Li, Haochen Luo, Guanzhi Deng, Haibo Wang, Jian Xu, Zefa Hu, Junlan Feng, Qi Liu"
         },
         {
-          "title": "A Dynamic Decomposition Strategy for the MOEA/D With Proven Performance Guarantees",
-          "url": "https://arxiv.org/abs/2610.35334",
-          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
+          "title": "Autonomous fixed-wing interception using reinforcement learning",
+          "url": "https://arxiv.org/abs/2610.37470",
+          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "The MOEA/D is one of the most successful multi-objective evolutionary algorithms. It operates by decomposing the optimization problem into single-objective subproblems, which are then solved in a co-evolutionary manner. The performance of…",
-          "authors": "Benjamin Doerr, Martin S. Krejca, Noé Weeks"
+          "summary": "Medium altitude, long endurance unmanned aerial systems such as Shahed-type strike drones are an unanswered threat in modern conflicts. Conventional air defense systems are too expensive to provide a feasible large-scale solution.…",
+          "authors": "Daan van Hamersveld, Ewoud Smeur, Iurii Kriachko"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 1,
+      "itemCount": 2,
       "items": [
         {
-          "title": "Impact of Synchronization Offsets and CSI Feedback Delays on Coherent Joint Transmission in Distributed MIMO-OFDM",
-          "url": "https://arxiv.org/abs/2610.33181",
-          "publishedDate": "Tue, 27 Oct 2026 00:00:00 -0400",
+          "title": "ORBITAL: Optimization of Robust Brain--Computer Inference Through Architecture-Aware Low-Precision Compression",
+          "url": "https://arxiv.org/abs/2610.36411",
+          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
           "source": "arxiv.org",
-          "summary": "This paper studies the impact of synchronization offsets and CSI feedback delay on coherent joint transmission (CJT) in distributed MIMO-OFDM systems. Unlike conventional co-located MIMO, distributed CJT is highly sensitive to…",
-          "authors": "Kumar Sai Bondada, Daniel J. Jakubisin, R. Michael Buehrer"
+          "summary": "Compact electroencephalography (EEG) decoders enable embedded brain--computer interfaces (BCIs), but compression can alter adversarial robustness without proportional hardware savings. We present ORBITAL, a robustness-constrained framework…",
+          "authors": "Saim Rehman, Muhammad Shafique"
+        },
+        {
+          "title": "Soft Temporal Alignment Distillation for Camera-to-mmWave Radar Human Activity Recognition",
+          "url": "https://arxiv.org/abs/2610.36637",
+          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
+          "source": "arxiv.org",
+          "summary": "Millimeter-wave (mmWave) radar provides privacy?preserving human activity recognition (HAR), but sparse point clouds limit its representation of body structure and motion. We propose a cross-modal knowledge distillation framework in which…",
+          "authors": "Jiuqi Yan, Chengbo Zhu, Chengdong Xu, Qisong Wu"
         }
       ]
     }
