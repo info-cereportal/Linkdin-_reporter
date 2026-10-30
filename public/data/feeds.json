@@ -1,67 +1,50 @@
 {
-  "generatedAt": "2026-10-29T01:56:06.385Z",
+  "generatedAt": "2026-10-30T02:07:14.442Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Temporal smoothness constraints on efficient neurobiological codes imply temporal specialization",
-          "url": "https://arxiv.org/abs/2610.36272",
-          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Neurobiological circuits may be energy efficient in part because there is a division of labor: different subsystems compute or represent different things. In light of this, it is interesting that a major difference between subsystems is…",
-          "authors": "John J. Vastola, Samuel J. Gershman"
-        },
-        {
-          "title": "The geometry of cognition: from neural populations to neurotechnology",
-          "url": "https://arxiv.org/abs/2610.36541",
-          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Cognition is implemented by distributed neural populations whose collective activity evolves through structured, low-dimensional state spaces. In this review, we survey the analytical and conceptual tools used to study latent population…",
-          "authors": "Lucas Bayones, Devika Narain, Roman Rossi-Pool"
-        },
-        {
-          "title": "Neuronal Identity as an Organizational Basis for Analyzing Neural Population Dynamics",
-          "url": "https://arxiv.org/abs/2610.36745",
-          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Individual neurons exhibit diverse molecular, morphological, and electrophysiological properties that shape their distinct roles in neural circuits. While these multimodal features are largely shared across individuals, they remain an…",
-          "authors": "Seungjae Han, Joshua Yedam You, Soi Kim, Minho Eom, Jinho Park, Seunghee Park, Byeongwook Lee, Young-Gyu Yoon"
-        },
-        {
-          "title": "Exploring Neural Dynamics with Time Delays: A Numerical and Bifurcation Analysis Approach",
-          "url": "https://arxiv.org/abs/2610.36920",
-          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "The Wilson-Cowan model is a classic example of a ``neural mass model'' - a simplified yet powerful way to describe the activity of large networks of neurons. It is particularly interesting because, even in its relatively simple form, it…",
-          "authors": "Martin R Nelson, Jonathan J Crofts"
-        },
-        {
-          "title": "Local learning is all you need: brain-aligned predictive coding networks",
-          "url": "https://arxiv.org/abs/2610.37327",
-          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Predictive Coding (PC) is an influential account of how brain representations emerge through hierarchical, local, self-supervised prediction-based learning, without requiring globally propagated error signals. Despite extensive evidence…",
-          "authors": "Dirk Gütlin, Ryszard Auksztulewicz, Adrien Doerig"
-        },
-        {
-          "title": "Sufficiency Theorem and Closed-Form Posterior for a Windowed Change Point Detection Task",
-          "url": "https://arxiv.org/abs/2610.37486",
-          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "To function effectively in a changing world, agents must detect changes and act on them in a timely fashion. We study this in the context of a change point detection task in which clicks arrive from a Poisson process whose rate changes at…",
-          "authors": "Payton Hanks, Rishidev Chaudhuri, Timothy D. Hanks"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Federal judge rejects new Medicaid ‘frailty’ definition for work requirements",
+          "url": "https://www.statnews.com/2026/10/29/medicaid-work-requirements-judge-blocks-new-limits-medical-frailty/?utm_campaign=rss",
+          "publishedDate": "Thu, 29 Oct 2026 18:57:37 +0000",
+          "source": "statnews.com",
+          "summary": "A judge ruled that federal regulators exceeded their authority in narrowing the exceptions to Medicaid work requirements for people with medical issues.",
+          "authors": "O. Rose Broderick, Anil Oza,and Isabella Cueto"
+        },
+        {
+          "title": "STAT+: Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA",
+          "url": "https://www.statnews.com/2026/10/29/rfk-jr-midterm-health-care-policy-maha-fraud-vaccines/?utm_campaign=rss",
+          "publishedDate": "Thu, 29 Oct 2026 14:45:48 +0000",
+          "source": "statnews.com",
+          "summary": "RFK Jr. is making his pitch ahead of a midterm election that could shape the fate of his MAHA movement.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "Martin Kulldorff critiques scientific gatekeepers at NIH lecture",
+          "url": "https://www.statnews.com/2026/10/29/health-news-martin-kulldorff-critiques-scientific-gatekeepers-at-nih-lecture/?utm_campaign=rss",
+          "publishedDate": "Thu, 29 Oct 2026 13:38:36 +0000",
+          "source": "statnews.com",
+          "summary": "Martin Kulldorff, the biostatistician who advocated against Covid lockdowns, insisted that the rise in measles cases is caused by a widely disputed claim about said lockdowns:",
+          "authors": "O. Rose Broderick and Nicholas Florko"
+        },
+        {
+          "title": "STAT+: New atlas of colorectal tumors sheds light on why cancers in young people are more dangerous",
+          "url": "https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/?utm_campaign=rss",
+          "publishedDate": "Thu, 29 Oct 2026 10:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "A new atlas of colorectal tumors sheds light on why cancers in young people are more dangerous.",
+          "authors": "Angus Chen"
+        },
         {
           "title": "What has actually caused the decline in drug overdose deaths?",
           "url": "https://www.statnews.com/2026/10/28/health-news-why-are-overdose-deaths-declining/?utm_campaign=rss",
@@ -77,38 +60,6 @@
           "source": "statnews.com",
           "summary": "Data add to expectations that the drug will be one of Lilly’s greatest growth drivers.",
           "authors": "Elaine Chen"
-        },
-        {
-          "title": "STAT+: RFK Jr. goes for broke in Iowa",
-          "url": "https://www.statnews.com/2026/10/27/rfk-jr-campaigns-zach-lahn-iowa-coins-binsa-china-biotech-rules/?utm_campaign=rss",
-          "publishedDate": "Tue, 27 Oct 2026 15:45:21 +0000",
-          "source": "statnews.com",
-          "summary": "Kennedy on the campaign trail for MAHA, and new rules loom for U.S. investments in Chinese biotech.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "A possible treatment for brain-eating amoebas, found in the sea",
-          "url": "https://www.statnews.com/2026/10/27/health-news-possible-treatment-for-brain-eating-amoebas-found-in-sea/?utm_campaign=rss",
-          "publishedDate": "Tue, 27 Oct 2026 12:22:28 +0000",
-          "source": "statnews.com",
-          "summary": "Brain-eating amoebas are hard to treat and nearly always fatal. But researchers have isolated a compound that could help stop the disease.",
-          "authors": "Amanda Erickson"
-        },
-        {
-          "title": "STAT+: Pennsylvania Dutch country, tired of waiting for biopharma, builds drug company of its own",
-          "url": "https://www.statnews.com/2026/10/27/gene-therapy-cow-rare-disease-amish-mennonite-patients-waiting/?utm_campaign=rss",
-          "publishedDate": "Tue, 27 Oct 2026 08:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "A small community tests if it can solve a crisis no one else could, for the simple reason that they have no other choice.",
-          "authors": "Jason Mast"
-        },
-        {
-          "title": "A virus that afflicts cows makes the jump to a human",
-          "url": "https://www.statnews.com/2026/10/26/health-news-virus-afflicting-cows-makes-the-jump-to-humans/?utm_campaign=rss",
-          "publishedDate": "Mon, 26 Oct 2026 13:26:15 +0000",
-          "source": "statnews.com",
-          "summary": "For the first time, a human has been infected with the Shamonda virus, according to French officials. The World Health Organization says broader transmission is unlikely.",
-          "authors": "Amanda Erickson"
         }
       ]
     },
@@ -118,51 +69,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: HHS moves to allow compounding of some unapproved peptides",
-          "url": "https://www.statnews.com/2026/10/28/hhs-enforcement-discretion-policy-allows-peptide-compounding/?utm_campaign=rss",
-          "publishedDate": "Wed, 28 Oct 2026 16:35:03 +0000",
+          "title": "STAT+: Federal judge rejects new Medicaid ‘frailty’ definition for work requirements",
+          "url": "https://www.statnews.com/2026/10/29/medicaid-work-requirements-judge-blocks-new-limits-medical-frailty/?utm_campaign=rss",
+          "publishedDate": "Thu, 29 Oct 2026 18:57:37 +0000",
           "source": "statnews.com",
-          "summary": "Kennedy and his MAHA movement have embraced peptides, though there's little evidence for many of the wellness compounds.",
-          "authors": "Margaret Manto"
+          "summary": "A judge ruled that federal regulators exceeded their authority in narrowing the exceptions to Medicaid work requirements for people with medical issues.",
+          "authors": "O. Rose Broderick, Anil Oza,and Isabella Cueto"
         },
         {
-          "title": "STAT+: Senate candidate El-Sayed wants to &#8216;grill&#8217; RFK Jr., calls him the &#8216;most incompetent HHS secretary ever’",
-          "url": "https://www.statnews.com/2026/10/28/abdul-el-sayed-profile-midterm-policy-issues-health-care/?utm_campaign=rss",
-          "publishedDate": "Wed, 28 Oct 2026 15:14:49 +0000",
+          "title": "STAT+: New federal rule will require prescription drug middlemen to share secret payments data",
+          "url": "https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/?utm_campaign=rss",
+          "publishedDate": "Thu, 29 Oct 2026 16:44:05 +0000",
           "source": "statnews.com",
-          "summary": "Abdul El-Sayed has made headlines for his progressive politics and stance on Israel. But some supporters consider his public health background critical.",
-          "authors": "Anil Oza"
+          "summary": "A Trump administration rule will force pharmacy benefit managers to disclose fees and compensation details currently kept private.",
+          "authors": "Bob Herman"
         },
         {
-          "title": "Scientists discover a hidden reason why muscles weaken with age",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
-          "publishedDate": "Wed, 28 Oct 2026 09:04:55 EDT",
+          "title": "STAT+: Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA",
+          "url": "https://www.statnews.com/2026/10/29/rfk-jr-midterm-health-care-policy-maha-fraud-vaccines/?utm_campaign=rss",
+          "publishedDate": "Thu, 29 Oct 2026 14:45:48 +0000",
+          "source": "statnews.com",
+          "summary": "RFK Jr. is making his pitch ahead of a midterm election that could shape the fate of his MAHA movement.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "A single brain signal may explain schizophrenia&#039;s most puzzling symptoms",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
+          "publishedDate": "Thu, 29 Oct 2026 09:14:52 EDT",
           "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a hidden defense mechanism in aging muscles that sacrifices strength to protect cells from damage. In mice, partially restoring a crucial molecule reversed signs of muscle wasting and prevented premature death,…",
+          "summary": "Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity. The surprising…",
           "authors": ""
         },
         {
-          "title": "A single sauna session sends immune cells surging through your body",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261027231021.htm",
-          "publishedDate": "Wed, 28 Oct 2026 08:37:31 EDT",
+          "title": "Six popular sugar substitutes linked to faster brain aging",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
+          "publishedDate": "Thu, 29 Oct 2026 09:04:04 EDT",
           "source": "sciencedaily.com",
-          "summary": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect threats. The surprising response…",
+          "summary": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. Six popular…",
           "authors": ""
         },
         {
-          "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
-          "publishedDate": "Wed, 28 Oct 2026 06:29:36 EDT",
+          "title": "Scientists discover that cranberry juice may help fight tooth decay",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm",
+          "publishedDate": "Thu, 29 Oct 2026 07:12:06 EDT",
           "source": "sciencedaily.com",
-          "summary": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation…",
-          "authors": ""
-        },
-        {
-          "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
-          "publishedDate": "Tue, 27 Oct 2026 23:56:09 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the benefits may be…",
+          "summary": "Cranberry juice may offer an unexpected benefit beyond its reputation for helping prevent urinary tract infections: protecting teeth from decay. Researchers at the University of Illinois Chicago discovered that pure, unsweetened cranberry…",
           "authors": ""
         }
       ]
@@ -170,78 +121,61 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Characterizing Privacy Leakage in Spiking Neural Networks: A Systematic Analysis of Temporal Dynamics, Stochasticity, Neuronal Dynamics and Learning Mechanisms",
-          "url": "https://arxiv.org/abs/2610.36243",
-          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Spiking neural networks (SNNs) encode information not only in whether neurons fire but also in when they fire, and this temporal dimension shapes what a trained network reveals about its training data. Biologically inspired firing patterns…",
-          "authors": "Ayana Moshruba, Maryam Parsa"
-        },
-        {
-          "title": "GNBG-C: A Unified and Configurable Benchmark Generator for Constrained Continuous Optimization",
-          "url": "https://arxiv.org/abs/2610.37590",
-          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Many real-world optimization tasks are governed not only by what should be optimized, but also by what is allowed: a solution must first satisfy physical, operational, safety, budgetary, or structural requirements before its objective…",
-          "authors": "Ali Ghasemzadeh, Erfan Babakhani, Armin Khosravi, Pariya Ghasemzadeh, Yong-Hong Kuo, Seyedali Mirjalili, Amir H. Gandomi"
-        },
-        {
-          "title": "Dynamical coarse-graining of neural-network training",
-          "url": "https://arxiv.org/abs/2610.36180",
-          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Dynamical coarse-graining of neural networks gives macroscopic observables and enables training to be predicted, and controlled in a state space far smaller than the parameter space. In this paper, we first define the learning operator…",
-          "authors": "Lin-Juan Wang, Da Li, Huiling Duan, Jianxiang Wang"
-        },
-        {
-          "title": "Physiology-Informed Audio Quality and Listening Effort Estimation",
-          "url": "https://arxiv.org/abs/2610.36865",
-          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Audio systems aim to maximise the listener's perceived quality, traditionally evaluated through mean opinion scoring (MOS), a subjective process that is slow, costly, and collected only after playback. Machine learning now predicts MOS…",
-          "authors": "Niall McGuire, Dimitra Emmanouilidou"
-        },
-        {
-          "title": "Where Should the Evaluation Budget Go in LLM-Driven Agent Scaffold Evolution?",
-          "url": "https://arxiv.org/abs/2610.37276",
-          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Large language model (LLM)-driven agent scaffold evolution improves agent workflows through iterative candidate generation and evaluation. Evaluation both guides subsequent search and determines the final scaffold, but evaluating every…",
-          "authors": "Sichun Luo, Yi Huang, Mukai Li, Haochen Luo, Guanzhi Deng, Haibo Wang, Jian Xu, Zefa Hu, Junlan Feng, Qi Liu"
-        },
-        {
-          "title": "Autonomous fixed-wing interception using reinforcement learning",
-          "url": "https://arxiv.org/abs/2610.37470",
-          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Medium altitude, long endurance unmanned aerial systems such as Shahed-type strike drones are an unanswered threat in modern conflicts. Conventional air defense systems are too expensive to provide a feasible large-scale solution.…",
-          "authors": "Daan van Hamersveld, Ewoud Smeur, Iurii Kriachko"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 6,
       "items": [
         {
-          "title": "ORBITAL: Optimization of Robust Brain--Computer Inference Through Architecture-Aware Low-Precision Compression",
-          "url": "https://arxiv.org/abs/2610.36411",
-          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Compact electroencephalography (EEG) decoders enable embedded brain--computer interfaces (BCIs), but compression can alter adversarial robustness without proportional hardware savings. We present ORBITAL, a robustness-constrained framework…",
-          "authors": "Saim Rehman, Muhammad Shafique"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
         },
         {
-          "title": "Soft Temporal Alignment Distillation for Camera-to-mmWave Radar Human Activity Recognition",
-          "url": "https://arxiv.org/abs/2610.36637",
-          "publishedDate": "Wed, 28 Oct 2026 00:00:00 -0400",
-          "source": "arxiv.org",
-          "summary": "Millimeter-wave (mmWave) radar provides privacy?preserving human activity recognition (HAR), but sparse point clouds limit its representation of body structure and motion. We propose a cross-modal knowledge distillation framework in which…",
-          "authors": "Jiuqi Yan, Chengbo Zhu, Chengdong Xu, Qisong Wu"
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }
