@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-10-31T01:45:57.877Z",
+    "date": "2026-10-31",
+    "topic": "学習",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Prospective Coding and Path Integration Emerge as Equilibrium Solutions of Self-Organizing Neural Networks with Firing-Rate Adaptation",
+    "paperLink": "https://arxiv.org/abs/2606.14649",
+    "figureUrl": "https://arxiv.org/html/2606.14649/2606.14649v3/FIGURE1.png",
+    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習 × PET\n\n> Continuous Attractor Neural Networks (CANNs) traditionally rely on pre-wired recurrent connectivity to model spatial representations, path integration, and anticipatory dynamics. However, the biological mechanisms through which this structured connectivity emerges via learning...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n神経デコーディングの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Prospective Coding and Path Integration Emerge as Equilibrium Solutions of Self-Organizing Neural Networks with Firing-Rate Adaptation\n🔗 https://arxiv.org/abs/2606.14649\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #NeuralDecoding #BCI",
+    "summaryJP": "学習 — 脳科学とAIをつなぐ研究（神経デコーディング）",
+    "paperAuthors": "Facundo Emina, Emilio Kropff",
+    "publishedDate": "Fri, 30 Oct 2026 00:00:00 -0400",
+    "paperId": "2606.14649",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "学習",
+      "PET"
+    ],
+    "abstractExcerpt": "Continuous Attractor Neural Networks (CANNs) traditionally rely on pre-wired recurrent connectivity to model spatial representations, path integration, and anticipatory dynamics. However, the biological mechanisms through which this…",
+    "figureUrls": [
+      "https://arxiv.org/html/2606.14649/2606.14649v3/FIGURE1.png",
+      "https://arxiv.org/html/2606.14649/2606.14649v3/FIGURE3.png",
+      "https://arxiv.org/html/2606.14649/2606.14649v3/FIGURE6.png"
+    ]
+  },
+  {
     "generatedAt": "2026-10-30T02:07:13.690Z",
     "date": "2026-10-30",
     "topic": "深層学習と学習",
@@ -1217,33 +1244,6 @@
     "abstractExcerpt": "Accumulating evidence suggests that large-scale brain activity exhibits scale-invariant dynamics consistent with operation in a near-critical regime. Such dynamics have been associated with long-range correlations, efficient information…",
     "figureUrls": [
       "https://arxiv.org/html/2606.06290/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
-    ]
-  },
-  {
-    "generatedAt": "2026-09-11T00:30:20.562Z",
-    "date": "2026-09-11",
-    "topic": "EEGとPET",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "EEGBind: Detecting Source-Level Interictal Epileptiform Discharges via EEG-Centric Multimodal Binding",
-    "paperLink": "https://arxiv.org/abs/2609.09728",
-    "figureUrl": "https://arxiv.org/html/2609.09728/2609.09728v1/task3overview.png",
-    "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\nEEGとPETの最新成果を整理しました。\n\n🔬 EEG × PET\n\n📊 注目すべきデータ：\n→ Instead of relying on early or overly strong multimodal fusion, which may perturb the source-sensitive EEG representation, EEGBind uses video context as auxiliary evidence for...\n→ On the NeuroMM 2026 Grand Challenge Track 3 NMM-Source-IED benchmark, EEGBind achieves 0.8395 on weighted-F1 and outperforms strong competitors.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n神経デコーディングの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 EEGBind: Detecting Source-Level Interictal Epileptiform Discharges via EEG-Centric Multimodal Binding\n🔗 https://arxiv.org/abs/2609.09728\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #脳情報",
-    "summaryJP": "EEGとPET — 注目すべき3つの示唆（神経デコーディング）",
-    "paperAuthors": "Muchen Li, Anglin Liu, Xuetian Gao, Ruijian Xu, Jintai Chen",
-    "publishedDate": "Thu, 10 Sep 2026 00:00:00 -0400",
-    "paperId": "2609.09728",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "EEG",
-      "PET"
-    ],
-    "abstractExcerpt": "Source-level analysis of interictal epileptiform discharges (IEDs) is relevant to presurgical evaluation and treatment planning because it helps characterize where epileptiform activity is likely to arise. Beyond detecting whether an IED…",
-    "figureUrls": [
-      "https://arxiv.org/html/2609.09728/2609.09728v1/task3overview.png",
-      "https://arxiv.org/html/2609.09728/2609.09728v1/task3_embedding_map.png",
-      "https://arxiv.org/html/2609.09728/2609.09728v1/task3_video_type_patterns.png"
     ]
   }
 ]
