@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:26:18.029Z",
+  "generatedAt": "2026-11-02T01:46:40.186Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,52 +69,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
+          "publishedDate": "Sun, 01 Nov 2026 08:24:51 EST",
+          "source": "sciencedaily.com",
+          "summary": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted, skin-roasted peanuts daily for 16 weeks improved…",
+          "authors": ""
+        },
+        {
+          "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
+          "publishedDate": "Sun, 01 Nov 2026 07:33:13 EST",
+          "source": "sciencedaily.com",
+          "summary": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson&#039;s disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to…",
+          "authors": ""
+        },
+        {
+          "title": "Drinking tea may help protect your heart, but there’s a surprising catch",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261031221203.htm",
+          "publishedDate": "Sun, 01 Nov 2026 06:29:04 EST",
+          "source": "sciencedaily.com",
+          "summary": "A massive study of nearly 486,000 adults found that regularly drinking tea was associated with an 11% lower risk of heart and blood vessel diseases. The lowest risk was linked to drinking roughly six to eight cups per day, with black tea…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm",
+          "publishedDate": "Sun, 01 Nov 2026 05:49:13 EST",
+          "source": "sciencedaily.com",
+          "summary": "Scientists at the University of Virginia have developed a promising new strategy to fight glioblastoma, one of the deadliest and most difficult-to-treat forms of brain cancer. Their experimental approach combines focused ultrasound, tiny…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover a hidden driver of high cholesterol and a way to stop it",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261030003003.htm",
+          "publishedDate": "Sat, 31 Oct 2026 21:57:50 EDT",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a hidden mechanism that allows high-cholesterol diets to undermine the body&#039;s natural cholesterol defenses, and blocking it dramatically lowered harmful LDL cholesterol in mice. Even more promising, an…",
+          "authors": ""
+        },
+        {
           "title": "Scientists finally discover how a common gut bacterium can trigger colon cancer",
           "url": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
           "publishedDate": "Sat, 31 Oct 2026 09:49:23 EDT",
           "source": "sciencedaily.com",
           "summary": "Scientists at Johns Hopkins have uncovered a crucial missing link between a common gut bacterium and colorectal cancer, solving a mystery that has puzzled researchers for nearly two decades. The bacterium, Bacteroides fragilis, produces a…",
           "authors": ""
-        },
-        {
-          "title": "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in",
-          "url": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
-          "publishedDate": "Sat, 31 Oct 2026 11:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next.",
-          "authors": "Daniel Payne"
-        },
-        {
-          "title": "Scientists discover a bacterial defense so strange they thought it was broken",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
-          "publishedDate": "Sat, 31 Oct 2026 06:38:30 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus attacks, this…",
-          "authors": ""
-        },
-        {
-          "title": "A surprising vitamin A discovery is changing what scientists know about vision",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
-          "publishedDate": "Sat, 31 Oct 2026 00:31:41 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms. Using miniature human retinas grown in the lab,…",
-          "authors": ""
-        },
-        {
-          "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
-          "publishedDate": "Fri, 30 Oct 2026 20:59:52 EDT",
-          "source": "sciencedaily.com",
-          "summary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an…",
-          "authors": ""
-        },
-        {
-          "title": "How Election Day can affect your heart",
-          "url": "https://www.statnews.com/2026/10/30/election-stress-heart-attack-risk/?utm_campaign=rss",
-          "publishedDate": "Fri, 30 Oct 2026 14:07:14 +0000",
-          "source": "statnews.com",
-          "summary": "Political campaigns can do more than raise your blood pressure. Studies link election stress to irregular heartbeats and an increase in heart attacks.",
-          "authors": "Elizabeth Cooney"
         }
       ]
     },
