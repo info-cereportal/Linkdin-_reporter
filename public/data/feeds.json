@@ -1,18 +1,99 @@
 {
-  "generatedAt": "2026-11-02T01:46:40.186Z",
+  "generatedAt": "2026-11-03T03:41:12.029Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Expression of White and Gray Matter Autism Functional Network Connectivity Signatures in Infancy",
+          "url": "https://arxiv.org/abs/2610.40839",
+          "publishedDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Functional connectivity studies have provided valuable insights into altered brain organization in autism spectrum disorder (ASD). However, most functional connectivity studies focus exclusively on either gray matter (GM) regions or white…",
+          "authors": "Qiang Li, Jingyu Liu, Zening Fu, Armin Iraji, Sarah Shultz, Vince D. Calhoun"
+        },
+        {
+          "title": "Hyperbolic embedding of higher-order simplicial networks",
+          "url": "https://arxiv.org/abs/2610.41684",
+          "publishedDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Many biological interactions involve groups rather than pairs, as when several proteins assemble into a multi-protein complex. Simplicial complexes naturally capture these collective interactions. Existing hyperbolic embeddings represent…",
+          "authors": "Martin Guillemaud, Vito Latora, Mario Chavez"
+        },
+        {
+          "title": "Explainable AI-Driven Neural Activity Analysis in Parkinsonian Rats under Electrical Stimulation",
+          "url": "https://arxiv.org/abs/2502.12471",
+          "publishedDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Parkinson's disease (PD) is characterized by motor dysfunction and abnormal neural oscillations. This study combined graphene-based cortical stimulation with an explainable artificial intelligence (XAI) framework to investigate spatial and…",
+          "authors": "Jibum Kim, Hanseul Choi, Gaeun Kim, Sunggu Yang, Eunha Baeg, Donggue Kim, Seongwon Jin, Sangwon Byun"
+        },
+        {
+          "title": "Lattice-Based Pruning of Recurrent Neural Networks via Poset Modeling: A Corrected Theory and a Matched-Sparsity Evaluation",
+          "url": "https://arxiv.org/abs/2502.16525",
+          "publishedDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Magnitude pruning of recurrent neural networks (RNNs) ignores how information flows between neurons. An earlier version proposed to model RNN dependencies as a partially ordered set (poset) and to retain the meet-irreducible elements of…",
+          "authors": "Rakesh Sengupta"
+        },
+        {
+          "title": "Building functional and mechanistic models of cortical computation based on canonical cell type connectivity",
+          "url": "https://arxiv.org/abs/2504.03031",
+          "publishedDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Neuronal circuits of the cerebral cortex are the structural basis of mammalian cognition. The same qualitative components and connectivity motifs are repeated across functionally specialized cortical areas and mammalian species, suggesting…",
+          "authors": "Arno Granier, Katharina A Wilmes, Mihai A Petrovici, Walter Senn"
+        },
+        {
+          "title": "Message interaction dynamics covary with brain volume across mammalian connectomes",
+          "url": "https://arxiv.org/abs/2505.15477",
+          "publishedDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Brain network communication models typically assume that signals propagate independently, despite the high network density and small diameter of mammalian connectomes, where interactions among simultaneously propagating messages are…",
+          "authors": "Yan Hao, Hannah Lax, Marc-Thorsten Hütt, Daniel J. Graham"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Washington state resident dies from bird flu following exposure to infected cattle",
+          "url": "https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/?utm_campaign=rss",
+          "publishedDate": "Mon, 02 Nov 2026 20:44:40 +0000",
+          "source": "statnews.com",
+          "summary": "A person in Washington state has died from complications of the bird flu, the first such U.S. death in a year.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "A STAT reporter on covering MRT as an experimental fertility treatment",
+          "url": "https://www.statnews.com/2026/11/02/health-news-stat-reporter-qa-on-mit-as-experimental-fertility-treatment/?utm_campaign=rss",
+          "publishedDate": "Mon, 02 Nov 2026 13:08:42 +0000",
+          "source": "statnews.com",
+          "summary": "Inside the global fertility industry using women as \"guinea pigs\":",
+          "authors": "Amanda Erickson"
+        },
+        {
+          "title": "Women travel thousands of miles for a reproductive moonshot. Scientists say they&#8217;ve been misled",
+          "url": "https://www.statnews.com/2026/11/02/three-parent-ivf-fertility-tourism-investigation-mrt-therapy/?utm_campaign=rss",
+          "publishedDate": "Mon, 02 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Pioneering IVF technique to reduce the risk of children inheriting mitochondrial diseases is being marketed as a fertility procedure for older women, despite little evidence it works.",
+          "authors": "Megan Molteni"
+        },
+        {
+          "title": "Are you pursuing MRT as a treatment for infertility? Tell us about your experience",
+          "url": "https://www.statnews.com/2026/11/02/mrt-fertility-treatment-advanced-maternal-age-three-parent-ivf-reader-callout/?utm_campaign=rss",
+          "publishedDate": "Mon, 02 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Are you pursuing MRT as a treatment for infertility? STAT wants to hear from you",
+          "authors": "STAT Staff"
+        },
         {
           "title": "How Election Day can affect your heart",
           "url": "https://www.statnews.com/2026/10/30/election-stress-heart-attack-risk/?utm_campaign=rss",
@@ -28,38 +109,6 @@
           "source": "statnews.com",
           "summary": "A new series in The Lancet argues for the need to investigate a paradox of men’s health: why men experience worse health outcomes than women, even though they hold undeniable&#8230;",
           "authors": "Annalisa Merelli"
-        },
-        {
-          "title": "STAT+: Federal judge rejects new Medicaid ‘frailty’ definition for work requirements",
-          "url": "https://www.statnews.com/2026/10/29/medicaid-work-requirements-judge-blocks-new-limits-medical-frailty/?utm_campaign=rss",
-          "publishedDate": "Thu, 29 Oct 2026 18:57:37 +0000",
-          "source": "statnews.com",
-          "summary": "A judge ruled that federal regulators exceeded their authority in narrowing the exceptions to Medicaid work requirements for people with medical issues.",
-          "authors": "O. Rose Broderick, Anil Oza,and Isabella Cueto"
-        },
-        {
-          "title": "STAT+: Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA",
-          "url": "https://www.statnews.com/2026/10/29/rfk-jr-midterm-health-care-policy-maha-fraud-vaccines/?utm_campaign=rss",
-          "publishedDate": "Thu, 29 Oct 2026 14:45:48 +0000",
-          "source": "statnews.com",
-          "summary": "RFK Jr. is making his pitch ahead of a midterm election that could shape the fate of his MAHA movement.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Martin Kulldorff critiques scientific gatekeepers at NIH lecture",
-          "url": "https://www.statnews.com/2026/10/29/health-news-martin-kulldorff-critiques-scientific-gatekeepers-at-nih-lecture/?utm_campaign=rss",
-          "publishedDate": "Thu, 29 Oct 2026 13:38:36 +0000",
-          "source": "statnews.com",
-          "summary": "Martin Kulldorff, the biostatistician who advocated against Covid lockdowns, insisted that the rise in measles cases is caused by a widely disputed claim about said lockdowns:",
-          "authors": "O. Rose Broderick and Nicholas Florko"
-        },
-        {
-          "title": "STAT+: New atlas of colorectal tumors sheds light on why cancers in young people are more dangerous",
-          "url": "https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/?utm_campaign=rss",
-          "publishedDate": "Thu, 29 Oct 2026 10:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "A new atlas of colorectal tumors sheds light on why cancers in young people are more dangerous.",
-          "authors": "Angus Chen"
         }
       ]
     },
@@ -69,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
-          "publishedDate": "Sun, 01 Nov 2026 08:24:51 EST",
+          "title": "STAT+: The health care affordability midterms, and billing urgent care as ER",
+          "url": "https://www.statnews.com/2026/11/02/health-care-affordability-midterms-hybrid-er-urgent-care-clinics-health-care-inc/?utm_campaign=rss",
+          "publishedDate": "Mon, 02 Nov 2026 17:05:28 +0000",
+          "source": "statnews.com",
+          "summary": "Health care affordability is a major issue for voters, and a new kind of medical clinic sticks some patients with big bills.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "Extra weight may be aging your brain faster than you think",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261101010559.htm",
+          "publishedDate": "Mon, 02 Nov 2026 08:55:28 EST",
           "source": "sciencedaily.com",
-          "summary": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted, skin-roasted peanuts daily for 16 weeks improved…",
+          "summary": "A major 24-year study involving more than 8,200 adults suggests that excess body weight may accelerate brain aging, leading to faster declines in memory, concentration, and decision-making skills. The connection was particularly strong…",
           "authors": ""
         },
         {
-          "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
-          "publishedDate": "Sun, 01 Nov 2026 07:33:13 EST",
+          "title": "Experts say high blood pressure guidelines are missing half the equation",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261102075553.htm",
+          "publishedDate": "Mon, 02 Nov 2026 08:10:42 EST",
           "source": "sciencedaily.com",
-          "summary": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson&#039;s disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to…",
+          "summary": "Scientists are calling for a major rethink of how we manage high blood pressure, suggesting that eating more potassium could be just as important as cutting back on salt. A new report finds that combining increased potassium intake with…",
           "authors": ""
         },
         {
-          "title": "Drinking tea may help protect your heart, but there’s a surprising catch",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261031221203.htm",
-          "publishedDate": "Sun, 01 Nov 2026 06:29:04 EST",
+          "title": "New diabetes implant uses electricity to lower blood sugar and promote weight loss",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261031221151.htm",
+          "publishedDate": "Mon, 02 Nov 2026 07:47:18 EST",
           "source": "sciencedaily.com",
-          "summary": "A massive study of nearly 486,000 adults found that regularly drinking tea was associated with an 11% lower risk of heart and blood vessel diseases. The lowest risk was linked to drinking roughly six to eight cups per day, with black tea…",
+          "summary": "Researchers have developed a remarkable new electronic implant that could transform type 2 diabetes treatment by lowering blood sugar without insulin or traditional drugs. The device uses a special electrically powered catalyst to convert…",
           "authors": ""
         },
         {
-          "title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm",
-          "publishedDate": "Sun, 01 Nov 2026 05:49:13 EST",
+          "title": "Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261029072132.htm",
+          "publishedDate": "Mon, 02 Nov 2026 07:13:03 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists at the University of Virginia have developed a promising new strategy to fight glioblastoma, one of the deadliest and most difficult-to-treat forms of brain cancer. Their experimental approach combines focused ultrasound, tiny…",
+          "summary": "In a surprising discovery, scientists found that certain diets associated with obesity can make cancer immunotherapy more effective in mice, challenging traditional assumptions about diet and cancer treatment. The findings suggest that the…",
           "authors": ""
         },
         {
-          "title": "Scientists discover a hidden driver of high cholesterol and a way to stop it",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261030003003.htm",
-          "publishedDate": "Sat, 31 Oct 2026 21:57:50 EDT",
+          "title": "Even moderate drinking linked to cancer and early death, major study finds",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261031221159.htm",
+          "publishedDate": "Sun, 01 Nov 2026 23:12:24 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a hidden mechanism that allows high-cholesterol diets to undermine the body&#039;s natural cholesterol defenses, and blocking it dramatically lowered harmful LDL cholesterol in mice. Even more promising, an…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists finally discover how a common gut bacterium can trigger colon cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
-          "publishedDate": "Sat, 31 Oct 2026 09:49:23 EDT",
-          "source": "sciencedaily.com",
-          "summary": "Scientists at Johns Hopkins have uncovered a crucial missing link between a common gut bacterium and colorectal cancer, solving a mystery that has puzzled researchers for nearly two decades. The bacterium, Bacteroides fragilis, produces a…",
+          "summary": "A major new study challenges the idea that moderate drinking is safe, finding that even relatively small amounts of alcohol increase the risk of cancer, heart disease, and premature death. Researchers found no overall health benefits from…",
           "authors": ""
         }
       ]
@@ -121,61 +170,78 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Local Budget Benefits, Population Commitment, and Solver Performance: A DGO Case Study with Controlled DE Transfer",
+          "url": "https://arxiv.org/abs/2610.41099",
+          "publishedDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "An evaluated candidate can improve a local search step, alter the population used by later steps, and affect a solver's final result. We distinguish these three questions using Da Gou Gun Optimization (DGO), a population optimizer designed…",
+          "authors": "Shiqi Li"
+        },
+        {
+          "title": "Memory and Recall of Color Images Using Neural Networks-1 - The Cue-Ball Model based on the Associative Memory Mechanism -",
+          "url": "https://arxiv.org/abs/2610.41108",
+          "publishedDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "This paper presents a neural network model for storing and recalling color images of different sizes using the Cue BallRecall Net systems [1,2,3,4,5]. The Cue Ball system consists of a Recall Net composed of multiple memory neurons each…",
+          "authors": "Hiroshi Inazawa"
+        },
+        {
+          "title": "Input-dependent Neuromodulation Enhances Mixed-Signal Neuromorphic Hardware",
+          "url": "https://arxiv.org/abs/2610.41265",
+          "publishedDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Gating mechanisms allow a fixed neural network to adapt its computation to the current input by dynamically modulating its effective parameters. In the brain, neuromodulation uses this principle to move neural circuits between dynamical…",
+          "authors": "Aashman Mehta, AbdelQader AlKilany, Dan F. M. Goodman, Giacomo Indiveri, Melika Payvand"
+        },
+        {
+          "title": "AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer and Continually Learn",
+          "url": "https://arxiv.org/abs/2610.40757",
+          "publishedDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Humans and animals have a unique capacity to generalize and learn in novel circumstances, including \"0-shot\" inference (ZI) and continual learning (CL) -- two powerful cognitive abilities. Despite this importance, efforts to model ZI and…",
+          "authors": "Daniel Levine, David van Dijk, Kenneth Kay"
+        },
+        {
+          "title": "In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents",
+          "url": "https://arxiv.org/abs/2610.41291",
+          "publishedDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Long-horizon LLM agents play an important role in solving complex and sustained tasks, with ever-growing interaction contexts. However, these accumulated contexts will raise substantial computational cost and obscure key decision-relevant…",
+          "authors": "Xuning He, Kai Fan, Runyu Zhang, Binghuan Wang, Yuxiang Zhang, Xue Jiang, Yihong Dong"
+        },
+        {
+          "title": "Proof-Carrying Evolution: Black-Box Search, White-Box Flight",
+          "url": "https://arxiv.org/abs/2610.42043",
+          "publishedDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "We study whether a language model can help design controllers whose behavior can be formally checked. In proof-carrying evolution (PCE), a search proposes controllers together with their certificates. Their mathematical forms are fixed; a…",
+          "authors": "Amit Jain, Sergio Sanchez-Hurtado, Victor Rodriguez-Fernandez, Richard Linares"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 2,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
+          "title": "Learning Joint Synchronization, Channel Estimation, and Decoding: Comparison with a Finite-Blocklength Achievability Bound",
+          "url": "https://arxiv.org/abs/2610.41580",
+          "publishedDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Learned schemes that jointly perform tasks such as synchronization and decoding have achieved promising results for short-packet communication. However, it remains unclear how close their performance is to information-theoretic bounds. To…",
+          "authors": "Bingcheng Chen, Giuseppe Durisi, Christian Häger"
         },
         {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "Improving Spectral Resolution via Simultaneous Extracochlear and Apical Ground Contacts: A Neural Simulation Study",
+          "url": "https://arxiv.org/abs/2610.41791",
+          "publishedDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Objectives: While cochlear implants (CI) can provide excellent speech perception outcomes, speech recognition in noise remains a consistent problem for many patients due to channel interaction. Recent work shows the clinical feasibility of…",
+          "authors": "Jared A. Rybarczyk, Erin L. Bratu, Robert F. Labadie, Jack H. Noble"
         }
       ]
     }
