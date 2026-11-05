@@ -1,5 +1,35 @@
 [
   {
+    "generatedAt": "2026-11-05T02:44:26.509Z",
+    "date": "2026-11-05",
+    "topic": "ニューロモデュレーションと深層学習",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation",
+    "paperLink": "https://arxiv.org/abs/2611.05374",
+    "figureUrl": "https://arxiv.org/html/2611.05374/2611.05374v1/final_figures/panel_2/panel_2_combined.png",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nニューロモデュレーションと深層学習の最新研究です。\n\n🔬 EEG × ニューロモデュレーション × 深層学習 × クローズドループ制御\n\n> Real-time phase estimation on stimulus-aligned transient EEG is critical for closed-loop neuromodulation systems targeting the theta-band, yet most real-time phase estimation methods have been developed and validated on resting-state, high-fidelity signals in the alpha band....\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation\n🔗 https://arxiv.org/abs/2611.05374\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #神経科学",
+    "summaryJP": "ニューロモデュレーションと深層学習 — 次世代へ続く布石（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Ivan Martinez-Kay, Tatiana Kardashina, ShiNung Ching, Eric C. Leuthardt, Benjamin T. Acland",
+    "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+    "paperId": "2611.05374",
+    "paperSource": "arxiv",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "EEG",
+      "ニューロモデュレーション",
+      "深層学習",
+      "クローズドループ制御",
+      "学習"
+    ],
+    "abstractExcerpt": "Real-time phase estimation on stimulus-aligned transient EEG is critical for closed-loop neuromodulation systems targeting the theta-band, yet most real-time phase estimation methods have been developed and validated on resting-state,…",
+    "figureUrls": [
+      "https://arxiv.org/html/2611.05374/2611.05374v1/final_figures/panel_2/panel_2_combined.png",
+      "https://arxiv.org/html/2611.05374/2611.05374v1/final_figures/panel_3/panel_3_combined.png",
+      "https://arxiv.org/html/2611.05374/2611.05374v1/final_figures/panel_4/ablation_untuned_noncausal_order_comparison.png"
+    ]
+  },
+  {
     "generatedAt": "2026-11-04T02:40:15.660Z",
     "date": "2026-11-04",
     "topic": "大規模言語モデル(LLM)と言語処理",
@@ -1219,34 +1249,6 @@
       "https://arxiv.org/html/2609.17042/2609.17042v1/Figure1_TC_Neurips-1.png",
       "https://arxiv.org/html/2609.17042/2609.17042v1/FIgure2_TC_NeurIPS-1.png",
       "https://arxiv.org/html/2609.17042/2609.17042v1/Figure3_TC_NeurIPS.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-09-16T00:45:52.729Z",
-    "date": "2026-09-16",
-    "topic": "ニューラルインターフェースとブレイン・コンピュータ・インターフェース(BCI)",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Pretraining for Sample-Efficient Neural Interfaces",
-    "paperLink": "https://arxiv.org/abs/2609.13507",
-    "figureUrl": "https://arxiv.org/html/2609.13507/2609.13507v1/fig2_methods.png",
-    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n数字が語る、ニューラルインターフェースとブレイン・コンピュータ・インターフェース(BCI)の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 ニューラルインターフェース × ブレイン・コンピュータ・インターフェース(BCI) × 学習 × EEG\n\n📊 注目すべきデータ：\n→ MAPA sets a new state of the art across all three regimes of the Neuroprobe benchmark without fine-tuning: within-session, cross-session, and cross-subject.\n→ In the cross-subject regime, a linear probe on MAPA's features needs only $\\sim164$ labeled trials to reach the accuracy that takes 3,500 without pretraining.\n\nなぜこの数字が重要か。\n\nBCI・ニューラルインターフェースにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Pretraining for Sample-Efficient Neural Interfaces\n🔗 https://arxiv.org/abs/2609.13507\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #ニューロテック",
-    "summaryJP": "ニューラルインターフェースとブレイン・コンピュータ・インターフェース(BCI) — 数値で示された新事実（BCI・ニューラルインターフェース）",
-    "paperAuthors": "Ben Tang, Zachary Spalding, Gregory B. Cogan",
-    "publishedDate": "Tue, 15 Sep 2026 00:00:00 -0400",
-    "paperId": "2609.13507",
-    "paperSource": "arxiv",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "ニューラルインターフェース",
-      "ブレイン・コンピュータ・インターフェース(BCI)",
-      "学習",
-      "EEG"
-    ],
-    "abstractExcerpt": "Brain-computer interfaces (BCIs) decode neural activity to restore lost function. Typically, training a high-performance neural decoder requires a large labeled dataset to be collected from every new subject. One way to reduce the labeled…",
-    "figureUrls": [
-      "https://arxiv.org/html/2609.13507/2609.13507v1/fig2_methods.png",
-      "https://arxiv.org/html/2609.13507/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
     ]
   }
 ]
