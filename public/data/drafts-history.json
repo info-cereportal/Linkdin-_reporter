@@ -1,5 +1,29 @@
 [
   {
+    "generatedAt": "2026-11-06T02:47:53.573Z",
+    "date": "2026-11-06",
+    "topic": "学習",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Synchronized Hearts, Desynchronized Brains: A Nonlinear Dynamics Perspective for Function and Failure",
+    "paperLink": "https://arxiv.org/abs/2611.06618",
+    "figureUrl": "https://arxiv.org/html/2611.06618/2611.06618v1/fig2.png",
+    "formatted": "研究者もエンジニアも、この論文は必読です。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習\n\n> Both the heart and the brain are built from electrically excitable cells, yet the emergent dynamics of these organs could not differ more. In the myocardium, a coherent traveling wave of action potentials ensures coordinated contraction; in the cerebral cortex, distributed,...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n臨床・精神医学応用の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Synchronized Hearts, Desynchronized Brains: A Nonlinear Dynamics Perspective for Function and Failure\n🔗 https://arxiv.org/abs/2611.06618\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #ニューロテック",
+    "summaryJP": "学習 — 脳科学とAIをつなぐ研究（臨床・精神医学応用）",
+    "paperAuthors": "Irene Pellini, Simon Bauer, Seba Contreras, Ruben Fernández Busnadiego, Anushka Deb, Sophia Hartmann, Sayedeh Hussaini, Dörte M. Katschinski, Sarah Köster, Stephan E. Lehnart, Tobias Moser, Andreas Neef, Ulrich Parlitz, Silvio Rizzoli, Maria-Patapia Zafeiriou, Wolfram-Hubertus Zimmermann, Johannes Zierenberg, Philip Bittihn, Viola Priesemann",
+    "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+    "paperId": "2611.06618",
+    "paperSource": "arxiv",
+    "themeArea": "臨床・精神医学応用",
+    "jpKeywords": [
+      "学習"
+    ],
+    "abstractExcerpt": "Both the heart and the brain are built from electrically excitable cells, yet the emergent dynamics of these organs could not differ more. In the myocardium, a coherent traveling wave of action potentials ensures coordinated contraction;…",
+    "figureUrls": [
+      "https://arxiv.org/html/2611.06618/2611.06618v1/fig2.png"
+    ]
+  },
+  {
     "generatedAt": "2026-11-05T02:44:26.509Z",
     "date": "2026-11-05",
     "topic": "ニューロモデュレーションと深層学習",
@@ -1222,33 +1246,6 @@
       "https://arxiv.org/html/2609.18033/2609.18033v1/figures/figure1.png",
       "https://arxiv.org/html/2609.18033/2609.18033v1/figures/figure2.png",
       "https://arxiv.org/html/2609.18033/2609.18033v1/figures/figure3.png"
-    ]
-  },
-  {
-    "generatedAt": "2026-09-17T00:51:47.977Z",
-    "date": "2026-09-17",
-    "topic": "学習とクローズドループ制御",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Learning Options for Compositional Motor Control with Adapter Banks",
-    "paperLink": "https://arxiv.org/abs/2609.17042",
-    "figureUrl": "https://arxiv.org/html/2609.17042/2609.17042v1/Figure1_TC_Neurips-1.png",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\n学習とクローズドループ制御の最新成果を整理しました。\n\n🔬 学習 × クローズドループ制御\n\n📊 注目すべきデータ：\n→ We translate this principle into a novel architecture for learning motor skills end-to-end: a shared recurrent core modulated by a bank of residual adapters, each selected by a...\n→ A simple high-level policy over the learned options, optimized while the whole network is frozen, sequences the low-rank adapters to produce novel out-of-distribution movements.\n→ We demonstrate the ability to generalize to novel motor sequences within the closed-loop control setting, improving on the generalization error of a task-input-conditioned...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nBCI・ニューラルインターフェースの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Learning Options for Compositional Motor Control with Adapter Banks\n🔗 https://arxiv.org/abs/2609.17042\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #脳情報",
-    "summaryJP": "学習とクローズドループ制御 — 注目すべき3つの示唆（BCI・ニューラルインターフェース）",
-    "paperAuthors": "Sreejan Kumar, Marcelo Mattar, Lea Duncker",
-    "publishedDate": "Wed, 16 Sep 2026 00:00:00 -0400",
-    "paperId": "2609.17042",
-    "paperSource": "arxiv",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "学習",
-      "クローズドループ制御"
-    ],
-    "abstractExcerpt": "Learning flexible motor primitives is a hallmark of skilled motor control. Recent neuroscience theory proposes that motor primitives may be implemented as low-rank perturbations of a shared recurrent network, but leaves open how such a…",
-    "figureUrls": [
-      "https://arxiv.org/html/2609.17042/2609.17042v1/Figure1_TC_Neurips-1.png",
-      "https://arxiv.org/html/2609.17042/2609.17042v1/FIgure2_TC_NeurIPS-1.png",
-      "https://arxiv.org/html/2609.17042/2609.17042v1/Figure3_TC_NeurIPS.png"
     ]
   }
 ]

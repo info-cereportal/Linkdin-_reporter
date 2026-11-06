@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T02:44:27.078Z",
+  "generatedAt": "2026-11-06T02:47:54.324Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Evolved Spiking Neural Networks for EEG Seizure Detection: Calcium Dynamics and Delay Mechanics",
-          "url": "https://arxiv.org/abs/2611.03841",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "A minimal E/I circuit model explains differential recovery from amblyopia under TTX and reverse occlusion",
+          "url": "https://arxiv.org/abs/2611.06189",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Neuroevolution can discover compact network designs that are hard to specify by hand. The EONS framework evolves the topology, weights, thresholds and delays of neuromorphic spiking networks without gradients. We tested whether giving…",
-          "authors": "Tuba Aksoy"
+          "summary": "Recovery from amblyopia beyond the critical period remains a major challenge in visual neuroscience. Experimental studies show that transient inactivation of the fellow eye with tetrodotoxin (TTX) produces stronger and more persistent…",
+          "authors": "Lawrence Udeigwe"
         },
         {
-          "title": "Fly Whiskers Meet LiDAR: Robust Navigation under Sensor Failure",
-          "url": "https://arxiv.org/abs/2611.03897",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "Mind Control of LLMs via Closed-Loop Stimulation: Out-of-Distribution Robustness",
+          "url": "https://arxiv.org/abs/2611.06418",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "We extend FLYNN, a leaky integrator recurrent network wired on the Drosophila melanogaster connectome, with a 32-ray 2D LiDAR interface that requires no learned fusion layer beyond a scalar input gain. A 270 degree frontal scan at 8 m…",
-          "authors": "Ali Mahzarnia, Homayoun Jamshidi"
+          "summary": "Brains and large language models need not be considered equivalent systems to reveal an interpretable commonality: both exhibit high-dimensional, nonlinear dynamics whose behavior can only be modeled imperfectly. This creates a shared…",
+          "authors": "Kasra Fallah, Rudramani Singha, Hannah Ghanei, Paul Sajda, James Anderson, Erfan Zabeh"
         },
         {
-          "title": "When Model Complexity Matters in Cross-Subject Naturalistic fMRI Prediction",
-          "url": "https://arxiv.org/abs/2611.04041",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "Synchronized Hearts, Desynchronized Brains: A Nonlinear Dynamics Perspective for Function and Failure",
+          "url": "https://arxiv.org/abs/2611.06618",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Increasingly complex neural models predict blood-oxygen-level-dependent (BOLD) responses to naturalistic stimuli, but the predictive value of this added complexity remains unclear. We ask when pretrained stimulus representations help and…",
-          "authors": "Junhao Zhao, Jacob Kang, Colin Kurniawan, David Simberg, Nan Xu"
+          "summary": "Both the heart and the brain are built from electrically excitable cells, yet the emergent dynamics of these organs could not differ more. In the myocardium, a coherent traveling wave of action potentials ensures coordinated contraction;…",
+          "authors": "Irene Pellini, Simon Bauer, Seba Contreras, Ruben Fernández Busnadiego, Anushka Deb, Sophia Hartmann, Sayedeh Hussaini, Dörte M. Katschinski, Sarah Köster, Stephan E. Lehnart, Tobias Moser, Andreas Neef, Ulrich Parlitz, Silvio Rizzoli, Maria-Patapia Zafeiriou, Wolfram-Hubertus Zimmermann, Johannes Zierenberg, Philip Bittihn, Viola Priesemann"
         },
         {
-          "title": "Curriculum unlearning in humans and neural networks",
-          "url": "https://arxiv.org/abs/2611.04565",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "Learning Time-Varying Connectomes for Stable Behavior Across Development",
+          "url": "https://arxiv.org/abs/2611.06895",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "During learning, humans often benefit from curricula that teach simple rules before exceptions. However, we lack a computational explanation for this phenomenon. Here, using a canonical behavioural task and modelling with neural networks,…",
-          "authors": "Jirko Rubruck, Alice Zhang, Andrew Saxe, Christopher Summerfield"
+          "summary": "Neural circuits must maintain functionality to drive effective behavior while their size, topology, geometry, and intrinsic dynamics change across development. To model developing visuomotor circuits and behavior, we investigated whether a…",
+          "authors": "Christof Fehrman, Jacob J. Morra, Eva A. Naumann"
         },
         {
-          "title": "A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation",
-          "url": "https://arxiv.org/abs/2611.05374",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "Time-Division Multiplexing: The Operational Rhythm and Temporal Organization Layer of Digital Life",
+          "url": "https://arxiv.org/abs/2611.06603",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Real-time phase estimation on stimulus-aligned transient EEG is critical for closed-loop neuromodulation systems targeting the theta-band, yet most real-time phase estimation methods have been developed and validated on resting-state,…",
-          "authors": "Ivan Martinez-Kay, Tatiana Kardashina, ShiNung Ching, Eric C. Leuthardt, Benjamin T. Acland"
+          "summary": "Continual agents must handle urgent interaction while retaining alternatives, replaying errors, and committing safe long-term changes. A previous digital-life framework distinguishes online (busy) and offline (idle) channels, but leaves…",
+          "authors": "Haibin Tong, Luming Guo, Nana Cui, Jiang Yu"
         },
         {
-          "title": "Do agents need to sleep?",
-          "url": "https://arxiv.org/abs/2611.02216",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "PINR-ESI: Physics-Informed Self-Supervised Implicit Neural Representation Framework for EEG Extended-Source Imaging",
+          "url": "https://arxiv.org/abs/2611.06700",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "LLM-based agents, which increasingly operate persistently across sessions and accumulate memory through interaction, already exhibit the familiar symptoms of unchecked plasticity: semantic drift, degraded retrieval precision, propagation…",
-          "authors": "Ido Haber, Giulio Tononi"
+          "summary": "EEG extended-source imaging aims to localize active cortical regions and characterize their spatial extent, yet supervised inverse networks typically depend on synthetic EEG-source pairs and may be sensitive to synthetic-to-real mismatch.…",
+          "authors": "Zhiyong Zhou, Sheng Liao, Youshen Xiao, Xiaolin Li, Yakang Dai"
         }
       ]
     },
@@ -63,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Ballot measures affirm divisions over abortion and transgender issues",
+          "url": "https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/?utm_campaign=rss",
+          "publishedDate": "Thu, 05 Nov 2026 20:49:33 +0000",
+          "source": "statnews.com",
+          "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
+          "authors": "Theresa Gaffney and Jonathan Wosen"
+        },
+        {
+          "title": "Child dies of measles in Wisconsin&#8217;s first such death since 1990",
+          "url": "https://www.statnews.com/2026/11/05/child-dies-measles-wisconsin-first-death-since-1990/?utm_campaign=rss",
+          "publishedDate": "Thu, 05 Nov 2026 20:31:24 +0000",
+          "source": "statnews.com",
+          "summary": "An infant in southwestern Wisconsin has died after contracting measles, the state’s first death from the disease in 36 years.",
+          "authors": "Associated Press"
+        },
+        {
+          "title": "STAT+: Winners, losers, and MAHA",
+          "url": "https://www.statnews.com/2026/11/05/midterm-election-health-care-takeaways-maha-rfk-medicare-for-all/?utm_campaign=rss",
+          "publishedDate": "Thu, 05 Nov 2026 15:41:24 +0000",
+          "source": "statnews.com",
+          "summary": "Democratic doctors won big, MAHA faces an uncertain future, and what the election could mean for Medicare for All.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "STAT+: Beyond statins, one drug lowered heart attack risk by 20%",
+          "url": "https://www.statnews.com/2026/11/05/repatha-vs-zetia-cholesterol-study-heart-attack-risk/?utm_campaign=rss",
+          "publishedDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "A new study could help doctors figure out what medicine to prescribe for cholesterol when statins don't cut it: It's “answering a really challenging clinical question.\"",
+          "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "Single-payer health care system proponents were thrown a big bone this election",
+          "url": "https://www.statnews.com/2026/11/05/morning-rounds-single-payer-health-care-system-after-midterms/?utm_campaign=rss",
+          "publishedDate": "Thu, 05 Nov 2026 12:58:19 +0000",
+          "source": "statnews.com",
+          "summary": "Sen. Bernie Sanders is likely to lead the Senate’s health committee next year, which could grant him a chance to fundamentally alter how the FDA interacts with the companies it&#8230;",
+          "authors": "O. Rose Broderick"
+        },
+        {
           "title": "STAT+: Democratic doctors and scientists ride the blue wave",
           "url": "https://www.statnews.com/2026/11/04/midterms-democrat-winners-doctors-scientists-medical-professionals/?utm_campaign=rss",
           "publishedDate": "Wed, 04 Nov 2026 18:46:45 +0000",
           "source": "statnews.com",
           "summary": "The clinicians and researchers who will take office are ready to tackle the U.S. health care system.",
           "authors": "Anil Oza and Sarah Todd"
-        },
-        {
-          "title": "STAT+: Where does MAHA go from here? 3 possible futures",
-          "url": "https://www.statnews.com/2026/11/04/maha-movement-future-after-midterm-losses/?utm_campaign=rss",
-          "publishedDate": "Wed, 04 Nov 2026 17:09:44 +0000",
-          "source": "statnews.com",
-          "summary": "Republican losses leave Robert F. Kennedy Jr.’s MAHA movement with three possible futures.",
-          "authors": "Isabella Cueto"
-        },
-        {
-          "title": "Top health takeaways from the midterm elections",
-          "url": "https://www.statnews.com/2026/11/04/health-news-midterm-elections-2026-democrats-control-congress/?utm_campaign=rss",
-          "publishedDate": "Wed, 04 Nov 2026 12:15:08 +0000",
-          "source": "statnews.com",
-          "summary": "Democrats gained control of both chambers of Congress, and doctors and scientists won key seats. Here are the top health takeaways from the midterms.",
-          "authors": "Daniel Payne, Anil Oza, Sarah Todd, Bob Herman, Chelsea Cirruzzo,and John Wilkerson"
-        },
-        {
-          "title": "Child dies of measles in New York&#8217;s first such death in 30 years",
-          "url": "https://www.statnews.com/2026/11/03/child-dies-measles-new-york-first-death-30-years/?utm_campaign=rss",
-          "publishedDate": "Tue, 03 Nov 2026 13:48:16 +0000",
-          "source": "statnews.com",
-          "summary": "A child in rural northern New York has died after contracting measles, marking the state's first death from the disease in 30 years.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "First U.S. bird flu death of the year after cattle exposure",
-          "url": "https://www.statnews.com/2026/11/03/health-news-first-us-bird-flu-death-after-cattle-exposure-2026/?utm_campaign=rss",
-          "publishedDate": "Tue, 03 Nov 2026 12:52:30 +0000",
-          "source": "statnews.com",
-          "summary": "A person in Washington state has died from complications of the bird flu, the AP reported yesterday. It’s the first such death this year in the U.S., and the third&#8230;",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "‘Three-parent IVF’ was supposed to prevent mitochondrial disease. Studies are raising doubts",
-          "url": "https://www.statnews.com/2026/11/03/three-parent-ivf-safety-ethics-questions-mitochondrial-replacement-technology/?utm_campaign=rss",
-          "publishedDate": "Tue, 03 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Scientists and ethicists are rethinking the potential risks and benefits of a technology to prevent babies from inheriting rare mitochondrial diseases.",
-          "authors": "Megan Molteni and Edward Chen"
         }
       ]
     },
@@ -118,52 +118,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill",
-          "url": "https://www.statnews.com/2026/11/04/bernie-sanders-senate-help-key-role-pdufa-reauthorization/?utm_campaign=rss",
-          "publishedDate": "Wed, 04 Nov 2026 21:17:19 +0000",
+          "title": "Ballot measures affirm divisions over abortion and transgender issues",
+          "url": "https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/?utm_campaign=rss",
+          "publishedDate": "Thu, 05 Nov 2026 20:49:33 +0000",
           "source": "statnews.com",
-          "summary": "Sanders could use his role in crafting the FDA funding bill to push for reforms.",
-          "authors": "Margaret Manto"
+          "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
+          "authors": "Theresa Gaffney and Jonathan Wosen"
         },
         {
-          "title": "STAT+: Mass. marijuana consumers, workers high on victory after repeal of recreational weed sales fails in a rout",
-          "url": "https://www.statnews.com/2026/11/04/massachusetts-marijuana-question-8-results-recreational-cannabis/?utm_campaign=rss",
-          "publishedDate": "Wed, 04 Nov 2026 19:40:32 +0000",
+          "title": "STAT+: Two No Surprises Act arbitrators lose government contracts to decide payment disputes",
+          "url": "https://www.statnews.com/2026/11/05/no-surprises-act-arbitrators-idr-ipro-network-medical-review-lose-contracts/?utm_campaign=rss",
+          "publishedDate": "Thu, 05 Nov 2026 18:09:39 +0000",
           "source": "statnews.com",
-          "summary": "Massachusetts voters decisively shot down a ballot initiative that would have dismantled the state’s recreational cannabis industry.",
-          "authors": "Dana Gerber — The Boston Globe"
+          "summary": "The Trump administration is cutting off two groups tasked with arbitrating disputes over surprise medical bills, citing a failure “to meet minimum performance standards.”",
+          "authors": "Daniel Payne"
         },
         {
-          "title": "STAT+: Democratic doctors and scientists ride the blue wave",
-          "url": "https://www.statnews.com/2026/11/04/midterms-democrat-winners-doctors-scientists-medical-professionals/?utm_campaign=rss",
-          "publishedDate": "Wed, 04 Nov 2026 18:46:45 +0000",
+          "title": "Opinion: MAHA 1.0 is dead. MAHA 2.0 is born",
+          "url": "https://www.statnews.com/2026/11/05/end-of-maha-2026-midterms-losses-democrats-aoc-cory-booker/?utm_campaign=rss",
+          "publishedDate": "Thu, 05 Nov 2026 18:00:23 +0000",
           "source": "statnews.com",
-          "summary": "The clinicians and researchers who will take office are ready to tackle the U.S. health care system.",
-          "authors": "Anil Oza and Sarah Todd"
+          "summary": "MAHA 1.0 is dead. MAHA 2.0 is born, write “Why Should I Trust You?” hosts Brinda Adhikari and Tom W. Johnson",
+          "authors": "Brinda Adhikari and Tom W. Johnson"
         },
         {
-          "title": "STAT+: Where does MAHA go from here? 3 possible futures",
-          "url": "https://www.statnews.com/2026/11/04/maha-movement-future-after-midterm-losses/?utm_campaign=rss",
-          "publishedDate": "Wed, 04 Nov 2026 17:09:44 +0000",
+          "title": "STAT+: Winners, losers, and MAHA",
+          "url": "https://www.statnews.com/2026/11/05/midterm-election-health-care-takeaways-maha-rfk-medicare-for-all/?utm_campaign=rss",
+          "publishedDate": "Thu, 05 Nov 2026 15:41:24 +0000",
           "source": "statnews.com",
-          "summary": "Republican losses leave Robert F. Kennedy Jr.’s MAHA movement with three possible futures.",
-          "authors": "Isabella Cueto"
-        },
-        {
-          "title": "STAT+: A looming deadline to fund the government will shape Congress’ unusual lame duck session",
-          "url": "https://www.statnews.com/2026/11/04/lame-duck-session-congress-health-policy-aca-subsidies-medicaid-funding/?utm_campaign=rss",
-          "publishedDate": "Wed, 04 Nov 2026 15:55:54 +0000",
-          "source": "statnews.com",
-          "summary": "Before Democrats take control, Congress must fund expiring health care programs and confirm HHS nominees.",
+          "summary": "Democratic doctors won big, MAHA faces an uncertain future, and what the election could mean for Medicare for All.",
           "authors": "John Wilkerson"
         },
         {
-          "title": "STAT+: Five midterm winners and losers: MAHA mowed down, Dem docs scrub in, &#8216;Medicare for All&#8217; returns",
-          "url": "https://www.statnews.com/2026/11/04/midterm-health-policy-winners-losers-medicare-for-all-rfk-jr/?utm_campaign=rss",
-          "publishedDate": "Wed, 04 Nov 2026 15:15:21 +0000",
-          "source": "statnews.com",
-          "summary": "Democratic doctors were among the winners in the midterm elections, while the MAHA movement and President Trump's health agenda were losers.",
-          "authors": "Chelsea Cirruzzo"
+          "title": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
+          "publishedDate": "Thu, 05 Nov 2026 07:50:34 EST",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory. The findings suggest that hidden changes in how the brain processes memories overnight may…",
+          "authors": ""
+        },
+        {
+          "title": "Goodbye, cavities? Scientists create gel that could regrow tooth enamel",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104005059.htm",
+          "publishedDate": "Thu, 05 Nov 2026 06:37:26 EST",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have developed a revolutionary gel that could regrow lost tooth enamel by harnessing minerals naturally found in saliva, potentially overcoming one of dentistry’s biggest limitations. The regenerated enamel behaves much like…",
+          "authors": ""
         }
       ]
     },
@@ -173,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "HyVox: Rethinking Low-Power Voice Intelligence towards Neuromorphic-von Neumann Edge Computing",
-          "url": "https://arxiv.org/abs/2611.03735",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "Neural networks and games",
+          "url": "https://arxiv.org/abs/2611.05706",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "We present HyVox, a hybrid neuromorphic--von Neumann system for low-energy open-set speaker identification under tight energy budgets. HyVox splits the workload at the speaker embedding. A neuromorphic processor embeds the speech with…",
-          "authors": "Snehasis Addy, Eduardo Calle Ortiz, Prashant Shenoy, Phuc Nguyen"
+          "summary": "Hopfield neural networks and noncooperative games provide seemingly different approaches to understanding how collective outcomes emerge from local interactions. In a neural network, individual units adjust their states according to local…",
+          "authors": "Philip R. Neary"
         },
         {
-          "title": "Refined CMA-ES for CEC 2026 Bound-Constrained Single-Objective Optimization",
-          "url": "https://arxiv.org/abs/2611.04620",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "Mobility-Aware Mobile Edge Computing for Energy-Balanced Data Collection in IoT-Enabled Underwater Sensor Networks",
+          "url": "https://arxiv.org/abs/2611.06186",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "We present a simplified and parameter-adjusted variant of CMA-ES designed for the CEC 2026 Bound-Constrained Single-Objective Optimization competition. Unlike typical algorithmic developments that increase complexity by adding mechanisms,…",
-          "authors": "Adam Stelmaszczyk, Rafał Biedrzycki, Jarosław Arabas"
+          "summary": "Underwater wireless sensor networks (UWSNs) face critical challenges in energy imbalance, connectivity, and data collection due to harsh environments. To address these issues, this paper focuses on the problem is how to achieve…",
+          "authors": "Nguyen Thi My Binh, Do Dinh Hoan, Tong Tien Manh, Vu Minh Yen, Dang Trong Hop, Ho Viet Duc Luong"
         },
         {
-          "title": "Solving the Nonlinear Westervelt Equation in Ultrasound Propagation Using Physics-Informed Neural Networks",
-          "url": "https://arxiv.org/abs/2611.05130",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "From Admission to Retention: Predicting Durable Offspring in Quality-Diversity Search",
+          "url": "https://arxiv.org/abs/2611.06522",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Modeling the nonlinear acoustic wave propagation in biological tissues needs accuracy, especially in ultrasound imaging and therapeutic applications. The 1D Westervelt equation, \\( p_xx - p_tt + \\gamma\\, p_ttt + \\eta\\,(p^2)_tt=0, \\) could…",
-          "authors": "Luke Oluwaseye Joel"
+          "summary": "Automated failure discovery can be framed as a diversity problem: the objective is to expose distinct ways a system fails rather than a single critical adversarial case. Yet uniform parent sampling provides no way to allocate search effort…",
+          "authors": "Corrado Calamita, Matteo Mendicini, Luca Ferrari, Riccardo Bertamini"
         },
         {
-          "title": "Learning Behaviorally Relevant Dynamics in Multimodal Neural Recordings",
-          "url": "https://arxiv.org/abs/2611.05167",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "Hallucination Is Linearly Decodable from Mid-Layer Hidden States in Quantized LLMs",
+          "url": "https://arxiv.org/abs/2606.02628",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Multimodal neural data can enable a more complete understanding of brain dynamics underlying behavior. Modalities such as spiking activity, local field potentials (LFPs), and behavior capture diverse spatiotemporal aspects of brain…",
-          "authors": "Parastoo Azizeddin, Eray Erturk, Maryam M. Shanechi"
+          "summary": "We investigate whether open-source LLMs encode a linearly separable truthfulness signal in their hidden states, and at which network depth this signal is strongest. Across three $7$B--$8$B instruction-tuned models (Llama-3.1-8B,…",
+          "authors": "Aizierjiang Aiersilan"
         },
         {
-          "title": "Knowledge-Guided Memetic Algorithm for Capacitated Arc Routing Problems with Time-Dependent Service Costs",
-          "url": "https://arxiv.org/abs/2507.21740",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "Explainable Anomaly Detection in 5G Networks through Continuous Time Graphs",
+          "url": "https://arxiv.org/abs/2611.06225",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "The capacitated arc routing problem with time-dependent service costs (CARPTDSC) is a challenging combinatorial optimization problem that arises from real-world applications. CARPTDSC has two main challenges in reducing computational time.…",
-          "authors": "Qingya Li, Shengcai Liu, Wenjie Chen, Juan Zou, Ke Tang, Xin Yao"
+          "summary": "5G networks increasingly resemble distributed systems in their design. It then becomes crucial to move beyond traditional network-based detection methods and to explore alternative approaches. In this work, we propose a formalization of 5G…",
+          "authors": "Thomas Hoger (LAAS, LAAS-SARA, LAAS-RISC), Philippe Owezarski (LAAS, LAAS-SARA, LAAS-RISC)"
         },
         {
-          "title": "FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal Shaping",
-          "url": "https://arxiv.org/abs/2605.13071",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "Multi-Resident Data Association in Smart Homes via MDP Modeling and Behavior Cloning",
+          "url": "https://arxiv.org/abs/2611.06296",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Spiking Neural Networks (SNNs) are a promising framework for event-driven temporal processing. Prior work has improved temporal modeling through richer neuron dynamics and network-level mechanisms such as recurrence and delays, but it…",
-          "authors": "Jongmin Choi, Joon Son Chung"
+          "summary": "Ambient sensors offer a privacy-preserving solution for activity recognition in smart homes, yet they face a critical challenge in multi-resident environments known as Data Association, which aims to identify the resident triggering a…",
+          "authors": "Xi Chen (M-PSI), Julien Cumin (LIG, M-PSI), Fano Ramparany (LIG, M-PSI), Dominique Vaufreydaz (LIG, M-PSI)"
         }
       ]
     },
@@ -228,28 +228,28 @@
       "itemCount": 3,
       "items": [
         {
-          "title": "A Neuroprosthetic SoC Featuring Rapid Local Sensory Feedback with On-Chip Unsupervised Multi-Class Spike Sorting",
-          "url": "https://arxiv.org/abs/2611.03722",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "Adaptive Virtual PIN-Button Recognition on Passive NFC Cards via Domain Adaptation and Uncertainty Quantification",
+          "url": "https://arxiv.org/abs/2611.05719",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "This letter presents a 65 nm neuroprosthetic system-on-chip (SoC) featuring a rapid feedback pathway from motor recording to sensory stimulation. To enable low-latency sensory mapping modulated by individual-neuron firing rates, the SoC…",
-          "authors": "Bowen Liu, Yuhan Hou, Yu Huang, Jianxiong Xu, Hao You, Ashley Hung, Naize Yang, Junyu Ma, Laura Kondrataviciute, Suneil K. Kalia, Andrew G. Richardson, Roman Genov, Xilin Liu"
+          "summary": "Passive Near Field Communication (NFC) cards are widely used for access control and authentication but provide no native interface for reliable user input. Radio-frequency (RF)-based interaction recognition offers a way to enable input on…",
+          "authors": "Dickson Akuoko Sarpong, Hongzhi Guo"
         },
         {
-          "title": "Deep Plug-and-Play Proximal Distance Algorithm for Robust Principal Component Analysis",
-          "url": "https://arxiv.org/abs/2611.04623",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "EEG-based listened-language classification",
+          "url": "https://arxiv.org/abs/2611.06161",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Robust Principal Component Analysis (RPCA) is essential in signal processing, with applications in hyperspectral imaging, face recognition, and video background modeling. Traditional RPCA methods often suffer from insufficient utilization…",
-          "authors": "Guanhua Liu, Mingjie Shao, Wenxuan Sun, Zhi Liu, Yanlong Zhao"
+          "summary": "From an early age, individuals are continuously exposed to other languages beyond their native tongue; however, the brain s response to these auditory stimuli remains unclear. To investigate this, an experiment was designed to record…",
+          "authors": "Isaac Ariza, Lorenzo J. Tardón, Ana M. Barbancho, Isabel Barbancho"
         },
         {
-          "title": "On the Learnability of Footwear Robustness: Footstep Recognition Under Unseen Conditions",
-          "url": "https://arxiv.org/abs/2611.05049",
-          "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
+          "title": "Adapting Sleep Foundation Models for Dense Sleep Spindle Localization",
+          "url": "https://arxiv.org/abs/2611.06546",
+          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Footstep patterns, captured using pressure or force-sensitive walkways during natural walking, offer a convenient and passive approach to biometric recognition. However, footwear variability poses a major challenge to practical deployment,…",
-          "authors": "Robyn Larracy, Erik Scheme"
+          "summary": "Adapting sleep foundation models to dense electroencephalography (EEG) event localization is challenging because multi-second representations may not preserve sufficient temporal detail for precise boundary recovery. We address sleep…",
+          "authors": "Alexis Bollengier, Abel Díaz Berenguer, Olivier Pallanca, André Anjos, Hichem Sahli"
         }
       ]
     }

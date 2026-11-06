@@ -1,30 +1,24 @@
 {
-  "generatedAt": "2026-11-05T02:44:26.509Z",
-  "date": "2026-11-05",
-  "topic": "ニューロモデュレーションと深層学習",
-  "templateName": "future-vision",
+  "generatedAt": "2026-11-06T02:47:53.573Z",
+  "date": "2026-11-06",
+  "topic": "学習",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation",
-  "paperLink": "https://arxiv.org/abs/2611.05374",
-  "figureUrl": "https://arxiv.org/html/2611.05374/2611.05374v1/final_figures/panel_2/panel_2_combined.png",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\nニューロモデュレーションと深層学習の最新研究です。\n\n🔬 EEG × ニューロモデュレーション × 深層学習 × クローズドループ制御\n\n> Real-time phase estimation on stimulus-aligned transient EEG is critical for closed-loop neuromodulation systems targeting the theta-band, yet most real-time phase estimation methods have been developed and validated on resting-state, high-fidelity signals in the alpha band....\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation\n🔗 https://arxiv.org/abs/2611.05374\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #神経科学",
-  "summaryJP": "ニューロモデュレーションと深層学習 — 次世代へ続く布石（BCI・ニューラルインターフェース）",
-  "paperAuthors": "Ivan Martinez-Kay, Tatiana Kardashina, ShiNung Ching, Eric C. Leuthardt, Benjamin T. Acland",
-  "publishedDate": "Wed, 04 Nov 2026 00:00:00 -0500",
-  "paperId": "2611.05374",
+  "paperTitle": "Synchronized Hearts, Desynchronized Brains: A Nonlinear Dynamics Perspective for Function and Failure",
+  "paperLink": "https://arxiv.org/abs/2611.06618",
+  "figureUrl": "https://arxiv.org/html/2611.06618/2611.06618v1/fig2.png",
+  "formatted": "研究者もエンジニアも、この論文は必読です。\n\n脳科学とAI——その境界線が消えつつある。\n\n学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 学習\n\n> Both the heart and the brain are built from electrically excitable cells, yet the emergent dynamics of these organs could not differ more. In the myocardium, a coherent traveling wave of action potentials ensures coordinated contraction; in the cerebral cortex, distributed,...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n臨床・精神医学応用の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Synchronized Hearts, Desynchronized Brains: A Nonlinear Dynamics Perspective for Function and Failure\n🔗 https://arxiv.org/abs/2611.06618\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #ニューロテック",
+  "summaryJP": "学習 — 脳科学とAIをつなぐ研究（臨床・精神医学応用）",
+  "paperAuthors": "Irene Pellini, Simon Bauer, Seba Contreras, Ruben Fernández Busnadiego, Anushka Deb, Sophia Hartmann, Sayedeh Hussaini, Dörte M. Katschinski, Sarah Köster, Stephan E. Lehnart, Tobias Moser, Andreas Neef, Ulrich Parlitz, Silvio Rizzoli, Maria-Patapia Zafeiriou, Wolfram-Hubertus Zimmermann, Johannes Zierenberg, Philip Bittihn, Viola Priesemann",
+  "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "paperId": "2611.06618",
   "paperSource": "arxiv",
-  "themeArea": "BCI・ニューラルインターフェース",
+  "themeArea": "臨床・精神医学応用",
   "jpKeywords": [
-    "EEG",
-    "ニューロモデュレーション",
-    "深層学習",
-    "クローズドループ制御",
     "学習"
   ],
-  "abstractExcerpt": "Real-time phase estimation on stimulus-aligned transient EEG is critical for closed-loop neuromodulation systems targeting the theta-band, yet most real-time phase estimation methods have been developed and validated on resting-state,…",
+  "abstractExcerpt": "Both the heart and the brain are built from electrically excitable cells, yet the emergent dynamics of these organs could not differ more. In the myocardium, a coherent traveling wave of action potentials ensures coordinated contraction;…",
   "figureUrls": [
-    "https://arxiv.org/html/2611.05374/2611.05374v1/final_figures/panel_2/panel_2_combined.png",
-    "https://arxiv.org/html/2611.05374/2611.05374v1/final_figures/panel_3/panel_3_combined.png",
-    "https://arxiv.org/html/2611.05374/2611.05374v1/final_figures/panel_4/ablation_untuned_noncausal_order_comparison.png"
+    "https://arxiv.org/html/2611.06618/2611.06618v1/fig2.png"
   ]
 }
