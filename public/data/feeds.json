@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T02:47:54.324Z",
+  "generatedAt": "2026-11-07T02:20:03.505Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "A minimal E/I circuit model explains differential recovery from amblyopia under TTX and reverse occlusion",
-          "url": "https://arxiv.org/abs/2611.06189",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+          "title": "No Support Beyond Reach: The Measure Centrality Index 2.0 and Adversarial Comparisons of Consciousness Theories",
+          "url": "https://arxiv.org/abs/2611.06925",
+          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Recovery from amblyopia beyond the critical period remains a major challenge in visual neuroscience. Experimental studies show that transient inactivation of the fellow eye with tetrodotoxin (TTX) produces stronger and more persistent…",
-          "authors": "Lawrence Udeigwe"
+          "summary": "A success in adversarial testing of scientific theories reaches only as deep as its matching failure would have cut. I call this the Reach Principle, and the goal of this chapter is to build the instrument that enforces it. Adversarial…",
+          "authors": "Robert Chis-Ciure"
         },
         {
-          "title": "Mind Control of LLMs via Closed-Loop Stimulation: Out-of-Distribution Robustness",
-          "url": "https://arxiv.org/abs/2611.06418",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+          "title": "Foundation Models as Modular Tools for fMRI Analysis",
+          "url": "https://arxiv.org/abs/2611.06926",
+          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Brains and large language models need not be considered equivalent systems to reveal an interpretable commonality: both exhibit high-dimensional, nonlinear dynamics whose behavior can only be modeled imperfectly. This creates a shared…",
-          "authors": "Kasra Fallah, Rudramani Singha, Hannah Ghanei, Paul Sajda, James Anderson, Erfan Zabeh"
+          "summary": "Foundation models (FMs) for the brain are rapidly growing in number and each captures a different aspect of the same data. A single scientific question often needs several of them at once, alongside classical analysis and the literature,…",
+          "authors": "Joseph Kilgore, Noemia Mahmud, Shinjae Yoo, David Keetae Park"
         },
         {
-          "title": "Synchronized Hearts, Desynchronized Brains: A Nonlinear Dynamics Perspective for Function and Failure",
-          "url": "https://arxiv.org/abs/2611.06618",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+          "title": "Reading a neuron's tuning from its correlations with other neurons",
+          "url": "https://arxiv.org/abs/2611.06927",
+          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Both the heart and the brain are built from electrically excitable cells, yet the emergent dynamics of these organs could not differ more. In the myocardium, a coherent traveling wave of action potentials ensures coordinated contraction;…",
-          "authors": "Irene Pellini, Simon Bauer, Seba Contreras, Ruben Fernández Busnadiego, Anushka Deb, Sophia Hartmann, Sayedeh Hussaini, Dörte M. Katschinski, Sarah Köster, Stephan E. Lehnart, Tobias Moser, Andreas Neef, Ulrich Parlitz, Silvio Rizzoli, Maria-Patapia Zafeiriou, Wolfram-Hubertus Zimmermann, Johannes Zierenberg, Philip Bittihn, Viola Priesemann"
+          "summary": "What a neuron represents is usually established by relating its activity to a stimulus. We ask whether the same facts are contained in the correlation matrix of a recorded population, which keeps the pairwise relations among the neurons…",
+          "authors": "Francesco Lässig"
         },
         {
-          "title": "Learning Time-Varying Connectomes for Stable Behavior Across Development",
-          "url": "https://arxiv.org/abs/2611.06895",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+          "title": "A minimal dynamical model of human-AI cognitive coevolution",
+          "url": "https://arxiv.org/abs/2611.06928",
+          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Neural circuits must maintain functionality to drive effective behavior while their size, topology, geometry, and intrinsic dynamics change across development. To model developing visuomotor circuits and behavior, we investigated whether a…",
-          "authors": "Christof Fehrman, Jacob J. Morra, Eva A. Naumann"
+          "summary": "The rapid deployment of generative AI raises the question of whether pervasive cognitive offloading drives a measurable, potentially irreversible decline in unassisted human reasoning. We examine this question with a phenomenological…",
+          "authors": "Petar Jolakoski, Dimitar Trajanov, Qiyu Sun, Zhen Wu, Ljupco Kocarev"
         },
         {
-          "title": "Time-Division Multiplexing: The Operational Rhythm and Temporal Organization Layer of Digital Life",
-          "url": "https://arxiv.org/abs/2611.06603",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+          "title": "ApproxBrain: Certified Sufficiency Frontiers in Connectome-Constrained Neural Systems",
+          "url": "https://arxiv.org/abs/2611.06929",
+          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Continual agents must handle urgent interaction while retaining alternatives, replaying errors, and committing safe long-term changes. A previous digital-life framework distinguishes online (busy) and offline (idle) channels, but leaves…",
-          "authors": "Haibin Tong, Luming Guo, Nana Cui, Jiang Yu"
+          "summary": "Background. A connectome specifies the substrate available to a nervous system, not how much of it a given computation requires. Reported compact sufficient circuits are point estimates: one subset, one task, one fidelity threshold, one…",
+          "authors": "Ali Mahdavi, Azadeh Zamanifar, Amirfarhad Farhadi, Omid Kashefi"
         },
         {
-          "title": "PINR-ESI: Physics-Informed Self-Supervised Implicit Neural Representation Framework for EEG Extended-Source Imaging",
-          "url": "https://arxiv.org/abs/2611.06700",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+          "title": "Category differences in similarity between fixation density maps and psychological potential fields for sketches",
+          "url": "https://arxiv.org/abs/2611.06930",
+          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "EEG extended-source imaging aims to localize active cortical regions and characterize their spatial extent, yet supervised inverse networks typically depend on synthetic EEG-source pairs and may be sensitive to synthetic-to-real mismatch.…",
-          "authors": "Zhiyong Zhou, Sheng Liao, Youshen Xiao, Xiaolin Li, Yakang Dai"
+          "summary": "When an object comes into view, humans can instantaneously recognize it if known to them. However, assessing how this recognition takes place remains challenging. A few studies using simple sketches have reported varying degrees of image…",
+          "authors": "Naoyuki Awano, Yuki Hayashi"
         }
       ]
     },
@@ -63,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: States sue Trump administration again to delay Medicaid work requirements",
+          "url": "https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss",
+          "publishedDate": "Fri, 06 Nov 2026 22:05:39 +0000",
+          "source": "statnews.com",
+          "summary": "The Trump administration is facing another lawsuit over its sweeping changes to Medicaid less than a week after a federal judge ruled that implementation of work requirements would cause “irreparable&#8230;",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry",
+          "url": "https://www.statnews.com/2026/11/06/calley-means-joe-rogan-trump-maha-agenda-derailed-by-corporate-influence/?utm_campaign=rss",
+          "publishedDate": "Fri, 06 Nov 2026 21:55:21 +0000",
+          "source": "statnews.com",
+          "summary": "Calley Means, a MAHA leader who just resigned from the Trump administration, says Americans \"are being duped and gaslighted and lied to.\"",
+          "authors": "Daniel Payne"
+        },
+        {
+          "title": "STAT+: New tumor cases show common gene therapy tool can come with risk",
+          "url": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss",
+          "publishedDate": "Fri, 06 Nov 2026 16:14:40 +0000",
+          "source": "statnews.com",
+          "summary": "New cases show AAV gene therapies like Zolgensma carry tumor risks, raising key concerns for SMA patients and gene therapy researchers in general.",
+          "authors": "Jason Mast"
+        },
+        {
+          "title": "New evidence for ancient cannabis use",
+          "url": "https://www.statnews.com/2026/11/06/health-news-new-evidence-for-ancient-cannabis-use/?utm_campaign=rss",
+          "publishedDate": "Fri, 06 Nov 2026 14:59:42 +0000",
+          "source": "statnews.com",
+          "summary": "A new paper, published yesterday in Science, offers compelling evidence of ritual cannabis use in a 2,800-year-old Siberian tomb.",
+          "authors": "Jonathan Wosen and Theresa Gaffney"
+        },
+        {
+          "title": "Most people haven&#8217;t heard of kratom. What is it, and who&#8217;s using it?",
+          "url": "https://www.statnews.com/2026/11/06/what-is-kratom-addiction-risks-explained-7-oh/?utm_campaign=rss",
+          "publishedDate": "Fri, 06 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Few Americans are familiar with kratom, despite public health messaging and rising use. So what is it, and who's using it?",
+          "authors": "Theresa Gaffney"
+        },
+        {
           "title": "Ballot measures affirm divisions over abortion and transgender issues",
           "url": "https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/?utm_campaign=rss",
           "publishedDate": "Thu, 05 Nov 2026 20:49:33 +0000",
           "source": "statnews.com",
           "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
           "authors": "Theresa Gaffney and Jonathan Wosen"
-        },
-        {
-          "title": "Child dies of measles in Wisconsin&#8217;s first such death since 1990",
-          "url": "https://www.statnews.com/2026/11/05/child-dies-measles-wisconsin-first-death-since-1990/?utm_campaign=rss",
-          "publishedDate": "Thu, 05 Nov 2026 20:31:24 +0000",
-          "source": "statnews.com",
-          "summary": "An infant in southwestern Wisconsin has died after contracting measles, the state’s first death from the disease in 36 years.",
-          "authors": "Associated Press"
-        },
-        {
-          "title": "STAT+: Winners, losers, and MAHA",
-          "url": "https://www.statnews.com/2026/11/05/midterm-election-health-care-takeaways-maha-rfk-medicare-for-all/?utm_campaign=rss",
-          "publishedDate": "Thu, 05 Nov 2026 15:41:24 +0000",
-          "source": "statnews.com",
-          "summary": "Democratic doctors won big, MAHA faces an uncertain future, and what the election could mean for Medicare for All.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "STAT+: Beyond statins, one drug lowered heart attack risk by 20%",
-          "url": "https://www.statnews.com/2026/11/05/repatha-vs-zetia-cholesterol-study-heart-attack-risk/?utm_campaign=rss",
-          "publishedDate": "Thu, 05 Nov 2026 14:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "A new study could help doctors figure out what medicine to prescribe for cholesterol when statins don't cut it: It's “answering a really challenging clinical question.\"",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "Single-payer health care system proponents were thrown a big bone this election",
-          "url": "https://www.statnews.com/2026/11/05/morning-rounds-single-payer-health-care-system-after-midterms/?utm_campaign=rss",
-          "publishedDate": "Thu, 05 Nov 2026 12:58:19 +0000",
-          "source": "statnews.com",
-          "summary": "Sen. Bernie Sanders is likely to lead the Senate’s health committee next year, which could grant him a chance to fundamentally alter how the FDA interacts with the companies it&#8230;",
-          "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "STAT+: Democratic doctors and scientists ride the blue wave",
-          "url": "https://www.statnews.com/2026/11/04/midterms-democrat-winners-doctors-scientists-medical-professionals/?utm_campaign=rss",
-          "publishedDate": "Wed, 04 Nov 2026 18:46:45 +0000",
-          "source": "statnews.com",
-          "summary": "The clinicians and researchers who will take office are ready to tackle the U.S. health care system.",
-          "authors": "Anil Oza and Sarah Todd"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Ballot measures affirm divisions over abortion and transgender issues",
-          "url": "https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/?utm_campaign=rss",
-          "publishedDate": "Thu, 05 Nov 2026 20:49:33 +0000",
+          "title": "STAT+: States sue Trump administration again to delay Medicaid work requirements",
+          "url": "https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss",
+          "publishedDate": "Fri, 06 Nov 2026 22:05:39 +0000",
           "source": "statnews.com",
-          "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
-          "authors": "Theresa Gaffney and Jonathan Wosen"
+          "summary": "The Trump administration is facing another lawsuit over its sweeping changes to Medicaid less than a week after a federal judge ruled that implementation of work requirements would cause “irreparable&#8230;",
+          "authors": "O. Rose Broderick"
         },
         {
-          "title": "STAT+: Two No Surprises Act arbitrators lose government contracts to decide payment disputes",
-          "url": "https://www.statnews.com/2026/11/05/no-surprises-act-arbitrators-idr-ipro-network-medical-review-lose-contracts/?utm_campaign=rss",
-          "publishedDate": "Thu, 05 Nov 2026 18:09:39 +0000",
+          "title": "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry",
+          "url": "https://www.statnews.com/2026/11/06/calley-means-joe-rogan-trump-maha-agenda-derailed-by-corporate-influence/?utm_campaign=rss",
+          "publishedDate": "Fri, 06 Nov 2026 21:55:21 +0000",
           "source": "statnews.com",
-          "summary": "The Trump administration is cutting off two groups tasked with arbitrating disputes over surprise medical bills, citing a failure “to meet minimum performance standards.”",
+          "summary": "Calley Means, a MAHA leader who just resigned from the Trump administration, says Americans \"are being duped and gaslighted and lied to.\"",
           "authors": "Daniel Payne"
         },
         {
-          "title": "Opinion: MAHA 1.0 is dead. MAHA 2.0 is born",
-          "url": "https://www.statnews.com/2026/11/05/end-of-maha-2026-midterms-losses-democrats-aoc-cory-booker/?utm_campaign=rss",
-          "publishedDate": "Thu, 05 Nov 2026 18:00:23 +0000",
+          "title": "Two incoming lawmakers plan to defend health equity from Trump administration cuts",
+          "url": "https://www.statnews.com/2026/11/06/abdul-el-sayed-jasmine-clark-defend-health-equity-from-cuts/?utm_campaign=rss",
+          "publishedDate": "Fri, 06 Nov 2026 21:46:55 +0000",
           "source": "statnews.com",
-          "summary": "MAHA 1.0 is dead. MAHA 2.0 is born, write “Why Should I Trust You?” hosts Brinda Adhikari and Tom W. Johnson",
-          "authors": "Brinda Adhikari and Tom W. Johnson"
+          "summary": "Two newly elected lawmakers with science backgrounds hope to push back against Trump administration cuts to health equity programs.",
+          "authors": "Anil Oza"
         },
         {
-          "title": "STAT+: Winners, losers, and MAHA",
-          "url": "https://www.statnews.com/2026/11/05/midterm-election-health-care-takeaways-maha-rfk-medicare-for-all/?utm_campaign=rss",
-          "publishedDate": "Thu, 05 Nov 2026 15:41:24 +0000",
+          "title": "STAT+: Democrats’ midterm landslide spells relief for hospitals",
+          "url": "https://www.statnews.com/2026/11/06/why-democrats-midterm-landslide-helps-hospital-industry/?utm_campaign=rss",
+          "publishedDate": "Fri, 06 Nov 2026 17:46:16 +0000",
           "source": "statnews.com",
-          "summary": "Democratic doctors won big, MAHA faces an uncertain future, and what the election could mean for Medicare for All.",
-          "authors": "John Wilkerson"
+          "summary": "Democrats are likely to focus on reversing Medicaid cuts and expanding insurance coverage, giving a boost to health care providers.",
+          "authors": "Bob Herman"
         },
         {
-          "title": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
-          "publishedDate": "Thu, 05 Nov 2026 07:50:34 EST",
+          "title": "Major trial challenges how doctors decide who really needs statins",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105224604.htm",
+          "publishedDate": "Fri, 06 Nov 2026 05:59:18 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory. The findings suggest that hidden changes in how the brain processes memories overnight may…",
+          "summary": "A study of nearly 5,800 adults found that heart scans measuring calcium buildup in the arteries led to the same observed rate of major cardiovascular events as traditional risk assessments, despite recommending statins to far fewer…",
           "authors": ""
         },
         {
-          "title": "Goodbye, cavities? Scientists create gel that could regrow tooth enamel",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104005059.htm",
-          "publishedDate": "Thu, 05 Nov 2026 06:37:26 EST",
+          "title": "For decades, we were told to avoid full-fat dairy. New research says otherwise",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105081000.htm",
+          "publishedDate": "Fri, 06 Nov 2026 00:51:36 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have developed a revolutionary gel that could regrow lost tooth enamel by harnessing minerals naturally found in saliva, potentially overcoming one of dentistry’s biggest limitations. The regenerated enamel behaves much like…",
+          "summary": "Full-fat dairy may not be the health villain it has long been portrayed as, according to a new study finding that three daily servings did not worsen weight, cholesterol, or insulin resistance over 12 weeks. Researchers also observed…",
           "authors": ""
         }
       ]
@@ -173,85 +173,61 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Neural networks and games",
-          "url": "https://arxiv.org/abs/2611.05706",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+          "title": "Reading a neuron's tuning from its correlations with other neurons",
+          "url": "https://arxiv.org/abs/2611.06927",
+          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Hopfield neural networks and noncooperative games provide seemingly different approaches to understanding how collective outcomes emerge from local interactions. In a neural network, individual units adjust their states according to local…",
-          "authors": "Philip R. Neary"
+          "summary": "What a neuron represents is usually established by relating its activity to a stimulus. We ask whether the same facts are contained in the correlation matrix of a recorded population, which keeps the pairwise relations among the neurons…",
+          "authors": "Francesco Lässig"
         },
         {
-          "title": "Mobility-Aware Mobile Edge Computing for Energy-Balanced Data Collection in IoT-Enabled Underwater Sensor Networks",
-          "url": "https://arxiv.org/abs/2611.06186",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+          "title": "ApproxBrain: Certified Sufficiency Frontiers in Connectome-Constrained Neural Systems",
+          "url": "https://arxiv.org/abs/2611.06929",
+          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Underwater wireless sensor networks (UWSNs) face critical challenges in energy imbalance, connectivity, and data collection due to harsh environments. To address these issues, this paper focuses on the problem is how to achieve…",
-          "authors": "Nguyen Thi My Binh, Do Dinh Hoan, Tong Tien Manh, Vu Minh Yen, Dang Trong Hop, Ho Viet Duc Luong"
+          "summary": "Background. A connectome specifies the substrate available to a nervous system, not how much of it a given computation requires. Reported compact sufficient circuits are point estimates: one subset, one task, one fidelity threshold, one…",
+          "authors": "Ali Mahdavi, Azadeh Zamanifar, Amirfarhad Farhadi, Omid Kashefi"
         },
         {
-          "title": "From Admission to Retention: Predicting Durable Offspring in Quality-Diversity Search",
-          "url": "https://arxiv.org/abs/2611.06522",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+          "title": "From Connection Loss to Collision: Closed-Loop Fault Assessment of a Fly-Connectome SNN",
+          "url": "https://arxiv.org/abs/2611.06940",
+          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Automated failure discovery can be framed as a diversity problem: the objective is to expose distinct ways a system fails rather than a single critical adversarial case. Yet uniform parent sampling provides no way to allocate search effort…",
-          "authors": "Corrado Calamita, Matteo Mendicini, Luca Ferrari, Riccardo Bertamini"
+          "summary": "The public release of the complete adult fruit-fly brain connectome enables brain-scale spiking-network studies, motivating closed-loop assessment of connection loss. We test a connectome-derived controller in synthetic pursuit-escape and…",
+          "authors": "Shuchao Gao"
         },
         {
-          "title": "Hallucination Is Linearly Decodable from Mid-Layer Hidden States in Quantized LLMs",
-          "url": "https://arxiv.org/abs/2606.02628",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+          "title": "When Does Blockwise Additivity Break? Diagnosing and Repairing the Additive Assumption in Distillation-Based Architecture Search",
+          "url": "https://arxiv.org/abs/2611.07487",
+          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "We investigate whether open-source LLMs encode a linearly separable truthfulness signal in their hidden states, and at which network depth this signal is strongest. Across three $7$B--$8$B instruction-tuned models (Llama-3.1-8B,…",
-          "authors": "Aizierjiang Aiersilan"
+          "summary": "Blockwise distillation methods for architecture search, such as DNA, DONNA, LANA and Puzzle, score each candidate replacement block in isolation and assemble a child network by minimizing the sum of per-block scores. We test this additive…",
+          "authors": "Yuefeng Xu, Jun Yu"
         },
         {
-          "title": "Explainable Anomaly Detection in 5G Networks through Continuous Time Graphs",
-          "url": "https://arxiv.org/abs/2611.06225",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+          "title": "Projection-Free Gradient Tracking Neurodynamic for Distributed Nonnegative Sparse Optimization",
+          "url": "https://arxiv.org/abs/2611.07643",
+          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "5G networks increasingly resemble distributed systems in their design. It then becomes crucial to move beyond traditional network-based detection methods and to explore alternative approaches. In this work, we propose a formalization of 5G…",
-          "authors": "Thomas Hoger (LAAS, LAAS-SARA, LAAS-RISC), Philippe Owezarski (LAAS, LAAS-SARA, LAAS-RISC)"
+          "summary": "This paper proposes a continuous-time, projection-free neurodynamic system based on gradient tracking for distributed nonnegative sparse optimization. Unlike traditional methods, our approach avoids projecting states onto the feasible set.…",
+          "authors": "Juntao Li, Qihang Guo, Deyuan Meng"
         },
         {
-          "title": "Multi-Resident Data Association in Smart Homes via MDP Modeling and Behavior Cloning",
-          "url": "https://arxiv.org/abs/2611.06296",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+          "title": "Invariance before structure: two modes of emergent compression in representation learning",
+          "url": "https://arxiv.org/abs/2611.07952",
+          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Ambient sensors offer a privacy-preserving solution for activity recognition in smart homes, yet they face a critical challenge in multi-resident environments known as Data Association, which aims to identify the resident triggering a…",
-          "authors": "Xi Chen (M-PSI), Julien Cumin (LIG, M-PSI), Fano Ramparany (LIG, M-PSI), Dominique Vaufreydaz (LIG, M-PSI)"
+          "summary": "Learned representations show striking invariance across biological and artificial neural networks, with different substrates and variations driven by drift, heterogeneity and initialisation. To understand this invariance, we propose…",
+          "authors": "Hardik Rajpal, Dan Goodman"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 3,
-      "items": [
-        {
-          "title": "Adaptive Virtual PIN-Button Recognition on Passive NFC Cards via Domain Adaptation and Uncertainty Quantification",
-          "url": "https://arxiv.org/abs/2611.05719",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Passive Near Field Communication (NFC) cards are widely used for access control and authentication but provide no native interface for reliable user input. Radio-frequency (RF)-based interaction recognition offers a way to enable input on…",
-          "authors": "Dickson Akuoko Sarpong, Hongzhi Guo"
-        },
-        {
-          "title": "EEG-based listened-language classification",
-          "url": "https://arxiv.org/abs/2611.06161",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "From an early age, individuals are continuously exposed to other languages beyond their native tongue; however, the brain s response to these auditory stimuli remains unclear. To investigate this, an experiment was designed to record…",
-          "authors": "Isaac Ariza, Lorenzo J. Tardón, Ana M. Barbancho, Isabel Barbancho"
-        },
-        {
-          "title": "Adapting Sleep Foundation Models for Dense Sleep Spindle Localization",
-          "url": "https://arxiv.org/abs/2611.06546",
-          "publishedDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Adapting sleep foundation models to dense electroencephalography (EEG) event localization is challenging because multi-second representations may not preserve sufficient temporal detail for precise boundary recovery. We address sleep…",
-          "authors": "Alexis Bollengier, Abel Díaz Berenguer, Olivier Pallanca, André Anjos, Hichem Sahli"
-        }
-      ]
+      "itemCount": 0,
+      "error": "no BCI-keyword match in fetched feed",
+      "items": []
     }
   }
 }
