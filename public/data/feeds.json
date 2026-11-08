@@ -1,67 +1,42 @@
 {
-  "generatedAt": "2026-11-07T02:20:03.505Z",
+  "generatedAt": "2026-11-08T01:46:27.734Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "No Support Beyond Reach: The Measure Centrality Index 2.0 and Adversarial Comparisons of Consciousness Theories",
-          "url": "https://arxiv.org/abs/2611.06925",
-          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "A success in adversarial testing of scientific theories reaches only as deep as its matching failure would have cut. I call this the Reach Principle, and the goal of this chapter is to build the instrument that enforces it. Adversarial…",
-          "authors": "Robert Chis-Ciure"
-        },
-        {
-          "title": "Foundation Models as Modular Tools for fMRI Analysis",
-          "url": "https://arxiv.org/abs/2611.06926",
-          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Foundation models (FMs) for the brain are rapidly growing in number and each captures a different aspect of the same data. A single scientific question often needs several of them at once, alongside classical analysis and the literature,…",
-          "authors": "Joseph Kilgore, Noemia Mahmud, Shinjae Yoo, David Keetae Park"
-        },
-        {
-          "title": "Reading a neuron's tuning from its correlations with other neurons",
-          "url": "https://arxiv.org/abs/2611.06927",
-          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "What a neuron represents is usually established by relating its activity to a stimulus. We ask whether the same facts are contained in the correlation matrix of a recorded population, which keeps the pairwise relations among the neurons…",
-          "authors": "Francesco Lässig"
-        },
-        {
-          "title": "A minimal dynamical model of human-AI cognitive coevolution",
-          "url": "https://arxiv.org/abs/2611.06928",
-          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "The rapid deployment of generative AI raises the question of whether pervasive cognitive offloading drives a measurable, potentially irreversible decline in unassisted human reasoning. We examine this question with a phenomenological…",
-          "authors": "Petar Jolakoski, Dimitar Trajanov, Qiyu Sun, Zhen Wu, Ljupco Kocarev"
-        },
-        {
-          "title": "ApproxBrain: Certified Sufficiency Frontiers in Connectome-Constrained Neural Systems",
-          "url": "https://arxiv.org/abs/2611.06929",
-          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Background. A connectome specifies the substrate available to a nervous system, not how much of it a given computation requires. Reported compact sufficient circuits are point estimates: one subset, one task, one fidelity threshold, one…",
-          "authors": "Ali Mahdavi, Azadeh Zamanifar, Amirfarhad Farhadi, Omid Kashefi"
-        },
-        {
-          "title": "Category differences in similarity between fixation density maps and psychological potential fields for sketches",
-          "url": "https://arxiv.org/abs/2611.06930",
-          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "When an object comes into view, humans can instantaneously recognize it if known to them. However, assessing how this recognition takes place remains challenging. A few studies using simple sketches have reported varying degrees of image…",
-          "authors": "Naoyuki Awano, Yuki Hayashi"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
+          "url": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
+          "publishedDate": "Sat, 07 Nov 2026 21:39:02 +0000",
+          "source": "statnews.com",
+          "summary": "High blood pressure is known as the silent killer. Researchers are finding new ways to fight back.",
+          "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+          "url": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
+          "publishedDate": "Sat, 07 Nov 2026 14:50:00 +0000",
+          "source": "statnews.com",
+          "summary": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke.",
+          "authors": "Elizabeth Cooney and Matthew Herper"
+        },
+        {
+          "title": "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories",
+          "url": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
+          "publishedDate": "Sat, 07 Nov 2026 14:35:00 +0000",
+          "source": "statnews.com",
+          "summary": "“These results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease.\"",
+          "authors": "Elizabeth Cooney"
+        },
         {
           "title": "STAT+: States sue Trump administration again to delay Medicaid work requirements",
           "url": "https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss",
@@ -85,30 +60,6 @@
           "source": "statnews.com",
           "summary": "New cases show AAV gene therapies like Zolgensma carry tumor risks, raising key concerns for SMA patients and gene therapy researchers in general.",
           "authors": "Jason Mast"
-        },
-        {
-          "title": "New evidence for ancient cannabis use",
-          "url": "https://www.statnews.com/2026/11/06/health-news-new-evidence-for-ancient-cannabis-use/?utm_campaign=rss",
-          "publishedDate": "Fri, 06 Nov 2026 14:59:42 +0000",
-          "source": "statnews.com",
-          "summary": "A new paper, published yesterday in Science, offers compelling evidence of ritual cannabis use in a 2,800-year-old Siberian tomb.",
-          "authors": "Jonathan Wosen and Theresa Gaffney"
-        },
-        {
-          "title": "Most people haven&#8217;t heard of kratom. What is it, and who&#8217;s using it?",
-          "url": "https://www.statnews.com/2026/11/06/what-is-kratom-addiction-risks-explained-7-oh/?utm_campaign=rss",
-          "publishedDate": "Fri, 06 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Few Americans are familiar with kratom, despite public health messaging and rising use. So what is it, and who's using it?",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "Ballot measures affirm divisions over abortion and transgender issues",
-          "url": "https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/?utm_campaign=rss",
-          "publishedDate": "Thu, 05 Nov 2026 20:49:33 +0000",
-          "source": "statnews.com",
-          "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
-          "authors": "Theresa Gaffney and Jonathan Wosen"
         }
       ]
     },
@@ -117,6 +68,38 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
+          "url": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
+          "publishedDate": "Sat, 07 Nov 2026 16:57:13 +0000",
+          "source": "statnews.com",
+          "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
+          "publishedDate": "Sat, 07 Nov 2026 05:16:19 EST",
+          "source": "sciencedaily.com",
+          "summary": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic risk, but…",
+          "authors": ""
+        },
+        {
+          "title": "Magic mushrooms rewire the brain in a way scientists didn&#039;t expect",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
+          "publishedDate": "Fri, 06 Nov 2026 19:33:47 EST",
+          "source": "sciencedaily.com",
+          "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and…",
+          "authors": ""
+        },
+        {
+          "title": "A compound hidden in broccoli could help fight a devastating genetic disease",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012259.htm",
+          "publishedDate": "Fri, 06 Nov 2026 18:30:16 EST",
+          "source": "sciencedaily.com",
+          "summary": "A compound naturally found in broccoli could help fight Friedreich ataxia, a devastating genetic disease that progressively damages the nervous system, by boosting a vital protein and protecting nerve cells. Scientists hope the discovery…",
+          "authors": ""
+        },
         {
           "title": "STAT+: States sue Trump administration again to delay Medicaid work requirements",
           "url": "https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss",
@@ -132,102 +115,69 @@
           "source": "statnews.com",
           "summary": "Calley Means, a MAHA leader who just resigned from the Trump administration, says Americans \"are being duped and gaslighted and lied to.\"",
           "authors": "Daniel Payne"
-        },
-        {
-          "title": "Two incoming lawmakers plan to defend health equity from Trump administration cuts",
-          "url": "https://www.statnews.com/2026/11/06/abdul-el-sayed-jasmine-clark-defend-health-equity-from-cuts/?utm_campaign=rss",
-          "publishedDate": "Fri, 06 Nov 2026 21:46:55 +0000",
-          "source": "statnews.com",
-          "summary": "Two newly elected lawmakers with science backgrounds hope to push back against Trump administration cuts to health equity programs.",
-          "authors": "Anil Oza"
-        },
-        {
-          "title": "STAT+: Democrats’ midterm landslide spells relief for hospitals",
-          "url": "https://www.statnews.com/2026/11/06/why-democrats-midterm-landslide-helps-hospital-industry/?utm_campaign=rss",
-          "publishedDate": "Fri, 06 Nov 2026 17:46:16 +0000",
-          "source": "statnews.com",
-          "summary": "Democrats are likely to focus on reversing Medicaid cuts and expanding insurance coverage, giving a boost to health care providers.",
-          "authors": "Bob Herman"
-        },
-        {
-          "title": "Major trial challenges how doctors decide who really needs statins",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261105224604.htm",
-          "publishedDate": "Fri, 06 Nov 2026 05:59:18 EST",
-          "source": "sciencedaily.com",
-          "summary": "A study of nearly 5,800 adults found that heart scans measuring calcium buildup in the arteries led to the same observed rate of major cardiovascular events as traditional risk assessments, despite recommending statins to far fewer…",
-          "authors": ""
-        },
-        {
-          "title": "For decades, we were told to avoid full-fat dairy. New research says otherwise",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261105081000.htm",
-          "publishedDate": "Fri, 06 Nov 2026 00:51:36 EST",
-          "source": "sciencedaily.com",
-          "summary": "Full-fat dairy may not be the health villain it has long been portrayed as, according to a new study finding that three daily servings did not worsen weight, cholesterol, or insulin resistance over 12 weeks. Researchers also observed…",
-          "authors": ""
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Reading a neuron's tuning from its correlations with other neurons",
-          "url": "https://arxiv.org/abs/2611.06927",
-          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "What a neuron represents is usually established by relating its activity to a stimulus. We ask whether the same facts are contained in the correlation matrix of a recorded population, which keeps the pairwise relations among the neurons…",
-          "authors": "Francesco Lässig"
-        },
-        {
-          "title": "ApproxBrain: Certified Sufficiency Frontiers in Connectome-Constrained Neural Systems",
-          "url": "https://arxiv.org/abs/2611.06929",
-          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Background. A connectome specifies the substrate available to a nervous system, not how much of it a given computation requires. Reported compact sufficient circuits are point estimates: one subset, one task, one fidelity threshold, one…",
-          "authors": "Ali Mahdavi, Azadeh Zamanifar, Amirfarhad Farhadi, Omid Kashefi"
-        },
-        {
-          "title": "From Connection Loss to Collision: Closed-Loop Fault Assessment of a Fly-Connectome SNN",
-          "url": "https://arxiv.org/abs/2611.06940",
-          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "The public release of the complete adult fruit-fly brain connectome enables brain-scale spiking-network studies, motivating closed-loop assessment of connection loss. We test a connectome-derived controller in synthetic pursuit-escape and…",
-          "authors": "Shuchao Gao"
-        },
-        {
-          "title": "When Does Blockwise Additivity Break? Diagnosing and Repairing the Additive Assumption in Distillation-Based Architecture Search",
-          "url": "https://arxiv.org/abs/2611.07487",
-          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Blockwise distillation methods for architecture search, such as DNA, DONNA, LANA and Puzzle, score each candidate replacement block in isolation and assemble a child network by minimizing the sum of per-block scores. We test this additive…",
-          "authors": "Yuefeng Xu, Jun Yu"
-        },
-        {
-          "title": "Projection-Free Gradient Tracking Neurodynamic for Distributed Nonnegative Sparse Optimization",
-          "url": "https://arxiv.org/abs/2611.07643",
-          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "This paper proposes a continuous-time, projection-free neurodynamic system based on gradient tracking for distributed nonnegative sparse optimization. Unlike traditional methods, our approach avoids projecting states onto the feasible set.…",
-          "authors": "Juntao Li, Qihang Guo, Deyuan Meng"
-        },
-        {
-          "title": "Invariance before structure: two modes of emergent compression in representation learning",
-          "url": "https://arxiv.org/abs/2611.07952",
-          "publishedDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Learned representations show striking invariance across biological and artificial neural networks, with different substrates and variations driven by drift, heterogeneity and initialisation. To understand this invariance, we propose…",
-          "authors": "Hardik Rajpal, Dan Goodman"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
+        },
+        {
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
+        }
+      ]
     }
   }
 }
