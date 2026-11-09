@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T01:46:27.734Z",
+  "generatedAt": "2026-11-09T01:56:28.039Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -13,6 +13,22 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders",
+          "url": "https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss",
+          "publishedDate": "Sun, 08 Nov 2026 22:15:00 +0000",
+          "source": "statnews.com",
+          "summary": "A new study found survival after sudden cardiac arrest didn’t improve with advance training of responders — but researchers aren't ready to shut the door on the possibility.",
+          "authors": "Elizabeth Cooney"
+        },
+        {
+          "title": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
+          "url": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
+          "publishedDate": "Sun, 08 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Once again, a hot new technology that was supposed to speed up drug research has fallen flat.",
+          "authors": "Matthew Herper"
+        },
         {
           "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
           "url": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
@@ -44,22 +60,6 @@
           "source": "statnews.com",
           "summary": "The Trump administration is facing another lawsuit over its sweeping changes to Medicaid less than a week after a federal judge ruled that implementation of work requirements would cause “irreparable&#8230;",
           "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry",
-          "url": "https://www.statnews.com/2026/11/06/calley-means-joe-rogan-trump-maha-agenda-derailed-by-corporate-influence/?utm_campaign=rss",
-          "publishedDate": "Fri, 06 Nov 2026 21:55:21 +0000",
-          "source": "statnews.com",
-          "summary": "Calley Means, a MAHA leader who just resigned from the Trump administration, says Americans \"are being duped and gaslighted and lied to.\"",
-          "authors": "Daniel Payne"
-        },
-        {
-          "title": "STAT+: New tumor cases show common gene therapy tool can come with risk",
-          "url": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss",
-          "publishedDate": "Fri, 06 Nov 2026 16:14:40 +0000",
-          "source": "statnews.com",
-          "summary": "New cases show AAV gene therapies like Zolgensma carry tumor risks, raising key concerns for SMA patients and gene therapy researchers in general.",
-          "authors": "Jason Mast"
         }
       ]
     },
@@ -69,52 +69,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
-          "url": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
-          "publishedDate": "Sat, 07 Nov 2026 16:57:13 +0000",
-          "source": "statnews.com",
-          "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
-          "publishedDate": "Sat, 07 Nov 2026 05:16:19 EST",
+          "title": "A little-known protein could be a major culprit in type 2 diabetes",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261106174543.htm",
+          "publishedDate": "Sun, 08 Nov 2026 20:45:17 EST",
           "source": "sciencedaily.com",
-          "summary": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic risk, but…",
+          "summary": "Scientists have discovered that a buildup of a protein called Miro1 may be a hidden driver of insulin resistance in Type 2 diabetes, with preclinical experiments showing that removing it restores the muscles’ response to insulin. Exercise…",
           "authors": ""
         },
         {
-          "title": "Magic mushrooms rewire the brain in a way scientists didn&#039;t expect",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
-          "publishedDate": "Fri, 06 Nov 2026 19:33:47 EST",
+          "title": "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm",
+          "publishedDate": "Sun, 08 Nov 2026 18:24:50 EST",
           "source": "sciencedaily.com",
-          "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and…",
+          "summary": "Scientists at UC San Francisco have developed a powerful new cancer therapy that remains inactive until it reaches the brain, where it switches on to attack deadly tumors. The engineered immune cells, called B-SYNC CAR-T cells, completely…",
           "authors": ""
         },
         {
-          "title": "A compound hidden in broccoli could help fight a devastating genetic disease",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104012259.htm",
-          "publishedDate": "Fri, 06 Nov 2026 18:30:16 EST",
+          "title": "Einstein&#039;s equations reveal how gravity could break, reconnect, and release energy",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
+          "publishedDate": "Sun, 08 Nov 2026 17:14:42 EST",
           "source": "sciencedaily.com",
-          "summary": "A compound naturally found in broccoli could help fight Friedreich ataxia, a devastating genetic disease that progressively damages the nervous system, by boosting a vital protein and protecting nerve cells. Scientists hope the discovery…",
+          "summary": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad Adolfo Ibáñez have…",
           "authors": ""
         },
         {
-          "title": "STAT+: States sue Trump administration again to delay Medicaid work requirements",
-          "url": "https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss",
-          "publishedDate": "Fri, 06 Nov 2026 22:05:39 +0000",
-          "source": "statnews.com",
-          "summary": "The Trump administration is facing another lawsuit over its sweeping changes to Medicaid less than a week after a federal judge ruled that implementation of work requirements would cause “irreparable&#8230;",
-          "authors": "O. Rose Broderick"
+          "title": "A 24-hour fast triggers a surprising repair response in the gut",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
+          "publishedDate": "Sun, 08 Nov 2026 06:06:30 EST",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy…",
+          "authors": ""
         },
         {
-          "title": "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry",
-          "url": "https://www.statnews.com/2026/11/06/calley-means-joe-rogan-trump-maha-agenda-derailed-by-corporate-influence/?utm_campaign=rss",
-          "publishedDate": "Fri, 06 Nov 2026 21:55:21 +0000",
-          "source": "statnews.com",
-          "summary": "Calley Means, a MAHA leader who just resigned from the Trump administration, says Americans \"are being duped and gaslighted and lied to.\"",
-          "authors": "Daniel Payne"
+          "title": "MIT scientists turn immune cells into cancer killers inside the body",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
+          "publishedDate": "Sun, 08 Nov 2026 05:52:31 EST",
+          "source": "sciencedaily.com",
+          "summary": "MIT scientists have developed nanoparticles that reprogram immune cells directly inside the body to attack cancer and harmful immune cells, eliminating tumors and reversing liver damage in mouse experiments. The breakthrough could make…",
+          "authors": ""
+        },
+        {
+          "title": "Low testosterone linked to 18% higher risk of dying from cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012301.htm",
+          "publishedDate": "Sun, 08 Nov 2026 05:10:50 EST",
+          "source": "sciencedaily.com",
+          "summary": "A major international study tracking more than 26,000 men found that very low testosterone levels were associated with an 18% higher risk of dying from cancer later in life. Surprisingly, testosterone itself showed no clear link to…",
+          "authors": ""
         }
       ]
     },
