@@ -1,12 +1,61 @@
 {
-  "generatedAt": "2026-11-09T01:56:28.039Z",
+  "generatedAt": "2026-11-10T04:17:19.948Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Structure is in the zoom: probing neural symmetry through dimensionality scaling",
+          "url": "https://arxiv.org/abs/2611.08506",
+          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "How much of a neural population's measured dimensionality is the code, and how much is the act of measuring it? The slope of the participation ratio against subsample size is reported for cortical populations and for the layers of language…",
+          "authors": "Adil Amin"
+        },
+        {
+          "title": "Spiking neuromodulation: a linear control perspective",
+          "url": "https://arxiv.org/abs/2611.08571",
+          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Neuronal excitability is a nonlinear phenomenon, and the complexity of spiking experimental traces sometimes looks defeating. The present paper takes the view point that excitability is a neuromodulated property, and aims to demonstrate…",
+          "authors": "Fulvio Forni, Rodolphe Sepulchre"
+        },
+        {
+          "title": "Path-dependent triage: Early judgments lead conversational AI chatbots to miss mental-health emergencies",
+          "url": "https://arxiv.org/abs/2611.09647",
+          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "People increasingly bring mental-health concerns to consumer AI chatbots. In these conversations, clinically relevant information rarely arrives all at once. Instead, it unfolds over multiple turns, often in response to the questions the…",
+          "authors": "Veith Weilnhammer, Raymond Dolan, Lennart Luettgau, Virginia Corno, Elise Wilkinson, Viknesh Sounderajah, Hannah Richardson, Christopher Kelly, Matthew M Nour"
+        },
+        {
+          "title": "Decoding spatial and semantic information from large-scale visual cortical activity for natural-movie reconstruction",
+          "url": "https://arxiv.org/abs/2611.08887",
+          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Reconstructing natural visual experience from cortical population activity is a central challenge in neural decoding, particularly for calcium imaging, where signals are noisy, temporally filtered, and paired neural-video data are limited.…",
+          "authors": "Yukai Huang, Haoyu Albert Wang, Jiawei Zhang, Jialun Ma, Jiayao Ding, Yiran Lin, Xingyu Chen, Ziqi Gao, Yuguo Yu"
+        },
+        {
+          "title": "A hair-thin implant opens the entire depth of the mouse brain to revisiting the same structures at subcellular resolution",
+          "url": "https://arxiv.org/abs/2611.09481",
+          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Ultrathin multimode-fibre endoscopes provide minimally invasive access to subcellular structures throughout the depth of the mouse brain. Here we introduce a chronically implantable interface with a diameter of 144 \\mum, about the…",
+          "authors": "Miroslav Stib\\rurek, Tomá\\vs Pikálek, Petra Ondrá\\vcková, Kristina Herzánová, Adrian Lorenz, André Gomes, Julia Henschke, Endre Levente Marosi, Bhargavi Murthy, Petra Kolbábková, Hongbo Jia, Sanja Bauer Mikulovic, Janelle Pakan, Alessio Attardo, Hana Uhlí\\vrová, Tomá\\vs \\vCi\\vzmár"
+        },
+        {
+          "title": "Traits and tangles: An analysis of the Big Five paradigm by tangle-based clustering",
+          "url": "https://arxiv.org/abs/2411.18670",
+          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Using the recently developed mathematical theory of tangles, we re-assess the mathematical foundations for applications of the five factor model in personality tests by a new, mathematically rigorous, quantitative method. Our findings…",
+          "authors": "Hanno von Bergen, Reinhard Diestel"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -14,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders",
-          "url": "https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss",
-          "publishedDate": "Sun, 08 Nov 2026 22:15:00 +0000",
+          "title": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke",
+          "url": "https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss",
+          "publishedDate": "Mon, 09 Nov 2026 22:28:43 +0000",
           "source": "statnews.com",
-          "summary": "A new study found survival after sudden cardiac arrest didn’t improve with advance training of responders — but researchers aren't ready to shut the door on the possibility.",
+          "summary": "Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding.",
+          "authors": "Elaine Chen and Elizabeth Cooney"
+        },
+        {
+          "title": "STAT+: Heart association meeting’s readout is trending ‘neutral’",
+          "url": "https://www.statnews.com/2026/11/09/aha-2026-news-neutral-clinical-trials-lessons-learned/?utm_campaign=rss",
+          "publishedDate": "Mon, 09 Nov 2026 16:53:21 +0000",
+          "source": "statnews.com",
+          "summary": "The theme of the American Heart Association meetings was \"neutral\" results. Yet no one wants to stop pursuing inflammation or Lp(a) lowering.",
           "authors": "Elizabeth Cooney"
         },
         {
-          "title": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
-          "url": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
-          "publishedDate": "Sun, 08 Nov 2026 09:30:00 +0000",
+          "title": "STAT+: A new rule to prevent the spread of bioweapons",
+          "url": "https://www.statnews.com/2026/11/09/health-news-new-rule-to-prevent-bioweapon-spread/?utm_campaign=rss",
+          "publishedDate": "Mon, 09 Nov 2026 12:55:07 +0000",
           "source": "statnews.com",
-          "summary": "Once again, a hot new technology that was supposed to speed up drug research has fallen flat.",
-          "authors": "Matthew Herper"
+          "summary": "AI makes it easier for people to come up with new potential medicines, but may also increase the possibility of bad actors creating new bioweapons. New guidelines from Trump officials&#8230;",
+          "authors": "Amanda Erickson and Brittany Trang"
         },
         {
-          "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
-          "url": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
-          "publishedDate": "Sat, 07 Nov 2026 21:39:02 +0000",
+          "title": "AI chatbots aren&#8217;t therapists. But can they finally get men to open up?",
+          "url": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/?utm_campaign=rss",
+          "publishedDate": "Mon, 09 Nov 2026 09:30:00 +0000",
           "source": "statnews.com",
-          "summary": "High blood pressure is known as the silent killer. Researchers are finding new ways to fight back.",
-          "authors": "Elizabeth Cooney"
+          "summary": "AI chatbots are imperfect therapists. But can they finally get men to talk?",
+          "authors": "Annalisa Merelli"
         },
         {
-          "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
-          "url": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
-          "publishedDate": "Sat, 07 Nov 2026 14:50:00 +0000",
+          "title": "STAT+: Democrats begin asking: How far can we go on health care?",
+          "url": "https://www.statnews.com/2026/11/09/democrat-healthcare-agenda-new-lawmakers-weigh-popular-vs-possible/?utm_campaign=rss",
+          "publishedDate": "Mon, 09 Nov 2026 09:30:00 +0000",
           "source": "statnews.com",
-          "summary": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke.",
-          "authors": "Elizabeth Cooney and Matthew Herper"
+          "summary": "Many in the party are pushing for Democratic lawmakers to go big on health care, but their dreams may crash into reality.",
+          "authors": "Daniel Payne"
         },
         {
-          "title": "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories",
-          "url": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
-          "publishedDate": "Sat, 07 Nov 2026 14:35:00 +0000",
+          "title": "Liver experts finally agree on what acute-on-chronic liver failure is",
+          "url": "https://www.statnews.com/2026/11/09/acute-on-chronic-liver-failure-new-definition/?utm_campaign=rss",
+          "publishedDate": "Mon, 09 Nov 2026 09:30:00 +0000",
           "source": "statnews.com",
-          "summary": "“These results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease.\"",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "STAT+: States sue Trump administration again to delay Medicaid work requirements",
-          "url": "https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss",
-          "publishedDate": "Fri, 06 Nov 2026 22:05:39 +0000",
-          "source": "statnews.com",
-          "summary": "The Trump administration is facing another lawsuit over its sweeping changes to Medicaid less than a week after a federal judge ruled that implementation of work requirements would cause “irreparable&#8230;",
-          "authors": "O. Rose Broderick"
+          "summary": "\"Patients are suffering with this condition that everyone has their own way of defining.\"",
+          "authors": "Isabella Cueto"
         }
       ]
     },
@@ -69,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "A little-known protein could be a major culprit in type 2 diabetes",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261106174543.htm",
-          "publishedDate": "Sun, 08 Nov 2026 20:45:17 EST",
+          "title": "Alzheimer’s may have early warning signs outside the brain",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+          "publishedDate": "Mon, 09 Nov 2026 20:47:34 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that a buildup of a protein called Miro1 may be a hidden driver of insulin resistance in Type 2 diabetes, with preclinical experiments showing that removing it restores the muscles’ response to insulin. Exercise…",
+          "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited…",
           "authors": ""
         },
         {
-          "title": "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm",
-          "publishedDate": "Sun, 08 Nov 2026 18:24:50 EST",
+          "title": "STAT+: Hospitals win the midterms, and Chopping Very Strategically",
+          "url": "https://www.statnews.com/2026/11/09/midterm-elections-good-news-for-hospitals-cvs-breakup-explained/?utm_campaign=rss",
+          "publishedDate": "Mon, 09 Nov 2026 17:54:13 +0000",
+          "source": "statnews.com",
+          "summary": "We explain the CVS breakup, and why Democrats' election victories are good news for hospitals.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "Common supplement could help fight psoriasis, scientists discover",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
+          "publishedDate": "Mon, 09 Nov 2026 06:44:20 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists at UC San Francisco have developed a powerful new cancer therapy that remains inactive until it reaches the brain, where it switches on to attack deadly tumors. The engineered immune cells, called B-SYNC CAR-T cells, completely…",
+          "summary": "Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis. The supplement prevented psoriasis in mice and showed promising results in a small human…",
           "authors": ""
         },
         {
-          "title": "Einstein&#039;s equations reveal how gravity could break, reconnect, and release energy",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
-          "publishedDate": "Sun, 08 Nov 2026 17:14:42 EST",
+          "title": "When your gut bacteria run out of fiber, they may start eating your gut lining",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
+          "publishedDate": "Mon, 09 Nov 2026 06:32:00 EST",
           "source": "sciencedaily.com",
-          "summary": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad Adolfo Ibáñez have…",
+          "summary": "Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds, but fiber helps keep this activity in check. Overlooked proteins in plant foods also help shift…",
           "authors": ""
         },
         {
-          "title": "A 24-hour fast triggers a surprising repair response in the gut",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
-          "publishedDate": "Sun, 08 Nov 2026 06:06:30 EST",
+          "title": "Scientists discover a surprising link between acorns and lyme disease",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
+          "publishedDate": "Mon, 09 Nov 2026 05:59:35 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy…",
+          "summary": "After more than 35 years of research, scientists have uncovered surprising clues about what really drives Lyme disease risk. Contrary to longstanding assumptions, deer populations appear less important than mice, which can fuel a 40%…",
           "authors": ""
         },
         {
-          "title": "MIT scientists turn immune cells into cancer killers inside the body",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
-          "publishedDate": "Sun, 08 Nov 2026 05:52:31 EST",
+          "title": "A simple supplement may help clear brain fog after cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104084013.htm",
+          "publishedDate": "Mon, 09 Nov 2026 05:33:23 EST",
           "source": "sciencedaily.com",
-          "summary": "MIT scientists have developed nanoparticles that reprogram immune cells directly inside the body to attack cancer and harmful immune cells, eliminating tumors and reversing liver damage in mouse experiments. The breakthrough could make…",
-          "authors": ""
-        },
-        {
-          "title": "Low testosterone linked to 18% higher risk of dying from cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104012301.htm",
-          "publishedDate": "Sun, 08 Nov 2026 05:10:50 EST",
-          "source": "sciencedaily.com",
-          "summary": "A major international study tracking more than 26,000 men found that very low testosterone levels were associated with an 18% higher risk of dying from cancer later in life. Surprisingly, testosterone itself showed no clear link to…",
+          "summary": "A surprising new study from UCLA suggests that a naturally occurring molecule could help breast cancer survivors overcome the frustrating brain fog and exhaustion that can linger long after treatment ends. Researchers found that women…",
           "authors": ""
         }
       ]
@@ -121,63 +170,64 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments",
+          "url": "https://arxiv.org/abs/2611.09093",
+          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "The rapid growth of large-scale machine learning (ML) workloads has led to unprecedented demands on GPU cluster scheduling systems. However, existing heuristic schedulers struggle to handle the complexity and dynamics of multi-cluster GPU…",
+          "authors": "Jingyuan Xu, Changwu Huang, Lemeng Pan, Ke Tang, Xin Yao"
+        },
+        {
+          "title": "OMCDE: Opposition-based Multi-Stage Matrix-Based Competitive Differential Evolution",
+          "url": "https://arxiv.org/abs/2611.09167",
+          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Differential Evolution has proven to be an effective algorithm for continuous global optimization, but it's modern high-performing variants often introduce additional complexity and computational cost. We propose OMCDE, a matrix-based…",
+          "authors": "Mohammad Sarhangzadeh, Shahryar Rahnamayan, Doruk Oner"
+        },
+        {
+          "title": "Bridging Spiking and Continuous Dynamics in Spiking Neural Networks: A Muscle-Inspired Model",
+          "url": "https://arxiv.org/abs/2611.09295",
+          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Transforming the spike trains produced by spiking neural networks (SNNs) into continuous signals through biologically inspired mechanisms remains an open challenge in generative and regression tasks. In biological systems, a similar…",
+          "authors": "Maryam Soltani, Philip N. Garner"
+        },
+        {
+          "title": "Circuit Theory-Informed AI for Condition Monitoring in Power Electronics",
+          "url": "https://arxiv.org/abs/2611.09141",
+          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Artificial intelligence for power electronics is evolving toward a deeper comprehension of system intrinsic behaviors and dynamics. As a novel integration of neural computation and electric circuits, spike-based neuromorphic computing…",
+          "authors": "Yubo Song, Pascal A. Schirmer, Subham Sahoo"
+        },
+        {
+          "title": "Evolutionary Architecture Search through Grammar-Based Sequence Alignment",
+          "url": "https://arxiv.org/abs/2512.04992",
+          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Neural architecture search (NAS) in expressive search spaces is a computationally hard problem, but it also holds the potential to automatically discover completely novel and performant architectures. To achieve this we need effective…",
+          "authors": "Adri Gómez Martín, Felix Möller, Steven McDonagh, Monica Abella, Manuel Desco, Elliot J. Crowley, Aaron Klein, Linus Ericsson"
+        },
+        {
+          "title": "The Standard Interpretable Model: Design interpretable machine learning methods from elementary symmetries",
+          "url": "https://arxiv.org/abs/2606.12289",
+          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "As Artificial Intelligence models grow in complexity, interpretability has become an indispensable tool for understanding, debugging, and controlling their computations. However, interpretability lacks general theories to deductively…",
+          "authors": "Pietro Barbiero, Giovanni De Felice, Mateo Espinosa Zarlenga, Francesco Giannini, Filippo Bonchi, Mateja Jamnik, Giuseppe Marra, Ruggero Noris"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
-        },
-        {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
-        }
-      ]
+      "itemCount": 0,
+      "error": "no BCI-keyword match in fetched feed",
+      "items": []
     }
   }
 }

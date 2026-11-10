@@ -1,23 +1,31 @@
 {
-  "generatedAt": "2026-11-09T01:56:27.625Z",
-  "date": "2026-11-09",
-  "topic": "学習と畳み込みニューラルネットワーク(CNN)",
-  "templateName": "data-driven",
+  "generatedAt": "2026-11-10T04:17:19.045Z",
+  "date": "2026-11-10",
+  "topic": "ニューロフィードバックとクローズドループ制御",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Sublinearly structured deep neural networks achieve feature learning consistency for compositional functions.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42999811/",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、学習と畳み込みニューラルネットワーク(CNN)の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 学習 × 畳み込みニューラルネットワーク(CNN) × 深層学習\n\n> Over the past decade, deep neural networks (DNNs) have achieved remarkable success on complex machine learning tasks, yet the theoretical foundations of their performance remain incomplete. From a statistical viewpoint, a natural question is: can DNNs attain feature-learning and...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Sublinearly structured deep neural networks achieve feature learning consistency for compositional functions.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42999811/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #脳情報",
-  "summaryJP": "学習と畳み込みニューラルネットワーク(CNN) — 数値で示された新事実（ニューロAI・計算論）",
-  "paperAuthors": "Sehwan Kim, Yan Sun, Faming Liang",
-  "publishedDate": "2026-11-08",
-  "paperId": "42999811",
-  "paperSource": "pubmed",
-  "themeArea": "ニューロAI・計算論",
+  "paperTitle": "Multimodal Physiological Decoding Reveals Individualized Arousal Dynamics in Closed-Loop Neurofeedback",
+  "paperLink": "https://arxiv.org/abs/2610.04113",
+  "figureUrl": "https://arxiv.org/html/2610.04113/2610.04113v2/figure_1.png",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\nこの研究から得られる3つの重要な示唆。\n\nニューロフィードバックとクローズドループ制御の最新成果を整理しました。\n\n🔬 ニューロフィードバック × クローズドループ制御 × ブレイン・コンピュータ・インターフェース(BCI) × 深層学習\n\n📊 注目すべきデータ：\n→ The peripheral decoder had a within-subject AUC of 93.0%.\n→ The EEG-only decoder had 85.2% and the FBCSP decoder had 79.8%.\n→ Per-trial deviations from this trajectory predicted performance (r = -0.28 to -0.24, p < 0.01).\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nBCI・ニューラルインターフェースの今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Multimodal Physiological Decoding Reveals Individualized Arousal Dynamics in Closed-Loop Neurofeedback\n🔗 https://arxiv.org/abs/2610.04113\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #NeuralDecoding",
+  "summaryJP": "ニューロフィードバックとクローズドループ制御 — 注目すべき3つの示唆（BCI・ニューラルインターフェース）",
+  "paperAuthors": "Anirudh Natarajan, Paul Sajda",
+  "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+  "paperId": "2610.04113",
+  "paperSource": "arxiv",
+  "themeArea": "BCI・ニューラルインターフェース",
   "jpKeywords": [
+    "ニューロフィードバック",
+    "クローズドループ制御",
+    "ブレイン・コンピュータ・インターフェース(BCI)",
+    "深層学習",
     "学習",
-    "畳み込みニューラルネットワーク(CNN)",
-    "深層学習"
+    "EEG"
   ],
-  "abstractExcerpt": "Over the past decade, deep neural networks (DNNs) have achieved remarkable success on complex machine learning tasks, yet the theoretical foundations of their performance remain incomplete. From a statistical viewpoint, a natural question…",
-  "figureUrls": []
+  "abstractExcerpt": "Most arousal-based brain-computer interfaces (BCIs) use EEG to decode cognitive state. But arousal is an autonomic process. We examined if peripheral physiological signals give a better decode of task-related arousal. We used a public…",
+  "figureUrls": [
+    "https://arxiv.org/html/2610.04113/2610.04113v2/figure_1.png",
+    "https://arxiv.org/html/2610.04113/2610.04113v2/figure_2.png",
+    "https://arxiv.org/html/2610.04113/2610.04113v2/figure_3.png"
+  ]
 }
