@@ -1,5 +1,30 @@
 [
   {
+    "generatedAt": "2026-11-11T02:13:04.275Z",
+    "date": "2026-11-11",
+    "topic": "記憶",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "NeuroHorizon: Long-Horizon Forecasting of Neural Population Activity with Hierarchical Memory",
+    "paperLink": "https://arxiv.org/abs/2611.10617",
+    "figureUrl": "https://arxiv.org/html/2611.10617/2611.10617v1/fig9_method_b.png",
+    "formatted": "この発見の意味に、まだ多くの人が気づいていない。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n記憶の最新研究です。\n\n🔬 記憶\n\n> Long-horizon forecasting of neural population activity tests whether a model has captured dynamics that remain predictive well beyond the observed history. Prediction quality typically declines as the horizon grows, yet neither short-horizon accuracy nor teacher-forced...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 NeuroHorizon: Long-Horizon Forecasting of Neural Population Activity with Hierarchical Memory\n🔗 https://arxiv.org/abs/2611.10617\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #DeepLearning",
+    "summaryJP": "記憶 — 次世代へ続く布石（神経デコーディング）",
+    "paperAuthors": "Peng Jiang, Xiaoxuan Jia",
+    "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+    "paperId": "2611.10617",
+    "paperSource": "arxiv",
+    "themeArea": "神経デコーディング",
+    "jpKeywords": [
+      "記憶"
+    ],
+    "abstractExcerpt": "Long-horizon forecasting of neural population activity tests whether a model has captured dynamics that remain predictive well beyond the observed history. Prediction quality typically declines as the horizon grows, yet neither…",
+    "figureUrls": [
+      "https://arxiv.org/html/2611.10617/2611.10617v1/fig9_method_b.png",
+      "https://arxiv.org/html/2611.10617/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
+    ]
+  },
+  {
     "generatedAt": "2026-11-10T04:17:19.045Z",
     "date": "2026-11-10",
     "topic": "ニューロフィードバックとクローズドループ制御",
@@ -1226,32 +1251,5 @@
     ],
     "abstractExcerpt": "Self-supervised learning has become an important paradigm in the domains of machine intelligence and computational neuroscience. Nevertheless, current work on self-supervised learning (SSL) relies on biologically implausible credit…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-09-22T01:07:04.428Z",
-    "date": "2026-09-22",
-    "topic": "ニューラルマニフォールドと学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Identifying Neural State Changes due to Gain versus Off-Manifold Displacement",
-    "paperLink": "https://arxiv.org/abs/2609.21272",
-    "figureUrl": "https://arxiv.org/html/2609.21272/2609.21272v1/media/image1.png",
-    "formatted": "これを読んで、脳に対する見方が変わりました。\n\n数字が語る、ニューラルマニフォールドと学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 ニューラルマニフォールド × 学習 × 記憶\n\n> Memory segmentation is thought to arise from rapid decorrelation in neural activity, often quantified by Euclidean distance or cosine angle. Although these metrics detect a transition, they do not reveal how the new state relates to the repertoire represented by the neural...\n\nなぜこの数字が重要か。\n\n神経デコーディングにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Identifying Neural State Changes due to Gain versus Off-Manifold Displacement\n🔗 https://arxiv.org/abs/2609.21272\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #NeuralDecoding",
-    "summaryJP": "ニューラルマニフォールドと学習 — 数値で示された新事実（神経デコーディング）",
-    "paperAuthors": "Sam McKenzie",
-    "publishedDate": "Mon, 21 Sep 2026 00:00:00 -0400",
-    "paperId": "2609.21272",
-    "paperSource": "arxiv",
-    "themeArea": "神経デコーディング",
-    "jpKeywords": [
-      "ニューラルマニフォールド",
-      "学習",
-      "記憶"
-    ],
-    "abstractExcerpt": "Memory segmentation is thought to arise from rapid decorrelation in neural activity, often quantified by Euclidean distance or cosine angle. Although these metrics detect a transition, they do not reveal how the new state relates to the…",
-    "figureUrls": [
-      "https://arxiv.org/html/2609.21272/2609.21272v1/media/image1.png",
-      "https://arxiv.org/html/2609.21272/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
-    ]
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T04:17:19.948Z",
+  "generatedAt": "2026-11-11T02:13:04.862Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Structure is in the zoom: probing neural symmetry through dimensionality scaling",
-          "url": "https://arxiv.org/abs/2611.08506",
-          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "title": "Specific, cumulative and reversible odour learning in a whole-brain connectome model of Drosophila",
+          "url": "https://arxiv.org/abs/2611.09930",
+          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "How much of a neural population's measured dimensionality is the code, and how much is the act of measuring it? The slope of the participation ratio against subsample size is reported for cortical populations and for the layers of language…",
-          "authors": "Adil Amin"
+          "summary": "Whole-brain models of the fruit fly built from the FlyWire connectome can predict how neurons respond to a stimulus, but they keep every synapse fixed and so cannot learn, while models that do learn simulate only the mushroom body. I made…",
+          "authors": "Daniel F. Asis"
         },
         {
-          "title": "Spiking neuromodulation: a linear control perspective",
-          "url": "https://arxiv.org/abs/2611.08571",
-          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "title": "Pixels over Symbols: Sensory Realism Improves Behavioral Alignment in Models of Cognition",
+          "url": "https://arxiv.org/abs/2611.10565",
+          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Neuronal excitability is a nonlinear phenomenon, and the complexity of spiking experimental traces sometimes looks defeating. The present paper takes the view point that excitability is a neuromodulated property, and aims to demonstrate…",
-          "authors": "Fulvio Forni, Rodolphe Sepulchre"
+          "summary": "Computational models of cognition have traditionally relied on abstract symbolic inputs that approximate sensory experiences with simplified vector representations. This simplification reflects historical computational constraints and a…",
+          "authors": "Hao Yuan Bai, Xiaoxuan Lei, Zihan Weng, Motahareh Pourrahimi, Lucas Gomez, Pouya Bashivan"
         },
         {
-          "title": "Path-dependent triage: Early judgments lead conversational AI chatbots to miss mental-health emergencies",
-          "url": "https://arxiv.org/abs/2611.09647",
-          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "title": "NeuroHorizon: Long-Horizon Forecasting of Neural Population Activity with Hierarchical Memory",
+          "url": "https://arxiv.org/abs/2611.10617",
+          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "People increasingly bring mental-health concerns to consumer AI chatbots. In these conversations, clinically relevant information rarely arrives all at once. Instead, it unfolds over multiple turns, often in response to the questions the…",
-          "authors": "Veith Weilnhammer, Raymond Dolan, Lennart Luettgau, Virginia Corno, Elise Wilkinson, Viknesh Sounderajah, Hannah Richardson, Christopher Kelly, Matthew M Nour"
+          "summary": "Long-horizon forecasting of neural population activity tests whether a model has captured dynamics that remain predictive well beyond the observed history. Prediction quality typically declines as the horizon grows, yet neither…",
+          "authors": "Peng Jiang, Xiaoxuan Jia"
         },
         {
-          "title": "Decoding spatial and semantic information from large-scale visual cortical activity for natural-movie reconstruction",
-          "url": "https://arxiv.org/abs/2611.08887",
-          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "title": "From MNH to the Friedman--Komogortsev Method---which changes improve eye-movement classification?",
+          "url": "https://arxiv.org/abs/2611.11519",
+          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Reconstructing natural visual experience from cortical population activity is a central challenge in neural decoding, particularly for calcium imaging, where signals are noisy, temporally filtered, and paired neural-video data are limited.…",
-          "authors": "Yukai Huang, Haoyu Albert Wang, Jiawei Zhang, Jialun Ma, Jiayao Ding, Yiran Lin, Xingyu Chen, Ziqi Gao, Yuguo Yu"
+          "summary": "The Friedman-Komogortsev Method (FKM) is a rule-based classifier of fixations, saccades, and post-saccadic oscillations in 1000-Hz recordings, developed from the modified Nyström-Holmqvist algorithm (MNH) and used in several recent…",
+          "authors": "Lee Friedman, Mehedi Hasan Raju, Oleg Komogortsev"
         },
         {
-          "title": "A hair-thin implant opens the entire depth of the mouse brain to revisiting the same structures at subcellular resolution",
-          "url": "https://arxiv.org/abs/2611.09481",
-          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "title": "Language processing in the autistic brain: A meta-analysis of neuroimaging studies across modalities and age",
+          "url": "https://arxiv.org/abs/2611.11927",
+          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Ultrathin multimode-fibre endoscopes provide minimally invasive access to subcellular structures throughout the depth of the mouse brain. Here we introduce a chronically implantable interface with a diameter of 144 \\mum, about the…",
-          "authors": "Miroslav Stib\\rurek, Tomá\\vs Pikálek, Petra Ondrá\\vcková, Kristina Herzánová, Adrian Lorenz, André Gomes, Julia Henschke, Endre Levente Marosi, Bhargavi Murthy, Petra Kolbábková, Hongbo Jia, Sanja Bauer Mikulovic, Janelle Pakan, Alessio Attardo, Hana Uhlí\\vrová, Tomá\\vs \\vCi\\vzmár"
+          "summary": "Language is central to social communication, which is altered in autism, and language abilities vary widely among autistic individuals. How the autistic brain processes language is central to understanding autistic communication. Yet…",
+          "authors": "Hanlin Wu, Bei Xiao, Qingxi He"
         },
         {
-          "title": "Traits and tangles: An analysis of the Big Five paradigm by tangle-based clustering",
-          "url": "https://arxiv.org/abs/2411.18670",
-          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "title": "Spike-to-Field Mechanisms of Turbulence-Like Dynamics in Spatial Spiking Neural Networks",
+          "url": "https://arxiv.org/abs/2611.12627",
+          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Using the recently developed mathematical theory of tangles, we re-assess the mathematical foundations for applications of the five factor model in personality tests by a new, mathematically rigorous, quantitative method. Our findings…",
-          "authors": "Hanno von Bergen, Reinhard Diestel"
+          "summary": "Neural avalanches and turbulence-like brain dynamics are usually measured after neural activity has been coarse-grained into continuous fields, leaving open which spike-level mechanisms can generate these macroscopic observables. We build…",
+          "authors": "Zequan Liu"
         }
       ]
     },
@@ -62,6 +62,14 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Why this year’s flu season could be hitting teens and young adults hard",
+          "url": "https://www.statnews.com/2026/11/10/health-news-why-flu-season-could-hit-teens-and-young-adults-hard/?utm_campaign=rss",
+          "publishedDate": "Tue, 10 Nov 2026 12:49:35 +0000",
+          "source": "statnews.com",
+          "summary": "At least 1.7 million cases of flu have been reported so far this year. Here's what experts are expecting for the rest of flu season:",
+          "authors": "Amanda Erickson"
+        },
         {
           "title": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke",
           "url": "https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "Many in the party are pushing for Democratic lawmakers to go big on health care, but their dreams may crash into reality.",
           "authors": "Daniel Payne"
-        },
-        {
-          "title": "Liver experts finally agree on what acute-on-chronic liver failure is",
-          "url": "https://www.statnews.com/2026/11/09/acute-on-chronic-liver-failure-new-definition/?utm_campaign=rss",
-          "publishedDate": "Mon, 09 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "\"Patients are suffering with this condition that everyone has their own way of defining.\"",
-          "authors": "Isabella Cueto"
         }
       ]
     },
@@ -117,6 +117,22 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Democrats take new step toward investigating Trump’s drug pricing deals",
+          "url": "https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss",
+          "publishedDate": "Tue, 10 Nov 2026 23:55:00 +0000",
+          "source": "statnews.com",
+          "summary": "Incoming Democratic chairs of key committees have taken a step toward investigating MFN drug pricing agreements between drugmakers and the Trump administration.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people",
+          "url": "https://www.statnews.com/2026/11/10/medicaid-expansion-holdout-states-midterm-election-power-shift/?utm_campaign=rss",
+          "publishedDate": "Tue, 10 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Texas, Georgia, and Wisconsin may expand their Medicaid programs when Democrats take power.",
+          "authors": "John Wilkerson"
+        },
         {
           "title": "Alzheimer’s may have early warning signs outside the brain",
           "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
@@ -148,22 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds, but fiber helps keep this activity in check. Overlooked proteins in plant foods also help shift…",
           "authors": ""
-        },
-        {
-          "title": "Scientists discover a surprising link between acorns and lyme disease",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
-          "publishedDate": "Mon, 09 Nov 2026 05:59:35 EST",
-          "source": "sciencedaily.com",
-          "summary": "After more than 35 years of research, scientists have uncovered surprising clues about what really drives Lyme disease risk. Contrary to longstanding assumptions, deer populations appear less important than mice, which can fuel a 40%…",
-          "authors": ""
-        },
-        {
-          "title": "A simple supplement may help clear brain fog after cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104084013.htm",
-          "publishedDate": "Mon, 09 Nov 2026 05:33:23 EST",
-          "source": "sciencedaily.com",
-          "summary": "A surprising new study from UCLA suggests that a naturally occurring molecule could help breast cancer survivors overcome the frustrating brain fog and exhaustion that can linger long after treatment ends. Researchers found that women…",
-          "authors": ""
         }
       ]
     },
@@ -173,61 +173,77 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Two-Layer Evolutionary Scheduling for Machine Learning Jobs in Multi-Cluster Environments",
-          "url": "https://arxiv.org/abs/2611.09093",
-          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "title": "Neural Activity Synchronization-Based Fast Local Learnable Spiking Neural Network Architecture",
+          "url": "https://arxiv.org/abs/2611.11053",
+          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "The rapid growth of large-scale machine learning (ML) workloads has led to unprecedented demands on GPU cluster scheduling systems. However, existing heuristic schedulers struggle to handle the complexity and dynamics of multi-cluster GPU…",
-          "authors": "Jingyuan Xu, Changwu Huang, Lemeng Pan, Ke Tang, Xin Yao"
+          "summary": "Implementing intelligent learning systems on low- power edge devices is challenging due to the high compu- tational complexity, training latency, and energy demands of traditional Artificial Neural Networks (ANNs). Spiking Neural Networks…",
+          "authors": "Pranith Dutta, Sk Wasim Rajjak, Siddhanta Ray, Santlal Prajapati, Manobendra Nath Mondal"
         },
         {
-          "title": "OMCDE: Opposition-based Multi-Stage Matrix-Based Competitive Differential Evolution",
-          "url": "https://arxiv.org/abs/2611.09167",
-          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "title": "Understanding Spike Encoding across IoT Sensing Modalities: An Empirical Study",
+          "url": "https://arxiv.org/abs/2611.11317",
+          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Differential Evolution has proven to be an effective algorithm for continuous global optimization, but it's modern high-performing variants often introduce additional complexity and computational cost. We propose OMCDE, a matrix-based…",
-          "authors": "Mohammad Sarhangzadeh, Shahryar Rahnamayan, Doruk Oner"
+          "summary": "Spiking neural networks (SNNs) offer a path to energy-efficient sensing on Internet of Things (IoT) devices. The input encoder shapes that opportunity by changing the cues available for recognition and the work required to process them. We…",
+          "authors": "Yuxuan Hou, Di Yu, Linshan Jiang, Jin Zhang"
         },
         {
-          "title": "Bridging Spiking and Continuous Dynamics in Spiking Neural Networks: A Muscle-Inspired Model",
-          "url": "https://arxiv.org/abs/2611.09295",
-          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "title": "AscendMOEA: An Ascend NPU-Accelerated Platform for Tensorized Multi-Objective Evolutionary Algorithms",
+          "url": "https://arxiv.org/abs/2611.12057",
+          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Transforming the spike trains produced by spiking neural networks (SNNs) into continuous signals through biologically inspired mechanisms remains an open challenge in generative and regression tasks. In biological systems, a similar…",
-          "authors": "Maryam Soltani, Philip N. Garner"
+          "summary": "Multi-objective evolutionary optimization increasingly involves large populations, expensive problem evaluations, and diverse algorithmic structures. These workloads expose the limited parallelism of loop-based implementations, while…",
+          "authors": "Qianlong Dang, Zhiyang Zhang, Baosheng Li, Tianqing Zhu, Junhu Ruan"
         },
         {
-          "title": "Circuit Theory-Informed AI for Condition Monitoring in Power Electronics",
-          "url": "https://arxiv.org/abs/2611.09141",
-          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "title": "Maximizing Detection Probability in UAV Search Missions using Random-Key Optimizers",
+          "url": "https://arxiv.org/abs/2611.12317",
+          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Artificial intelligence for power electronics is evolving toward a deeper comprehension of system intrinsic behaviors and dynamics. As a novel integration of neural computation and electric circuits, spike-based neuromorphic computing…",
-          "authors": "Yubo Song, Pascal A. Schirmer, Subham Sahoo"
+          "summary": "This paper focuses on the stochastic and real-time constraints of Unmanned Aerial Vehicle (UAV) path planning in Search and Rescue (SAR) missions. We introduce a configurable data-driven and intelligent routing architecture that combines a…",
+          "authors": "Antonio Dantas, Elcio Shiguemori, Antonio Chaves"
         },
         {
-          "title": "Evolutionary Architecture Search through Grammar-Based Sequence Alignment",
-          "url": "https://arxiv.org/abs/2512.04992",
-          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "title": "Pricing Symbolic Rules by What GNNs Leave Unlearned",
+          "url": "https://arxiv.org/abs/2611.12446",
+          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Neural architecture search (NAS) in expressive search spaces is a computationally hard problem, but it also holds the potential to automatically discover completely novel and performant architectures. To achieve this we need effective…",
-          "authors": "Adri Gómez Martín, Felix Möller, Steven McDonagh, Monica Abella, Manuel Desco, Elliot J. Crowley, Aaron Klein, Linus Ericsson"
+          "summary": "Symbolic knowledge (motif counts, ring counts, label constraints) is routinely added to graph neural networks (GNNs) and justified by their limited expressivity. We replace this yardstick with an exact one. The largest log-loss reduction a…",
+          "authors": "Satabarto Sarkar, Prithwineel Paul"
         },
         {
-          "title": "The Standard Interpretable Model: Design interpretable machine learning methods from elementary symmetries",
-          "url": "https://arxiv.org/abs/2606.12289",
-          "publishedDate": "Mon, 09 Nov 2026 00:00:00 -0500",
+          "title": "The forces at hand: social learning is permissive, not instructive, for the evolution of phenotypic plasticity",
+          "url": "https://arxiv.org/abs/2611.10986",
+          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "As Artificial Intelligence models grow in complexity, interpretability has become an indispensable tool for understanding, debugging, and controlling their computations. However, interpretability lacks general theories to deductively…",
-          "authors": "Pietro Barbiero, Giovanni De Felice, Mateo Espinosa Zarlenga, Francesco Giannini, Filippo Bonchi, Mateja Jamnik, Giuseppe Marra, Ruggero Noris"
+          "summary": "Evolution can favour a trait for two reasons: an instructive cause makes selection favour the trait; a permissive one lets it persist once selection no longer removes it. The distinction matters most for phenotypic plasticity and its…",
+          "authors": "Nam H. Le"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 0,
-      "error": "no BCI-keyword match in fetched feed",
-      "items": []
+      "itemCount": 2,
+      "items": [
+        {
+          "title": "An In-Ear Sleep Modulation SoC Featuring a CNN-LSTM Accelerator with Long-Kernel Memory Reuse and Runtime Dynamic Quantization",
+          "url": "https://arxiv.org/abs/2611.11103",
+          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "This work presents a 65 nm SoC for closed-loop in-ear sleep modulation. The SoC performs low-noise in-ear EEG sensing, CNN-LSTM-based sleep stage classification, and phase-specific auditory stimulation under 1 mW. A dedicated accelerator…",
+          "authors": "Yaqian Xu, Xinyu Chen, Yuhan Hou, Jianxiong Xu, Hao You, Yu Huang, Bowen Liu, Ashley Hung, Andrew G. Richardson, Roman Genov, Xilin Liu"
+        },
+        {
+          "title": "Wireless Interference Recognition with Limited Data via Utilizing Diffusion Model",
+          "url": "https://arxiv.org/abs/2611.10568",
+          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Accurate recognition of interference signals is essential for maintaining the reliability and security of modern wireless communication systems. However, existing approaches face several significant challenges: the high cost and the…",
+          "authors": "Rui Wang, Tong Li, Chanchan Zhu, Shaolong Gu, Zhu Xiao"
+        }
+      ]
     }
   }
 }
