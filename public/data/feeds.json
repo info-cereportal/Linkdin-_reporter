@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T02:13:04.862Z",
+  "generatedAt": "2026-11-12T03:19:12.980Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Specific, cumulative and reversible odour learning in a whole-brain connectome model of Drosophila",
-          "url": "https://arxiv.org/abs/2611.09930",
-          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "title": "A probabilistic model of visual segmentation explains early visual cortical dynamics",
+          "url": "https://arxiv.org/abs/2611.13316",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Whole-brain models of the fruit fly built from the FlyWire connectome can predict how neurons respond to a stimulus, but they keep every synapse fixed and so cannot learn, while models that do learn simulate only the mushroom body. I made…",
-          "authors": "Daniel F. Asis"
+          "summary": "Neural dynamics are a central feature of biological neural systems. In the visual cortex, the functional role of neural dynamics is poorly understood, particularly for static stimuli. The statistics of still natural images have long been…",
+          "authors": "Tridib K. Biswas, Ruben Coen-Cagli"
         },
         {
-          "title": "Pixels over Symbols: Sensory Realism Improves Behavioral Alignment in Models of Cognition",
-          "url": "https://arxiv.org/abs/2611.10565",
-          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "title": "Human and Machine Annotations Predict Brain Responses to Naturalistic Movies Across Development",
+          "url": "https://arxiv.org/abs/2611.13637",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Computational models of cognition have traditionally relied on abstract symbolic inputs that approximate sensory experiences with simplified vector representations. This simplification reflects historical computational constraints and a…",
-          "authors": "Hao Yuan Bai, Xiaoxuan Lei, Zihan Weng, Motahareh Pourrahimi, Lucas Gomez, Pouya Bashivan"
+          "summary": "Naturalistic movie watching provides a powerful framework for studying dynamic brain function, but linking movie content to neural responses typically relies on labor-intensive human annotation. We investigated whether multimodal large…",
+          "authors": "Yiran Huang, Zeyong Zhang, Rounak Rahman, Bharat Biswal, Xin Di, Mengjia Xu"
         },
         {
-          "title": "NeuroHorizon: Long-Horizon Forecasting of Neural Population Activity with Hierarchical Memory",
-          "url": "https://arxiv.org/abs/2611.10617",
-          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "title": "Similar visual tuning conceals different recovery dynamics in a model of macaque V1",
+          "url": "https://arxiv.org/abs/2611.13692",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Long-horizon forecasting of neural population activity tests whether a model has captured dynamics that remain predictive well beyond the observed history. Prediction quality typically declines as the horizon grows, yet neither…",
-          "authors": "Peng Jiang, Xiaoxuan Jia"
+          "summary": "Biologically detailed neuronal networks can model how brain circuits perform observed functions, but their high computational cost limits the comparisons needed to test biological hypotheses. To address this limitation, we extend a…",
+          "authors": "Xialei Huang, Qingyu Yan, Zheng Bian, Zhuo-Cheng Xiao"
         },
         {
-          "title": "From MNH to the Friedman--Komogortsev Method---which changes improve eye-movement classification?",
-          "url": "https://arxiv.org/abs/2611.11519",
-          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "title": "Neuromodulation Through Intrinsic Noise",
+          "url": "https://arxiv.org/abs/2611.13780",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "The Friedman-Komogortsev Method (FKM) is a rule-based classifier of fixations, saccades, and post-saccadic oscillations in 1000-Hz recordings, developed from the modified Nyström-Holmqvist algorithm (MNH) and used in several recent…",
-          "authors": "Lee Friedman, Mehedi Hasan Raju, Oleg Komogortsev"
+          "summary": "Neuromodulation, the modulation of excitability through the regulation of neuronal parameters, is a key tool in neuromorphic control design. This paper investigates how spiking excitability can be modulated by intrinsic noise. Focusing on…",
+          "authors": "Sunghyun Koo, Jin Gyu Lee, Rodolphe Sepulchre"
         },
         {
-          "title": "Language processing in the autistic brain: A meta-analysis of neuroimaging studies across modalities and age",
-          "url": "https://arxiv.org/abs/2611.11927",
-          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "title": "Optimization principles, revisited",
+          "url": "https://arxiv.org/abs/2611.14381",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Language is central to social communication, which is altered in autism, and language abilities vary widely among autistic individuals. How the autistic brain processes language is central to understanding autistic communication. Yet…",
-          "authors": "Hanlin Wu, Bei Xiao, Qingxi He"
+          "summary": "The brain solves a wide range of problems, and some of these solutions are very good indeed. It is an old idea that, in some cases, these solutions may be as good as possible given the relevant constraints. If this is true we can promote…",
+          "authors": "William Bialek"
         },
         {
-          "title": "Spike-to-Field Mechanisms of Turbulence-Like Dynamics in Spatial Spiking Neural Networks",
-          "url": "https://arxiv.org/abs/2611.12627",
-          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "title": "Grey matter sublayer thickness estimation in themouse cerebellum",
+          "url": "https://arxiv.org/abs/1901.02499",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Neural avalanches and turbulence-like brain dynamics are usually measured after neural activity has been coarse-grained into continuous fields, leaving open which spike-level mechanisms can generate these macroscopic observables. We build…",
-          "authors": "Zequan Liu"
+          "summary": "The cerebellar grey matter morphology is an important feature to study neurodegenerative diseases such as Alzheimer's disease or Down's syndrome. Its volume or thickness is commonly used as a surrogate imaging biomarker for such diseases.…",
+          "authors": "Da Ma, Manuel J. Cardoso, Maria A. Zuluaga, Marc Modat, Nick. Powell, Frances Wiseman, Victor Tybulewicz, Elizabeth Fisher, Mark. F. Lythgoe, Sebastien Ourselin"
         }
       ]
     },
@@ -62,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "All of Us study finds thousands of new genetic variants affecting drug responses",
+          "url": "https://www.statnews.com/2026/11/11/all-of-us-study-finds-gene-variants-drug-responses/?utm_campaign=rss",
+          "publishedDate": "Wed, 11 Nov 2026 21:37:27 +0000",
+          "source": "statnews.com",
+          "summary": "A study of nearly 100,000 diverse Americans identified thousands of new variants in genes that influence our responses to prescription drugs",
+          "authors": "Anil Oza"
+        },
+        {
+          "title": "STAT+: BMI alternative would flip obesity diagnosis for millions, study finds",
+          "url": "https://www.statnews.com/2026/11/11/obesity-diagnosis-bmi-lancet-commission-proposal-impact/?utm_campaign=rss",
+          "publishedDate": "Wed, 11 Nov 2026 16:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "A newly proposed way of identifying obesity could flip the diagnoses of millions of people. Proponents argue it could lead to more precise care.",
+          "authors": "Andrew Joseph"
+        },
+        {
+          "title": "The U.S. may soon lose measles elimination status",
+          "url": "https://www.statnews.com/2026/11/11/health-news-us-may-soon-lose-measles-elimination-status/?utm_campaign=rss",
+          "publishedDate": "Wed, 11 Nov 2026 12:56:13 +0000",
+          "source": "statnews.com",
+          "summary": "A regional WHO body will hold a four-day meeting determining whether the U.S. has maintained measles elimination. All signs point to no:",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "STAT+: Doctors on Kennedy’s influential preventive care panel have major conflicts of interest, filings reveal",
+          "url": "https://www.statnews.com/2026/11/11/kennedy-hhs-preventive-care-panel-conflict-interest-waivers/?utm_campaign=rss",
+          "publishedDate": "Wed, 11 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Federal health officials granted blanket ethics waivers to USPSTF panel members, some of whom own pharma stocks and private medical practices.",
+          "authors": "Chelsea Cirruzzo"
+        },
         {
           "title": "Why this year’s flu season could be hitting teens and young adults hard",
           "url": "https://www.statnews.com/2026/11/10/health-news-why-flu-season-could-hit-teens-and-young-adults-hard/?utm_campaign=rss",
@@ -77,38 +109,6 @@
           "source": "statnews.com",
           "summary": "Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding.",
           "authors": "Elaine Chen and Elizabeth Cooney"
-        },
-        {
-          "title": "STAT+: Heart association meeting’s readout is trending ‘neutral’",
-          "url": "https://www.statnews.com/2026/11/09/aha-2026-news-neutral-clinical-trials-lessons-learned/?utm_campaign=rss",
-          "publishedDate": "Mon, 09 Nov 2026 16:53:21 +0000",
-          "source": "statnews.com",
-          "summary": "The theme of the American Heart Association meetings was \"neutral\" results. Yet no one wants to stop pursuing inflammation or Lp(a) lowering.",
-          "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "STAT+: A new rule to prevent the spread of bioweapons",
-          "url": "https://www.statnews.com/2026/11/09/health-news-new-rule-to-prevent-bioweapon-spread/?utm_campaign=rss",
-          "publishedDate": "Mon, 09 Nov 2026 12:55:07 +0000",
-          "source": "statnews.com",
-          "summary": "AI makes it easier for people to come up with new potential medicines, but may also increase the possibility of bad actors creating new bioweapons. New guidelines from Trump officials&#8230;",
-          "authors": "Amanda Erickson and Brittany Trang"
-        },
-        {
-          "title": "AI chatbots aren&#8217;t therapists. But can they finally get men to open up?",
-          "url": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/?utm_campaign=rss",
-          "publishedDate": "Mon, 09 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "AI chatbots are imperfect therapists. But can they finally get men to talk?",
-          "authors": "Annalisa Merelli"
-        },
-        {
-          "title": "STAT+: Democrats begin asking: How far can we go on health care?",
-          "url": "https://www.statnews.com/2026/11/09/democrat-healthcare-agenda-new-lawmakers-weigh-popular-vs-possible/?utm_campaign=rss",
-          "publishedDate": "Mon, 09 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Many in the party are pushing for Democratic lawmakers to go big on health care, but their dreams may crash into reality.",
-          "authors": "Daniel Payne"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: Democrats take new step toward investigating Trump’s drug pricing deals",
-          "url": "https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss",
-          "publishedDate": "Tue, 10 Nov 2026 23:55:00 +0000",
+          "title": "STAT+: Cassidy sets key vote on Overton, even as he remains undecided on nominee to lead FDA",
+          "url": "https://www.statnews.com/2026/11/11/fda-commissioner-nominee-heidi-overton-senate-committee-vote/?utm_campaign=rss",
+          "publishedDate": "Wed, 11 Nov 2026 15:07:28 +0000",
           "source": "statnews.com",
-          "summary": "Incoming Democratic chairs of key committees have taken a step toward investigating MFN drug pricing agreements between drugmakers and the Trump administration.",
-          "authors": "John Wilkerson"
+          "summary": "Cassidy said he and other GOP lawmakers are undecided on Heidi Overton to lead the FDA.",
+          "authors": "Margaret Manto"
         },
         {
-          "title": "STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people",
-          "url": "https://www.statnews.com/2026/11/10/medicaid-expansion-holdout-states-midterm-election-power-shift/?utm_campaign=rss",
-          "publishedDate": "Tue, 10 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Texas, Georgia, and Wisconsin may expand their Medicaid programs when Democrats take power.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "Alzheimer’s may have early warning signs outside the brain",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
-          "publishedDate": "Mon, 09 Nov 2026 20:47:34 EST",
+          "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+          "publishedDate": "Wed, 11 Nov 2026 08:10:51 EST",
           "source": "sciencedaily.com",
-          "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited…",
+          "summary": "A new study found that energy drinks and stimulant supplements were linked to disproportionately frequent reports of serious heart problems, including 11 times more reports of cardiac arrest and 4.5 times more reports of heart attacks.…",
           "authors": ""
         },
         {
-          "title": "STAT+: Hospitals win the midterms, and Chopping Very Strategically",
-          "url": "https://www.statnews.com/2026/11/09/midterm-elections-good-news-for-hospitals-cvs-breakup-explained/?utm_campaign=rss",
-          "publishedDate": "Mon, 09 Nov 2026 17:54:13 +0000",
-          "source": "statnews.com",
-          "summary": "We explain the CVS breakup, and why Democrats' election victories are good news for hospitals.",
-          "authors": "Bob Herman"
-        },
-        {
-          "title": "Common supplement could help fight psoriasis, scientists discover",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
-          "publishedDate": "Mon, 09 Nov 2026 06:44:20 EST",
+          "title": "Obesity linked to up to 27% lower risk of death in dementia",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261109205401.htm",
+          "publishedDate": "Wed, 11 Nov 2026 07:59:57 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis. The supplement prevented psoriasis in mice and showed promising results in a small human…",
+          "summary": "A surprising study of more than 4,500 older adults found that people who were overweight or obese when diagnosed with dementia had a 16% to 27% lower risk of death than those at a normal weight. Researchers suspect that extra energy and…",
           "authors": ""
         },
         {
-          "title": "When your gut bacteria run out of fiber, they may start eating your gut lining",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
-          "publishedDate": "Mon, 09 Nov 2026 06:32:00 EST",
+          "title": "Scientists find deadly virus DNA hidden in 1,000-year-old manuscripts",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261106174545.htm",
+          "publishedDate": "Wed, 11 Nov 2026 07:10:47 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds, but fiber helps keep this activity in check. Overlooked proteins in plant foods also help shift…",
+          "summary": "Ancient manuscripts, including the 1,000-year-old York Gospels, have revealed traces of a deadly sheep virus whose history stretches back more than 3,700 years. Scientists discovered that the virus has remained remarkably unchanged for…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: Doctors on Kennedy’s influential preventive care panel have major conflicts of interest, filings reveal",
+          "url": "https://www.statnews.com/2026/11/11/kennedy-hhs-preventive-care-panel-conflict-interest-waivers/?utm_campaign=rss",
+          "publishedDate": "Wed, 11 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Federal health officials granted blanket ethics waivers to USPSTF panel members, some of whom own pharma stocks and private medical practices.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "Cancer-fighting chewing gum slashes HPV levels by up to 93%",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261108203832.htm",
+          "publishedDate": "Tue, 10 Nov 2026 23:27:12 EST",
+          "source": "sciencedaily.com",
+          "summary": "A surprising new weapon against microbes linked to head and neck cancer could be as simple as chewing gum. Scientists developed a bioengineered gum that reduced HPV levels by up to 93% in oral samples from cancer patients and nearly…",
           "authors": ""
         }
       ]
@@ -173,75 +173,107 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Neural Activity Synchronization-Based Fast Local Learnable Spiking Neural Network Architecture",
-          "url": "https://arxiv.org/abs/2611.11053",
-          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "title": "A Functional Preservation Score for Auditing Connectome Operations: Compression, Alignment, Transport, and Local-Rule Writing",
+          "url": "https://arxiv.org/abs/2611.13681",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Implementing intelligent learning systems on low- power edge devices is challenging due to the high compu- tational complexity, training latency, and energy demands of traditional Artificial Neural Networks (ANNs). Spiking Neural Networks…",
-          "authors": "Pranith Dutta, Sk Wasim Rajjak, Siddhanta Ray, Santlal Prajapati, Manobendra Nath Mondal"
+          "summary": "We introduce the Functional Preservation Score (FPS), a null-normalised, behaviourally grounded measure of how much of a neural network's input-output function survives a structural operation, and use it to audit the operations underlying…",
+          "authors": "Praveg Vashishtha"
         },
         {
-          "title": "Understanding Spike Encoding across IoT Sensing Modalities: An Empirical Study",
-          "url": "https://arxiv.org/abs/2611.11317",
-          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "title": "Oscillatory Processing Units as a computing substrate for biomimetic intelligence",
+          "url": "https://arxiv.org/abs/2611.13840",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Spiking neural networks (SNNs) offer a path to energy-efficient sensing on Internet of Things (IoT) devices. The input encoder shapes that opportunity by changing the cues available for recognition and the work required to process them. We…",
-          "authors": "Yuxuan Hou, Di Yu, Linshan Jiang, Jin Zhang"
+          "summary": "Biological intelligence emerges from neural activity that connects sensation, memory and action. Synaptic plasticity, neuronal assemblies and oscillations provide principles for biomimetic computing, but translating them into reusable…",
+          "authors": "Alexander A. Wolf"
         },
         {
-          "title": "AscendMOEA: An Ascend NPU-Accelerated Platform for Tensorized Multi-Objective Evolutionary Algorithms",
-          "url": "https://arxiv.org/abs/2611.12057",
-          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "title": "Tailoring Optimization Approaches with Domain Knowledge in Industry Process for Meta-heuristic Development",
+          "url": "https://arxiv.org/abs/2611.13940",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Multi-objective evolutionary optimization increasingly involves large populations, expensive problem evaluations, and diverse algorithmic structures. These workloads expose the limited parallelism of loop-based implementations, while…",
-          "authors": "Qianlong Dang, Zhiyang Zhang, Baosheng Li, Tianqing Zhu, Junhu Ruan"
+          "summary": "The paper presents an Industry Process for Meta-heuristic Development (IPMD) schema, a systematic methodology for applying meta- and hyper-heuristic applications to optimization problems. In this context, we present a case study of…",
+          "authors": "Jakub Cebula, Konrad Gmyrek, Paweł B. Myszkowski, Marko \\DJurasević, Łukasz P. Olech, Adam Paliszek-Saładyga"
         },
         {
-          "title": "Maximizing Detection Probability in UAV Search Missions using Random-Key Optimizers",
-          "url": "https://arxiv.org/abs/2611.12317",
-          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "title": "An ensemble of graph generative models for assisted history matching of the Brugge field case",
+          "url": "https://arxiv.org/abs/2611.12927",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "This paper focuses on the stochastic and real-time constraints of Unmanned Aerial Vehicle (UAV) path planning in Search and Rescue (SAR) missions. We introduce a configurable data-driven and intelligent routing architecture that combines a…",
-          "authors": "Antonio Dantas, Elcio Shiguemori, Antonio Chaves"
+          "summary": "Assisted history matching remains non-unique because many geological realisations can reproduce equivalent production responses with substantial differences between individual well matches. This ambiguity increases when a field comprises…",
+          "authors": "Gleb Shishaev, Anton Shirokov, Shadfar Davoodi, Mohammed Al-Shargabi, Vasily Demyanov, Daniel Arnold"
         },
         {
-          "title": "Pricing Symbolic Rules by What GNNs Leave Unlearned",
-          "url": "https://arxiv.org/abs/2611.12446",
-          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "title": "Making Strides in Symbolic Imitation Learning: Offline Demonstrations, Online Tuning",
+          "url": "https://arxiv.org/abs/2611.13182",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Symbolic knowledge (motif counts, ring counts, label constraints) is routinely added to graph neural networks (GNNs) and justified by their limited expressivity. We replace this yardstick with an exact one. The largest log-loss reduction a…",
-          "authors": "Satabarto Sarkar, Prithwineel Paul"
+          "summary": "Deep reinforcement learning (DRL) methods have been the dominant paradigm in continuous control tasks due to their efficacy in function approximation, while interpretable evolutionary methods have lagged largely behind for the opposite…",
+          "authors": "Bryce MacInnis, Malcolm I. Heywood"
         },
         {
-          "title": "The forces at hand: social learning is permissive, not instructive, for the evolution of phenotypic plasticity",
-          "url": "https://arxiv.org/abs/2611.10986",
-          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "title": "Reconstructing Boundary Layer Wind Profiles with Machine Learning: A Comparative Study on IGRA Radiosonde Data",
+          "url": "https://arxiv.org/abs/2611.13359",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Evolution can favour a trait for two reasons: an instructive cause makes selection favour the trait; a permissive one lets it persist once selection no longer removes it. The distinction matters most for phenotypic plasticity and its…",
-          "authors": "Nam H. Le"
+          "summary": "Wind profiles in the atmospheric boundary layer (ABL) drive short-range forecasting and wind-energy siting, yet sparse radiosonde coverage forces practitioners to interpolate them from a handful of physical predictors. We benchmark modern…",
+          "authors": "Fedor Buzaev (HSE University), Dmitry Efremenko (HSE University), Daria Pugacheva (HSE University, Generalizable AI Systems), Fedor Ratnikov (HSE University), Egor Bugaev (HSE University), Vladimir Gordin (HSE University, MIRAI), Denis Derkach (HSE University)"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 6,
       "items": [
         {
-          "title": "An In-Ear Sleep Modulation SoC Featuring a CNN-LSTM Accelerator with Long-Kernel Memory Reuse and Runtime Dynamic Quantization",
-          "url": "https://arxiv.org/abs/2611.11103",
-          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "title": "ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models",
+          "url": "https://arxiv.org/abs/2611.14035",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "This work presents a 65 nm SoC for closed-loop in-ear sleep modulation. The SoC performs low-noise in-ear EEG sensing, CNN-LSTM-based sleep stage classification, and phase-specific auditory stimulation under 1 mW. A dedicated accelerator…",
-          "authors": "Yaqian Xu, Xinyu Chen, Yuhan Hou, Jianxiong Xu, Hao You, Yu Huang, Bowen Liu, Ashley Hung, Andrew G. Richardson, Roman Genov, Xilin Liu"
+          "summary": "Foundation models pre-trained on large unlabeled electroencephalography (EEG) corpora have emerged as a transformative paradigm for Brain-Computer Interface (BCI) applications. Recent EEG foundation models have shown that multi-scale…",
+          "authors": "Minyu Zhou, Yajing Wu, Yongqiang Tang, Wang Jia, Wensheng Zhang"
         },
         {
-          "title": "Wireless Interference Recognition with Limited Data via Utilizing Diffusion Model",
-          "url": "https://arxiv.org/abs/2611.10568",
-          "publishedDate": "Tue, 10 Nov 2026 00:00:00 -0500",
+          "title": "Residual-Closed-Loop SAGE-Brent Estimation for Unknown-Order Wideband Underwater Acoustic Channels",
+          "url": "https://arxiv.org/abs/2611.13699",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Accurate recognition of interference signals is essential for maintaining the reliability and security of modern wireless communication systems. However, existing approaches face several significant challenges: the high cost and the…",
-          "authors": "Rui Wang, Tong Li, Chanchan Zhu, Shaolong Gu, Zhu Xiao"
+          "summary": "Grid mismatch in wideband channel estimation leaves structured cancellation residuals after strong-path subtraction. These residuals generate spurious correlation peaks or mask weak arrivals, turning continuous parameter errors into…",
+          "authors": "Wenxu Bi, Peng Chen, Wei Wang"
+        },
+        {
+          "title": "Dual-Parabola Interpolator: A Low-Bias Peak Estimator for Distributed Radar Synchronization",
+          "url": "https://arxiv.org/abs/2611.14225",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Coherent distributed radar processing requires accurate wireless synchronization. Two-way time transfer (TWTT) obtains reception timestamps from sampled matched-filter peaks, but interpolation bias limits accuracy even when noise is…",
+          "authors": "Matteo Pardi, Giulio Meucci, Francesco Mancuso, Anna Lisa Saverino, Amerigo Capria"
+        },
+        {
+          "title": "Thickness-Field-Excited Bimorph Piezoelectric Micromachined Ultrasonic Transducer in Submicrometer Thin-Film Lithium Niobate",
+          "url": "https://arxiv.org/abs/2611.13300",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "This work presents the first demonstration of a submicrometer-thick thickness-field-excited (TFE) lithium niobate (LN) flexural-mode piezoelectric micromachined ultrasonic transducer (PMUT). A 670-nm-thick bilayer periodically poled…",
+          "authors": "Vakhtang Chulukhadze, Jiajun Huang, Zihuan Liu, Will Leskowitz, Tzu-Hsuan Hsu, Yuchen Ma, Udit Rawat, Yao Yu, Bichoy Bahr, Neal A. Hall, Ruochen Lu"
+        },
+        {
+          "title": "RaGCD: Reliability-Aware 2D-3D Multimodal Generalized Category Discovery",
+          "url": "https://arxiv.org/abs/2611.13827",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Generalized Category Discovery (GCD) aims to recognize known categories while discovering novel ones from partially labeled data. Existing GCD studies primarily focus on unimodal observations or image-text interactions, leaving the…",
+          "authors": "Junyong Liu"
+        },
+        {
+          "title": "Mixed Signals: Weight-Space Programming for EEG and ECG",
+          "url": "https://arxiv.org/abs/2611.13758",
+          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Weight-space programming allows language models to read a trained neural network's weights and edit them. This opens the door to ``training'' by reasoning rather than through gradient descent. Prior work has demonstrated its functionality…",
+          "authors": "Dara Varam, Taraneh Aminosharieh Najafi, David Atienza"
         }
       ]
     }

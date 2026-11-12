@@ -1,5 +1,35 @@
 [
   {
+    "generatedAt": "2026-11-12T03:19:12.358Z",
+    "date": "2026-11-12",
+    "topic": "ブレイン・コンピュータ・インターフェース(BCI)と表現学習",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models",
+    "paperLink": "https://arxiv.org/abs/2611.14035",
+    "figureUrl": "https://arxiv.org/html/2611.14035/2611.14035v1/motivation.png",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\nブレイン・コンピュータ・インターフェース(BCI)と表現学習に関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 EEG × ブレイン・コンピュータ・インターフェース(BCI) × 表現学習 × 注意機構\n\n📊 注目すべきデータ：\n→ Extensive evaluations on six public BCI benchmarks against 12 representative baselines show that ScaleBrain achieves the highest mean Balanced Accuracy on five datasets and ranks...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\nBCI・ニューラルインターフェースの知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models\n🔗 https://arxiv.org/abs/2611.14035\n\n---\n\nこの研究の次の展開、あなたはどう予測しますか？\n\n#Neuroscience #BCI #脳科学 #ComputationalNeuroscience #DeepLearning",
+    "summaryJP": "ブレイン・コンピュータ・インターフェース(BCI)と表現学習 — 脳科学とAIをつなぐ研究（BCI・ニューラルインターフェース）",
+    "paperAuthors": "Minyu Zhou, Yajing Wu, Yongqiang Tang, Wang Jia, Wensheng Zhang",
+    "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
+    "paperId": "2611.14035",
+    "paperSource": "arxiv",
+    "themeArea": "BCI・ニューラルインターフェース",
+    "jpKeywords": [
+      "EEG",
+      "ブレイン・コンピュータ・インターフェース(BCI)",
+      "表現学習",
+      "注意機構",
+      "学習"
+    ],
+    "abstractExcerpt": "Foundation models pre-trained on large unlabeled electroencephalography (EEG) corpora have emerged as a transformative paradigm for Brain-Computer Interface (BCI) applications. Recent EEG foundation models have shown that multi-scale…",
+    "figureUrls": [
+      "https://arxiv.org/html/2611.14035/2611.14035v1/motivation.png",
+      "https://arxiv.org/html/2611.14035/2611.14035v1/framework.png",
+      "https://arxiv.org/html/2611.14035/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="
+    ]
+  },
+  {
     "generatedAt": "2026-11-11T02:13:04.275Z",
     "date": "2026-11-11",
     "topic": "記憶",
@@ -1227,29 +1257,5 @@
       "https://arxiv.org/html/2604.15374/2604.15374v2/figures_imagery/retrieval_tether.png",
       "https://arxiv.org/html/2604.15374/2604.15374v2/new_best_comparison.png"
     ]
-  },
-  {
-    "generatedAt": "2026-09-23T00:54:05.811Z",
-    "date": "2026-09-23",
-    "topic": "予測符号化と学習",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Meta-Representational Predictive Coding: Neuroscience-Informed Self-Supervised Learning",
-    "paperLink": "https://arxiv.org/abs/2503.21796",
-    "formatted": "脳科学の最前線から、衝撃の一報です。\n\nこの研究から得られる3つの重要な示唆。\n\n予測符号化と学習の最新成果を整理しました。\n\n🔬 予測符号化 × 学習 × 計算論的神経科学 × 生物学的妥当性\n\n> Self-supervised learning has become an important paradigm in the domains of machine intelligence and computational neuroscience. Nevertheless, current work on self-supervised learning (SSL) relies on biologically implausible credit assignment, i.e., backpropagation of errors,...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Meta-Representational Predictive Coding: Neuroscience-Informed Self-Supervised Learning\n🔗 https://arxiv.org/abs/2503.21796\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #NeuralDecoding",
-    "summaryJP": "予測符号化と学習 — 注目すべき3つの示唆（ニューロAI・計算論）",
-    "paperAuthors": "Alexander Ororbia, Karl Friston, Rajesh P. N. Rao",
-    "publishedDate": "Tue, 22 Sep 2026 00:00:00 -0400",
-    "paperId": "2503.21796",
-    "paperSource": "arxiv",
-    "themeArea": "ニューロAI・計算論",
-    "jpKeywords": [
-      "予測符号化",
-      "学習",
-      "計算論的神経科学",
-      "生物学的妥当性"
-    ],
-    "abstractExcerpt": "Self-supervised learning has become an important paradigm in the domains of machine intelligence and computational neuroscience. Nevertheless, current work on self-supervised learning (SSL) relies on biologically implausible credit…",
-    "figureUrls": []
   }
 ]
