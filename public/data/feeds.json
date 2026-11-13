@@ -1,67 +1,42 @@
 {
-  "generatedAt": "2026-11-12T03:19:12.980Z",
+  "generatedAt": "2026-11-13T02:52:59.113Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "A probabilistic model of visual segmentation explains early visual cortical dynamics",
-          "url": "https://arxiv.org/abs/2611.13316",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Neural dynamics are a central feature of biological neural systems. In the visual cortex, the functional role of neural dynamics is poorly understood, particularly for static stimuli. The statistics of still natural images have long been…",
-          "authors": "Tridib K. Biswas, Ruben Coen-Cagli"
-        },
-        {
-          "title": "Human and Machine Annotations Predict Brain Responses to Naturalistic Movies Across Development",
-          "url": "https://arxiv.org/abs/2611.13637",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Naturalistic movie watching provides a powerful framework for studying dynamic brain function, but linking movie content to neural responses typically relies on labor-intensive human annotation. We investigated whether multimodal large…",
-          "authors": "Yiran Huang, Zeyong Zhang, Rounak Rahman, Bharat Biswal, Xin Di, Mengjia Xu"
-        },
-        {
-          "title": "Similar visual tuning conceals different recovery dynamics in a model of macaque V1",
-          "url": "https://arxiv.org/abs/2611.13692",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Biologically detailed neuronal networks can model how brain circuits perform observed functions, but their high computational cost limits the comparisons needed to test biological hypotheses. To address this limitation, we extend a…",
-          "authors": "Xialei Huang, Qingyu Yan, Zheng Bian, Zhuo-Cheng Xiao"
-        },
-        {
-          "title": "Neuromodulation Through Intrinsic Noise",
-          "url": "https://arxiv.org/abs/2611.13780",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Neuromodulation, the modulation of excitability through the regulation of neuronal parameters, is a key tool in neuromorphic control design. This paper investigates how spiking excitability can be modulated by intrinsic noise. Focusing on…",
-          "authors": "Sunghyun Koo, Jin Gyu Lee, Rodolphe Sepulchre"
-        },
-        {
-          "title": "Optimization principles, revisited",
-          "url": "https://arxiv.org/abs/2611.14381",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "The brain solves a wide range of problems, and some of these solutions are very good indeed. It is an old idea that, in some cases, these solutions may be as good as possible given the relevant constraints. If this is true we can promote…",
-          "authors": "William Bialek"
-        },
-        {
-          "title": "Grey matter sublayer thickness estimation in themouse cerebellum",
-          "url": "https://arxiv.org/abs/1901.02499",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "The cerebellar grey matter morphology is an important feature to study neurodegenerative diseases such as Alzheimer's disease or Down's syndrome. Its volume or thickness is commonly used as a surrogate imaging biomarker for such diseases.…",
-          "authors": "Da Ma, Manuel J. Cardoso, Maria A. Zuluaga, Marc Modat, Nick. Powell, Frances Wiseman, Victor Tybulewicz, Elizabeth Fisher, Mark. F. Lythgoe, Sebastien Ourselin"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Experts update prostate cancer screening guidelines for men",
+          "url": "https://www.statnews.com/2026/11/12/health-news-experts-update-prostate-cancer-screening-guidelines-for-men/?utm_campaign=rss",
+          "publishedDate": "Thu, 12 Nov 2026 12:32:57 +0000",
+          "source": "statnews.com",
+          "summary": "Are you an American man between 50 and 69? You might want to get checked for prostate cancer, ACS says in reversal of previous guidelines.",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "American Cancer Society revises guidelines, urges routine PSA screening for prostate cancer",
+          "url": "https://www.statnews.com/2026/11/12/prostate-cancer-screening-guidelines-updated-acs/?utm_campaign=rss",
+          "publishedDate": "Thu, 12 Nov 2026 12:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "The American Cancer Society recommended routine PSA screening for prostate cancer, changing guidelines in place since 2010.",
+          "authors": "Annalisa Merelli"
+        },
+        {
+          "title": "Newly elected doctors and scientists hope to restore trust in science. It won&#8217;t be easy",
+          "url": "https://www.statnews.com/2026/11/12/trust-in-science-physician-lawmakers-rebuild-belief/?utm_campaign=rss",
+          "publishedDate": "Thu, 12 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Scores of doctors and scientists were elected last week. Will trust in science follow?",
+          "authors": "Nicholas Florko"
+        },
         {
           "title": "All of Us study finds thousands of new genetic variants affecting drug responses",
           "url": "https://www.statnews.com/2026/11/11/all-of-us-study-finds-gene-variants-drug-responses/?utm_campaign=rss",
@@ -85,30 +60,6 @@
           "source": "statnews.com",
           "summary": "A regional WHO body will hold a four-day meeting determining whether the U.S. has maintained measles elimination. All signs point to no:",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: Doctors on Kennedy’s influential preventive care panel have major conflicts of interest, filings reveal",
-          "url": "https://www.statnews.com/2026/11/11/kennedy-hhs-preventive-care-panel-conflict-interest-waivers/?utm_campaign=rss",
-          "publishedDate": "Wed, 11 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Federal health officials granted blanket ethics waivers to USPSTF panel members, some of whom own pharma stocks and private medical practices.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Why this year’s flu season could be hitting teens and young adults hard",
-          "url": "https://www.statnews.com/2026/11/10/health-news-why-flu-season-could-hit-teens-and-young-adults-hard/?utm_campaign=rss",
-          "publishedDate": "Tue, 10 Nov 2026 12:49:35 +0000",
-          "source": "statnews.com",
-          "summary": "At least 1.7 million cases of flu have been reported so far this year. Here's what experts are expecting for the rest of flu season:",
-          "authors": "Amanda Erickson"
-        },
-        {
-          "title": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke",
-          "url": "https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss",
-          "publishedDate": "Mon, 09 Nov 2026 22:28:43 +0000",
-          "source": "statnews.com",
-          "summary": "Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding.",
-          "authors": "Elaine Chen and Elizabeth Cooney"
         }
       ]
     },
@@ -118,51 +69,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: Cassidy sets key vote on Overton, even as he remains undecided on nominee to lead FDA",
-          "url": "https://www.statnews.com/2026/11/11/fda-commissioner-nominee-heidi-overton-senate-committee-vote/?utm_campaign=rss",
-          "publishedDate": "Wed, 11 Nov 2026 15:07:28 +0000",
+          "title": "STAT+: Will Heidi Overton get to run the FDA?",
+          "url": "https://www.statnews.com/2026/11/12/will-heidi-overton-be-confirmed-fda-commissioner-dc-diagnosis/?utm_campaign=rss",
+          "publishedDate": "Thu, 12 Nov 2026 15:38:37 +0000",
           "source": "statnews.com",
-          "summary": "Cassidy said he and other GOP lawmakers are undecided on Heidi Overton to lead the FDA.",
-          "authors": "Margaret Manto"
+          "summary": "Does Heidi Overton have the votes ? And how will Dems take on RFK Jr.?",
+          "authors": "John Wilkerson"
         },
         {
-          "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
-          "publishedDate": "Wed, 11 Nov 2026 08:10:51 EST",
+          "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
+          "publishedDate": "Thu, 12 Nov 2026 04:34:53 EST",
           "source": "sciencedaily.com",
-          "summary": "A new study found that energy drinks and stimulant supplements were linked to disproportionately frequent reports of serious heart problems, including 11 times more reports of cardiac arrest and 4.5 times more reports of heart attacks.…",
+          "summary": "An NIH study found that women with high levels of two common “forever chemicals” had up to 93% higher rates of an aggressive form of breast cancer. The discovery raises concerns about the potential health effects of persistent chemicals…",
           "authors": ""
         },
         {
-          "title": "Obesity linked to up to 27% lower risk of death in dementia",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261109205401.htm",
-          "publishedDate": "Wed, 11 Nov 2026 07:59:57 EST",
-          "source": "sciencedaily.com",
-          "summary": "A surprising study of more than 4,500 older adults found that people who were overweight or obese when diagnosed with dementia had a 16% to 27% lower risk of death than those at a normal weight. Researchers suspect that extra energy and…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists find deadly virus DNA hidden in 1,000-year-old manuscripts",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261106174545.htm",
-          "publishedDate": "Wed, 11 Nov 2026 07:10:47 EST",
-          "source": "sciencedaily.com",
-          "summary": "Ancient manuscripts, including the 1,000-year-old York Gospels, have revealed traces of a deadly sheep virus whose history stretches back more than 3,700 years. Scientists discovered that the virus has remained remarkably unchanged for…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Doctors on Kennedy’s influential preventive care panel have major conflicts of interest, filings reveal",
-          "url": "https://www.statnews.com/2026/11/11/kennedy-hhs-preventive-care-panel-conflict-interest-waivers/?utm_campaign=rss",
-          "publishedDate": "Wed, 11 Nov 2026 09:30:00 +0000",
+          "title": "Newly elected doctors and scientists hope to restore trust in science. It won&#8217;t be easy",
+          "url": "https://www.statnews.com/2026/11/12/trust-in-science-physician-lawmakers-rebuild-belief/?utm_campaign=rss",
+          "publishedDate": "Thu, 12 Nov 2026 09:30:00 +0000",
           "source": "statnews.com",
-          "summary": "Federal health officials granted blanket ethics waivers to USPSTF panel members, some of whom own pharma stocks and private medical practices.",
-          "authors": "Chelsea Cirruzzo"
+          "summary": "Scores of doctors and scientists were elected last week. Will trust in science follow?",
+          "authors": "Nicholas Florko"
         },
         {
-          "title": "Cancer-fighting chewing gum slashes HPV levels by up to 93%",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261108203832.htm",
-          "publishedDate": "Tue, 10 Nov 2026 23:27:12 EST",
+          "title": "Opinion: 3 things new governors must do to lead on health",
+          "url": "https://www.statnews.com/2026/11/12/new-governors-2027-health-priorities-agenda/?utm_campaign=rss",
+          "publishedDate": "Thu, 12 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "“On day one, governors should know kindergarten vaccination rates by county,” write Mandy Cohen and Ellen Montz.",
+          "authors": "Mandy Cohen and Ellen Montz"
+        },
+        {
+          "title": "Scientists discover a common sugar may help cancer cells break free and spread",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
+          "publishedDate": "Wed, 11 Nov 2026 23:39:31 EST",
           "source": "sciencedaily.com",
-          "summary": "A surprising new weapon against microbes linked to head and neck cancer could be as simple as chewing gum. Scientists developed a bioengineered gum that reduced HPV levels by up to 93% in oral samples from cancer patients and nearly…",
+          "summary": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy release fructose…",
+          "authors": ""
+        },
+        {
+          "title": "Walking and weight training may not be enough to keep your bones strong",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
+          "publishedDate": "Wed, 11 Nov 2026 19:10:23 EST",
+          "source": "sciencedaily.com",
+          "summary": "A surprising new study suggests that walking, jogging, and even traditional weight training may be less effective at stimulating bone formation than high-intensity sports involving explosive movements and sudden changes in direction.…",
           "authors": ""
         }
       ]
@@ -170,57 +121,8 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "A Functional Preservation Score for Auditing Connectome Operations: Compression, Alignment, Transport, and Local-Rule Writing",
-          "url": "https://arxiv.org/abs/2611.13681",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "We introduce the Functional Preservation Score (FPS), a null-normalised, behaviourally grounded measure of how much of a neural network's input-output function survives a structural operation, and use it to audit the operations underlying…",
-          "authors": "Praveg Vashishtha"
-        },
-        {
-          "title": "Oscillatory Processing Units as a computing substrate for biomimetic intelligence",
-          "url": "https://arxiv.org/abs/2611.13840",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Biological intelligence emerges from neural activity that connects sensation, memory and action. Synaptic plasticity, neuronal assemblies and oscillations provide principles for biomimetic computing, but translating them into reusable…",
-          "authors": "Alexander A. Wolf"
-        },
-        {
-          "title": "Tailoring Optimization Approaches with Domain Knowledge in Industry Process for Meta-heuristic Development",
-          "url": "https://arxiv.org/abs/2611.13940",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "The paper presents an Industry Process for Meta-heuristic Development (IPMD) schema, a systematic methodology for applying meta- and hyper-heuristic applications to optimization problems. In this context, we present a case study of…",
-          "authors": "Jakub Cebula, Konrad Gmyrek, Paweł B. Myszkowski, Marko \\DJurasević, Łukasz P. Olech, Adam Paliszek-Saładyga"
-        },
-        {
-          "title": "An ensemble of graph generative models for assisted history matching of the Brugge field case",
-          "url": "https://arxiv.org/abs/2611.12927",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Assisted history matching remains non-unique because many geological realisations can reproduce equivalent production responses with substantial differences between individual well matches. This ambiguity increases when a field comprises…",
-          "authors": "Gleb Shishaev, Anton Shirokov, Shadfar Davoodi, Mohammed Al-Shargabi, Vasily Demyanov, Daniel Arnold"
-        },
-        {
-          "title": "Making Strides in Symbolic Imitation Learning: Offline Demonstrations, Online Tuning",
-          "url": "https://arxiv.org/abs/2611.13182",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Deep reinforcement learning (DRL) methods have been the dominant paradigm in continuous control tasks due to their efficacy in function approximation, while interpretable evolutionary methods have lagged largely behind for the opposite…",
-          "authors": "Bryce MacInnis, Malcolm I. Heywood"
-        },
-        {
-          "title": "Reconstructing Boundary Layer Wind Profiles with Machine Learning: A Comparative Study on IGRA Radiosonde Data",
-          "url": "https://arxiv.org/abs/2611.13359",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Wind profiles in the atmospheric boundary layer (ABL) drive short-range forecasting and wind-energy siting, yet sparse radiosonde coverage forces practitioners to interpolate them from a handful of physical predictors. We benchmark modern…",
-          "authors": "Fedor Buzaev (HSE University), Dmitry Efremenko (HSE University), Daria Pugacheva (HSE University, Generalizable AI Systems), Fedor Ratnikov (HSE University), Egor Bugaev (HSE University), Vladimir Gordin (HSE University, MIRAI), Denis Derkach (HSE University)"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
@@ -228,52 +130,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models",
-          "url": "https://arxiv.org/abs/2611.14035",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Foundation models pre-trained on large unlabeled electroencephalography (EEG) corpora have emerged as a transformative paradigm for Brain-Computer Interface (BCI) applications. Recent EEG foundation models have shown that multi-scale…",
-          "authors": "Minyu Zhou, Yajing Wu, Yongqiang Tang, Wang Jia, Wensheng Zhang"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
         },
         {
-          "title": "Residual-Closed-Loop SAGE-Brent Estimation for Unknown-Order Wideband Underwater Acoustic Channels",
-          "url": "https://arxiv.org/abs/2611.13699",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Grid mismatch in wideband channel estimation leaves structured cancellation residuals after strong-path subtraction. These residuals generate spurious correlation peaks or mask weak arrivals, turning continuous parameter errors into…",
-          "authors": "Wenxu Bi, Peng Chen, Wei Wang"
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
         },
         {
-          "title": "Dual-Parabola Interpolator: A Low-Bias Peak Estimator for Distributed Radar Synchronization",
-          "url": "https://arxiv.org/abs/2611.14225",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Coherent distributed radar processing requires accurate wireless synchronization. Two-way time transfer (TWTT) obtains reception timestamps from sampled matched-filter peaks, but interpolation bias limits accuracy even when noise is…",
-          "authors": "Matteo Pardi, Giulio Meucci, Francesco Mancuso, Anna Lisa Saverino, Amerigo Capria"
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
         },
         {
-          "title": "Thickness-Field-Excited Bimorph Piezoelectric Micromachined Ultrasonic Transducer in Submicrometer Thin-Film Lithium Niobate",
-          "url": "https://arxiv.org/abs/2611.13300",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "This work presents the first demonstration of a submicrometer-thick thickness-field-excited (TFE) lithium niobate (LN) flexural-mode piezoelectric micromachined ultrasonic transducer (PMUT). A 670-nm-thick bilayer periodically poled…",
-          "authors": "Vakhtang Chulukhadze, Jiajun Huang, Zihuan Liu, Will Leskowitz, Tzu-Hsuan Hsu, Yuchen Ma, Udit Rawat, Yao Yu, Bichoy Bahr, Neal A. Hall, Ruochen Lu"
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
         },
         {
-          "title": "RaGCD: Reliability-Aware 2D-3D Multimodal Generalized Category Discovery",
-          "url": "https://arxiv.org/abs/2611.13827",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Generalized Category Discovery (GCD) aims to recognize known categories while discovering novel ones from partially labeled data. Existing GCD studies primarily focus on unimodal observations or image-text interactions, leaving the…",
-          "authors": "Junyong Liu"
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
         },
         {
-          "title": "Mixed Signals: Weight-Space Programming for EEG and ECG",
-          "url": "https://arxiv.org/abs/2611.13758",
-          "publishedDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Weight-space programming allows language models to read a trained neural network's weights and edit them. This opens the door to ``training'' by reasoning rather than through gradient descent. Prior work has demonstrated its functionality…",
-          "authors": "Dara Varam, Taraneh Aminosharieh Najafi, David Atienza"
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }
