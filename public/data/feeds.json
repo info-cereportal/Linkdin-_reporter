@@ -1,12 +1,61 @@
 {
-  "generatedAt": "2026-11-13T02:52:59.113Z",
+  "generatedAt": "2026-11-14T02:40:09.963Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Mind-wandering preserves word-level coupling while disrupting comprehension",
+          "url": "https://arxiv.org/abs/2611.14814",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Readers can move their eyes through a page but retain little of its meaning when their minds wander. We tested whether word properties still guide their eyes during these lapses. We analyzed public eye-tracking and electroencephalography…",
+          "authors": "Anirudh Natarajan, Paul Sajda"
+        },
+        {
+          "title": "Same currents, different field: $\\Delta f = 0$ carrier-only stimulation is not temporal interference without the beat",
+          "url": "https://arxiv.org/abs/2611.14839",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Carrier-only stimulation ($\\Delta f = 0$) is generally considered the most rigorous control for temporal interference (TI) stimulation, assumed to reproduce TI's kilohertz carrier field without its low-frequency beat. We show that this…",
+          "authors": "Ido Haber, Giulio Tononi, Larissa Albantakis"
+        },
+        {
+          "title": "Prototypes of the Mind: A Unified Framework for Probing the Visual Brain",
+          "url": "https://arxiv.org/abs/2611.15046",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Deep learning has driven substantial progress in modeling fMRI responses, yet most existing approaches are optimized for a single objective---such as neural encoding, stimulus decoding, or post hoc interpretation---making it difficult to…",
+          "authors": "Shi Chen, Seoyoung Ahn, Doris Tsao"
+        },
+        {
+          "title": "Analysis choices decide whether untrained networks beat trained ones at V1: a multiverse analysis of model-brain RSA",
+          "url": "https://arxiv.org/abs/2611.15533",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Untrained convolutional networks have been reported to rival trained networks as models of visual cortex, and we had reported an untrained-network advantage over backpropagation at V1 in THINGS fMRI, together with a dependence on…",
+          "authors": "Nils Leutenegger"
+        },
+        {
+          "title": "Optogenetic Modulation Fraction: A Robust Opsin-Presence Effect and an Unresolved Cell-Type Question, by Censoring-Aware Survival Analysis of Public Neuropixels Data",
+          "url": "https://arxiv.org/abs/2611.15606",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Expressing channelrhodopsin-2 (ChR2) in an interneuron population substantially raises the fraction of locally recorded units whose spike timing is altered by light, relative to no-opsin controls, under every method tried. Establishing…",
+          "authors": "Siddhardha Nanda"
+        },
+        {
+          "title": "Pyramidal Columns Acting as Attention Heads",
+          "url": "https://arxiv.org/abs/2611.16057",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Can the functional architecture of a Transformer attention head be given a biological construction? More specifically, could a suitable group of pyramidal columns in posterior temporal language regions (PTLRs) constitute the biological…",
+          "authors": "Fabrizia Giulia Garavaglia, Marco Giunti"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -14,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Experts update prostate cancer screening guidelines for men",
-          "url": "https://www.statnews.com/2026/11/12/health-news-experts-update-prostate-cancer-screening-guidelines-for-men/?utm_campaign=rss",
-          "publishedDate": "Thu, 12 Nov 2026 12:32:57 +0000",
+          "title": "New addiction society guidance on medetomidine’s brutal withdrawal",
+          "url": "https://www.statnews.com/2026/11/13/medetomidine-withdrawal-asam-new-treatment-guidance/?utm_campaign=rss",
+          "publishedDate": "Fri, 13 Nov 2026 20:45:42 +0000",
           "source": "statnews.com",
-          "summary": "Are you an American man between 50 and 69? You might want to get checked for prostate cancer, ACS says in reversal of previous guidelines.",
-          "authors": "O. Rose Broderick"
-        },
-        {
-          "title": "American Cancer Society revises guidelines, urges routine PSA screening for prostate cancer",
-          "url": "https://www.statnews.com/2026/11/12/prostate-cancer-screening-guidelines-updated-acs/?utm_campaign=rss",
-          "publishedDate": "Thu, 12 Nov 2026 12:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "The American Cancer Society recommended routine PSA screening for prostate cancer, changing guidelines in place since 2010.",
-          "authors": "Annalisa Merelli"
-        },
-        {
-          "title": "Newly elected doctors and scientists hope to restore trust in science. It won&#8217;t be easy",
-          "url": "https://www.statnews.com/2026/11/12/trust-in-science-physician-lawmakers-rebuild-belief/?utm_campaign=rss",
-          "publishedDate": "Thu, 12 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Scores of doctors and scientists were elected last week. Will trust in science follow?",
-          "authors": "Nicholas Florko"
-        },
-        {
-          "title": "All of Us study finds thousands of new genetic variants affecting drug responses",
-          "url": "https://www.statnews.com/2026/11/11/all-of-us-study-finds-gene-variants-drug-responses/?utm_campaign=rss",
-          "publishedDate": "Wed, 11 Nov 2026 21:37:27 +0000",
-          "source": "statnews.com",
-          "summary": "A study of nearly 100,000 diverse Americans identified thousands of new variants in genes that influence our responses to prescription drugs",
-          "authors": "Anil Oza"
-        },
-        {
-          "title": "STAT+: BMI alternative would flip obesity diagnosis for millions, study finds",
-          "url": "https://www.statnews.com/2026/11/11/obesity-diagnosis-bmi-lancet-commission-proposal-impact/?utm_campaign=rss",
-          "publishedDate": "Wed, 11 Nov 2026 16:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "A newly proposed way of identifying obesity could flip the diagnoses of millions of people. Proponents argue it could lead to more precise care.",
-          "authors": "Andrew Joseph"
-        },
-        {
-          "title": "The U.S. may soon lose measles elimination status",
-          "url": "https://www.statnews.com/2026/11/11/health-news-us-may-soon-lose-measles-elimination-status/?utm_campaign=rss",
-          "publishedDate": "Wed, 11 Nov 2026 12:56:13 +0000",
-          "source": "statnews.com",
-          "summary": "A regional WHO body will hold a four-day meeting determining whether the U.S. has maintained measles elimination. All signs point to no:",
+          "summary": "The American Society of Addiction Medicine has released the first national guidance for recognizing and treating patients who have taken medetomidine.",
           "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "Opinion: New organ donation rules are unfair to families",
+          "url": "https://www.statnews.com/2026/11/13/organ-donation-policy-life-sustaining-treatment-brain-death/?utm_campaign=rss",
+          "publishedDate": "Fri, 13 Nov 2026 14:59:54 +0000",
+          "source": "statnews.com",
+          "summary": "New organ donation rules may “blur the line between the physicians fighting to save a patient's life and the teams responsible for organ procurement.”",
+          "authors": "Tarvez Tucker"
+        },
+        {
+          "title": "Brain implant startup pauses trials",
+          "url": "https://www.statnews.com/2026/11/13/health-news-brain-implant-startup-pauses-trials/?utm_campaign=rss",
+          "publishedDate": "Fri, 13 Nov 2026 14:40:32 +0000",
+          "source": "statnews.com",
+          "summary": "Synchron has paused clinical trials of its second-generation brain-computer interface. Leaders say the pause is not safety related.",
+          "authors": "Annalisa Merelli and O. Rose Broderick"
+        },
+        {
+          "title": "STAT+: Senators introduce bill to curb conflicts of interest on preventive care panel",
+          "url": "https://www.statnews.com/2026/11/13/uspstf-preventive-care-panel-senators-target-conflicts-of-interest/?utm_campaign=rss",
+          "publishedDate": "Fri, 13 Nov 2026 14:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "Some of the panel's members could benefit financially from the decisions they make, STAT's reporting showed.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "Across the U.S., homegrown experiments aim to save kids from their phones",
+          "url": "https://www.statnews.com/2026/11/13/phone-addiction-young-people-fight-back-attention-activism/?utm_campaign=rss",
+          "publishedDate": "Fri, 13 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "As researchers struggle to understand phone addiction, young people are finding ways to reclaim their attention and push back against Big Tech.",
+          "authors": "Isabella Cueto"
+        },
+        {
+          "title": "5 takeaways from STAT&#8217;s investigation of the sprawling ‘three-parent IVF’ industry",
+          "url": "https://www.statnews.com/2026/11/13/fertility-tourism-5-takeaways-mrt-investigation/?utm_campaign=rss",
+          "publishedDate": "Fri, 13 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "A STAT investigation of the fertility tourism industry found that clinics are offering an unproven IVF procedure to older women. Here are 5 takeaways from the investigation.",
+          "authors": "Megan Molteni"
         }
       ]
     },
@@ -69,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: Will Heidi Overton get to run the FDA?",
-          "url": "https://www.statnews.com/2026/11/12/will-heidi-overton-be-confirmed-fda-commissioner-dc-diagnosis/?utm_campaign=rss",
-          "publishedDate": "Thu, 12 Nov 2026 15:38:37 +0000",
+          "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
+          "url": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
+          "publishedDate": "Fri, 13 Nov 2026 22:21:56 +0000",
           "source": "statnews.com",
-          "summary": "Does Heidi Overton have the votes ? And how will Dems take on RFK Jr.?",
+          "summary": "Enforcement of the Trump administration's stringent new Medicaid work requirements have been delayed for six months, until July 1, 2027.",
           "authors": "John Wilkerson"
         },
         {
-          "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
-          "publishedDate": "Thu, 12 Nov 2026 04:34:53 EST",
+          "title": "STAT+: Democrats coalesce around &#8216;Medicare for More,&#8217; &#8216;Medikids&#8217; proposals",
+          "url": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/?utm_campaign=rss",
+          "publishedDate": "Fri, 13 Nov 2026 21:46:05 +0000",
+          "source": "statnews.com",
+          "summary": "Democrats are coalescing around a plan to offer Medicare to more Americans, if not all of them.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "STAT+: Senators introduce bill to curb conflicts of interest on preventive care panel",
+          "url": "https://www.statnews.com/2026/11/13/uspstf-preventive-care-panel-senators-target-conflicts-of-interest/?utm_campaign=rss",
+          "publishedDate": "Fri, 13 Nov 2026 14:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "Some of the panel's members could benefit financially from the decisions they make, STAT's reporting showed.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
+          "publishedDate": "Fri, 13 Nov 2026 07:55:11 EST",
           "source": "sciencedaily.com",
-          "summary": "An NIH study found that women with high levels of two common “forever chemicals” had up to 93% higher rates of an aggressive form of breast cancer. The discovery raises concerns about the potential health effects of persistent chemicals…",
+          "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and…",
           "authors": ""
         },
         {
-          "title": "Newly elected doctors and scientists hope to restore trust in science. It won&#8217;t be easy",
-          "url": "https://www.statnews.com/2026/11/12/trust-in-science-physician-lawmakers-rebuild-belief/?utm_campaign=rss",
-          "publishedDate": "Thu, 12 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "Scores of doctors and scientists were elected last week. Will trust in science follow?",
-          "authors": "Nicholas Florko"
-        },
-        {
-          "title": "Opinion: 3 things new governors must do to lead on health",
-          "url": "https://www.statnews.com/2026/11/12/new-governors-2027-health-priorities-agenda/?utm_campaign=rss",
-          "publishedDate": "Thu, 12 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "“On day one, governors should know kindergarten vaccination rates by county,” write Mandy Cohen and Ellen Montz.",
-          "authors": "Mandy Cohen and Ellen Montz"
-        },
-        {
-          "title": "Scientists discover a common sugar may help cancer cells break free and spread",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
-          "publishedDate": "Wed, 11 Nov 2026 23:39:31 EST",
+          "title": "Study of 750,000 pregnancies reveals a surprising twist about Ozempic and Wegovy",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111005911.htm",
+          "publishedDate": "Fri, 13 Nov 2026 07:48:10 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy release fructose…",
+          "summary": "A study of more than 750,000 pregnancies found that early exposure to Ozempic, Wegovy, and similar drugs was not linked to increased pregnancy complications when used for weight loss, but was associated with a higher risk of premature…",
           "authors": ""
         },
         {
-          "title": "Walking and weight training may not be enough to keep your bones strong",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
-          "publishedDate": "Wed, 11 Nov 2026 19:10:23 EST",
+          "title": "Stopping statins after 70 may be safer than expected, but there&#039;s a catch",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112025534.htm",
+          "publishedDate": "Fri, 13 Nov 2026 07:14:39 EST",
           "source": "sciencedaily.com",
-          "summary": "A surprising new study suggests that walking, jogging, and even traditional weight training may be less effective at stimulating bone formation than high-intensity sports involving explosive movements and sudden changes in direction.…",
+          "summary": "A major study of nearly 1,900 older adults suggests that stopping statins after age 70 may be relatively safe in the short term for people who have never experienced a heart attack or stroke. However, a higher rate of serious…",
           "authors": ""
         }
       ]
@@ -121,61 +170,86 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Galop: Billion-Scale Genetic Programming on a Single GPU",
+          "url": "https://arxiv.org/abs/2611.14665",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Genetic programming (GP) evolves populations of heterogeneous programs, whereas GPUs achieve their highest throughput when groups of threads execute the same instructions. To better align GP evaluation with GPU execution, we present Galop,…",
+          "authors": "Xavier Hill Roy, Stephen Kelly"
+        },
+        {
+          "title": "DeNA-SGN: Deterministic Neighborhood Aggregation for Verified Spiking Graph Inference",
+          "url": "https://arxiv.org/abs/2611.14775",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Graph learning on neuromorphic substrates requires an explicit spiking realization of neighborhood aggregation, supporting control and classification. We propose DeNA-SGN, which combines fixed OR and tie-inclusive Majority aggregation of…",
+          "authors": "Sanjay Das, Xi Zhang, Emily Herron, Prasanna Date"
+        },
+        {
+          "title": "A Multi-Parent Edge Assembly Crossover Driven Hybrid Genetic Algorithm for the Hamiltonian \\textitp-Median Problem",
+          "url": "https://arxiv.org/abs/2611.15219",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "The Hamiltonian \\textitp-median problem seeks to partition the vertices of a graph into exactly $p$ disjoint cycles while minimizing their total cost. This paper presents a hybrid genetic algorithm incorporating a multi-parent edge…",
+          "authors": "Junkai Huang, Pengfei He, Jin-Kao Hao, Xin Yao"
+        },
+        {
+          "title": "Matrix-Based Ant Colony Search with Batched Decoding for Hierarchical Replenishment Routing: A Stylized Case Study Based on Korean City Data",
+          "url": "https://arxiv.org/abs/2611.15338",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "We study a stylized single-vehicle replenishment-routing problem in which the cities of a national logistics network are both demand points and supply points: a vehicle of limited capacity delivers to every city once, and when its load is…",
+          "authors": "Jun Zhang, Wei-Jie Yu, Tong Qian, Eui Jeong Kwak, Sang-Woon Jeon, Hua Ding, Qijia Jiang, Hu Jin, Haewoon Nam, Changjun Zhou"
+        },
+        {
+          "title": "Contour-Assisted Evolutionary Computation: Estimating Peaks From the Contour Lines of Evaluated Solutions",
+          "url": "https://arxiv.org/abs/2611.15641",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Evolutionary algorithms (EAs) evaluate many candidate solutions but use them mainly to rank individuals. This paper treats the evaluated solutions as the spot heights of a topographic survey and draws the contour lines they imply. The…",
+          "authors": "Jun Zhang, Tong Qian, Hua Ding, Zhi-Hui Zhan, Wei-Jie Yu, Jian-Yu Li"
+        },
+        {
+          "title": "A Finite Markov Chain Analysis of the Simplified Swarm Optimisation Update Rule",
+          "url": "https://arxiv.org/abs/2611.16541",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Simplified swarm optimisation (SSO) updates each variable by one draw that copies the global or personal best, keeps the current value or redraws uniformly, with probabilities $c_g$, $c_p$, $c_w$ and $c_r$. As a finite Markov chain under…",
+          "authors": "Wei-Chang Yeh"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 3,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
+          "title": "An Open-Architecture Dual-Core STM32-Based Neural Interface with Low-Latency On-Device AI for Neuromodulation Applications",
+          "url": "https://arxiv.org/abs/2611.15942",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "We present an open-architecture bidirectional neural interface for closed-loop neuromodulation built around a dual-core STM32H747 microcontroller and commercial Intan recording and stimulation front-ends. The system supports up to 128…",
+          "authors": "Sipeng Liang, Kun Cheng, Xiao Wu, Lyu Wang, Savanna Blade, Jiaxi Wei, Ruoheng Wang, Zhecheng Yin, Johnson Song, Tristan J. Lawson, Alisha Baldwin, Muhammad Shan Sohail, Luka Milosevic, Xilin Liu"
         },
         {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
+          "title": "Over-the-Air Computation for Imperfectly Synchronized Multi-View Semantic Communication",
+          "url": "https://arxiv.org/abs/2611.15520",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Compared to classical task-agnostic communication systems, which focus on reliable transmission of a message, semantic communication (SemCom) focuses on transmitting the task-relevant meaning behind the message. In this paper, we design a…",
+          "authors": "Maximilian H. V. Tillmann, Julian Sündermann, Ahmad Halimi Razlighi, Edgar Beck, Armin Dekorsy"
         },
         {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "Physics-Informed Generative Augmentation for Open-Set UAV Classification",
+          "url": "https://arxiv.org/abs/2611.15612",
+          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Open-set recognition of unmanned aerial vehicles (UAVs) from passive 5G radar micro-Doppler signatures is challenging because unknown drone types cannot be anticipated at training time. We propose a physics-informed generative adversarial…",
+          "authors": "Michel Kulhandjian, Levon Aslanyan"
         }
       ]
     }
