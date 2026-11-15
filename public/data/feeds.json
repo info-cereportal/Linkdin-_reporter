@@ -1,61 +1,12 @@
 {
-  "generatedAt": "2026-11-14T02:40:09.963Z",
+  "generatedAt": "2026-11-15T02:05:43.774Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Mind-wandering preserves word-level coupling while disrupting comprehension",
-          "url": "https://arxiv.org/abs/2611.14814",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Readers can move their eyes through a page but retain little of its meaning when their minds wander. We tested whether word properties still guide their eyes during these lapses. We analyzed public eye-tracking and electroencephalography…",
-          "authors": "Anirudh Natarajan, Paul Sajda"
-        },
-        {
-          "title": "Same currents, different field: $\\Delta f = 0$ carrier-only stimulation is not temporal interference without the beat",
-          "url": "https://arxiv.org/abs/2611.14839",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Carrier-only stimulation ($\\Delta f = 0$) is generally considered the most rigorous control for temporal interference (TI) stimulation, assumed to reproduce TI's kilohertz carrier field without its low-frequency beat. We show that this…",
-          "authors": "Ido Haber, Giulio Tononi, Larissa Albantakis"
-        },
-        {
-          "title": "Prototypes of the Mind: A Unified Framework for Probing the Visual Brain",
-          "url": "https://arxiv.org/abs/2611.15046",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Deep learning has driven substantial progress in modeling fMRI responses, yet most existing approaches are optimized for a single objective---such as neural encoding, stimulus decoding, or post hoc interpretation---making it difficult to…",
-          "authors": "Shi Chen, Seoyoung Ahn, Doris Tsao"
-        },
-        {
-          "title": "Analysis choices decide whether untrained networks beat trained ones at V1: a multiverse analysis of model-brain RSA",
-          "url": "https://arxiv.org/abs/2611.15533",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Untrained convolutional networks have been reported to rival trained networks as models of visual cortex, and we had reported an untrained-network advantage over backpropagation at V1 in THINGS fMRI, together with a dependence on…",
-          "authors": "Nils Leutenegger"
-        },
-        {
-          "title": "Optogenetic Modulation Fraction: A Robust Opsin-Presence Effect and an Unresolved Cell-Type Question, by Censoring-Aware Survival Analysis of Public Neuropixels Data",
-          "url": "https://arxiv.org/abs/2611.15606",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Expressing channelrhodopsin-2 (ChR2) in an interneuron population substantially raises the fraction of locally recorded units whose spike timing is altered by light, relative to no-opsin controls, under every method tried. Establishing…",
-          "authors": "Siddhardha Nanda"
-        },
-        {
-          "title": "Pyramidal Columns Acting as Attention Heads",
-          "url": "https://arxiv.org/abs/2611.16057",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Can the functional architecture of a Transformer attention head be given a biological construction? More specifically, could a suitable group of pyramidal columns in posterior temporal language regions (PTLRs) constitute the biological…",
-          "authors": "Fabrizia Giulia Garavaglia, Marco Giunti"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
@@ -118,138 +69,113 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Scientists find a simple daily routine linked to less pain and depression",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+          "publishedDate": "Sat, 14 Nov 2026 07:48:01 EST",
+          "source": "sciencedaily.com",
+          "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less…",
+          "authors": ""
+        },
+        {
+          "title": "A new fiber supplement could help millions suffering from irritable bowel syndrome",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
+          "publishedDate": "Sat, 14 Nov 2026 07:35:36 EST",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have developed a promising new fiber supplement that improves gut health in people with irritable bowel syndrome (IBS) without worsening bloating, pain, or other digestive symptoms. The specially designed blend also improved…",
+          "authors": ""
+        },
+        {
+          "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+          "publishedDate": "Sat, 14 Nov 2026 07:25:05 EST",
+          "source": "sciencedaily.com",
+          "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also…",
+          "authors": ""
+        },
+        {
+          "title": "Exercise after ACL surgery may protect knees from early osteoarthritis",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112025538.htm",
+          "publishedDate": "Sat, 14 Nov 2026 07:14:57 EST",
+          "source": "sciencedaily.com",
+          "summary": "A new study suggests that the right kind of exercise could help protect young adults from early knee osteoarthritis following ACL surgery. Researchers found that a four-month supervised rehabilitation program improved pain, muscle…",
+          "authors": ""
+        },
+        {
+          "title": "Yale scientists reveal what really slows aging and what doesn&#039;t",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
+          "publishedDate": "Fri, 13 Nov 2026 23:26:12 EST",
+          "source": "sciencedaily.com",
+          "summary": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 studies could…",
+          "authors": ""
+        },
+        {
           "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
           "url": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
           "publishedDate": "Fri, 13 Nov 2026 22:21:56 +0000",
           "source": "statnews.com",
           "summary": "Enforcement of the Trump administration's stringent new Medicaid work requirements have been delayed for six months, until July 1, 2027.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "STAT+: Democrats coalesce around &#8216;Medicare for More,&#8217; &#8216;Medikids&#8217; proposals",
-          "url": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/?utm_campaign=rss",
-          "publishedDate": "Fri, 13 Nov 2026 21:46:05 +0000",
-          "source": "statnews.com",
-          "summary": "Democrats are coalescing around a plan to offer Medicare to more Americans, if not all of them.",
-          "authors": "John Wilkerson"
-        },
-        {
-          "title": "STAT+: Senators introduce bill to curb conflicts of interest on preventive care panel",
-          "url": "https://www.statnews.com/2026/11/13/uspstf-preventive-care-panel-senators-target-conflicts-of-interest/?utm_campaign=rss",
-          "publishedDate": "Fri, 13 Nov 2026 14:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "Some of the panel's members could benefit financially from the decisions they make, STAT's reporting showed.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
-          "publishedDate": "Fri, 13 Nov 2026 07:55:11 EST",
-          "source": "sciencedaily.com",
-          "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and…",
-          "authors": ""
-        },
-        {
-          "title": "Study of 750,000 pregnancies reveals a surprising twist about Ozempic and Wegovy",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111005911.htm",
-          "publishedDate": "Fri, 13 Nov 2026 07:48:10 EST",
-          "source": "sciencedaily.com",
-          "summary": "A study of more than 750,000 pregnancies found that early exposure to Ozempic, Wegovy, and similar drugs was not linked to increased pregnancy complications when used for weight loss, but was associated with a higher risk of premature…",
-          "authors": ""
-        },
-        {
-          "title": "Stopping statins after 70 may be safer than expected, but there&#039;s a catch",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261112025534.htm",
-          "publishedDate": "Fri, 13 Nov 2026 07:14:39 EST",
-          "source": "sciencedaily.com",
-          "summary": "A major study of nearly 1,900 older adults suggests that stopping statins after age 70 may be relatively safe in the short term for people who have never experienced a heart attack or stroke. However, a higher rate of serious…",
-          "authors": ""
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Galop: Billion-Scale Genetic Programming on a Single GPU",
-          "url": "https://arxiv.org/abs/2611.14665",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Genetic programming (GP) evolves populations of heterogeneous programs, whereas GPUs achieve their highest throughput when groups of threads execute the same instructions. To better align GP evaluation with GPU execution, we present Galop,…",
-          "authors": "Xavier Hill Roy, Stephen Kelly"
-        },
-        {
-          "title": "DeNA-SGN: Deterministic Neighborhood Aggregation for Verified Spiking Graph Inference",
-          "url": "https://arxiv.org/abs/2611.14775",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Graph learning on neuromorphic substrates requires an explicit spiking realization of neighborhood aggregation, supporting control and classification. We propose DeNA-SGN, which combines fixed OR and tie-inclusive Majority aggregation of…",
-          "authors": "Sanjay Das, Xi Zhang, Emily Herron, Prasanna Date"
-        },
-        {
-          "title": "A Multi-Parent Edge Assembly Crossover Driven Hybrid Genetic Algorithm for the Hamiltonian \\textitp-Median Problem",
-          "url": "https://arxiv.org/abs/2611.15219",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "The Hamiltonian \\textitp-median problem seeks to partition the vertices of a graph into exactly $p$ disjoint cycles while minimizing their total cost. This paper presents a hybrid genetic algorithm incorporating a multi-parent edge…",
-          "authors": "Junkai Huang, Pengfei He, Jin-Kao Hao, Xin Yao"
-        },
-        {
-          "title": "Matrix-Based Ant Colony Search with Batched Decoding for Hierarchical Replenishment Routing: A Stylized Case Study Based on Korean City Data",
-          "url": "https://arxiv.org/abs/2611.15338",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "We study a stylized single-vehicle replenishment-routing problem in which the cities of a national logistics network are both demand points and supply points: a vehicle of limited capacity delivers to every city once, and when its load is…",
-          "authors": "Jun Zhang, Wei-Jie Yu, Tong Qian, Eui Jeong Kwak, Sang-Woon Jeon, Hua Ding, Qijia Jiang, Hu Jin, Haewoon Nam, Changjun Zhou"
-        },
-        {
-          "title": "Contour-Assisted Evolutionary Computation: Estimating Peaks From the Contour Lines of Evaluated Solutions",
-          "url": "https://arxiv.org/abs/2611.15641",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Evolutionary algorithms (EAs) evaluate many candidate solutions but use them mainly to rank individuals. This paper treats the evaluated solutions as the spot heights of a topographic survey and draws the contour lines they imply. The…",
-          "authors": "Jun Zhang, Tong Qian, Hua Ding, Zhi-Hui Zhan, Wei-Jie Yu, Jian-Yu Li"
-        },
-        {
-          "title": "A Finite Markov Chain Analysis of the Simplified Swarm Optimisation Update Rule",
-          "url": "https://arxiv.org/abs/2611.16541",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Simplified swarm optimisation (SSO) updates each variable by one draw that copies the global or personal best, keeps the current value or redraws uniformly, with probabilities $c_g$, $c_p$, $c_w$ and $c_r$. As a finite Markov chain under…",
-          "authors": "Wei-Chang Yeh"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 3,
+      "itemCount": 6,
       "items": [
         {
-          "title": "An Open-Architecture Dual-Core STM32-Based Neural Interface with Low-Latency On-Device AI for Neuromodulation Applications",
-          "url": "https://arxiv.org/abs/2611.15942",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "We present an open-architecture bidirectional neural interface for closed-loop neuromodulation built around a dual-core STM32H747 microcontroller and commercial Intan recording and stimulation front-ends. The system supports up to 128…",
-          "authors": "Sipeng Liang, Kun Cheng, Xiao Wu, Lyu Wang, Savanna Blade, Jiaxi Wei, Ruoheng Wang, Zhecheng Yin, Johnson Song, Tristan J. Lawson, Alisha Baldwin, Muhammad Shan Sohail, Luka Milosevic, Xilin Liu"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
         },
         {
-          "title": "Over-the-Air Computation for Imperfectly Synchronized Multi-View Semantic Communication",
-          "url": "https://arxiv.org/abs/2611.15520",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Compared to classical task-agnostic communication systems, which focus on reliable transmission of a message, semantic communication (SemCom) focuses on transmitting the task-relevant meaning behind the message. In this paper, we design a…",
-          "authors": "Maximilian H. V. Tillmann, Julian Sündermann, Ahmad Halimi Razlighi, Edgar Beck, Armin Dekorsy"
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
         },
         {
-          "title": "Physics-Informed Generative Augmentation for Open-Set UAV Classification",
-          "url": "https://arxiv.org/abs/2611.15612",
-          "publishedDate": "Fri, 13 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Open-set recognition of unmanned aerial vehicles (UAVs) from passive 5G radar micro-Doppler signatures is challenging because unknown drone types cannot be anticipated at training time. We propose a physics-informed generative adversarial…",
-          "authors": "Michel Kulhandjian, Levon Aslanyan"
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }
