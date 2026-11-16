@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-15T02:05:43.316Z",
-  "date": "2026-11-15",
+  "generatedAt": "2026-11-16T02:22:05.379Z",
+  "date": "2026-11-16",
   "topic": "深層学習と学習",
-  "templateName": "data-driven",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/43031676/",
-  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\n数字が語る、深層学習と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 深層学習 × 学習\n\n> Automated neonatal brain pathology detection from magnetic resonance imaging (MRI) faces a dual challenge: preterm birth produces a characteristic but confounding pattern of delayed myelination that can obscure concurrent structural abnormalities, while conditions such as...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging.\n🔗 https://pubmed.ncbi.nlm.nih.gov/43031676/\n\n---\n\n異論・反論も大歓迎。あなたの見解を聞かせてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #認知科学 #BCI",
-  "summaryJP": "深層学習と学習 — 数値で示された新事実（ニューロAI・計算論）",
-  "paperAuthors": "Christian Ahwoi Ampiah, Tina Malalanirainy, Alessandro Crimi",
-  "publishedDate": "2026-11-14",
-  "paperId": "43031676",
+  "paperTitle": "End-to-end deep learning for identifying Alzheimer's disease signatures in spectral fluorescence imaging of normal-appearing brain regions in 5xFAD mice.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/43034324/",
+  "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\n深層学習と学習の最新成果を整理しました。\n\n🔬 深層学習 × 学習\n\n> Alzheimer's disease (AD) is the leading cause of dementia, characterized by the accumulation of amyloid- &#x3b2; and tau aggregates in the brain. Current diagnostic approaches primarily detect mature plaques, but growing evidence suggests that pre-fibrillar aggregates are...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 End-to-end deep learning for identifying Alzheimer's disease signatures in spectral fluorescence imaging of normal-appearing brain regions in 5xFAD mice.\n🔗 https://pubmed.ncbi.nlm.nih.gov/43034324/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #DeepLearning",
+  "summaryJP": "深層学習と学習 — 注目すべき3つの示唆（ニューロAI・計算論）",
+  "paperAuthors": "Raissa Souza, Anastasiia A Stepanchuk, Paula J Brandt, Anthony J Winder, Mohammad Khazaei, Peter K Stys",
+  "publishedDate": "2026-11-15",
+  "paperId": "43034324",
   "paperSource": "pubmed",
   "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
     "深層学習",
     "学習"
   ],
-  "abstractExcerpt": "Automated neonatal brain pathology detection from magnetic resonance imaging (MRI) faces a dual challenge: preterm birth produces a characteristic but confounding pattern of delayed myelination that can obscure concurrent structural…",
+  "abstractExcerpt": "Alzheimer's disease (AD) is the leading cause of dementia, characterized by the accumulation of amyloid- &#x3b2; and tau aggregates in the brain. Current diagnostic approaches primarily detect mature plaques, but growing evidence suggests…",
   "figureUrls": []
 }

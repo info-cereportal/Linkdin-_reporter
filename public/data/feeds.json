@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T02:05:43.774Z",
+  "generatedAt": "2026-11-16T02:22:05.933Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,52 +69,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+          "publishedDate": "Sun, 15 Nov 2026 09:13:18 EST",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after…",
+          "authors": ""
+        },
+        {
+          "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+          "publishedDate": "Sun, 15 Nov 2026 09:03:39 EST",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments…",
+          "authors": ""
+        },
+        {
+          "title": "A simple supplement could help your immune system fight cancer and viral infections",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
+          "publishedDate": "Sun, 15 Nov 2026 07:36:52 EST",
+          "source": "sciencedaily.com",
+          "summary": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with the immune…",
+          "authors": ""
+        },
+        {
+          "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+          "publishedDate": "Sat, 14 Nov 2026 23:31:56 EST",
+          "source": "sciencedaily.com",
+          "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the…",
+          "authors": ""
+        },
+        {
+          "title": "AI discovers a hidden heart signal that could predict sudden death",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
+          "publishedDate": "Sat, 14 Nov 2026 20:05:10 EST",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of…",
+          "authors": ""
+        },
+        {
           "title": "Scientists find a simple daily routine linked to less pain and depression",
           "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
           "publishedDate": "Sat, 14 Nov 2026 07:48:01 EST",
           "source": "sciencedaily.com",
           "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less…",
           "authors": ""
-        },
-        {
-          "title": "A new fiber supplement could help millions suffering from irritable bowel syndrome",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
-          "publishedDate": "Sat, 14 Nov 2026 07:35:36 EST",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have developed a promising new fiber supplement that improves gut health in people with irritable bowel syndrome (IBS) without worsening bloating, pain, or other digestive symptoms. The specially designed blend also improved…",
-          "authors": ""
-        },
-        {
-          "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
-          "publishedDate": "Sat, 14 Nov 2026 07:25:05 EST",
-          "source": "sciencedaily.com",
-          "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also…",
-          "authors": ""
-        },
-        {
-          "title": "Exercise after ACL surgery may protect knees from early osteoarthritis",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261112025538.htm",
-          "publishedDate": "Sat, 14 Nov 2026 07:14:57 EST",
-          "source": "sciencedaily.com",
-          "summary": "A new study suggests that the right kind of exercise could help protect young adults from early knee osteoarthritis following ACL surgery. Researchers found that a four-month supervised rehabilitation program improved pain, muscle…",
-          "authors": ""
-        },
-        {
-          "title": "Yale scientists reveal what really slows aging and what doesn&#039;t",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
-          "publishedDate": "Fri, 13 Nov 2026 23:26:12 EST",
-          "source": "sciencedaily.com",
-          "summary": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 studies could…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
-          "url": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
-          "publishedDate": "Fri, 13 Nov 2026 22:21:56 +0000",
-          "source": "statnews.com",
-          "summary": "Enforcement of the Trump administration's stringent new Medicaid work requirements have been delayed for six months, until July 1, 2027.",
-          "authors": "John Wilkerson"
         }
       ]
     },
