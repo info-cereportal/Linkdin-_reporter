@@ -1,5 +1,26 @@
 [
   {
+    "generatedAt": "2026-11-17T04:45:16.160Z",
+    "date": "2026-11-17",
+    "topic": "情動",
+    "templateName": "future-vision",
+    "riskScore": 0,
+    "paperTitle": "Future of Brain Health: From Developmental Insights to Clinical Translation",
+    "paperLink": "https://arxiv.org/abs/2509.21332",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n情動の最新研究です。\n\n🔬 情動\n\n> This review highlights brain health as a dynamic process shaped by both genetic and environmental influences throughout development. Critical periods provide unique windows of heightened neural plasticity, during which genetic-environmental interactions and parental influences...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Future of Brain Health: From Developmental Insights to Clinical Translation\n🔗 https://arxiv.org/abs/2509.21332\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #BCI",
+    "summaryJP": "情動 — 次世代へ続く布石（臨床・精神医学応用）",
+    "paperAuthors": "Mariela Chertoff, Martin G Frasch, Eduardo T Cánepa, Gerlinde A. S. Metz, Marta Cristina Antonelli, Sheehan D. Fisher, Bea R. H. Van den Bergh",
+    "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "paperId": "2509.21332",
+    "paperSource": "arxiv",
+    "themeArea": "臨床・精神医学応用",
+    "jpKeywords": [
+      "情動"
+    ],
+    "abstractExcerpt": "This review highlights brain health as a dynamic process shaped by both genetic and environmental influences throughout development. Critical periods provide unique windows of heightened neural plasticity, during which…",
+    "figureUrls": []
+  },
+  {
     "generatedAt": "2026-11-16T02:22:05.379Z",
     "date": "2026-11-16",
     "topic": "深層学習と学習",
@@ -1225,30 +1246,5 @@
       "https://arxiv.org/html/2609.31145/2609.31145v1/Figure2.png",
       "https://arxiv.org/html/2609.31145/2609.31145v1/FigureS1.png"
     ]
-  },
-  {
-    "generatedAt": "2026-09-28T01:09:45.840Z",
-    "date": "2026-09-28",
-    "topic": "ニューロモデュレーションと深層学習",
-    "templateName": "data-driven",
-    "riskScore": 0,
-    "paperTitle": "Advanced non-invasive brain neuromodulation: a comprehensive review of electric, magnetic, ultrasonic, and optical modalities.",
-    "paperLink": "https://pubmed.ncbi.nlm.nih.gov/42800998/",
-    "formatted": "脳の秘密が、また一つ解き明かされました。\n\n数字が語る、ニューロモデュレーションと深層学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 ニューロモデュレーション × 深層学習 × クローズドループ制御 × 学習\n\n> Non-invasive brain neuromodulation has emerged as a transformative frontier in neuroscience and clinical medicine, offering the ability to modulate neuronal excitability and network connectivity without the risks associated with surgical intervention. As the neurological and...\n\nなぜこの数字が重要か。\n\nBCI・ニューラルインターフェースにおいて、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Advanced non-invasive brain neuromodulation: a comprehensive review of electric, magnetic, ultrasonic, and optical modalities.\n🔗 https://pubmed.ncbi.nlm.nih.gov/42800998/\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #計算論的神経科学 #BrainComputerInterface",
-    "summaryJP": "ニューロモデュレーションと深層学習 — 数値で示された新事実（BCI・ニューラルインターフェース）",
-    "paperAuthors": "Kyungsik Eom, Kyung Min Byun",
-    "publishedDate": "2026-09-27",
-    "paperId": "42800998",
-    "paperSource": "pubmed",
-    "themeArea": "BCI・ニューラルインターフェース",
-    "jpKeywords": [
-      "ニューロモデュレーション",
-      "深層学習",
-      "クローズドループ制御",
-      "学習",
-      "脳画像研究"
-    ],
-    "abstractExcerpt": "Non-invasive brain neuromodulation has emerged as a transformative frontier in neuroscience and clinical medicine, offering the ability to modulate neuronal excitability and network connectivity without the risks associated with surgical…",
-    "figureUrls": []
   }
 ]

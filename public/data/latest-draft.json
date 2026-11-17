@@ -1,22 +1,21 @@
 {
-  "generatedAt": "2026-11-16T02:22:05.379Z",
-  "date": "2026-11-16",
-  "topic": "深層学習と学習",
-  "templateName": "three-insights",
+  "generatedAt": "2026-11-17T04:45:16.160Z",
+  "date": "2026-11-17",
+  "topic": "情動",
+  "templateName": "future-vision",
   "riskScore": 0,
-  "paperTitle": "End-to-end deep learning for identifying Alzheimer's disease signatures in spectral fluorescence imaging of normal-appearing brain regions in 5xFAD mice.",
-  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/43034324/",
-  "formatted": "この研究データ、知らないままでいいですか？\n\nこの研究から得られる3つの重要な示唆。\n\n深層学習と学習の最新成果を整理しました。\n\n🔬 深層学習 × 学習\n\n> Alzheimer's disease (AD) is the leading cause of dementia, characterized by the accumulation of amyloid- &#x3b2; and tau aggregates in the brain. Current diagnostic approaches primarily detect mature plaques, but growing evidence suggests that pre-fibrillar aggregates are...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 End-to-end deep learning for identifying Alzheimer's disease signatures in spectral fluorescence imaging of normal-appearing brain regions in 5xFAD mice.\n🔗 https://pubmed.ncbi.nlm.nih.gov/43034324/\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #DeepLearning",
-  "summaryJP": "深層学習と学習 — 注目すべき3つの示唆（ニューロAI・計算論）",
-  "paperAuthors": "Raissa Souza, Anastasiia A Stepanchuk, Paula J Brandt, Anthony J Winder, Mohammad Khazaei, Peter K Stys",
-  "publishedDate": "2026-11-15",
-  "paperId": "43034324",
-  "paperSource": "pubmed",
-  "themeArea": "ニューロAI・計算論",
+  "paperTitle": "Future of Brain Health: From Developmental Insights to Clinical Translation",
+  "paperLink": "https://arxiv.org/abs/2509.21332",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n情動の最新研究です。\n\n🔬 情動\n\n> This review highlights brain health as a dynamic process shaped by both genetic and environmental influences throughout development. Critical periods provide unique windows of heightened neural plasticity, during which genetic-environmental interactions and parental influences...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Future of Brain Health: From Developmental Insights to Clinical Translation\n🔗 https://arxiv.org/abs/2509.21332\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #BCI",
+  "summaryJP": "情動 — 次世代へ続く布石（臨床・精神医学応用）",
+  "paperAuthors": "Mariela Chertoff, Martin G Frasch, Eduardo T Cánepa, Gerlinde A. S. Metz, Marta Cristina Antonelli, Sheehan D. Fisher, Bea R. H. Van den Bergh",
+  "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+  "paperId": "2509.21332",
+  "paperSource": "arxiv",
+  "themeArea": "臨床・精神医学応用",
   "jpKeywords": [
-    "深層学習",
-    "学習"
+    "情動"
   ],
-  "abstractExcerpt": "Alzheimer's disease (AD) is the leading cause of dementia, characterized by the accumulation of amyloid- &#x3b2; and tau aggregates in the brain. Current diagnostic approaches primarily detect mature plaques, but growing evidence suggests…",
+  "abstractExcerpt": "This review highlights brain health as a dynamic process shaped by both genetic and environmental influences throughout development. Critical periods provide unique windows of heightened neural plasticity, during which…",
   "figureUrls": []
 }

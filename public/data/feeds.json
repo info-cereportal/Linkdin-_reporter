@@ -1,18 +1,75 @@
 {
-  "generatedAt": "2026-11-16T02:22:05.933Z",
+  "generatedAt": "2026-11-17T04:45:16.801Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Trainable sparse dendritic networks reveal regime-dependent roles for shunting inhibition and morphology",
+          "url": "https://arxiv.org/abs/2611.17434",
+          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Neural circuits must compute with noisy inputs and adapt their responses to context. How dendritic structure and synaptic integration support these functions remains unclear. We introduce DendriNet, a trainable rate-based framework with…",
+          "authors": "Houman Safaai, Maceo Richards, Ryan Whalen, Adi Madduri, Naeem Khoshnevis, Bernardo L. Sabatini"
+        },
+        {
+          "title": "Mean-field theory of neural networks: from spikes to firing rates",
+          "url": "https://arxiv.org/abs/2611.17512",
+          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Connecting microscopic neuronal spiking to macroscopic brain function is a central challenge in computational neuroscience. Firing-rate models provide a framework for addressing this problem by describing neuronal activity at an…",
+          "authors": "Tawan T. A. Carvalho, Matheus Haas, Denis D. Caprioti, Luis A. R. Delgado, Artyom Kuznetsov, Henrique L. Schweitzer, Constantino F. Vasconcelos, Rodrigo P. Rocha, Mauricio Girardi-Schappo"
+        },
+        {
+          "title": "Vision-Language Models Reproduce a Human Mental-Extrapolation Bias in the Watanabe Illusion",
+          "url": "https://arxiv.org/abs/2611.17741",
+          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Vision-language models (VLMs) are increasingly used for visual judgments, yet whether they share human perceptual biases, and where in the model such biases arise, is unclear. We addressed this with the Watanabe Illusion, a stimulus not…",
+          "authors": "Eiji Watanabe, Kyohei Ueda, Kagayaki Kato, Masaki Watabe, Akiyoshi Kitaoka"
+        },
+        {
+          "title": "Striatal Optogenetic Modulation Shifts Seizure Onset Timing: A Survival-Analysis Reanalysis with Effect Sizes, Permutation Validation, and Sensitivity Analysis",
+          "url": "https://arxiv.org/abs/2611.17795",
+          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "We present a worked methods vignette, not a novel biological claim: a reanalysis of the public dataset accompanying Hyder and colleagues' report that optogenetic activation and inhibition of the dorsal striatum bidirectionally control…",
+          "authors": "Siddhardha Nanda"
+        },
+        {
+          "title": "An In-Silico Audit of Topographic Organization in a Multimodal Brain-Response Model",
+          "url": "https://arxiv.org/abs/2611.18105",
+          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "TRIBE v2 (d'Ascoli et al., 2026) predicts fMRI responses across the cortical surface from video, audio and text. Its authors validated it with category-selective localizers (faces, places, bodies, words) and language contrasts, but not…",
+          "authors": "Jakub Strawa"
+        },
+        {
+          "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
+          "url": "https://arxiv.org/abs/2611.18561",
+          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during attempted speech into…",
+          "authors": "Jonathan D. McCart, Pranav I. Deevi, Mehdi Azabou, Nanda H. Krishna, Caleb A. McKinney, Nicholas S. Card, Sergey D. Stavisky, Chethan Pandarinath"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Democrats settle on a message: ‘Medicare for More’",
+          "url": "https://www.statnews.com/2026/11/16/health-news-democrats-settle-on-medicare-for-more-message/?utm_campaign=rss",
+          "publishedDate": "Mon, 16 Nov 2026 13:37:10 +0000",
+          "source": "statnews.com",
+          "summary": "It doesn’t have quite the same ring to it as “Medicare for All.” But House Dems have coalesced around a policy priority to expand health care access:",
+          "authors": "Amanda Erickson"
+        },
         {
           "title": "New addiction society guidance on medetomidine’s brutal withdrawal",
           "url": "https://www.statnews.com/2026/11/13/medetomidine-withdrawal-asam-new-treatment-guidance/?utm_campaign=rss",
@@ -46,14 +103,6 @@
           "authors": "Chelsea Cirruzzo"
         },
         {
-          "title": "Across the U.S., homegrown experiments aim to save kids from their phones",
-          "url": "https://www.statnews.com/2026/11/13/phone-addiction-young-people-fight-back-attention-activism/?utm_campaign=rss",
-          "publishedDate": "Fri, 13 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "As researchers struggle to understand phone addiction, young people are finding ways to reclaim their attention and push back against Big Tech.",
-          "authors": "Isabella Cueto"
-        },
-        {
           "title": "5 takeaways from STAT&#8217;s investigation of the sprawling ‘three-parent IVF’ industry",
           "url": "https://www.statnews.com/2026/11/13/fertility-tourism-5-takeaways-mrt-investigation/?utm_campaign=rss",
           "publishedDate": "Fri, 13 Nov 2026 09:30:00 +0000",
@@ -69,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
-          "publishedDate": "Sun, 15 Nov 2026 09:13:18 EST",
+          "title": "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage",
+          "url": "https://www.statnews.com/2026/11/16/cms-proposes-more-agressive-audits-medicare-advantage-crush/?utm_campaign=rss",
+          "publishedDate": "Mon, 16 Nov 2026 23:45:36 +0000",
+          "source": "statnews.com",
+          "summary": "New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
+          "url": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
+          "publishedDate": "Mon, 16 Nov 2026 18:54:06 +0000",
+          "source": "statnews.com",
+          "summary": "The supplement NAC has been widely available for years, but exists in a legal gray area.",
+          "authors": "Margaret Manto"
+        },
+        {
+          "title": "STAT+: NIAID acting head John Powers III appointed as the permanent director",
+          "url": "https://www.statnews.com/2026/11/16/john-powers-appointed-niaid-director/?utm_campaign=rss",
+          "publishedDate": "Mon, 16 Nov 2026 17:47:11 +0000",
+          "source": "statnews.com",
+          "summary": "The acting director of NIAID, John Powers III, will become the permanent director, the agency announced Monday.",
+          "authors": "Anil Oza"
+        },
+        {
+          "title": "STAT+: Suing Joe the Plumber and Microsoft, and diminishing raises",
+          "url": "https://www.statnews.com/2026/11/16/providers-sue-employers-to-collect-payment-health-insurance-costs-climb/?utm_campaign=rss",
+          "publishedDate": "Mon, 16 Nov 2026 16:52:09 +0000",
+          "source": "statnews.com",
+          "summary": "Health care providers turn to the courts to get paid, and how insurance costs are eating your paycheck.",
+          "authors": "Bob Herman"
+        },
+        {
+          "title": "Vitamin B12 may hold the key to treating a rare genetic disorder",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261115085552.htm",
+          "publishedDate": "Mon, 16 Nov 2026 09:31:10 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after…",
+          "summary": "Scientists discovered that vitamin B12 largely reversed developmental abnormalities in worms carrying a genetic mutation linked to Verheij syndrome, a rare disorder that causes growth problems and developmental delays. Similar metabolic…",
           "authors": ""
         },
         {
-          "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
-          "publishedDate": "Sun, 15 Nov 2026 09:03:39 EST",
+          "title": "Scientists discover that the heart doesn&#039;t age the way we thought",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261115085550.htm",
+          "publishedDate": "Mon, 16 Nov 2026 09:16:56 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments…",
-          "authors": ""
-        },
-        {
-          "title": "A simple supplement could help your immune system fight cancer and viral infections",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
-          "publishedDate": "Sun, 15 Nov 2026 07:36:52 EST",
-          "source": "sciencedaily.com",
-          "summary": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with the immune…",
-          "authors": ""
-        },
-        {
-          "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
-          "publishedDate": "Sat, 14 Nov 2026 23:31:56 EST",
-          "source": "sciencedaily.com",
-          "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the…",
-          "authors": ""
-        },
-        {
-          "title": "AI discovers a hidden heart signal that could predict sudden death",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
-          "publishedDate": "Sat, 14 Nov 2026 20:05:10 EST",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists find a simple daily routine linked to less pain and depression",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
-          "publishedDate": "Sat, 14 Nov 2026 07:48:01 EST",
-          "source": "sciencedaily.com",
-          "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less…",
+          "summary": "Scientists have discovered that the heart ages unevenly, with surprising hotspots of inflammation and scarring concentrated in the valves and major blood vessels rather than the heart muscle. The findings challenge long-standing…",
           "authors": ""
         }
       ]
@@ -121,61 +170,70 @@
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "TSGP-2: On the Non-Linearity of Symbolic Regression Problems and How to Exploit It with Model-based Semantic Genetic Programming",
+          "url": "https://arxiv.org/abs/2611.17455",
+          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Model-based variation operators such as the one used in Transformer Semantic Genetic Programming (TSGP) are affected by possible biases of their training data. TSGP is trained, in particular, on programs generated by Genetic Programming…",
+          "authors": "Philipp Anthes, Alina Geiger, Martin Briesch, Franz Rothlauf"
+        },
+        {
+          "title": "The Transformer Paradigm: Dynamic Processing and a New Principle of Inference",
+          "url": "https://arxiv.org/abs/2611.17953",
+          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "We argue that the Transformer revolution is not adequately understood as a merely quantitative expansion of deep learning, but as the emergence of a new paradigm based on a different principle of inference. We interpret the Transformer as…",
+          "authors": "Marco Giunti, Fabrizia Giulia Garavaglia"
+        },
+        {
+          "title": "Few-Shot Open-Set Hyperspectral Pixel-Wise Classification with Spatial Aware Label Propagation",
+          "url": "https://arxiv.org/abs/2611.17974",
+          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Pixelwise classification of hyperspectral images (HSI) is a fundamental task in remote sensing, but its deployment in real-world applications is often limited by the scarcity of labeled data and the presence of unknown classes at inference…",
+          "authors": "Matheus Pereira (UFMG, LIGM), Jefersson Santos (KUSTAR, LIGM), Laurent Najman (KUSTAR, LIGM)"
+        },
+        {
+          "title": "Learning nonlinear interactions and cross-feature couplings with product-unit residual networks",
+          "url": "https://arxiv.org/abs/2611.18074",
+          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Understanding nonlinear feature interactions is crucial in science and engineering, yet standard multilayer perceptrons (MLPs) often capture such interactions only implicitly, leading to entangled representations that can impair robustness…",
+          "authors": "Ziyuan Li, Uwe Jaekel, Babette Dellen"
+        },
+        {
+          "title": "Efficient Poincaré Convolutions through Patch-Statistics Factorization",
+          "url": "https://arxiv.org/abs/2611.18125",
+          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Published implementations of the Poincaré convolution in Hyperbolic Neural Networks++ (HNN++) map every overlapping image patch to the Poincaré ball before evaluating its score. We show that the clipped score depends on each patch only…",
+          "authors": "Luká\\vs Jochymek, Markéta Va\\vsinková, Petr Gajdo\\vs"
+        },
+        {
+          "title": "EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation",
+          "url": "https://arxiv.org/abs/2611.18524",
+          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Event-camera segmentation requires persistent neural state despite sparse input events, making memory organization a central constraint on embedded implementation. We present EventSpikeSeg, a mixed-signal architecture combining resident…",
+          "authors": "Amir Mohammad Khadem Hosseini, Sattar Mirzakuchaki"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 1,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
-        },
-        {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "An All-Digital Coherent AFSK Demodulator for CubeSat Applications",
+          "url": "https://arxiv.org/abs/2611.18509",
+          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Audio frequency-shift keying (AFSK) is a widely adopted modulation scheme for CubeSat systems due to its favorable bandwidth efficiency and implementation simplicity. However, coherent detection usually is avoided because synchronization…",
+          "authors": "Rubem Vasconcelos Pacelli, Rodrigo de Lima Florindo, Felix Antreich, Antônio Macilio Pereira de Lucena"
         }
       ]
     }
