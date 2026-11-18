@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T04:45:16.801Z",
+  "generatedAt": "2026-11-18T03:50:38.336Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Trainable sparse dendritic networks reveal regime-dependent roles for shunting inhibition and morphology",
-          "url": "https://arxiv.org/abs/2611.17434",
-          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "title": "From antidepressants to psychedelics: revisiting the pharmacology of so-called serotoninergic treatments",
+          "url": "https://arxiv.org/abs/2611.20834",
+          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Neural circuits must compute with noisy inputs and adapt their responses to context. How dendritic structure and synaptic integration support these functions remains unclear. We introduce DendriNet, a trainable rate-based framework with…",
-          "authors": "Houman Safaai, Maceo Richards, Ryan Whalen, Adi Madduri, Naeem Khoshnevis, Bernardo L. Sabatini"
+          "summary": "Recent years have seen a resurgence of interest in serotoninergic psychedelics as potential treatment for diverse psychiatric disorders. Here, we will delve into the molecular mechanisms of drugs used to treat depression and…",
+          "authors": "Marc Gielen (SU), Daniela Duarte Domingues (ICM, CRNL), Eric Burguière (ICM, CRNL), Kevin Swierkosz- Lenart (ICM, CHUV), Luc Mallet (UPEC Médecine, U955 Inserm - UPEC, ICM, UNIGE, CIC Neurosciences)"
         },
         {
-          "title": "Mean-field theory of neural networks: from spikes to firing rates",
-          "url": "https://arxiv.org/abs/2611.17512",
-          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "title": "Transcutaneous auricular vagus nerve stimulation modulates auditory-evoked responses and conflict adaptation in humans",
+          "url": "https://arxiv.org/abs/2611.20920",
+          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Connecting microscopic neuronal spiking to macroscopic brain function is a central challenge in computational neuroscience. Firing-rate models provide a framework for addressing this problem by describing neuronal activity at an…",
-          "authors": "Tawan T. A. Carvalho, Matheus Haas, Denis D. Caprioti, Luis A. R. Delgado, Artyom Kuznetsov, Henrique L. Schweitzer, Constantino F. Vasconcelos, Rodrigo P. Rocha, Mauricio Girardi-Schappo"
+          "summary": "Vagus nerve stimulation (VNS) engages ascending neuromodulatory systems, and animal studies have motivated the hypothesis that it shifts sensory cortical processing toward feedforward (FF) relative to feedback (FB) transmission. Whether…",
+          "authors": "Issey Kamatani, Yasuo Kabe, Shinichi Kumagai, Yoshiyuki Onuki, Hexin Xu, Tomoyo Isoguchi Shiramatsu, Naoto Kunii, Kensuke Kawai, Hirokazu Takahashi"
         },
         {
-          "title": "Vision-Language Models Reproduce a Human Mental-Extrapolation Bias in the Watanabe Illusion",
-          "url": "https://arxiv.org/abs/2611.17741",
-          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "title": "Anchoring Motion, Refining Trajectories: Generalizable Continuous Neural Decoding",
+          "url": "https://arxiv.org/abs/2611.21335",
+          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Vision-language models (VLMs) are increasingly used for visual judgments, yet whether they share human perceptual biases, and where in the model such biases arise, is unclear. We addressed this with the Watanabe Illusion, a stimulus not…",
-          "authors": "Eiji Watanabe, Kyohei Ueda, Kagayaki Kato, Masaki Watabe, Akiyoshi Kitaoka"
+          "summary": "Brain activity encodes motor information across multiple temporal scales, enabling continuous neural control beyond discrete action recognition. However, existing methods are typically tailored to specific subjects and tasks, with direct…",
+          "authors": "Fanqi Shen, Junru Chen, Surui Cheng, Jiahe Li, ZhiZhang Yuan, Gaorui Zhang, ZhiYuan Cao, Xiaoquan Shen, Yang Yang"
         },
         {
-          "title": "Striatal Optogenetic Modulation Shifts Seizure Onset Timing: A Survival-Analysis Reanalysis with Effect Sizes, Permutation Validation, and Sensitivity Analysis",
-          "url": "https://arxiv.org/abs/2611.17795",
-          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "title": "Brain AI Scientist: An Evidence-Based Multi-Agent System for Translational Neuroimaging in Precision Psychiatry",
+          "url": "https://arxiv.org/abs/2611.18634",
+          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "We present a worked methods vignette, not a novel biological claim: a reanalysis of the public dataset accompanying Hyder and colleagues' report that optogenetic activation and inhibition of the dorsal striatum bidirectionally control…",
-          "authors": "Siddhardha Nanda"
+          "summary": "Resting-state functional magnetic resonance imaging (rs-fMRI) has revealed widespread brain-network alterations in psychiatric disorders, yet translating these findings into individualized clinical decision support remains challenging.…",
+          "authors": "Zeyun Zhao, Lin Gu, Ruogu Fang"
         },
         {
-          "title": "An In-Silico Audit of Topographic Organization in a Multimodal Brain-Response Model",
-          "url": "https://arxiv.org/abs/2611.18105",
-          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "title": "Midsagittal Corpus Callosum Parameterization: A Framework for Spatially Detailed Diffusion MR Imaging Analysis",
+          "url": "https://arxiv.org/abs/2611.19066",
+          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "TRIBE v2 (d'Ascoli et al., 2026) predicts fMRI responses across the cortical surface from video, audio and text. Its authors validated it with category-selective localizers (faces, places, bodies, words) and language contrasts, but not…",
-          "authors": "Jakub Strawa"
+          "summary": "The corpus callosum (CC) is the largest white matter structure in the human brain and plays a central role in interhemispheric communication. Diffusion MR imaging is widely used to investigate microstructural organization, but commonly…",
+          "authors": "Caio Santana, Catherine Lebel, Richard Frayne, Letícia Rittner"
         },
         {
-          "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
-          "url": "https://arxiv.org/abs/2611.18561",
-          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "title": "Analysis choices can produce apparent rich-club differences: an Alzheimer's disease EEG case study",
+          "url": "https://arxiv.org/abs/2611.19708",
+          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during attempted speech into…",
-          "authors": "Jonathan D. McCart, Pranav I. Deevi, Mehdi Azabou, Nanda H. Krishna, Caleb A. McKinney, Nicholas S. Card, Sergey D. Stavisky, Chethan Pandarinath"
+          "summary": "The weighted rich-club coefficient tests whether a network's most strongly connected nodes are preferentially interconnected. Its interpretation depends on two often-implicit choices that are easy to overlook: how the randomised comparison…",
+          "authors": "Kai-Wayne Liu, Ryan Tian En Pang, Pholpat Durongbhan"
         }
       ]
     },
@@ -63,52 +63,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
+          "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/?utm_campaign=rss",
+          "publishedDate": "Tue, 17 Nov 2026 18:14:50 +0000",
+          "source": "statnews.com",
+          "summary": "Heidi Overton is facing an uphill climb to become the next FDA commissioner. The latest challenge is her work on vaping.",
+          "authors": "Margaret Manto and Chelsea Cirruzzo"
+        },
+        {
+          "title": "U.S. loses measles elimination status, marking embarrassing stain on its public health record",
+          "url": "https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/?utm_campaign=rss",
+          "publishedDate": "Tue, 17 Nov 2026 16:07:21 +0000",
+          "source": "statnews.com",
+          "summary": "Measles is no longer considered eliminated in the U.S., a finding that was expected but that marks an embarrassing backslide in the country’s basic public health standing.",
+          "authors": "Andrew Joseph"
+        },
+        {
+          "title": "NIH&#8217;s infectious disease unit has a new head at last",
+          "url": "https://www.statnews.com/2026/11/17/health-news-nih-infectious-disease-unit-has-a-new-head-at-last/?utm_campaign=rss",
+          "publishedDate": "Tue, 17 Nov 2026 13:27:01 +0000",
+          "source": "statnews.com",
+          "summary": "The NIH has been without a permanent director since 2025. Now officials announce that acting director John Powers III will take the helm.",
+          "authors": "Amanda Erickson"
+        },
+        {
+          "title": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that",
+          "url": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
+          "publishedDate": "Tue, 17 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates",
+          "url": "https://www.statnews.com/2026/11/17/zyn-melts-tobacco-firms-test-market-nicotine-pouch-alternatives/?utm_campaign=rss",
+          "publishedDate": "Tue, 17 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The latest product from the tobacco industry is a flavorful nicotine tablet that melts in your mouth, allowing users to get a buzz as discreetly as popping a mint",
+          "authors": "Kathryn Kranhold — The Examination"
+        },
+        {
           "title": "Democrats settle on a message: ‘Medicare for More’",
           "url": "https://www.statnews.com/2026/11/16/health-news-democrats-settle-on-medicare-for-more-message/?utm_campaign=rss",
           "publishedDate": "Mon, 16 Nov 2026 13:37:10 +0000",
           "source": "statnews.com",
           "summary": "It doesn’t have quite the same ring to it as “Medicare for All.” But House Dems have coalesced around a policy priority to expand health care access:",
           "authors": "Amanda Erickson"
-        },
-        {
-          "title": "New addiction society guidance on medetomidine’s brutal withdrawal",
-          "url": "https://www.statnews.com/2026/11/13/medetomidine-withdrawal-asam-new-treatment-guidance/?utm_campaign=rss",
-          "publishedDate": "Fri, 13 Nov 2026 20:45:42 +0000",
-          "source": "statnews.com",
-          "summary": "The American Society of Addiction Medicine has released the first national guidance for recognizing and treating patients who have taken medetomidine.",
-          "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "Opinion: New organ donation rules are unfair to families",
-          "url": "https://www.statnews.com/2026/11/13/organ-donation-policy-life-sustaining-treatment-brain-death/?utm_campaign=rss",
-          "publishedDate": "Fri, 13 Nov 2026 14:59:54 +0000",
-          "source": "statnews.com",
-          "summary": "New organ donation rules may “blur the line between the physicians fighting to save a patient's life and the teams responsible for organ procurement.”",
-          "authors": "Tarvez Tucker"
-        },
-        {
-          "title": "Brain implant startup pauses trials",
-          "url": "https://www.statnews.com/2026/11/13/health-news-brain-implant-startup-pauses-trials/?utm_campaign=rss",
-          "publishedDate": "Fri, 13 Nov 2026 14:40:32 +0000",
-          "source": "statnews.com",
-          "summary": "Synchron has paused clinical trials of its second-generation brain-computer interface. Leaders say the pause is not safety related.",
-          "authors": "Annalisa Merelli and O. Rose Broderick"
-        },
-        {
-          "title": "STAT+: Senators introduce bill to curb conflicts of interest on preventive care panel",
-          "url": "https://www.statnews.com/2026/11/13/uspstf-preventive-care-panel-senators-target-conflicts-of-interest/?utm_campaign=rss",
-          "publishedDate": "Fri, 13 Nov 2026 14:00:00 +0000",
-          "source": "statnews.com",
-          "summary": "Some of the panel's members could benefit financially from the decisions they make, STAT's reporting showed.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "5 takeaways from STAT&#8217;s investigation of the sprawling ‘three-parent IVF’ industry",
-          "url": "https://www.statnews.com/2026/11/13/fertility-tourism-5-takeaways-mrt-investigation/?utm_campaign=rss",
-          "publishedDate": "Fri, 13 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "A STAT investigation of the fertility tourism industry found that clinics are offering an unproven IVF procedure to older women. Here are 5 takeaways from the investigation.",
-          "authors": "Megan Molteni"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage",
-          "url": "https://www.statnews.com/2026/11/16/cms-proposes-more-agressive-audits-medicare-advantage-crush/?utm_campaign=rss",
-          "publishedDate": "Mon, 16 Nov 2026 23:45:36 +0000",
+          "title": "STAT+: White House pulls nomination of Heidi Overton to lead FDA",
+          "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/?utm_campaign=rss",
+          "publishedDate": "Wed, 18 Nov 2026 00:44:05 +0000",
           "source": "statnews.com",
-          "summary": "New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage.",
-          "authors": "Bob Herman"
+          "summary": "BREAKING: The White House is pulling its nominee to be commissioner of the FDA, Heidi Overton.",
+          "authors": "Margaret Manto and Daniel Payne"
         },
         {
-          "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
-          "url": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
-          "publishedDate": "Mon, 16 Nov 2026 18:54:06 +0000",
+          "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
+          "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/?utm_campaign=rss",
+          "publishedDate": "Tue, 17 Nov 2026 18:14:50 +0000",
           "source": "statnews.com",
-          "summary": "The supplement NAC has been widely available for years, but exists in a legal gray area.",
-          "authors": "Margaret Manto"
+          "summary": "Heidi Overton is facing an uphill climb to become the next FDA commissioner. The latest challenge is her work on vaping.",
+          "authors": "Margaret Manto and Chelsea Cirruzzo"
         },
         {
-          "title": "STAT+: NIAID acting head John Powers III appointed as the permanent director",
-          "url": "https://www.statnews.com/2026/11/16/john-powers-appointed-niaid-director/?utm_campaign=rss",
-          "publishedDate": "Mon, 16 Nov 2026 17:47:11 +0000",
+          "title": "STAT+: &#8216;Medicare for More&#8217; gains traction",
+          "url": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/?utm_campaign=rss",
+          "publishedDate": "Tue, 17 Nov 2026 15:27:50 +0000",
           "source": "statnews.com",
-          "summary": "The acting director of NIAID, John Powers III, will become the permanent director, the agency announced Monday.",
-          "authors": "Anil Oza"
+          "summary": "Democrats coalesce around a new health care policy, and Trump's new chief of staff embraces MAHA.",
+          "authors": "John Wilkerson"
         },
         {
-          "title": "STAT+: Suing Joe the Plumber and Microsoft, and diminishing raises",
-          "url": "https://www.statnews.com/2026/11/16/providers-sue-employers-to-collect-payment-health-insurance-costs-climb/?utm_campaign=rss",
-          "publishedDate": "Mon, 16 Nov 2026 16:52:09 +0000",
-          "source": "statnews.com",
-          "summary": "Health care providers turn to the courts to get paid, and how insurance costs are eating your paycheck.",
-          "authors": "Bob Herman"
-        },
-        {
-          "title": "Vitamin B12 may hold the key to treating a rare genetic disorder",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261115085552.htm",
-          "publishedDate": "Mon, 16 Nov 2026 09:31:10 EST",
+          "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
+          "publishedDate": "Tue, 17 Nov 2026 06:39:45 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists discovered that vitamin B12 largely reversed developmental abnormalities in worms carrying a genetic mutation linked to Verheij syndrome, a rare disorder that causes growth problems and developmental delays. Similar metabolic…",
+          "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of…",
           "authors": ""
         },
         {
-          "title": "Scientists discover that the heart doesn&#039;t age the way we thought",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261115085550.htm",
-          "publishedDate": "Mon, 16 Nov 2026 09:16:56 EST",
+          "title": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that",
+          "url": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
+          "publishedDate": "Tue, 17 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
+          "authors": "Theresa Gaffney"
+        },
+        {
+          "title": "Wine, beer, or spirits? Massive study reveals a surprising health divide",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261116015104.htm",
+          "publishedDate": "Mon, 16 Nov 2026 23:54:15 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that the heart ages unevenly, with surprising hotspots of inflammation and scarring concentrated in the valves and major blood vessels rather than the heart muscle. The findings challenge long-standing…",
+          "summary": "A massive study of more than 340,000 adults found that moderate wine drinkers had a 21% lower risk of cardiovascular death, while even light consumption of beer, cider, or spirits was linked to increased risk. Although heavy drinking was…",
           "authors": ""
         }
       ]
@@ -173,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "TSGP-2: On the Non-Linearity of Symbolic Regression Problems and How to Exploit It with Model-based Semantic Genetic Programming",
-          "url": "https://arxiv.org/abs/2611.17455",
-          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "title": "Speeding up Automated Algorithm Design by Batch Evaluation: A Case Study of Genetic Programming for Ant Colony Optimisation",
+          "url": "https://arxiv.org/abs/2611.19751",
+          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Model-based variation operators such as the one used in Transformer Semantic Genetic Programming (TSGP) are affected by possible biases of their training data. TSGP is trained, in particular, on programs generated by Genetic Programming…",
-          "authors": "Philipp Anthes, Alina Geiger, Martin Briesch, Franz Rothlauf"
+          "summary": "Evaluation is becoming the bottleneck of automated algorithm design, especially for iterative algorithms such as ant colony optimisation (ACO), which must run to completion on multiple instances. A transition rule designed by genetic…",
+          "authors": "Bo-Cheng Lin, Yi Mei, Mengjie Zhang"
         },
         {
-          "title": "The Transformer Paradigm: Dynamic Processing and a New Principle of Inference",
-          "url": "https://arxiv.org/abs/2611.17953",
-          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "title": "Shortcut Learning in Feature-Based Algorithm Selection",
+          "url": "https://arxiv.org/abs/2611.20440",
+          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "We argue that the Transformer revolution is not adequately understood as a merely quantitative expansion of deep learning, but as the emergence of a new paradigm based on a different principle of inference. We interpret the Transformer as…",
-          "authors": "Marco Giunti, Fabrizia Giulia Garavaglia"
+          "summary": "Landscape features give learning models information about the objective function for algorithm selection, algorithm configuration, and performance prediction. Should these features capture more information? Not always, because a model may…",
+          "authors": "Shuhei Tanaka, Shoichiro Tanaka, Toshiharu Hatanaka"
         },
         {
-          "title": "Few-Shot Open-Set Hyperspectral Pixel-Wise Classification with Spatial Aware Label Propagation",
-          "url": "https://arxiv.org/abs/2611.17974",
-          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "title": "SART: Sign-Absolute Reformulation Theory for Binary Variable Reduction in Neural Network Verification",
+          "url": "https://arxiv.org/abs/2611.18657",
+          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Pixelwise classification of hyperspectral images (HSI) is a fundamental task in remote sensing, but its deployment in real-world applications is often limited by the scarcity of labeled data and the presence of unknown classes at inference…",
-          "authors": "Matheus Pereira (UFMG, LIGM), Jefersson Santos (KUSTAR, LIGM), Laurent Najman (KUSTAR, LIGM)"
+          "summary": "Complete formal verification of neural networks is crucial for their deployment in safety-critical domains. A key bottleneck stems from encoding complexity: traditional methods assign one binary variable per unstable ReLU neuron. We…",
+          "authors": "Jin Xu, Miaomiao Zhang, Bowen Du"
         },
         {
-          "title": "Learning nonlinear interactions and cross-feature couplings with product-unit residual networks",
-          "url": "https://arxiv.org/abs/2611.18074",
-          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "title": "Simulated Annealing with Topological Spatial Chunking for De Novo Protein Sequence Design",
+          "url": "https://arxiv.org/abs/2611.19158",
+          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Understanding nonlinear feature interactions is crucial in science and engineering, yet standard multilayer perceptrons (MLPs) often capture such interactions only implicitly, leading to entangled representations that can impair robustness…",
-          "authors": "Ziyuan Li, Uwe Jaekel, Babette Dellen"
+          "summary": "The inverse protein folding problem, designing a discrete amino acid sequence that spontaneously folds into a predefined macroscopic structure, remains a phenomenally demanding combinatorial challenge central to synthetic drug discovery.…",
+          "authors": "Kandula Eswara Sai Kumar"
         },
         {
-          "title": "Efficient Poincaré Convolutions through Patch-Statistics Factorization",
-          "url": "https://arxiv.org/abs/2611.18125",
-          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "title": "Synthetic Neurosymbolic Task Generation with Controlled Constraint Complexity",
+          "url": "https://arxiv.org/abs/2611.19597",
+          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Published implementations of the Poincaré convolution in Hyperbolic Neural Networks++ (HNN++) map every overlapping image patch to the Poincaré ball before evaluating its score. We show that the clipped score depends on each patch only…",
-          "authors": "Luká\\vs Jochymek, Markéta Va\\vsinková, Petr Gajdo\\vs"
+          "summary": "We introduce NeSySy, a synthetic generator for neurosymbolic learning tasks that jointly produces logical constraints and consistent datasets. Unlike existing benchmarks, NeSySy provides fine-grained control over key properties such as…",
+          "authors": "Mykhailo Buleshnyi, Zsolt Zombori, Michael Benedikt"
         },
         {
-          "title": "EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation",
-          "url": "https://arxiv.org/abs/2611.18524",
-          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "title": "Evaluation-Free Recursive Self-Improvement for Coding Agents",
+          "url": "https://arxiv.org/abs/2611.21056",
+          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Event-camera segmentation requires persistent neural state despite sparse input events, making memory organization a central constraint on embedded implementation. We present EventSpikeSeg, a mixed-signal architecture combining resident…",
-          "authors": "Amir Mohammad Khadem Hosseini, Sattar Mirzakuchaki"
+          "summary": "Recent self-improving coding agents have achieved strong benchmark performance by iteratively modifying their own executable implementations. A common pattern uses downstream task-derived evidence to decide which candidates or lineages…",
+          "authors": "Zhe Ren, Guowei Rong, Yimeng Chen, Nanbo Li, Piotr Pi\\kekos, Mateusz Ostaszewski, Dandan Guo, Jürgen Schmidhuber"
         }
       ]
     },
@@ -228,12 +228,12 @@
       "itemCount": 1,
       "items": [
         {
-          "title": "An All-Digital Coherent AFSK Demodulator for CubeSat Applications",
-          "url": "https://arxiv.org/abs/2611.18509",
-          "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+          "title": "Cross-Subject Priors for Maximum a Posteriori Estimation of Latent Structure Influence Models in Motor-Imagery EEG With Few Trials",
+          "url": "https://arxiv.org/abs/2611.20164",
+          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Audio frequency-shift keying (AFSK) is a widely adopted modulation scheme for CubeSat systems due to its favorable bandwidth efficiency and implementation simplicity. However, coherent detection usually is avoided because synchronization…",
-          "authors": "Rubem Vasconcelos Pacelli, Rodrigo de Lima Florindo, Felix Antreich, Antônio Macilio Pereira de Lucena"
+          "summary": "Coupled hidden Markov models such as the latent structure influence model (LSIM) describe how the sensorimotor rhythms of the two hemispheres evolve and interact during motor imagery, but subject-specific maximum likelihood (ML) estimates…",
+          "authors": "Sagnik De, Anil Kumar Gupta"
         }
       ]
     }

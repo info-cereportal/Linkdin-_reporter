@@ -1,5 +1,32 @@
 [
   {
+    "generatedAt": "2026-11-18T03:50:37.892Z",
+    "date": "2026-11-18",
+    "topic": "脳画像研究とfMRI",
+    "templateName": "neuro-ai-bridge",
+    "riskScore": 0,
+    "paperTitle": "Brain AI Scientist: An Evidence-Based Multi-Agent System for Translational Neuroimaging in Precision Psychiatry",
+    "paperLink": "https://arxiv.org/abs/2611.18634",
+    "figureUrl": "https://arxiv.org/html/2611.18634/2611.18634v1/Figure1.png",
+    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n脳画像研究とfMRIに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 脳画像研究 × fMRI\n\n📊 注目すべきデータ：\n→ Across 17 autism spectrum disorder cases, it outperformed GPT-3.5 baselines with and without fMRI impression in evidence grounding, personalization, clinical actionability, and...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n認知・意思決定の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Brain AI Scientist: An Evidence-Based Multi-Agent System for Translational Neuroimaging in Precision Psychiatry\n🔗 https://arxiv.org/abs/2611.18634\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #NeuroAI",
+    "summaryJP": "脳画像研究とfMRI — 脳科学とAIをつなぐ研究（認知・意思決定）",
+    "paperAuthors": "Zeyun Zhao, Lin Gu, Ruogu Fang",
+    "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+    "paperId": "2611.18634",
+    "paperSource": "arxiv",
+    "themeArea": "認知・意思決定",
+    "jpKeywords": [
+      "脳画像研究",
+      "fMRI"
+    ],
+    "abstractExcerpt": "Resting-state functional magnetic resonance imaging (rs-fMRI) has revealed widespread brain-network alterations in psychiatric disorders, yet translating these findings into individualized clinical decision support remains challenging.…",
+    "figureUrls": [
+      "https://arxiv.org/html/2611.18634/2611.18634v1/Figure1.png",
+      "https://arxiv.org/html/2611.18634/2611.18634v1/Overview.png",
+      "https://arxiv.org/html/2611.18634/2611.18634v1/visualization.png"
+    ]
+  },
+  {
     "generatedAt": "2026-11-17T04:45:16.160Z",
     "date": "2026-11-17",
     "topic": "情動",
@@ -1220,31 +1247,5 @@
     ],
     "abstractExcerpt": "Electroencephalogram monitoring devices and online data repositories hold large amounts of data from individuals participating in research and medical studies without direct reference to personal identifiers. This paper explores what types…",
     "figureUrls": []
-  },
-  {
-    "generatedAt": "2026-09-29T02:16:30.232Z",
-    "date": "2026-09-29",
-    "topic": "脳情報科学の最新研究",
-    "templateName": "three-insights",
-    "riskScore": 0,
-    "paperTitle": "Grid-cell firing fields lack local sixfold symmetry",
-    "paperLink": "https://arxiv.org/abs/2609.31145",
-    "figureUrl": "https://arxiv.org/html/2609.31145/2609.31145v1/Figure1.png",
-    "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\nこの研究から得られる3つの重要な示唆。\n\n脳情報科学の最新研究の最新成果を整理しました。\n\n🔬 脳情報科学\n\n> The firing fields of a grid cell form a hexagonal lattice, yet each field's intrinsic geometric structure remains unclear: Are individual grid fields radially symmetric or do they exhibit (weak) sixfold modulation inherited from the global lattice? To address this question, we...\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\n脳情報科学の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Grid-cell firing fields lack local sixfold symmetry\n🔗 https://arxiv.org/abs/2609.31145\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #脳情報 #ComputationalNeuroscience #BrainComputerInterface",
-    "summaryJP": "脳情報科学の最新研究 — 注目すべき3つの示唆",
-    "paperAuthors": "Anian Kerscher",
-    "publishedDate": "Mon, 28 Sep 2026 00:00:00 -0400",
-    "paperId": "2609.31145",
-    "paperSource": "arxiv",
-    "themeArea": "脳情報科学",
-    "jpKeywords": [
-      "脳情報科学"
-    ],
-    "abstractExcerpt": "The firing fields of a grid cell form a hexagonal lattice, yet each field's intrinsic geometric structure remains unclear: Are individual grid fields radially symmetric or do they exhibit (weak) sixfold modulation inherited from the global…",
-    "figureUrls": [
-      "https://arxiv.org/html/2609.31145/2609.31145v1/Figure1.png",
-      "https://arxiv.org/html/2609.31145/2609.31145v1/Figure2.png",
-      "https://arxiv.org/html/2609.31145/2609.31145v1/FigureS1.png"
-    ]
   }
 ]

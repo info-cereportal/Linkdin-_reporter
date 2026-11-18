@@ -1,21 +1,27 @@
 {
-  "generatedAt": "2026-11-17T04:45:16.160Z",
-  "date": "2026-11-17",
-  "topic": "情動",
-  "templateName": "future-vision",
+  "generatedAt": "2026-11-18T03:50:37.892Z",
+  "date": "2026-11-18",
+  "topic": "脳画像研究とfMRI",
+  "templateName": "neuro-ai-bridge",
   "riskScore": 0,
-  "paperTitle": "Future of Brain Health: From Developmental Insights to Clinical Translation",
-  "paperLink": "https://arxiv.org/abs/2509.21332",
-  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n2030年の脳科学は、今とは全く違う風景になる。\n\nその布石の一つが、\n情動の最新研究です。\n\n🔬 情動\n\n> This review highlights brain health as a dynamic process shaped by both genetic and environmental influences throughout development. Critical periods provide unique windows of heightened neural plasticity, during which genetic-environmental interactions and parental influences...\n\nこの研究が切り開く可能性：\n\n→ より精密なAIアーキテクチャの設計\n→ 神経疾患の早期診断・介入戦略\n→ ヒトの認知能力の理解と拡張\n\n基礎研究の一報が、\nこれだけの応用可能性を秘めている。\n\n研究者もエンジニアも、この流れは見逃せません。\n\n📄 Future of Brain Health: From Developmental Insights to Clinical Translation\n🔗 https://arxiv.org/abs/2509.21332\n\n---\n\nこの研究をきっかけに、何か新しいアイデアが浮かんだ方はいますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BrainComputerInterface #BCI",
-  "summaryJP": "情動 — 次世代へ続く布石（臨床・精神医学応用）",
-  "paperAuthors": "Mariela Chertoff, Martin G Frasch, Eduardo T Cánepa, Gerlinde A. S. Metz, Marta Cristina Antonelli, Sheehan D. Fisher, Bea R. H. Van den Bergh",
-  "publishedDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-  "paperId": "2509.21332",
+  "paperTitle": "Brain AI Scientist: An Evidence-Based Multi-Agent System for Translational Neuroimaging in Precision Psychiatry",
+  "paperLink": "https://arxiv.org/abs/2611.18634",
+  "figureUrl": "https://arxiv.org/html/2611.18634/2611.18634v1/Figure1.png",
+  "formatted": "脳科学の「常識」が、また一つ書き換えられました。\n\n脳科学とAI——その境界線が消えつつある。\n\n脳画像研究とfMRIに関する本研究が、\n両分野を橋渡しする決定的な知見を示しています。\n\n🔬 脳画像研究 × fMRI\n\n📊 注目すべきデータ：\n→ Across 17 autism spectrum disorder cases, it outperformed GPT-3.5 baselines with and without fMRI impression in evidence grounding, personalization, clinical actionability, and...\n\n注目すべきは、\n脳の情報処理原理と\n最新のAIアルゴリズムの間に\n驚くほどの類似性が見られること。\n\n認知・意思決定の知見が\n次世代の計算モデルを設計するヒントになる。\nこの研究はその仮説を強力に支持しています。\n\n神経科学者とAIエンジニア、\n今こそ対話が必要な時です。\n\n📄 Brain AI Scientist: An Evidence-Based Multi-Agent System for Translational Neuroimaging in Precision Psychiatry\n🔗 https://arxiv.org/abs/2611.18634\n\n---\n\n同じ分野の方、この解釈に異なる視点があればぜひコメントで。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #ニューロテック #NeuroAI",
+  "summaryJP": "脳画像研究とfMRI — 脳科学とAIをつなぐ研究（認知・意思決定）",
+  "paperAuthors": "Zeyun Zhao, Lin Gu, Ruogu Fang",
+  "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+  "paperId": "2611.18634",
   "paperSource": "arxiv",
-  "themeArea": "臨床・精神医学応用",
+  "themeArea": "認知・意思決定",
   "jpKeywords": [
-    "情動"
+    "脳画像研究",
+    "fMRI"
   ],
-  "abstractExcerpt": "This review highlights brain health as a dynamic process shaped by both genetic and environmental influences throughout development. Critical periods provide unique windows of heightened neural plasticity, during which…",
-  "figureUrls": []
+  "abstractExcerpt": "Resting-state functional magnetic resonance imaging (rs-fMRI) has revealed widespread brain-network alterations in psychiatric disorders, yet translating these findings into individualized clinical decision support remains challenging.…",
+  "figureUrls": [
+    "https://arxiv.org/html/2611.18634/2611.18634v1/Figure1.png",
+    "https://arxiv.org/html/2611.18634/2611.18634v1/Overview.png",
+    "https://arxiv.org/html/2611.18634/2611.18634v1/visualization.png"
+  ]
 }
