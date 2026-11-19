@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T03:50:38.336Z",
+  "generatedAt": "2026-11-19T03:49:11.362Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "From antidepressants to psychedelics: revisiting the pharmacology of so-called serotoninergic treatments",
-          "url": "https://arxiv.org/abs/2611.20834",
-          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+          "title": "A single inference process underlies the behavior and neural circuits of working memory",
+          "url": "https://arxiv.org/abs/2611.22054",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Recent years have seen a resurgence of interest in serotoninergic psychedelics as potential treatment for diverse psychiatric disorders. Here, we will delve into the molecular mechanisms of drugs used to treat depression and…",
-          "authors": "Marc Gielen (SU), Daniela Duarte Domingues (ICM, CRNL), Eric Burguière (ICM, CRNL), Kevin Swierkosz- Lenart (ICM, CHUV), Luc Mallet (UPEC Médecine, U955 Inserm - UPEC, ICM, UNIGE, CIC Neurosciences)"
+          "summary": "Working memory holds past inputs online for future behavior. Despite decades of research, accounts of working memory remain divided across levels of analysis, with long-standing debates on whether its capacity reflects discrete slots or…",
+          "authors": "Dongyu Gong, Mario Belledonne, Ilker Yildirim"
         },
         {
-          "title": "Transcutaneous auricular vagus nerve stimulation modulates auditory-evoked responses and conflict adaptation in humans",
-          "url": "https://arxiv.org/abs/2611.20920",
-          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+          "title": "Earth-strength magnetic-field axis modulates non-spatial probabilistic decision-making in humans",
+          "url": "https://arxiv.org/abs/2611.22386",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Vagus nerve stimulation (VNS) engages ascending neuromodulatory systems, and animal studies have motivated the hypothesis that it shifts sensory cortical processing toward feedforward (FF) relative to feedback (FB) transmission. Whether…",
-          "authors": "Issey Kamatani, Yasuo Kabe, Shinichi Kumagai, Yoshiyuki Onuki, Hexin Xu, Tomoyo Isoguchi Shiramatsu, Naoto Kunii, Kensuke Kawai, Hirokazu Takahashi"
+          "summary": "Magnetoreception has been primarily studied in orientation and navigation, but whether Earth-strength magnetic fields influence non-spatial decisions remains unclear. Evidence for human magnetic responses is limited, and the transduction…",
+          "authors": "In-Taek Oh, Yong-Hwan Kim, Soo-Chan Kim, Yongkuk Kim, Kwon-Seok Chae"
         },
         {
-          "title": "Anchoring Motion, Refining Trajectories: Generalizable Continuous Neural Decoding",
-          "url": "https://arxiv.org/abs/2611.21335",
-          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+          "title": "The shape of individual differences in judgment: shared axes, personal weights, and when their spread crosses the consensus",
+          "url": "https://arxiv.org/abs/2611.22440",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Brain activity encodes motor information across multiple temporal scales, enabling continuous neural control beyond discrete action recognition. However, existing methods are typically tailored to specific subjects and tasks, with direct…",
-          "authors": "Fanqi Shen, Junru Chen, Surui Cheng, Jiahe Li, ZhiZhang Yuan, Gaorui Zhang, ZhiYuan Cao, Xiaoquan Shen, Yang Yang"
+          "summary": "People differ in how they judge faces, artworks, photographs and jokes. Previous work measured the size of these differences; we ask what shape they take. We wrote three candidate shapes as nested generative models (same-sign reweighting…",
+          "authors": "Hiroshi Higashi"
         },
         {
-          "title": "Brain AI Scientist: An Evidence-Based Multi-Agent System for Translational Neuroimaging in Precision Psychiatry",
-          "url": "https://arxiv.org/abs/2611.18634",
-          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+          "title": "Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control",
+          "url": "https://arxiv.org/abs/2611.22639",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Resting-state functional magnetic resonance imaging (rs-fMRI) has revealed widespread brain-network alterations in psychiatric disorders, yet translating these findings into individualized clinical decision support remains challenging.…",
-          "authors": "Zeyun Zhao, Lin Gu, Ruogu Fang"
+          "summary": "Central pattern generators (CPGs) provide a biologically inspired foundation for adaptive locomotor control, yet systematically characterizing their dynamic regimes in spiking neural networks remains challenging. This study introduces a…",
+          "authors": "Artem Guba, Nikolay Kovalev, Alexey Zharinov, Vacheslav Demin, Viktor B. Kazantsev"
         },
         {
-          "title": "Midsagittal Corpus Callosum Parameterization: A Framework for Spatially Detailed Diffusion MR Imaging Analysis",
-          "url": "https://arxiv.org/abs/2611.19066",
-          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+          "title": "Fully Spiking Neural Implementation of Lambda-Calculus Beta-Reduction via Biologically Documented Mechanisms",
+          "url": "https://arxiv.org/abs/2611.23182",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "The corpus callosum (CC) is the largest white matter structure in the human brain and plays a central role in interhemispheric communication. Diffusion MR imaging is widely used to investigate microstructural organization, but commonly…",
-          "authors": "Caio Santana, Catherine Lebel, Richard Frayne, Letícia Rittner"
+          "summary": "We present the first complete implementation of $\\beta$-reduction in the untyped $\\lambda$-calculus using exclusively spiking neural dynamics. Every step of the reduction---redex detection, subterm segmentation, variable-binding detection,…",
+          "authors": "Vladimir A. Lazovskiy, Victor B. Kazantsev, Sergey V. Stasenko"
         },
         {
-          "title": "Analysis choices can produce apparent rich-club differences: an Alzheimer's disease EEG case study",
-          "url": "https://arxiv.org/abs/2611.19708",
-          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+          "title": "Why do continual physical learners need sleep?",
+          "url": "https://arxiv.org/abs/2611.22070",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "The weighted rich-club coefficient tests whether a network's most strongly connected nodes are preferentially interconnected. Its interpretation depends on two often-implicit choices that are easy to overlook: how the randomised comparison…",
-          "authors": "Kai-Wayne Liu, Ryan Tian En Pang, Pholpat Durongbhan"
+          "summary": "Sleep is widespread across the animal kingdom, including in organisms without a centralized nervous system. Does learning create a need for sleep, even without biology? To explore this question, we study a disordered spring network trained…",
+          "authors": "Nada Elmeligy, Nidhi Pashine, J. M. Schwarz"
         }
       ]
     },
@@ -62,6 +62,22 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Influential preventive services panel to meet for first time in more than a year",
+          "url": "https://www.statnews.com/2026/11/18/uspstf-task-force-after-rfk-jr-shakeup-to-meet/?utm_campaign=rss",
+          "publishedDate": "Wed, 18 Nov 2026 21:21:26 +0000",
+          "source": "statnews.com",
+          "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use.",
+          "authors": "Chelsea Cirruzzo"
+        },
+        {
+          "title": "What redesigning medical school might look like",
+          "url": "https://www.statnews.com/2026/11/18/health-news-what-redesigning-medical-school-might-look-like/?utm_campaign=rss",
+          "publishedDate": "Wed, 18 Nov 2026 13:03:55 +0000",
+          "source": "statnews.com",
+          "summary": "\"I am asking whether every part of [the medical school] infrastructure needs to be bundled into the same four-year institution,” writes M.D./Ph.D. student Alex Serafini.",
+          "authors": "Theresa Gaffney"
+        },
         {
           "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
           "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/?utm_campaign=rss",
@@ -93,22 +109,6 @@
           "source": "statnews.com",
           "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates",
-          "url": "https://www.statnews.com/2026/11/17/zyn-melts-tobacco-firms-test-market-nicotine-pouch-alternatives/?utm_campaign=rss",
-          "publishedDate": "Tue, 17 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The latest product from the tobacco industry is a flavorful nicotine tablet that melts in your mouth, allowing users to get a buzz as discreetly as popping a mint",
-          "authors": "Kathryn Kranhold — The Examination"
-        },
-        {
-          "title": "Democrats settle on a message: ‘Medicare for More’",
-          "url": "https://www.statnews.com/2026/11/16/health-news-democrats-settle-on-medicare-for-more-message/?utm_campaign=rss",
-          "publishedDate": "Mon, 16 Nov 2026 13:37:10 +0000",
-          "source": "statnews.com",
-          "summary": "It doesn’t have quite the same ring to it as “Medicare for All.” But House Dems have coalesced around a policy priority to expand health care access:",
-          "authors": "Amanda Erickson"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: White House pulls nomination of Heidi Overton to lead FDA",
-          "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/?utm_campaign=rss",
-          "publishedDate": "Wed, 18 Nov 2026 00:44:05 +0000",
+          "title": "STAT+: Influential preventive services panel to meet for first time in more than a year",
+          "url": "https://www.statnews.com/2026/11/18/uspstf-task-force-after-rfk-jr-shakeup-to-meet/?utm_campaign=rss",
+          "publishedDate": "Wed, 18 Nov 2026 21:21:26 +0000",
           "source": "statnews.com",
-          "summary": "BREAKING: The White House is pulling its nominee to be commissioner of the FDA, Heidi Overton.",
-          "authors": "Margaret Manto and Daniel Payne"
+          "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use.",
+          "authors": "Chelsea Cirruzzo"
         },
         {
-          "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
-          "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/?utm_campaign=rss",
-          "publishedDate": "Tue, 17 Nov 2026 18:14:50 +0000",
+          "title": "STAT+: 7 burning questions about the FDA’s post-Overton future",
+          "url": "https://www.statnews.com/2026/11/18/fda-after-heidi-overton-burning-questions-agency-future/?utm_campaign=rss",
+          "publishedDate": "Wed, 18 Nov 2026 19:33:57 +0000",
           "source": "statnews.com",
-          "summary": "Heidi Overton is facing an uphill climb to become the next FDA commissioner. The latest challenge is her work on vaping.",
-          "authors": "Margaret Manto and Chelsea Cirruzzo"
+          "summary": "STAT tackles the most important questions about the FDA's uncertain future.",
+          "authors": "Margaret Manto"
         },
         {
-          "title": "STAT+: &#8216;Medicare for More&#8217; gains traction",
-          "url": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/?utm_campaign=rss",
-          "publishedDate": "Tue, 17 Nov 2026 15:27:50 +0000",
+          "title": "STAT+: Cassidy rejects Trump’s pick to lead NSF, saying he failed to ‘stand up for science’",
+          "url": "https://www.statnews.com/2026/11/18/bill-cassidy-rejects-jim-oneill-lead-national-science-foundation/?utm_campaign=rss",
+          "publishedDate": "Wed, 18 Nov 2026 15:36:19 +0000",
           "source": "statnews.com",
-          "summary": "Democrats coalesce around a new health care policy, and Trump's new chief of staff embraces MAHA.",
-          "authors": "John Wilkerson"
+          "summary": "Bill Cassidy's rejection of Jim O'Neill comes shortly after the White House pulled FDA commissioner nominee Heidi Overton.",
+          "authors": "Daniel Payne and Margaret Manto"
         },
         {
-          "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
-          "publishedDate": "Tue, 17 Nov 2026 06:39:45 EST",
+          "title": "A rare disease reveals a hidden flaw in the immune system",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
+          "publishedDate": "Wed, 18 Nov 2026 07:33:09 EST",
           "source": "sciencedaily.com",
-          "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of…",
+          "summary": "Scientists have discovered that a rare, potentially life-threatening inflammatory disorder is driven by malfunctioning immune cells, overturning three decades of scientific understanding. The breakthrough points to a promising new…",
           "authors": ""
         },
         {
-          "title": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that",
-          "url": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
-          "publishedDate": "Tue, 17 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
-          "authors": "Theresa Gaffney"
+          "title": "MIT discovers that aging weakens the brain’s nighttime cleaning system",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
+          "publishedDate": "Wed, 18 Nov 2026 07:06:44 EST",
+          "source": "sciencedaily.com",
+          "summary": "MIT researchers have discovered that the brain’s natural waste-removal system becomes significantly less effective during sleep as people age. The decline is linked to weaker deep-sleep brain waves and changes in blood flow, potentially…",
+          "authors": ""
         },
         {
-          "title": "Wine, beer, or spirits? Massive study reveals a surprising health divide",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116015104.htm",
-          "publishedDate": "Mon, 16 Nov 2026 23:54:15 EST",
+          "title": "A little-known protein could be a powerful weapon against Alzheimer’s",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
+          "publishedDate": "Wed, 18 Nov 2026 06:53:30 EST",
           "source": "sciencedaily.com",
-          "summary": "A massive study of more than 340,000 adults found that moderate wine drinkers had a 21% lower risk of cardiovascular death, while even light consumption of beer, cider, or spirits was linked to increased risk. Although heavy drinking was…",
+          "summary": "Scientists have uncovered a powerful natural defense against Alzheimer’s disease that could open the door to new treatments. By boosting a protein called SORLA, researchers significantly reduced toxic tau tangles, protected connections…",
           "authors": ""
         }
       ]
@@ -173,67 +173,83 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Speeding up Automated Algorithm Design by Batch Evaluation: A Case Study of Genetic Programming for Ant Colony Optimisation",
-          "url": "https://arxiv.org/abs/2611.19751",
-          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+          "title": "Multiobjective household energy planning using evolutionary algorithms",
+          "url": "https://arxiv.org/abs/2611.21668",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Evaluation is becoming the bottleneck of automated algorithm design, especially for iterative algorithms such as ant colony optimisation (ACO), which must run to completion on multiple instances. A transition rule designed by genetic…",
-          "authors": "Bo-Cheng Lin, Yi Mei, Mengjie Zhang"
+          "summary": "This article presents the advances in the design and implementation of a recommendation system for planning the use of household appliances, focused on improving energy efficiency from the point of view of both energy companies and…",
+          "authors": "Giovanni Colacurcio, Sergio Nesmachnow, Jamal Toutouh, Francisco Luna, Diego Rossit"
         },
         {
-          "title": "Shortcut Learning in Feature-Based Algorithm Selection",
-          "url": "https://arxiv.org/abs/2611.20440",
-          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+          "title": "Diversity Preservation Recovers Transcription Factor Motifs Across Challenging Confounder Landscapes",
+          "url": "https://arxiv.org/abs/2611.21859",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Landscape features give learning models information about the objective function for algorithm selection, algorithm configuration, and performance prediction. Should these features capture more information? Not always, because a model may…",
-          "authors": "Shuhei Tanaka, Shoichiro Tanaka, Toshiharu Hatanaka"
+          "summary": "Motif discovery is a process where DNA sequences are searched for the short patterns, called motifs, that transcription factor (TF) proteins bind. However, the motif lengths are often unknown and motif attribution often competes with a…",
+          "authors": "Alejandro Medina, Mary Lauren Benton"
         },
         {
-          "title": "SART: Sign-Absolute Reformulation Theory for Binary Variable Reduction in Neural Network Verification",
-          "url": "https://arxiv.org/abs/2611.18657",
-          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+          "title": "Evolving Neural Solvers for Multi-objective Combinatorial Optimization",
+          "url": "https://arxiv.org/abs/2611.22060",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Complete formal verification of neural networks is crucial for their deployment in safety-critical domains. A key bottleneck stems from encoding complexity: traditional methods assign one binary variable per unstable ReLU neuron. We…",
-          "authors": "Jin Xu, Miaomiao Zhang, Bowen Du"
+          "summary": "Multi-objective combinatorial optimization (MOCO) seeks high-quality solutions that represent different trade-offs among conflicting objectives. Existing neural methods typically train a dedicated model for each preference or condition a…",
+          "authors": "Ya-Hui Jia, Le-Xin Wen, Yang Wang, Wei-Neng Chen, Yi Mei"
         },
         {
-          "title": "Simulated Annealing with Topological Spatial Chunking for De Novo Protein Sequence Design",
-          "url": "https://arxiv.org/abs/2611.19158",
-          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+          "title": "EM-SDTrack: Efficient Multi-Scale Spike-driven Tracking for Event Cameras",
+          "url": "https://arxiv.org/abs/2611.22700",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "The inverse protein folding problem, designing a discrete amino acid sequence that spontaneously folds into a predefined macroscopic structure, remains a phenomenally demanding combinatorial challenge central to synthetic drug discovery.…",
-          "authors": "Kandula Eswara Sai Kumar"
+          "summary": "Event-driven spiking neural networks (SNNs) match the sparse spatiotemporal output of event cameras, making spike-driven trackers highly attractive for neuromorphic edge deployment. However, events reveal a target only through their…",
+          "authors": "Yimeng Shan, Haodi Wu, Wei Zheng, Xiaowei Ye, Shuai Wang, Yu Liang, Wei Hua, Chenxiao Dou, Malu Zhang"
         },
         {
-          "title": "Synthetic Neurosymbolic Task Generation with Controlled Constraint Complexity",
-          "url": "https://arxiv.org/abs/2611.19597",
-          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+          "title": "TabDAG: Structured Evolutionary Search for Tabular Feature Engineering",
+          "url": "https://arxiv.org/abs/2611.22828",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "We introduce NeSySy, a synthetic generator for neurosymbolic learning tasks that jointly produces logical constraints and consistent datasets. Unlike existing benchmarks, NeSySy provides fine-grained control over key properties such as…",
-          "authors": "Mykhailo Buleshnyi, Zsolt Zombori, Michael Benedikt"
+          "summary": "Feature engineering can improve tabular prediction, but useful transformations are compositional, data-dependent, and subject to leakage constraints. We present TabDAG, a framework that combines evolutionary search with a graph…",
+          "authors": "Anastasia Volkova (FusionBrain Lab), Andrey Kuznetsov (FusionBrain Lab), Ivan Oseledets (AXXX), Valentin Khrulkov (FusionBrain Lab, AXXX)"
         },
         {
-          "title": "Evaluation-Free Recursive Self-Improvement for Coding Agents",
-          "url": "https://arxiv.org/abs/2611.21056",
-          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+          "title": "Complexity and precision in quantum associative retrieval",
+          "url": "https://arxiv.org/abs/2611.21941",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Recent self-improving coding agents have achieved strong benchmark performance by iteratively modifying their own executable implementations. A common pattern uses downstream task-derived evidence to decide which candidates or lineages…",
-          "authors": "Zhe Ren, Guowei Rong, Yimeng Chen, Nanbo Li, Piotr Pi\\kekos, Mateusz Ostaszewski, Dandan Guo, Jürgen Schmidhuber"
+          "summary": "We show that efficient and high-precision quantum associative retrieval is possible with an exponential complexity advantage with respect to the classical brute force approach and with a polynomial capacity advantage with respect to…",
+          "authors": "Carlo A. Trugenberger"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 1,
+      "itemCount": 3,
       "items": [
         {
-          "title": "Cross-Subject Priors for Maximum a Posteriori Estimation of Latent Structure Influence Models in Motor-Imagery EEG With Few Trials",
-          "url": "https://arxiv.org/abs/2611.20164",
-          "publishedDate": "Tue, 17 Nov 2026 00:00:00 -0500",
+          "title": "Joint Synchronization and Radar Parameter Estimation for OFDM-based DISAC Systems",
+          "url": "https://arxiv.org/abs/2606.17699",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Coupled hidden Markov models such as the latent structure influence model (LSIM) describe how the sensorimotor rhythms of the two hemispheres evolve and interact during motor imagery, but subject-specific maximum likelihood (ML) estimates…",
-          "authors": "Sagnik De, Anil Kumar Gupta"
+          "summary": "We propose a novel approach to the synchronization paradigm in distributed ISAC (DISAC) systems in doubly-dispersive (DD) channel environments via a joint synchronization and radar parameter estimation framework. The proposed method…",
+          "authors": "Niclas Führling, Hyeon Seok Rou, Kuranage Roche Rayan Ranasinghe, Giuseppe Thadeu Freitas de Abreu, Nuria González-Prelcic"
+        },
+        {
+          "title": "Beyond Reconstruction: A Unified Framework for Trustworthy and Explainable EEG Artifact Removal Evaluation",
+          "url": "https://arxiv.org/abs/2611.21781",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Deep-learning methods have achieved strong performance in EEG artifact removal, but evaluation remains dominated by reconstruction metrics such as error, correlation, and signal-to-noise ratio. Although these metrics assess similarity to…",
+          "authors": "Phat Lam, Hung Nguyen, Lam Pham, Huy Phan, Dat Tran, Ian McLoughlin, Roozbeh Razavi-Far, Hung Cao"
+        },
+        {
+          "title": "Reference Coordinates, Output Perturbations, and Information Loss in EEG Decoding",
+          "url": "https://arxiv.org/abs/2611.22752",
+          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Electroencephalography (EEG) decoders can respond to reference changes that preserve all relative-potential information. We use established measurement-operator theory to distinguish coordinate sensitivity, additional output-channel…",
+          "authors": "Runni Zhou, Rongrong Fu, Xinghao Yan, Xiaoyang Li"
         }
       ]
     }
