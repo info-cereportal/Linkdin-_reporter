@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:49:11.362Z",
+  "generatedAt": "2026-11-20T03:42:24.668Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "A single inference process underlies the behavior and neural circuits of working memory",
-          "url": "https://arxiv.org/abs/2611.22054",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "title": "Does a label survive the loop? A screen of necessary physical conditions for a self-measuring system, with a pre-registered test on fly connectomes",
+          "url": "https://arxiv.org/abs/2611.23320",
+          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Working memory holds past inputs online for future behavior. Despite decades of research, accounts of working memory remain divided across levels of analysis, with long-standing debates on whether its capacity reflects discrete slots or…",
-          "authors": "Dongyu Gong, Mario Belledonne, Ilker Yildirim"
+          "summary": "Theories that tie experience to a system that re-reads its own state rarely say what a physical substrate must supply for such a loop to run. We state necessary conditions as measurable bounds in one currency: the number of rounds, each…",
+          "authors": "Eran Kopel"
         },
         {
-          "title": "Earth-strength magnetic-field axis modulates non-spatial probabilistic decision-making in humans",
-          "url": "https://arxiv.org/abs/2611.22386",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "title": "Neural Circuit Architectural Priors for Rat Locomotion",
+          "url": "https://arxiv.org/abs/2611.23364",
+          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Magnetoreception has been primarily studied in orientation and navigation, but whether Earth-strength magnetic fields influence non-spatial decisions remains unclear. Evidence for human magnetic responses is limited, and the transduction…",
-          "authors": "In-Taek Oh, Yong-Hwan Kim, Soo-Chan Kim, Yongkuk Kim, Kwon-Seok Chae"
+          "summary": "Animals generate behavior through continuous interactions between their neural circuits, bodies, and environment. Embodied simulations study these interactions by testing neural circuit models in biologically realistic settings. Recent…",
+          "authors": "Nikhil X. Bhattasali, Jaron Cui, Lerrel Pinto, Grace W. Lindsay"
         },
         {
-          "title": "The shape of individual differences in judgment: shared axes, personal weights, and when their spread crosses the consensus",
-          "url": "https://arxiv.org/abs/2611.22440",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "title": "Hebbian self-organization of monosynaptic reflexes in a biologically realistic multiarticular limb",
+          "url": "https://arxiv.org/abs/2611.23441",
+          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "People differ in how they judge faces, artworks, photographs and jokes. Previous work measured the size of these differences; we ask what shape they take. We wrote three candidate shapes as nested generative models (same-sign reweighting…",
-          "authors": "Hiroshi Higashi"
+          "summary": "Spinal monosynaptic reflexes depend on patterns of connectivity between muscle spindle afferents and motoneurons that should reflect musculoskeletal dynamics. One possibility is that the details of these circuits are specified genetically,…",
+          "authors": "Jonathan Realmuto, Erfan Nozari, Gerald E. Loeb"
         },
         {
-          "title": "Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control",
-          "url": "https://arxiv.org/abs/2611.22639",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "title": "Quantitative Modeling of Action-Potential-Driven Sodium Dynamics in Neurons: From Sodium Influx to Sodium MRI",
+          "url": "https://arxiv.org/abs/2611.23549",
+          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Central pattern generators (CPGs) provide a biologically inspired foundation for adaptive locomotor control, yet systematically characterizing their dynamic regimes in spiking neural networks remains challenging. This study introduces a…",
-          "authors": "Artem Guba, Nikolay Kovalev, Alexey Zharinov, Vacheslav Demin, Viktor B. Kazantsev"
+          "summary": "Neuronal action potentials are accompanied by the influx of extracellular sodium ions (Na+) into axons through voltage-gated sodium channels. Repetitive neuronal firing can lead to activity-dependent increases in intracellular sodium…",
+          "authors": "Yongxian Qian"
         },
         {
-          "title": "Fully Spiking Neural Implementation of Lambda-Calculus Beta-Reduction via Biologically Documented Mechanisms",
-          "url": "https://arxiv.org/abs/2611.23182",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "title": "A Dual-SOM Learner Model of Instructional Efficiency within Cognitive Load Theory",
+          "url": "https://arxiv.org/abs/2611.23795",
+          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "We present the first complete implementation of $\\beta$-reduction in the untyped $\\lambda$-calculus using exclusively spiking neural dynamics. Every step of the reduction---redex detection, subterm segmentation, variable-binding detection,…",
-          "authors": "Vladimir A. Lazovskiy, Victor B. Kazantsev, Sergey V. Stasenko"
+          "summary": "This paper presents a novel methodological framework, integrating a dual self-organising map (SOM) neural network architecture with Cognitive Load Theory (CLT), for assessing instructional efficiency within learning environments. By…",
+          "authors": "Spyridon Revithis"
         },
         {
-          "title": "Why do continual physical learners need sleep?",
-          "url": "https://arxiv.org/abs/2611.22070",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "title": "Inferring Neural Activity Changes under Recording Uncertainty with Transformers and Variational Inference",
+          "url": "https://arxiv.org/abs/2611.24767",
+          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Sleep is widespread across the animal kingdom, including in organisms without a centralized nervous system. Does learning create a need for sleep, even without biology? To explore this question, we study a disordered spring network trained…",
-          "authors": "Nada Elmeligy, Nidhi Pashine, J. M. Schwarz"
+          "summary": "A difference in recorded firing rate across days may reflect a change in neuronal activity, missed spikes or recording a different neuron. We present a statistical approach that combines neuron tracking with Bayesian estimates of…",
+          "authors": "Nilson Chapagain, Pooja Chapagain"
         }
       ]
     },
@@ -62,6 +62,38 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
+          "url": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
+          "publishedDate": "Thu, 19 Nov 2026 22:20:00 +0000",
+          "source": "statnews.com",
+          "summary": "A monoclonal antibody holds promise in preventing malaria, but researchers found it interfered with a new vaccine when used in babies.",
+          "authors": "Andrew Joseph"
+        },
+        {
+          "title": "STAT+: Peptide market poised to explode with new Hims and Noom launches",
+          "url": "https://www.statnews.com/2026/11/19/hims-noom-enter-peptide-market-mainstream-products-health-risks/?utm_campaign=rss",
+          "publishedDate": "Thu, 19 Nov 2026 16:59:47 +0000",
+          "source": "statnews.com",
+          "summary": "Two telehealth giants rolled out peptide programs this week after HHS made it easier for compounding pharmacies to offer drugs like BPC-157.",
+          "authors": "Sarah Todd and Katie Palmer"
+        },
+        {
+          "title": "Sanders’ &#8216;Medicare for All&#8217; plan accrues more liberal and moderate support in Congress",
+          "url": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
+          "publishedDate": "Thu, 19 Nov 2026 12:59:54 +0000",
+          "source": "statnews.com",
+          "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said.",
+          "authors": "O. Rose Broderick and John Wilkerson"
+        },
+        {
+          "title": "STAT+: Before midterm losses, MAHA spent on itself instead of candidates",
+          "url": "https://www.statnews.com/2026/11/19/maha-pac-how-it-spent-money-insiders-candidates-nonprofit/?utm_campaign=rss",
+          "publishedDate": "Thu, 19 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "MAHA PAC spent more at a D.C. steakhouse than it did on the House race of a key ally.",
+          "authors": "Daniel Payne, Isabella Cueto,and Chelsea Cirruzzo"
+        },
         {
           "title": "STAT+: Influential preventive services panel to meet for first time in more than a year",
           "url": "https://www.statnews.com/2026/11/18/uspstf-task-force-after-rfk-jr-shakeup-to-meet/?utm_campaign=rss",
@@ -77,38 +109,6 @@
           "source": "statnews.com",
           "summary": "\"I am asking whether every part of [the medical school] infrastructure needs to be bundled into the same four-year institution,” writes M.D./Ph.D. student Alex Serafini.",
           "authors": "Theresa Gaffney"
-        },
-        {
-          "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
-          "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/?utm_campaign=rss",
-          "publishedDate": "Tue, 17 Nov 2026 18:14:50 +0000",
-          "source": "statnews.com",
-          "summary": "Heidi Overton is facing an uphill climb to become the next FDA commissioner. The latest challenge is her work on vaping.",
-          "authors": "Margaret Manto and Chelsea Cirruzzo"
-        },
-        {
-          "title": "U.S. loses measles elimination status, marking embarrassing stain on its public health record",
-          "url": "https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/?utm_campaign=rss",
-          "publishedDate": "Tue, 17 Nov 2026 16:07:21 +0000",
-          "source": "statnews.com",
-          "summary": "Measles is no longer considered eliminated in the U.S., a finding that was expected but that marks an embarrassing backslide in the country’s basic public health standing.",
-          "authors": "Andrew Joseph"
-        },
-        {
-          "title": "NIH&#8217;s infectious disease unit has a new head at last",
-          "url": "https://www.statnews.com/2026/11/17/health-news-nih-infectious-disease-unit-has-a-new-head-at-last/?utm_campaign=rss",
-          "publishedDate": "Tue, 17 Nov 2026 13:27:01 +0000",
-          "source": "statnews.com",
-          "summary": "The NIH has been without a permanent director since 2025. Now officials announce that acting director John Powers III will take the helm.",
-          "authors": "Amanda Erickson"
-        },
-        {
-          "title": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that",
-          "url": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
-          "publishedDate": "Tue, 17 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
-          "authors": "Theresa Gaffney"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "STAT+: Influential preventive services panel to meet for first time in more than a year",
-          "url": "https://www.statnews.com/2026/11/18/uspstf-task-force-after-rfk-jr-shakeup-to-meet/?utm_campaign=rss",
-          "publishedDate": "Wed, 18 Nov 2026 21:21:26 +0000",
-          "source": "statnews.com",
-          "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: 7 burning questions about the FDA’s post-Overton future",
-          "url": "https://www.statnews.com/2026/11/18/fda-after-heidi-overton-burning-questions-agency-future/?utm_campaign=rss",
-          "publishedDate": "Wed, 18 Nov 2026 19:33:57 +0000",
-          "source": "statnews.com",
-          "summary": "STAT tackles the most important questions about the FDA's uncertain future.",
-          "authors": "Margaret Manto"
-        },
-        {
-          "title": "STAT+: Cassidy rejects Trump’s pick to lead NSF, saying he failed to ‘stand up for science’",
-          "url": "https://www.statnews.com/2026/11/18/bill-cassidy-rejects-jim-oneill-lead-national-science-foundation/?utm_campaign=rss",
-          "publishedDate": "Wed, 18 Nov 2026 15:36:19 +0000",
-          "source": "statnews.com",
-          "summary": "Bill Cassidy's rejection of Jim O'Neill comes shortly after the White House pulled FDA commissioner nominee Heidi Overton.",
-          "authors": "Daniel Payne and Margaret Manto"
-        },
-        {
-          "title": "A rare disease reveals a hidden flaw in the immune system",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
-          "publishedDate": "Wed, 18 Nov 2026 07:33:09 EST",
+          "title": "Experimental compound burns fat without sacrificing muscle",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+          "publishedDate": "Thu, 19 Nov 2026 19:19:49 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered that a rare, potentially life-threatening inflammatory disorder is driven by malfunctioning immune cells, overturning three decades of scientific understanding. The breakthrough points to a promising new…",
+          "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure…",
           "authors": ""
         },
         {
-          "title": "MIT discovers that aging weakens the brain’s nighttime cleaning system",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
-          "publishedDate": "Wed, 18 Nov 2026 07:06:44 EST",
+          "title": "STAT+: MAHA PAC’s steakhouse spend",
+          "url": "https://www.statnews.com/2026/11/19/maha-pac-midterm-election-spending-fda-questions-after-heidi-overton/?utm_campaign=rss",
+          "publishedDate": "Thu, 19 Nov 2026 16:30:07 +0000",
+          "source": "statnews.com",
+          "summary": "MAHA PAC's curious spending decisions, and a close look at what's next for the FDA.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+          "publishedDate": "Thu, 19 Nov 2026 06:13:29 EST",
           "source": "sciencedaily.com",
-          "summary": "MIT researchers have discovered that the brain’s natural waste-removal system becomes significantly less effective during sleep as people age. The decline is linked to weaker deep-sleep brain waves and changes in blood flow, potentially…",
+          "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found…",
           "authors": ""
         },
         {
-          "title": "A little-known protein could be a powerful weapon against Alzheimer’s",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
-          "publishedDate": "Wed, 18 Nov 2026 06:53:30 EST",
+          "title": "STAT+: Before midterm losses, MAHA spent on itself instead of candidates",
+          "url": "https://www.statnews.com/2026/11/19/maha-pac-how-it-spent-money-insiders-candidates-nonprofit/?utm_campaign=rss",
+          "publishedDate": "Thu, 19 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "MAHA PAC spent more at a D.C. steakhouse than it did on the House race of a key ally.",
+          "authors": "Daniel Payne, Isabella Cueto,and Chelsea Cirruzzo"
+        },
+        {
+          "title": "Why don&#039;t weight-loss drugs like Ozempic and Wegovy work for everyone?",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065518.htm",
+          "publishedDate": "Thu, 19 Nov 2026 03:43:56 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have uncovered a powerful natural defense against Alzheimer’s disease that could open the door to new treatments. By boosting a protein called SORLA, researchers significantly reduced toxic tau tangles, protected connections…",
+          "summary": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body&#039;s hidden energy-saving response could help explain the difference and unlock…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover a hidden hereditary form of aggressive prostate cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261117033911.htm",
+          "publishedDate": "Wed, 18 Nov 2026 21:31:02 EST",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have discovered a rare inherited mutation in the CDK12 gene linked to aggressive prostate cancer, with all five identified carriers developing metastatic disease between ages 44 and 62. The finding could lead to expanded genetic…",
           "authors": ""
         }
       ]
@@ -173,83 +173,75 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Multiobjective household energy planning using evolutionary algorithms",
-          "url": "https://arxiv.org/abs/2611.21668",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "title": "AdaS-ViT: Test-Time Adaptive Routing for Spiking Vision Transformers with Ultra-High Energy Efficiency",
+          "url": "https://arxiv.org/abs/2611.23728",
+          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "This article presents the advances in the design and implementation of a recommendation system for planning the use of household appliances, focused on improving energy efficiency from the point of view of both energy companies and…",
-          "authors": "Giovanni Colacurcio, Sergio Nesmachnow, Jamal Toutouh, Francisco Luna, Diego Rossit"
+          "summary": "Spiking Neural Networks (SNNs) promise event-driven and energy-efficient vision, yet existing spiking vision transformers (S-ViTs) largely confine spiking tokens to fixed and uniform firing schemes along the temporal, spatial and channel…",
+          "authors": "Zecheng Hao, Zihan Huang, Shenghao Xie, Jiyuan Zhang, Zhaofei Yu, Tiejun Huang"
         },
         {
-          "title": "Diversity Preservation Recovers Transcription Factor Motifs Across Challenging Confounder Landscapes",
-          "url": "https://arxiv.org/abs/2611.21859",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "title": "Incremental Speciation in Evolutionary Red Teaming of Large Language Models",
+          "url": "https://arxiv.org/abs/2611.23949",
+          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Motif discovery is a process where DNA sequences are searched for the short patterns, called motifs, that transcription factor (TF) proteins bind. However, the motif lengths are often unknown and motif attribution often competes with a…",
-          "authors": "Alejandro Medina, Mary Lauren Benton"
+          "summary": "Speciation maintains distinct subpopulations in evolutionary search through similarity-based grouping and species-aware parent selection. For text-based individuals, niches depend on both the compatibility representation and the assignment…",
+          "authors": "Onkar Shelar, Travis Desell"
         },
         {
-          "title": "Evolving Neural Solvers for Multi-objective Combinatorial Optimization",
-          "url": "https://arxiv.org/abs/2611.22060",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "title": "Analysis of the (1+1)-EA-ES-Bilevel on Mixed Discrete-Continuous Optimization Problems with Interactions",
+          "url": "https://arxiv.org/abs/2611.24251",
+          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Multi-objective combinatorial optimization (MOCO) seeks high-quality solutions that represent different trade-offs among conflicting objectives. Existing neural methods typically train a dedicated model for each preference or condition a…",
-          "authors": "Ya-Hui Jia, Le-Xin Wen, Yang Wang, Wei-Neng Chen, Yi Mei"
+          "summary": "Mixed discrete-continuous optimization problems can pose challenges -- especially for previous integrated approaches -- when interactions cause beneficial discrete changes to be rejected before sufficient continuous adjustment. We…",
+          "authors": "Timo Kötzing, Jurek Sander"
         },
         {
-          "title": "EM-SDTrack: Efficient Multi-Scale Spike-driven Tracking for Event Cameras",
-          "url": "https://arxiv.org/abs/2611.22700",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "title": "Old Matches, New Frames: Schedule-Gated Stereo Memory from Human Vision to Machine Matching",
+          "url": "https://arxiv.org/abs/2611.24848",
+          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Event-driven spiking neural networks (SNNs) match the sparse spatiotemporal output of event cameras, making spike-driven trackers highly attractive for neuromorphic edge deployment. However, events reveal a target only through their…",
-          "authors": "Yimeng Shan, Haodi Wu, Wei Zheng, Xiaowei Ye, Shuai Wang, Yu Liang, Wei Hua, Chenxiao Dou, Malu Zhang"
+          "summary": "Human vision and video stereo networks both reuse disparity evidence across time, yet a refresh of the input can invalidate a match formed milliseconds earlier. What tells a system whether an old match still counts? We answer this from…",
+          "authors": "Ruiqi Liu, Yang Lu, Yanlan Kang"
         },
         {
-          "title": "TabDAG: Structured Evolutionary Search for Tabular Feature Engineering",
-          "url": "https://arxiv.org/abs/2611.22828",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "title": "Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models",
+          "url": "https://arxiv.org/abs/2611.23240",
+          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Feature engineering can improve tabular prediction, but useful transformations are compositional, data-dependent, and subject to leakage constraints. We present TabDAG, a framework that combines evolutionary search with a graph…",
-          "authors": "Anastasia Volkova (FusionBrain Lab), Andrey Kuznetsov (FusionBrain Lab), Ivan Oseledets (AXXX), Valentin Khrulkov (FusionBrain Lab, AXXX)"
+          "summary": "Hysteresis is a complex nonlinear phenomenon characterized by memory dependence, path dependence, and, in many physical systems, degradation, non-congruency, asymmetry, and rate dependence. This review examines the development and…",
+          "authors": "Mehrdad Shafiei Dizaji, Farzad Shafiei Dizaji"
         },
         {
-          "title": "Complexity and precision in quantum associative retrieval",
-          "url": "https://arxiv.org/abs/2611.21941",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "title": "Neural Circuit Architectural Priors for Rat Locomotion",
+          "url": "https://arxiv.org/abs/2611.23364",
+          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "We show that efficient and high-precision quantum associative retrieval is possible with an exponential complexity advantage with respect to the classical brute force approach and with a polynomial capacity advantage with respect to…",
-          "authors": "Carlo A. Trugenberger"
+          "summary": "Animals generate behavior through continuous interactions between their neural circuits, bodies, and environment. Embodied simulations study these interactions by testing neural circuit models in biologically realistic settings. Recent…",
+          "authors": "Nikhil X. Bhattasali, Jaron Cui, Lerrel Pinto, Grace W. Lindsay"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 3,
+      "itemCount": 2,
       "items": [
         {
-          "title": "Joint Synchronization and Radar Parameter Estimation for OFDM-based DISAC Systems",
-          "url": "https://arxiv.org/abs/2606.17699",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "title": "EEGSync: Unitary Temporal Alignment Method for Naturalistic and Resting-State EEG",
+          "url": "https://arxiv.org/abs/2611.24017",
+          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "We propose a novel approach to the synchronization paradigm in distributed ISAC (DISAC) systems in doubly-dispersive (DD) channel environments via a joint synchronization and radar parameter estimation framework. The proposed method…",
-          "authors": "Niclas Führling, Hyeon Seok Rou, Kuranage Roche Rayan Ranasinghe, Giuseppe Thadeu Freitas de Abreu, Nuria González-Prelcic"
+          "summary": "Electroencephalography (EEG) studies increasingly use naturalistic and resting-state paradigms that lack discrete event timing. These recordings contain structured oscillatory activity but often lack repeated stimulus onsets to define a…",
+          "authors": "Anand A. Joshi, Satwik Bathula, Richard M. Leahy"
         },
         {
-          "title": "Beyond Reconstruction: A Unified Framework for Trustworthy and Explainable EEG Artifact Removal Evaluation",
-          "url": "https://arxiv.org/abs/2611.21781",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+          "title": "EEG2MCU: Sensing-to-Execution Co-Design for Wearable EEG Inference",
+          "url": "https://arxiv.org/abs/2611.23619",
+          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Deep-learning methods have achieved strong performance in EEG artifact removal, but evaluation remains dominated by reconstruction metrics such as error, correlation, and signal-to-noise ratio. Although these metrics assess similarity to…",
-          "authors": "Phat Lam, Hung Nguyen, Lam Pham, Huy Phan, Dat Tran, Ian McLoughlin, Roozbeh Razavi-Far, Hung Cao"
-        },
-        {
-          "title": "Reference Coordinates, Output Perturbations, and Information Loss in EEG Decoding",
-          "url": "https://arxiv.org/abs/2611.22752",
-          "publishedDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Electroencephalography (EEG) decoders can respond to reference changes that preserve all relative-potential information. We use established measurement-operator theory to distinguish coordinate sensitivity, additional output-channel…",
-          "authors": "Runni Zhou, Rongrong Fu, Xinghao Yan, Xiaoyang Li"
+          "summary": "Wearable EEG inference is constrained not only by model size, but also by the channel-dependent sensing front end that must process high-dimensional inputs before compact downstream computation. We present EEG2MCU, a sensing-to-execution…",
+          "authors": "Shoma Yukawa, Meghna Roychowdhury, Arnab Sanyal, Chengwei Zhou, Shreyas Sen, Gourav Datta"
         }
       ]
     }
