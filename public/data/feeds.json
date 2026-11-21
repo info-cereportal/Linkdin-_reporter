@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T03:42:24.668Z",
+  "generatedAt": "2026-11-21T03:26:32.399Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Does a label survive the loop? A screen of necessary physical conditions for a self-measuring system, with a pre-registered test on fly connectomes",
-          "url": "https://arxiv.org/abs/2611.23320",
-          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
+          "title": "Persistence of Multifractal Dynamics at the Mammalian Neuromuscular Junction Across Extracellular Calcium Conditions",
+          "url": "https://arxiv.org/abs/2611.25139",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Theories that tie experience to a system that re-reads its own state rarely say what a physical substrate must supply for such a loop to run. We state necessary conditions as measurable bounds in one currency: the number of rounds, each…",
-          "authors": "Eran Kopel"
+          "summary": "The neuromuscular junction represents a relevant experimental model for revealing important biophysical mechanisms underlying synaptic transmission. In this work, we revisited the time-series analysis of electrophysiological recordings…",
+          "authors": "Adriano J. da Silva, Sergio Floquet, Ricardo F. Lima"
         },
         {
-          "title": "Neural Circuit Architectural Priors for Rat Locomotion",
-          "url": "https://arxiv.org/abs/2611.23364",
-          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
+          "title": "Cultural invariance in music-evoked emotions",
+          "url": "https://arxiv.org/abs/2611.25189",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Animals generate behavior through continuous interactions between their neural circuits, bodies, and environment. Embodied simulations study these interactions by testing neural circuit models in biologically realistic settings. Recent…",
-          "authors": "Nikhil X. Bhattasali, Jaron Cui, Lerrel Pinto, Grace W. Lindsay"
+          "summary": "Worldwide, people produce and listen to music to induce, express, and regulate their own and others' emotions. To what extent culture influences the emotions evoked by music is, however, contested. The documented global variation in…",
+          "authors": "Lidya Yurdum, Jan Simson, Roza G. Kamilo\\uglu, Disa A. Sauter, Samuel A. Mehr"
         },
         {
-          "title": "Hebbian self-organization of monosynaptic reflexes in a biologically realistic multiarticular limb",
-          "url": "https://arxiv.org/abs/2611.23441",
-          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
+          "title": "Regime-dependent reconstruction of structural connectivity: an in silico study of spatially constrained modular neuronal networks",
+          "url": "https://arxiv.org/abs/2611.25830",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Spinal monosynaptic reflexes depend on patterns of connectivity between muscle spindle afferents and motoneurons that should reflect musculoskeletal dynamics. One possibility is that the details of these circuits are specified genetically,…",
-          "authors": "Jonathan Realmuto, Erfan Nozari, Gerald E. Loeb"
+          "summary": "Inferring structural connectivity from neuronal activity is a major challenge in neuroscience, yet the conditions under which inferred interactions faithfully reflect anatomical connections remain unclear. Here, we investigate in silico…",
+          "authors": "Laia Barjuan, Hideaki Yamamoto, M. Ángeles Serrano, Jordi Soriano"
         },
         {
-          "title": "Quantitative Modeling of Action-Potential-Driven Sodium Dynamics in Neurons: From Sodium Influx to Sodium MRI",
-          "url": "https://arxiv.org/abs/2611.23549",
-          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
+          "title": "When Should Deployed BCI Decoders Adapt? A Resource-Priced Ladder for Frozen EEG Trunks",
+          "url": "https://arxiv.org/abs/2611.25315",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Neuronal action potentials are accompanied by the influx of extracellular sodium ions (Na+) into axons through voltage-gated sodium channels. Repetitive neuronal firing can lead to activity-dependent increases in intracellular sodium…",
-          "authors": "Yongxian Qian"
+          "summary": "When should a deployed MI decoder spend adaptation resources-not only how to adapt under shift? We study a thin control layer outside a frozen encoder: a resource ladder (factory -> Bayesian head -> affine map, with full fine-tune as an…",
+          "authors": "Sergey Musienko"
         },
         {
-          "title": "A Dual-SOM Learner Model of Instructional Efficiency within Cognitive Load Theory",
-          "url": "https://arxiv.org/abs/2611.23795",
-          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
+          "title": "Does the Workspace Do the Work? A Causal Protocol for Verifying Global-Workspace Computation in a Language Model",
+          "url": "https://arxiv.org/abs/2611.26018",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "This paper presents a novel methodological framework, integrating a dual self-organising map (SOM) neural network architecture with Cognitive Load Theory (CLT), for assessing instructional efficiency within learning environments. By…",
-          "authors": "Spyridon Revithis"
+          "summary": "Global Workspace Theory (GWT), a leading theory of consciousness, holds that information becomes conscious when it is broadcast to specialized processes that use it. Building a workspace into a network does not reveal what the trained…",
+          "authors": "Diaoxuan He, Linqian Wu"
         },
         {
-          "title": "Inferring Neural Activity Changes under Recording Uncertainty with Transformers and Variational Inference",
-          "url": "https://arxiv.org/abs/2611.24767",
-          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
+          "title": "Revealing Pathway Interactions in Network Computations with Complete Path Contribution",
+          "url": "https://arxiv.org/abs/2611.26101",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "A difference in recorded firing rate across days may reflect a change in neuronal activity, missed spikes or recording a different neuron. We present a statistical approach that combines neuron tracking with Bayesian estimates of…",
-          "authors": "Nilson Chapagain, Pooja Chapagain"
+          "summary": "Networks pass signals through many layers of interconnected units, so explaining what they compute means tracing how information travels from input to output and how pathways interact. Most existing approaches analyze only pairwise…",
+          "authors": "Shenghua Liu, Youssef Faragalla, Surya Ganguli, Stephen A. Baccus"
         }
       ]
     },
@@ -62,6 +62,30 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
+          "url": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
+          "publishedDate": "Fri, 20 Nov 2026 20:26:10 +0000",
+          "source": "statnews.com",
+          "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
+          "authors": "Isabella Cueto"
+        },
+        {
+          "title": "STAT+: Medicare pilot will test ‘food is medicine’ and other lifestyle programs to counter chronic diseases",
+          "url": "https://www.statnews.com/2026/11/20/kennedy-food-is-medicine-maha-elevate-pilot/?utm_campaign=rss",
+          "publishedDate": "Fri, 20 Nov 2026 19:04:04 +0000",
+          "source": "statnews.com",
+          "summary": "Medicare does not cover many of the lifestyle interventions that could keep people from getting sick in the first place.",
+          "authors": "Isabella Cueto"
+        },
+        {
+          "title": "Researchers explore possibility of a CTE blood test",
+          "url": "https://www.statnews.com/2026/11/20/health-news-researchers-explore-possibility-of-cte-blood-test/?utm_campaign=rss",
+          "publishedDate": "Fri, 20 Nov 2026 13:53:10 +0000",
+          "source": "statnews.com",
+          "summary": "21 football players donated blood while they were alive and then gave their brains to CTE research after death. Here's what scientists found.",
+          "authors": "Jason Mast and O. Rose Broderick"
+        },
         {
           "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
           "url": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
@@ -85,30 +109,6 @@
           "source": "statnews.com",
           "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said.",
           "authors": "O. Rose Broderick and John Wilkerson"
-        },
-        {
-          "title": "STAT+: Before midterm losses, MAHA spent on itself instead of candidates",
-          "url": "https://www.statnews.com/2026/11/19/maha-pac-how-it-spent-money-insiders-candidates-nonprofit/?utm_campaign=rss",
-          "publishedDate": "Thu, 19 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "MAHA PAC spent more at a D.C. steakhouse than it did on the House race of a key ally.",
-          "authors": "Daniel Payne, Isabella Cueto,and Chelsea Cirruzzo"
-        },
-        {
-          "title": "STAT+: Influential preventive services panel to meet for first time in more than a year",
-          "url": "https://www.statnews.com/2026/11/18/uspstf-task-force-after-rfk-jr-shakeup-to-meet/?utm_campaign=rss",
-          "publishedDate": "Wed, 18 Nov 2026 21:21:26 +0000",
-          "source": "statnews.com",
-          "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use.",
-          "authors": "Chelsea Cirruzzo"
-        },
-        {
-          "title": "What redesigning medical school might look like",
-          "url": "https://www.statnews.com/2026/11/18/health-news-what-redesigning-medical-school-might-look-like/?utm_campaign=rss",
-          "publishedDate": "Wed, 18 Nov 2026 13:03:55 +0000",
-          "source": "statnews.com",
-          "summary": "\"I am asking whether every part of [the medical school] infrastructure needs to be bundled into the same four-year institution,” writes M.D./Ph.D. student Alex Serafini.",
-          "authors": "Theresa Gaffney"
         }
       ]
     },
@@ -118,51 +118,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Experimental compound burns fat without sacrificing muscle",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
-          "publishedDate": "Thu, 19 Nov 2026 19:19:49 EST",
-          "source": "sciencedaily.com",
-          "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: MAHA PAC’s steakhouse spend",
-          "url": "https://www.statnews.com/2026/11/19/maha-pac-midterm-election-spending-fda-questions-after-heidi-overton/?utm_campaign=rss",
-          "publishedDate": "Thu, 19 Nov 2026 16:30:07 +0000",
+          "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
+          "url": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
+          "publishedDate": "Fri, 20 Nov 2026 20:26:10 +0000",
           "source": "statnews.com",
-          "summary": "MAHA PAC's curious spending decisions, and a close look at what's next for the FDA.",
-          "authors": "John Wilkerson"
+          "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
+          "authors": "Isabella Cueto"
         },
         {
-          "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
-          "publishedDate": "Thu, 19 Nov 2026 06:13:29 EST",
-          "source": "sciencedaily.com",
-          "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Before midterm losses, MAHA spent on itself instead of candidates",
-          "url": "https://www.statnews.com/2026/11/19/maha-pac-how-it-spent-money-insiders-candidates-nonprofit/?utm_campaign=rss",
-          "publishedDate": "Thu, 19 Nov 2026 09:30:00 +0000",
+          "title": "STAT+: Medicare pilot will test ‘food is medicine’ and other lifestyle programs to counter chronic diseases",
+          "url": "https://www.statnews.com/2026/11/20/kennedy-food-is-medicine-maha-elevate-pilot/?utm_campaign=rss",
+          "publishedDate": "Fri, 20 Nov 2026 19:04:04 +0000",
           "source": "statnews.com",
-          "summary": "MAHA PAC spent more at a D.C. steakhouse than it did on the House race of a key ally.",
-          "authors": "Daniel Payne, Isabella Cueto,and Chelsea Cirruzzo"
+          "summary": "Medicare does not cover many of the lifestyle interventions that could keep people from getting sick in the first place.",
+          "authors": "Isabella Cueto"
         },
         {
-          "title": "Why don&#039;t weight-loss drugs like Ozempic and Wegovy work for everyone?",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261118065518.htm",
-          "publishedDate": "Thu, 19 Nov 2026 03:43:56 EST",
+          "title": "Keto diet slashes liver fat by 67% in just 4 months",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
+          "publishedDate": "Fri, 20 Nov 2026 07:44:39 EST",
           "source": "sciencedaily.com",
-          "summary": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body&#039;s hidden energy-saving response could help explain the difference and unlock…",
+          "summary": "A new clinical trial found that the ketogenic diet dramatically outperformed Mediterranean and low-fat diets in reducing liver fat and improving metabolic health, even when participants lost similar amounts of weight. After just four to…",
           "authors": ""
         },
         {
-          "title": "Scientists discover a hidden hereditary form of aggressive prostate cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261117033911.htm",
-          "publishedDate": "Wed, 18 Nov 2026 21:31:02 EST",
+          "title": "This simple habit is linked to a 33% lower risk of Alzheimer&#039;s",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
+          "publishedDate": "Fri, 20 Nov 2026 07:06:07 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered a rare inherited mutation in the CDK12 gene linked to aggressive prostate cancer, with all five identified carriers developing metastatic disease between ages 44 and 62. The finding could lead to expanded genetic…",
+          "summary": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings that just five…",
+          "authors": ""
+        },
+        {
+          "title": "For better mental health, how often you exercise may matter more than how hard",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261119194601.htm",
+          "publishedDate": "Fri, 20 Nov 2026 04:09:17 EST",
+          "source": "sciencedaily.com",
+          "summary": "A study of more than 10,000 college students found that exercising regularly may be more important for mental health than pushing yourself through intense or lengthy workouts. Students who exercised less frequently were more likely to…",
+          "authors": ""
+        },
+        {
+          "title": "Powerful new weight-loss drug helps patients cut knee pain in half",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065534.htm",
+          "publishedDate": "Thu, 19 Nov 2026 23:31:15 EST",
+          "source": "sciencedaily.com",
+          "summary": "A powerful experimental weight-loss drug helped people with knee osteoarthritis lose about 25% of their body weight at the highest dose, while roughly two-thirds experienced at least a 50% reduction in knee pain. The findings suggest…",
           "authors": ""
         }
       ]
@@ -173,75 +173,91 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "AdaS-ViT: Test-Time Adaptive Routing for Spiking Vision Transformers with Ultra-High Energy Efficiency",
-          "url": "https://arxiv.org/abs/2611.23728",
-          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
+          "title": "Hierarchical Spatiotemporal World Modeling with Content-Adaptive Spatial Addressing",
+          "url": "https://arxiv.org/abs/2611.25610",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Spiking Neural Networks (SNNs) promise event-driven and energy-efficient vision, yet existing spiking vision transformers (S-ViTs) largely confine spiking tokens to fixed and uniform firing schemes along the temporal, spatial and channel…",
-          "authors": "Zecheng Hao, Zihan Huang, Shenghao Xie, Jiyuan Zhang, Zhaofei Yu, Tiejun Huang"
+          "summary": "Long-horizon world modeling in partially observable environments requires compact memories that preserve spatial structure despite accumulated localization drift. Inspired by hippocampal episodic and spatial memory and the multi-periodic…",
+          "authors": "Tiantian Li, Junfeng Lu, Yifei Wang, Zhaoyang Zhang, Lei Wang, Tianyi Qian"
         },
         {
-          "title": "Incremental Speciation in Evolutionary Red Teaming of Large Language Models",
-          "url": "https://arxiv.org/abs/2611.23949",
-          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
+          "title": "A Matter of Representation: Evolving Partial Spreads for Bent Functions",
+          "url": "https://arxiv.org/abs/2611.26011",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Speciation maintains distinct subpopulations in evolutionary search through similarity-based grouping and species-aware parent selection. For text-based individuals, niches depend on both the compatibility representation and the assignment…",
-          "authors": "Onkar Shelar, Travis Desell"
+          "summary": "Partial spread ($\\mathcalPS$) bent functions are Boolean functions of maximum nonlinearity built from families of subspaces that pairwise intersect only in the null vector. We design an Evolution Strategy (ES) to construct such partial…",
+          "authors": "Claude Carlet, Marko \\DJurasevic, Domagoj Jakobovic, Luca Manzoni, Luca Mariot, Stjepan Picek"
         },
         {
-          "title": "Analysis of the (1+1)-EA-ES-Bilevel on Mixed Discrete-Continuous Optimization Problems with Interactions",
-          "url": "https://arxiv.org/abs/2611.24251",
-          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
+          "title": "DL101 The Representation Capability of Neural Network Models",
+          "url": "https://arxiv.org/abs/2611.24980",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Mixed discrete-continuous optimization problems can pose challenges -- especially for previous integrated approaches -- when interactions cause beneficial discrete changes to be rejected before sufficient continuous adjustment. We…",
-          "authors": "Timo Kötzing, Jurek Sander"
+          "summary": "Universal approximation theorems (Cybenko, Funahashi, Hornik & Leshno) provide the mathematical justification for why neural networks are powerful enough to model complex, nonlinear phenomena. Shallow networks can approximate any…",
+          "authors": "Fernando Berzal"
         },
         {
-          "title": "Old Matches, New Frames: Schedule-Gated Stereo Memory from Human Vision to Machine Matching",
-          "url": "https://arxiv.org/abs/2611.24848",
-          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
+          "title": "Compiling Constraints into Neuromorphic Ising Machines",
+          "url": "https://arxiv.org/abs/2611.25352",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Human vision and video stereo networks both reuse disparity evidence across time, yet a refresh of the input can invalidate a match formed milliseconds earlier. What tells a system whether an old match still counts? We answer this from…",
-          "authors": "Ruiqi Liu, Yang Lu, Yanlan Kang"
+          "summary": "Most practical combinatorial optimization problems involve constraints, and an Ising machine that flips one spin at a time can respect them only through energy penalties that raise barriers between feasible solutions. Here we show that a…",
+          "authors": "Faiek Ahsan, Shantanu Chakrabartty"
         },
         {
-          "title": "Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models",
-          "url": "https://arxiv.org/abs/2611.23240",
-          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
+          "title": "HabitusMem: Belief Memory over Evolving User Preferences for LLM Agents",
+          "url": "https://arxiv.org/abs/2611.25855",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Hysteresis is a complex nonlinear phenomenon characterized by memory dependence, path dependence, and, in many physical systems, degradation, non-congruency, asymmetry, and rate dependence. This review examines the development and…",
-          "authors": "Mehrdad Shafiei Dizaji, Farzad Shafiei Dizaji"
+          "summary": "Personalized LLM agents must act on a user's current preferences, which change across interactions and are rarely stated in full. Existing memory systems store and retrieve content from the interaction history and leave the agent to work…",
+          "authors": "Yifan Lu, Gaoyang Guo, Wen Chen, Ziyun Zou, Jian Wu, Han Zhu, Imran Razzak"
         },
         {
-          "title": "Neural Circuit Architectural Priors for Rat Locomotion",
-          "url": "https://arxiv.org/abs/2611.23364",
-          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
+          "title": "Evolving Decoding Algorithms for Quantum Error Correction",
+          "url": "https://arxiv.org/abs/2611.25880",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Animals generate behavior through continuous interactions between their neural circuits, bodies, and environment. Embodied simulations study these interactions by testing neural circuit models in biologically realistic settings. Recent…",
-          "authors": "Nikhil X. Bhattasali, Jaron Cui, Lerrel Pinto, Grace W. Lindsay"
+          "summary": "Quantum computation entails robustness engineering: a noisy quantum state is measured continuously, and a classical algorithm (the decoder) must infer corrections that reliably remove the noise, fast enough to keep up. We write several…",
+          "authors": "Eduardo Dueñez, Edgar Said Hernandez Sanchez, Edgar A. Duéñez-Guzmán, Suzanne Sadedin"
         }
       ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 2,
+      "itemCount": 4,
       "items": [
         {
-          "title": "EEGSync: Unitary Temporal Alignment Method for Naturalistic and Resting-State EEG",
-          "url": "https://arxiv.org/abs/2611.24017",
-          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
+          "title": "A closed-loop agentic research environment for MRI development within Siemens IDEA platform",
+          "url": "https://arxiv.org/abs/2611.25726",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Electroencephalography (EEG) studies increasingly use naturalistic and resting-state paradigms that lack discrete event timing. These recordings contain structured oscillatory activity but often lack repeated stimulus onsets to define a…",
-          "authors": "Anand A. Joshi, Satwik Bathula, Richard M. Leahy"
+          "summary": "Motivation: Testing new ideas in MRI can require substantial effort to learn sequence programming and reconstruction tools and to debug implementations before the scientific question can be addressed. Goals: Reduce the implementation and…",
+          "authors": "Zimu Huo, Zachary Shah, Adam B Kerr, Kawin Setsompop"
         },
         {
-          "title": "EEG2MCU: Sensing-to-Execution Co-Design for Wearable EEG Inference",
-          "url": "https://arxiv.org/abs/2611.23619",
-          "publishedDate": "Thu, 19 Nov 2026 00:00:00 -0500",
+          "title": "Reading Across Space, Time and Frequencies: Tensor Decomposition of SEEG Signals to Support Epileptogenic Zone Definition",
+          "url": "https://arxiv.org/abs/2611.26137",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Wearable EEG inference is constrained not only by model size, but also by the channel-dependent sensing front end that must process high-dimensional inputs before compact downstream computation. We present EEG2MCU, a sensing-to-execution…",
-          "authors": "Shoma Yukawa, Meghna Roychowdhury, Arnab Sanyal, Chengwei Zhou, Shreyas Sen, Gourav Datta"
+          "summary": "Stereo-electroencephalography (SEEG) is an invasive technique used in the presurgical evaluation of drug-resistant epilepsy to support the localization of the Epileptogenic Zone (EZ). SEEG data are particularly complex to analyze, as they…",
+          "authors": "Federico Mason, Matteo Neri, Maria Fratello, Julia Makhalova, Fabrice Bartolomei, Giovanni Petri, Christian G. Benar"
+        },
+        {
+          "title": "Transition Dynamics Matter: Hidden Markov Scoring of Epileptogenic Channels in SEEG",
+          "url": "https://arxiv.org/abs/2611.26142",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Stereo-electroencephalography (SEEG) represents the most effective technique for the detection of the Epileptogenic Zone (EZ) in drug-resistant epilepsy. This procedure produces a multi-dimensional signal with hundreds of components, named…",
+          "authors": "Giulia Tacconi, Federico Mason, Lorenzo Ferri, Elena Pasini, Lidia Di Vito, Matteo Martinoni, Lara Alvisi, Anna Scarabello, Luca Zanuttini, Francesca Bisulli, Andrea Zanella"
+        },
+        {
+          "title": "Temporal Contrastive Alignment of EEG and Naturalistic Video Only Beats Linear Decoding On In-Sample Stimuli",
+          "url": "https://arxiv.org/abs/2611.26258",
+          "publishedDate": "Fri, 20 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Neural tracking, the temporal alignment between a continuous stimulus and the elicited brain response, enables decoding of attention from electroencephalography (EEG), yet its application to naturalistic video remains largely unexplored…",
+          "authors": "Yuanyuan Yao, Simon Geirnaert, Alexander Bertrand"
         }
       ]
     }
