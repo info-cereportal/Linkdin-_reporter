@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:37:13.525Z",
+  "generatedAt": "2026-11-23T03:03:36.105Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -69,51 +69,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
-          "publishedDate": "Fri, 20 Nov 2026 21:35:26 EST",
+          "title": "Common medications may secretly rewire your gut, with effects lasting for years",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
+          "publishedDate": "Sun, 22 Nov 2026 16:35:19 EST",
           "source": "sciencedaily.com",
-          "summary": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules capable of damaging cells…",
+          "summary": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and…",
           "authors": ""
         },
         {
-          "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
-          "url": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
-          "publishedDate": "Fri, 20 Nov 2026 20:26:10 +0000",
-          "source": "statnews.com",
-          "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
-          "authors": "Isabella Cueto"
-        },
-        {
-          "title": "STAT+: Medicare pilot will test ‘food is medicine’ and other lifestyle programs to counter chronic diseases",
-          "url": "https://www.statnews.com/2026/11/20/kennedy-food-is-medicine-maha-elevate-pilot/?utm_campaign=rss",
-          "publishedDate": "Fri, 20 Nov 2026 19:04:04 +0000",
-          "source": "statnews.com",
-          "summary": "Medicare does not cover many of the lifestyle interventions that could keep people from getting sick in the first place.",
-          "authors": "Isabella Cueto"
-        },
-        {
-          "title": "Keto diet slashes liver fat by 67% in just 4 months",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
-          "publishedDate": "Fri, 20 Nov 2026 07:44:39 EST",
+          "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
+          "publishedDate": "Sun, 22 Nov 2026 15:57:35 EST",
           "source": "sciencedaily.com",
-          "summary": "A new clinical trial found that the ketogenic diet dramatically outperformed Mediterranean and low-fat diets in reducing liver fat and improving metabolic health, even when participants lost similar amounts of weight. After just four to…",
+          "summary": "People with type 2 diabetes face a 53% higher risk of developing Alzheimer’s disease, according to a major new review of 40 studies. Researchers estimate that nearly five out of every 1,000 people with type 2 diabetes develop Alzheimer’s…",
           "authors": ""
         },
         {
-          "title": "This simple habit is linked to a 33% lower risk of Alzheimer&#039;s",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
-          "publishedDate": "Fri, 20 Nov 2026 07:06:07 EST",
+          "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+          "publishedDate": "Sun, 22 Nov 2026 06:04:06 EST",
           "source": "sciencedaily.com",
-          "summary": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings that just five…",
+          "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world&#039;s oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic…",
           "authors": ""
         },
         {
-          "title": "For better mental health, how often you exercise may matter more than how hard",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261119194601.htm",
-          "publishedDate": "Fri, 20 Nov 2026 04:09:17 EST",
+          "title": "Scientists discover a hidden eye disease that slowly steals night vision",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261119194547.htm",
+          "publishedDate": "Sun, 22 Nov 2026 05:48:36 EST",
           "source": "sciencedaily.com",
-          "summary": "A study of more than 10,000 college students found that exercising regularly may be more important for mental health than pushing yourself through intense or lengthy workouts. Students who exercised less frequently were more likely to…",
+          "summary": "Scientists have discovered a new genetic eye disease that can silently damage peripheral and night vision while leaving central sight largely unaffected for years. The condition may be detectable through an unusual difficulty adjusting to…",
+          "authors": ""
+        },
+        {
+          "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+          "publishedDate": "Sat, 21 Nov 2026 22:43:18 EST",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have developed an AI tool that can uncover hidden warning signs of bladder cancer up to five years before diagnosis, identifying 85% of cases in a major study involving nearly 70,000 patients. By revealing subtle patterns that…",
+          "authors": ""
+        },
+        {
+          "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
+          "publishedDate": "Sat, 21 Nov 2026 22:00:27 EST",
+          "source": "sciencedaily.com",
+          "summary": "Scientists have identified a gene that helps the brain’s immune cells contain harmful plaques linked to Alzheimer’s, potentially revealing a new way to fight the disease. When the gene malfunctioned in mice, toxic buildup accelerated and…",
           "authors": ""
         }
       ]
