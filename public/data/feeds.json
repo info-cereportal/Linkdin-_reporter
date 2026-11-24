@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T03:03:36.105Z",
+  "generatedAt": "2026-11-24T06:21:38.703Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -13,6 +13,30 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
+          "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
+          "publishedDate": "Mon, 23 Nov 2026 21:23:42 +0000",
+          "source": "statnews.com",
+          "summary": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year.",
+          "authors": "Jason Mast"
+        },
+        {
+          "title": "At first preventive services panel meeting in more than a year, votes are cast in private",
+          "url": "https://www.statnews.com/2026/11/23/health-news-preventive-services-panel-votes-cast-in-private/?utm_campaign=rss",
+          "publishedDate": "Mon, 23 Nov 2026 13:04:19 +0000",
+          "source": "statnews.com",
+          "summary": "In its first meeting since 2025, an influential panel of doctors evaluating preventive medical care grappled with the ways RFK Jr. has upended science and medicine:",
+          "authors": "Amanda Erickson, Chelsea Cirruzzo,and O. Rose Broderick"
+        },
+        {
+          "title": "As diabetes association&#8217;s turmoil continues, what does it mean for patients?",
+          "url": "https://www.statnews.com/2026/11/23/ada-convention-fallout-will-turmoil-impact-patients-research/?utm_campaign=rss",
+          "publishedDate": "Mon, 23 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "The American Diabetes Association has made concrete differences in patient care in the past. Its disarray has experts worried about the future.",
+          "authors": "Elizabeth Cooney"
+        },
         {
           "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
           "url": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
@@ -36,30 +60,6 @@
           "source": "statnews.com",
           "summary": "21 football players donated blood while they were alive and then gave their brains to CTE research after death. Here's what scientists found.",
           "authors": "Jason Mast and O. Rose Broderick"
-        },
-        {
-          "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
-          "url": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
-          "publishedDate": "Thu, 19 Nov 2026 22:20:00 +0000",
-          "source": "statnews.com",
-          "summary": "A monoclonal antibody holds promise in preventing malaria, but researchers found it interfered with a new vaccine when used in babies.",
-          "authors": "Andrew Joseph"
-        },
-        {
-          "title": "STAT+: Peptide market poised to explode with new Hims and Noom launches",
-          "url": "https://www.statnews.com/2026/11/19/hims-noom-enter-peptide-market-mainstream-products-health-risks/?utm_campaign=rss",
-          "publishedDate": "Thu, 19 Nov 2026 16:59:47 +0000",
-          "source": "statnews.com",
-          "summary": "Two telehealth giants rolled out peptide programs this week after HHS made it easier for compounding pharmacies to offer drugs like BPC-157.",
-          "authors": "Sarah Todd and Katie Palmer"
-        },
-        {
-          "title": "Sanders’ &#8216;Medicare for All&#8217; plan accrues more liberal and moderate support in Congress",
-          "url": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
-          "publishedDate": "Thu, 19 Nov 2026 12:59:54 +0000",
-          "source": "statnews.com",
-          "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said.",
-          "authors": "O. Rose Broderick and John Wilkerson"
         }
       ]
     },
@@ -69,51 +69,51 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Common medications may secretly rewire your gut, with effects lasting for years",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
-          "publishedDate": "Sun, 22 Nov 2026 16:35:19 EST",
+          "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
+          "url": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
+          "publishedDate": "Tue, 24 Nov 2026 00:19:48 +0000",
+          "source": "statnews.com",
+          "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
+          "authors": "John Wilkerson"
+        },
+        {
+          "title": "New gum disease treatment kills bad bacteria while sparing the good",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
+          "publishedDate": "Mon, 23 Nov 2026 06:55:17 EST",
           "source": "sciencedaily.com",
-          "summary": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and…",
+          "summary": "Researchers in Japan have developed an innovative gum disease treatment that uses egg yolk antibodies and near-infrared light to destroy harmful bacteria without harming beneficial microbes. Unlike conventional treatments, the approach…",
           "authors": ""
         },
         {
-          "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
-          "publishedDate": "Sun, 22 Nov 2026 15:57:35 EST",
+          "title": "Mysterious new viruses reveal a missing link in evolution",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
+          "publishedDate": "Mon, 23 Nov 2026 05:45:53 EST",
           "source": "sciencedaily.com",
-          "summary": "People with type 2 diabetes face a 53% higher risk of developing Alzheimer’s disease, according to a major new review of 40 studies. Researchers estimate that nearly five out of every 1,000 people with type 2 diabetes develop Alzheimer’s…",
+          "summary": "Scientists have discovered previously unknown viruses that could help explain how some of life’s earliest biological structures evolved. The surprising findings challenge a longstanding evolutionary theory and suggest that viruses may have…",
           "authors": ""
         },
         {
-          "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
-          "publishedDate": "Sun, 22 Nov 2026 06:04:06 EST",
+          "title": "Scientists discover that leukemia can begin developing 50 years before diagnosis",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261121221122.htm",
+          "publishedDate": "Mon, 23 Nov 2026 05:26:07 EST",
           "source": "sciencedaily.com",
-          "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world&#039;s oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic…",
+          "summary": "A groundbreaking study reveals that acute myeloid leukemia (AML), an aggressive blood cancer, can begin developing more than 50 years before diagnosis, with the first cancer-driving mutation appearing before age 20 in two-thirds of cases.…",
           "authors": ""
         },
         {
-          "title": "Scientists discover a hidden eye disease that slowly steals night vision",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261119194547.htm",
-          "publishedDate": "Sun, 22 Nov 2026 05:48:36 EST",
+          "title": "Mice slept 70% less after scientists switched off these brain cells",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261122060336.htm",
+          "publishedDate": "Sun, 22 Nov 2026 21:02:10 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have discovered a new genetic eye disease that can silently damage peripheral and night vision while leaving central sight largely unaffected for years. The condition may be detectable through an unusual difficulty adjusting to…",
+          "summary": "Scientists have discovered brain cells that actively generate the irresistible urge to sleep, and shutting them down allowed mice to sleep 70% less than normal. Remarkably, many of the animals avoided the severe behavioral consequences of…",
           "authors": ""
         },
         {
-          "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
-          "publishedDate": "Sat, 21 Nov 2026 22:43:18 EST",
+          "title": "U.S. loses measles elimination status after 25 years as vaccine myths persist",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261122060323.htm",
+          "publishedDate": "Sun, 22 Nov 2026 20:16:17 EST",
           "source": "sciencedaily.com",
-          "summary": "Scientists have developed an AI tool that can uncover hidden warning signs of bladder cancer up to five years before diagnosis, identifying 85% of cases in a major study involving nearly 70,000 patients. By revealing subtle patterns that…",
-          "authors": ""
-        },
-        {
-          "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
-          "publishedDate": "Sat, 21 Nov 2026 22:00:27 EST",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have identified a gene that helps the brain’s immune cells contain harmful plaques linked to Alzheimer’s, potentially revealing a new way to fight the disease. When the gene malfunctioned in mice, toxic buildup accelerated and…",
+          "summary": "The United States has lost its measles elimination status after more than 25 years, and a new survey reveals widespread misconceptions about the deadly disease and its vaccine. With measles cases surging, more than one-third of Americans…",
           "authors": ""
         }
       ]
