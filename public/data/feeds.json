@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T06:21:38.703Z",
+  "generatedAt": "2026-11-25T05:00:42.407Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -13,6 +13,14 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Menopause hormone therapy med popularity increases 141% compared to previous years",
+          "url": "https://www.statnews.com/2026/11/24/health-news-menopause-hormone-therapy-med-popularity-increases-141-percent/?utm_campaign=rss",
+          "publishedDate": "Tue, 24 Nov 2026 14:15:03 +0000",
+          "source": "statnews.com",
+          "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
+          "authors": "Theresa Gaffney and Annalisa Merelli"
+        },
         {
           "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
           "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
@@ -52,14 +60,6 @@
           "source": "statnews.com",
           "summary": "Medicare does not cover many of the lifestyle interventions that could keep people from getting sick in the first place.",
           "authors": "Isabella Cueto"
-        },
-        {
-          "title": "Researchers explore possibility of a CTE blood test",
-          "url": "https://www.statnews.com/2026/11/20/health-news-researchers-explore-possibility-of-cte-blood-test/?utm_campaign=rss",
-          "publishedDate": "Fri, 20 Nov 2026 13:53:10 +0000",
-          "source": "statnews.com",
-          "summary": "21 football players donated blood while they were alive and then gave their brains to CTE research after death. Here's what scientists found.",
-          "authors": "Jason Mast and O. Rose Broderick"
         }
       ]
     },
@@ -69,52 +69,52 @@
       "itemCount": 6,
       "items": [
         {
+          "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+          "publishedDate": "Tue, 24 Nov 2026 18:31:52 EST",
+          "source": "sciencedaily.com",
+          "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA…",
+          "authors": ""
+        },
+        {
+          "title": "STAT+: RFK Jr. spills his calendar into public, but leaves much to the imagination",
+          "url": "https://www.statnews.com/2026/11/24/rfk-jr-calendar-hhs-records-rollout/?utm_campaign=rss",
+          "publishedDate": "Tue, 24 Nov 2026 19:30:29 +0000",
+          "source": "statnews.com",
+          "summary": "A partially redacted calendar showing health secretary Robert F. Kennedy Jr.’s activities was made public on Tuesday.",
+          "authors": "Chelsea Cirruzzo and Daniel Payne"
+        },
+        {
+          "title": "Cannabis users develop psychosis years earlier, and the gap grows with age",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005346.htm",
+          "publishedDate": "Tue, 24 Nov 2026 05:57:44 EST",
+          "source": "sciencedaily.com",
+          "summary": "A major analysis of 149 studies found that cannabis users develop psychosis an average of 2.5 years earlier than non-users, with the difference growing to more than six years among adults 30 and older. Researchers warn that…",
+          "authors": ""
+        },
+        {
+          "title": "Scientists discover a new type of depression that common antidepressants struggle to treat",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
+          "publishedDate": "Tue, 24 Nov 2026 05:47:51 EST",
+          "source": "sciencedaily.com",
+          "summary": "Researchers have discovered a new subtype of depression that may affect nearly one in four people with severe, recurrent, or persistent depression. Known as \"circadian depression,\" it is linked to the body&#039;s internal clock and is…",
+          "authors": ""
+        },
+        {
+          "title": "Depression may be an early warning sign of Alzheimer&#039;s disease",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261121221134.htm",
+          "publishedDate": "Mon, 23 Nov 2026 19:31:03 EST",
+          "source": "sciencedaily.com",
+          "summary": "Depression in older adults may be more than a mental health concern. Scientists discovered that accumulating tau protein, a hallmark of Alzheimer&#039;s disease, was linked to worsening depressive symptoms in people who still had normal…",
+          "authors": ""
+        },
+        {
           "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
           "url": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
           "publishedDate": "Tue, 24 Nov 2026 00:19:48 +0000",
           "source": "statnews.com",
           "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
           "authors": "John Wilkerson"
-        },
-        {
-          "title": "New gum disease treatment kills bad bacteria while sparing the good",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
-          "publishedDate": "Mon, 23 Nov 2026 06:55:17 EST",
-          "source": "sciencedaily.com",
-          "summary": "Researchers in Japan have developed an innovative gum disease treatment that uses egg yolk antibodies and near-infrared light to destroy harmful bacteria without harming beneficial microbes. Unlike conventional treatments, the approach…",
-          "authors": ""
-        },
-        {
-          "title": "Mysterious new viruses reveal a missing link in evolution",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
-          "publishedDate": "Mon, 23 Nov 2026 05:45:53 EST",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have discovered previously unknown viruses that could help explain how some of life’s earliest biological structures evolved. The surprising findings challenge a longstanding evolutionary theory and suggest that viruses may have…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover that leukemia can begin developing 50 years before diagnosis",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261121221122.htm",
-          "publishedDate": "Mon, 23 Nov 2026 05:26:07 EST",
-          "source": "sciencedaily.com",
-          "summary": "A groundbreaking study reveals that acute myeloid leukemia (AML), an aggressive blood cancer, can begin developing more than 50 years before diagnosis, with the first cancer-driving mutation appearing before age 20 in two-thirds of cases.…",
-          "authors": ""
-        },
-        {
-          "title": "Mice slept 70% less after scientists switched off these brain cells",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261122060336.htm",
-          "publishedDate": "Sun, 22 Nov 2026 21:02:10 EST",
-          "source": "sciencedaily.com",
-          "summary": "Scientists have discovered brain cells that actively generate the irresistible urge to sleep, and shutting them down allowed mice to sleep 70% less than normal. Remarkably, many of the animals avoided the severe behavioral consequences of…",
-          "authors": ""
-        },
-        {
-          "title": "U.S. loses measles elimination status after 25 years as vaccine myths persist",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261122060323.htm",
-          "publishedDate": "Sun, 22 Nov 2026 20:16:17 EST",
-          "source": "sciencedaily.com",
-          "summary": "The United States has lost its measles elimination status after more than 25 years, and a new survey reveals widespread misconceptions about the deadly disease and its vaccine. With measles cases surging, more than one-third of Americans…",
-          "authors": ""
         }
       ]
     },
