@@ -1,18 +1,83 @@
 {
-  "generatedAt": "2026-11-25T05:00:42.407Z",
+  "generatedAt": "2026-11-26T04:20:34.960Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Normative and neural network models of multisensory integration",
+          "url": "https://arxiv.org/abs/2611.32829",
+          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Animals continuously detect scents, sights and sounds, which their brains combine into diverse multisensory streams. Multisensory integration accelerates learning, increases reaction speeds and helps to resolve sensory ambiguities. In…",
+          "authors": "Marcus Ghosh, John S. Butler"
+        },
+        {
+          "title": "Direct Conditioning of Audio Diffusion Transformers on fMRI Reveals Cortical Contributions to Sound Reconstruction",
+          "url": "https://arxiv.org/abs/2611.12603",
+          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Reconstructing audio from brain activity remains challenging. Existing brain-to-audio pipelines typically map neural responses to predefined stimulus representations before synthesis. While recent work in the visual domain has explored…",
+          "authors": "Matteo Ciferri, Tonio Weidler, Matteo Ferrante, Nicola Toschi, Elia Formisano"
+        },
+        {
+          "title": "The Self-Assembling Brain: Emergent Routing and Its Open Challenges",
+          "url": "https://arxiv.org/abs/2611.31629",
+          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Biologically inspired alternatives to backpropagation, such as feedback alignment, relax the requirement for exact synaptic weight symmetry but still presuppose a fixed, pre-wired correspondence between forward and feedback pathways, an…",
+          "authors": "Dongsung Huh"
+        },
+        {
+          "title": "The cyborg fly: reflexes survive engineered actuators, coordination needs stand-ins",
+          "url": "https://arxiv.org/abs/2611.31644",
+          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Two wiring diagrams now cover the whole central nervous system of an adult fruit fly: one female, one male. Can such a diagram, run as a network of spiking neurons, drive a body? And if we swap the body's muscles for engineered actuators,…",
+          "authors": "Mauricio Muñoz Arias"
+        },
+        {
+          "title": "Network topology imposes spectral constraints on collective nonequilibrium responses",
+          "url": "https://arxiv.org/abs/2611.32130",
+          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Collective nonequilibrium dynamics in Langevin systems depend on both network topology and stochastic driving. Understanding the role of topology in responses to stochastic driving and in the emergence of nonequilibrium is essential.…",
+          "authors": "Dingjie Wu, Yaozu Wang, Rong Wang, Ying Wu"
+        },
+        {
+          "title": "Accuracy of Noise Ceiling Estimators for Brain Scores",
+          "url": "https://arxiv.org/abs/2611.32792",
+          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "The internal activations of modern machine learning models align surprisingly well with the activities recorded in real brains. In the last five years, the alignment between encoding models and brain activities, often called brain scores,…",
+          "authors": "Aude Maier, Lucas Gruaz, Martin Schrimpf, Johanni Brea"
+        }
+      ]
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Why Medicare’s 2027 physician pay changes worry some specialists",
+          "url": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/?utm_campaign=rss",
+          "publishedDate": "Wed, 25 Nov 2026 21:28:53 +0000",
+          "source": "statnews.com",
+          "summary": "Cuts to Medicare physician payment rates for certain same-day services could impact some specialists more than others.",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "RFK Jr. weighs in on plan to detonate toxic material in Iowa",
+          "url": "https://www.statnews.com/2026/11/25/health-news-rfk-jr-weighs-in-on-plan-to-detonate-toxic-material-in-iowa/?utm_campaign=rss",
+          "publishedDate": "Wed, 25 Nov 2026 13:03:56 +0000",
+          "source": "statnews.com",
+          "summary": "This morning, the Army plans to detonate a cache of “dangerously degraded” toxic material in Iowa, with experts warning of dangerous health consequences:",
+          "authors": "Amanda Erickson and Jonathan Wosen"
+        },
         {
           "title": "Menopause hormone therapy med popularity increases 141% compared to previous years",
           "url": "https://www.statnews.com/2026/11/24/health-news-menopause-hormone-therapy-med-popularity-increases-141-percent/?utm_campaign=rss",
@@ -44,22 +109,6 @@
           "source": "statnews.com",
           "summary": "The American Diabetes Association has made concrete differences in patient care in the past. Its disarray has experts worried about the future.",
           "authors": "Elizabeth Cooney"
-        },
-        {
-          "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
-          "url": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
-          "publishedDate": "Fri, 20 Nov 2026 20:26:10 +0000",
-          "source": "statnews.com",
-          "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
-          "authors": "Isabella Cueto"
-        },
-        {
-          "title": "STAT+: Medicare pilot will test ‘food is medicine’ and other lifestyle programs to counter chronic diseases",
-          "url": "https://www.statnews.com/2026/11/20/kennedy-food-is-medicine-maha-elevate-pilot/?utm_campaign=rss",
-          "publishedDate": "Fri, 20 Nov 2026 19:04:04 +0000",
-          "source": "statnews.com",
-          "summary": "Medicare does not cover many of the lifestyle interventions that could keep people from getting sick in the first place.",
-          "authors": "Isabella Cueto"
         }
       ]
     },
@@ -69,113 +118,122 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
-          "publishedDate": "Tue, 24 Nov 2026 18:31:52 EST",
+          "title": "World’s largest trial of robotic knee replacement reveals surprising results",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261124055904.htm",
+          "publishedDate": "Wed, 25 Nov 2026 20:04:22 EST",
           "source": "sciencedaily.com",
-          "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA…",
+          "summary": "Robot-assisted knee replacement surgery offers greater surgical precision, but a landmark clinical trial has revealed a surprising limitation. Despite the advanced technology, patients experienced no meaningful improvements in pain,…",
           "authors": ""
         },
         {
-          "title": "STAT+: RFK Jr. spills his calendar into public, but leaves much to the imagination",
-          "url": "https://www.statnews.com/2026/11/24/rfk-jr-calendar-hhs-records-rollout/?utm_campaign=rss",
-          "publishedDate": "Tue, 24 Nov 2026 19:30:29 +0000",
+          "title": "Common sleep and anxiety drugs could be harming aging brains",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm",
+          "publishedDate": "Wed, 25 Nov 2026 06:13:47 EST",
+          "source": "sciencedaily.com",
+          "summary": "Nearly one in three older adults with dementia or other cognitive disorders takes potentially harmful medications that can worsen brain function and increase the risk of hospitalization and premature death. Despite encouraging progress…",
+          "authors": ""
+        },
+        {
+          "title": "Peppermint oil significantly lowers blood pressure in just 20 days",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123231553.htm",
+          "publishedDate": "Wed, 25 Nov 2026 05:53:00 EST",
+          "source": "sciencedaily.com",
+          "summary": "Peppermint oil may have a surprisingly powerful effect on blood pressure. In a randomized study of 40 adults, researchers found that taking small doses twice daily for 20 days lowered systolic blood pressure by an average of 8.5 mmHg.…",
+          "authors": ""
+        },
+        {
+          "title": "Despite stalling in court, Trump restrictions on foreign students have had a chilling effect on enrollment",
+          "url": "https://www.statnews.com/2026/11/25/foreign-students-us-biomedical-science-enrollment-drop-trump/?utm_campaign=rss",
+          "publishedDate": "Wed, 25 Nov 2026 09:30:00 +0000",
           "source": "statnews.com",
-          "summary": "A partially redacted calendar showing health secretary Robert F. Kennedy Jr.’s activities was made public on Tuesday.",
-          "authors": "Chelsea Cirruzzo and Daniel Payne"
+          "summary": "New data show a clear drop in the enrollment of international graduate students, a key piece of the U.S. biomedical workforce.",
+          "authors": "Jonathan Wosen"
         },
         {
-          "title": "Cannabis users develop psychosis years earlier, and the gap grows with age",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123005346.htm",
-          "publishedDate": "Tue, 24 Nov 2026 05:57:44 EST",
+          "title": "Stanford scientists discover 3 hidden brain types behind ADHD and anxiety",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
+          "publishedDate": "Tue, 24 Nov 2026 23:11:59 EST",
           "source": "sciencedaily.com",
-          "summary": "A major analysis of 149 studies found that cannabis users develop psychosis an average of 2.5 years earlier than non-users, with the difference growing to more than six years among adults 30 and older. Researchers warn that…",
+          "summary": "An AI-powered analysis of thousands of children&#039;s brain scans has revealed three distinct brain types underlying ADHD and anxiety that do not neatly fit traditional diagnoses. These hidden biological patterns can appear before a…",
           "authors": ""
         },
         {
-          "title": "Scientists discover a new type of depression that common antidepressants struggle to treat",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
-          "publishedDate": "Tue, 24 Nov 2026 05:47:51 EST",
+          "title": "Scientists discover a hidden gut defense that could prevent colon cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005348.htm",
+          "publishedDate": "Tue, 24 Nov 2026 20:09:43 EST",
           "source": "sciencedaily.com",
-          "summary": "Researchers have discovered a new subtype of depression that may affect nearly one in four people with severe, recurrent, or persistent depression. Known as \"circadian depression,\" it is linked to the body&#039;s internal clock and is…",
+          "summary": "A common antibody in the gut may be a powerful natural defense against colon cancer, with researchers finding that mice lacking it developed more than twice as many tumors. Restoring the antibody eliminated the increased risk, revealing a…",
           "authors": ""
-        },
-        {
-          "title": "Depression may be an early warning sign of Alzheimer&#039;s disease",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261121221134.htm",
-          "publishedDate": "Mon, 23 Nov 2026 19:31:03 EST",
-          "source": "sciencedaily.com",
-          "summary": "Depression in older adults may be more than a mental health concern. Scientists discovered that accumulating tau protein, a hallmark of Alzheimer&#039;s disease, was linked to worsening depressive symptoms in people who still had normal…",
-          "authors": ""
-        },
-        {
-          "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
-          "url": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
-          "publishedDate": "Tue, 24 Nov 2026 00:19:48 +0000",
-          "source": "statnews.com",
-          "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
-          "authors": "John Wilkerson"
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 0,
-      "items": []
+      "itemCount": 6,
+      "items": [
+        {
+          "title": "Agentic Optimization: LLM Agents Select and Configure Algorithms for Engineering Design",
+          "url": "https://arxiv.org/abs/2611.31275",
+          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Engineers solving new multi-objective design problems commonly commit to a multi-objective evolutionary algorithm (MOEA) before seeing a result. The best MOEA differs from benchmark to benchmark. We propose agentic optimization, placing an…",
+          "authors": "Dominic Mashak, Jacob Schrum"
+        },
+        {
+          "title": "LLM Genetic Feature Engineering",
+          "url": "https://arxiv.org/abs/2611.31277",
+          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Feature Engineering is the (traditionally manual) process of constructing derived variables from an existing dataset by combining, transforming, or otherwise manipulating the original data fields to reduce statistical noise and extract…",
+          "authors": "Jonathan Thompson, Razvan Stefanescu, Manoj Varma Namburi, Liuxia Wang"
+        },
+        {
+          "title": "Differential evolution with perturbation for continuous function optimization",
+          "url": "https://arxiv.org/abs/2611.31305",
+          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "This paper presents differential evolution with perturbation (DEP) for continuous function optimization. Differential evolution is a simple and efficient algorithm. Perturbation is the phenomenon that the motion by the contribution of the…",
+          "authors": "Takuya Muto, Michiharu Maeda"
+        },
+        {
+          "title": "Set-based comprehensive learning and particle swarm optimization with memory for discrete optimization problem",
+          "url": "https://arxiv.org/abs/2611.31306",
+          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "This paper describes a novel algorithm of set-based comprehensive learning and particle swarm optimization with memory for discrete optimization problem. Our algorithm is an approach of searching for the best position in a set by referring…",
+          "authors": "Yuta Chikuba, Takahiro Hino, Michiharu Maeda"
+        },
+        {
+          "title": "A steady-state genetic algorithm with multi-ratio seeding and pair exchange for the quadratic knapsack problem",
+          "url": "https://arxiv.org/abs/2611.31529",
+          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "The quadratic knapsack problem (QKP) seeks a subset of items of maximum total linear and pairwise profit whose total weight does not exceed a given capacity. Most QKP heuristics rank items by a profit-to-weight ratio. We show on benchmark…",
+          "authors": "Gaurav Srivastava, Rahul Verma, Alok Singh"
+        },
+        {
+          "title": "The Self-Assembling Brain: Emergent Routing and Its Open Challenges",
+          "url": "https://arxiv.org/abs/2611.31629",
+          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "Biologically inspired alternatives to backpropagation, such as feedback alignment, relax the requirement for exact synaptic weight symmetry but still presuppose a fixed, pre-wired correspondence between forward and feedback pathways, an…",
+          "authors": "Dongsung Huh"
+        }
+      ]
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 6,
+      "itemCount": 1,
       "items": [
         {
-          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
-          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
-          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
-          "source": "techcrunch.com",
-          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
-          "authors": "Sarah Buhr"
-        },
-        {
-          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
-          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
-          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Neuralink human testing has reportedly received one FDA rejection already",
-          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
-          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
-          "source": "techcrunch.com",
-          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
-          "authors": "Devin Coldewey"
-        },
-        {
-          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
-          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
-          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
-          "source": "techcrunch.com",
-          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
-          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
-          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
-          "source": "techcrunch.com",
-          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
-          "authors": "Darrell Etherington"
-        },
-        {
-          "title": "After Neuralink, Max Hodak is building something even wilder",
-          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
-          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
-          "source": "techcrunch.com",
-          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-          "authors": "Connie Loizos"
+          "title": "EEGJev: A System One Decision Model and Benchmark for Multi-Task EEG Question Answering",
+          "url": "https://arxiv.org/abs/2611.32100",
+          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "source": "arxiv.org",
+          "summary": "A single electroencephalographic (EEG) recording can support multiple decoding tasks. Fixed-label tests cannot show how EEG foundation models handle changing questions or options. We introduce EEGJev, a fast decision model that scores…",
+          "authors": "Dengzhe Hou, Kazunori D. Yamada"
         }
       ]
     }
