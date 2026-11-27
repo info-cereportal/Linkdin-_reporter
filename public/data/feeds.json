@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T04:20:34.960Z",
+  "generatedAt": "2026-11-27T04:30:50.041Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
@@ -8,52 +8,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Normative and neural network models of multisensory integration",
-          "url": "https://arxiv.org/abs/2611.32829",
-          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "title": "Differential coupling drives Turing pattern formation in neural fields: a mechanism for Parkinson's disease and deep brain stimulation",
+          "url": "https://arxiv.org/abs/2611.33602",
+          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Animals continuously detect scents, sights and sounds, which their brains combine into diverse multisensory streams. Multisensory integration accelerates learning, increases reaction speeds and helps to resolve sensory ambiguities. In…",
-          "authors": "Marcus Ghosh, John S. Butler"
+          "summary": "Deep brain stimulation (DBS) is an effective treatment for the motor symptoms of Parkinson's disease (PD), yet its mechanism of action remains incompletely understood. Abnormal beta-band synchronization in the basal ganglia and…",
+          "authors": "Ju Kang, Anmin Zheng"
         },
         {
-          "title": "Direct Conditioning of Audio Diffusion Transformers on fMRI Reveals Cortical Contributions to Sound Reconstruction",
-          "url": "https://arxiv.org/abs/2611.12603",
-          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "title": "Multi-view fnirs identifies neurophysiological subtypes in post-stroke aphasia",
+          "url": "https://arxiv.org/abs/2611.34169",
+          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Reconstructing audio from brain activity remains challenging. Existing brain-to-audio pipelines typically map neural responses to predefined stimulus representations before synthesis. While recent work in the visual domain has explored…",
-          "authors": "Matteo Ciferri, Tonio Weidler, Matteo Ferrante, Nicola Toschi, Elia Formisano"
+          "summary": "Post-stroke aphasia is clinically heterogeneous, and conventional classifications may not capture differences in brain functional organisation. We tested whether resting-state and task-based functional near-infrared spectroscopy (fNIRS)…",
+          "authors": "Zijian Kang, Bingbing Lin, Jinglei Ni, Meifang Tian, Wai Ting Siok, Jia Huang, Nizhuan Wang"
         },
         {
-          "title": "The Self-Assembling Brain: Emergent Routing and Its Open Challenges",
-          "url": "https://arxiv.org/abs/2611.31629",
-          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "title": "The Marauder's Map: B\\'ezier Manifolds Reveal Hidden Surfaces for Model Merging and Ensembling",
+          "url": "https://arxiv.org/abs/2611.33353",
+          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Biologically inspired alternatives to backpropagation, such as feedback alignment, relax the requirement for exact synaptic weight symmetry but still presuppose a fixed, pre-wired correspondence between forward and feedback pathways, an…",
-          "authors": "Dongsung Huh"
+          "summary": "Neural circuits are famously more robust than deep networks. This is often explained through degeneracy, where structurally distinct configurations support the same function. However, real biological systems exhibit a more flexible form of…",
+          "authors": "Abhiram Iyer, Mark T. Harnett, Sarthak Chandra"
         },
         {
-          "title": "The cyborg fly: reflexes survive engineered actuators, coordination needs stand-ins",
-          "url": "https://arxiv.org/abs/2611.31644",
-          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "title": "Learning from Natural Images Untangles Number Sense",
+          "url": "https://arxiv.org/abs/2611.33615",
+          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Two wiring diagrams now cover the whole central nervous system of an adult fruit fly: one female, one male. Can such a diagram, run as a network of spiking neurons, drive a body? And if we swap the body's muscles for engineered actuators,…",
-          "authors": "Mauricio Muñoz Arias"
+          "summary": "Numerical cognition is a simple yet fundamental ability that remains challenging for modern vision-language models. Meanwhile, number sense is already present in numerically naïve animals, suggesting that it can emerge without explicit…",
+          "authors": "Yechan Cho, Hyeonsu Lee, Emma Deneuville, Jaeson Jang"
         },
         {
-          "title": "Network topology imposes spectral constraints on collective nonequilibrium responses",
-          "url": "https://arxiv.org/abs/2611.32130",
-          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "title": "Decoupling the clocks of learning and computing in spiking neural networks",
+          "url": "https://arxiv.org/abs/2611.34381",
+          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Collective nonequilibrium dynamics in Langevin systems depend on both network topology and stochastic driving. Understanding the role of topology in responses to stochastic driving and in the emergence of nonequilibrium is essential.…",
-          "authors": "Dingjie Wu, Yaozu Wang, Rong Wang, Ying Wu"
+          "summary": "Biological intelligence thrives on minimal power despite its noisy, imperfect components, with neurons that communicate through voltage spikes. Brain-inspired computing seeks to bring such efficiency to real devices, which requires…",
+          "authors": "Michalis Pagkalos, Panayiota Poirazi"
         },
         {
-          "title": "Accuracy of Noise Ceiling Estimators for Brain Scores",
-          "url": "https://arxiv.org/abs/2611.32792",
-          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "title": "Goxpyriment: A Go Framework for Behavioral and Cognitive Experiments",
+          "url": "https://arxiv.org/abs/2604.15245",
+          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "The internal activations of modern machine learning models align surprisingly well with the activities recorded in real brains. In the last five years, the alignment between encoding models and brain activities, often called brain scores,…",
-          "authors": "Aude Maier, Lucas Gruaz, Martin Schrimpf, Johanni Brea"
+          "summary": "We introduce `Goxpyriment', a new open-source software framework for programming behavioral and cognitive experiments using the Go programming language. The library is designed to address some limitations of existing Python-based…",
+          "authors": "Christophe Pallier, Julie Bonnaire, Marie-France Fourcade"
         }
       ]
     },
@@ -62,6 +62,14 @@
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "STAT+: The grueling struggle to find a primary care doctor in the &#8216;medical capital&#8217; of America",
+          "url": "https://www.statnews.com/2026/11/26/primary-care-appointment-times-doctor-shortage/?utm_campaign=rss",
+          "publishedDate": "Thu, 26 Nov 2026 12:00:00 +0000",
+          "source": "statnews.com",
+          "summary": "Boston is supposed to be the medical capital of America. Yet many don’t have primary care access, hurting their ability to get treatments, screenings, and medical advice.",
+          "authors": "Marin Wolf, Jonathan Saltzman,and and Scooty Nickerson — Boston Globe"
+        },
         {
           "title": "Why Medicare’s 2027 physician pay changes worry some specialists",
           "url": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/?utm_campaign=rss",
@@ -101,14 +109,6 @@
           "source": "statnews.com",
           "summary": "In its first meeting since 2025, an influential panel of doctors evaluating preventive medical care grappled with the ways RFK Jr. has upended science and medicine:",
           "authors": "Amanda Erickson, Chelsea Cirruzzo,and O. Rose Broderick"
-        },
-        {
-          "title": "As diabetes association&#8217;s turmoil continues, what does it mean for patients?",
-          "url": "https://www.statnews.com/2026/11/23/ada-convention-fallout-will-turmoil-impact-patients-research/?utm_campaign=rss",
-          "publishedDate": "Mon, 23 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "The American Diabetes Association has made concrete differences in patient care in the past. Its disarray has experts worried about the future.",
-          "authors": "Elizabeth Cooney"
         }
       ]
     },
@@ -117,6 +117,30 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Common supplements rival antibiotics in treating severe gum disease",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261126033031.htm",
+          "publishedDate": "Thu, 26 Nov 2026 06:43:30 EST",
+          "source": "sciencedaily.com",
+          "summary": "A combination of omega-3 and low-dose aspirin produced results comparable to antibiotics when used alongside standard treatment for severe gum disease, with benefits persisting long after supplementation ended. The surprising discovery…",
+          "authors": ""
+        },
+        {
+          "title": "Loneliness is making us sick, but we may be treating it all wrong",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261124055906.htm",
+          "publishedDate": "Thu, 26 Nov 2026 06:32:30 EST",
+          "source": "sciencedaily.com",
+          "summary": "Loneliness can be surprisingly deadly, with previous research linking it to a roughly 30% increase in the risk of premature death. However, a new study warns that treating loneliness as a medical condition could distract from its deeper…",
+          "authors": ""
+        },
+        {
+          "title": "Too much of this common nutrient could be accelerating blood vessel aging",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261124055847.htm",
+          "publishedDate": "Wed, 25 Nov 2026 22:53:48 EST",
+          "source": "sciencedaily.com",
+          "summary": "Researchers have uncovered a kidney protein that may hold an important key to vascular aging and longevity. The protein helps prevent excess phosphate from accumulating in the blood and gradually turning flexible blood vessels rigid. In…",
+          "authors": ""
+        },
         {
           "title": "World’s largest trial of robotic knee replacement reveals surprising results",
           "url": "https://www.sciencedaily.com/releases/2026/11/261124055904.htm",
@@ -140,30 +164,6 @@
           "source": "sciencedaily.com",
           "summary": "Peppermint oil may have a surprisingly powerful effect on blood pressure. In a randomized study of 40 adults, researchers found that taking small doses twice daily for 20 days lowered systolic blood pressure by an average of 8.5 mmHg.…",
           "authors": ""
-        },
-        {
-          "title": "Despite stalling in court, Trump restrictions on foreign students have had a chilling effect on enrollment",
-          "url": "https://www.statnews.com/2026/11/25/foreign-students-us-biomedical-science-enrollment-drop-trump/?utm_campaign=rss",
-          "publishedDate": "Wed, 25 Nov 2026 09:30:00 +0000",
-          "source": "statnews.com",
-          "summary": "New data show a clear drop in the enrollment of international graduate students, a key piece of the U.S. biomedical workforce.",
-          "authors": "Jonathan Wosen"
-        },
-        {
-          "title": "Stanford scientists discover 3 hidden brain types behind ADHD and anxiety",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
-          "publishedDate": "Tue, 24 Nov 2026 23:11:59 EST",
-          "source": "sciencedaily.com",
-          "summary": "An AI-powered analysis of thousands of children&#039;s brain scans has revealed three distinct brain types underlying ADHD and anxiety that do not neatly fit traditional diagnoses. These hidden biological patterns can appear before a…",
-          "authors": ""
-        },
-        {
-          "title": "Scientists discover a hidden gut defense that could prevent colon cancer",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123005348.htm",
-          "publishedDate": "Tue, 24 Nov 2026 20:09:43 EST",
-          "source": "sciencedaily.com",
-          "summary": "A common antibody in the gut may be a powerful natural defense against colon cancer, with researchers finding that mice lacking it developed more than twice as many tumors. Restoring the antibody eliminated the increased risk, revealing a…",
-          "authors": ""
         }
       ]
     },
@@ -173,52 +173,52 @@
       "itemCount": 6,
       "items": [
         {
-          "title": "Agentic Optimization: LLM Agents Select and Configure Algorithms for Engineering Design",
-          "url": "https://arxiv.org/abs/2611.31275",
-          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "title": "Multi-objectivization Relaxes Multi-funnel Structures in Single-objective NK-landscapes",
+          "url": "https://arxiv.org/abs/2611.33674",
+          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Engineers solving new multi-objective design problems commonly commit to a multi-objective evolutionary algorithm (MOEA) before seeing a result. The best MOEA differs from benchmark to benchmark. We propose agentic optimization, placing an…",
-          "authors": "Dominic Mashak, Jacob Schrum"
+          "summary": "This paper investigated the impacts of multi-objectivization on solving combinatorial single-objective NK-landscape problems with multiple funnel structures. Multi-objectivization re-formulates a single-objective target problem into a…",
+          "authors": "Shoichiro Tanaka, Keiki Takadama, Hiroyuki Sato"
         },
         {
-          "title": "LLM Genetic Feature Engineering",
-          "url": "https://arxiv.org/abs/2611.31277",
-          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "title": "Compressing probabilistic almost-linear recurrent networks without refitting",
+          "url": "https://arxiv.org/abs/2611.34203",
+          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Feature Engineering is the (traditionally manual) process of constructing derived variables from an existing dataset by combining, transforming, or otherwise manipulating the original data fields to reduce statistical noise and extract…",
-          "authors": "Jonathan Thompson, Razvan Stefanescu, Manoj Varma Namburi, Liuxia Wang"
+          "summary": "Can a compressed recurrent network reuse its learned noise model? We applied finite-horizon balanced truncation to ten probabilistic almost-linear networks on delayed recall. Reducing 64 states to 32 without refitting met forecast…",
+          "authors": "F. Olivia Fan, Oliver Obst"
         },
         {
-          "title": "Differential evolution with perturbation for continuous function optimization",
-          "url": "https://arxiv.org/abs/2611.31305",
-          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "title": "Decoupling the clocks of learning and computing in spiking neural networks",
+          "url": "https://arxiv.org/abs/2611.34381",
+          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "This paper presents differential evolution with perturbation (DEP) for continuous function optimization. Differential evolution is a simple and efficient algorithm. Perturbation is the phenomenon that the motion by the contribution of the…",
-          "authors": "Takuya Muto, Michiharu Maeda"
+          "summary": "Biological intelligence thrives on minimal power despite its noisy, imperfect components, with neurons that communicate through voltage spikes. Brain-inspired computing seeks to bring such efficiency to real devices, which requires…",
+          "authors": "Michalis Pagkalos, Panayiota Poirazi"
         },
         {
-          "title": "Set-based comprehensive learning and particle swarm optimization with memory for discrete optimization problem",
-          "url": "https://arxiv.org/abs/2611.31306",
-          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "title": "Is Chaotic Dynamics Enhancing Particle Swarm Optimization? An Anytime Performance Assessment",
+          "url": "https://arxiv.org/abs/2611.34692",
+          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "This paper describes a novel algorithm of set-based comprehensive learning and particle swarm optimization with memory for discrete optimization problem. Our algorithm is an approach of searching for the best position in a set by referring…",
-          "authors": "Yuta Chikuba, Takahiro Hino, Michiharu Maeda"
+          "summary": "The search dynamics of particle swarm optimization (PSO) can be driven by random or chaotic values. We study if there are performance differences between random and chaos if distributional equivalence of the used sequences is observed.…",
+          "authors": "Hendrik Richter"
         },
         {
-          "title": "A steady-state genetic algorithm with multi-ratio seeding and pair exchange for the quadratic knapsack problem",
-          "url": "https://arxiv.org/abs/2611.31529",
-          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "title": "Geometry, masking and selection in Differential Evolution and SOMA on quantum state manifolds",
+          "url": "https://arxiv.org/abs/2611.34217",
+          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "The quadratic knapsack problem (QKP) seeks a subset of items of maximum total linear and pairwise profit whose total weight does not exceed a given capacity. Most QKP heuristics rank items by a profit-to-weight ratio. We show on benchmark…",
-          "authors": "Gaurav Srivastava, Rahul Verma, Alok Singh"
+          "summary": "Differential Evolution (DE) and the Self-Organizing Migrating Algorithm (SOMA) generate new candidates through vector arithmetic: they subtract population members, scale the difference, and mask coordinates. Many practical search spaces…",
+          "authors": "Vojt\\vech Novák, Ivan Zelinka"
         },
         {
-          "title": "The Self-Assembling Brain: Emergent Routing and Its Open Challenges",
-          "url": "https://arxiv.org/abs/2611.31629",
-          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "title": "Predictive Coding Implemented as a Hardware Substrate Computes Gradients faster than Backpropagation",
+          "url": "https://arxiv.org/abs/2603.18066",
+          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "Biologically inspired alternatives to backpropagation, such as feedback alignment, relax the requirement for exact synaptic weight symmetry but still presuppose a fixed, pre-wired correspondence between forward and feedback pathways, an…",
-          "authors": "Dongsung Huh"
+          "summary": "Backpropagation has enabled modern deep learning but is difficult to realize as an online, fully distributed hardware system due to global error propagation, separate phases, and centralized memory. Predictive coding is an alternative…",
+          "authors": "Timothy Oh"
         }
       ]
     },
@@ -228,12 +228,12 @@
       "itemCount": 1,
       "items": [
         {
-          "title": "EEGJev: A System One Decision Model and Benchmark for Multi-Task EEG Question Answering",
-          "url": "https://arxiv.org/abs/2611.32100",
-          "publishedDate": "Wed, 25 Nov 2026 00:00:00 -0500",
+          "title": "ADformer: A Multi-Granularity Spatial-Temporal Transformer for EEG-Based Alzheimer Detection",
+          "url": "https://arxiv.org/abs/2409.00032",
+          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
           "source": "arxiv.org",
-          "summary": "A single electroencephalographic (EEG) recording can support multiple decoding tasks. Fixed-label tests cannot show how EEG foundation models handle changing questions or options. We introduce EEGJev, a fast decision model that scores…",
-          "authors": "Dengzhe Hou, Kazunori D. Yamada"
+          "summary": "Electroencephalography has emerged as a cost-effective, efficient tool to help neurologists detect Alzheimer's Disease. However, most existing approaches rely heavily on manual feature engineering or data transformation. While these…",
+          "authors": "Yihe Wang, Nadia Mammone, Darina Petrovsky, Alexandros T. Tzallas, Francesco C. Morabito, Xiang Zhang"
         }
       ]
     }
