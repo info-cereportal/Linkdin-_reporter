@@ -1,67 +1,34 @@
 {
-  "generatedAt": "2026-11-27T04:30:50.041Z",
+  "generatedAt": "2026-11-28T04:13:03.350Z",
   "schemaVersion": 1,
   "categories": {
     "papers": {
       "label": "最新論文",
       "sublabel": "rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Differential coupling drives Turing pattern formation in neural fields: a mechanism for Parkinson's disease and deep brain stimulation",
-          "url": "https://arxiv.org/abs/2611.33602",
-          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Deep brain stimulation (DBS) is an effective treatment for the motor symptoms of Parkinson's disease (PD), yet its mechanism of action remains incompletely understood. Abnormal beta-band synchronization in the basal ganglia and…",
-          "authors": "Ju Kang, Anmin Zheng"
-        },
-        {
-          "title": "Multi-view fnirs identifies neurophysiological subtypes in post-stroke aphasia",
-          "url": "https://arxiv.org/abs/2611.34169",
-          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Post-stroke aphasia is clinically heterogeneous, and conventional classifications may not capture differences in brain functional organisation. We tested whether resting-state and task-based functional near-infrared spectroscopy (fNIRS)…",
-          "authors": "Zijian Kang, Bingbing Lin, Jinglei Ni, Meifang Tian, Wai Ting Siok, Jia Huang, Nizhuan Wang"
-        },
-        {
-          "title": "The Marauder's Map: B\\'ezier Manifolds Reveal Hidden Surfaces for Model Merging and Ensembling",
-          "url": "https://arxiv.org/abs/2611.33353",
-          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Neural circuits are famously more robust than deep networks. This is often explained through degeneracy, where structurally distinct configurations support the same function. However, real biological systems exhibit a more flexible form of…",
-          "authors": "Abhiram Iyer, Mark T. Harnett, Sarthak Chandra"
-        },
-        {
-          "title": "Learning from Natural Images Untangles Number Sense",
-          "url": "https://arxiv.org/abs/2611.33615",
-          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Numerical cognition is a simple yet fundamental ability that remains challenging for modern vision-language models. Meanwhile, number sense is already present in numerically naïve animals, suggesting that it can emerge without explicit…",
-          "authors": "Yechan Cho, Hyeonsu Lee, Emma Deneuville, Jaeson Jang"
-        },
-        {
-          "title": "Decoupling the clocks of learning and computing in spiking neural networks",
-          "url": "https://arxiv.org/abs/2611.34381",
-          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Biological intelligence thrives on minimal power despite its noisy, imperfect components, with neurons that communicate through voltage spikes. Brain-inspired computing seeks to bring such efficiency to real devices, which requires…",
-          "authors": "Michalis Pagkalos, Panayiota Poirazi"
-        },
-        {
-          "title": "Goxpyriment: A Go Framework for Behavioral and Cognitive Experiments",
-          "url": "https://arxiv.org/abs/2604.15245",
-          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "We introduce `Goxpyriment', a new open-source software framework for programming behavioral and cognitive experiments using the Go programming language. The library is designed to address some limitations of existing Python-based…",
-          "authors": "Christophe Pallier, Julie Bonnaire, Marie-France Fourcade"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "market": {
       "label": "MARKET / 産業動向",
       "sublabel": "statnews.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "The stories we’re grateful for this year",
+          "url": "https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/?utm_campaign=rss",
+          "publishedDate": "Fri, 27 Nov 2026 15:49:05 +0000",
+          "source": "statnews.com",
+          "summary": "STAT staffers have put together a list of the stories we’re thankful for this year — check out our favorites.",
+          "authors": "O. Rose Broderick"
+        },
+        {
+          "title": "Pregnancy is the &#8216;perfect storm&#8217; for eating disorders, but doctors keep missing them",
+          "url": "https://www.statnews.com/2026/11/27/pregnancy-eating-disorders-expanded-doctor-screening-needed/?utm_campaign=rss",
+          "publishedDate": "Fri, 27 Nov 2026 09:30:00 +0000",
+          "source": "statnews.com",
+          "summary": "Many women struggle with eating disorders before and after childbirth, but they often slip through the cracks of the U.S. health care system.",
+          "authors": "Gabriela Galvin"
+        },
         {
           "title": "STAT+: The grueling struggle to find a primary care doctor in the &#8216;medical capital&#8217; of America",
           "url": "https://www.statnews.com/2026/11/26/primary-care-appointment-times-doctor-shortage/?utm_campaign=rss",
@@ -93,22 +60,6 @@
           "source": "statnews.com",
           "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
           "authors": "Theresa Gaffney and Annalisa Merelli"
-        },
-        {
-          "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
-          "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
-          "publishedDate": "Mon, 23 Nov 2026 21:23:42 +0000",
-          "source": "statnews.com",
-          "summary": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year.",
-          "authors": "Jason Mast"
-        },
-        {
-          "title": "At first preventive services panel meeting in more than a year, votes are cast in private",
-          "url": "https://www.statnews.com/2026/11/23/health-news-preventive-services-panel-votes-cast-in-private/?utm_campaign=rss",
-          "publishedDate": "Mon, 23 Nov 2026 13:04:19 +0000",
-          "source": "statnews.com",
-          "summary": "In its first meeting since 2025, an influential panel of doctors evaluating preventive medical care grappled with the ways RFK Jr. has upended science and medicine:",
-          "authors": "Amanda Erickson, Chelsea Cirruzzo,and O. Rose Broderick"
         }
       ]
     },
@@ -117,6 +68,38 @@
       "sublabel": "statnews.com + sciencedaily.com",
       "itemCount": 6,
       "items": [
+        {
+          "title": "Breathing less oxygen tripled lifespan in mice with a deadly brain disorder",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261125045304.htm",
+          "publishedDate": "Fri, 27 Nov 2026 04:38:19 EST",
+          "source": "sciencedaily.com",
+          "summary": "Oxygen is essential for life, but too much of it can become dangerously toxic, particularly in people with certain neurological and mitochondrial disorders. Scientists at Gladstone Institutes have discovered that defective proteins can…",
+          "authors": ""
+        },
+        {
+          "title": "One type of physical activity is linked to a 20% higher dementia risk",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261125045246.htm",
+          "publishedDate": "Fri, 27 Nov 2026 03:45:06 EST",
+          "source": "sciencedaily.com",
+          "summary": "A massive study has revealed that exercising for pleasure and performing physical labor at work may have surprisingly different implications for brain health. While recreational exercise was linked to a 24% lower dementia risk, physically…",
+          "authors": ""
+        },
+        {
+          "title": "A fat-burning molecule has an unexpected benefit for your muscles",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261126063315.htm",
+          "publishedDate": "Thu, 26 Nov 2026 23:42:17 EST",
+          "source": "sciencedaily.com",
+          "summary": "Researchers have discovered that a naturally occurring molecule released during exercise helps muscles become stronger, resist fatigue, and withstand damage. The molecule, already available as a dietary supplement, could open new avenues…",
+          "authors": ""
+        },
+        {
+          "title": "This dietary supplement may have an unexpected benefit for the brain",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261125045311.htm",
+          "publishedDate": "Thu, 26 Nov 2026 18:34:32 EST",
+          "source": "sciencedaily.com",
+          "summary": "A naturally derived dietary supplement called urolithin A may help the brain get more oxygen and nutrients when it needs them most. In a randomized clinical trial involving 50 middle-aged adults with obesity, researchers found that taking…",
+          "authors": ""
+        },
         {
           "title": "Common supplements rival antibiotics in treating severe gum disease",
           "url": "https://www.sciencedaily.com/releases/2026/11/261126033031.htm",
@@ -132,108 +115,67 @@
           "source": "sciencedaily.com",
           "summary": "Loneliness can be surprisingly deadly, with previous research linking it to a roughly 30% increase in the risk of premature death. However, a new study warns that treating loneliness as a medical condition could distract from its deeper…",
           "authors": ""
-        },
-        {
-          "title": "Too much of this common nutrient could be accelerating blood vessel aging",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261124055847.htm",
-          "publishedDate": "Wed, 25 Nov 2026 22:53:48 EST",
-          "source": "sciencedaily.com",
-          "summary": "Researchers have uncovered a kidney protein that may hold an important key to vascular aging and longevity. The protein helps prevent excess phosphate from accumulating in the blood and gradually turning flexible blood vessels rigid. In…",
-          "authors": ""
-        },
-        {
-          "title": "World’s largest trial of robotic knee replacement reveals surprising results",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261124055904.htm",
-          "publishedDate": "Wed, 25 Nov 2026 20:04:22 EST",
-          "source": "sciencedaily.com",
-          "summary": "Robot-assisted knee replacement surgery offers greater surgical precision, but a landmark clinical trial has revealed a surprising limitation. Despite the advanced technology, patients experienced no meaningful improvements in pain,…",
-          "authors": ""
-        },
-        {
-          "title": "Common sleep and anxiety drugs could be harming aging brains",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm",
-          "publishedDate": "Wed, 25 Nov 2026 06:13:47 EST",
-          "source": "sciencedaily.com",
-          "summary": "Nearly one in three older adults with dementia or other cognitive disorders takes potentially harmful medications that can worsen brain function and increase the risk of hospitalization and premature death. Despite encouraging progress…",
-          "authors": ""
-        },
-        {
-          "title": "Peppermint oil significantly lowers blood pressure in just 20 days",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123231553.htm",
-          "publishedDate": "Wed, 25 Nov 2026 05:53:00 EST",
-          "source": "sciencedaily.com",
-          "summary": "Peppermint oil may have a surprisingly powerful effect on blood pressure. In a randomized study of 40 adults, researchers found that taking small doses twice daily for 20 days lowered systolic blood pressure by an average of 8.5 mmHg.…",
-          "authors": ""
         }
       ]
     },
     "aineuro": {
       "label": "AI for NEURO",
       "sublabel": "rss.arxiv.org + rss.arxiv.org",
-      "itemCount": 6,
-      "items": [
-        {
-          "title": "Multi-objectivization Relaxes Multi-funnel Structures in Single-objective NK-landscapes",
-          "url": "https://arxiv.org/abs/2611.33674",
-          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "This paper investigated the impacts of multi-objectivization on solving combinatorial single-objective NK-landscape problems with multiple funnel structures. Multi-objectivization re-formulates a single-objective target problem into a…",
-          "authors": "Shoichiro Tanaka, Keiki Takadama, Hiroyuki Sato"
-        },
-        {
-          "title": "Compressing probabilistic almost-linear recurrent networks without refitting",
-          "url": "https://arxiv.org/abs/2611.34203",
-          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Can a compressed recurrent network reuse its learned noise model? We applied finite-horizon balanced truncation to ten probabilistic almost-linear networks on delayed recall. Reducing 64 states to 32 without refitting met forecast…",
-          "authors": "F. Olivia Fan, Oliver Obst"
-        },
-        {
-          "title": "Decoupling the clocks of learning and computing in spiking neural networks",
-          "url": "https://arxiv.org/abs/2611.34381",
-          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Biological intelligence thrives on minimal power despite its noisy, imperfect components, with neurons that communicate through voltage spikes. Brain-inspired computing seeks to bring such efficiency to real devices, which requires…",
-          "authors": "Michalis Pagkalos, Panayiota Poirazi"
-        },
-        {
-          "title": "Is Chaotic Dynamics Enhancing Particle Swarm Optimization? An Anytime Performance Assessment",
-          "url": "https://arxiv.org/abs/2611.34692",
-          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "The search dynamics of particle swarm optimization (PSO) can be driven by random or chaotic values. We study if there are performance differences between random and chaos if distributional equivalence of the used sequences is observed.…",
-          "authors": "Hendrik Richter"
-        },
-        {
-          "title": "Geometry, masking and selection in Differential Evolution and SOMA on quantum state manifolds",
-          "url": "https://arxiv.org/abs/2611.34217",
-          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Differential Evolution (DE) and the Self-Organizing Migrating Algorithm (SOMA) generate new candidates through vector arithmetic: they subtract population members, scale the difference, and mask coordinates. Many practical search spaces…",
-          "authors": "Vojt\\vech Novák, Ivan Zelinka"
-        },
-        {
-          "title": "Predictive Coding Implemented as a Hardware Substrate Computes Gradients faster than Backpropagation",
-          "url": "https://arxiv.org/abs/2603.18066",
-          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Backpropagation has enabled modern deep learning but is difficult to realize as an online, fully distributed hardware system due to global error propagation, separate phases, and centralized memory. Predictive coding is an alternative…",
-          "authors": "Timothy Oh"
-        }
-      ]
+      "itemCount": 0,
+      "items": []
     },
     "bci": {
       "label": "BCI / ニューラルインターフェース",
       "sublabel": "techcrunch.com + rss.arxiv.org +1",
-      "itemCount": 1,
+      "itemCount": 6,
       "items": [
         {
-          "title": "ADformer: A Multi-Granularity Spatial-Temporal Transformer for EEG-Based Alzheimer Detection",
-          "url": "https://arxiv.org/abs/2409.00032",
-          "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-          "source": "arxiv.org",
-          "summary": "Electroencephalography has emerged as a cost-effective, efficient tool to help neurologists detect Alzheimer's Disease. However, most existing approaches rely heavily on manual feature engineering or data transformation. While these…",
-          "authors": "Yihe Wang, Nadia Mammone, Darina Petrovsky, Alexandros T. Tzallas, Francesco C. Morabito, Xiang Zhang"
+          "title": "BrainQ aims to cure stroke and spinal cord injuries through mind-reader tech",
+          "url": "https://techcrunch.com/2018/02/27/brainq-aims-to-cure-stroke-and-spinal-cord-injuries-through-mind-reader-tech/",
+          "publishedDate": "Tue, 27 Feb 2018 18:34:06 +0000",
+          "source": "techcrunch.com",
+          "summary": "Israel-based BrainQ is a new neurotech startup hoping to take on brain-computer interface (BCI) companies Kernel and Neuralink. But it's early days in this industry, including for BrainQ, which plans to use a non-surgically embedded EEG…",
+          "authors": "Sarah Buhr"
+        },
+        {
+          "title": "Elon Musk-backed Neuralink to detail its progress on upgrading the brain to keep pace with AI",
+          "url": "https://techcrunch.com/2019/07/12/elon-musk-backed-neuralink-to-detail-its-progress-on-upgrading-the-brain-to-keep-pace-with-ai/",
+          "publishedDate": "Fri, 12 Jul 2019 14:02:04 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk&#8217;s brain computer interface (BCI) venture Neuralink will provide some more insight into what they&#8217;ve been working on for the past two years, during which time we&#8217;ve heard very little in the way of updates on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Neuralink human testing has reportedly received one FDA rejection already",
+          "url": "https://techcrunch.com/2023/03/02/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/",
+          "publishedDate": "Thu, 02 Mar 2023 18:15:34 +0000",
+          "source": "techcrunch.com",
+          "summary": "Neuralink&#8217;s ambition to provide a brain-computer interface orders of magnitude better than what&#8217;s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company&#8217;s application to…",
+          "authors": "Devin Coldewey"
+        },
+        {
+          "title": "Elon Musk sets update on brain-computer interface company Neuralink for August 28",
+          "url": "https://techcrunch.com/2020/07/09/elon-musk-sets-update-on-brain-computer-interface-company-neuralink-for-august-28/",
+          "publishedDate": "Thu, 09 Jul 2020 12:59:03 +0000",
+          "source": "techcrunch.com",
+          "summary": "Elon Musk said on Twitter this week that Neuralink, the company he founded in 2016 to develop computer-brain interfaces for the explicit purpose of helping humans keep pace with advanced artificial intelligence, will provide an update on…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "Researchers create first mind-controlled robot arm that works well without surgery",
+          "url": "https://techcrunch.com/2019/06/20/researchers-create-first-mind-controlled-robot-arm-that-works-well-without-surgery/",
+          "publishedDate": "Thu, 20 Jun 2019 17:19:21 +0000",
+          "source": "techcrunch.com",
+          "summary": "Carnegie Mellon researchers working with peers from the University of Minnesota have made a big breakthrough in brain-computer interface (BCI) and robotic technology: They&#8217;ve developed a way for a person to control a robot arm with…",
+          "authors": "Darrell Etherington"
+        },
+        {
+          "title": "After Neuralink, Max Hodak is building something even wilder",
+          "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/",
+          "publishedDate": "Fri, 05 Dec 2025 12:56:47 +0000",
+          "source": "techcrunch.com",
+          "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
+          "authors": "Connie Loizos"
         }
       ]
     }

@@ -1,29 +1,23 @@
 {
-  "generatedAt": "2026-11-27T04:30:49.782Z",
-  "date": "2026-11-27",
-  "topic": "スパイキングニューラルネットワーク(SNN)と学習",
-  "templateName": "data-driven",
+  "generatedAt": "2026-11-28T04:13:02.805Z",
+  "date": "2026-11-28",
+  "topic": "深層学習と学習",
+  "templateName": "three-insights",
   "riskScore": 0,
-  "paperTitle": "Decoupling the clocks of learning and computing in spiking neural networks",
-  "paperLink": "https://arxiv.org/abs/2611.34381",
-  "figureUrl": "https://arxiv.org/html/2611.34381/2611.34381v1/fig2.png",
-  "formatted": "研究者もエンジニアも、この論文は必読です。\n\n数字が語る、スパイキングニューラルネットワーク(SNN)と学習の新事実。\n\n最新の研究がインパクトのあるデータを示しています。\n\n🔬 スパイキングニューラルネットワーク(SNN) × 学習 × 脳型 × 記憶\n\n📊 注目すべきデータ：\n→ Compared with backpropagation through time, ChronoProp reaches similar accuracy in image classification, with about 3 times less training time and 20 times less memory at the...\n\nなぜこの数字が重要か。\n\nニューロAI・計算論において、\n定量的な裏付けのある知見は\n仮説から「科学的事実」への転換点になり得る。\n\n再現性と実用性の両立——\nこの研究はその道筋を明確に示しています。\n\n📄 Decoupling the clocks of learning and computing in spiking neural networks\n🔗 https://arxiv.org/abs/2611.34381\n\n---\n\nあなたの分野から見て、この知見はどう映りますか？\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #BCI #NeuralDecoding",
-  "summaryJP": "スパイキングニューラルネットワーク(SNN)と学習 — 数値で示された新事実（ニューロAI・計算論）",
-  "paperAuthors": "Michalis Pagkalos, Panayiota Poirazi",
-  "publishedDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-  "paperId": "2611.34381",
-  "paperSource": "arxiv",
+  "paperTitle": "Bridging Fidelity and Latency: Conditional Flow Matching with CNN-Mamba Hybrid Architecture for EEG Denoising.",
+  "paperLink": "https://pubmed.ncbi.nlm.nih.gov/43102856/",
+  "formatted": "10年後「あの論文が転換点だった」と言われるかもしれない。\n\nこの研究から得られる3つの重要な示唆。\n\n深層学習と学習の最新成果を整理しました。\n\n🔬 EEG × 深層学習 × 学習\n\n📊 注目すべきデータ：\n→ Deep learning has fundamentally revolutionized electroencephalography (EEG) denoising, yet existing approaches face a key trade-off: discriminative models offer speed but often...\n→ To bridge this gap between fidelity and latency, we propose E4D (Effective and Efficient EEG Denoising), a novel framework based on conditional Flow Matching.\n→ Furthermore, to efficiently learn the intrinsic characteristics of EEG data, we design a novel CNN-Mamba hybrid backbone.\n\n①【方法論の革新】\nこの研究が採用したアプローチ自体が、\nニューロAI・計算論の今後の標準になり得る。\n\n②【分野横断の波及効果】\n神経科学に留まらず、\nAI設計やデータサイエンスへの応用可能性が高い。\n\n③【未解決の問い】\nこの成果が新たに投げかける問いにも注目すべき。\n次のブレイクスルーの種はここにある。\n\n📄 Bridging Fidelity and Latency: Conditional Flow Matching with CNN-Mamba Hybrid Architecture for EEG Denoising.\n🔗 https://pubmed.ncbi.nlm.nih.gov/43102856/\n\n---\n\n保存して後で読み返す価値がある研究です。いいね＆シェアで広めてください。\n\n#Neuroscience #脳科学 #ComputationalNeuroscience #脳情報 #認知科学",
+  "summaryJP": "深層学習と学習 — 注目すべき3つの示唆（ニューロAI・計算論）",
+  "paperAuthors": "Xiangsen Liu, Xiao Chen, Yinyu Lan, Simeng Wu, Yufei Yuan, Mian Guo",
+  "publishedDate": "2026-11-27",
+  "paperId": "43102856",
+  "paperSource": "pubmed",
   "themeArea": "ニューロAI・計算論",
   "jpKeywords": [
-    "スパイキングニューラルネットワーク(SNN)",
-    "学習",
-    "脳型",
-    "記憶"
+    "EEG",
+    "深層学習",
+    "学習"
   ],
-  "abstractExcerpt": "Biological intelligence thrives on minimal power despite its noisy, imperfect components, with neurons that communicate through voltage spikes. Brain-inspired computing seeks to bring such efficiency to real devices, which requires…",
-  "figureUrls": [
-    "https://arxiv.org/html/2611.34381/2611.34381v1/fig2.png",
-    "https://arxiv.org/html/2611.34381/2611.34381v1/fig3.png",
-    "https://arxiv.org/html/2611.34381/2611.34381v1/fig4.png"
-  ]
+  "abstractExcerpt": "Deep learning has fundamentally revolutionized electroencephalography (EEG) denoising, yet existing approaches face a key trade-off: discriminative models offer speed but often compromise neural signal fidelity through over-smoothing,…",
+  "figureUrls": []
 }
